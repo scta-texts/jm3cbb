@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 36</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 36</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="147-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e89643"><!-- l3d37q36 -->
+        <head xml:id="jm3cbb-e89643-Hd1e99">Quaestio 36</head>
+        <head xml:id="jm3cbb-e89643-Hd1e101" type="question-title">An quilibet obligatur solvere decimas</head>
+        <p xml:id="jm3cbb-e89643-d1e104">
+          <lb ed="#P" n="73"/>Queritur xxxui. 
+          circa<lb ed="#P" n="74" break="no"/>precepta decalogi: an quilibet 
+          <lb ed="#P" n="75"/>obligatur soluere decimas: quia 
+          <lb ed="#P" n="76"/>hoc spectat ad furtum et ad 
+          de<lb ed="#P" n="77" break="no"/>tentionem alieni: et sic contra vnum 
+          <lb ed="#P" n="78"/>preceptum decalogi.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e120">
+          ¶ 
+          Suppo<lb ed="#P" n="79" break="no"/>natur quod multiplex est decima. 
+          <lb ed="#P" n="80"/>Quedam praedialis: scilcet de his qua veniunt ex praediis. Alia 
+          <lb ed="#P" n="81"/>personalis: sclcet de his quae proueniunt ex negociatone / 
+          ar<lb ed="#P" n="82" break="no"/>tificio / militia / venatione / et huiusmodi industriis 
+          perso<lb ed="#P" n="83" break="no"/>narum. Alie sunt decime mixte quae proueniunt de 
+          animali<lb ed="#P" n="84" break="no"/>bus et illorum fetibus: quae partim sunt praediales a praediis de qui 
+          <lb ed="#P" n="85"/>bus viuunt: partim personales / propter custodiam et curam 
+          <lb ed="#P" n="86"/>quae de eis habetur
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e140">
+          ¶ Ulterius supponatur: quod theologos 
+          <lb ed="#P" n="87"/>hic canoniste hereticos vocant: quia dicunt decimas 
+          <lb ed="#P" n="88"/>non esse de iure diuino. sic Anthonius de bu. dicit. 
+          <lb ed="#P" n="89"/>et vide Panor. extra de decimis. c. in aliquibus. 
+          pro<lb ed="#P" n="90" break="no"/>pterea ponam conclusiones titulo quaestionis 
+          responsi<lb ed="#P" n="91" break="no"/>uas.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e154">
+          ¶ Prima est: soluere decimas erat de ire 
+          di<lb ed="#P" n="92" break="no"/>uino tpe legis moysaice.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e159">
+          ¶ Secunda conclusio: non est 
+          <lb ed="#P" n="93"/>nunc de iure diuio soluere quotam decimalem praelato. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e164">
+          <lb ed="#P" n="94"/>¶ Tertia conclusio: solum est de iure humano soluere 
+          <lb ed="#P" n="95"/>illam quotam et quidem maximi potestificis in aliquibus locis. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e171">
+          <lb ed="#P" n="96"/>¶ Quarta conclusio: de iure diuino est dare aliquam 
+          <lb ed="#P" n="97"/>quotam praelato ecclie pro eius nutrimento.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e178">
+          ¶ Prima 
+          con<lb ed="#P" n="98" break="no"/>clusio probatur sic. Exondi. xxii. decimas tuas 
+          primi<lb ed="#P" n="99" break="no"/>tias non tardabis offerre. et Numerorum. xhyiii. 
+          ecce<lb ed="#P" n="100" break="no"/>dedi tibi custodiam primitiarum mearum: omnia qua 
+          sanctifi<lb ed="#P" n="101" break="no"/>cantur a filiis isrl tibi tradidi et filiis tuis pro 
+          offi<lb ed="#P" n="102" break="no"/>cio sacerdotali legittima sempiterna. hec ergo ac 
+          <lb ed="#P" n="103"/>cipies de his quae sacrificanturet oblata sunt domno. Ominis 
+          <lb ed="#P" n="104"/>oblatio et sacrificium / et quicquid pro peccato atque delicto 
+          <lb ed="#P" n="105"/>redditur michi / et cedet in sancta sancatorum / tuum erit et 
+          <lb ed="#P" n="106"/>filiorum tuorum. et paulopost. filiis autem leui 
+          dedi<lb ed="#P" n="107" break="no"/>omnes decimas israelis in possessionem pro minsterio quae 
+          <lb ed="#P" n="108"/>seruiunt michi in tabernaculo federis: vt non 
+          acce<lb ed="#P" n="109" break="no"/>dant vltra filii isrulus ad tabernaculum federis: nec 
+          con<lb ed="#P" n="110" break="no"/>mittat peccatum mortiferum: solis filiis leui mihi in 
+          ta<lb ed="#P" n="111" break="no"/>bernacul suientibus et portantibus pcctam pposoli: legittimum 
+          <lb ed="#P" n="112"/>sempiternum erit in generationibus vestris. Et 
+          deu<lb ed="#P" n="113" break="no"/>tero. xii. cum legislator ppostoluo ingressuro terram 
+          promis<lb ed="#P" n="114" break="no"/>sionis praecepit praescindere lucos gentium: subiunxit: non 
+          <lb ed="#P" n="115"/>facietis ita domino deo vestro: sed ad locum quem 
+          elige<lb ed="#P" n="116" break="no"/>rit domins deus vester de cunctis tribubus vestris: vt 
+          po<lb ed="#P" n="117" break="no"/>nam nomen suum ibi: et habitet in eo: venietis et 
+          offe<lb ed="#P" n="118" break="no"/>retis in eo loco holocausta / et victimas vestras. 
+          <lb ed="#P" n="119"/>decimas et primitias manuum vestrarum / vota 
+          <lb ed="#P" n="120"/>atqum donaria / primogenita boumet ouim. Et 
+          <pb ed="#P" n="147-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Deuteronomii. xiiii. decimam partem separabis de 
+          <lb ed="#P" n="2"/>cunctis frugibus tuis quae nascuntur in terra per annos 
+          <lb ed="#P" n="3"/>singulos: et comedes in conspectu domni dei tui 
+          in<lb ed="#P" n="4" break="no"/>loco quem elegerit: vt in eo nomen illius 
+          inuoce<lb ed="#P" n="5" break="no"/>tur. Decimam frumenti tui / vini / et olei / et 
+          pri<lb ed="#P" n="6" break="no"/>mogenita de armentis et ouibus tuis: vt discas 
+          <lb ed="#P" n="7"/>timere dominum deum tuum in omni tempore. 
+          <lb ed="#P" n="8"/>et in fine concludens ne decipiatur leuita) cui 
+          noster<lb ed="#P" n="9" break="no"/>prelatus aliquo modo succedit) dicit. Caue ne 
+          de<lb ed="#P" n="10" break="no"/>relinquas eam: quia non habet aliam partem in 
+          <lb ed="#P" n="11"/>possessione tua.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e259">
+          ¶ Secundam conclusionem 
+          pro<lb ed="#P" n="12" break="no"/>babimus ostendentes si heresis aliqua sii: quod illa 
+          <lb ed="#P" n="13"/>canoniste irretiti sunt. Et arguitur sic: cerimonia 
+          <lb ed="#P" n="14"/>lia legis moysaice et iudicialia eiusdem nunc 
+          ro<lb ed="#P" n="15" break="no"/>bur nullum habent: vt alibi locupletius 
+          ostendi<lb ed="#P" n="16" break="no"/>mus: et hoc est de fide. modo soluere decimam quo 
+          <lb ed="#P" n="17"/>tam sacerdoti vel leuite / non est preceptum 
+          mora<lb ed="#P" n="18" break="no"/>le: cum nec sit principiumi practicum euidens ex 
+          <lb ed="#P" n="19"/>terminis / vel conclusio inde deducta. quero abs 
+          <lb ed="#P" n="20"/>te dmiine canonista de bonitate huius consequentie: 
+          <lb ed="#P" n="21"/>prelatus ecclesie est nutriendus a populo pro quo 
+          <lb ed="#P" n="22"/>intercedit ad domim: ergo danda est ei decima pars 
+          <lb ed="#P" n="23"/>ad eius nutrimentum: et palam est inllumine 
+          na<lb ed="#P" n="24" break="no"/>turali quod est nulla: nec illud antecedens plus infert 
+          <lb ed="#P" n="25"/>illud connsequens de decima danda quam de 
+          vndeci<lb ed="#P" n="26" break="no"/>ma vel octaua parte: et ita de quocunque 
+          antecedem<lb ed="#P" n="27" break="no"/>te vero quod assumere potes. si antecedens 
+          im<lb ed="#P" n="28" break="no"/>possibile assumpseris: inferendo quod danda est quo 
+          <lb ed="#P" n="29"/>ta decimarum: eo quod ex impossibili sequituri 
+          quodli<lb ed="#P" n="30" break="no"/>bet: satius estiibi te continere in pelle tua quam ad 
+          in<lb ed="#P" n="31" break="no"/>tricaturas nodosas te conuertere. et tunc sic: non 
+          <lb ed="#P" n="32"/>est preceptum morae: ergo nunc robur nullum 
+          ha<lb ed="#P" n="33" break="no"/>hbet inquantum huiusmodi. Ista consequentia est 
+          <lb ed="#P" n="34"/>de fide. et antecedens est tibi certum: ergo conse 
+          <lb ed="#P" n="35"/>quens tibi non est ambiguum: quia ex 
+          antecedem<lb ed="#P" n="36" break="no"/>te et consequentia certa vtrobique infertur 
+          conse<lb ed="#P" n="37" break="no"/>quens certum. Solutio quote denarie in lege moy 
+          <lb ed="#P" n="38"/>saica erat preceptum iudiciale. quod non morale iam 
+          <lb ed="#P" n="39"/>ostendimus. Cerimonialia seruare est 
+          iudassa<lb ed="#P" n="40" break="no"/>re: quia representabant aliquid circa messiam 
+          fu<lb ed="#P" n="41" break="no"/>turum (qui iam ab annis mil. cccccxvii. venit vt 
+          <lb ed="#P" n="42"/>fide notum est. et non est preceptum morale nec 
+          <lb ed="#P" n="43"/>cerimoniule relinquitur quod est iudiciale. 
+          Mo<lb ed="#P" n="44" break="no"/>do nullum tale iam obligat inquantum 
+          huiusmo<lb ed="#P" n="45" break="no"/>di: alias oporteret seruare legem talionis et 
+          exo<lb ed="#P" n="46" break="no"/>di. principes christiani possunt tamen his legibus vti. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e338">
+          <lb ed="#P" n="47"/>¶ Rursus. non minus heresis est asserere aliquid 
+          <lb ed="#P" n="48"/>esse de fide quod nullatenus est de fide / quam 
+          nega<lb ed="#P" n="49" break="no"/>renliquid de fide quod est de fide. qui pede 
+          fixo<lb ed="#P" n="50" break="no"/>teneret quod relatio distinguitur a fundamento et 
+          ter<lb ed="#P" n="51" break="no"/>mino vel oppositum esset de fide: homo temerarius 
+          <lb ed="#P" n="52"/>a cetu proborum explandendus esset: sic est de casu 
+          <lb ed="#P" n="53"/>tuo: igitur.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e356">
+          ¶ Preterea: si dare quotam denariam 
+          <lb ed="#P" n="54"/>prelato est de iure diuino: sequitur hec conclusio. quod 
+          <lb ed="#P" n="55"/>quilibet non dans decim in de quibuscunque rebus suis 
+          <lb ed="#P" n="56"/>vino / oleo / feno / lana /et huismodi. peccabit: et sic et 
+          <lb ed="#P" n="57"/>orientales et occidentales peccato obnoxios 
+          red<lb ed="#P" n="58" break="no"/>des: quorum plurimi de multis rebus talem quo 
+          <lb ed="#P" n="59"/>tam non dant. consequentia tenet: quia non est via 
+          <lb ed="#P" n="60"/>excusandieos alia aconsuetudine locit prescri¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ptione in oppositum. sed contra: ius diuinum non 
+          <lb ed="#P" n="62"/>est consuetudo / neque prescriptio: igitur.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e380">
+          ¶ 
+          Am<lb ed="#P" n="63" break="no"/>plius: si dare decimas sacerdoti esset de iure 
+          diui<lb ed="#P" n="64" break="no"/>no: de eodem iure esset quod curati et episcopi darent 
+          <lb ed="#P" n="65"/>decimam de suis decimis maximo pontifici: 
+          con<lb ed="#P" n="66" break="no"/>sequens est falsum: quia nec hoc datur / nec potest 
+          ostemn<lb ed="#P" n="67" break="no"/>di quod inferiores maximo pontifici illam quotam 
+          da<lb ed="#P" n="68" break="no"/>re debeant. cosequentiam tamen probo: quia illa 
+          <lb ed="#P" n="69"/>que eadem connexione precipiuntur equalit 
+          obli<lb ed="#P" n="70" break="no"/>gant: sed dare decimam decimarum summo 
+          pon<lb ed="#P" n="71" break="no"/>tifici simul precipitur cum datione decime ipsi 
+          tri<lb ed="#P" n="72" break="no"/>bui leuitice. Numeri. xviii. ca. precipitur 
+          inferiori<lb ed="#P" n="73" break="no"/>bus leuiticis dare decimam decimarum: scilbet 
+          sa<lb ed="#P" n="74" break="no"/>cerdoti summo: quia sic dicit littera numerorum. 
+          <lb ed="#P" n="75"/>loquutusque est dominus ad moysen dicens: 
+          pre<lb ed="#P" n="76" break="no"/>cipe leuitis atque denuncia cum acceperitis 
+          deci<lb ed="#P" n="77" break="no"/>mas a filiis israel quas dedi vobis: primitias 
+          ea<lb ed="#P" n="78" break="no"/>rum offerte domino: id est decimam partem 
+          deci<lb ed="#P" n="79" break="no"/>me: vt reputetur vobis in oblationem 
+          primiti<lb ed="#P" n="80" break="no"/>uorum tam de areis quam de torcularibuo et 
+          vniuer<lb ed="#P" n="81" break="no"/>sis quorum accipitis primitias offerte domino: 
+          <lb ed="#P" n="82"/>et date ea aaron sacerdoti. voluit dicere: quod 
+          gerso<lb ed="#P" n="83" break="no"/>nite merarite. et reliqui chaachite debebant 
+          ipsi<lb ed="#P" n="84" break="no"/>Aaron et successori eius decimam decimarum 
+          <lb ed="#P" n="85"/>impartiri. et extta de decimis. ca. primo. Aomanus 
+          <lb ed="#P" n="86"/>pontifex ex dictis hieronymi super Ezechielem 
+          <lb ed="#P" n="87"/>modum decimarum colligit: sic inquiens. 
+          Deci<lb ed="#P" n="88" break="no"/>mam partem omnium frugum leuitice tribui 
+          po<lb ed="#P" n="89" break="no"/>pulus ex lege debebat.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e441">
+          ¶ Aursus: ex ipsis 
+          deci<lb ed="#P" n="90" break="no"/>mis leuite: hoc est: inferiorum ministrorum 
+          gra<lb ed="#P" n="91" break="no"/>dus decimas dabant sacerdotibus. Erant 
+          quo<lb ed="#P" n="92" break="no"/>que et alie decime quas vnusquisque de populo 
+          is<lb ed="#P" n="93" break="no"/>rael in suis horreis separabat vt comederet eas 
+          <lb ed="#P" n="94"/>cum iret in templum in vrbe hierusalem: et in 
+          ve<lb ed="#P" n="95" break="no"/>stibulo templi sacerdotes et leuitas ad conuiuium 
+          <lb ed="#P" n="96"/>inuitaret. Erant autem et alie quas pauperibus 
+          <lb ed="#P" n="97"/>recondebant. At vero primitie quas de frugibus 
+          <lb ed="#P" n="98"/>offerebant / non erant speciali nomine diffinite: 
+          <lb ed="#P" n="99"/>sed offerentium arbitrio derelicte. Traditionem 
+          <lb ed="#P" n="100"/>quoque accipimus hebreorum: non lege preceptam: 
+          <lb ed="#P" n="101"/>sed arbitro magistrorum molitam: quod qui plurimum 
+          <lb ed="#P" n="102"/>quadragesimam partem dabant sacerdotibus: qui 
+          <lb ed="#P" n="103"/>minimum. lx. inter. xl. et. lx. licebat quocumque 
+          volu<lb ed="#P" n="104" break="no"/>issent offerre. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e476">
+          <lb ed="#P" n="105"/>¶ Tertia conclusio probatur: quia de aliquo 
+          iu<lb ed="#P" n="106" break="no"/>re est soluere decimas: alioquin homines non 
+          sol<lb ed="#P" n="107" break="no"/>uerent: et non est de iure nature nec diuino: vt 
+          pa<lb ed="#P" n="108" break="no"/>tet ex premissa: rel nquitur: ergo quod sit deliure humano: 
+          <lb ed="#P" n="109"/>et inter iura humana potissimum est ius 
+          pontifi<lb ed="#P" n="110" break="no"/>cum hoc dislricte precipiens. exvra de decimis. 
+          <lb ed="#P" n="111"/>per totum.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e494">
+          ¶ Quarta conclusio probatur per 
+          apo<lb ed="#P" n="112" break="no"/>stolum prime ad Corinthios. ix. quis militat suis 
+          <lb ed="#P" n="113"/>stipendiis vnquam: quis plantat vineam / et de fructu 
+          <lb ed="#P" n="114"/>eius non edit: quis pascit gregem / et de lacte 
+          gre<lb ed="#P" n="115" break="no"/>gis non manducats Ad hoc introducit legem. 
+          Deu<lb ed="#P" n="116" break="no"/>teronomii. xxv. non alligabis os bouis 
+          trituran<lb ed="#P" n="117" break="no"/>tis. et paulo post: si nos vobis spiritualia 
+          semina<lb ed="#P" n="118" break="no"/>mus: magnum est si nos vestra carnalia 
+          meta<lb ed="#P" n="119" break="no"/>mus: Et paucis interiectis: nescitis quoniam 
+          qui<lb ed="#P" n="120" break="no"/>in sacrario operantur / que de sacrario sunt edunt. 
+          <pb ed="#P" n="148-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vbi glosa interlinearis: probat se habere potesta 
+          <lb ed="#P" n="2"/>tem per similitudinem sacerdotum gentilium et iudeorum. 
+          <lb ed="#P" n="3"/>et post dicit apostolus. Et qui altario deseruiunt: cum 
+          <lb ed="#P" n="4"/>altario participant: itaet domins ordinauit his qui euam 
+          <lb ed="#P" n="5"/>gelium enunciant de euangelio viuere. Istud pro 
+          <lb ed="#P" n="6"/>batur auctoritate dei in veteri testamento. Gen. 
+          xlvii<lb ed="#P" n="7" break="no"/>Pharao egyptius omnem terram egypti emit preter 
+          <lb ed="#P" n="8"/>terram sacerdotum que a rege tradita fuerat eis: quibus 
+          <lb ed="#P" n="9"/>et statuta cibaria ex horreis publicis prebebantur: et 
+          <lb ed="#P" n="10"/>idcirco non sunt compulsi vendere possesssones suas. 
+          <lb ed="#P" n="11"/> Tales erant dediti studio speculatiuo. primo 
+          me<lb ed="#P" n="12" break="no"/>thaphisice: propterea a gentilibus alebantur de 
+          <lb ed="#P" n="13"/>publico. et pa:lo post in eodem capite. Ex eo 
+          tempo<lb ed="#P" n="14" break="no"/>re vsque in presentem diem in vniuersa terra 
+          egy<lb ed="#P" n="15" break="no"/>pti regibus quinta pars soluitur. et factum est quasi in 
+          <lb ed="#P" n="16"/>legem absque terra sacerdotali quae libera ab hac 
+          con<lb ed="#P" n="17" break="no"/>ditione fuit.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e558">
+          ¶ Item tempore legis date: quia inbus 
+          le<lb ed="#P" n="18" break="no"/>uitica que erat deputatam cultui diuino alebatur ex 
+          <lb ed="#P" n="19"/>publico: et non habebati sortem in terra promiss onis 
+          <lb ed="#P" n="20"/>more ceterarum tribuum. hoc fecerunt omnes 
+          genti<lb ed="#P" n="21" break="no"/>les: qui habebant solum putatos deos. Illa mala 
+          Ie<lb ed="#P" n="22" break="no"/>zabel ex sua mensa alebat sacerdotes baal: et ita 
+          <lb ed="#P" n="23"/>de sacerdotibus moloch in terra filiorum amon. 
+          <lb ed="#P" n="24"/>et psalmo. lxxx. Sumite pesalmum et date tympanum 
+          <lb ed="#P" n="25"/>hoc est: capiatis spiritualia: et detis temporalia. 
+          <lb ed="#P" n="26"/>et hippodomus primo ciuitatum diuisor / vnam partem 
+          <lb ed="#P" n="27"/>reliquit cultoribus deorum: prout recitat Aristoteles 
+          <lb ed="#P" n="28"/>secundi politicorum. vi. et hocipsum statuit philoso 
+          <lb ed="#P" n="29"/>phorum princeps. septimi politicorum. vii. et. ix. et ita 
+          <lb ed="#P" n="30"/>heretici boemi ( qui a paucis retro actis annis 
+          bo<lb ed="#P" n="31" break="no"/>na ecclesie a prelatis subtraxerunt. stipendiis suis 
+          <lb ed="#P" n="32"/>alunt sacerdotes qui ministrant eis diuina.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e593">
+          ¶ 
+          Con<lb ed="#P" n="33" break="no"/>tra secundam conclusionem arguitur sic: extra de 
+          <lb ed="#P" n="34"/>decimis primitiis et obla. c. parrochianos: et 
+          in<lb ed="#P" n="35" break="no"/>fra. dicit ic manus pontifex: cum decime non ab 
+          ho<lb ed="#P" n="36" break="no"/>mine sed ab ipso domino sunt institute / quasi 
+          de<lb ed="#P" n="37" break="no"/>bitum exigi possunt. et. c. in aliquibus regionibus. in i. 
+          <lb ed="#P" n="38"/>Ille quippe decime necessario soluende sunt que 
+          <lb ed="#P" n="39"/>debentur ex lege diuina: vel loci consuetudine 
+          ap<lb ed="#P" n="40" break="no"/>probata. et. c. tua nobis. e. verum. Si decime quas 
+          <lb ed="#P" n="41"/>deus in signum vniuersalis dominii sibi reddi 
+          praeci<lb ed="#P" n="42" break="no"/>pit. etc. et. xiii. q. i. c. ecclesias. T his ita. et. xvi. q. i. 
+          <lb ed="#P" n="43"/>Reuertamini. non introduco alios passus: quia si his 
+          <lb ed="#P" n="44"/>satisfactum fuerit: eadem est solutio similium 
+          auctori<lb ed="#P" n="45" break="no"/>tatum.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e624">
+          ¶ Ad primum caput dicitur: quod decime 
+          im<lb ed="#P" n="46" break="no"/>posite sunt a deo: patet in lege moysaica: et hoc 
+          <lb ed="#P" n="47"/>sufficit pro illo capite.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e631">
+          ¶ Sed dices: hoc non 
+          suf<lb ed="#P" n="48" break="no"/>ficit ad saluandam intentionem pontificis: quia 
+          per<lb ed="#P" n="49" break="no"/>hoc vult introducere homines soluere decimas / 
+          <lb ed="#P" n="50"/>per hoc quod semel erant de iure diuino. homines non 
+          <lb ed="#P" n="51"/>magis obligantur: quia nunc ex dictis nullo pacto 
+          <lb ed="#P" n="52"/>sunt de iure diuino.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e644">
+          ¶ Aesponsio: ostensum est 
+          cer<lb ed="#P" n="53" break="no"/>titudinaliter (vt reor) quod non sunt de iure diuino:  
+          <lb ed="#P" n="54"/>nolumus temere negare dicta potestificuis: propaterea dico 
+          <lb ed="#P" n="55"/>quod quia quonodam erant de iure diuino / ostenditur quod impositio 
+          <lb ed="#P" n="56"/>talis quite est rationabilis: et non debet esse onerosa: sed in 
+          <lb ed="#P" n="57"/>maiori honore habenda: et hoc sufficit. sicut 
+          phi<lb ed="#P" n="58" break="no"/>losophorum aliqui dicunt: facilius est motum 
+          con<lb ed="#P" n="59" break="no"/>tinuare quam ipsum inchoare. Facilius est 
+          continua<lb ed="#P" n="60" break="no"/>re quotam denariam in veteri testamento inchoa¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tam(licet pro tempore interruptam statim post 
+          passio<lb ed="#P" n="62" break="no"/>nem christi quando ecclesia pauca habebat) quom aliam 
+          <lb ed="#P" n="63"/>quotam aperire de nono. etiam ex iure diuino 
+          obli<lb ed="#P" n="64" break="no"/>gamur seruare praecepta rationabilia maiorum. 
+          Lu<lb ed="#P" n="65" break="no"/>ce. x. Qui vos spernit / me spernit: et Romane. xii. 
+          <lb ed="#P" n="66"/>Obedite prepositis vestris.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e679">
+          ¶ Secundo dico: 
+          decima<lb ed="#P" n="67" break="no"/>interdum capitur pro aliqua portione debita 
+          mi<lb ed="#P" n="68" break="no"/>nistro: et non pro quota designata per decem. et sic 
+          <lb ed="#P" n="69"/>est de iure diuino. hec distinctio est conimunis et 
+          <lb ed="#P" n="70"/>magistralis. quod curatus habeat aliquam portionem 
+          <lb ed="#P" n="71"/>fructuum vt alatur abhis quibua spiritualia 
+          sper<lb ed="#P" n="72" break="no"/>git: illud est de iure diuino.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e696">
+          ¶ Tertio sic: vbi non 
+          <lb ed="#P" n="73"/>soluuntur possunt peti quasi debitum: vt littera dicit 
+          <lb ed="#P" n="74"/>quasi capitur diminutiue et non expositiue 
+          quic<lb ed="#P" n="75" break="no"/>quid dicit glosa: et hocvbi curatus habet 
+          apparen<lb ed="#P" n="76" break="no"/>tem causam petendi.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e707">
+          ¶ Quarto: multa petuntur quae 
+          <lb ed="#P" n="77"/>etiam iuste negantur: patet vbi quis non tenetur 
+          <lb ed="#P" n="78"/>dare. Nolo dicere quod etiam subditi teneantur 
+          sol<lb ed="#P" n="79" break="no"/>uere quotam denariam / etiam petente plebano: 
+          <lb ed="#P" n="80"/>vbi plebanus habet sufficientem prouisionem a 
+          <lb ed="#P" n="81"/>cura: vbi est consuetudo non soluendi. habet 
+          con<lb ed="#P" n="82" break="no"/>suetudinem pro se que legem humanam interpre 
+          <lb ed="#P" n="83"/>tatur. Medo habens pro se legem non peccat. l. 
+          <lb ed="#P" n="84"/>Graccus. C. de adulteris.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e727">
+          ¶ Ad aliud capint 
+          dico<lb ed="#P" n="85" break="no"/>quod vel potest capi disiunctiue: et tunc sufficit quod alte 
+          <lb ed="#P" n="86"/>ra pars sit vera pro consuetudi ne loci approbati. 
+          <lb ed="#P" n="87"/>sed hoc non tenet in robur dictum pontificis: quia 
+          <lb ed="#P" n="88"/>eque illa disiunctiua esset vera si adiungatur 
+          ho<lb ed="#P" n="89" break="no"/>mo est asinus. vel etiam capitur copulatiue: et sic 
+          <lb ed="#P" n="90"/>non capitur hic: saltem si capiatur decima pro illa 
+          <lb ed="#P" n="91"/>quota.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e745">
+          ¶ Alio modo capitur decima pro sustentatione 
+          <lb ed="#P" n="92"/>debita ministro et hoc est de iure diuino. Sed quo 
+          <lb ed="#P" n="93"/>ad quotam: respicitur ad consuetudinem loci quae facit 
+          obli<lb ed="#P" n="94" break="no"/>gationem: et hoc sufficit maximo potestifici. ille 
+          te<lb ed="#P" n="95" break="no"/>xtus est pro nobis. consuetudo nichil facit ad ius 
+          <lb ed="#P" n="96"/>diuinum. et vbi glosa introducit quod immo: vt est in 
+          <lb ed="#P" n="97"/>baptismo et matrimonio. dico illud non esse 
+          circa<lb ed="#P" n="98" break="no"/>essentiam matrimonii vel baptismi: sed solum 
+          cir<lb ed="#P" n="99" break="no"/>ca aliquas solennitates eorum. Tertio dicitur quod 
+          <lb ed="#P" n="100"/>vel / capitur pro etiam: vt Terentius in and. vel 
+          <lb ed="#P" n="101"/>hoc quis non credit. et Uirgilius vel priamo 
+          mi<lb ed="#P" n="102" break="no"/>seranda manus: et tunc sic exponitur: decime sunt 
+          <lb ed="#P" n="103"/>soluende ex lege diuina etiam loci consuetudine 
+          <lb ed="#P" n="104"/>approbata: acsi et caperetur expositiue. sicut 
+          in<lb ed="#P" n="105" break="no"/>terdum dicimus: homo tenetur implere legem 
+          hu<lb ed="#P" n="106" break="no"/>manam obligatoriam ex lege diuina obligante: 
+          <lb ed="#P" n="107"/>vt superius recitauimus: et hoc sufficit pro 
+          caplo<lb ed="#P" n="108" break="no"/>Tua nobis.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e784">
+          ¶ Sed contra: tot sunt minisiri in 
+          <lb ed="#P" n="109"/>lege gratie sicut in lege moysaica vel plures: 
+          er<lb ed="#P" n="110" break="no"/>go nunc multo magis danda est eis quota 
+          equa<lb ed="#P" n="111" break="no"/>lis decime vel maior: secundum verbum christi M atthei. v. 
+          <lb ed="#P" n="112"/>Nisi abundauerit iusticia vestra plusquam scribarum 
+          <lb ed="#P" n="113"/>et phariseorum: non intrabitis in regnum celcrum. 
+          <lb ed="#P" n="114"/>et patet per dictum phariseorum Luce. xviii. 
+          de<lb ed="#P" n="115" break="no"/>cimas do omnium que possideo.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e802">
+          ¶ Respondetur: 
+          <lb ed="#P" n="116"/>sunt multo plures nunc quam tunc: sed non tot 
+          respe<lb ed="#P" n="117" break="no"/>ctiue in ordine ad totum populum: quia tribus leu 
+          tica<lb ed="#P" n="118" break="no"/>erat vna de duodecin tribubus quae nichil habebat nisi 
+          <lb ed="#P" n="119"/>istas decimas cum paucis vrbibus et suburbiis 
+          pro<lb ed="#P" n="120" break="no"/>alendis pecoribus. nunc autem amplius prouide 
+          <pb ed="#P" n="148-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tur nostris sacerdotibus qui succedunt tribu leni: 
+          <lb ed="#P" n="2"/>et vbi prouentus decimales eis non sufficerent: 
+          <lb ed="#P" n="3"/>octaua pars vel nona esse eis danda. Et concedo 
+          <lb ed="#P" n="4"/>quod iusticia christianorum debet esse maior quam 
+          pha<lb ed="#P" n="5" break="no"/>riseorum ad bene viuendum. Ex quo non 
+          conclu<lb ed="#P" n="6" break="no"/>ditur quod decima est de iure diuino. Ille phariseus 
+          <lb ed="#P" n="7"/>erat tempore legis mosayce.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e836">
+          ¶ Ad illud quod 
+          tam<lb ed="#P" n="8" break="no"/>gitur. xiii. questione. /. dicitur quod illic dicitur quod 
+          de<lb ed="#P" n="9" break="no"/>cime a deo constitute sunt per moysen vt persoluerem 
+          <lb ed="#P" n="10"/>tur a populo filiis leui pro ministro in quo 
+          deser<lb ed="#P" n="11" break="no"/>uiebant ei in tabernaculo: oportet intelligere 
+          si<lb ed="#P" n="12" break="no"/>cut diximus. De dictis gratiani non est magna vis: 
+          <lb ed="#P" n="13"/>nisi quando auctoritate solida / vel ratione sua 
+          <lb ed="#P" n="14"/>dicta corroborat. Propterea inane censeo alios 
+          <lb ed="#P" n="15"/>passus introducere: et particulariter exponere 
+          di<lb ed="#P" n="16" break="no"/>cta non solida: ac si ex sacris scriptisbibliacis 
+          ema<lb ed="#P" n="17" break="no"/>narent. de Innocentio et hostiensi: et glosa. in. c. aliqui 
+          <lb ed="#P" n="18"/>bus: eos nego: cum a veritate euangelica decedunt. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e862">
+          <lb ed="#P" n="19"/>¶ Secundo arguitur: decime iubentur dari iure 
+          <lb ed="#P" n="20"/>naturali: quia Iacob cum proficisceretur in 
+          meso<lb ed="#P" n="21" break="no"/>potamiam sirie promisit ei si bene succederet / de 
+          <lb ed="#P" n="22"/>cimas deo daret. Genesis. xxviii. et hoc erat tem 
+          <lb ed="#P" n="23"/>pore legis nature. dicebat patriarcha: si fuenrit do 
+          <lb ed="#P" n="24"/>minus mecum et custodierit me in via per quam 
+          <lb ed="#P" n="25"/>ambulo: et dederit michi panem ad vescendum / 
+          <lb ed="#P" n="26"/>et vestem ad induendum: reuersusque fuero prospe 
+          <lb ed="#P" n="27"/>re ad domum patris mei: erit michi dominus in 
+          <lb ed="#P" n="28"/>deum cunctorum que dederit michi decimas 
+          of<lb ed="#P" n="29" break="no"/>feram. Et abraham dedit decimas 
+          melchisedech<lb ed="#P" n="30" break="no"/>regi salem. Genesis. xiiii. ante legem scriptam. 
+          In<lb ed="#P" n="31" break="no"/>super hoc patet ex ambrosio in sermone 
+          quadra<lb ed="#P" n="32" break="no"/>gesime: et recitat Gratianus. xvi. questione. vii. c. 
+          <lb ed="#P" n="33"/>Quicunque. et ca. Maiores. eadem causa et 
+          questio<lb ed="#P" n="34" break="no"/>ne: recitat quod maiores nostri ideo copiis omnibus 
+          <lb ed="#P" n="35"/>abundabant: quia decimas deo dabant: modo 
+          au<lb ed="#P" n="36" break="no"/>tem quia decessit deuotio dei / accessit indictio fisci: 
+          <lb ed="#P" n="37"/>nolumus partiri cum deo decimas: modo autem 
+          <lb ed="#P" n="38"/>tollitur totum. hoc tollit fiscus quod non accipit 
+          <lb ed="#P" n="39"/>christus. et in caposolo decimas deo: dicitur: omnes 
+          <lb ed="#P" n="40"/>sancti doctores de solutione decime commemorant. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e912">
+          <lb ed="#P" n="41"/>¶ Ad primum: nego quod decime iubebantur 
+          dari<lb ed="#P" n="42" break="no"/>de iure nature. aliqua erant non moralia ante 
+          le<lb ed="#P" n="43" break="no"/>sem datam populo iraelitico: patet de 
+          suscitati<lb ed="#P" n="44" break="no"/>one seminis fratris defuncti. Genesis. xxxviii. c. 
+          <lb ed="#P" n="45"/>cum tribus filiis iude et thamar: sic erat de circum 
+          <lb ed="#P" n="46"/>cisione. Genesis. xvii. Secundo dicitur quod nec erat 
+          <lb ed="#P" n="47"/>de iure diuino / nec iure nature ipsi iacob dare de 
+          <lb ed="#P" n="48"/>cimas: quod patet: quia sua spoteste illud promisit si deus 
+          <lb ed="#P" n="49"/>eum prospere reduxisset: et conditionaliter. modo 
+          <lb ed="#P" n="50"/>si fuisset de iure diuino / tenebatur dedisse decimas 
+          <lb ed="#P" n="51"/>de rebus suis qualitercumque fuisset reductus: et 
+          vbi<lb ed="#P" n="52" break="no"/>cunque moratus fuisset. Ex illo patet quod non est de 
+          <lb ed="#P" n="53"/>iure nature.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e943">
+          ¶ Sed dices: coniungitur cum vno 
+          <lb ed="#P" n="54"/>quod erat de iure nature: puta quod deus esset ei 
+          domi<lb ed="#P" n="55" break="no"/>nus.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e950">
+          ¶ Responsio: consequentia est nulla / quando 
+          <lb ed="#P" n="56"/>expresse aliunde docetur quod non est idem. Insuper 
+          <lb ed="#P" n="57"/>dixit quod deus esset ei in specialem dominum: et hoc 
+          <lb ed="#P" n="58"/>est de consilio. etiam dare decimam: id est aliquam 
+          <lb ed="#P" n="59"/>quotam: et non quotam designatam per decem: 
+          <lb ed="#P" n="60"/>est de iure diuino. etiam voluit habere deum in do¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>minum specialiori modo quam antea habebat: et sic 
+          <lb ed="#P" n="62"/>dicitur quod abraham dedit decimas 
+          melchisedech<lb ed="#P" n="63" break="no"/>tanquam sacerdoti dei: vt exponit apostolus ad 
+          he<lb ed="#P" n="64" break="no"/>reos. vii.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e974">
+          ¶ Ad aliud vbi doctores ecclesie 
+          intro<lb ed="#P" n="65" break="no"/>ducuntur de soluendis decimis: hoc nemo negat 
+          <lb ed="#P" n="66"/>nec ipsi doctores hoc deducunt ex lege 
+          moysaica<lb ed="#P" n="67" break="no"/>Nunquid tritissima est disputatio inter 
+          hierony<lb ed="#P" n="68" break="no"/>mum  Augustinum de cessatione legalium ad 
+          Ga<lb ed="#P" n="69" break="no"/>lathas. ii. et error oppositus heresis cherinthi et 
+          <lb ed="#P" n="70"/>hebeonis vt infert hieronymus: quod vtique 
+          conce<lb ed="#P" n="71" break="no"/>deret augustinus. sciebant sancti doctores: sciunt 
+          <lb ed="#P" n="72"/>iheologi omnes legalia legis moysaice quo ad 
+          ceri<lb ed="#P" n="73" break="no"/>monialia et iudicialia nunc non esse de iure diuino. 
+          <lb ed="#P" n="74"/>Aecitabant isti doctores legem obligatoriam 
+          sol<lb ed="#P" n="75" break="no"/>uendi decimas que ab aliquo pontifice maximo 
+          <lb ed="#P" n="76"/>primo in lege gratie inchoata est: licet non legatur 
+          <lb ed="#P" n="77"/>passus super hoc: vel a consuetudine. non omnes 
+          con<lb ed="#P" n="78" break="no"/>stitutiones pontificum sunt scripto redacte. nec 
+          te<lb ed="#P" n="79" break="no"/>moueat super hac solutione: cum doctores sciebant 
+          <lb ed="#P" n="80"/>illud non posse deduci ex lege moysaica: et erat de 
+          <lb ed="#P" n="81"/>precepto: oportet dicere de iure humano consue 
+          <lb ed="#P" n="82"/>tudinario vel lege scripta maximi pontificis. tunc 
+          <lb ed="#P" n="83"/>dicebant grande delictum non soluere decimas: 
+          pau<lb ed="#P" n="84" break="no"/>ca adhuc habebat ecclesia: et ecclesie pastores 
+          be<lb ed="#P" n="85" break="no"/>ne prouentus ecclesiasticos distribuebant in illa aurea 
+          <lb ed="#P" n="86"/>etate. non tamen nego quin a dhuc (st graue delictum 
+          nisi<lb ed="#P" n="87" break="no"/>sit rationabilis causa non soluendi. sed in hoc latet nodus 
+          <lb ed="#P" n="88"/>negocii: quod inficior in lege gratie eas esse 
+          soluen<lb ed="#P" n="89" break="no"/>das de iure diuino.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1032">
+          ¶ Tertio arguitur: numerus 
+          <lb ed="#P" n="90"/>denarius est limes numerorum: et vniuersaliter omnes 
+          <lb ed="#P" n="91"/>numerantes multiplicant super decem: vt 
+          aristo<lb ed="#P" n="92" break="no"/>teles dicit in probleumatibus: dicimus vndecim 
+          <lb ed="#P" n="93"/>et duodecim: et cum iterum habemus viginti: id 
+          <lb ed="#P" n="94"/>est bis decem: iterum superaddimus vnitatem / 
+          bi<lb ed="#P" n="95" break="no"/>narium / et sic consequenter quo ad ter decem 
+          ha<lb ed="#P" n="96" break="no"/>buerimus: ergo dominio totius nature scilicet deo dam 
+          <lb ed="#P" n="97"/>da est illa quota de iure nature.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1052">
+          ¶ Quarto 
+          argui<lb ed="#P" n="98" break="no"/>tur: si conclusio esset vera sequitur quod homines non 
+          <lb ed="#P" n="99"/>peccarent non soluentes decimas vbi est 
+          consue<lb ed="#P" n="100" break="no"/>tudo non soluendi: consequens est inconueniens: ergo 
+          <lb ed="#P" n="101"/>et antecedens. consequentia patet: consuetudo 
+          le<lb ed="#P" n="102" break="no"/>gem humanam abrogat. Inconueniens consequem 
+          <lb ed="#P" n="103"/>tis pro batur: quia iam destruitur quarta conclusio 
+          <lb ed="#P" n="104"/>quod non sufficienter prouidebitur sacerdoti: quia 
+          sub<lb ed="#P" n="105" break="no"/>latis decimis / oblationes sunt tenues: et sic sunt 
+          <lb ed="#P" n="106"/>primitie. nichil manebit pro vita sacerdotis: quod 
+          <lb ed="#P" n="107"/>dicimus esse contra ius nature in quarta 
+          conclu<lb ed="#P" n="108" break="no"/>sione: et sic habebitur quod secunda et quarta 
+          conclu<lb ed="#P" n="109" break="no"/>sio pugnant: et in seinuicem acies moliuntur ad 
+          <lb ed="#P" n="110"/>euersionem vnius.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1083">
+          ¶ Ad primum istorum dicitur 
+          <lb ed="#P" n="111"/>quod argumentum solum quandam moralitatem 
+          ha<lb ed="#P" n="112" break="no"/>bet. et aristoteles excipit tracenses quos dicit 
+          ob<lb ed="#P" n="113" break="no"/>tarditatem memorie reflectere supra quinque: et 
+          <lb ed="#P" n="114"/>sic non vbiuis gentium denarius est vltimus limes 
+          <lb ed="#P" n="115"/>numerorum super quem homines reflectunt. et 
+          <lb ed="#P" n="116"/>esto quod ita fieret sicut argumentum imaginatur: 
+          tan<lb ed="#P" n="117" break="no"/>tum perfectionis in aliis numeris habere potes: 
+          <lb ed="#P" n="118"/>vt in vnitate quae est numeri principium. Et propatrea 
+          di<lb ed="#P" n="119" break="no"/>cit vna glosa Genesis primo. deus non besedixit 
+          operi<lb ed="#P" n="120" break="no"/>secunde diei: quia est numerus infamis: eo quod ab 
+          <pb ed="#P" n="149-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vnitate discedit. et de ternario dicit poeta. Necte 
+          <lb ed="#P" n="2"/>tribus nodis numero deus impari gaudet. et de 
+          <lb ed="#P" n="3"/>tribus dicimus ome / primo de celo et mundo. apud 
+          ma<lb ed="#P" n="4" break="no"/>thematicos multe nobiles proprietates trigono 
+          <lb ed="#P" n="5"/>attribuuntur. quattuor / est primus numerus quadra 
+          <lb ed="#P" n="6"/>tus: cui beatum primo Ethicorum comparat philosophus 
+          <lb ed="#P" n="7"/>eo quod semper recte cadit more tegragoni. sic de quina 
+          <lb ed="#P" n="8"/>rio propter moysi penthaticum / quinque sensus / 
+          <lb ed="#P" n="9"/>treucenses qui replicant super quinque. Sex est 
+          nu<lb ed="#P" n="10" break="no"/>merus perfectus: et tamen denarius est numerus 
+          diminu<lb ed="#P" n="11" break="no"/>tus: ergo aliis numerialiquas perfectiones dare 
+          po<lb ed="#P" n="12" break="no"/>tes tante eminentie sicut in denario: et per consequens ex 
+          <lb ed="#P" n="13"/>hoc argumento non habes propositum.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1140">
+          ¶ Ad secundum 
+          <lb ed="#P" n="14"/>argumentum concedo: homines non peccant non dantes 
+          <lb ed="#P" n="15"/>decimas de hoc vino / vel illo oleo / vbi non est 
+          con<lb ed="#P" n="16" break="no"/>suetudo loci: et nullam conscientiam in hoc 
+          tenen<lb ed="#P" n="17" break="no"/>tur facere: quia non peccant. et eo inficias quod hec 
+          conclu<lb ed="#P" n="18" break="no"/>sio cum sua ratione quartam euertat. Uides vna via 
+          <lb ed="#P" n="19"/>vel alia curatis luculenter prouisum: siue rectoribus / 
+          <lb ed="#P" n="20"/>aut personatibus more alioru. et vbi contingeret quod non 
+          <lb ed="#P" n="21"/>sufficienter eis pouideretur: epsi est cogere subditos de 
+          <lb ed="#P" n="22"/>nouo per decimas / octauas / vel nonas / ad 
+          satisfa<lb ed="#P" n="23" break="no"/>ciendum suo praelato: quia dignus est mercennarius 
+          cibo<lb ed="#P" n="24" break="no"/>suo. et dummodo bonus fuerit pastor: libenti animo et de 
+          <lb ed="#P" n="25"/>lacte et de lana partem sufficientem ad arbitrium episui 
+          <lb ed="#P" n="26"/>dabunt. etsi malus fuerit / seipsum pascens 
+          corpali<lb ed="#P" n="27" break="no"/>ter et suos: palante grege relicto inter desertae inuia 
+          <lb ed="#P" n="28"/>aquosa: adhuc cogendi sunt propter officium 
+          pasto<lb ed="#P" n="29" break="no"/>rale quo potitur. huic fortasse succedet 
+          archimen<lb ed="#P" n="30" break="no"/>drita: qui panem esurienti plebi verbo et exemplo 
+          mini<lb ed="#P" n="31" break="no"/>strabit. quod si adhuc non succedat: soluendum est 
+          propter<lb ed="#P" n="32" break="no"/>ministerium eius secundum consilium petri: non solum 
+          prela<lb ed="#P" n="33" break="no"/>tis: sed et discolis parendum est.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1186">
+          ¶ Sed contra istud 
+          <lb ed="#P" n="34"/>arguitur. non videtur ratio quare citius romanus 
+          pon<lb ed="#P" n="35" break="no"/>tifex plus posuit legem de danda decima quam 
+          vndeci<lb ed="#P" n="36" break="no"/>ma vel octaua / si non erat de iure diuino: ergo 
+          sequi<lb ed="#P" n="37" break="no"/>tur quod debemus dicere quod est de iure diuimo.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1197">
+          ¶ 
+          Insu<lb ed="#P" n="38" break="no"/>per diebus istis intellexi apudrothomagos / 
+          ple<lb ed="#P" n="39" break="no"/>beos coactos esse in curia ecclesiastica ad 
+          redden<lb ed="#P" n="40" break="no"/>das decimas de feno et aliquibus aliis: de quibus apud 
+          <lb ed="#P" n="41"/>eos inconsuetum erat reddere decimas: et per consequens 
+          <lb ed="#P" n="42"/>non obligantur suscipere illam legem.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1211">
+          ¶ Ad primum istorum 
+          di<lb ed="#P" n="43" break="no"/>citur: quia numerus denarius olim debebatur ministris 
+          <lb ed="#P" n="44"/>dei in lege: maximus potestifex confirmauit illum nume 
+          <lb ed="#P" n="45"/>rum. facilius est motum continuare (vt superius 
+          dixi<lb ed="#P" n="46" break="no"/>ximus quam inchoare: et difficilius homo desistit postquam 
+          fa<lb ed="#P" n="47" break="no"/>ri incipit: quam facit a principio antequam loquatur. Secundo 
+          <lb ed="#P" n="48"/>ostenditur iste numerus rationabilis postquam erat a deo 
+          <lb ed="#P" n="49"/>institutus / vel ab eius angelo: a quo lex 
+          mosayca<lb ed="#P" n="50" break="no"/>immediate emanauit. sicut leges cesaree in multis 
+          <lb ed="#P" n="51"/>legem dei in exodo insequuntur.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1233">
+          ¶ Ad secundum argumentum 
+          <lb ed="#P" n="52"/>fortassis diceres: quod officialis erat canonista putans 
+          <lb ed="#P" n="53"/>quotam decimarum esse de iure diuino. vel 
+          dice<lb ed="#P" n="54" break="no"/>res: pastor pastori moram gerit. fortasse erat 
+          cura<lb ed="#P" n="55" break="no"/>tus: et ex hoc ligno alteri pastori dato / eius 
+          pro<lb ed="#P" n="56" break="no"/>prius potus calefit. Forte curam habet. sed 
+          nolu<lb ed="#P" n="57" break="no"/>mus ita dicere: quia tamen auguror aliquos non 
+          <lb ed="#P" n="58"/>minus hoc cogitare mentaliter: tetigimus. Sed 
+          dica<lb ed="#P" n="59" break="no"/>mus sic: fortassis illi curati parum habent de quo 
+          <lb ed="#P" n="60"/>dlantur: et hoc est verum. curehic extra magnas 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>vrbes sunt tenues: quia quili bet pagus habet suam 
+          <lb ed="#P" n="62"/>propriam curam. propterea rationabiter potest 
+          <lb ed="#P" n="63"/>eis imponi noua decima rerum vel iteratio 
+          deci<lb ed="#P" n="64" break="no"/>marum consuetudine abrogatarum: dato etiam quod 
+          <lb ed="#P" n="65"/>parrochiani contradicant: quia grex non potest esse 
+          <lb ed="#P" n="66"/>sine pastore: et necesse est pastorem lac gregis 
+          pro<lb ed="#P" n="67" break="no"/>victu / et partem lane habere pro vestitu. et 
+          infe<lb ed="#P" n="68" break="no"/>riorum non erit taxare quantum pastori sufficiet. 
+          <lb ed="#P" n="69"/>hoc spectat ad alium iudicem. nec potest imponi 
+          ali<lb ed="#P" n="70" break="no"/>qua quota ita accommodata sicut denaria. Tum: 
+          <lb ed="#P" n="71"/>quia olim robur habebat in lege mosayca. Tum 
+          <lb ed="#P" n="72"/>quia in multis partibus adhuc seruatur quota 
+          de<lb ed="#P" n="73" break="no"/>naria. Tum: quia est preceptio pontificia. sed 
+          vbi<lb ed="#P" n="74" break="no"/>curatus sufficienter prouisionem haberet per 
+          obla<lb ed="#P" n="75" break="no"/>tiones et aliquarum rerum decimas officialis non 
+          <lb ed="#P" n="76"/>habet sic imponere: nec episcopus: de solutione no 
+          <lb ed="#P" n="77"/>uarum decimarum: potissimum vbi est consuctudo 
+          <lb ed="#P" n="78"/>in vna magna regione de illa decima non soluenda: 
+          <lb ed="#P" n="79"/>ne vnus magnus populus contradicat allegans 
+          <lb ed="#P" n="80"/>se non subiectum esse suscipere leges illas 
+          impo<lb ed="#P" n="81" break="no"/>sitas. qui nimis emungit elicit sanguinem secundum 
+          <lb ed="#P" n="82"/>sapientem. Prouerbiorum. xxx. secus esset vbi esset 
+          <lb ed="#P" n="83"/>in tribus vel quattuor pagis. qui de multis rebus 
+          <lb ed="#P" n="84"/>non soluunt decimas: vbi reliqua pars regni 
+          sol<lb ed="#P" n="85" break="no"/>uit: quia notabilis paruitas non sufficit pro 
+          consuetudi<lb ed="#P" n="86" break="no"/>ne.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1314">
+          ¶ Si dicas: primas potest cogere homines in 
+          re<lb ed="#P" n="87" break="no"/>gno soluere decimas in omnibus rebus quas 
+          possi<lb ed="#P" n="88" break="no"/>dent: nec ipse imponit leges: sed cogit eos seruare 
+          <lb ed="#P" n="89"/>leges potetificias: quibus si obuiant vltimo 
+          mucro<lb ed="#P" n="90" break="no"/>ne ecclesie: scilicet excommunicatione: eos feriet.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1325">
+          ¶ 
+          Re<lb ed="#P" n="91" break="no"/>sponsio: vide an erit nota auaricieet potissimum 
+          vbi<lb ed="#P" n="92" break="no"/>cure sunt satis pingues. Tum secundo: vide (quod 
+          ma<lb ed="#P" n="93" break="no"/>ius est) si vnanimi consensu proclament illas leges 
+          <lb ed="#P" n="94"/>apud eos per consueudinem iam prescriptam 
+          abro<lb ed="#P" n="95" break="no"/>gatas: et consequens non suscipient. nec licet metro 
+          <lb ed="#P" n="96"/>politano in eorum faucibus trabem quam serre 
+          re<lb ed="#P" n="97" break="no"/>cusant: nec ex his sequitur canonistam 
+          tenenteni<lb ed="#P" n="98" break="no"/>oppositum esse hereticum. Aliud est tenere 
+          here<lb ed="#P" n="99" break="no"/>sim et esse hereticum. excusantur propter corticem 
+          <lb ed="#P" n="100"/>verborum decretalium quousque eis ostendatur 
+          op<lb ed="#P" n="101" break="no"/>positum. et si non aquiescant visa veritate perperam 
+          <lb ed="#P" n="102"/>agunt. considerant conclusiones aut in theologia 
+          <lb ed="#P" n="103"/>vel morali philosophia vtcunque stabilitas: non 
+          ha<lb ed="#P" n="104" break="no"/>bito respectu ad fundamentum: propterea facile 
+          <lb ed="#P" n="105"/>aberrant.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1360">
+          ¶ Quinto arguitur: ex ista conclusione 
+          <lb ed="#P" n="106"/>datur occasio de non soluendis decimis quod est 
+          <lb ed="#P" n="107"/>inconueniens. tales excommunicantur: patet in 
+          cle<lb ed="#P" n="108" break="no"/>men. ca. cupientes. de penis. assumptum patet: quia 
+          <lb ed="#P" n="109"/>homines minus curant de humana lege quam diuma: ergo si 
+          <lb ed="#P" n="110"/>populus intelligat se non astrictum lege diuina ad 
+          <lb ed="#P" n="111"/>soluendas decimas: sed solum lege humana: 
+          mi<lb ed="#P" n="112" break="no"/>nus propensus erit ad soluendas decimas. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1378">
+          <lb ed="#P" n="113"/>¶ Et confimatur hec ratio. si simul intelligat hoc 
+          <lb ed="#P" n="114"/>quod est lex humana de soluendis decimis / adiuncta 
+          <lb ed="#P" n="115"/>alia propositione / consuetudo interpretatur legem 
+          <lb ed="#P" n="116"/>humanam: multi male soluerent decimas: qui 
+          he<lb ed="#P" n="117" break="no"/>ri et nudiustertius bene soluebant. inciperent esse 
+          <lb ed="#P" n="118"/>procliues male soluere: et per consequens istud 
+          <lb ed="#P" n="119"/>erit in grandem iacturam prelatorum. 
+          <lb ed="#P" n="120"/>¶Adquintam reipondet negandoou democcasio¬ 
+          <pb ed="#P" n="149-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>non soluendi. sicut ex vero nil nisi verum: sic ex 
+          conue<lb ed="#P" n="2" break="no"/>nienti nil nisi conueniens sequitur. et concedo quod 
+          <lb ed="#P" n="3"/>homines minus curant de humana lege quam diuina. 
+          <lb ed="#P" n="4"/>sed non obstante lex humana obligat sub pena 
+          pec<lb ed="#P" n="5" break="no"/>cati mortalis. et dummodo hoc sciunt: timentes 
+          <lb ed="#P" n="6"/>deum soluunt secundum quod deuinciuntur: sicut 
+          ie<lb ed="#P" n="7" break="no"/>iunabunt quadragesimam et sanctorum profesta 
+          <lb ed="#P" n="8"/>que sunt de iure humano. etiam in foro exteriori 
+          <lb ed="#P" n="9"/>cogentur.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1423">
+          ¶ Ulterius: non est opus hoc 
+          populo<lb ed="#P" n="10" break="no"/>predicare. est vnum verum quod non tenentur 
+          sci<lb ed="#P" n="11" break="no"/>re: puta de qua lege obligantur soluere: sufficit quod 
+          <lb ed="#P" n="12"/>dicatur eis quod tenentur soluere. secundum comicum: ve 
+          <lb ed="#P" n="13"/>ritas odium parit: hoc est: dicere veritatem in 
+          ali<lb ed="#P" n="14" break="no"/>quo casu / et in aliquo loco / coram aliquibus 
+          per<lb ed="#P" n="15" break="no"/>sonis. Etiam dummodo pastor ouium habeat de quo 
+          <lb ed="#P" n="16"/>se pascat: non habet iacturam realiter. si minus 
+          ha<lb ed="#P" n="17" break="no"/>beat: ad minus tenetur. Pastores ista peccata in 
+          <lb ed="#P" n="18"/>grege de non soluendis decimis trutinant: sed de 
+          <lb ed="#P" n="19"/>hoc quod prodige exponunt inter se et suos / 
+          infecta<lb ed="#P" n="20" break="no"/>scabie in cute / et lacerata lana per vepres / surda 
+          <lb ed="#P" n="21"/>aure praetereunt. et debili oue nonhabente pascua 
+          cor<lb ed="#P" n="22" break="no"/>poralia propter niuem / pluuiam / et gelu / non 
+          sub<lb ed="#P" n="23" break="no"/>ministrant manipulum feni quod exuperat / 
+          recon<lb ed="#P" n="24" break="no"/>dunt in horreo: secundum verbum christi ad phariseos 
+          <lb ed="#P" n="25"/>qui erant pastores populi iudaici. Matthei. xxiii. 
+          <lb ed="#P" n="26"/>de vobis scribe et pharisei ypocrite qui 
+          decima<lb ed="#P" n="27" break="no"/>tis mentam / et anethum / et ciminum: et reliquistis 
+          <lb ed="#P" n="28"/>que grauiora sunt legis / iudicium / et misericordiam / 
+          <lb ed="#P" n="29"/>et fidem. Abi glosa interlinearis: hic arguit eos 
+          <lb ed="#P" n="30"/>auaricie qui nichil pretermittunt de his que ad 
+          <lb ed="#P" n="31"/>commodum suum sunt: in pauperes et viduas 
+          mi<lb ed="#P" n="32" break="no"/>sericordiam non faciunt. Postea dicit eis: duces 
+          ce<lb ed="#P" n="33" break="no"/>ci excolentes culicem: camelum autem glutientes. 
+          <lb ed="#P" n="34"/>et in principio illius capitis contra eosdem dicit. 
+          <lb ed="#P" n="35"/>alligant autem onera grauiaet importabilia: 
+          in<lb ed="#P" n="36" break="no"/>ponunt in humeris hominum: digito autem 
+          suo<lb ed="#P" n="37" break="no"/>nolunt ea mouere. Sed ex verbis christi non 
+          ha<lb ed="#P" n="38" break="no"/>bes argumentum de soluendis decimis: arguebat 
+          <lb ed="#P" n="39"/>phariseos: et adhuc currebat lex mosayca.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1491">
+          ¶ Sed 
+          <lb ed="#P" n="40"/>vbi diximus non est necesse / hoc non conducit 
+          po<lb ed="#P" n="41" break="no"/>pulo dicere quod solutio decimarum est de iure 
+          huma<lb ed="#P" n="42" break="no"/>no solum: ponatur quod parrochiani confiteantur se 
+          <lb ed="#P" n="43"/>erudito viro quod non soluerint decimas vbi est 
+          con<lb ed="#P" n="44" break="no"/>suetudo non soluendi: quid faciendum est.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1504">
+          ¶ 
+          Respon<lb ed="#P" n="45" break="no"/>detur: patienter audiat illa cum aliis eorum 
+          pecca<lb ed="#P" n="46" break="no"/>tis. absoluat eos a peccatis eorum / nullam penitem 
+          <lb ed="#P" n="47"/>tiam imponendo pro decimis: quia non peccarunt 
+          <lb ed="#P" n="48"/>in hoc: et hoc eis etiam dicatur: quia alioquin faceret 
+          <lb ed="#P" n="49"/>populum peccare gratis qui non soluit et credit 
+          se<lb ed="#P" n="50" break="no"/>obligatum: et sic sue conscientie contraueniet. et 
+          li<lb ed="#P" n="51" break="no"/>cet primi non soluentes decimas ( vbi est 
+          consuetu<lb ed="#P" n="52" break="no"/>do non soluendi) peccarunt contrauenientes 
+          legi<lb ed="#P" n="53" break="no"/>superiorum contra quam non erat prescriptum: 
+          po<lb ed="#P" n="54" break="no"/>steriores consuetudine introducta non soluentes / 
+          <lb ed="#P" n="55"/>non peccant. Exemplum in simili de ieiunio aliquo 
+          <lb ed="#P" n="56"/>rum profestorum que precipit romanus pontifex 
+          <lb ed="#P" n="57"/>in caps. consilium. de obserua. ieiu. et tamen galli non 
+          <lb ed="#P" n="58"/>ieiunant: nec se transgressores reputant: nec eos 
+          <lb ed="#P" n="59"/>in hoc reputo. sed vbi est consuetudo soluendi: 
+          ostem<lb ed="#P" n="60" break="no"/>dat ei peccatum esse grande sicut est: nec est opus 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>dicere quod solutio decimarum non est de iure 
+          diui<lb ed="#P" n="62" break="no"/>no.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1548">
+          ¶ Ad confirmationem respondetur: timentes 
+          <lb ed="#P" n="63"/>deum bene soluunt: et bonus non capit exemplum 
+          <lb ed="#P" n="64"/>per malos: etiam de grano et ceteris id genus: in 
+          <lb ed="#P" n="65"/>quibus est emolumentum aliquod quo d 
+          percipi<lb ed="#P" n="66" break="no"/>tur exterius: et sic in hoc non potest esse magna de 
+          <lb ed="#P" n="67"/>ceptio.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1561">
+          ¶ Contra tertiam conclusionem arguitur 
+          <lb ed="#P" n="68"/>probando quod nemo tenetur soluere decimas. 
+          capio<lb ed="#P" n="69" break="no"/>nabal qui habet mille agnos: cuius pastor debet 
+          ha<lb ed="#P" n="70" break="no"/>bere centum ratione decimarum. vel propter 
+          cla<lb ed="#P" n="71" break="no"/>ritatem capio decem. Arguitur sic: nullum istorum 
+          <lb ed="#P" n="72"/>agnorum tenetur nabal dare curato: patet. 
+          quo<lb ed="#P" n="73" break="no"/>cunque ei retento non peccat: quia non est necesse 
+          <lb ed="#P" n="74"/>citius dare illum agnum quam alium.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1579">
+          ¶ Respondetur 
+          <lb ed="#P" n="75"/>per propositiones: quarum prior est. Nullum 
+          agnum<lb ed="#P" n="76" break="no"/>obligatur dare curato sub pena peccati.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1587">
+          ¶ Secunda 
+          <lb ed="#P" n="77"/>propositio: necesse est si nabal debeat esse expers 
+          pec<lb ed="#P" n="78" break="no"/>cati / dare aliquem agnorum istorum curato: vt 
+          ne<lb ed="#P" n="79" break="no"/>cesse / cadat in totam conditionalem: qua si nullum 
+          <lb ed="#P" n="80"/>istorum det: peccat / et tenet alienum. nec descensum 
+          <lb ed="#P" n="81"/>disiunctiuum vel alium temptabis sub illo 
+          voca<lb ed="#P" n="82" break="no"/>bulo agnum. In conditionali talis descensus est 
+          <lb ed="#P" n="83"/>interdictus.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1605">
+          ¶ Tertia propositio: sicut non 
+          requi<lb ed="#P" n="84" break="no"/>ritur dare optimum istorum decem curato / sic non 
+          <lb ed="#P" n="85"/>sufficit dare ei pessimum istorum. Prior pars huius 
+          <lb ed="#P" n="86"/>ypothetice patet: quia non tenetur dare ei vltra 
+          <lb ed="#P" n="87"/>decimum valorem istius totius multitudinis: sed 
+          <lb ed="#P" n="88"/>si daret optimum istorum agnorum vel dare tene 
+          <lb ed="#P" n="89"/>retur: obnoxius esset dare vltra decimam partem 
+          <lb ed="#P" n="90"/>istorum bonorum. Secunda pars patet: quia sic 
+          <lb ed="#P" n="91"/>deciperet curatum non dando ei decimam 
+          partem<lb ed="#P" n="92" break="no"/>valoris istius totius multitudinis.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1627">
+          ¶ Quarta 
+          pro<lb ed="#P" n="93" break="no"/>positio: sufficit dare vnum qui medio modo se 
+          ha<lb ed="#P" n="94" break="no"/>bet inter optimum et pessimum. sicut apud 
+          phisi<lb ed="#P" n="95" break="no"/>cos latitudo difformis siue vniformitur siue 
+          diffor<lb ed="#P" n="96" break="no"/>miter difformis reducenda est ad gradum medium. 
+          <lb ed="#P" n="97"/>sed cum denarius est numerus par: illic non est vnum 
+          me<lb ed="#P" n="98" break="no"/>dium equaliter distans ab extremis. Propterea 
+          con<lb ed="#P" n="99" break="no"/>uenientius est quod includantur in domo / et 
+          permittan<lb ed="#P" n="100" break="no"/>tur egredi: et decimus quilibet manebit pro 
+          cura<lb ed="#P" n="101" break="no"/>to. vel proiicere sortem (quod est hic licitum) et sic 
+          sta<lb ed="#P" n="102" break="no"/>bit ad fortunam siue sit optimus / siue pessimus. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1651">
+          <lb ed="#P" n="103"/>¶ Sed contra istud arguitur: nullus istorum 
+          agno<lb ed="#P" n="104" break="no"/>rum est curati ante separationem eorum. sed omnes 
+          <lb ed="#P" n="105"/>sunt patrisfamilias. ergo si exponat eos omnes 
+          <lb ed="#P" n="106"/>vel vendat lanio: nichil tenebitur dare curato: quia 
+          vem<lb ed="#P" n="107" break="no"/>dit sua.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1664">
+          ¶ Respondetur: quod omnes isti mille agni sunt 
+          <lb ed="#P" n="108"/>nabal in prima hora qua curatus venit antequam 
+          agni<lb ed="#P" n="109" break="no"/>curati ponantur ad partem: quod patet: quia 
+          ali<lb ed="#P" n="110" break="no"/>quis est domins istorum agnorum omnium: et non 
+          cura<lb ed="#P" n="111" break="no"/>tus vnius: quia ostende michi digito agnum quem 
+          di<lb ed="#P" n="112" break="no"/>cis esse curati: et quero abs te quare citius est ille 
+          <lb ed="#P" n="113"/>eius quam alius: et respondere non poteris. Secunda 
+          <lb ed="#P" n="114"/>propositio: licet omnes illi agni sint 
+          patrisfami<lb ed="#P" n="115" break="no"/>lias: tenetur centum eorum dare curato. et licet eos omnes 
+          <lb ed="#P" n="116"/>vendat lanio et suos: tenebitur centum curato. Exnim in 
+          <lb ed="#P" n="117"/>simili: dedi tibi centum aureos mutuo: omnes 
+          aurei<lb ed="#P" n="118" break="no"/>quis habes tui sunt: sed mihi centum dare debebis. 
+          Cre<lb ed="#P" n="119" break="no"/>do curatos ntros vnanimes in hoc: si iste paterfami 
+          <lb ed="#P" n="120"/>lias prodige istos centum agnos exposuerit: quod praciu 
+          <pb ed="#P" n="150-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>refundere tenetur: dato quod paterfamilias erat domins 
+          <lb ed="#P" n="2"/>rerum. quare ergo non tenebitur curatus dare pecuniam 
+          pau<lb ed="#P" n="3" break="no"/>peribus debitam prodige expositam / dato quod dicatur 
+          <lb ed="#P" n="4"/>domins illarum rerum: quia non habet absolutum dominium et 
+          <lb ed="#P" n="5"/>irrestrictum in rebus ecclesie sicut laicus in suis: quia 
+          <lb ed="#P" n="6"/>si sic: potest omnia vendere vel dare in vna hora: quod 
+          <lb ed="#P" n="7"/>concederet nemo mortalium.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1714">
+          ¶ Secundo arguitur con eandem 
+          <lb ed="#P" n="8"/>conclusionem: sortes paterfamilias prudens vidit suum 
+          <lb ed="#P" n="9"/>curatum prodigum / et mille generibus vicii irretitum / 
+          pau<lb ed="#P" n="10" break="no"/>peribus nihil erogantem / satis habet pro se et 
+          de<lb ed="#P" n="11" break="no"/>cem aliis. scit quod curatus tenetur ex superfluis 
+          prouen<lb ed="#P" n="12" break="no"/>tibus ecclesie alere egenos: non tenetur curato tali 
+          da<lb ed="#P" n="13" break="no"/>re decimam: sed sufficit quod ipse ministret pauperibus 
+          lo<lb ed="#P" n="14" break="no"/>co curati.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1733">
+          ¶ Respondetur: admisso toto illo casu: nego quod 
+          <lb ed="#P" n="15"/>non teneatur soluere curato: vt patet. xvi. questione. vi. 
+          <lb ed="#P" n="16"/>Si episcopum. et id ramtis est. tenetur dare curato quod 
+          <lb ed="#P" n="17"/>est ei debitum: qua admodum si darem tibi mutuo centum 
+          <lb ed="#P" n="18"/>non obstante mea malicia / teneres mihi soluere: 
+          <lb ed="#P" n="19"/>dato quod nihil darem pauperibus. Tu debes facere 
+          <lb ed="#P" n="20"/>tibi debitum: relinquendo alios dampnari / vbi eos 
+          <lb ed="#P" n="21"/>corrigere non teneris: saltem curatum castigare non 
+          <lb ed="#P" n="22"/>habes hac via. et ve si hec via admitteretur quod liceret 
+          <lb ed="#P" n="23"/>subdito dare decimas pauperi vel earum partem: 
+          peio<lb ed="#P" n="24" break="no"/>ra contingerent quam nunc eueniunt: male aleretur 
+          sacer<lb ed="#P" n="25" break="no"/>dos euangelicus: et sic non potest intendere plebi. 
+          ple<lb ed="#P" n="26" break="no"/>rique detinerent decimas sibiipsis sub specie 
+          ele<lb ed="#P" n="27" break="no"/>mosine pauperibus erogande: et sacrilegium 
+          incur<lb ed="#P" n="28" break="no"/>rerent. sufficit inferiori ergo dare deo decimas 
+          eccle<lb ed="#P" n="29" break="no"/>sie: cui principaliter dat subditus: quia istarum 
+          re<lb ed="#P" n="30" break="no"/>rum ecclesie dominus est deus: licet det per manus 
+          <lb ed="#P" n="31"/>istius ministri. Licet Ophnie Phinees filii 
+          heli<lb ed="#P" n="32" break="no"/>subtraxerunt oblata a populo: propterea populus 
+          <lb ed="#P" n="33"/>non peccabat. et si deus non puniat prelatos bonis 
+          <lb ed="#P" n="34"/>dei abutentes in hoc mundo: atrocior sententia ex 
+          <lb ed="#P" n="35"/>pectatur in alio. deus occultus suo iudicio / qui ex 
+          <lb ed="#P" n="36"/>malis elicit bona homines in suis peccatis perseue 
+          <lb ed="#P" n="37"/>rare sinit: sed secundum mensuram delicti erit plagarum 
+          <lb ed="#P" n="38"/>modus. hec dixerim: quia indoctum vulgus suspicatur 
+          <lb ed="#P" n="39"/>ecclesie prelatos semi beatos: quia bona fortune ad 
+          <lb ed="#P" n="40"/>manus habent: et vulgus cum sudore vultus / interdum 
+          <lb ed="#P" n="41"/>maguam inopiam patitur: et sic se infelix existimat. 
+          <lb ed="#P" n="42"/>oppositum est omnino verum. solon grecorum 
+          sapien<lb ed="#P" n="43" break="no"/>tissimus cresum l. idorum regem opulentissimum (quem 
+          <lb ed="#P" n="44"/>vulgus felicem putabat) non sic censuit: nec ceteri 
+          <lb ed="#P" n="45"/>philosophi gentiles: nec prophetarum oracula sic 
+          ra<lb ed="#P" n="46" break="no"/>ta sunt.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1805">
+          ¶ Preterea arguitur: Iudei tenentur 
+          sol<lb ed="#P" n="47" break="no"/>uere decimas. vt patet in ca. de terris. et tamen non tenen 
+          <lb ed="#P" n="48"/>tur parere iuri humano: ergo soluere decimas est de 
+          <lb ed="#P" n="49"/>iure diuino. Minor patet: quia adhuc contrahunt in secundo 
+          <lb ed="#P" n="50"/>gradu consanguineitatis: secundum Apostolum prime 
+          <lb ed="#P" n="51"/>Corinthiorum. v. quid ad me de his que foris sunt. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1818">
+          <lb ed="#P" n="52"/>¶ Item: quadragesima est de iure diuino quae est 
+          deci<lb ed="#P" n="53" break="no"/>ma pars temperis vt sancti dicunt: ergo quota decima 
+          <lb ed="#P" n="54"/>rerum nostrarum ad huc est de iure diuino.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1827">
+          ¶ Bespondetur 
+          <lb ed="#P" n="55"/>concedendo: quod iudei tenentur soluere decimas 
+          <lb ed="#P" n="56"/>prediales: alioquim ecclesia dissiparetur. ecclusia 
+          co<lb ed="#P" n="57" break="no"/>git iudeos tenere eccliam indempnem: et hoc non est habtere 
+          <lb ed="#P" n="58"/>oculum directe ad eos qui foris snnt: sed consulere 
+          <lb ed="#P" n="59"/>indempnitati eorum qui intus sunt.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1840">
+          ¶ Ad 
+          secun<lb ed="#P" n="60" break="no"/>dum: antecedens est falsum vt in quarto diximus. 
+          <cb ed="#P" n="b"/>
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1847">
+          <lb ed="#P" n="61"/>¶ Sed quomodo debet intelligi: illic expositum est: et 
+          <lb ed="#P" n="62"/>consequentia est nulla.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1855">
+          ¶ Contra quartam conclusionem arguitur: 
+          <lb ed="#P" n="63"/>probando quod ipsa inferat contradictoriam secunde: et hoc 
+          <lb ed="#P" n="64"/>sic: soluere aliquam quotam est de iure nature et 
+          <lb ed="#P" n="65"/>diuino: et non est de iure nature vel diuino 
+          solue<lb ed="#P" n="66" break="no"/>re octauam partem / nonam / vel vndecimam / vel 
+          duo<lb ed="#P" n="67" break="no"/>decimam / vel quad cumque aliam partem a decima: erga 
+          <lb ed="#P" n="68"/>est de iure nature vel diuino soluere decimam. hoc 
+          <lb ed="#P" n="69"/>est denariam partem bonorum.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1873">
+          ¶ Respondetur. consequentia est 
+          <lb ed="#P" n="70"/>nulla. Eodem modo arguendo probares quod dare 
+          <lb ed="#P" n="71"/>octauam partem vel quartam partem est de iure nature vel 
+          <lb ed="#P" n="72"/>diuino: patet applicanti argumentum quod facimus. 
+          <lb ed="#P" n="73"/>frequenter aliquod incontractum est de iure 
+          na<lb ed="#P" n="74" break="no"/>ture vel diuino: sed ipsum additum cum aliquo 
+          restrin<lb ed="#P" n="75" break="no"/>gente nullo pacto est de illo iure: sed humano. hoc 
+          ti<lb ed="#P" n="76" break="no"/>bi exemplariter explicabo: nosti (vt auguror) 
+          puni<lb ed="#P" n="77" break="no"/>re furem est de iure nature vel diuino / vel punire eum 
+          <lb ed="#P" n="78"/>aliquo modo: sed punire eum hoc modo vel illo modo 
+          <lb ed="#P" n="79"/>puta ad restitutionem dupli / vel quadrupli / in furto 
+          <lb ed="#P" n="80"/>manifesto vel immanifesto: est pofitiuum humanum 
+          <lb ed="#P" n="81"/>Potissima regula de soluendis decimis est ponedera 
+          <lb ed="#P" n="82"/>re consuetudinem regionis (quia in vna regione de 
+          om<lb ed="#P" n="83" break="no"/>nibus rebus soluitur: in alia de aliquibus et non 
+          om<lb ed="#P" n="84" break="no"/>nibus: et in tertia regione de aliquibus soluitur de 
+          <lb ed="#P" n="85"/>quibus non soluitur in secunda) magis quam eundo ad 
+          <lb ed="#P" n="86"/>legem scriptam de soluendis decins. propterea incassum 
+          <lb ed="#P" n="87"/>est amplius circa hoc insistere.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1915">
+          ¶ Epilogando vides 
+          <lb ed="#P" n="88"/>dicimus quotam denariam non esse de iure diuino 
+          <lb ed="#P" n="89"/>soluendam: sed solum iure humano: contra quod praescribi potest. 
+          <lb ed="#P" n="90"/>contra ius diuinum et nature nulla currit praescriptio: 
+          <lb ed="#P" n="91"/>bene autem contra ius humanum. legem 
+          humanam<lb ed="#P" n="92" break="no"/>quamlibet pure positiuam interpretatur 
+          consue<lb ed="#P" n="93" break="no"/>tudo: et eam e medio tollit.
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1931">
+          ¶ Dubitatur qui et quam 
+          <lb ed="#P" n="94"/>do hanent soluere decimas: Et similiter quibus. 
+        </p>
+        <p xml:id="jm3cbb-e89643-d1e1936">
+          <lb ed="#P" n="95"/>¶ Respondetur in omnibus in quibus homo habet 
+          <lb ed="#P" n="96"/>verum dominium tenetur soluere decimas secundue consuetu 
+          <lb ed="#P" n="97"/>dinem patrie: hoc dicitur: quia de vsura e de furto 
+          homo<lb ed="#P" n="98" break="no"/>debet restituere illi qui est deceptus: et non dare. x. 
+          <lb ed="#P" n="99"/>de alieno. Ecclesi. xxxiiii. qui offert sacrificium de/ 
+          <lb ed="#P" n="100"/>sbam pauperis / quasi qui victimat filium in conspe co 
+          <lb ed="#P" n="101"/>ctu patris sui. et immolantes ex iniquo / oblatio est 
+          <lb ed="#P" n="102"/>maculata. sed vbi quis habuerit iustum dominium 
+          rei<lb ed="#P" n="103" break="no"/>licet per delictum acquisiuerit: vt histreo / meretrix 
+          <lb ed="#P" n="104"/>in meretricio / qui non tenentur restituere acquisitum 
+          <lb ed="#P" n="105"/>licet non tenentur pro tunc quamdiu sunt infames 
+          deci<lb ed="#P" n="106" break="no"/>mas dare: quia ecclesia non vult recipere vt desistat 
+          <lb ed="#P" n="107"/>a peccato: secundum illud Deutero. xxiii. non offeres 
+          mer<lb ed="#P" n="108" break="no"/>cedem prostibuli nec precium canis. per precium 
+          <lb ed="#P" n="109"/>canis iniquum donum vel rapinam prohibet dicit 
+          <lb ed="#P" n="110"/>glosa: et hoc intelligitur de decimis personalibus: 
+          <lb ed="#P" n="111"/>quia de predialibus / ecclesia a iudeo / a tyramno 
+          ter<lb ed="#P" n="112" break="no"/>ras inuadente / et a quolibet / eas suscipiet: vt 
+          con<lb ed="#P" n="113" break="no"/>sulat sue indempnitati: quia prouentus fructuum 
+          pro<lb ed="#P" n="114" break="no"/>ueneunt ex largitate diuina: propterea hoc est de 
+          <lb ed="#P" n="115"/>hitum ratie predii: et non ratione persone: cum mulier 
+          <lb ed="#P" n="116"/>vitam emendauerit: tenetur ecclle dare decimas: que 
+          <lb ed="#P" n="117"/>tunc potest eas capere. Sacerdotes tamen non dant 
+          <lb ed="#P" n="118"/>decimas potissmum personales de praediis propriss: 
+          <lb ed="#P" n="119"/>patet in ca. Nouum genus / exactionis est vt clerici a 
+          cle<lb ed="#P" n="120" break="no"/>fcig decinias gigantem nussm in less q bec le¬ 
+          <pb ed="#P" n="150-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>gamus. prediales totiens dande sunt quotiens de 
+          no<lb ed="#P" n="2" break="no"/>uo colliguntur de terra: nec omt deducere expensas 
+          <lb ed="#P" n="3"/>factas in eis. personales solent differri ad pasca 
+          vs<lb ed="#P" n="4" break="no"/>que: quia quando homo daret minutatim decimum 
+          dena<lb ed="#P" n="5" break="no"/>rium sui lucri: esset ei tedio: et ecclesie incommodo: 
+          <lb ed="#P" n="6"/>et illo tempore homines sunt maxime memores 
+          <lb ed="#P" n="7"/>sue salutis: et tunc potest negari eis eularistia / si non 
+          <lb ed="#P" n="8"/>soluant. quare illud tempus est accommodatum. 
+          alicu<lb ed="#P" n="9" break="no"/>bi in vrbibus pauca sunt predia: tunc cum maiori 
+          ri<lb ed="#P" n="10" break="no"/>gore decime personales sunt dande. Si homo 
+          ha<lb ed="#P" n="11" break="no"/>bitet in variis locis: det decimas personales 
+          vbi<lb ed="#P" n="12" break="no"/>recipit sactuia. Si habeat oues in vna prochia in vna 
+          <lb ed="#P" n="13"/>medictate amni: in alia medietate in alia partiatur decias 
+          <lb ed="#P" n="14"/>de lana / caseo / ethuismodi. Si pascantur ivna perrochia: et 
+          <lb ed="#P" n="15"/>ducantur ad ouile in alia: decine dande sunt priori perrochie. 
+          <lb ed="#P" n="16"/>de noualibus oportet videre ad quam perrochiam spectant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

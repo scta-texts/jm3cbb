@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="21-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e12389"><!-- l3d8q1 -->
+        <head xml:id="jm3cbb-e12389-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e12389-Hd1e101" type="question-title">Utrum unica filiatione an pluribus filius Dei referatur ad matrem
+    et ad Patrem in divinis</head>
+        <p xml:id="jm3cbb-e12389-d1e104">
+          <lb ed="#P" n="46"/>IN hac octaua 
+          <lb ed="#P" n="47"/>distinctione magister loquitur de 
+          <lb ed="#P" n="48"/>christi gemina natiuitate. 
+          circa<lb ed="#P" n="49" break="no"/>quam quero: an vnica filiatione 
+          <lb ed="#P" n="50"/>vel pluribus / filius dei referatur 
+          <lb ed="#P" n="51"/>ad matrem: et ad patrem in 
+          diui<lb ed="#P" n="52" break="no"/>nis. hec questio dependet ex 
+          va<lb ed="#P" n="53" break="no"/>ria positione in methaphisica de relationibus. 
+          po<lb ed="#P" n="54" break="no"/>nentes relationes a fundamento et termino 
+          distin<lb ed="#P" n="55" break="no"/>ctas / in ter se digladiantur. aliqui eorum tenent quod numquam 
+          <lb ed="#P" n="56"/>duo acccidentia eiusdem speciei siue absoluta siue 
+          re<lb ed="#P" n="57" break="no"/>spectiu a sunt in eodem subiecto: et ex consequenti 
+          di<lb ed="#P" n="58" break="no"/>cunt quod v na relatione numero fundamentum refertur 
+          <lb ed="#P" n="59"/>ad plur es terminos: vt si vnus homo haberet plures 
+          <lb ed="#P" n="60"/>filios: vna relatione ad omnes illos ipse refertur. Alii¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>dicunt quod in christo est nisi vniea filiatio qua refertur 
+          <lb ed="#P" n="62"/>ad patrem et ad matrem tperalem. si plures essent relatio 
+          <lb ed="#P" n="63"/>nes / dicunt psoles essent filii dei: quod est falsum
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e148">
+          ¶ 
+          Pro<lb ed="#P" n="64" break="no"/>hac questione soluenda pono tres concluliones. 
+          <lb ed="#P" n="65"/>Quarum prima est: si ponerem relationem distingui a 
+          <lb ed="#P" n="66"/>fundamento et termino: ponerem relationem 
+          multipli<lb ed="#P" n="67" break="no"/>cari tam ad multiplicationem fundamenti quam termini. 
+          <lb ed="#P" n="68"/>probatur primo fundamentum aliorum est falsum: quod num 
+          <lb ed="#P" n="69"/>quam duo accidentia eiusdem speciei inherent eidem 
+          sub<lb ed="#P" n="70" break="no"/>iecto primo vt ex materia de intensione notum 
+          re<lb ed="#P" n="71" break="no"/>linquo.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e168">
+          ¶ Secundo arguitur ad conclusionem. si sortes 
+          <lb ed="#P" n="72"/>habet duos filios: vno solo mortuo: manet in 
+          patre<lb ed="#P" n="73" break="no"/>paternitas: et alia desinit esse: ergo due fuerunt paternita 
+          <lb ed="#P" n="74"/>tes in fundamento respondentes duabus filiationibus 
+          <lb ed="#P" n="75"/>quando filii vixerunt. si ponas eandem relationem habere 
+          <lb ed="#P" n="76"/>varias habitudines ad varios terminos: iam 
+          ape<lb ed="#P" n="77" break="no"/>ris viam euertendi relationes. Sed dices: sortes 
+          <lb ed="#P" n="78"/>soli genitus pateris et matris habet duas habitudi 
+          <lb ed="#P" n="79"/>nes: vnam ad patrem: et aliam ad matrem: et non propterea 
+          <lb ed="#P" n="80"/>in sorte snt due filiationes: vna ad patrem: et alia 
+          <lb ed="#P" n="81"/>ad matrem: sed est eadem relatio qua refertur ad 
+          pa<lb ed="#P" n="82" break="no"/>trem et ad matrem.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e195">
+          ¶ Respondetur negando quod sit eadem 
+          re<lb ed="#P" n="83" break="no"/>latio: immo due: et tertia ad auum. quarta ad auiam: 
+          <lb ed="#P" n="84"/>ad auunculum est alia: et sic consequenter. et ad omnes 
+          pro<lb ed="#P" n="85" break="no"/>genitores est alia post resurrectionem.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e204">
+          ¶ Secunda 
+          con<lb ed="#P" n="86" break="no"/>clusio: ponendo relationes distingui a 
+          fundamen<lb ed="#P" n="87" break="no"/>to et termino / probabile est defendere quod nulla est 
+          re<lb ed="#P" n="88" break="no"/>latio in christo. probatio: supponendo quod nihil proprie in 
+          <lb ed="#P" n="89"/>heret sibiipsi: filiatio non inheret christo in ordine ad 
+          <lb ed="#P" n="90"/>patrem: nec in ordine ad matrem: quia christus secundum naturam 
+          <lb ed="#P" n="91"/>diuinam non est susceptiuus relationis accidentalis. 
+          <lb ed="#P" n="92"/>nec humanitas assumpta est filius: eo quod filius est 
+          nomen<lb ed="#P" n="93" break="no"/>suppositi. et per consequens probabile est in humanitate quod 
+          <lb ed="#P" n="94"/>non est filiatio. quia in quocumque est flliatio: ipsum est filius. 
+          li<lb ed="#P" n="95" break="no"/>cet non oporteat ad meiltiplicationem filiationum 
+          mul<lb ed="#P" n="96" break="no"/>tiplicare filios: sicut ad multiplicationem 
+          acciden<lb ed="#P" n="97" break="no"/>tium in anima non multiplicatur anima.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e233">
+          ¶ Tertia 
+          conclu<lb ed="#P" n="98" break="no"/>sio / iuxta illa que dixi in prima questione huius 
+          li<lb ed="#P" n="99" break="no"/>bri. est nisi vna filiatio christi ad matrem et christi ad 
+          <lb ed="#P" n="100"/>patrem. probatur: relatio non distinguitur a 
+          fundamen<lb ed="#P" n="101" break="no"/>to et termino: vi illic diximus: et in prima 
+          distin<lb ed="#P" n="102" break="no"/>ctione secundi. vtrobiqe in illis abstractum et 
+          concre<lb ed="#P" n="103" break="no"/>tum sunt termini sinonimi. et tunc sic: est nisi vnus 
+          fi<lb ed="#P" n="104" break="no"/>lius relatus ad patrem in diuinise ad matrem 
+          tpa<lb ed="#P" n="105" break="no"/>lem: ergo est nisi vnica filiatio. tenet consequentia a 
+          con<lb ed="#P" n="106" break="no"/>uertibilibus.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e255">
+          ¶ Contra secundam conclusionem arguit 
+          <lb ed="#P" n="107"/>sic: est vna maternitas in diua virgine tenendo 
+          fun<lb ed="#P" n="108" break="no"/>damenta: ergo ei respondit filiatio in christo
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e262">
+          ¶ Secundo 
+          ar<lb ed="#P" n="109" break="no"/>guitur: si verbum nunc per possibile relinquaret humanita 
+          <lb ed="#P" n="110"/>tem assumptam: in ipsa esset filiatio: et nulla producitur 
+          <lb ed="#P" n="111"/>de nouo: ergo prius in ea erat filiatio.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e271">
+          ¶ Ad primum 
+          raespon<lb ed="#P" n="112" break="no"/>detur concedendo antecdecedens: et negando consequentiam: fi 
+          <lb ed="#P" n="113"/>lius dei non est susceptiuus filiationis accidentalis 
+          <lb ed="#P" n="114"/>secundum diuinitatem: vt diximus. et tamen sicut isti dicunt 
+          per<lb ed="#P" n="115" break="no"/>eandem vnionem humanitati inherentem verbumt 
+          humantur<lb ed="#P" n="116" break="no"/>tas vniuntur. sic dicam hic:licet vna relatio sit 
+          equi<lb ed="#P" n="117" break="no"/>parantie: et alia disquiparantie.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e288">
+          ¶ Ad secundum 
+          ar<lb ed="#P" n="118" break="no"/>gumentum concedo quod in humanitate derelicta 
+          inci<lb ed="#P" n="119" break="no"/>peret esse filiatio ab illis causis a quibus 
+          relatio<lb ed="#P" n="120" break="no"/>nes multiplicantes ponunt: quia humanitas 
+          sepa<lb ed="#P" n="121" break="no"/>rata inciperetesse fllius prius non erat filius.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e299">
+          ¶ Con¬ 
+          <pb ed="#P" n="21-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tra tertiam conclusionem arguitur sic. filiatio 
+          verbi<lb ed="#P" n="2" break="no"/>ad patrem est eterna. filiatio verbi ad matrem ( que 
+          <lb ed="#P" n="3"/>realiter est christus ) est temporalis: modo nullum eternum 
+          <lb ed="#P" n="4"/>et necessarium est temporale et contingens: ergo non 
+          <lb ed="#P" n="5"/>est eadem filiatio christi ad patrem et ad matrem.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e317">
+          ¶ 
+          Re<lb ed="#P" n="6" break="no"/>spondetur: filiatio christi ad quodcunqe refertur 
+          <lb ed="#P" n="7"/>est res necessaria: et est eterna filiatio ad patrem: et 
+          <lb ed="#P" n="8"/>temporalis habitudo et relatio ad matrem. sed illa 
+          <lb ed="#P" n="9"/>relatio ad matrem est res necessaria: et necessaria 
+          ha<lb ed="#P" n="10" break="no"/>bitudo: sed non ad matrem. nichil aliud 
+          argumen<lb ed="#P" n="11" break="no"/>tum probat nisi quod idem est necessaria habitudo ad 
+          <lb ed="#P" n="12"/>vnum terminum: et contingens habitudo in ordine ad 
+          <lb ed="#P" n="13"/>alium. quamadmodum ipsi dicerent de habitudine in 
+          lu<lb ed="#P" n="14" break="no"/>mine naturali Aristotelis multiplicando 
+          relatio<lb ed="#P" n="15" break="no"/>nes a fundamento et termino: est vna habitudo 
+          <lb ed="#P" n="16"/>necessaria inter solem et mercurium: et habitudo 
+          con<lb ed="#P" n="17" break="no"/>tingens inter solem et rem corruptibilem in istis 
+          infe<lb ed="#P" n="18" break="no"/>rioribus.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e348">
+          ¶ Dubitatur circa hanc questionem: an 
+          <lb ed="#P" n="19"/>concedendum est christum bis natum esse.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e353">
+          ¶ Respondetur quod 
+          <lb ed="#P" n="20"/>sic. probatur: est natus et productus a pare eterna 
+          <lb ed="#P" n="21"/>liter: et temporanee a matre: ergo est bis genitiis. 
+          <lb ed="#P" n="22"/>hoc tenet Augustinus de fide ad Petrum et 
+          magi<lb ed="#P" n="23" break="no"/>ster recitat in littera inquiens: vnigenitus deus 
+          se<lb ed="#P" n="24" break="no"/>cundo natus est: semel ex patre: semel ex matre. et 
+          <lb ed="#P" n="25"/>Damascenus li. iii. ca. vii. In christo duas natiuita 
+          <lb ed="#P" n="26"/>tes veneramur: vnam ex patre eternam: aliam ex 
+          ma<lb ed="#P" n="27" break="no"/>tre temporalem.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e373">
+          ¶ Contra illud arguitur: christus bis 
+          <lb ed="#P" n="28"/>natus est: ergo bis habet esse. consequens est falsum: 
+          <lb ed="#P" n="29"/>numquam desiit esse. Secundo: propter duas actiones 
+          si<lb ed="#P" n="30" break="no"/>mul existentes non dicitur aliquis bis agere. patet: 
+          <lb ed="#P" n="31"/>si quis simul scribat et comedat: non propter hoc 
+          <lb ed="#P" n="32"/>bis a gere dicitur: sed natiuitas christi temporalis et 
+          <lb ed="#P" n="33"/>eterna simul fuerunt: quia eterna natiuitate 
+          semper<lb ed="#P" n="34" break="no"/>nascitur: vt in primo libro dictum est: ergo propter 
+          <lb ed="#P" n="35"/>illas duas natiuitates non dicitur bis nasci.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e394">
+          ¶ Ad 
+          <lb ed="#P" n="36"/>primum: nego consequentiam. esse christi nihil est nisi 
+          chri<lb ed="#P" n="37" break="no"/>stus existens. licet humanitas assumpta et quaeli det 
+          <lb ed="#P" n="38"/>pars eius habeat suum esse. quelibet res existens est 
+          <lb ed="#P" n="39"/>suum esse: et quia falsum est dicere quod christus semel 
+          fue<lb ed="#P" n="40" break="no"/>rit: et desiit esse: et postea incepit esse: sic non habet 
+          <lb ed="#P" n="41"/>duplex esse. habet tamen vnum esse eternum: et deno 
+          <lb ed="#P" n="42"/>minationem temporalem humanam quo ad 
+          natiuita<lb ed="#P" n="43" break="no"/>tem. sed illud esse est aduenticium et tanquam 
+          acciden<lb ed="#P" n="44" break="no"/>tale: quia accidentaliter christo conuenit vt superius 
+          <lb ed="#P" n="45"/>diximus. et licet christus bis natus fuerit: non 
+          tamen<lb ed="#P" n="46" break="no"/>bis fuit natus de vrgine. licet bis fuerit filius 
+          vir<lb ed="#P" n="47" break="no"/>ginis: semel ante mortem: et iterato filius in resurre 
+          <lb ed="#P" n="48"/>ctione.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e425">
+          ¶ Ad secundum distinguo maiorem: si ille 
+          ac<lb ed="#P" n="49" break="no"/>tiones habent eandem mensuram adequatam: et sic 
+          con<lb ed="#P" n="50" break="no"/>ceditur. sinautem non oportet. modo sic est in proposito. 
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e432">
+          <lb ed="#P" n="51"/>¶ Secundo dubitatur: an natura diuina sit de 
+          virgi<lb ed="#P" n="52" break="no"/>ne nata: hanc dubitationem mouet magister in litte 
+          <lb ed="#P" n="53"/>pa.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e441">
+          ¶ Respondetur quod non. natura diumna non est eterna 
+          <lb ed="#P" n="54"/>productione producta: sed solum persona filii: vt in primo 
+          <lb ed="#P" n="55"/>libro diximus distinc. iiii. et cum ad generationem et 
+          <lb ed="#P" n="56"/>productionem fslii naturalis: non dicitur produci: a 
+          <lb ed="#P" n="57"/>fortiore ad productionem humanitatis non dicitur 
+          <lb ed="#P" n="58"/>produci.
+        </p>
+        <p xml:id="jm3cbb-e12389-d1e454">
+          ¶ Contra hoc arguitur auctoritate 
+          Au<lb ed="#P" n="59" break="no"/>gustini de fide ad Petrum dicentis / natura eterna 
+          <lb ed="#P" n="60"/>atque diuina non potest temporaliter concipi / nasci ex 
+          na<lb ed="#P" n="61" break="no"/>tura humana et cs. mgratur exponit hoc qui ad personam filii.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

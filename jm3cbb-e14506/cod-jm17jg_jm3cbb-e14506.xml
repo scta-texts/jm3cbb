@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="24-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e14506"><!-- l3d12q1 -->
+        <head xml:id="jm3cbb-e14506-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e14506-Hd1e101" type="question-title">An Christus potest peccare</head>
+        <p xml:id="jm3cbb-e14506-d1e104">
+          <lb ed="#P" n="18"/>IN hac duo 
+          deci<lb ed="#P" n="19" break="no"/>ma distinctione queritur: an 
+          <lb ed="#P" n="20"/>christus potest peccare. quia 
+          <lb ed="#P" n="21"/>hoc querit magister in hac 
+          di<lb ed="#P" n="22" break="no"/>stinctione capite tertio et 
+          quar<lb ed="#P" n="23" break="no"/>to. In primis premittam quid 
+          <lb ed="#P" n="24"/>nominis peccati vel peccare: 
+          <lb ed="#P" n="25"/>quod sic dari potest. Peccare nihil aliud est quam 
+          a<lb ed="#P" n="26" break="no"/>gere vel omittere contra rectam rationem: non 
+          <lb ed="#P" n="27"/>contra rectam rationem peccantis. Interdum 
+          <lb ed="#P" n="28"/>quis peccat quando non habet rectam rationem recte 
+          iu<lb ed="#P" n="29" break="no"/>dicantem quod non est peccandum: sed habet conscientiam 
+          <lb ed="#P" n="30"/>erroneam cui se conformat vel difformat. sed 
+          pec<lb ed="#P" n="31" break="no"/>cat quando agit contra rectam rationem cuiuscumque 
+          <lb ed="#P" n="32"/>recte iudicantis / dei vel alterius creature puta quando 
+          <lb ed="#P" n="33"/>sic iudicatur: hoc non est faciendum: vel hoc est 
+          fa<lb ed="#P" n="34" break="no"/>ciendum / pro peccato omissionis. Uel sic: peccatum 
+          <lb ed="#P" n="35"/>est actus quem quis facit et tenel eum non facere 
+          vel<lb ed="#P" n="36" break="no"/>est omissio actus quem homo tenetur facere.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e148">
+          ¶ hoc 
+          <lb ed="#P" n="37"/>presupposito pono conclusiones. Quarum prima est. 
+          <lb ed="#P" n="38"/>deus non potest preccare: vel deus non potest 
+          fa<lb ed="#P" n="39" break="no"/>cere peccatum. probatur hec conclusio: deus non potest 
+          <lb ed="#P" n="40"/>oblique et male agere: ergo non potest peccare. 
+          <lb ed="#P" n="41"/>consequentia tenet a conuertibilibus. antecedens patet 
+          Io<lb ed="#P" n="42" break="no"/>annis. viii. qui facit peccatum seruus est peccati: 
+          mo<lb ed="#P" n="43" break="no"/>do deus non potest esse seruus peccati. et psalmi 
+          <lb ed="#P" n="44"/>sta psal. v. quanduom non deus volens iniquitatem tu es. 
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e168">
+          <lb ed="#P" n="45"/>¶ Secunda conclusio: christus non potest peccare. probatur 
+          <lb ed="#P" n="46"/>nulla persona in diuinis potest peccare: christus est 
+          <lb ed="#P" n="47"/>persona in diuinis: ergo christus non potest peccare. 
+          <lb ed="#P" n="48"/>tenet consequentia in ferio.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e180">
+          ¶ Tertia conclusio: si 
+          <lb ed="#P" n="49"/>humanitas assumpta a verbo esset sibi relicta esset 
+          <lb ed="#P" n="50"/>impeccabilis per gratiam. patet: est pfectissima / 
+          <lb ed="#P" n="51"/>beata / et sanctissima inter omnes creaturas: 
+          cui<lb ed="#P" n="52" break="no"/>debetur maior iperdulia quam virgini / obmaiorem 
+          <lb ed="#P" n="53"/>sanctimoniam: sed quilibet beatus est impeccabilis 
+          <lb ed="#P" n="54"/>per gratiam: igitur. Item: diua virgo in via fuit 
+          im<lb ed="#P" n="55" break="no"/>peccabilis per gratiam: humanitas christi in se 
+          con<lb ed="#P" n="56" break="no"/>fiderata erat sanctior in via quam virgo: igitur.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e200">
+          ¶ 
+          Quar<lb ed="#P" n="57" break="no"/>ta conclusio: humanitas separata non est 
+          impecca<lb ed="#P" n="58" break="no"/>bilis per naturam. probatur: habet liberum arbitrium 
+          <lb ed="#P" n="59"/>sicut alie humanitates: ergo si non preseruaretur per 
+          <lb ed="#P" n="60"/>gratiam: posset se huc atque illuc ad bonum vel ma¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>lum conuertere.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e216">
+          ¶ Et ex illa conclusione sequitur qui 
+          <lb ed="#P" n="62"/>ta: quod humanitas coniuncta verbo potest peccare: 
+          pro<lb ed="#P" n="63" break="no"/>batur sic: hec humanitas separata potest peccare: 
+          pu<lb ed="#P" n="64" break="no"/>ta non est repugnantia in terminis: et hec 
+          humani<lb ed="#P" n="65" break="no"/>tas est vel esse potest humanitas conniuncta verbo: 
+          <lb ed="#P" n="66"/>ergo humanitas verbo conniuncta potest peccare.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e229">
+          ¶ 
+          Sex<lb ed="#P" n="67" break="no"/>ta conclusio: impossibile est quod humanitas verbo 
+          con<lb ed="#P" n="68" break="no"/>iuncta peccet. puta he due propositiones sunt in 
+          <lb ed="#P" n="69"/>compossibiles: humanitas est assumpta a verbo: et 
+          huma<lb ed="#P" n="70" break="no"/>nitas eadem peccat. nunc loquor de potentia dei ab 
+          <lb ed="#P" n="71"/>soluta. de hac sola conclusione contenditur. probatur 
+          <lb ed="#P" n="72"/>hec conclusio: si humanitas assumpta peccaret / 
+          sequi<lb ed="#P" n="73" break="no"/>tur quod deus peccaret contra primam conclusionem: et quod 
+          <lb ed="#P" n="74"/>admittere est horrendum. hic potest esse tergiuersatio 
+          <lb ed="#P" n="75"/>dicendo non erit illic communicatio idiomatum propter 
+          in<lb ed="#P" n="76" break="no"/>perfectionem et difformitatem peccati. Aliqui 
+          incir<lb ed="#P" n="77" break="no"/>cuncisis labiis concedunt deum posse peccare. nolo 
+          <lb ed="#P" n="78"/>vnam illarum concedere.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e258">
+          ¶ Secundo arguitur: deus non 
+          <lb ed="#P" n="79"/>potest facere peccatum nec facere actum peccati: 
+          ob<lb ed="#P" n="80" break="no"/>difformitatem peccati. sed si natura assumpta 
+          pec<lb ed="#P" n="81" break="no"/>caret hoc attribueretur deo: igitur.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e267">
+          ¶ Tertio hoc 
+          te<lb ed="#P" n="82" break="no"/>net gla. fuper illud ad hebre. ii. Et eum qui 
+          mo<lb ed="#P" n="83" break="no"/>dico quam angeli minoratus est / sic ait: natura 
+          hu<lb ed="#P" n="84" break="no"/>mane mentis qualiter christus assumpsit que nullo 
+          mo<lb ed="#P" n="85" break="no"/>do potuit deprauari: solus deus maior est.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e279">
+          ¶ 
+          Con<lb ed="#P" n="86" break="no"/>tra primam conclusionem arguitur: cuiuslibet rei deus 
+          <lb ed="#P" n="87"/>est causa: peccatum est res: ergo peccati deus est 
+          <lb ed="#P" n="88"/>causa. in darii. similiter quemlibet actum deus 
+          influ<lb ed="#P" n="89" break="no"/>entia generali facit: peccatum est actus: ergo 
+          pec<lb ed="#P" n="90" break="no"/>catum deus facit: ergo deus / facit peccatum. et per 
+          con<lb ed="#P" n="91" break="no"/>sequens peccat. Insuper: peccatum sortes facit: 
+          er<lb ed="#P" n="92" break="no"/>go sortes peccat. ergo si peccatum deus faciat: deus 
+          <lb ed="#P" n="93"/>peecat. maior rationum duarum assumptarum pateti/ 
+          <lb ed="#P" n="94"/>Amos. iii. si erit malum in ciuitate quod non fecit do 
+          <lb ed="#P" n="95"/>minus. et Eecclsi. ii. bona et mala vitaet mors / 
+          pau<lb ed="#P" n="96" break="no"/>pertas / et honestas / a deo suut bona et mala et en 
+          <lb ed="#P" n="97"/>simbolo fidei dicimus deum creatorem omnium 
+          visi<lb ed="#P" n="98" break="no"/>biliumet inuisibilium. peccatum (cum est res) sub altero 
+          <lb ed="#P" n="99"/>mebrorum includitur. Si dicas: peccatum quo ad 
+          <lb ed="#P" n="100"/>substantiam vel quo ad subtractum producit deus: 
+          <lb ed="#P" n="101"/>non quoad difformitatem.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e316">
+          ¶ Contra hoc arguitur 
+          <lb ed="#P" n="102"/>quodlibet ens positiuum deus creat: difformitas 
+          <lb ed="#P" n="103"/>est res: ergo difformitatem deus creat. consequentia 
+          <lb ed="#P" n="104"/>tenet cum maiore: et minor patet / cum difformitas niri 
+          <lb ed="#P" n="105"/>chil aliud est quam actus difformis:  per consequens 
+          <lb ed="#P" n="106"/>est res.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e329">
+          ¶ Respondetur concedendo quod cuiuslibet 
+          <lb ed="#P" n="107"/>rei deus est causa. et etiam quod peccati deus est 
+          cau<lb ed="#P" n="108" break="no"/>sa. et peccatum deus facit. sed deus non est causa 
+          pep<lb ed="#P" n="109" break="no"/>cati. nec facit peccataum. propterea non peccat. Sortes 
+          <lb ed="#P" n="110"/>tamen facit peccatum: factio sortis in connotatum 
+          pec<lb ed="#P" n="111" break="no"/>cati cadit. et vlterius conceditur quod difformitatis 
+          <lb ed="#P" n="112"/>deus est causa: sed deus non agit difformiter.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e345">
+          ¶ 
+          Con<lb ed="#P" n="113" break="no"/>tra vltimam conclusionem arguit: sorti non repungnat 
+          <lb ed="#P" n="114"/>peccare: ergo nec humanitati christi. tenet conse 
+          <lb ed="#P" n="115"/>quentia. humanitas christi et sortes sunt eiusdem specietur 
+          <lb ed="#P" n="116"/>specialissime: exgo quod vni conuenit alteri non 
+          repu<lb ed="#P" n="117" break="no"/>gnat. Et si dicas alteri non repugnat absolute: vt 
+          <lb ed="#P" n="118"/>pote si separaretur a verbo. secus est si fuerit 
+          co<lb ed="#P" n="119" break="no"/>iuncta. Contra: si verbo vniatur non mutatur i 
+          <lb ed="#P" n="120"/>tura humanitatis: ergo quod ei separatim 
+          conu<lb ed="#P" n="121" break="no"/>vnite non repugnabit.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e367">
+          ¶ Secundo arguitur: human¬ 
+          <pb ed="#P" n="25-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>assumpta habetliberum arbitrium: et deus non 
+          necel<lb ed="#P" n="2" break="no"/>sitatur ad concurrendum secum ad actum bonum: nec ad dam 
+          <lb ed="#P" n="3"/>dum ei aliquem habitum supernaturalem bonum: ergo 
+          <lb ed="#P" n="4"/>potest exire in actum malum.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e383">
+          ¶ Tertio: deus potest 
+          <lb ed="#P" n="5"/>assumere naturam habentem motum primo primum 
+          cir<lb ed="#P" n="6" break="no"/>ca materiam peccati: et non est necessarium quod 
+          crea<lb ed="#P" n="7" break="no"/>turam relinquet / licet ipsa motum illum continuet: 
+          igi<lb ed="#P" n="8" break="no"/>tur.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e395">
+          ¶ Amplius: deus / potest assumere existentem in 
+          <lb ed="#P" n="9"/>culpa originali: igitur.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e400">
+          ¶ fateor: he rationes sunt 
+          <lb ed="#P" n="10"/>apparentes: sed sophistice sunt apud me. malo 
+          inge<lb ed="#P" n="11" break="no"/>nium captiuare quam propter rationum colorem 
+          extra<lb ed="#P" n="12" break="no"/>nea admittere. Ad primum argumentum sufficienter 
+          <lb ed="#P" n="13"/>responsum est inter arguendum ad finem vsque. nego 
+          con<lb ed="#P" n="14" break="no"/>sequentiam vltimam: si humanitas potest separata 
+          <lb ed="#P" n="15"/>peccare quod possibile est humanitatem conniunctam 
+          pec<lb ed="#P" n="16" break="no"/>care. digitus sortis est eiusdem speciei cum sorte: et 
+          <lb ed="#P" n="17"/>tamen ei repugnat ridere et non sorti. noticia quam 
+          <lb ed="#P" n="18"/>habeo de sorte est eiusdem speciei cum noticia quam 
+          <lb ed="#P" n="19"/>habeo de platone: et vna representat sortem alte 
+          <lb ed="#P" n="20"/>ri repugnat representare eum. ergo non inconuenit 
+          <lb ed="#P" n="21"/>quod humanitas mea potest peccare: et non 
+          humani<lb ed="#P" n="22" break="no"/>tas verbo vnita / cum illo addito. sicut sortes in 
+          lo<lb ed="#P" n="23" break="no"/>co tenebroso non potest videre: et plato in loco 
+          claro<lb ed="#P" n="24" break="no"/>potest.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e435">
+          ¶ Ad secundum: concedo quod humanitas assumpta 
+          <lb ed="#P" n="25"/>habet liberum arbitrium: et potest nullum actum 
+          ha<lb ed="#P" n="26" break="no"/>bere: et nullum habitum infusum. sed non est 
+          possibi<lb ed="#P" n="27" break="no"/>le( propter auxilium dei ) quod ipsa assumpta peccet.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e444">
+          ¶ Ad 
+          <lb ed="#P" n="28"/>tertium: nego quod verbum potest assumere naturam 
+          actu<lb ed="#P" n="29" break="no"/>peccantem siue commissiue siue omissiue. contradictio 
+          <lb ed="#P" n="30"/>nem implicat quod deus peccet: siue per naturam 
+          diui<lb ed="#P" n="31" break="no"/>nam primo: siue per communicationem idiomatum. et per 
+          con<lb ed="#P" n="32" break="no"/>sequens non potest assumere existentem in peccato 
+          <lb ed="#P" n="33"/>originali. sed actualiter existentem in peccato 
+          ori<lb ed="#P" n="34" break="no"/>ginali potest assunere / in sensu diuiso.
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e462">
+          ¶ Quarto 
+          ar<lb ed="#P" n="35" break="no"/>guitur: christus potest peccare si vult peccare: ergo 
+          <lb ed="#P" n="36"/>christus potest peccare. antecedens istius 
+          ratio<lb ed="#P" n="37" break="no"/>nalis patet: si christus vult peccare christus peccat: 
+          er<lb ed="#P" n="38" break="no"/>go christus potest peccare si christus vult peccare. 
+        </p>
+        <p xml:id="jm3cbb-e14506-d1e473">
+          <lb ed="#P" n="39"/>¶ Respondetur: consequentia est nulla. antecedens 
+          <lb ed="#P" n="40"/>est conditionalis propositio necessaria: cum est 
+          bo<lb ed="#P" n="41" break="no"/>na consequentia: et antecedens impossibile.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

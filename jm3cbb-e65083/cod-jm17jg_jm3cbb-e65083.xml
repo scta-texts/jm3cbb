@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="106-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e65083"><!-- l3d35q1 -->
+        <head xml:id="jm3cbb-e65083-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e65083-Hd1e101" type="question-title">An vita sufficienter in contemplativam et activam dividatur</head>
+        <p xml:id="jm3cbb-e65083-d1e104">
+          <lb ed="#P" n="76"/>In hac distinctione 
+          tri<lb ed="#P" n="77" break="no"/>cesimaquinta magister insistit de 
+          <lb ed="#P" n="78"/>discrimine inter sapientiam et 
+          <lb ed="#P" n="79"/>scientiam: inter sapientiam in 
+          <lb ed="#P" n="80"/>tellectum. communiter doctores hic de 
+          <lb ed="#P" n="81"/>vita contemplatiua et actiua 
+          loquun<lb ed="#P" n="82" break="no"/>tur. Propterea circa vitam contemplatiuam et 
+          acti<lb ed="#P" n="83" break="no"/>uam mouebo quaestiones. Quarum prima est: an vita 
+          suf<lb ed="#P" n="84" break="no"/>ficienter in contemplatiuam et actiuam diuidatur. Secunda erit: 
+          <lb ed="#P" n="85"/>an vita contemplatiua sit melior et magis 
+          merito<lb ed="#P" n="86" break="no"/>ria quam actiua.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e130">
+          ¶ Pro prime quaestionis solutione 
+          animad<lb ed="#P" n="87" break="no"/>uertas: vita est anima corpus / informans: vel vita sepata 
+          <lb ed="#P" n="88"/>quae intelligit et vult: non nata informare corpus. tamen 
+          <lb ed="#P" n="89"/>vitam in proposito pro modo viuendi hominum 
+          <lb ed="#P" n="90"/>accipimus: et non pro quaelibet modo viuendi: sed pro 
+          hone<lb ed="#P" n="91" break="no"/>sto.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e143">
+          ¶ Preturea scias licet viuentia a non viuentibus 
+          distin<lb ed="#P" n="92" break="no"/>guantur motu cognitione: perfectius tamen distinguuntur ab eis 
+          <lb ed="#P" n="93"/>cognitione quam motu. cognitio est duplex in genedone: scilicet 
+          sen<lb ed="#P" n="94" break="no"/>sitiuae intellectina: et secundum vtramque aliqui dicuntur 
+          vi<lb ed="#P" n="95" break="no"/>uere. vnumquodque tamen magis proprie sed cognitionem quae est in 
+          <lb ed="#P" n="96"/>eo suprema. bruta quidem fenet cognitionem sensitiuam: 
+          ho<lb ed="#P" n="97" break="no"/>mines vero secundum intellectiuam. voluptuosa vita quaeest secundum 
+          <lb ed="#P" n="98"/>sensum) quae non est homi propisa et peculiaps: sed commuis brutis 
+          <lb ed="#P" n="99"/>et hominibus: non est prope vita humana: sed bestialis: et 
+          di<lb ed="#P" n="100" break="no"/>citur vita pecudum i. Ethi. sola ergo vita quae est faet pate intelle 
+          <lb ed="#P" n="101"/>ctiuam qua est in homine suprema / dicitur vita humana¬¬ 
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e168">
+          <lb ed="#P" n="102"/>¶ Insuper: vniuscuiusque vita in eo consistit in qua maxime 
+          <lb ed="#P" n="103"/>delectatur: et cui maxime intendit: et in illo maxime 
+          <lb ed="#P" n="104"/>vult conuiuere quisquis amico. ix. Ethicorum. Et quia 
+          qui<lb ed="#P" n="105" break="no"/>dem maxime contemplationi veritatis acquiescunt: vt 
+          tha<lb ed="#P" n="106" break="no"/>les anaxagoras / tales contemplatiui dicuntur: et 
+          <lb ed="#P" n="107"/>eorum vita contemplatiua. Alii vero maxime 
+          in<lb ed="#P" n="108" break="no"/>tendunt ad regendum in policia: et ad alios 
+          diri<lb ed="#P" n="109" break="no"/>gendos: vt Temistocles / Solon / Ligurus / 
+          tali<lb ed="#P" n="110" break="no"/>um vita actiua dicitur.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e190">
+          ¶ His premissis pono 
+          con<lb ed="#P" n="111" break="no"/>clusiones: Quarum prima est: vita contemplatiua potissimum 
+          <lb ed="#P" n="112"/>consistit in contemplatione prime veritatis: hoc est / 
+          <lb ed="#P" n="113"/>dei. probatur hec conclnsio: vita contemplatiua consistit in 
+          conten<lb ed="#P" n="114" break="no"/>platione: et nobilioris obiecti contemplatio est 
+          conten<lb ed="#P" n="115" break="no"/>platio melior: vt patet primo de anima: ergo in contemplatione 
+          <lb ed="#P" n="116"/>prime viritatis maxime consistit vita contemplatiua. Secundo 
+          <lb ed="#P" n="117"/>arguitur ad idem: vita contemplatiua multorum 
+          <lb ed="#P" n="118"/>obiectorum habet contemplationes et noticias: quarum 
+          <lb ed="#P" n="119"/>nobilissimi obiecti est perfectissima noticia. ergo con¬ 
+          <pb ed="#P" n="107-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>templatio dei est perfect issimus actus vite contemplatiue. 
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e219">
+          <lb ed="#P" n="2"/>¶ Tertio ar guitur: vita felicis (quae est contemplatiua ) 
+          <lb ed="#P" n="3"/>maxime versatur in sapientia: modo sapientia 
+          po<lb ed="#P" n="4" break="no"/>tissimum est circa primam causam. igitur. Une Aristoteles 
+          <lb ed="#P" n="5"/>decimi Ethicorum. vii. capite inquit: arbitramur 
+          pre<lb ed="#P" n="6" break="no"/>terea felicitati voluptatem admixtam esse oportere. 
+          <lb ed="#P" n="7"/>Iucundissima autem operationum virtutum est ea haud 
+          du<lb ed="#P" n="8" break="no"/>bie quae per sapientiam prodit.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e237">
+          ¶ Quarto arguitur: 
+          potis<lb ed="#P" n="9" break="no"/>simus actus vite contemplatiue est vt anima etnitatem 
+          <lb ed="#P" n="10"/>imitetur et contempletur et se eternam faciat: sed 
+          <lb ed="#P" n="11"/>hoc potissimum fit in contemplatione prime cause: igitur. 
+          <lb ed="#P" n="12"/>virtualiter hanc rationem / gentilium sapientissimus 
+          <lb ed="#P" n="13"/>tangit decimi Ethicor. viii. inquiens: oportet 
+          au<lb ed="#P" n="14" break="no"/>tem non quemadmodum mouent quedam humana nos 
+          <lb ed="#P" n="15"/>sapere: cum simus homines: aut mortalia: cum simus 
+          mor<lb ed="#P" n="16" break="no"/>tales: sed qua ad fieri potest: immortales nosipsos facere. 
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e257">
+          <lb ed="#P" n="17"/>¶ Quinto arguitur ad idem. vita contemplatiua siue 
+          <lb ed="#P" n="18"/>vita felicis potissimum est in illo actu vel actibus illis 
+          <lb ed="#P" n="19"/>in quibus est maxima et purissima voluptas: sed 
+          <lb ed="#P" n="20"/>sic est in actu contemplandi primam causam: igitur. 
+          <lb ed="#P" n="21"/>maior patet in latia ex Aristo. iam allegata: et in 
+          sequenti<lb ed="#P" n="22" break="no"/>in quasic dicit: itaque philosophia mirabiles / tum 
+          <lb ed="#P" n="23"/>puritate / tum firmitate / voluptates habere 
+          vide<lb ed="#P" n="24" break="no"/>tur: atque consentaneum est rationi. patet hec conclusio per 
+          <lb ed="#P" n="25"/>Augustinum. iiii. de trinitate. c. xviii. in quae sic dicit: 
+          <lb ed="#P" n="26"/>mens rationalis purgata cont emplationem debet 
+          re<lb ed="#P" n="27" break="no"/>bus eternis.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e283">
+          ¶ Secunda conclusio: actus contemplandi 
+          cre<lb ed="#P" n="28" break="no"/>aturas pro quanto reductionem habent tanquam ad 
+          pri<lb ed="#P" n="29" break="no"/>mam causam productiuam conseruatiuam: vel tanquam 
+          pre<lb ed="#P" n="30" break="no"/>cipuam in perfectione in tota cathena siue 
+          hierar<lb ed="#P" n="31" break="no"/>chia entium: est actus vite contemplatiue. patet: quili 
+          <lb ed="#P" n="32"/>bet actus contemplandi / quo mediante ducimur in 
+          <lb ed="#P" n="33"/>cognitione prime cause / est actus vite contemplatiue 
+          <lb ed="#P" n="34"/>sufficiens: sed sic est de actu contemplandi creaturas 
+          <lb ed="#P" n="35"/>propter deum. igitur. consequentia tenet cum maiore. minor patet 
+          <lb ed="#P" n="36"/>per apostolum ad aomanos primo. Inuisibilia dei per ea quae 
+          <lb ed="#P" n="37"/>facta sunt a creatura mundi intellecta conspiciuntur. 
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e308">
+          <lb ed="#P" n="38"/>¶ Tertia conclusio. speculationes creaturarum non 
+          <lb ed="#P" n="39"/>relate actualiter ad primam causam sunt actus vite 
+          <lb ed="#P" n="40"/>contemplatiue. probatur: multi philozophorum 
+          <lb ed="#P" n="41"/>gentilium ita philosophati sunt delectantes cognosce 
+          <lb ed="#P" n="42"/>re veritates occultas rerum: qui non sunt repshendendi: sed 
+          <lb ed="#P" n="43"/>laudandi. studuerunt veritatem inuenire: et errata de 
+          <lb ed="#P" n="44"/>aliis pnrgare: homines ab ocio et luxu retrahere. modo 
+          <lb ed="#P" n="45"/>ista sunt laudabilia: sed in infimo istorum trium graduum 
+          <lb ed="#P" n="46"/>speculandi quaes in his tribus conclusionibus ponimus. 
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e330">
+          <lb ed="#P" n="47"/>¶ Quarta conclusio. due sunt vite in quibus boni 
+          ver<lb ed="#P" n="48" break="no"/>santur. probatur hec conclusio auctoritate Grego. super 
+          <lb ed="#P" n="49"/>Ezechielem dicentis: due sunt vite in quibus nos omises 
+          <lb ed="#P" n="50"/>deus perisanctum eloquium erudit: actiua scilicet et contem 
+          <lb ed="#P" n="51"/>platiua. et Beda in omelia de assumptione diue 
+          vir<lb ed="#P" n="52" break="no"/>ginis dicit quod due sorores: scilicet Marthaet Maria: 
+          <lb ed="#P" n="53"/>significant duas vitas quibus in praesenti exercetur 
+          <lb ed="#P" n="54"/>sancta ecclesia: Martha quidem actiuam: Maria vero 
+          <lb ed="#P" n="55"/>contemplatiuam significat. idem patet de aliis duabus 
+          sorori<lb ed="#P" n="56" break="no"/>bus: scilicet Rachiele et Lia.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e354">
+          ¶ Contra primam conclusionem 
+          <lb ed="#P" n="57"/>et eius probationem: et potissimum contra Aristotelem: 
+          ar<lb ed="#P" n="58" break="no"/>guitur per illud quod scribitur Eccle. iii. Altiora te ne 
+          <lb ed="#P" n="59"/>quesieris. Et aplus: non alta sapientes: sed 
+          humi<lb ed="#P" n="60" break="no"/>libus consentientes. sed celestia sunt nobis altio¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ra. et Catho. apitte archana dei celum inquirere ed 
+          <lb ed="#P" n="62"/>sit.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e372">
+          ¶ Insuper: nemo debet conari ad 
+          impossibi<lb ed="#P" n="63" break="no"/>le. sed nobis esse immortales est impossibile. 
+          volun<lb ed="#P" n="64" break="no"/>tas arguitur esse impossibilium: quia est respectu immorta 
+          <lb ed="#P" n="65"/>litatis. iii. Ethieorum.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e381">
+          ¶ Respondetur: sapere 
+          superce<lb ed="#P" n="66" break="no"/>lestia recte: siue in lumine naturali: siue in lumine 
+          <lb ed="#P" n="67"/>fidei: non est prohihitum. qui quis querit veritates 
+          circa<lb ed="#P" n="68" break="no"/>primam causam: vt eius perfectionem intelligat: 
+          co<lb ed="#P" n="69" break="no"/>gnitam magnificet est admiretur: non est malum: sed 
+          <lb ed="#P" n="70"/>studiosum. sed circa futura contingentia: et illa que 
+          <lb ed="#P" n="71"/>humanum ingenium partingere nequit: seriose inquirere 
+          <lb ed="#P" n="72"/>stultum est: et hanc supersticiosam curiositatem vetant sapientes 
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e399">
+          <lb ed="#P" n="73"/>¶ Ad vltimum argumentum respondetur: conari ad 
+          imor<lb ed="#P" n="74" break="no"/>tale dupliciter intelligitur. Uno modo: quod homo se 
+          <lb ed="#P" n="75"/>perpetuet in hac vita mortali: hoc non consulit 
+          phi<lb ed="#P" n="76" break="no"/>losophus: quia hoc non est nobis possibile: est nobis 
+          cer<lb ed="#P" n="77" break="no"/>ta periodus viuendi. Alio modo: quod curemus quod 
+          il<lb ed="#P" n="78" break="no"/>lud quod est in nobis immortale: puta intellectus qui est 
+          <lb ed="#P" n="79"/>perpetuus vt dicitur tertio de anima: perficietur 
+          opti<lb ed="#P" n="80" break="no"/>mo modo nobis possibili: et ad illud eniti debemus: 
+          <lb ed="#P" n="81"/>et hoc est quod phoius dicere vult.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e422">
+          ¶ Contra quartam 
+          con<lb ed="#P" n="82" break="no"/>clusionem arguitur: est aliqua vita mixta: pastores 
+          <lb ed="#P" n="83"/>nunc exercent actus vite contemplatiue. nunc vero actus 
+          <lb ed="#P" n="84"/>vite actiue.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e431">
+          ¶ Secundo arguitur: Aristo. dicit 
+          pri<lb ed="#P" n="85" break="no"/>mo Ethicorum: tres sunt vite maxime excellentes: 
+          <lb ed="#P" n="86"/>scilicet voluptuosa / ciuilis (quae videtur esse eadem cum 
+          acti<lb ed="#P" n="87" break="no"/>ua) et contemplatiua. ergo partitio est inconueniens 
+          <lb ed="#P" n="88"/>quae primum membrum amittit.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e442">
+          ¶ Tertio. dilectio dei 
+          <lb ed="#P" n="89"/>ad neutram istarum viarum partinet: et vita qua homines 
+          di<lb ed="#P" n="90" break="no"/>ligunt deum est optima. igitur.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e449">
+          ¶ Ad primum istorum 
+          <lb ed="#P" n="91"/>dicitur quod illa diuisio datur de vita simplici. non est 
+          <lb ed="#P" n="92"/>neganda vita mixta ex vtraque.
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e456">
+          ¶ Ad secundum dicitur: 
+          <lb ed="#P" n="93"/>vita voluptuosa non est vita. non est vita studiosa: 
+          <lb ed="#P" n="94"/>proptererea non cadit sub diuiso. et per consequens non est 
+          <lb ed="#P" n="95"/>mirandum quod non cadat sub membris diuidentibus. 
+        </p>
+        <p xml:id="jm3cbb-e65083-d1e465">
+          <lb ed="#P" n="96"/>¶ Ad tertium dicitur quod dilectio dei maxime ad 
+          vi<lb ed="#P" n="97" break="no"/>tam contemplatiuam spectat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

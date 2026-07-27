@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="112-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e68297"><!-- l3d36q5 -->
+        <head xml:id="jm3cbb-e68297-Hd1e99">Quaestio 5</head>
+        <head xml:id="jm3cbb-e68297-Hd1e101" type="question-title">Circa quam materiam sunt continentia et incontinentia,
+    et quae incontinentia sit alia peior</head>
+        <p xml:id="jm3cbb-e68297-d1e104">
+          <lb ed="#P" n="16"/>Quinto circa materias 
+          <lb ed="#P" n="17"/>graduum virtutis quaeram quinque. 
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e111">
+          <lb ed="#P" n="18"/>¶ Primum circa quam materiam 
+          <lb ed="#P" n="19"/>sunt continentia et 
+          incontinen<lb ed="#P" n="20" break="no"/>tia: et quae incontinentia sit alia 
+          pe<lb ed="#P" n="21" break="no"/>ior.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e122">
+          ¶ Secundo quaeritur: an 
+          intemperan<lb ed="#P" n="22" break="no"/>tia sit peior incontinentia. 
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e128">
+          <lb ed="#P" n="23"/>¶ Tertio: an incontinentia concupiscentie sit 
+          turpior<lb ed="#P" n="24" break="no"/>quam incontinentia ire.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e135">
+          ¶ Quarto loquendum erit de 
+          <lb ed="#P" n="25"/>virtutibus purgatoriiset purgati animmi: an patientur 
+          <lb ed="#P" n="26"/>aliques insultus: et an spe differant continentia gradus / 
+          <lb ed="#P" n="27"/>temperantia / virtus heroica.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e144">
+          ¶ Quinto de medio virtu 
+          <lb ed="#P" n="28"/>tis.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e149">
+          ¶ Pro prime quaestionis solutione et intelligentia 
+          <lb ed="#P" n="29"/>ponuntur octo conclusiones: Quarum prima est. cotinen 
+          <lb ed="#P" n="30"/>tia / incontinentia / perseuerantia / et mollicies / sunt 
+          circa<lb ed="#P" n="31" break="no"/>delectationes et tristicias. permisla terminor 
+          expli<lb ed="#P" n="32" break="no"/>catione ex aristotele. vi. Ethi. patet hec conclusio. Conti 
+          <lb ed="#P" n="33"/>nentes autem sunt qui vehementibus concupiscentiis 
+          affecti<lb ed="#P" n="34" break="no"/>iudicium rationis sequuntur. Perseuerantes sunt qui 
+          re<lb ed="#P" n="35" break="no"/>pugnando grauibus tristiciis perdurant in opere virtutis 
+          <lb ed="#P" n="36"/>ita quod non vincuntur ab eis. Incontinentes vero 
+          di<lb ed="#P" n="37" break="no"/>cuntur qui rationis iudicio relicto vehementibus 
+          concu<lb ed="#P" n="38" break="no"/>piscentiis succumbunt. Molles vero sunt qui nec 
+          absen<lb ed="#P" n="39" break="no"/>tiam delectationum nec praesentiam tristiciarum ferre 
+          pos<lb ed="#P" n="40" break="no"/>sunt. hec omnia sunt circa delectationest tristicias. 
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e178">
+          <lb ed="#P" n="41"/>¶ Secunda conclusio. circa delectationes non necessarias: 
+          <lb ed="#P" n="42"/>vt ire / lucri / et similium / non est incontinentia simpliciteur 
+          <lb ed="#P" n="43"/>proprise dicta: sed solum secundum similitudinem. hec est 
+          <lb ed="#P" n="44"/>conclo aristo. vii. Ethi. pro cuius probatione vnam disti 
+          <lb ed="#P" n="45"/>ctionem ponit talem. facientium delectationem: quadam sunt 
+          <lb ed="#P" n="46"/>necessaria: vt alimentum / et venerea / et alia ad 
+          cor<lb ed="#P" n="47" break="no"/>pus partinentia. alia sunt per se eligibilia: quae scilicet non sunt 
+          <lb ed="#P" n="48"/>necessaria: in quibus tamen contingit superabundare: 
+          <lb ed="#P" n="49"/>vt victoria / honor / diuitie / et aliabona 
+          delectabi<lb ed="#P" n="50" break="no"/>lia. hoc supposito probat philosophus conclusionem 
+          <lb ed="#P" n="51"/>ex communi modo loquendi: in talibus excedentes cone 
+          <lb ed="#P" n="52"/>rectam ratiemt: non dicimus incontinentes simpoetltr: hoc est sine 
+          <lb ed="#P" n="53"/>addito: sed apponimus / ire / homoris / vel lucri / per hoc si 
+          <lb ed="#P" n="54"/>gnificantes incontinentiam in talibus non esse incontinentiam sipeilitr 
+          <lb ed="#P" n="55"/>dictam: sed aliam: et secundum similitudinem dictam. hanc 
+          con<lb ed="#P" n="56" break="no"/>clusionem probat philosophus a signo: quia omnis incontinen 
+          <lb ed="#P" n="57"/>tia simplicitur vituperatur: non vt peccatum solum: sed vt 
+          ma<lb ed="#P" n="58" break="no"/>licia simposoluret aliquid exprobrabile: sed nullus inconti 
+          <lb ed="#P" n="59"/>nens secundum similitudinem est tali incontinentia malus et ex 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>probrabilis.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e226">
+          ¶ Tertia conclusio: ille non dicitur mollis vel 
+          <lb ed="#P" n="61"/>incontinens qui vincitur a delectationibus veltristiciis 
+          ve<lb ed="#P" n="62" break="no"/>hementibus: sed ille qui superatur a tristiciis delecta 
+          <lb ed="#P" n="63"/>tionibus quaes multi superant / dicitur incontinens vel mollis: 
+          <lb ed="#P" n="64"/>de molli probat sic: nam mollis dicitur delicatus / qui non 
+          <lb ed="#P" n="65"/>vult ferre laborem quem multi ferunt: vt qui vestem per 
+          <lb ed="#P" n="66"/>lutum trahit nelaborem habeat in veste leuanda. de 
+          incon<lb ed="#P" n="67" break="no"/>tinentia probat hoc: quia non est mirum si quis vincatur 
+          <lb ed="#P" n="68"/>a delectationibus et tristiciis vehementibus: sed est 
+          con<lb ed="#P" n="69" break="no"/>donabile si reluctetur et contranitatur: quod probat 
+          <lb ed="#P" n="70"/>aristo. curiose et pulchre tribus exemplis. Primum 
+          <lb ed="#P" n="71"/>est de philotecte: de qua theodoctus poeta satiricus 
+          <lb ed="#P" n="72"/>mentionem facit. narrat quod iste philotectis dum 
+          avi<lb ed="#P" n="73" break="no"/>pera percuteretur: et magnum dolorem pateretur: 
+          nite<lb ed="#P" n="74" break="no"/>batur gemitum continere: tandem vehementia doloris 
+          <lb ed="#P" n="75"/>victus: clamauit vt manus percussa ei 
+          prescinde<lb ed="#P" n="76" break="no"/>retur. Secundum exemplum de tercion: de quo scribit 
+          <lb ed="#P" n="77"/>cartinus tragicus quod dolorem conceptum super 
+          corru<lb ed="#P" n="78" break="no"/>ptorem filie sue nomine halope / aliquando 
+          decen<lb ed="#P" n="79" break="no"/>ter sustinuit. sed cum halope ei corruptorem 
+          ostendis<lb ed="#P" n="80" break="no"/>set: videns se vindicare non posse: tristicia victus / 
+          <lb ed="#P" n="81"/>rogauit vt occideretur: dicens se non posse 
+          diu<lb ed="#P" n="82" break="no"/>tius tantam ferre tristiciam. Tertium: videmus ad sensum 
+          ali<lb ed="#P" n="83" break="no"/>quaes diu continere a risu: tandem tamen deuicti: immoderatius ipset 
+          <lb ed="#P" n="84"/>effundunt: sicut zenophunto acciderat qui gaudium de 
+          <lb ed="#P" n="85"/>fama sui magisterii aliquamdiu decenter portauit: 
+          tan<lb ed="#P" n="86" break="no"/>dem risum immoderatum effudit. isti non dicuntur 
+          incon<lb ed="#P" n="87" break="no"/>tinentes vel molles: quia difficile est has 
+          delectati<lb ed="#P" n="88" break="no"/>ones vel tristicias ferre.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e290">
+          ¶ Quarta conclusio: 
+          inconti<lb ed="#P" n="89" break="no"/>nentia et continentia proprie sunt circa idem obiectum 
+          <lb ed="#P" n="90"/>circa quod est temperantia et intemperantia virtus. 
+          <lb ed="#P" n="91"/>hecconclusio est aristo. vii. ethi.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e299">
+          ¶ Quinta 
+          conclu<lb ed="#P" n="92" break="no"/>sio: ad continentem et incontinentem requiritur 
+          iudici<lb ed="#P" n="93" break="no"/>um rationis bonum: et impetus passionis fortis. si quis 
+          <lb ed="#P" n="94"/>em debilem habuerit ratioem in intellectu: et ob hoc 
+          <lb ed="#P" n="95"/>passionis impetum sequatur vt pueri: non vituperatur. 
+          <lb ed="#P" n="96"/>tamen incontinens vituperatur. etiam si quis vincatur 
+          <lb ed="#P" n="97"/>a debili passione: ipse reprobatur: non solum vt 
+          in<lb ed="#P" n="98" break="no"/>continens: sed vt malus. et si vincat illam: non est 
+          mi<lb ed="#P" n="99" break="no"/>rum: nec laudabitur: continens vero laudabitur. Ex 
+          <lb ed="#P" n="100"/>his patet quod nec mulieres communiter (quarum iudicium est inua 
+          <lb ed="#P" n="101"/>lidum primo politicorum) nec pueri: nec prope polos 
+          <lb ed="#P" n="102"/>nati: sunt incontinentes proprie loquendo. tales 
+          om<lb ed="#P" n="103" break="no"/>nes habent iudicia solum imperfecta.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e328">
+          ¶ Sexta 
+          con<lb ed="#P" n="104" break="no"/>clusio. incontinentia est peccatum. probatur: est 
+          con<lb ed="#P" n="105" break="no"/>tra rectam ratioem turpia agere propter passiones / 
+          <lb ed="#P" n="106"/>etiam non vehementissimas.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e337">
+          ¶ Septima conclusio: 
+          <lb ed="#P" n="107"/>incontinentia debilium est peior incontinentia 
+          preuolan<lb ed="#P" n="108" break="no"/>tium. debiles sunt qui consiliantur et deliberant: sed non 
+          <lb ed="#P" n="109"/>persistunt in his que perraiem sunt deliberata 
+          pro<lb ed="#P" n="110" break="no"/>pter passionem superuenientem a qua vin cuntur. 
+          Alii<lb ed="#P" n="111" break="no"/>sunt qui consilium preueniunt / et deliberationem 
+          rati<lb ed="#P" n="112" break="no"/>onis / sequentes passionem: tales dicuntur preuolantes 
+          <lb ed="#P" n="113"/>et effrenati. Probatur hec conclusio: incontinentia 
+          <lb ed="#P" n="114"/>eorum qui ratioem habent cui non immanent est 
+          deterior<lb ed="#P" n="115" break="no"/>incontinentia eorum qui ratione et iudicio carent. sed in 
+          <lb ed="#P" n="116"/>continentes debiles ratiem habent cui non immanent: 
+          <lb ed="#P" n="117"/>preuolantes vero ratione carent: igitur. Probatur 
+          ma<lb ed="#P" n="118" break="no"/>ior: quia qui iudicium habent ratioem: et tamen vincuntur: 
+          <lb ed="#P" n="119"/>superantur aminone passione: et supcranmi incon¬ 
+          <pb ed="#P" n="112-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sulte. deterius enim est superari et vinci cum habetur 
+          <lb ed="#P" n="2"/>consilium de non superari et vinci quam superari sine 
+          hu<lb ed="#P" n="3" break="no"/>iusmodi consilio.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e379">
+          ¶ Octaua conclusio. incontinentia 
+          <lb ed="#P" n="4"/>habitualio est peior incontinentia naturali et 
+          assue<lb ed="#P" n="5" break="no"/>factiua. explicatis terminis / hec conclusio est 
+          luci<lb ed="#P" n="6" break="no"/>da. vocatur incontinentia habitualis / quando est 
+          habi<lb ed="#P" n="7" break="no"/>tus genitus in voluntate ex actibus quibus 
+          volun<lb ed="#P" n="8" break="no"/>tas adueniente passione inclinatur sibinon resistere: 
+          <lb ed="#P" n="9"/>sed cedere impellenti passionicono rationem. 
+          Incontinen<lb ed="#P" n="10" break="no"/>tia naturalis venit ab influentia celi vel a 
+          proge<lb ed="#P" n="11" break="no"/>nitoribus. Sunt aliqui morbi corporales gentiles: 
+          <lb ed="#P" n="12"/>sic morbi vel seminaria virtutum in homine que 
+          <lb ed="#P" n="13"/>nihil aliud sunt quam qualitates connaturales ad 
+          ho<lb ed="#P" n="14" break="no"/>num vel ad malum inclinantes. incontinentia 
+          assuefa<lb ed="#P" n="15" break="no"/>ctiua appropriate vocatur pro tempore qua quis non est 
+          ca<lb ed="#P" n="16" break="no"/>pax vsus rationis: sed tamen agit actus similes icontinenti: vt 
+          <lb ed="#P" n="17"/>pote: in iuuentute nimis comedendo vel bibendo: vt 
+          <lb ed="#P" n="18"/>dando iuueni quandocunque flet cibum et potum: iunc ex 
+          <lb ed="#P" n="19"/>hac assuefactione non imputabili iuueni (licet bene 
+          <lb ed="#P" n="20"/>custodibus) corpus qualificatur et disponitur ad 
+          inglu<lb ed="#P" n="21" break="no"/>uiem: cui quadrat illud metriste: Da puero dum vult 
+          <lb ed="#P" n="22"/>catulo dum cauda mouetur: Sic puer indoctus 
+          ca<lb ed="#P" n="23" break="no"/>tulus male pastus habetur. licet continentia 
+          habi<lb ed="#P" n="24" break="no"/>tualis ex assuefactione habetur: vt de habitu 
+          vni<lb ed="#P" n="25" break="no"/>uersaliter contingit: tamen vt distinguatur ab alio 
+          <lb ed="#P" n="26"/>membro talis est loquendi modus. his explicatis 
+          cla<lb ed="#P" n="27" break="no"/>ra est conclo. habitualis acquiritur ex actibus / 
+          incon<lb ed="#P" n="28" break="no"/>tinenti imputabilibus: assuefactiua ex actibus 
+          incon<lb ed="#P" n="29" break="no"/>tinenti nullo modo imputabilibus. licet ipsius 
+          recto<lb ed="#P" n="30" break="no"/>ribus / in iuuentute. naturalis incontinentia nulli est 
+          impu<lb ed="#P" n="31" break="no"/>tabilis.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e442">
+          ¶ Contra secundam concluonem arguitur potest 
+          <lb ed="#P" n="32"/>esse excessus in delectationibus non necessariis: vt 
+          <lb ed="#P" n="33"/>plus equo diligendo suos: vt exemplificat aristo. 
+          <lb ed="#P" n="34"/>de niobe: qui temerario ausu temptauit filios et 
+          fi<lb ed="#P" n="35" break="no"/>lias ateeponere diis: et de illo satiro philopatre 
+          qui<lb ed="#P" n="36" break="no"/>in morte patris seipsum interemit: et ille excessus 
+          <lb ed="#P" n="37"/>spectat ad vnum gradum vicii: incontinentiam / in 
+          <lb ed="#P" n="38"/>temperantiam / molliciem / vel bestialitatem: non ad 
+          <lb ed="#P" n="39"/>tria vltima: ergo spectat ad primum.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e463">
+          ¶ Respondetur 
+          <lb ed="#P" n="40"/>concedendo quod in illis est excessus sed cum ille excessus 
+          <lb ed="#P" n="41"/>non est circa materiam exprobrabilem apud 
+          homi<lb ed="#P" n="42" break="no"/>nes: non includitur proprie sine addito subvno isto 
+          <lb ed="#P" n="43"/>rum graduum: sichomines loquuntur: nisi bene 
+          <lb ed="#P" n="44"/>secundum quid. quam admodum diceremus sortes est bonus 
+          <lb ed="#P" n="45"/>medicus vel logicus: non tamen bonus simpoestlutr. sic dicimus 
+          <lb ed="#P" n="46"/>aliquem esse incontinentem ire / vel alterius vicii / cum ad 
+          <lb ed="#P" n="47"/>dito: non autem incontinentem simpeciltr. sicut de 
+          pru<lb ed="#P" n="48" break="no"/>dente in de connexione virtutum diximus. quod aristo. de 
+          <lb ed="#P" n="49"/>niobe loquutus est: cepit fictionem poeticam: de 
+          <lb ed="#P" n="50"/>qua ouidium videas sexto methamorphoseos. 
+          <lb ed="#P" n="51"/>¶Contra quartam conclusionem arguitur sic. nullus 
+          <lb ed="#P" n="52"/>potest vitare incontinentiam: sed omne peccatum quis potest 
+          <lb ed="#P" n="53"/>euitare. ergo incontinentia non est peccatau. consequentia tenet cum 
+          <lb ed="#P" n="54"/>minore: probatur maior per illud Sapientie. viii. Scio 
+          <lb ed="#P" n="55"/>quod non possum esse continens nisi deus det.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e500">
+          ¶ Afndetur illa 
+          <lb ed="#P" n="56"/>auctoritas est vna praecipua qua probatur auxilium 
+          spe<lb ed="#P" n="57" break="no"/>ciale requiri ad actum moralitr bonum: et conformiter 
+          <lb ed="#P" n="58"/>ad hoc concedo auctoritatem vt iacet. scio non possum 
+          <lb ed="#P" n="59"/>esse continens sine ope dei speciali: quam deus dat 
+          <lb ed="#P" n="60"/>quibus vult: et quando vult. ergo non est impossibile seruarecon¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tinentiam cum potest seruari habinto auxilio speciali dei. 
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e518">
+          <lb ed="#P" n="62"/>¶ Contra septimam conclusionem arguitur sic: 
+          incon<lb ed="#P" n="63" break="no"/>tinentia praeuolans magis assimilatur intemperantie quam 
+          <lb ed="#P" n="64"/>incontinentia debiliun: ergo est deterior. 
+          consequen<lb ed="#P" n="65" break="no"/>tia tenet ex dicendis in questione sequenti. 
+          antece<lb ed="#P" n="66" break="no"/>dens patet: quia praeuolans agit inconsiliatus sicut 
+          <lb ed="#P" n="67"/>intemperatus. Secundo: in preuolante ex 
+          debili<lb ed="#P" n="68" break="no"/>est vnum malum commune: scilicet non sequi 
+          ratio<lb ed="#P" n="69" break="no"/>nem: et debilis habet vnum bonum quae praeuolans caret: ergo 
+          <lb ed="#P" n="70"/>preuolans est debili deterior.
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e540">
+          ¶ Respondetur ad 
+          <lb ed="#P" n="71"/>primum concedendo quod in aliquo praeuolatio est 
+          si<lb ed="#P" n="72" break="no"/>milior intemperantie / quam debilitas. sed censequentia est 
+          <lb ed="#P" n="73"/>nulla. aliter et alitr agut intemperatuset praeuolans 
+          incon<lb ed="#P" n="74" break="no"/>siliati. praeuolans agit inconsiliatus ob vehementiam 
+          <lb ed="#P" n="75"/>passionis praeuenientis deliberationem: quam admodum 
+          <lb ed="#P" n="76"/>est in melancolico et colerico: non autem est sic de in 
+          <lb ed="#P" n="77"/>temperato: vt in questione sequenti dicetur. 
+        </p>
+        <p xml:id="jm3cbb-e68297-d1e558">
+          <lb ed="#P" n="78"/>¶ Ad secundum: concedo vtramque partem 
+          ante<lb ed="#P" n="79" break="no"/>cedentis: sed nego consequentiam. quia in debili est vnum 
+          <lb ed="#P" n="80"/>malum quod non est in preuolante: scilicet a 
+          recta<lb ed="#P" n="81" break="no"/>ratione discedere cum est habita: et hoc reddit eum 
+          <lb ed="#P" n="82"/>simpliciter deteriorem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

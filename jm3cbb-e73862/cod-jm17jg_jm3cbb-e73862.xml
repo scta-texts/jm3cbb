@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="121-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e73862"><!-- l3d37q7 -->
+        <head xml:id="jm3cbb-e73862-Hd1e99">Quaestio 7</head>
+        <head xml:id="jm3cbb-e73862-Hd1e101" type="question-title">Quid discriminis est inter praecepta affirmativa et negativa</head>
+        <p xml:id="jm3cbb-e73862-d1e104">
+          <lb ed="#P" n="55"/>CIrca tertiam partem 
+          distin<lb ed="#P" n="56" break="no"/>ctionis queritur septimo: quid 
+          discri<lb ed="#P" n="57" break="no"/>minis est inter praecepta 
+          affirmati<lb ed="#P" n="58" break="no"/>ua et negatiua.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e115">
+          ¶ Respondetur: 
+          com<lb ed="#P" n="59" break="no"/>munis distinctio est praecepta nega 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>tiua semper et pro semper obligant. affirmatiua 
+          sem<lb ed="#P" n="61" break="no"/>per obligant. sed non pro semper.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e126">
+          ¶ Contra hanc 
+          distin<lb ed="#P" n="62" break="no"/>ctionem vt intelligatur arguitur sic: diligere deum est 
+          <lb ed="#P" n="63"/>vnum preceptum affirmatiuum: et non semper obligat: 
+          <lb ed="#P" n="64"/>quia homo non tenetur semper diligere deum: ergo 
+          prece<lb ed="#P" n="65" break="no"/>pta affirmatiua non semper obligant.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e138">
+          ¶ Secundo: 
+          <lb ed="#P" n="66"/>precepta negatiua possunt adimpleri quod 
+          homo<lb ed="#P" n="67" break="no"/>illa non transgreditur nullum actum positiuu 
+          ponen<lb ed="#P" n="68" break="no"/>do in tota vita: patet: si ingrediar inter libros 
+          tu<lb ed="#P" n="69" break="no"/>os: non est necesse elicere actum quo non volo 
+          fura<lb ed="#P" n="70" break="no"/>ri libros: sufficit quod homo non capiat libros. ergo 
+          <lb ed="#P" n="71"/>praecepta negatiua non semper et pro semper obligant. 
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e154">
+          <lb ed="#P" n="72"/>¶ Pro primi argumenti solutione scito: praecepta 
+          affir<lb ed="#P" n="73" break="no"/>matiua semper obligant ad hunc sensum: quod 
+          semper<lb ed="#P" n="74" break="no"/>verum erit dicere homo obligatur ad actum praecepti 
+          affir<lb ed="#P" n="75" break="no"/>matiui. sed non pro quolibet tempore: fortasse numquam. 
+          <lb ed="#P" n="76"/>exemplum: diligere deum et reuereri parentes sunt 
+          <lb ed="#P" n="77"/>duo precepta affirmatiua decalogi: vnum prime 
+          ta<lb ed="#P" n="78" break="no"/>bule: aliud secunde. quocumque tempere dato verum est 
+          di<lb ed="#P" n="79" break="no"/>cere homo tenetur diligere deum: sicut canescere 
+          <lb ed="#P" n="80"/>est proprium homini quolibet tempore homo cane 
+          <lb ed="#P" n="81"/>scit: sed canicies ipsa determinato t empore a 
+          natu<lb ed="#P" n="82" break="no"/>ra aduenit. sic quolibet tempore homo tenetur 
+          di<lb ed="#P" n="83" break="no"/>ligere deum: licet non teneatur diligere deum pro 
+          quoli<lb ed="#P" n="84" break="no"/>bet tempore. si promitterem tibi pro aliquo opere 
+          tuo<lb ed="#P" n="85" break="no"/>centum in paschate: ita quod michi sufficiat soluere in 
+          <lb ed="#P" n="86"/>paschate: semper ante solutionem dicor tibi debere 
+          <lb ed="#P" n="87"/>centum: licet non tenear exequi solutionem nisi 
+          aduenien<lb ed="#P" n="88" break="no"/>te fine temporis in quo promitto. sic de reuerentia 
+          <lb ed="#P" n="89"/>parentum dando eis necessaria si egeant: et 
+          praeben<lb ed="#P" n="90" break="no"/>do eis honorem. stat quod sint remoti a me: et numquam te 
+          <lb ed="#P" n="91"/>nebor effectualiter eis succurrere vel honorem eis 
+          <lb ed="#P" n="92"/>impendere. non obstante dicor ad hoc obligari: quia 
+          <lb ed="#P" n="93"/>semper pro tpere et loco ad hoc obligor.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e204">
+          ¶ Quo ad ali 
+          <lb ed="#P" n="94"/>ud argumentum quo nititur probare quod nunquam 
+          homo<lb ed="#P" n="95" break="no"/>tenetur elicere actum positiuum circa precepta 
+          ne<lb ed="#P" n="96" break="no"/>gatiua: ponuntur propositiones.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e213">
+          ¶ Prima est: homo 
+          <lb ed="#P" n="97"/>in casu nunquam tenetur elicere actum praecepti negatiui: 
+          <lb ed="#P" n="98"/>patet: sufficit me intrante bibliothecam tuam non 
+          fu<lb ed="#P" n="99" break="no"/>rari libros tuos et scuta tua: licet nullum actum 
+          eli<lb ed="#P" n="100" break="no"/>ceam: ad hoc quod non dicar contrauenire praecepto 
+          nega<lb ed="#P" n="101" break="no"/>tiuo.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e226">
+          ¶ Secunda propositio: hoc modo tamen non 
+          <lb ed="#P" n="102"/>mereor: nec proprie praecepta ipsa adimpleo.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e231">
+          ¶ 
+          Ter<lb ed="#P" n="103" break="no"/>tia propositio: stat tamen in casu quod homo tenetur 
+          elice<lb ed="#P" n="104" break="no"/>re actum positiuum circa precepta negatiua: patet: 
+          <lb ed="#P" n="105"/>stat passionem esse ita vehementem quod virum 
+          illaquea<lb ed="#P" n="106" break="no"/>bit nisi actum positiuum eliceat: vt nolendo 
+          mecha<lb ed="#P" n="107" break="no"/>ri: nolendo huic temptationi consentire. qui obligatur 
+          <lb ed="#P" n="108"/>reprimere passionem obligatur ad illud sine quo non 
+          <lb ed="#P" n="109"/>potest passionem reprimere: sed hoc est per actum positiuum 
+          <lb ed="#P" n="110"/>voluntatis. Si dicas ad nullum actum voluntatis 
+          ob<lb ed="#P" n="111" break="no"/>ligatur.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e254">
+          ¶ Contra: stat quod temptatio sit ita impetuosa quod 
+          <lb ed="#P" n="112"/>peruus actus voluntatis non sufficit illam extinguere. 
+          <lb ed="#P" n="113"/>Ex isto patet quod precepta negatiua potest quis 
+          transgre<lb ed="#P" n="114" break="no"/>di per actus positiuoset per puram omissionem: per actus 
+          <lb ed="#P" n="115"/>positiuos communiter: eliciendo actus positiuos 
+          pre<lb ed="#P" n="116" break="no"/>ceptorum negatiuorum: vt volendo furari: volendo 
+          <lb ed="#P" n="117"/>occidere. per omissionem instante passione. et 
+          manife<lb ed="#P" n="118" break="no"/>stius patet hec omissio pura in preceptis 
+          affirma<lb ed="#P" n="119" break="no"/>tiuis: vt non diligendo deum quando oportet: nec reue¬ 
+          <pb ed="#P" n="121-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>rentiam exhibendo parentibus quando par est. etiam 
+          per<lb ed="#P" n="2" break="no"/>actus positiuos: vt odiendo deu vrel proximum.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e283">
+          ¶ 
+          For<lb ed="#P" n="3" break="no"/>te dicis: non datur pura omissio. quando precipitur 
+          sor<lb ed="#P" n="4" break="no"/>ti aliquem actum facere: sortes habet nolle facere 
+          <lb ed="#P" n="5"/>illum actum: et sic per actum positiuum peccat.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e292">
+          ¶ 
+          Con<lb ed="#P" n="6" break="no"/>tra: esto quod conscientia sortis dictet ei praeceptiue a esse 
+          <lb ed="#P" n="7"/>leuandum: sortes potest contrauenire conscientie non 
+          le<lb ed="#P" n="8" break="no"/>uando a. et tunc peccabit pure omittendo. similiter 
+          <lb ed="#P" n="9"/>potest aliquis apprehendere preceptum tempore qua actus 
+          <lb ed="#P" n="10"/>precepti precipitur: et nullum actum eliciendo: sed 
+          pu<lb ed="#P" n="11" break="no"/>re omittendo: quod concedo.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e308">
+          ¶ Sed contra hoc 
+          argui<lb ed="#P" n="12" break="no"/>tur: nemo meretur per puram omissionem: ergo 
+          ne<lb ed="#P" n="13" break="no"/>que demeretur per puram omissionem.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e315">
+          ¶ Secundo 
+          argui<lb ed="#P" n="14" break="no"/>tur: si esset aliqua pura omissio sequitur quod aliquis potest 
+          <lb ed="#P" n="15"/>omittere tpere quo dormit: sed hoc est inconueniens. 
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e322">
+          <lb ed="#P" n="16"/>¶ Tertio arguitur: sortes in nullo gradu tenetur 
+          di<lb ed="#P" n="17" break="no"/>ligere deum: ergo sortes omittendo dilectionem 
+          dei<lb ed="#P" n="18" break="no"/>non peccat. antecedens patet ex dictis superius de charita 
+          <lb ed="#P" n="19"/>te.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e334">
+          ¶ Ad primum istorum concedo antecedens: et nego conseqentiam. 
+          <lb ed="#P" n="20"/>Plura requiruntur ad bene agendum quam ad male 
+          agen<lb ed="#P" n="21" break="no"/>dum vel omittendum. ad bene agendum requiritur 
+          iudi<lb ed="#P" n="22" break="no"/>cium in intellectu et actus illi conformis in voluntate. 
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e343">
+          <lb ed="#P" n="23"/>¶ Secundum argumentum est nobis impartiuens: et per 
+          <lb ed="#P" n="24"/>consequens sua sequela est nulla. nego quod dormiens 
+          <lb ed="#P" n="25"/>possit demereri. vides in sensu composito intelligo. 
+          <lb ed="#P" n="26"/>semper mentem et non verba scrutaberis: nisi 
+          consul<lb ed="#P" n="27" break="no"/>to tam verba quam sensum simul misceamus. 
+          tempo<lb ed="#P" n="28" break="no"/>re quo homo non vtitur ratione: nec meretur nec 
+          <lb ed="#P" n="29"/>demeretur.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e361">
+          ¶ Ad tertium dir concedendo antecedens: sortes in 
+          nul<lb ed="#P" n="30" break="no"/>lo gradu tenetur diligere deum: sed sortes tenetur 
+          dilige<lb ed="#P" n="31" break="no"/>re deum in aliqui grodu: vt aliquo grgodu stet confuse tantum ratione 
+          <lb ed="#P" n="32"/>verbi tenetur.
+        </p>
+        <p xml:id="jm3cbb-e73862-d1e370">
+          ¶ Secundo dicitur negando 
+          ante<lb ed="#P" n="33" break="no"/>cedens: immo sortes in quolibet gradu tenetur 
+          di<lb ed="#P" n="34" break="no"/>ligere deum: sed satisfaciendo non tenetur dare 
+          om<lb ed="#P" n="35" break="no"/>nem gradum: sed sufficit quemcumque gradum dilectio 
+          <lb ed="#P" n="36"/>nis dare: quia obligatio est secundum gradum 
+          specifi<lb ed="#P" n="37" break="no"/>cum et non secundum aliquem numeralem gradum: sicut in 
+          <lb ed="#P" n="38"/>illo sophismate / debeo tibi equum. sed siue sic siue 
+          <lb ed="#P" n="39"/>siclogice dicatur sufficit. malicia omissionis mensuratur 
+          <lb ed="#P" n="40"/>penes obligationem culpe: et penes quam deus intendit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

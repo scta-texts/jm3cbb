@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 27</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 27</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="100-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e61154"><!-- l3d33q27 -->
+        <head xml:id="jm3cbb-e61154-Hd1e99">Quaestio 27</head>
+        <head xml:id="jm3cbb-e61154-Hd1e101" type="question-title">An diffinitio iustitiae ab Aristotele posita V Ethicorum 1 sit bona</head>
+        <p xml:id="jm3cbb-e61154-d1e104">
+          <lb ed="#P" n="12"/>SUperius de pudentia 
+          <lb ed="#P" n="13"/>fortitudineet temperantia virtutibus 
+          <lb ed="#P" n="14"/>icardinalibus habita est mentio: 
+          su<lb ed="#P" n="15" break="no"/>perest de iusticia alia virtute 
+          car<lb ed="#P" n="16" break="no"/>dinali loqui. Circa quam 
+          mate<lb ed="#P" n="17" break="no"/>riam moueo questiones. Quarum 
+          <lb ed="#P" n="18"/>prima est: aniusticia sit virtus. Secunda erit: an 
+          <lb ed="#P" n="19"/>iusticia distributiua et commutatiua inter se et a 
+          iusti<lb ed="#P" n="20" break="no"/>cia legali distinguantur. Tertia questio: an iudex 
+          cor<lb ed="#P" n="21" break="no"/>ruptus ferens sententiam contra partem grauius 
+          delin<lb ed="#P" n="22" break="no"/>quat quam pars iudicem corrumpens. Quarto queritur: 
+          <lb ed="#P" n="23"/>an iudex iuste potest condempnare innocentem scitum esse 
+          ta<lb ed="#P" n="24" break="no"/>le. Quinto queritur de virtutum cardinalium ordine et 
+          <lb ed="#P" n="25"/>dignitate: quae illarum est nobilissima: et penes quid virtu 
+          <lb ed="#P" n="26"/>tes cardinales et alie virtutes distinguuntur. Sexta 
+          <lb ed="#P" n="27"/>questio erit: an iusticia et cetere virtutes cardinales 
+          <lb ed="#P" n="28"/>
+          <!-- line coord error -->
+          <lb ed="#P" n="29"/>in patria manebunt. Septima questio: de partibus / 
+          po<lb ed="#P" n="30" break="no"/>tentialibus iusticie. hoc septemnnario numero 
+          quaestio<lb ed="#P" n="31" break="no"/>num circa iusticiam contenti manebimus.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e152">
+          ¶ Circa primum 
+          <lb ed="#P" n="32"/>erit hic questionis titulus: an diffinitio iusticie ab 
+          <lb ed="#P" n="33"/>Aristotele posita. v. ethicorum. i. sit bona.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e159">
+          ¶ Pro 
+          quae<lb ed="#P" n="34" break="no"/>stionis solutione scito: varie iusticia ab auctoribus 
+          <lb ed="#P" n="35"/>accipitur. Primo modo communissie pro quaelibet animi 
+          rectitu<lb ed="#P" n="36" break="no"/>dine: et sic accipit Anselmus in libro de vritate. c. xii. 
+          <lb ed="#P" n="37"/>dicens quod iusticia est rectitudo voluntatis proptur se serua 
+          <lb ed="#P" n="38"/>ta. Secundo modo pro rectitudine per quam homo iustificatur in 
+          con<lb ed="#P" n="39" break="no"/>spectu dei: et sic charitas est iusticia: et sic capit 
+          Alu<lb ed="#P" n="40" break="no"/>gustinus lib. lxxxiii. q. q. lxi. dicens quod iusticia qua per 
+          ce<lb ed="#P" n="41" break="no"/>tera diffunditur est dilectio dei et proximi. non numquam sancti 
+          vo<lb ed="#P" n="42" break="no"/>cantur iusti: secundum illud Sapientie. vi. iusti autem in perpetu 
+          <lb ed="#P" n="43"/>um viuent. sed illis modis non capimus / in proposito: sed 
+          <lb ed="#P" n="44"/>sic sicut diffinit eam Aristoteles in loco allegato 
+          in<lb ed="#P" n="45" break="no"/>quiens: videmus vtique omnes talem habitum volentes dicere 
+          <lb ed="#P" n="46"/>iusticiam: a quae operatiui iustorum sunt: et a quo iusta 
+          opan<lb ed="#P" n="47" break="no"/>tur: et volunt iusta. hec diffinitio bane explicat naturam 
+          <lb ed="#P" n="48"/>iusticie. in ea poteitur genus diffiniti: libet remotum: scilicet habitus. 
+          <lb ed="#P" n="49"/>virtutes ob permanentiam comunius habitibus attribuuntur. 
+          po<lb ed="#P" n="50" break="no"/>nitur obiectum iusticie: scilicet iusta. et quia habitus opatie notus 
+          <lb ed="#P" n="51"/>per actus euadit: ponitur eius actus: volunt iusta: et quia 
+          <lb ed="#P" n="52"/>duplex est actus. scilicet elicitus: et imperatus: vterque 
+          poni<lb ed="#P" n="53" break="no"/>tur: scilicet volunt et operantur iusta. per velle actum elicitum 
+          in<lb ed="#P" n="54" break="no"/>telligit. legissatores aliter diffiniunt: patet. ff. de iusti. 
+          <lb ed="#P" n="55"/>et iure. l. iusticia: vbi diciur. Iusticia est constans et perpetua 
+          <lb ed="#P" n="56"/>voluntas ius suum vnicuique tribuens. vbi voluntas 
+          <lb ed="#P" n="57"/>pro actu voluntatis ponitur. et additur constans et perpetua 
+          <lb ed="#P" n="58"/>propter firmitatem ipsius habitus.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e217">
+          ¶ hoc praemisso respondetur 
+          <lb ed="#P" n="59"/>ad questionem per quattuor conclusiones. Quarum 
+          prima<lb ed="#P" n="60" break="no"/>est. iusticia est virtus. Secunda conclusio. iusticia est praeclara 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>virtus. Tertia conclusio: non quaelibet iusticia est eadem 
+          spe<lb ed="#P" n="62" break="no"/>cum alia. Quarta conclusio: iusticia est virtus cardimalis. 
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e230">
+          <lb ed="#P" n="63"/>¶ Prima conclusio patet per Gregorium. ii. moralium 
+          dicen<lb ed="#P" n="64" break="no"/>tem quod in quattuor virtutibus: scilicet tmperantia / prudentia / 
+          for<lb ed="#P" n="65" break="no"/>titudine /t iusticia / tota boni operis structura 
+          consur<lb ed="#P" n="66" break="no"/>git. Probatur hec conclusio ratione. vbicumquie potest 
+          exces<lb ed="#P" n="67" break="no"/>sus esseet defectus: potest esse medium sed sic est hic. de 
+          ex<lb ed="#P" n="68" break="no"/>cessu patet in ecclesiastico: noli esse iustus nimis: et sum 
+          <lb ed="#P" n="69"/>mum ius summa iniuria. qui nimis emungit elicit 
+          sangul<lb ed="#P" n="70" break="no"/>nem. qui nimis punit homiem: crebriter durum et 
+          obstina<lb ed="#P" n="71" break="no"/>tum facit: et eum frangit: quemadmodum qui sine scissura 
+          dei<lb ed="#P" n="72" break="no"/>lis castaneam in ignem mittit. vides castaneam 
+          egredi<lb ed="#P" n="73" break="no"/>ab igne cum sono: corticem totum frangendo. de defectu 
+          <lb ed="#P" n="74"/>notum est: igitur.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e259">
+          ¶ Secunda conclusio probatur. virtus est 
+          circa<lb ed="#P" n="75" break="no"/>difficile. sed difficilius est bene se hatere in ordine ad 
+          alte<lb ed="#P" n="76" break="no"/>rum quam in ordine ad se. modo iusticia est in ordine ad 
+          alte<lb ed="#P" n="77" break="no"/>rum: vt patet. v. ethicorum. i. hanc conclusionemet probationem 
+          <lb ed="#P" n="78"/>in capite allegato probat pihoious sic inquiens: Atque 
+          perfe<lb ed="#P" n="79" break="no"/>cta maxine virtus est qua perfecte virtutis est vsus. idque est 
+          <lb ed="#P" n="80"/>ex eo: quia non ad se solum: sed ad alium estt iis qui ipsam hent 
+          <lb ed="#P" n="81"/>vti virtute potest. complures eim in propriis quidem vti psent: 
+          <lb ed="#P" n="82"/>sed in iis quae sunt ad alium vti nequeuem. et propterea seneina 
+          <lb ed="#P" n="83"/>biantis illa sese bene habere videtur. mgatiatus virum ome 
+          <lb ed="#P" n="84"/>dit: ad alium enim est: et in societate iam ipse mgatiatus 
+          consi<lb ed="#P" n="85" break="no"/>stit. Secundo arguitur. ille est pessimus qui ad seipsem vtitur 
+          <lb ed="#P" n="86"/>prauitate. e ille est optimus qui ad alium vtitur virtute. 
+          <lb ed="#P" n="87"/>hec et ratio Aristotelis inqens. Pessimus igitur est qui ad 
+          <lb ed="#P" n="88"/>seipse et ad amicos vtitur prauitate. optinius autem non qui 
+          <lb ed="#P" n="89"/>ad seips: sed qui ad alium vtitur ipsa virtute. hoc ei est opus 
+          <lb ed="#P" n="90"/>difficile. et phoisus in eodem capite dicit. Et neque est 
+          hespe<lb ed="#P" n="91" break="no"/>rus ita neque lucifer admirabilis. Et prouerbio 
+          dice<lb ed="#P" n="92" break="no"/>re solemus. Iusticia in sese virtutes continet omnes. Idem 
+          <lb ed="#P" n="93"/>habet Aug. viii. de trinitate. c. vi. dicens: iusticia est quaedam 
+          <lb ed="#P" n="94"/>pulchritudo anim qua pulchri sunt homnes plerique et 
+          qui<lb ed="#P" n="95" break="no"/>corpere distorti atque deformes sem. et quarto de ciuita 
+          <lb ed="#P" n="96"/>te dei dicit: tolle iusticiam: qua sunt regna nisi andam latro 
+          <lb ed="#P" n="97"/>cinia.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e311">
+          ¶ Tertia conclusio: scilicet: iusticia non est spenis 
+          spea<lb ed="#P" n="98" break="no"/>lissia circa omnia iusta sic probatur multa sunt obiecta 
+          iu<lb ed="#P" n="99" break="no"/>sticie spem distincta. ergo habintus ipsi spe distinguuntur. 
+          <lb ed="#P" n="100"/>consequentia est nota. ii. de anima.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e320">
+          ¶ Quarta conclusio probatur per al 
+          <lb ed="#P" n="101"/>legata crebro superius quod iusticia intur virtutes cardina 
+          <lb ed="#P" n="102"/>les amnumeratur.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e327">
+          ¶ Contra probationes ad secundam 
+          conclu<lb ed="#P" n="103" break="no"/>sionem arguitur: aliquis potest occidere seipsum: vt 
+          achi<lb ed="#P" n="104" break="no"/>tofel. talis contra se facit iniusticiam. similiter aliquis 
+          <lb ed="#P" n="105"/>punit in se peccatum commissum. ergo iusticia non est 
+          semper<lb ed="#P" n="106" break="no"/>ad alterum.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e339">
+          ¶ Ad primum dicitur: talis peccat in 
+          rempu<lb ed="#P" n="107" break="no"/>blicam: et sic peccat in alios. potest etiam peccare inse 
+          <lb ed="#P" n="108"/>tanquam in alterum: sicut punire potest a se delictum 
+          commis<lb ed="#P" n="109" break="no"/>sum acsi esset alter: quia auctoritatem sufficientem ad hoc 
+          <lb ed="#P" n="110"/>habet.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e350">
+          ¶ Contra primam conclusionem arguitur sic: omnis 
+          <lb ed="#P" n="111"/>actus virtutis meritorius est. sed actus iusticie non 
+          <lb ed="#P" n="112"/>est meritorius: quia ad actum iusticie de necessitate te 
+          <lb ed="#P" n="113"/>nemur. sed faciendo illa ad qua tenemur non meremur. 
+          <lb ed="#P" n="114"/>quod patet: Luc. xvii. cum feceritis omnia quae praecepta sunt vobis 
+          <lb ed="#P" n="115"/>dicite serui inutiles sumus: quod debebamus fecisse 
+          feci<lb ed="#P" n="116" break="no"/>mus.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e366">
+          ¶ Et confirmatur hoc: probando quod per nullum 
+          <lb ed="#P" n="117"/>opus praecepti homo meretur. patet: euangelisando 
+          quan<lb ed="#P" n="118" break="no"/>do est de praecepto: homo non meretur. ergo in nullo alio 
+          ope<lb ed="#P" n="119" break="no"/>re praecepti. antecedens patet: secundum apostolum. i. Corint. ix. 
+          <lb ed="#P" n="120"/>si euangelisauero non est mihi gloria: necessitas enim in 
+          <pb ed="#P" n="101-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cumbit michi.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e384">
+          ¶ Aespondetur. aliqui antiqui propter sonum au 
+          <lb ed="#P" n="2"/>ctoritatum tenuerunt quod homo non meretur faciendo opus 
+          praece<lb ed="#P" n="3" break="no"/>pti: quod est grande incoueniens. ho non tenetur facere 
+          ali<lb ed="#P" n="4" break="no"/>qua opera consilii: sed faciendo precise opra praecepti: heret 
+          <lb ed="#P" n="5"/>vitam. si vis ad vitam ingredi: serua mandata: sed nullus 
+          <lb ed="#P" n="6"/>adultus habembit vitam sine meritis propriis. propterea dici 
+          <lb ed="#P" n="7"/>quod homo meretur per opa prcepti: sicut per opera consilii: 
+          ne<lb ed="#P" n="8" break="no"/>cessitas coactionis tollit rationem meriti: non autem 
+          <lb ed="#P" n="9"/>necessitas praecepti.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e404">
+          ¶ Ad alio apostoli. i. ad Corit. 
+          <lb ed="#P" n="10"/>ix. intelligitur non crescit gloria debita operi 
+          super<lb ed="#P" n="11" break="no"/>erogationis: bene autem debetur gloria.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e411">
+          ¶ Contra tertiam 
+          <lb ed="#P" n="12"/>conclusionem arguitur sic. ex ea sequitur quod tot erunt vel 
+          es<lb ed="#P" n="13" break="no"/>se psent habitus iusticie spe distincti: quot sunt materie 
+          <lb ed="#P" n="14"/>iusticie spe distincte. et sic habituatus / in vna materia 
+          iu<lb ed="#P" n="15" break="no"/>sticie non erit habituatus in alia materia iusticie. et 
+          per<lb ed="#P" n="16" break="no"/>consequens in illa materia non operabitur prompte et delecta 
+          <lb ed="#P" n="17"/>biliter.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e428">
+          ¶ Conceditur illatum. et ex consequenti concedo 
+          <lb ed="#P" n="18"/>quod habituatus in vna materia iusticie: non prompte et de 
+          <lb ed="#P" n="19"/>lectabiliter operabitur in omni alia materia iusticie: 
+          <lb ed="#P" n="20"/>quia nondum habet habitum genitum in ea qui est cam prompte 
+          operan<lb ed="#P" n="21" break="no"/>ti.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e439">
+          ¶ Contra quartam conclusionem arguitur: sicut semper in 
+          <lb ed="#P" n="22"/>qualibet virtute cardinali disputauimus: vel quilibbet 
+          <lb ed="#P" n="23"/>actus et habitus / iusticie est virtus cardinalis: vel aliquis 
+          <lb ed="#P" n="24"/>sic et aliquis non. secutidum non est dicendum: quia non est 
+          ma<lb ed="#P" n="25" break="no"/>iorroo de vno actu vel habitu quam alio: si primum: multe 
+          <lb ed="#P" n="26"/>erunt virtutes cardinales contra communitr loquentes. 
+          In<lb ed="#P" n="27" break="no"/>super: melius est dicere quod habitus quo quis vult iuste 
+          <lb ed="#P" n="28"/>operari est virtus cardinalis:  alii habitus vel actus 
+          <lb ed="#P" n="29"/>particulares iusticie non sunt virtutes cardinales: 
+          <lb ed="#P" n="30"/>et tunc saluabitur vnitas specifica virtutis 
+          cardina<lb ed="#P" n="31" break="no"/>lis.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e463">
+          ¶ Respondetur sicut superius ser rpoesum est. quilibet actus 
+          <lb ed="#P" n="32"/>vel habintus iusticie est virtus cardinalis. Ad secundet: 
+          potesdi<lb ed="#P" n="33" break="no"/>cere quod habitus vniuersalis vniuersalitate obiecti est 
+          so<lb ed="#P" n="34" break="no"/>lum virtus cardimalis: vt volo iuste agere: et alii actus vel 
+          <lb ed="#P" n="35"/>habintus / iusticie: habsentes particulares matrias iusticie: non 
+          <lb ed="#P" n="36"/>sunt virtus cardinalis: sed ex isto non saluatur quin multe 
+          <lb ed="#P" n="37"/>sunt virtutes cardinales spem distincte: et multoplures 
+          <lb ed="#P" n="38"/>quam quaettuor: volo iuste facere in omni materia iusticie: 
+          no<lb ed="#P" n="39" break="no"/>lo iniuste facetusr in quaecumque materia iusticie: sunt actus 
+          spen<lb ed="#P" n="40" break="no"/>distincti: et non est maior ratio quod vnus / illorum actuum vel 
+          habitu<lb ed="#P" n="41" break="no"/>um sit virtus cardinalis quam altur: potes dicere vltra omnia 
+          <lb ed="#P" n="42"/>dicta: est vna virtus cardinalis vnitate obiecti commnis. 
+          <lb ed="#P" n="43"/>semper est idem obiectum ptiale in spe. lbet multi actus 
+          dari<lb ed="#P" n="44" break="no"/>psent spe distincti proptur discrimen specificum partialis 
+          obie<lb ed="#P" n="45" break="no"/>cti.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e496">
+          ¶ Dubitatur: an iusticia legalis sit virtus 
+          distin<lb ed="#P" n="46" break="no"/>cta ab aliis virtutibus moralibus. Uarie sunt hic 
+          potio<lb ed="#P" n="47" break="no"/>nes propter modum loquendi philosophi. placet 
+          michi<lb ed="#P" n="48" break="no"/>hec via. alie virtutes perficiunt hominemt in se: iusticia vero 
+          <lb ed="#P" n="49"/>legalis perficit hominem in ordine ad bonum commune: et dirigit 
+          <lb ed="#P" n="50"/>actus suos circa bonum commune tamquam circa finem vltimum 
+          <lb ed="#P" n="51"/>humanum. secunde Aristotelem ad iusticiam legalem partinet 
+          <lb ed="#P" n="52"/>omnim virtutum vsus: et interdum ad procurandam felicitatem 
+          <lb ed="#P" n="53"/>in ciuili communicatione. vsus vnius virtutis est magis 
+          neces<lb ed="#P" n="54" break="no"/>sarius quam alterius. ion ad ipsam pertinet prudentia 
+          colla<lb ed="#P" n="55" break="no"/>tiua inter diuersas operationes virtutum quae earum est 
+          <lb ed="#P" n="56"/>comunitati magis necessaria: et secundum hoc dictare quid 
+          <lb ed="#P" n="57"/>agendum: quid vero respuendum. Ad iusticiam legalem 
+          <lb ed="#P" n="58"/>pertinet inclinare ad illud quod est recte dictatum bonum 
+          <lb ed="#P" n="59"/>eoe dono particulari praeferendo. et sic praecipuus actus 
+          <lb ed="#P" n="60"/>eius spe distinguitur ab actibus aliarum virtutum: quia 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>aliud obiectum habet et alium finem: et actus virtutum 
+          diri<lb ed="#P" n="62" break="no"/>git circa bonumcomune. sicut charitas / aliarum virtutum 
+          <lb ed="#P" n="63"/>actus in finem vltimum dirigit.
+        </p>
+        <p xml:id="jm3cbb-e61154-d1e540">
+          ¶ Contra Aristoteles 
+          <lb ed="#P" n="64"/>dicit in. v. ethicorum quod iusticia non est pars virtutis: sed 
+          <lb ed="#P" n="65"/>tota virtus. Respondetur. Aristoteles non vult negare 
+          <lb ed="#P" n="66"/>quin iusticia legalis sit pars subiectiua virtutis. sed 
+          <lb ed="#P" n="67"/>vult dicere: non est aliqua de prioribus virtutibus 
+          <lb ed="#P" n="68"/>de quibus habita est mentio in. ii. iii. et. iiii. ethicorum. vel 
+          <lb ed="#P" n="69"/>quod regulat actus aliarum virtutum pro quanto deseruiunt 
+          <lb ed="#P" n="70"/>ad bonum commune.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

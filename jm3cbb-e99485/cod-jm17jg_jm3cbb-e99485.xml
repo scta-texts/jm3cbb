@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="163-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e99485"><!-- l3d40q4 -->
+        <head xml:id="jm3cbb-e99485-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e99485-Hd1e101" type="question-title">Utrum lex gratiae in lege Mosaica contineatur</head>
+        <p xml:id="jm3cbb-e99485-d1e104">
+          <lb ed="#P" n="46"/>QUarto quaeritur utrum 
+          <lb ed="#P" n="47"/>lex gratie in lege moysaica 
+          <lb ed="#P" n="48"/>contineatur.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e113">
+          ¶ Respondetur 
+          affir<lb ed="#P" n="49" break="no"/>matiue: probatio per illid 
+          Ez<lb ed="#P" n="50" break="no"/>chielis primo gota erat in 
+          ro<lb ed="#P" n="51" break="no"/>ta: id est: nouum tessamentum 
+          <lb ed="#P" n="52"/>in veteri erat / vt Gregorius 
+          <lb ed="#P" n="53"/>exponit.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e126">
+          ¶ Secundo arguitur ad idem: maxime 
+          cre<lb ed="#P" n="54" break="no"/>denda que habemus in fide in lege gratie / in 
+          le<lb ed="#P" n="55" break="no"/>ge veteri continentur: vt patet de aduentu messie 
+          <lb ed="#P" n="56"/>per patriarehas et prophetas: ergo lex gratie 
+          tam<lb ed="#P" n="57" break="no"/>quam consequens / in antecedente continetur in lege veteri. 
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e138">
+          <lb ed="#P" n="58"/>¶ Contra istam conclusionem arguitur sic: lex noua 
+          <lb ed="#P" n="59"/>precipue in fide consistit: vt patet homa. iiii. 
+          Simi<lb ed="#P" n="60" break="no"/>liter: credenda traduntur in noua lege quae in veteri 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>non continentur: ergo lex noua non continetur in ve 
+          <lb ed="#P" n="62"/>teri.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e154">
+          ¶ Secundo arguitur ad idem: si lex noua conti 
+          <lb ed="#P" n="63"/>neatur in veteri inanis esset lex noua: cum includatur 
+          <lb ed="#P" n="64"/>sicut consequens in antecedente.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e161">
+          ¶ Rne: lex noua 
+          explici<lb ed="#P" n="65" break="no"/>te tradit ea quae in lege veteri continentur implicitee 
+          <lb ed="#P" n="66"/>sub figura: et propterea opus erat explicatione: 
+          si<lb ed="#P" n="67" break="no"/>cut in aliis scientiis videmus / et per illationem 
+          cor<lb ed="#P" n="68" break="no"/>relariorum / et lucidam explicationem scientie.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e172">
+          ¶ 
+          Ter<lb ed="#P" n="69" break="no"/>tio arguitur: lex noua euacuat obseruantias legis 
+          vete<lb ed="#P" n="70" break="no"/>ris dicit apostolus ad Galathas. v. Ubi circuncide 
+          <lb ed="#P" n="71"/>mini christus nichil vobis proderit: ergo lex noua non 
+          <lb ed="#P" n="72"/>continetur in lege veteri. quia ingrata esset filia quae 
+          ma<lb ed="#P" n="73" break="no"/>trem de medio tolleret per quam capit continuam 
+          perma<lb ed="#P" n="74" break="no"/>nentiam. et hoc potest probari ex dicto christi Mathei. v. 
+          <lb ed="#P" n="75"/>audistis quia dictum e antiquis: quicumque dimiscrit vxorem 
+          <lb ed="#P" n="76"/>suam det ei libellum repudii: ego autem dico vobis: quicum 
+          <lb ed="#P" n="77"/>quedimiserit vxorem suam: facit eam mechari. tollit 
+          legemn<lb ed="#P" n="78" break="no"/>talionis: et breuiter omnia iudicialia et cerimonialia. 
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e196">
+          <lb ed="#P" n="79"/>¶ Ad intium distiguo. vel euacuauit quatum ad 
+          figura<lb ed="#P" n="80" break="no"/>ralem sensum illius legis: et hoc qui ad cerimonialia: et 
+          <lb ed="#P" n="81"/>sic ego concedo: quia hoc oportuit: quia illa denunciabant 
+          <lb ed="#P" n="82"/>messiam futurum: ipso veniente / iam non debebant stare lit 
+          <lb ed="#P" n="83"/>eteralitur: quia falsa repsetarentet ostenderent christum fuiurum: 
+          <lb ed="#P" n="84"/>quod est falsum et hereticum. voco futurum illum qui nondum 
+          ve<lb ed="#P" n="85" break="no"/>nit. sicut quando corpus luminosum est super centrum corperis 
+          opa<lb ed="#P" n="86" break="no"/>ci redigitur vmbra in nichilum. est errorcherinti et 
+          he<lb ed="#P" n="87" break="no"/>beonis: illa nunc seruare. iudicialia non obligant 
+          <lb ed="#P" n="88"/>inquantum sunt de illa lege: sed pro quamto statuuntur a 
+          rectoribus<lb ed="#P" n="89" break="no"/>rerumpublic. Si per euacuare intelligiquod est aliquid 
+          repu<lb ed="#P" n="90" break="no"/>gnans in lege noua alicui dicto in lege veteri: et sic ne 
+          <lb ed="#P" n="91"/>go. nullum verum sro repugnat. Sed dices: Math. v. 
+          <lb ed="#P" n="92"/>christus dixit: non veni solucre legem: sed adiplere. Anpendit 
+          <lb ed="#P" n="93"/>giosa interlinearis. implet qui figuras cessare docet 
+          <lb ed="#P" n="94"/>postquam res facta est. propaterea non veni soluere legem: sed 
+          <lb ed="#P" n="95"/>adimplere illud quod prophoise / lex /t ptriarche / et psal de 
+          <lb ed="#P" n="96"/>eo praedixertirt. sicut imminente passione dicebat: oportet 
+          <lb ed="#P" n="97"/>impleri ea quae scripta sunt in lege / e in prophetiis / et in 
+          psal<lb ed="#P" n="98" break="no"/>mis de me. Luc. xxiiii. moralia reliquit: et 
+          difficul<lb ed="#P" n="99" break="no"/>tates in eis emergentes contra supersticiosam docirinam 
+          <lb ed="#P" n="100"/>phariseorum elucidauit: vt patet math. v. nec expedie 
+          <lb ed="#P" n="101"/>bat amplius illam legem rigorosam fuari. postquam ex sua 
+          cle<lb ed="#P" n="102" break="no"/>mentia incarnatus est legem mitiorem et gratie dedit. 
+          difficili<lb ed="#P" n="103" break="no"/>bus dande sunt leges rigorose. et lcet multi christianorum 
+          ma<lb ed="#P" n="104" break="no"/>li sint: nullivel paucissimi sunt ydolatrie dediti: et tamen 
+          <lb ed="#P" n="105"/>pposolos ille erat ydolatrie deditissimus. in quailbet colle ct 
+          <lb ed="#P" n="106"/>sbquelbe arbore lucum erexit. hembant efseminatos: et 
+          hor<lb ed="#P" n="107" break="no"/>ret animmus recensere fedum lucum prapi / et effeminatos / ex 
+          <lb ed="#P" n="108"/>ydolum moloch abiectissimum. asa matrem maacham 
+          fi<lb ed="#P" n="109" break="no"/>liam a bessalom / ammouit: ne esset princeps in sacris priapiet 
+          <lb ed="#P" n="110"/>in luco eius quem consecrauerat. subuertitque specum eius: et 
+          <lb ed="#P" n="111"/>confregit simlachrum turpissimum: et conbussit in torrente 
+          <lb ed="#P" n="112"/>cedro. et si hec princeps mulier hoc fecerit in iuda: 
+          fa<lb ed="#P" n="113" break="no"/>cile est coniecturare quod igbile vulgus iude et perditissimum 
+          <lb ed="#P" n="114"/>regnum isir ad sordidiora descendit. a planta pedis 
+          <lb ed="#P" n="115"/>vsque ad verticem capitis non erat in populo sanitas. mi 
+          <lb ed="#P" n="116"/>rabile dictu: pposols dei peculiaris cui tot beneficia 
+          con<lb ed="#P" n="117" break="no"/>tulit: eum pro phlegetonteis diis gentium relinquare: sed verbum 
+          <lb ed="#P" n="118"/>ysaie. i. capis. sui libri: filios enutriui et exaltaui: 
+          ipsi<lb ed="#P" n="119" break="no"/>autem spreuerunt me. et postea loquens de regibus 
+          dor<lb ed="#P" n="120" break="no"/>ctoribus et populo subiunxit: omne caput languidum 
+          <pb ed="#P" n="164-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>et omne corpus merens. nimirum quod dedit eis ergo 
+          <lb ed="#P" n="2"/>leges difficiles: quia in chamo et freno effrenem equum 
+          <lb ed="#P" n="3"/>domare oportuit: et populo maluetiori dare leges 
+          <lb ed="#P" n="4"/>magis propicias.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e303">
+          ¶ Sed dices: cerimonialia legis 
+          <lb ed="#P" n="5"/>dabantur in fedus sempiternum: quia de circuncisione 
+          <lb ed="#P" n="6"/>Gen. xvii. habetur: omne masculinum in gaenerationibus 
+          ve<lb ed="#P" n="7" break="no"/>stris tam vernaculus quam empticius circundetur: et quicum 
+          <lb ed="#P" n="8"/>que non fuerit de stirpe vestra: eritque pactum meum 
+          <lb ed="#P" n="9"/>in carne vestra in fedus eternum. Idem patet de esu 
+          agni<lb ed="#P" n="10" break="no"/>paschalis qui fuit praeceptus cum esu azimorum in cultum eter 
+          <lb ed="#P" n="11"/>num Exodi. xii. sic patet de immolatione agni matu 
+          <lb ed="#P" n="12"/>tini et vespartini Exodi. xxix. hoc ipste patet de praecepto 
+          <lb ed="#P" n="13"/>sabbati in signum pactumque sempiternum Exodi. 
+          xxxi<lb ed="#P" n="14" break="no"/>hoc patet de paschate / penthecoste / et ceteris festis 
+          <lb ed="#P" n="15"/>pro legalibus in legittimum sempiternum / Leui. xxiii 
+          <lb ed="#P" n="16"/>et. xxix.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e333">
+          ¶ Anpodetur: per fedus eternum / intelligitur 
+          <lb ed="#P" n="17"/>fedus quod ad eternitatem ducit: sicut glosa 
+          mterli<lb ed="#P" n="18" break="no"/>nearis Goene. xvii. dicit. Secundo dicitur quod 
+          circunci<lb ed="#P" n="19" break="no"/>sio: et cetera legalia fuerunt data sub federe 
+          sempi<lb ed="#P" n="20" break="no"/>terno quo ad suam veritatem / et ad lua significata / 
+          <lb ed="#P" n="21"/>et quo ad luum finem. et sic dicuntur eterna ratione suor 
+          <lb ed="#P" n="22"/>significatorum: inquatum continuantur / e verificantur / 
+          <lb ed="#P" n="23"/>et eternificantur / per sua significata. nam sicut illa circum 
+          <lb ed="#P" n="24"/>cisio fiebat tunc carnaliter in signum circuncisionis 
+          <lb ed="#P" n="25"/>spuritalis. Ita fit hodie spuimtaliter per baptismum. et sie 
+          <lb ed="#P" n="26"/>est dicendum de agno paschali et de agno 
+          matuti<lb ed="#P" n="27" break="no"/>noet vespertino qui quottidie offertur quo ad suum 
+          <lb ed="#P" n="28"/>verum significatum in sacramento eucharistie: et sic 
+          <lb ed="#P" n="29"/>de ceteris legalibus dicatur quae in noua lege 
+          spuitali<lb ed="#P" n="30" break="no"/>ter intelliguntur. Et ex littera Geneseos patet quod non 
+          <lb ed="#P" n="31"/>ponit capere sempiternum eo modo quo 
+          inten<lb ed="#P" n="32" break="no"/>dunt: quia terra chanaam fuit abrahe et semini eius 
+          <lb ed="#P" n="33"/>promissa ineternum: quia dicit latia geneseos in. xvii. 
+          <lb ed="#P" n="34"/>daboque tibi et semini tuo terram peregrinationis 
+          <lb ed="#P" n="35"/>tue omnem terram chanaan in possessionem eternam. 
+          <lb ed="#P" n="36"/>et hebrei dicunt se solos esse genus abrahe. Non 
+          va<lb ed="#P" n="37" break="no"/>let hoc saluare per ismaelem a quo agareni descende 
+          <lb ed="#P" n="38"/>runt. Tum primo: ipsi non diu terram illam habuerunt 
+          <lb ed="#P" n="39"/>nec alii hebrei immediate ante eos ad litteram. Tum 
+          <lb ed="#P" n="40"/>secundo: promissio erat facta abrahe in ipso ysaac: 
+          <lb ed="#P" n="41"/>quia dixit dominus: sara vxortua pariet tibi filium: 
+          <lb ed="#P" n="42"/>vocabisque nomen eius ysaac: et constituam pactum 
+          <lb ed="#P" n="43"/>meum illi in fedus sempiternum / et semini eius.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e394">
+          ¶ 
+          Du<lb ed="#P" n="44" break="no"/>bitatur quare lex Moysaica dicitur lex timoris et 
+          <lb ed="#P" n="45"/>lex euangelica lex amoris. Secundo dubitatur an erit 
+          <lb ed="#P" n="46"/>difficilior lex Moysaica quam lex gratie. Tertio 
+          du<lb ed="#P" n="47" break="no"/>bitatur quomodo hoc habeat verum / littera 
+          occi<lb ed="#P" n="48" break="no"/>dit: secunde Corinth. iii. cum ex solo 
+          sensulitterali<lb ed="#P" n="49" break="no"/>sumitur argumentum ad disputandum in fide. ex 
+          sen<lb ed="#P" n="50" break="no"/>su morali proceditur ad voluntatem. vnus vno 
+          mo<lb ed="#P" n="51" break="no"/>do moralisat litteram: alter alio modo. ille sensus 
+          <lb ed="#P" n="52"/>non est vehemens contra scolasticos vel contra 
+          he<lb ed="#P" n="53" break="no"/>breos: sed valet ad rudem plebem concionando.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e418">
+          ¶ 
+          Re<lb ed="#P" n="54" break="no"/>spondetur. Lex noua initium sumpsit a perfectissima 
+          <lb ed="#P" n="55"/>christi charitate qui se holocaustum pro nobis in ara 
+          cru<lb ed="#P" n="56" break="no"/>cis obtulit. Maiorem charitatem autem nemo 
+          ha<lb ed="#P" n="57" break="no"/>bet quod vt animam suam quis ponat pro amicis suis 
+          <lb ed="#P" n="58"/>Tex timoris inducebat ad obseruantia legis 
+          sub<lb ed="#P" n="59" break="no"/>pena mortis in aliquibus: vt in adulterio / 
+          homici<lb ed="#P" n="60" break="no"/>dio: vt patet de illo qui colligit ligna in sabbato. in 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>aliis culpis atrocem imponebat penam: vt in restitutio 
+          <lb ed="#P" n="62"/>ne dupli quadrupli vel quintupii. Initium illa lex 
+          <lb ed="#P" n="63"/>cum timore accepit. vnde propter fulgura voces 
+          <lb ed="#P" n="64"/>et tonitrua in datione legis in monte ores / 
+          po<lb ed="#P" n="65" break="no"/>pulus timore perculsus clamabat: non loquatur nobis 
+          <lb ed="#P" n="66"/>dominus ne forte moriamur. Exodi. xxii. et sic illa 
+          <lb ed="#P" n="67"/>lex fuit imperfectorum. secundum illud apostoli ad 
+          <lb ed="#P" n="68"/>hebreos. vii. nichil ad perfectum perduxit lex. L. ex 
+          <lb ed="#P" n="69"/>gratie est perfectorum: secundum verbum christi Math. v. 
+          <lb ed="#P" n="70"/>Estote perfecti sieut pater vester celestis perfectus est. 
+          <lb ed="#P" n="71"/>Imperfectorum est cauere malum formidine pene: 
+          <lb ed="#P" n="72"/>et bonorum virtutis dulcedine. secundum illud 
+          hora<lb ed="#P" n="73" break="no"/>tianum. Oderunt peccare mali formidine pene. 
+          Ode<lb ed="#P" n="74" break="no"/>runt peccare boni virtutis amore. Et licet multi in 
+          <lb ed="#P" n="75"/>lege gratie sint mali: multo plures sunt boni quam in 
+          il<lb ed="#P" n="76" break="no"/>la lege fuerunt: non modo absolute: sed etiam 
+          con<lb ed="#P" n="77" break="no"/>paratiue.
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e475">
+          ¶ Ad secundam dubitationem dicitur quod 
+          to<lb ed="#P" n="78" break="no"/>ta lex vetus cathegorice erat tota lege noua 
+          mul<lb ed="#P" n="79" break="no"/>po grauior: quod patet. moralia manent eadem in 
+          <lb ed="#P" n="80"/>vtraque lege: lucidius explicata tamen in lege 
+          gra<lb ed="#P" n="81" break="no"/>tie quam in lege veteri. quod inimicum odio prosequi pote 
+          <lb ed="#P" n="82"/>rant / hoc ex doctrina falsa phariseorum habebant: 
+          <lb ed="#P" n="83"/>et non ex lege: et sic quo ad illa precepta idem est in 
+          <lb ed="#P" n="84"/>vtraque lege: melius tamen explicatum in noua. quia 
+          <lb ed="#P" n="85"/>per christum immediate. quo ad cerimonialia 
+          appri<lb ed="#P" n="86" break="no"/>me difficilis erat lex illa. Tum propter multitudinem 
+          <lb ed="#P" n="87"/>preceptorum. Tum propter difficultatem. rabi 
+          Moy<lb ed="#P" n="88" break="no"/>ses numerauit precepta legalia: eccccc. ad quae omnes 
+          <lb ed="#P" n="89"/>tenebantur. et facile patet ex pentheco. quorum 
+          mul<lb ed="#P" n="90" break="no"/>ta etiam erant difficilia: vt visitare ter 
+          Iherosoli<lb ed="#P" n="91" break="no"/>mam annue. Et licet dispensabatur cum remotis 
+          <lb ed="#P" n="92"/>de ipsa visitanda semel in anno: hoc erat difficile in 
+          <lb ed="#P" n="93"/>septimo anno feriando. et ita de multis aliis illius 
+          le<lb ed="#P" n="94" break="no"/>gis: secundum illud petri Actuum. xv. quare vultis 
+          <lb ed="#P" n="95"/>discipulis imponere onus graue quod nec nos nec 
+          pa<lb ed="#P" n="96" break="no"/>tres nostri portare potuimus. Et Math. vi. 
+          Ueni<lb ed="#P" n="97" break="no"/>te ad me omnes qui laboratis et onerati estis: loque 
+          <lb ed="#P" n="98"/>batur ad oneratos in lege. Libellus repudii non 
+          <lb ed="#P" n="99"/>reddidit legem illam faciliorem quam perpetuitas 
+          ma<lb ed="#P" n="100" break="no"/>trimonii in nostra lege respectu totius 
+          multitudi<lb ed="#P" n="101" break="no"/>nis. licet aliquibus sit perdifficile cohabitare cum 
+          <lb ed="#P" n="102"/>vxoribus: fortasse libellis repudii eis datis 
+          habe<lb ed="#P" n="103" break="no"/>rent peiores. De sacramento penitentie quod 
+          vi<lb ed="#P" n="104" break="no"/>detur prima fronte legis gratie difficile: tamen 
+          ob<lb ed="#P" n="105" break="no"/>vtilitatem quae inde prouenit de excutiendis peccatis: 
+          <lb ed="#P" n="106"/>nulli debet apparere difficilis. sacramenta 
+          pauca<lb ed="#P" n="107" break="no"/>instituitichristus. vnum de necessitate salutis respectu 
+          <lb ed="#P" n="108"/>enuiussibet: vt puta baptismum: in quo sanguis non 
+          <lb ed="#P" n="109"/>effunditur sicut in lege Moysaica in qua teneri 
+          per<lb ed="#P" n="110" break="no"/>uuli erant circuncisi cum effusione sanguinis. 
+          Pro<lb ed="#P" n="111" break="no"/>pterea sephora dixit moysi circuncidenti paruulum. 
+          <lb ed="#P" n="112"/>Spoesus sanguinum tu michi es. Exo. iiii. hoc 
+          signifi<lb ed="#P" n="113" break="no"/>cabat duriciem illius legis. penitentia sacramentum 
+          <lb ed="#P" n="114"/>est necessaria solum peccanti mortaliter: et 
+          eucha<lb ed="#P" n="115" break="no"/>ristia adulto pro loco et tempore. nullum obligabat 
+          <lb ed="#P" n="116"/>ordo vel matrimonium. extrema vnctio et 
+          confirma<lb ed="#P" n="117" break="no"/>tio non sunt difficiles. Ex isto patet quod tota 
+          multi<lb ed="#P" n="118" break="no"/>tudo praeceptorum legis gratie a christo relicta est multo 
+          <lb ed="#P" n="119"/>minor in multitudine et facilior quam multitudo 
+          praece<lb ed="#P" n="120" break="no"/>ptorum legis moysaice: secundum illud verbum 
+          <pb ed="#P" n="164-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>christi Math. xi. onus meumleue et iugum meum suaue. 
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e577">
+          <lb ed="#P" n="2"/>¶ Ad tertiam dubitationem conceditur quod ex solo 
+          sen<lb ed="#P" n="3" break="no"/>su litterali solum illud argumentum sumitur in lege. 
+          <lb ed="#P" n="4"/>sed sensus litteralis non est ille quem pauca 
+          verba<lb ed="#P" n="5" break="no"/>nude considerata faciunt: quia illa est littera 
+          secun<lb ed="#P" n="6" break="no"/>dum apostolum quae occidit. sed sensus litteralis 
+          colligi<lb ed="#P" n="7" break="no"/>tur ex verbis littere: quando non loquitur 
+          fignra<lb ed="#P" n="8" break="no"/>tiue: cum explicatione aliorum passuum scripture in 
+          <lb ed="#P" n="9"/>aliis locis. sicut Aug. dicit in libro. lxxxiii. questio 
+          <lb ed="#P" n="10"/>num: circunstantia scripturarum illuminat intellectum: 
+          <lb ed="#P" n="11"/>hoc est: vnus passus scripture exponit alium: et cui 
+          <lb ed="#P" n="12"/>hoc probat alium debere sic intelligi. vt si aliquis 
+          <lb ed="#P" n="13"/>vellet probare quod circuncisio debet manere ineter 
+          <lb ed="#P" n="14"/>num ex verbis geneseos: talis sensus est littere 
+          qui<lb ed="#P" n="15" break="no"/>occidit: hoc est: non habetur respectus ad 
+          scriptu<lb ed="#P" n="16" break="no"/>ram quae in eodem capite et alibi illum locum exponit: 
+          <lb ed="#P" n="17"/>quia in eodem capite promittitur terra chanaan 
+          ine<lb ed="#P" n="18" break="no"/>ternum: et non possunt sic hoc capere ad litteram. vt 
+          <lb ed="#P" n="19"/>patet Ihere. xxxi. In diebus illis feriam domui 
+          ia<lb ed="#P" n="20" break="no"/>cob fedus nouum: non secundum pactum quod 
+          pepegi<lb ed="#P" n="21" break="no"/>cum patribus eorum quando eduxi eos de terra egypti: 
+          <lb ed="#P" n="22"/>sed dabo legem meam in cordibus hominum et in 
+          visce<lb ed="#P" n="23" break="no"/>ribus eorum scribam eam. Isti passus eternitatem 
+          <lb ed="#P" n="24"/>cerimonialiumet iudicialium exponunt. Propterea 
+          <lb ed="#P" n="25"/>rectus sensus in quo propositio debet capi secundum 
+          ver<lb ed="#P" n="26" break="no"/>ba littere et illa quae litteram exponunt quae equalis 
+          soli<lb ed="#P" n="27" break="no"/>ditatis sunt / sensum litteralem conflant. et quia ex illo 
+          <lb ed="#P" n="28"/>toto probatur quod littera praetendit sensum spurimalem in 
+          <lb ed="#P" n="29"/>multis: vtputa quod haberet a mari vsque ad mare: quod 
+          <lb ed="#P" n="30"/>nullatenus intelligitur secundum illa verba vtsiacent. 
+          <lb ed="#P" n="31"/>nec Dauid / nec Salomon (qui ceteris eorum regibus 
+          <lb ed="#P" n="32"/>imperium iudeorum plus augmentabant) habebat 
+          <lb ed="#P" n="33"/>vnquam ad euphratem. quare in innumeris talibus ad 
+          re<lb ed="#P" n="34" break="no"/>gnum spirituale redire (secundum passus scripture hoc 
+          <lb ed="#P" n="35"/>exponentes) necesse est. Et propterea dicit apostolus 
+          <lb ed="#P" n="36"/>cultissime: littera occidit: hoc est: nuda littera vnius 
+          <lb ed="#P" n="37"/>dicti in se considerati: spiritus autem viuificat: hoc est: 
+          <lb ed="#P" n="38"/>si intelligatur spiritualiter quando ratio hoc efflagitat: et 
+          <lb ed="#P" n="39"/>alius passus scripture hoc osendit qui sine illo non eum 
+          <lb ed="#P" n="40"/>dum est ad sensum spiritualem. Quo fit non est idem lit 
+          <lb ed="#P" n="41"/>teraet sensus litteralis: nec idem est dictu / est sensus 
+          <lb ed="#P" n="42"/>littere et sensus litteralis: capiendo terminum 
+          lit<lb ed="#P" n="43" break="no"/>tera vt apostolus capit in epistola ad Corinthi. 
+          <lb ed="#P" n="44"/>et sensum litteralem sicut sapientes capiunt qui in 
+          <lb ed="#P" n="45"/>scriptura disputare habent. nec littera est 
+          abstra<lb ed="#P" n="46" break="no"/>ctum concreti litteralis secundum significationem 
+          con<lb ed="#P" n="47" break="no"/>creti et econuerso. Littera ergo illo modo relicta / 
+          sen<lb ed="#P" n="48" break="no"/>sum spiritualem et litteralem accipiamus: qui 
+          viui<lb ed="#P" n="49" break="no"/>ficat: vt vitam eternam promereamur apud illum qui 
+          <lb ed="#P" n="50"/>est via vita et veritas. Amen. 
+        </p>
+        <p xml:id="jm3cbb-e99485-d1e686">
+          <lb ed="#P" n="51"/>¶ finis tertii sententiarum Iohannis 
+          <lb ed="#P" n="52"/>Maioris doctoris Theologi 
+          Pari<lb ed="#P" n="53" break="no"/>siensis. Anno virginei partus 
+          <lb ed="#P" n="54"/>millesimo quingentesimo 
+          <lb ed="#P" n="55"/>decimo septimo. xiii. 
+          <lb ed="#P" n="56"/>Kalendas 
+          Decem<lb ed="#P" n="57" break="no"/>bris. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

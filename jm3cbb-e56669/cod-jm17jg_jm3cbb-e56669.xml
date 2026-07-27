@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 19</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 19</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="93-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e56669"><!-- l3d33q19 -->
+        <head xml:id="jm3cbb-e56669-Hd1e99">Quaestio 19</head>
+        <head xml:id="jm3cbb-e56669-Hd1e101" type="question-title">An melius sit honorare quam honorari, et an potest esse
+    excessus et defectus in his</head>
+        <p xml:id="jm3cbb-e56669-d1e104">
+          <lb ed="#P" n="30"/>QUia in questione 
+          pre<lb ed="#P" n="31" break="no"/>cedente dicebamus magnanimum 
+          <lb ed="#P" n="32"/>honorum appetitiuum. adhuc circa 
+          <lb ed="#P" n="33"/>materiam honoris vnam quaram quaestio 
+          <lb ed="#P" n="34"/>nem: erit decima circa hanc 
+          virtu<lb ed="#P" n="35" break="no"/>tem et annexa eius. Ideo quaeritur 
+          deci<lb ed="#P" n="36" break="no"/>mo talis quaestio: an melius sit 
+          hono<lb ed="#P" n="37" break="no"/>rare quom honorari: et an potest esse excessus in his. 
+          In<lb ed="#P" n="38" break="no"/>primis declarabitur in qua significatione vocabulo 
+          <lb ed="#P" n="39"/>vtimur. Postea conclusiue ad quaestionem respondebimus. 
+          In<lb ed="#P" n="40" break="no"/>proposito capimus honorem pro signo exteriore 
+          reuerem<lb ed="#P" n="41" break="no"/>tie exhibito illi cui honorem imnpendimus: vt genuflexio / 
+          <lb ed="#P" n="42"/>inclinatio capitis / et eius denudatio / vel simle. et quia ista 
+          <lb ed="#P" n="43"/>signa exteriora psent esse eqiuoca in bonam partem et in 
+          <lb ed="#P" n="44"/>malam: vt irrisorie flectendo genua vel seriose: capiam 
+          <lb ed="#P" n="45"/>in bonam partem. alis non esset alium honorare: sed 
+          inho<lb ed="#P" n="46" break="no"/>norare. homrare alium connotat intentonem exterius signum 
+          <lb ed="#P" n="47"/>exhibentis esse: quod in signum reuerentie hoc alteri 
+          impen<lb ed="#P" n="48" break="no"/>dat.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e148">
+          ¶ his praemissis pono conclusiones quaestioni 
+          respon<lb ed="#P" n="49" break="no"/>siuas: Quarum prima est. honorare est actus bonus et 
+          <lb ed="#P" n="50"/>laudabilis: dummon regulatur secundum rectam rationem. hec 
+          conclu<lb ed="#P" n="51" break="no"/>sio est nota.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e157">
+          ¶ Secunda conclusio. hhonorare melisem 
+          ho<lb ed="#P" n="52" break="no"/>noranti quod honorari honorato. probatur hec conclusio. 
+          <lb ed="#P" n="53"/>bonum intrisecum est melius bono extrinseco. bona extrinse 
+          <lb ed="#P" n="54"/>ca sunt minima bona. vt dicitur. i. Ethi. honorare est intrin 
+          <lb ed="#P" n="55"/>secum ipsi honoranti: puta actus qua vult alium honorare. 
+          <lb ed="#P" n="56"/>honor est in honorante et non in honorato. i. Ethi.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e171">
+          ¶ 
+          Se<lb ed="#P" n="57" break="no"/>cundo arguitur. actus virtutis est melior ipsa virtute. propatrea in 
+          ipso<lb ed="#P" n="58" break="no"/>constituitur felicitas secundum Aristo. i. et. x. Ethi. sed vto es 
+          me<lb ed="#P" n="59" break="no"/>lior homore: vt uir. i. Ethi. igitur actus vrtutis est melior homore. 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>sedhonorare est ipsi honoranti virtutis opus.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e184">
+          ¶ Tertio: 
+          <lb ed="#P" n="61"/>honorare reddit honorantem meliorem. honorari vero 
+          <lb ed="#P" n="62"/>non reddit honoratum meliorem: vt patet de honoribus 
+          <lb ed="#P" n="63"/>deo impensio: qui non reddunt deum meliorem. et tamen nos 
+          su<lb ed="#P" n="64" break="no"/>mus meliores ei honoremet grliam tribuentes.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e195">
+          ¶ 
+          Quar<lb ed="#P" n="65" break="no"/>to: melius est bene agere quam bene pati. honorans bene agit: 
+          al<lb ed="#P" n="66" break="no"/>ter solum bene patitur.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e202">
+          ¶ Quinto: dare pecunias est melius 
+          <lb ed="#P" n="67"/>quad ipsas accipere. ergo eodem modo dare honores est melius quod 
+          <lb ed="#P" n="68"/>honores recipere.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e209">
+          ¶ Tertia conclo:: aliqui tenentur primo 
+          <lb ed="#P" n="69"/>alios honorare. probatur. parentes filii honorare tenem 
+          <lb ed="#P" n="70"/>tur. Exodi. xx. Deutronomii. v. et Mhat. xv. et suos 
+          <lb ed="#P" n="71"/>praeceptores scolastici: et subditi suos superiorcs. probatur 
+          <lb ed="#P" n="72"/>si id nen efficiant: contemptores maiorum videntur Unde apostls: 
+          cui<lb ed="#P" n="73" break="no"/>vectigal vectigal:: cui honorem honorem: ad Roma. 
+          <lb ed="#P" n="74"/>xiii.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e225">
+          ¶ Quarta conclusio. signum humilitatiesm equalem sibi in 
+          <lb ed="#P" n="75"/>honore pueinre. probatur: ad inferiores spectat supiores 
+          <lb ed="#P" n="76"/>honorare. ve humilis iudicat se equeli inferiorem. ergo ad 
+          ip<lb ed="#P" n="77" break="no"/>sum spectat honorem alteri deferre. et habitus hunilitatis 
+          <lb ed="#P" n="78"/>eum ad hoc inclinabit: vt statimn post hac dicemus. Secundo 
+          <lb ed="#P" n="79"/>honorare est melius quam honorari ex secunda conclusione 
+          <lb ed="#P" n="80"/>et eius probatione. sed studiosi est laborare pro ope 
+          vir<lb ed="#P" n="81" break="no"/>tutis et maioris virtutis. igitur.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e244">
+          ¶ Tertio: honorare 
+          <lb ed="#P" n="82"/>equalem aut ferme equelem primo amicitiam procreat: et eam 
+          <lb ed="#P" n="83"/>alit. sed amicitia in policia est vtilis: et ad hec incliat 
+          <lb ed="#P" n="84"/>caritas: igitur. hanc rationem inuit apostolus ad Ioma. xii. 
+          di<lb ed="#P" n="85" break="no"/>cens. Caritatem fraturnitatis inuicem diligentes honore in 
+          <lb ed="#P" n="86"/>uicem praeuenientes: vbi glosa interlinealis in verbo carita 
+          <lb ed="#P" n="87"/>tem dicit: quam scilicet fratres haent inter se: vel volentes a 
+          fra<lb ed="#P" n="88" break="no"/>tribus rediligi. non est fratrnus amor nisi mutuis se praeue 
+          <lb ed="#P" n="89"/>niant obsequiis. Dixi equalem in conclusione / postea 
+          fer<lb ed="#P" n="90" break="no"/>me equalem. volo dicere: ista equaelitas consistit in quadam 
+          <lb ed="#P" n="91"/>latitudine: et non in indiuisibili. duo sunt doctores in 
+          <lb ed="#P" n="92"/>theologia vnus alium ad duos vel tres annos in 
+          gra<lb ed="#P" n="93" break="no"/>du praecessit: vel duo regentes in artibus. vel in 
+          grammati<lb ed="#P" n="94" break="no"/>ca: vel magati non regentes: inter quaes sunt duo vel tres 
+          <lb ed="#P" n="95"/>anni: ceteris paribus hos voco equales. et si vnus 
+          bene<lb ed="#P" n="96" break="no"/>ficio ecclesiastico sit donatus: et non alter: illud est 
+          bo<lb ed="#P" n="97" break="no"/>num paruum accidentale. inter honestos viros non 
+          po<lb ed="#P" n="98" break="no"/>nit inequalitatem. est doctortheologus absque 
+          bene<lb ed="#P" n="99" break="no"/>ficio: suo ingenioet industria ita homoeste viuit cum vno 
+          <lb ed="#P" n="100"/>famulo sicut rudiortheologus tres habens 
+          famu<lb ed="#P" n="101" break="no"/>los proportionabiliter ad suas opes. hos equales 
+          di<lb ed="#P" n="102" break="no"/>co. est hincinde excessus. simpliciter vnus pauperior 
+          <lb ed="#P" n="103"/>alio est melior: sed de per accidens alteri donatum est 
+          <lb ed="#P" n="104"/>sacerdotium pingue. mundus hoc aliquid reputat: 
+          <lb ed="#P" n="105"/>valeat in nomine domini quod valere potest ad 
+          equa<lb ed="#P" n="106" break="no"/>litatem.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e301">
+          ¶ Quinta conclusio: non video 
+          quomo<lb ed="#P" n="107" break="no"/>do equalis sit excusandus quin male agat: saltem 
+          <lb ed="#P" n="108"/>non resalutando simili honore equalem: eum 
+          pri<lb ed="#P" n="109" break="no"/>mo salutantem. aliquas harum conclusionum 
+          po<lb ed="#P" n="110" break="no"/>no propter scolasticos viros: quos in hoc labi 
+          vi<lb ed="#P" n="111" break="no"/>deo: et minus in hoc esse oculatos. Probatur hec 
+          <lb ed="#P" n="112"/>conclusio. Iactator quarti Ethicorum: est 
+          omni<lb ed="#P" n="113" break="no"/>bus inuisus: propterea dicit philosophus: 
+          exaltan<lb ed="#P" n="114" break="no"/>do se videtur alios deprimere: et sic est eis 
+          onero<lb ed="#P" n="115" break="no"/>sus. sed sic est de illo de quo in hac connclusione 
+          lo<lb ed="#P" n="116" break="no"/>quor: facto se super equales tollit. cum nudato 
+          ca<lb ed="#P" n="117" break="no"/>pite in parte vel in toto eum primo salutat: vix 
+          ca<lb ed="#P" n="118" break="no"/>put manu attingit. sed vel loquitur solum verbo: vel 
+          <lb ed="#P" n="119"/>nutum solum cum capite et simplici verbo resalutatur. quod 
+          <pb ed="#P" n="93-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ille male agat probatur: scandalisat alios: 
+          saluta<lb ed="#P" n="2" break="no"/>tionem et honorem mutuum et amicitiam impedit: 
+          <lb ed="#P" n="3"/>cum alii ei equales / non minus cordati / suam 
+          con<lb ed="#P" n="4" break="no"/>ditionem vident: nec eum salutant: sed vel ex industria 
+          <lb ed="#P" n="5"/>pretereunt: vel simplici verbo eum salutant. et si sint 
+          <lb ed="#P" n="6"/>in collegiis pueros scandalisant: non vtentes 
+          con<lb ed="#P" n="7" break="no"/>silio Cathonis: Saluta libenter.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e351">
+          ¶ Secundo 
+          argui<lb ed="#P" n="8" break="no"/>tur ad idem. quod ille alios non salutat equali 
+          honore<lb ed="#P" n="9" break="no"/>sicut eum salutant: hoc est quia vel credit se longe 
+          <lb ed="#P" n="10"/>superiorem alio: et tunc est superbus. vel quia 
+          repu<lb ed="#P" n="11" break="no"/>tat quod putabitur propterea vir grauior: et hoc est 
+          <lb ed="#P" n="12"/>falsum. sic nullus alium equalem obsequiose 
+          hono<lb ed="#P" n="13" break="no"/>raret: et sic est imprudens.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e367">
+          ¶ Tertio illud probatur a 
+          <lb ed="#P" n="14"/>signo: scio parisii de aliquibus probis alioquin 
+          vi<lb ed="#P" n="15" break="no"/>ris multi obloquuntur: dicentes: iste est superbus: 
+          <lb ed="#P" n="16"/>et in illius dicti approbatione adducunt illud / quod non 
+          <lb ed="#P" n="17"/>resalutat simili honore quo afficitur sibi equales in 
+          <lb ed="#P" n="18"/>collegio. istud est regentibus et aliis magistris 
+          no<lb ed="#P" n="19" break="no"/>tissimum.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e383">
+          ¶ Contra secundam conclusionem 
+          argui<lb ed="#P" n="20" break="no"/>tur. si honor est in honorante et non in honorato: 
+          se<lb ed="#P" n="21" break="no"/>quitur hec conclusio: quod rex debeat primo suos 
+          famu<lb ed="#P" n="22" break="no"/>los salutare: et scolasticos regens: regentes 
+          pri<lb ed="#P" n="23" break="no"/>marius. hoc consequens est contra communem praxim. 
+          <lb ed="#P" n="24"/>et consequentia patet: quilibet debet eniti tendere ad opera 
+          vir<lb ed="#P" n="25" break="no"/>tutum.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e399">
+          ¶ Secundo arguitur. illud est melius quod deo e 
+          <lb ed="#P" n="26"/>maioribus debetur inquantum maiores / quam illud quod 
+          <lb ed="#P" n="27"/>debetur minoribus / inquantum minores sed deo et 
+          ma<lb ed="#P" n="28" break="no"/>ioribus conuenit honorari a minoribus: et eos 
+          mino<lb ed="#P" n="29" break="no"/>res tenentur honorare.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e411">
+          ¶ Ad primum nego seque 
+          <lb ed="#P" n="30"/>lam. sicut filii parentes habent salutare: et non contra: 
+          <lb ed="#P" n="31"/>sic est hic. ordo superioritatis illud requirit. vt 
+          infe<lb ed="#P" n="32" break="no"/>rlores obedientiam addiscant: et superiores cum 
+          amo<lb ed="#P" n="33" break="no"/>re timeant: et timeant incomposite in eorum presentia 
+          <lb ed="#P" n="34"/>incidere.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e424">
+          ¶ Ad secundum dicitur quod illud est melius 
+          <lb ed="#P" n="35"/>quod conuenit deo intrinsece et maioribus secundum quod 
+          ma<lb ed="#P" n="36" break="no"/>iores sunt / quod illud quod conuenit minoribus inquantum 
+          <lb ed="#P" n="37"/>minores sunt. sed hoc non oportet ita esse de his quae 
+          <lb ed="#P" n="38"/>conueniunt maioribus et minoribus extrinseca 
+          denomi<lb ed="#P" n="39" break="no"/>natione. non enim est melius episcopo diligi a 
+          famu<lb ed="#P" n="40" break="no"/>lo suo quam econuerso.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e440">
+          ¶ Tertio arguitur. quod est 
+          appe<lb ed="#P" n="41" break="no"/>tibilius est melius. appetibilius autem est 
+          honorari<lb ed="#P" n="42" break="no"/>prout experientia docet / quam honorare. videmus enim 
+          <lb ed="#P" n="43"/>viros magnos in dignitate constitutos velle hono 
+          <lb ed="#P" n="44"/>rari. et Aristoteles primo rethorice dicit quod honor est 
+          <lb ed="#P" n="45"/>delectabilissimorum: quia fit fantasia vnicuique quod sit 
+          stu<lb ed="#P" n="46" break="no"/>diosus: quaere honor est multum appetibilis.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e456">
+          ¶ 
+          Quar<lb ed="#P" n="47" break="no"/>to arguitur: premium est melius merito: quia meritum 
+          <lb ed="#P" n="48"/>est gratia premii: et finis semper est melior his que 
+          <lb ed="#P" n="49"/>sunt ad finem. sed honorare modum meriti habet. in 
+          <lb ed="#P" n="50"/>hoc quis meretur quod alium honoret. honor autem est 
+          pre<lb ed="#P" n="51" break="no"/>mium virtutis ipsi honorato vt dicit Aristoteles. v. 
+          <lb ed="#P" n="52"/>Ethicorum: exercentibus opus iusticie merces quaedam 
+          danm<lb ed="#P" n="53" break="no"/>da: hec autem honor et gloria.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e474">
+          ¶ Quinto arguitur: illud est 
+          <lb ed="#P" n="54"/>melius quod conuenit soli bono quam illud quod indifferenter 
+          con<lb ed="#P" n="55" break="no"/>uenit bono et malo. honorare bono et malo 
+          conue<lb ed="#P" n="56" break="no"/>nit. igitur. probatio maioris: quia illud est melius per quod 
+          bo<lb ed="#P" n="57" break="no"/>num distat a malo quam per quod conuenit ei. Minor 
+          pa<lb ed="#P" n="58" break="no"/>tet: secundum Aristotelem. iiii. ethicorum. solus bonus est 
+          ho<lb ed="#P" n="59" break="no"/>norandus.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e490">
+          ¶ Ad tertium: nego illam propositionem 
+          <lb ed="#P" n="60"/>vniuersaliter intellectam: quod vere est appetibilius 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>est melius: et hoc est virtus et eius opus. superior potest 
+          <lb ed="#P" n="62"/>velle de inferiore quod eum honoret: quia potest 
+          vel<lb ed="#P" n="63" break="no"/>le virtutem bonum actum in inferiore: et sic potest 
+          <lb ed="#P" n="64"/>equalis velle de alio. honorari aliquibus prodest: 
+          <lb ed="#P" n="65"/>et potissimum ( quando honorantur a probis viris 
+          <lb ed="#P" n="66"/>eis non subiectis: qui non egent eorum opera) est 
+          <lb ed="#P" n="67"/>signum virtutis in honorato: quare honoratus 
+          ac<lb ed="#P" n="68" break="no"/>cenditur augere suam virtutem. aliquibus est 
+          ma<lb ed="#P" n="69" break="no"/>teria superbiendi: vt existimant se esse supra hoc quod 
+          <lb ed="#P" n="70"/>sint.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e520">
+          ¶ Ad quartum dico quod praemium essentiale estr melius 
+          <lb ed="#P" n="71"/>merito: vt beatitudo eterna prestat actui 
+          merito<lb ed="#P" n="72" break="no"/>rio: non sic autem oportet de premio accidentali. 
+          <lb ed="#P" n="73"/>modo honor non est premium essentiale virtutis: 
+          <lb ed="#P" n="74"/>propterea dicit Aristoteles: virtuti quidem 
+          perfe<lb ed="#P" n="75" break="no"/>cte non vtique fiet dignus honor: sed tamen virtuo 
+          <lb ed="#P" n="76"/>sus gratanter ipsum recipiet ab aliis: et non 
+          habem<lb ed="#P" n="77" break="no"/>do ipsis maiora tribuere.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e538">
+          ¶ Ad quintum: 
+          concedi<lb ed="#P" n="78" break="no"/>tur maior in his que bono et malo conueniunt 
+          in<lb ed="#P" n="79" break="no"/>trinsece: ipsa autem non est vera in his quae in eis conue 
+          <lb ed="#P" n="80"/>niunt extrinsece. Dicitur etiam quod melius est illud 
+          <lb ed="#P" n="81"/>per quod bonus in bonitate excedit malum vel minus 
+          <lb ed="#P" n="82"/>bonum quam illud in quo sibi conuenit. modo 
+          hono<lb ed="#P" n="83" break="no"/>ratus non excedit in bonitate honorantem per hoc 
+          <lb ed="#P" n="84"/>quod est honorari: sed per virtutem: propter quam 
+          ho<lb ed="#P" n="85" break="no"/>nor sibi debetur. Sed dicis: salutamus et 
+          reuere<lb ed="#P" n="86" break="no"/>mur malos et tyrannos in quibus non est virtus. 
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e560">
+          <lb ed="#P" n="87"/>¶ Rnenr: superiores malos honoramus ratione 
+          officii<lb ed="#P" n="88" break="no"/>et communitatis cui president: ve honoramus malos 
+          <lb ed="#P" n="89"/>tyrannos quatenus nichil male agant nobis: 
+          si<lb ed="#P" n="90" break="no"/>cut irrisorie dicitur de illo qui candelam comburit 
+          <lb ed="#P" n="91"/>coram diabolo quatenus non noceat. honoramus 
+          <lb ed="#P" n="92"/>aliquos ratione bonorum fortune que ab eis 
+          expe<lb ed="#P" n="93" break="no"/>ctamus: sed non ratonne virtutis: nisi de per accecedens: 
+          <lb ed="#P" n="94"/>quia nobis benefacientes bene agunt sibi: actus 
+          vir<lb ed="#P" n="95" break="no"/>tutum generantes et habitus in se.
+        </p>
+        <p xml:id="jm3cbb-e56669-d1e582">
+          ¶ Ecce 
+          hono<lb ed="#P" n="96" break="no"/>rare fratrem est laudabile: in quo defectus est 
+          tur<lb ed="#P" n="97" break="no"/>pis: et virum arrogantem coram multis 
+          probabi<lb ed="#P" n="98" break="no"/>liter arguit. potest vir grauis respectu inferiorum 
+          <lb ed="#P" n="99"/>eius in hoc excedere: sed tamen non est vicium ita 
+          <lb ed="#P" n="100"/>turpe sicut aliud: propterea melius est illi 
+          appropin<lb ed="#P" n="101" break="no"/>quare quom alteri. scolasticos primarii doceant: 
+          supe<lb ed="#P" n="102" break="no"/>riores in collegio et ingredientes honestos viros 
+          <lb ed="#P" n="103"/>honorare: vt disciplina in collegio in exteriore 
+          ho<lb ed="#P" n="104" break="no"/>mine deprehendatur: et si regentum aliquem nimis 
+          <lb ed="#P" n="105"/>honoris auidum in recipiendo: et tenacem in 
+          dan<lb ed="#P" n="106" break="no"/>do erga equales vel superiores deprehendant 
+          pri<lb ed="#P" n="107" break="no"/>marii: hunc regentem in occulto vocent: et eum 
+          in<lb ed="#P" n="108" break="no"/>struant fraternaliter: fortasse ex negligentia vel ex 
+          <lb ed="#P" n="109"/>inaduertentia facit: et in posterum se emendabit: et 
+          <lb ed="#P" n="110"/>bonum exemplar tam coram fratribus suis 
+          equali<lb ed="#P" n="111" break="no"/>bus quod coram scholasticis exhibebit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

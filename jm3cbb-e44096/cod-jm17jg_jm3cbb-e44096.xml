@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="72-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e44096"><!-- l3d29q3 -->
+        <head xml:id="jm3cbb-e44096-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e44096-Hd1e101" type="question-title">An in amore Dei possit haberi aliquis respectus ad mercedem</head>
+        <p xml:id="jm3cbb-e44096-d1e104">
+          <lb ed="#P" n="10"/>¶ Questio tertia. 
+          <lb ed="#P" n="11"/>TErtio queritur: an in 
+          amo<lb ed="#P" n="12" break="no"/>re dei possit haberi aliquis 
+          respe<lb ed="#P" n="13" break="no"/>ctus ad mercedem.
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e115">
+          ¶ Respondetur 
+          <lb ed="#P" n="14"/>per conclusiones sequentes: 
+          Qua<lb ed="#P" n="15" break="no"/>rum prima est: merces potest esse 
+          <lb ed="#P" n="16"/>causa allectiua quare aliquis 
+          dili<lb ed="#P" n="17" break="no"/>git deum. Secunda conclusio: deus non est 
+          diligen<lb ed="#P" n="18" break="no"/>dus propter mercedem tamquam finem proprie dictum 
+          <lb ed="#P" n="19"/>Tertia conclusio: deus potest diligi propter ipsum 
+          <lb ed="#P" n="20"/>dilectum: sic scilicet: quod ille actus dilectionis finaliter 
+          <lb ed="#P" n="21"/>tendat et reducatur in deum. Quarta conclusio: 
+          pu<lb ed="#P" n="22" break="no"/>rus t sincerus est amor quo deus diligitur propter 
+          <lb ed="#P" n="23"/>se.
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e139">
+          ¶ Prima conclusio probatur per illud psalmiste 
+          <lb ed="#P" n="24"/>psalmo. cxviii. Inclinaui cor meum ad faciendas 
+          <lb ed="#P" n="25"/>iustificationes tuas ineternum propter 
+          retributio<lb ed="#P" n="26" break="no"/>nem. Et ad hebreos. xi. de sanctis patribus scribitur 
+          <lb ed="#P" n="27"/>quod respiciebant in retributionem. Et glosa. Luce. xv. 
+          <lb ed="#P" n="28"/>quanti mercemnarii sunt / dicit: quod boni mercennarii 
+          <lb ed="#P" n="29"/>sunt qui deo propter mercedem seruiunt. Sed 
+          di<lb ed="#P" n="30" break="no"/>cis: deus ipse est merces: dixit abrahe: noli timere 
+          <lb ed="#P" n="31"/>abraham: ego protectortuus sum: et merces tua 
+          ma<lb ed="#P" n="32" break="no"/>gna nimis. Et glosa super illo Luce. xv. quanti 
+          mer<lb ed="#P" n="33" break="no"/>cennarii in domo patris mei abundant panibus: 
+          <lb ed="#P" n="34"/>dicit: qui future mercedis intuitu digne operari sata 
+          <lb ed="#P" n="35"/>gunt: quotidianis superne gratie reficiuntur alimen 
+          <lb ed="#P" n="36"/>tis. licet deus sit merces: procedo de mercede 
+          cre<lb ed="#P" n="37" break="no"/>ata: de qua psalmista locutus est. Et probatur 
+          rati<lb ed="#P" n="38" break="no"/>one: beatitudo formalis / dilectioni dei in via 
+          pre<lb ed="#P" n="39" break="no"/>stat: ergo saltem potest esse causa allectiua 
+          eliciendi<lb ed="#P" n="40" break="no"/>illius actus: cum minus bonum sit allectiue propter 
+          <lb ed="#P" n="41"/>maius bonum. non peruertitur ratio finis: immo 
+          opi<lb ed="#P" n="42" break="no"/>nor quod dilectio dei potest elici propter beatitudinem 
+          <lb ed="#P" n="43"/>formalem: licet non vltimate: cum minus bonum 
+          or<lb ed="#P" n="44" break="no"/>dinatur ad maius bonum: non peruertitur ordo 
+          fini<lb ed="#P" n="45" break="no"/>um.
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e190">
+          ¶ Secunda conclusio probatur: deus est prima 
+          <lb ed="#P" n="46"/>causa efficiens et finis vltimus: ego sum alpha et o: 
+          <lb ed="#P" n="47"/>Apocalipsis. primo: ergo deus non est diligendus 
+          <lb ed="#P" n="48"/>propter finem vlteriorem: quia non habet finem 
+          vl<lb ed="#P" n="49" break="no"/>teriorem.
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e201">
+          ¶ Tertia conclusio patet de actu spei in 
+          <lb ed="#P" n="50"/>distinctione. xxvi. Insuper: si ille actus esset 
+          ma<lb ed="#P" n="51" break="no"/>lus: hoc esset propterea / quia magis principale ordina 
+          <lb ed="#P" n="52"/>tur in minus principale: licet non finaliter: sed hoc 
+          <lb ed="#P" n="53"/>non probat actum esse malum. patet: homo celebrat pro 
+          <lb ed="#P" n="54"/>sex paruis albis: vt in distin. xxo. quarti dic imus. 
+          <lb ed="#P" n="55"/>modo sex parui albi sunt aliquid temporale. 
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e217">
+          <lb ed="#P" n="56"/>¶ Quarta conclusio patet: Aristo. viii. ethicoruni 
+          <lb ed="#P" n="57"/>dicit. licet in politia quis habeat multas vtilitates 
+          <lb ed="#P" n="58"/>ab alio: tamen studiosus diligit: non propter talia. 
+          <cb ed="#P" n="b"/>
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e228">
+          <lb ed="#P" n="59"/>¶ Contra ista arguiturper beatum Dernardum de 
+          di<lb ed="#P" n="60" break="no"/>ligendo deo: quod licet seruire deo sine premio non 
+          <lb ed="#P" n="61"/>posset: non tamen est ei intuitu premii seruiendum. 
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e237">
+          <lb ed="#P" n="62"/>¶ Respondetur: beatus Bernardus intelligit: quod 
+          <lb ed="#P" n="63"/>non debemus principaliter seruire deo et eum 
+          di<lb ed="#P" n="64" break="no"/>ligere propter premium: dummodo homo paratus ess 
+          <lb ed="#P" n="65"/>seruire deo sine premio. beneficia dei crebritur sunt 
+          <lb ed="#P" n="66"/>causa allectiua maioris dilectionis. ad quod 
+          proposi<lb ed="#P" n="67" break="no"/>tum aliter verbi diuini declamator / populum 
+          manu<lb ed="#P" n="68" break="no"/>ducit in via vt diligat deum: visis beneficiis 
+          popu<lb ed="#P" n="69" break="no"/>lo collatis
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e257">
+          ¶ Dubitatur: an dilectio dei sit magis 
+          <lb ed="#P" n="70"/>meritoria quod dilectio proximi
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e263">
+          ¶ Respondetur: si 
+          con<lb ed="#P" n="71" break="no"/>paretur vnus istorum amorum sine alio: sic amor 
+          proxi<lb ed="#P" n="72" break="no"/>mi non est meritorius: si non referatur ad deum 
+          ali<lb ed="#P" n="73" break="no"/>qua relatione. et amor dei propter se est bonus et 
+          me<lb ed="#P" n="74" break="no"/>ritorius. Si comparetur amor dei in se: scilibet: quo 
+          <lb ed="#P" n="75"/>sortes diligit deum propter se: et amor quo plato 
+          di<lb ed="#P" n="76" break="no"/>ligit sortem propter deum eque intense: adhuc sortes 
+          <lb ed="#P" n="77"/>purius deum diligit: quia non inuoluit creaturam in 
+          <lb ed="#P" n="78"/>illa dilectione. tamen plato non minus meretur: quia 
+          <lb ed="#P" n="79"/>illo actu amat deum et creaturam propter deum. 
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e285">
+          <lb ed="#P" n="80"/>¶ Sed contra illud arguitur per illud quod scribitur 
+          <lb ed="#P" n="81"/>Romanorum. ix. de paulo: optabam enim egoiprse 
+          ana<lb ed="#P" n="82" break="no"/>thema esse a christo pro fratribus meis: ex hoc sic 
+          ar<lb ed="#P" n="83" break="no"/>guitur: illud est magis meritorium / quod est magis 
+          <lb ed="#P" n="84"/>eligendum a sapientissimo viro: sed apostolus 
+          praeele<lb ed="#P" n="85" break="no"/>git dilectionem proximi dilectioni dei.
+        </p>
+        <p xml:id="jm3cbb-e44096-d1e301">
+          ¶ 
+          Aesponde<lb ed="#P" n="86" break="no"/>tur: paulus voluit separari ad tempus a christo: vt 
+          <lb ed="#P" n="87"/>lucrifaceret iudeos:  eorum conuersioni 
+          intende<lb ed="#P" n="88" break="no"/>ret: secundum illud ad Philippenses primo. desiderium 
+          ha<lb ed="#P" n="89" break="no"/>bens dissolui / et esse cum christo: permanere autem in 
+          <lb ed="#P" n="90"/>carne necessarium est propter vos. Ex isto non 
+          sequi<lb ed="#P" n="91" break="no"/>tur quod plus dilexit creaturam quam deum. omnia 
+          pro<lb ed="#P" n="92" break="no"/>pter deum fecit. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

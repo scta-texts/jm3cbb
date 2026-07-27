@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="29-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e17489"><!-- l3d14q1 -->
+        <head xml:id="jm3cbb-e17489-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e17489-Hd1e101" type="question-title">An anima Christi clare et intuitive cognoscat Verbum</head>
+        <p xml:id="jm3cbb-e17489-d1e104">
+          <pb ed="#P" n="29-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>CIrca hanc 
+          deci<lb ed="#P" n="2" break="no"/>manquartam distinctionem 
+          que<lb ed="#P" n="3" break="no"/>ro quinqe. Primo: an 
+          anima<lb ed="#P" n="4" break="no"/>christi clare et intuitiue 
+          cogno<lb ed="#P" n="5" break="no"/>scat verbum. Secundo 
+          queri<lb ed="#P" n="6" break="no"/>tur: an cognoscat verbum 
+          per<lb ed="#P" n="7" break="no"/>aliquod lumen creatum. 
+          Ter<lb ed="#P" n="8" break="no"/>tio: an anima christi vel alia anima creata eadem visione 
+          <lb ed="#P" n="9"/>videat verbum et alias creaturas. Quarto: an 
+          intel<lb ed="#P" n="10" break="no"/>lectus creatus anime christi cognoscat distincte omnia 
+          <lb ed="#P" n="11"/>que verbum cognoscat. Quinto: an anima christi 
+          co<lb ed="#P" n="12" break="no"/>gnoscat in proprio genere eadem que in verbo 
+          co<lb ed="#P" n="13" break="no"/>gnoscit. his quinque terminatis: huic 
+          distinctioni<lb ed="#P" n="14" break="no"/>finis imponetur.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e141">
+          ¶ Primo ergo queritur: an 
+          ani<lb ed="#P" n="15" break="no"/>ma christi clare cognoscat et intuitiue verbum. pe 
+          vet<lb ed="#P" n="16" break="no"/>bum intelligo essentiam diuinam: et omnia intrinseca in 
+          di<lb ed="#P" n="17" break="no"/>uinis.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e150">
+          ¶ Respondetur per duas conclusiones. 
+          qua<lb ed="#P" n="18" break="no"/>rum prior est. anima christi in primo instanti in quo 
+          <lb ed="#P" n="19"/>erat in rerum natura erat batam. patet: secundum Augu. ix. 
+          <lb ed="#P" n="20"/>de trinita. ca. xv. christus nunquam decessit a 
+          beati<lb ed="#P" n="21" break="no"/>tudine. Secundo: christus habet beatitudinem sine 
+          meri<lb ed="#P" n="22" break="no"/>tis: vt communiter dicitur. ergo non erat necesse merita 
+          <lb ed="#P" n="23"/>precedere beatitudinem eius
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e167">
+          ¶ Secunda conclusio: 
+          <lb ed="#P" n="24"/>anima christi clare cognoscit deu probatur sic: 
+          bea<lb ed="#P" n="25" break="no"/>titudo intellectus consistit in clara dei visione: sed 
+          <lb ed="#P" n="26"/>anima christi est beata per precedentem: igitur.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e176">
+          ¶ 
+          Se<lb ed="#P" n="27" break="no"/>cundo arguitur ad idem: non est negandum ab 
+          anima<lb ed="#P" n="28" break="no"/>christi quod nobis promittitur: sed nobis 
+          promitti<lb ed="#P" n="29" break="no"/>tur clare videredeum: prime Ioannis. iii. videbimus 
+          <lb ed="#P" n="30"/>eum sicut est. et aposolus prime ad Corinthios. xiii. 
+          <lb ed="#P" n="31"/>videmus enin nunc per speculum in enigmate: tunc 
+          <lb ed="#P" n="32"/>autem facie ad faciem. nunc cognosco ex parte: tunc 
+          <lb ed="#P" n="33"/>autem cognoscam sicut et cognitus sum.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e194">
+          ¶ Tertio 
+          <lb ed="#P" n="34"/>arguitur: quelibet creatura naturaliter appetit 
+          vl<lb ed="#P" n="35" break="no"/>timam perfectionem sue proprie operationis: quia in 
+          <lb ed="#P" n="36"/>tali perfectione consistit vltimata perfectio 
+          creatu<lb ed="#P" n="37" break="no"/>re: naturalis appetitus cuilibet creature est natu 
+          <lb ed="#P" n="38"/>raliter inditus. sed propria operatio intellectus 
+          <lb ed="#P" n="39"/>est intelligere: ergo naturaliter appetit vltimatam 
+          <lb ed="#P" n="40"/>perfectionem actus intelligendi: et non est nisi 
+          re<lb ed="#P" n="41" break="no"/>spectu intelligibilis nobilissimi et nobilissimo mod. 
+          <lb ed="#P" n="42"/>nobilissimum intelligibile est deus: nobilissimus mo 
+          <lb ed="#P" n="43"/>dus intelligendi est intuitiue cognoscere.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e218">
+          ¶ 
+          Con<lb ed="#P" n="44" break="no"/>tra istam secundam conclusionem arguitur. Exodi. xxxiii. 
+          <lb ed="#P" n="45"/>dicit deus: non videbit me homo et viuet. sed 
+          chri<lb ed="#P" n="46" break="no"/>stus est homo viuens: igitur.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e227">
+          ¶ Respondetur: illa 
+          au<lb ed="#P" n="47" break="no"/>ctoritas intelligitur de homine puro viuente vita 
+          <lb ed="#P" n="48"/>mortali: et de communi lege vie. Moyses et 
+          Pau<lb ed="#P" n="49" break="no"/>lus viderunt deum in vita raptim: et quelibet anima 
+          <lb ed="#P" n="50"/>beata videt deum in corpore assumpto post 
+          resur<lb ed="#P" n="51" break="no"/>rectionem: et viuit: vita tamen immortali. christus tamen 
+          <lb ed="#P" n="52"/>fuit viator secundum corpus ante mortem: alas pati non 
+          <lb ed="#P" n="53"/>poterat.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e245">
+          ¶ Secundo arguitur: si anima christi clare 
+          vi<lb ed="#P" n="54" break="no"/>deat deum: sequitur quod illa clara visio erit infinite 
+          <lb ed="#P" n="55"/>perfecta. consequens est falsum. et quod sequatur patet 
+          <lb ed="#P" n="56"/>sic: nobilioris obiecti semper est nobilior noticia. 
+          <lb ed="#P" n="57"/>ergo obiecti infiniti erit noticia infinite perfecta. 
+          <lb ed="#P" n="58"/>consequentiam probo: quia dato opposito 
+          consequen<lb ed="#P" n="59" break="no"/>tis / sequitur hec conclusio: quod alicuius obiecti 
+          fini<lb ed="#P" n="60" break="no"/>ti dabitur noticia ita perfecta sicut noticia dei. quia 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>finitum per crementum finitum potest partingere ad 
+          perfe<lb ed="#P" n="62" break="no"/>ctionem finiti cuiuscumque.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e270">
+          ¶ Respondetur negando quod 
+          no<lb ed="#P" n="63" break="no"/>ticia dei est infinite perfecta. concedo tamen quod semper 
+          ob<lb ed="#P" n="64" break="no"/>iecti nobilioris est noticia perfectior ceteris 
+          pari<lb ed="#P" n="65" break="no"/>bus. si essent due potentie inequaliter persecte: vt an 
+          <lb ed="#P" n="66"/>gelus et anima: potest verti questio demonstratis 
+          duo<lb ed="#P" n="67" break="no"/>bus obiectis specie distinctis a perfectiori et b. 
+          pau<lb ed="#P" n="68" break="no"/>lo minus perfecto an noticia intuitiua angeli 
+          respe<lb ed="#P" n="69" break="no"/>ctu b. esset ita perfecta sicut noticia intuitiua atnine 
+          <lb ed="#P" n="70"/>respectu a. licet constat quod ille due noticie specie 
+          dif<lb ed="#P" n="71" break="no"/>ferant et sint inequaliter perfecie: reuocatur in 
+          du<lb ed="#P" n="72" break="no"/>bium vtra earum alteri prestaret. sed illo relicto: 
+          di<lb ed="#P" n="73" break="no"/>co quod nulla potentia creata potest habere noticiam 
+          <lb ed="#P" n="74"/>intuitiuam ita perfectam respectu obiecti creati / sicut 
+          <lb ed="#P" n="75"/>anima potest habere respectu dei. et licet visio atneine 
+          <lb ed="#P" n="76"/>christi sit finite perfecta entitatiue: non sequitur quod 
+          alicui<lb ed="#P" n="77" break="no"/>alicuius obiecti creati potest dari noticia ita 
+          perfe<lb ed="#P" n="78" break="no"/>cta. et quando dicis / quod alia noticia per augmentum 
+          po<lb ed="#P" n="79" break="no"/>test perfici: verum est gradualiter: non tamen sequitur quod 
+          <lb ed="#P" n="80"/>erit perfectior specifice et entitatiue: quia non potest 
+          mi<lb ed="#P" n="81" break="no"/>grare de spse in speciem. Et si dicas: qualis est 
+          pro<lb ed="#P" n="82" break="no"/>portio obiectorum inter se: talis debet esse 
+          propor<lb ed="#P" n="83" break="no"/>tio noticiarum iter se: sed noticia cuiuscumque creatu 
+          <lb ed="#P" n="84"/>re est finita: ergo noticia dei debet esse infinita. 
+          Distin<lb ed="#P" n="85" break="no"/>go illam propositionem: si intelligas semper perfectioris 
+          <lb ed="#P" n="86"/>obiecti erit perfectior noticia: et sic concedo. vel sicut 
+          <lb ed="#P" n="87"/>deus improportionabiliter excedit creaturam: ita 
+          <lb ed="#P" n="88"/>noticia dei improportionabiliter excedit noticiam 
+          <lb ed="#P" n="89"/>creature: et sic iterum concedo. Si intelligas / sicut 
+          <lb ed="#P" n="90"/>creature finite noticia est finita: ita noticia dei erit 
+          <lb ed="#P" n="91"/>snfinita: loquendo de noticia dei creata: et sic 
+          ne<lb ed="#P" n="92" break="no"/>go. aliqua noticia dei est infinita intuitiue: peruta 
+          <lb ed="#P" n="93"/>noticia beatifica ipsius dei: intelligentia dei 
+          respe<lb ed="#P" n="94" break="no"/>ctu essentie diuine: in hoc consistit beatitudo 
+          intel<lb ed="#P" n="95" break="no"/>lectus diuini: que quidem intelligentia realiter est 
+          <lb ed="#P" n="96"/>deus.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e346">
+          ¶ Tertio arguitur. res in tenebris latens 
+          <lb ed="#P" n="97"/>non clare videtur: sed deus est huiu smodi: igitur. 
+          <lb ed="#P" n="98"/>consequentia tenet cum maiore: probatur minor 
+          per<lb ed="#P" n="99" break="no"/>psalmistam de deo dicentem psal xvii qui posuit 
+          te<lb ed="#P" n="100" break="no"/>ne bras latibulum suum.
+        </p>
+        <p xml:id="jm3cbb-e17489-d1e357">
+          ¶ Respondetur: non est 
+          intel<lb ed="#P" n="101" break="no"/>ligendum quod deus latitet in tenebris: quia Ioannes 
+          <lb ed="#P" n="102"/>dicit prime Ioannis. i. Deus lux est et tenebre in 
+          <lb ed="#P" n="103"/>eo non sunt vlle. sed hoc est de nostro intellectu 
+          <lb ed="#P" n="104"/>secundum communem legem vie: quia non possumus videre 
+          <lb ed="#P" n="105"/>deum pro hoc statu communi plusquam colorem in tene 
+          <lb ed="#P" n="106"/>bris. possumus tamen noticias generales et 
+          ab<lb ed="#P" n="107" break="no"/>stractiuas de deo habere: vt ex distinctione. iii. se 
+          <lb ed="#P" n="108"/>cundi / et primi / patuit: vel dictum est illud propter 
+          <lb ed="#P" n="109"/>secretum maiestatis diuine: que nube carnis 
+          tege<lb ed="#P" n="110" break="no"/>batur sicut dicit glo. in psal. prefato.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="162-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e98622"><!-- l3d40q3 -->
+        <head xml:id="jm3cbb-e98622-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e98622-Hd1e101" type="question-title">An possit reddi ratio litteralis in omnibus praeceptis legis Mosaicae</head>
+        <p xml:id="jm3cbb-e98622-d1e104">
+          <lb ed="#P" n="57"/>Queritur tertio: an possit 
+          <lb ed="#P" n="58"/>reddi ratio litteralis in omnibus praeceptis 
+          <lb ed="#P" n="59"/>legis Mhoysaice. Respondetur quod sic. sa¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>pientie. vii. neminem diligit deus nisi qui cum 
+          sa<lb ed="#P" n="61" break="no"/>pientia inhabitat. deus est omni sapiente creato 
+          <lb ed="#P" n="62"/>possibili infinite sapientior: ergo nepharium essei 
+          <lb ed="#P" n="63"/>dicere eum dare leges irrationabiles. moralia sut 
+          <lb ed="#P" n="64"/>legi nature maxime conformia. leges cefarie in 
+          lu<lb ed="#P" n="65" break="no"/>mine naturali a sapientibus collecte leges dei 
+          iu<lb ed="#P" n="66" break="no"/>diciales imitate sunt. de cerimonialibus omnibus ratio 
+          <lb ed="#P" n="67"/>latralis dari potest. et cum hoc quomodo repssentabant aliquid in 
+          le<lb ed="#P" n="68" break="no"/>ge euangelica: secundum illud prime Corinthiorum. x. 
+          <lb ed="#P" n="69"/>omnia in figuram contingebant illis. Primo in 
+          in<lb ed="#P" n="70" break="no"/>gressu de egypto preceptum est eis vt sanguinem 
+          <lb ed="#P" n="71"/>agni linirent super limina domorum quasi 
+          protestan<lb ed="#P" n="72" break="no"/>tes se recedere a rethibus egiptiorum qui arietem 
+          <lb ed="#P" n="73"/>colebant. In exitu israel de egipto / impellebantur 
+          <lb ed="#P" n="74"/>ab egiptiis ocissime egredi vt habetur Exodi. xii. 
+          <lb ed="#P" n="75"/>ca. Imminebat etiam periculum alicui si moratus 
+          <lb ed="#P" n="76"/>fuisset post multitudinem egredientem: ne ab 
+          egi<lb ed="#P" n="77" break="no"/>ptiis opprimeretur. celeritas designabatur 
+          bipha<lb ed="#P" n="78" break="no"/>riam. vno modo per ea que comedebant. Alio modo 
+          <lb ed="#P" n="79"/>secundum modum comedendi. praecipiebatur eis comedere 
+          <lb ed="#P" n="80"/>panes azimos: quia proptur impetum egiptior panem 
+          <lb ed="#P" n="81"/>fermentari non poterant: et quod conederent assum igni: 
+          <lb ed="#P" n="82"/>sic enim velocius praeparabatur: et quod os non 
+          commi<lb ed="#P" n="83" break="no"/>nuerent: eo quod festinanter comedetes non expectant 
+          <lb ed="#P" n="84"/>frangere ossa. circa modum comedendi: debebant 
+          <lb ed="#P" n="85"/>habere renes accinctos: calciamenta in pedibus: 
+          ba<lb ed="#P" n="86" break="no"/>culos in manibus: comedentes velocitur: quod designat 
+          <lb ed="#P" n="87"/>homines existentes promptos ad iter. In vna 
+          do<lb ed="#P" n="88" break="no"/>mo debebant conedere: nec ferre carnes foras: quia non 
+          <lb ed="#P" n="89"/>poterant expectare mittere encenia inter se. 
+          amari<lb ed="#P" n="90" break="no"/>tudo quam passi sunt in egipto significatur per lactucas 
+          <lb ed="#P" n="91"/>agrestes. In vnitate tabernaculi paesentabatur vnitas 
+          <lb ed="#P" n="92"/>dei vel ecclesie: sicut in distinctione tabernaculi 
+          vel<lb ed="#P" n="93" break="no"/>templi representabatur distinctio eorum qua deo sunt 
+          <lb ed="#P" n="94"/>subiecta: ex quibus in dei venerationem consurgimus 
+          <lb ed="#P" n="95"/>Diuidebatur tabernaculum in duas partes: in vnam 
+          <lb ed="#P" n="96"/>que vocabatur sancta sanctorum: que erat 
+          occiden<lb ed="#P" n="97" break="no"/>talis: et aliam que vocabatur sancta: que erat ad 
+          <lb ed="#P" n="98"/>orientem. et adhuc ante tabernaculum erat atrium. 
+          <lb ed="#P" n="99"/>nam pars illa que sanctasanctorum dicebatur 
+          repre<lb ed="#P" n="100" break="no"/>sentabat celum. pars illa que sancta dicitur / exprime 
+          <lb ed="#P" n="101"/>bat mundum corporalem. et propterea sancta a sancta 
+          san<lb ed="#P" n="102" break="no"/>ctorum distinguebatur quodam velo. iiii. coloribus 
+          <lb ed="#P" n="103"/>distinctis: per quos quattuor elementa designantur: 
+          <lb ed="#P" n="104"/>scilicet bisso: per quod terra designatur. purpura aquam 
+          re<lb ed="#P" n="105" break="no"/>presentat. fiebat purpureus color ex quibusdam 
+          <lb ed="#P" n="106"/>conchis in mari repertis. Iacyntus aerem. et 
+          co<lb ed="#P" n="107" break="no"/>ctum bis tinctum ignem significat. et hoc ideo: quia 
+          <lb ed="#P" n="108"/>quattuor elementa nobis celum occultant: et ideo 
+          in<lb ed="#P" n="109" break="no"/>terius tabernaculum: id est sancta sanctorum: solus 
+          <lb ed="#P" n="110"/>summus sacerdos (et hoc semel in alio anno ) 
+          in<lb ed="#P" n="111" break="no"/>troibat: vt significaretur hec finalis perfectio 
+          ho<lb ed="#P" n="112" break="no"/>minis vt ad celum introducatur. in tabernaculum 
+          <lb ed="#P" n="113"/>vero exterius: id est in sancta: introibant sacerdo 
+          <lb ed="#P" n="114"/>tes quotidie: non autem ppostolos: qui solum adatrium ac 
+          <lb ed="#P" n="115"/>cidebat: quia corporalia solum populus percipere 
+          <lb ed="#P" n="116"/>potest. ad rationem latentem in corporalibus 
+          soli<lb ed="#P" n="117" break="no"/>sacerdotes per considerationem deuenire psent: et per sanctam 
+          <lb ed="#P" n="118"/>significatur status veteris legis. vide appostolum 
+          <lb ed="#P" n="119"/>Ad hebcos nonocs. Uelmn aiten. /asabat 
+          <pb ed="#P" n="162-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>spuitalium sacrificiorum occultationem in veteribus 
+          sa<lb ed="#P" n="2" break="no"/>crificiis. oratio ad occidentem fuit introducta in le 
+          <lb ed="#P" n="3"/>ge / ad excludendam ydolatriam. ydolatre adora 
+          <lb ed="#P" n="4"/>bant solem ad orientem. Ezechiel. viii. dicitur. quod 
+          <lb ed="#P" n="5"/>quidam habebant dorsa contra templum domini / et 
+          faci<lb ed="#P" n="6" break="no"/>es ad orientem / etadorabant ortum solis. in 
+          taber<lb ed="#P" n="7" break="no"/>naculo interiori erat archa testamenti / 
+          propiciato<lb ed="#P" n="8" break="no"/>rium / duo cherubin / ad significandum quod ei in celo per 
+          <lb ed="#P" n="9"/>angelos obsequium prestatur super omnes istas res 
+          sa<lb ed="#P" n="10" break="no"/>cras existens. Leuitici. i. Non offerebatur nisi de 
+          <lb ed="#P" n="11"/>tribus generibus animalium quadrupedum: scilibet de 
+          <lb ed="#P" n="12"/>genere boum / ouiu / et caprarum. de auibus 
+          communi<lb ed="#P" n="13" break="no"/>ter erant: turtur / et columba. in mundatione 
+          lepro<lb ed="#P" n="14" break="no"/>si fiebat sacrificium de passeribus. hoc factum erat 
+          <lb ed="#P" n="15"/>ad excludendum ydolatriam: quia omnia alia animalia 
+          of<lb ed="#P" n="16" break="no"/>ferebant ydolatre de suis: vel eis ad maleficia vte 
+          <lb ed="#P" n="17"/>bantur. Ista animalia apud egyptios cum quibus 
+          con<lb ed="#P" n="18" break="no"/>uersati erant abominabilia fuerunt ad occidendum 
+          <lb ed="#P" n="19"/>Unde ea non offerebant in sacrificium de suis: vt 
+          <lb ed="#P" n="20"/>Exo. viii. Abominabiles egyptiorum 
+          immolabi<lb ed="#P" n="21" break="no"/>mus domno deo nostro. hircos venerabantur: agnum 
+          co<lb ed="#P" n="22" break="no"/>lebant: quia iuppiter cum capite arietino pingebatur: 
+          <lb ed="#P" n="23"/>bouem: quia axi quod maximum numen apud 
+          egypti<lb ed="#P" n="24" break="no"/>os reputabatur in specie tauri apparebat: hircum: 
+          <lb ed="#P" n="25"/>quia demon aliquando apparebat eis in specie 
+          hir<lb ed="#P" n="26" break="no"/>ci. et quia nephas egyptii reputabant ista immolare: 
+          <lb ed="#P" n="27"/>domns ista immolare precepit: etiam ista animalia 
+          veni<lb ed="#P" n="28" break="no"/>unt in commuem vsum: et mundi aluntur: deo 
+          offereban<lb ed="#P" n="29" break="no"/>tur in recognitionem: quia sua bona a deo habebant 
+          <lb ed="#P" n="30"/>secundum illud dauidis: primi Paralepome. xxix. 
+          <lb ed="#P" n="31"/>Tua sunt omnia: et que de manutua accipimus: 
+          dedi<lb ed="#P" n="32" break="no"/>mus tibi. cetera autem animalia vel sic sunt siluestria: qui 
+          <lb ed="#P" n="33"/>bus homines communiter non vtuntur. Uel si sunt do 
+          <lb ed="#P" n="34"/>mestica: sunt immunda: vt porcus / equus / t similia: 
+          <lb ed="#P" n="35"/>vel cibum in loco immundo quaritant: vt gallus et gallina. 
+          <lb ed="#P" n="36"/>Similiter bos significat christi fortitudinem: ouis eius 
+          <lb ed="#P" n="37"/>innocentiam. hircus similitudinem carnis peccati. et 
+          <lb ed="#P" n="38"/>omnia illa sacrificia erant instituta proptur tria. primum: 
+          <lb ed="#P" n="39"/>ad reuocandos iudeos ab ydolatria / et ad eos in 
+          <lb ed="#P" n="40"/>ducendos ad colendum deum / et ad figurandum 
+          christi<lb ed="#P" n="41" break="no"/>verum sacrificium. turtur significat christi castitatem 
+          <lb ed="#P" n="42"/>qui post mortem paris plangit continuo: secundum illud 
+          <lb ed="#P" n="43"/>virgilianum: nec gemere aeria turtur cessabit ab 
+          vl<lb ed="#P" n="44" break="no"/>mo. Columba que felle caret eius mititatem 
+          signifi<lb ed="#P" n="45" break="no"/>cat. de piscibus non fiebat sacrificium quia in aquis 
+          <lb ed="#P" n="46"/>latitant: et extracti de aqua cito moriuntur. oblatio non 
+          <lb ed="#P" n="47"/>fiebat de mortuis. pulli columbarum et non turturum 
+          <lb ed="#P" n="48"/>offerebantur: quia in turturibus meliores sunt 
+          maio<lb ed="#P" n="49" break="no"/>res quam eorum pulli: in columbis autem econuerso est. 
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e356">
+          <lb ed="#P" n="50"/>¶ Sacrificiorum tripartitum erat genus holocaustum quod 
+          <lb ed="#P" n="51"/>totum conburebatur: ab holon / totum et caustum incensum: quaesi 
+          <lb ed="#P" n="52"/>totum incensum: vt sicut totum animal resolutum in vapores 
+          <lb ed="#P" n="53"/>sursum ascendebat: ita siginficatur quod homo et omnia quae eius 
+          <lb ed="#P" n="54"/>sunt / deo sunt subiecta: et inter omia sacrificia istud 
+          <lb ed="#P" n="55"/>erat precipuum: eo quod totum conmburebatur / et nichil 
+          ex<lb ed="#P" n="56" break="no"/>eo comedebatur: et proptur hanc perfectionem solus 
+          <lb ed="#P" n="57"/>masculus in holocaustum offerebatur. aliud erat 
+          sa<lb ed="#P" n="58" break="no"/>crificium pro peccato quod offerebatur ex necessita 
+          <lb ed="#P" n="59"/>te remissionis peccati: quod in duas partes secabant. 
+          <lb ed="#P" n="60"/>nam pars vna eius comburebatur. alia vero cedebat in 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>vsum sacerdotum ad significandum quod peccatorum 
+          <lb ed="#P" n="62"/>expiatio fit a deo per ministerium sacerdotum: nisi 
+          <lb ed="#P" n="63"/>quando offerebatur sacrificium pro peccato iotius 
+          <lb ed="#P" n="64"/>populi: vel specialiter pro peccato sacerdotis. tunc 
+          <lb ed="#P" n="65"/>em totum comburebatur. non debebant in vsum 
+          sa<lb ed="#P" n="66" break="no"/>cerdotum venire ea que pro peccato offerebantur: 
+          <lb ed="#P" n="67"/>vt nichil peccati in eis maneret. et istud sacrificium 
+          <lb ed="#P" n="68"/>secundum locum tenuit in sanctitate. quod comedebatur 
+          <lb ed="#P" n="69"/>solum in atrio a sacerdotibus in ipso die sacrificii. 
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e404">
+          <lb ed="#P" n="70"/>¶ Tertium sacrificium vocabatur hostia pacifica: auae 
+          <lb ed="#P" n="71"/>offerebatur deo pro gratiarum actione vel pro salute 
+          offe<lb ed="#P" n="72" break="no"/>rentium ex debito beneficii accepti vel accipiendi: et 
+          <lb ed="#P" n="73"/>ista tripartiebatur. prima pers incendebatur ad 
+          ho<lb ed="#P" n="74" break="no"/>norem dei: alia pars cedcbat in vsum sacerdotum. 
+          <lb ed="#P" n="75"/>tertia pars in vsum offerentium ad significandum quod 
+          <lb ed="#P" n="76"/>salus hominis procedit a deo dirigentibus ministris 
+          <lb ed="#P" n="77"/>deiet coopantibus ipsis hominibus qui saluantur: et hoc 
+          <lb ed="#P" n="78"/>sacrificium tertium gradum in sanctitate tenebat: quod 
+          <lb ed="#P" n="79"/>comedebatur ipso die: sed vbique Iherosolimis:et 
+          ratio<lb ed="#P" n="80" break="no"/>est: quia maxime obligabatur homo deo proptur eius ma 
+          <lb ed="#P" n="81"/>iestatem: quod in holocausto repssentatur. Secundo 
+          <lb ed="#P" n="82"/>proptur offensam commissam. Tertio propter beneficia 
+          <lb ed="#P" n="83"/>iam suscepta. offerebantur etiam hostie pacifice ex 
+          <lb ed="#P" n="84"/>voto quorum carnes poterant in crastinum comedi. 
+          <lb ed="#P" n="85"/>Ista sacrificia est repsetabant christum et martyres in 
+          <lb ed="#P" n="86"/>noua lege. hoc generaliter serusbatur quod sanguis et 
+          <lb ed="#P" n="87"/>adeps non veniebant neque in vsum sacerdotum / ne 
+          <lb ed="#P" n="88"/>que in vsum offerentium. sanguis effundebatur ad 
+          <lb ed="#P" n="89"/>crepidinem altaris in honorem dei: adeps vero 
+          ad<lb ed="#P" n="90" break="no"/>urebatur igni. hoc erat ad detestandum 
+          ydolatri<lb ed="#P" n="91" break="no"/>am. ydolatre libabant de sanguine victimarum et 
+          co<lb ed="#P" n="92" break="no"/>medebant adipes: secundum illud Deuterone. xxxii. 
+          <lb ed="#P" n="93"/>De quorum victimis comedebant adipes et bibebant 
+          <lb ed="#P" n="94"/>vinum libaminum. De hostiis pacificis in vsum 
+          sacer<lb ed="#P" n="95" break="no"/>dotis cedebat pectusculum et armus dextur: ad 
+          exclu<lb ed="#P" n="96" break="no"/>dendam quandam diuinationis spemm que vocatur 
+          spatu<lb ed="#P" n="97" break="no"/>la mansea: quia in spatulis et in osse pectoris anima 
+          <lb ed="#P" n="98"/>lium immolatorum diuinabant. sed prouidebat lex in 
+          sa<lb ed="#P" n="99" break="no"/>crificiis paupartati offerentium: vt qui non posset 
+          ha<lb ed="#P" n="100" break="no"/>bere quadrupedem: saltem offerret auem: quam si 
+          ha<lb ed="#P" n="101" break="no"/>bere nequibat / offerebat panem. omnis oblatio que 
+          <lb ed="#P" n="102"/>offertur domino absque fermento fiet. nec quicquam 
+          fermen<lb ed="#P" n="103" break="no"/>ti aut mellis adolenitur in sacrificio domni. Quicquid 
+          <lb ed="#P" n="104"/>obtuleris sacrifici sale condies. per mel / voluptas: 
+          <lb ed="#P" n="105"/>per fermentum / corruptio prohibentur: et a corruptio 
+          <lb ed="#P" n="106"/>ne sal praeseruat / qui etiam discretionem significat: 
+          <lb ed="#P" n="107"/>secundum illud apestoli ad Colocenses. iiii. seimo vester 
+          <lb ed="#P" n="108"/>in gratia sper sit sale conditus. Non erant admissa 
+          <lb ed="#P" n="109"/>animalia ad cibum nisi diuisa vngula ruminantia. ita 
+          <lb ed="#P" n="110"/>quod illa duo requirebantur vt alerentur bono cibo. 
+          <lb ed="#P" n="111"/>Ruminatio bonam digestionem significat: et non 
+          di<lb ed="#P" n="112" break="no"/>uisio vngle repsentabat terrestreitatem.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e501">
+          ¶ Preterea: 
+          <lb ed="#P" n="113"/>animalia que ex immundis cibis vel aere immundo 
+          vi<lb ed="#P" n="114" break="no"/>uunt eis prohibebantur: vt porcus: talpe: mures: et 
+          <lb ed="#P" n="115"/>aues rapaces: quia nimis sunt sicce: et quedam aues 
+          <lb ed="#P" n="116"/>aquatice propter excessum humiditatis. Similiter 
+          <lb ed="#P" n="117"/>quidam pisces non habentes penenulas et squamas: 
+          <lb ed="#P" n="118"/>vt anguille / et huiusmodi propter excessum humiditatisr. 
+          <lb ed="#P" n="119"/>pisces limosi prorsus nichil valent. quatuncumque 
+          volup<lb ed="#P" n="120" break="no"/>tuose sunt anguille: non valent. omnia ista patent le¬ 
+          <pb ed="#P" n="163-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>genti litteram Leui. et pentheteucum: de quibus omibs 
+          ra<lb ed="#P" n="2" break="no"/>tionem dare non erit difficile.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e530">
+          ¶ Iam arguitu cono 
+          iudicia<lb ed="#P" n="3" break="no"/>lia / aliqua iudicialia legis assumendo: quia cono cerimo 
+          <lb ed="#P" n="4"/>nialia non instabo. et arguitur sic: poterat iudeus 
+          in<lb ed="#P" n="5" break="no"/>trare vineam proximi et comedere vuas quantum ei 
+          <lb ed="#P" n="6"/>placebat: vt patet Deuteronomii. xxiii. sed perhoc 
+          <lb ed="#P" n="7"/>res aliena fuisset ablata.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e543">
+          ¶ Si dicas: deus dedit 
+          <lb ed="#P" n="8"/>eis dominium illarum rerum in illo casu vel vsum. 
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e548">
+          <lb ed="#P" n="9"/>¶ Contra hoc arguitur: iam redibit policia 
+          socrati<lb ed="#P" n="10" break="no"/>ca quam Aristo. secundo politicorum reprobat: nec vsus 
+          <lb ed="#P" n="11"/>in rebus vsu consumptibilibus separatur a dominio rei. 
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e557">
+          <lb ed="#P" n="12"/>¶ Sed dices (sicut videtur esse dicendum) in tali 
+          ca<lb ed="#P" n="13" break="no"/>su deus voluit aliquas res esse communes: et sic 
+          <lb ed="#P" n="14"/>Aristoteles dicit factum fuisse apud lacedemonios 
+          <lb ed="#P" n="15"/>de canibus et equis in necessitate. sic terra fuit 
+          di<lb ed="#P" n="16" break="no"/>uisa per heleazarumet Iosue: et dominia separata: et 
+          <lb ed="#P" n="17"/>deus voluit aliqua esse communia pro amicitia et 
+          <lb ed="#P" n="18"/>vnione habenda inter illos. etiam praesumebatur quod 
+          <lb ed="#P" n="19"/>nullus caperet nisi in necessitate pro sua 
+          refectio<lb ed="#P" n="20" break="no"/>ne. et parum iacture homo haberet pro vuis 
+          come<lb ed="#P" n="21" break="no"/>stis in agro: quia vetitum erat extra agrum ferre 
+          race<lb ed="#P" n="22" break="no"/>mos.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e583">
+          ¶ Contra hoc arguitur: ergo mille conuenire 
+          <lb ed="#P" n="23"/>poterant vel exercitus ad pugnam transiens 
+          pote<lb ed="#P" n="24" break="no"/>rat licite intrare istius pauperis viticole vineam 
+          <lb ed="#P" n="25"/>omnes racemos auferendo.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e593">
+          ¶ Secundo arguitur: 
+          <lb ed="#P" n="26"/>policia optime regitur per hoc quod homines emendo 
+          <lb ed="#P" n="27"/>e vendendo sibi inuicem res suas commutant quibus 
+          <lb ed="#P" n="28"/>indigent vt dicitur primo Politicorum. Sed hoc 
+          <lb ed="#P" n="29"/>vetuit lex moysaica. mandauit quod possessio 
+          vendi<lb ed="#P" n="30" break="no"/>ta reuerteretur ad venditorem in iubileo: vt patet 
+          Le<lb ed="#P" n="31" break="no"/>uitici. xxv.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e609">
+          ¶ Ad primum interarguendum ad finem 
+          <lb ed="#P" n="32"/>vsque exclusiue responsum est: Lex datur de his quae communitur 
+          <lb ed="#P" n="33"/>contingunt. et quia raro hoc accideret quod multi adirent 
+          <lb ed="#P" n="34"/>vineam alicuius. sed vbi contingeret casus 
+          argumen<lb ed="#P" n="35" break="no"/>ti: domins venie poterat conqueri de iniuria ei illata ex 
+          <lb ed="#P" n="36"/>istis qui hoc fecerunt in fraudem legis.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e622">
+          ¶ Ad aliud 
+          dici<lb ed="#P" n="37" break="no"/>tur quod illa lex fuit iusta. quia si homo egeret pecunia 
+          <lb ed="#P" n="38"/>rum: poterat vendere possessionem ad aliquot annos: 
+          <lb ed="#P" n="39"/>ad iubileum vsque. secundum quod maior erat distantia ad 
+          <lb ed="#P" n="40"/>iubileum: tanto plus pecuniarum habuisset: et 
+          <lb ed="#P" n="41"/>multum conforme erat rationi. Secundo politicorum 
+          <lb ed="#P" n="42"/>philosophus dicit statutum esse vt nullus possessionem 
+          <lb ed="#P" n="43"/>vendere posset: nisi pro manifesto detrimento: quod 
+          <lb ed="#P" n="44"/>alias passus fuisset: et in hodiernum diem hoc apud 
+          <lb ed="#P" n="45"/>plerosque seruatur. in vrbibus / aliud erat propter earum 
+          <lb ed="#P" n="46"/>reparationem. Si quis non redimisset in vrbe mura 
+          <lb ed="#P" n="47"/>ta suam domum ante completum annum: mansit perpetuo 
+          <lb ed="#P" n="48"/>apud emptorem: demptis domibus leuitarum quae eis 
+          pro<lb ed="#P" n="49" break="no"/>possessionibus erant.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e653">
+          ¶ Sed contra dices: emens 
+          <lb ed="#P" n="50"/>possessionem computabat fructus in sortem: et hoc est 
+          con<lb ed="#P" n="51" break="no"/>tra naturam emptionis: dato quod sit conuentio de 
+          redi<lb ed="#P" n="52" break="no"/>tu redimibili vel non: immo hic nullo modo erat em 
+          <lb ed="#P" n="53"/>ptio neque venditio: sed potius impignoratio.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e664">
+          ¶ 
+          Te<lb ed="#P" n="54" break="no"/>sponsio. de nominibus non est certandum. licet erat contractus 
+          <lb ed="#P" n="55"/>pignoraticius: sub nomine venditionis t emptionis 
+          <lb ed="#P" n="56"/>ibat. sicut crebro contingit vt mutuum pro accommoda 
+          <lb ed="#P" n="57"/>tione: et econuerso: ponitur. trra erat ipsius dei totaliter e 
+          <lb ed="#P" n="58"/>spamlius quod in alio regno. et hebrei erant coloni solum: vt 
+          <lb ed="#P" n="59"/>patet Leuiti. xxv. Terra quoque non vendetur in 
+          perpe<lb ed="#P" n="60" break="no"/>tuum: quiamea est: et vos aduene et coloni mei estis 
+          <cb ed="#P" n="b"/>
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e684">
+          <lb ed="#P" n="61"/>¶ Tertio arguitur: mulier poterat succedere in 
+          he<lb ed="#P" n="62" break="no"/>reditate paterna: patet Numerorum. xvii. homo cum 
+          <lb ed="#P" n="63"/>mortuus fuerit absque filio / ad filiam eius transibit 
+          he<lb ed="#P" n="64" break="no"/>reditas. sed multa regna ex hoc destruuntur: vt 
+          di<lb ed="#P" n="65" break="no"/>cit Aristoteles. ii. politicorum.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e698">
+          ¶ Quarto arguituri 
+          <lb ed="#P" n="66"/>in re amissa in depositione statur iuramento 
+          depo<lb ed="#P" n="67" break="no"/>sitarii: vt patet Exodi. xxii. et ex illo innumere 
+          po<lb ed="#P" n="68" break="no"/>terant prouenire fraudes: igitur.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e707">
+          ¶ Adtertium 
+          respon<lb ed="#P" n="69" break="no"/>detur quod hoc erat rationabile: et apud plerosque 
+          ser<lb ed="#P" n="70" break="no"/>uatur adhuc: non modo in paruis dominiis: sed in 
+          <lb ed="#P" n="71"/>regnis. sed talis mulier heres matrimonium 
+          tene<lb ed="#P" n="72" break="no"/>batur contrahere cum aliquo sue tribus: ne 
+          possessio<lb ed="#P" n="73" break="no"/>de tribu in tribum vagaretur.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e720">
+          ¶ Sed dices: istud 
+          ex<lb ed="#P" n="74" break="no"/>pediebat: quia licet est verosimile in prima 
+          diuisio<lb ed="#P" n="75" break="no"/>ne terre promissionis per sortes: melior possessio et 
+          <lb ed="#P" n="76"/>maior cecidit super illam tribum que plures habebat 
+          <lb ed="#P" n="77"/>in illa: et minor portio illi tribui in qua pauciores 
+          <lb ed="#P" n="78"/>erant: tamen successu temporis tribus parua 
+          cresce<lb ed="#P" n="79" break="no"/>bat: et magna decrescebat: vt patet de tribu 
+          ben<lb ed="#P" n="80" break="no"/>iamin que ferme extincta est propter scelus 
+          commis<lb ed="#P" n="81" break="no"/>sum in gabaa: vt patet circa finem iudicum.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e740">
+          ¶ 
+          Respon<lb ed="#P" n="82" break="no"/>sio: sufficit quod erat bona partitio a principio: et post 
+          <lb ed="#P" n="83"/>ea relinqueretur suis naturalibus.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e747">
+          ¶ Ad quartum 
+          di<lb ed="#P" n="84" break="no"/>citur quod illa lex est valde rationabilis: quia postquam res 
+          <lb ed="#P" n="85"/>perit: debet perire in manu depositoris penes quem 
+          <lb ed="#P" n="86"/>dominium erat: vt in accommodatione locatione esse 
+          <lb ed="#P" n="87"/>solet: et non penes depositarium: et hoc patet extra de 
+          <lb ed="#P" n="88"/>deposito. c. bona fides. vbi Grego. nonus dicit. 
+          bo<lb ed="#P" n="89" break="no"/>na fides abesse presumitur: si rebus saluis tuis 
+          existen<lb ed="#P" n="90" break="no"/>tibus depositas amisisti. de culpa quoque teneris: 
+          <lb ed="#P" n="91"/>si teipsum deposito obtulisti: vel si aliquid pro 
+          custo<lb ed="#P" n="92" break="no"/>dia recepisses. depositarius de dolo etiam in lata 
+          cul<lb ed="#P" n="93" break="no"/>pa / non autem in leuivel leuissima tenebatur. praesumitur lata 
+          <lb ed="#P" n="94"/>culpa vel dolus / si non adhibuit diligentiam talem 
+          <lb ed="#P" n="95"/>quaelem rebussuis adhibuit. ff. eo quod nercia: vt tue res 
+          <lb ed="#P" n="96"/>sunt salue:et solum posita in deposito sunt ablata. 
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e778">
+          <lb ed="#P" n="97"/>¶ Sed dices: domus est incinerata / fures et 
+          latro<lb ed="#P" n="98" break="no"/>nes veniunt: nunquid depositarius potest sua eripere 
+          <lb ed="#P" n="99"/>de manibus latronum aliis relictis / vbi vtrisque 
+          satis<lb ed="#P" n="100" break="no"/>facere non potest.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e790">
+          ¶ Respondetur quod sic. casus 
+          for<lb ed="#P" n="101" break="no"/>tuitus tamen non imputatur sicut nec in commodato nisi 
+          inter<lb ed="#P" n="102" break="no"/>ueniret pactum vel in morafuisset. Contractus enim 
+          <lb ed="#P" n="103"/>ex conulntione legem accipiunt. C. eo. le. prima. 
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e799">
+          <lb ed="#P" n="104"/>¶ Quarto arguitur: ex lege homo tenebatur reddere quinque 
+          <lb ed="#P" n="105"/>boues pro vno boue ablato: et quattuor oues 
+          pro<lb ed="#P" n="106" break="no"/>vna oue: vt patet Exodi. xxii. et tamen ita non erat in 
+          <lb ed="#P" n="107"/>aliis rebus: ergo illa lex fuit irrationabilis.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e810">
+          ¶ 
+          Se<lb ed="#P" n="108" break="no"/>xto: pena non debetur nisi culpe. sed bruta animalia 
+          <lb ed="#P" n="109"/>non possunt habere culpam. ergo inconuenienter eis 
+          <lb ed="#P" n="110"/>infligitur pena. Exodi. xxi. Dos lapidibus 
+          obrui<lb ed="#P" n="111" break="no"/>tur: qui occiderit virum aut mulierem. idem patet de 
+          iu<lb ed="#P" n="112" break="no"/>mento cum muliere commixto. Leuitici. xxi.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e823">
+          ¶ 
+          Aespon<lb ed="#P" n="113" break="no"/>detur ad quintum quod pro furto communi reddebatur solum 
+          du<lb ed="#P" n="114" break="no"/>plum. de bobus et ouibus aliud erat. et per boues et oues 
+          <lb ed="#P" n="115"/>intelliguntur quae multum subiacent periculo. Propterea 
+          <lb ed="#P" n="116"/>res domi non erant tanto discrimini subiecte. 
+          pro<lb ed="#P" n="117" break="no"/>pterea pena furti erat in illis rebus minor. secundum 
+          pro<lb ed="#P" n="118" break="no"/>cliuitatem ad aliquam culpam augetur pena. apud 
+          sey<lb ed="#P" n="119" break="no"/>tas nullum scelus grauius punitur quam furtum: quia in casis et 
+          <lb ed="#P" n="120"/>in curribus habitant. Idem patet dehis qua ex balneis 
+          <pb ed="#P" n="163-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>auferuntur apud grecos: vt Aristoteles dicit in 
+          <lb ed="#P" n="2"/>probleumatibus. sed quare dantur quinque boues 
+          pro<lb ed="#P" n="3" break="no"/>vno boue / et quatuor oues pro vna oue: dicunt 
+          aliqui<lb ed="#P" n="4" break="no"/>boues non ita in armento incedunt sicut oues in 
+          gre<lb ed="#P" n="5" break="no"/>ge: et sic est facilius boues furari: vel sicut dicit 
+          glo<lb ed="#P" n="6" break="no"/>sa ordinaria: bos est oue vtilior: et dat quinque vti 
+          <lb ed="#P" n="7"/>litates: ouis autem quattuor. Bos arat: secundum illud 
+          <lb ed="#P" n="8"/>maronianum. Sic vos non vobis fertis aratra 
+          bo<lb ed="#P" n="9" break="no"/>ues. valet pro cibo / animal ad immolandum. corium eius 
+          pro<lb ed="#P" n="10" break="no"/>calceis et multis aliis valet / lac dat. Oues habet 
+          <lb ed="#P" n="11"/>quattuor vtilitates / immolatur / pascit / lac dat / et 
+          la<lb ed="#P" n="12" break="no"/>nam ministrat. cui astipulatur illud virgilianum. Sic 
+          <lb ed="#P" n="13"/>vos non vobis vellera fertis oues.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e875">
+          ¶ Sed contra 
+          pri<lb ed="#P" n="14" break="no"/>mum arguitur sic reducendo rationem in oppositum: 
+          <lb ed="#P" n="15"/>oues magis gregatim incedunt quam boues: ergo 
+          ta<lb ed="#P" n="16" break="no"/>cilius est ouem furto subtrahere quod vnum bouem. facilius 
+          <lb ed="#P" n="17"/>est capere bouem atota multitudine quam vnum solitarie 
+          <lb ed="#P" n="18"/>quia multi impediunt seminuicem a cursu licet videretur 
+          <lb ed="#P" n="19"/>hec replica illam expositionem refellere: ipsa tamen 
+          po<lb ed="#P" n="20" break="no"/>test defendi sic. quia oues agminatim incedunt: comunitur 
+          <lb ed="#P" n="21"/>pastor insequitur eas vel maiorem partem: et sic est 
+          dif<lb ed="#P" n="22" break="no"/>ficilius furari ouem quam bouem. et si probes aliquid in casu 
+          <lb ed="#P" n="23"/>particulari: nihil ad a. quia leges dantur de his qua comnitur 
+          <lb ed="#P" n="24"/>eueniunt. expositio glose est probabilis: et non 
+          solum<lb ed="#P" n="25" break="no"/>moralis: sed sufficienter litteralis: licet homo potest 
+          ar<lb ed="#P" n="26" break="no"/>gumentari per duo bona que contingunt in pelle 
+          <lb ed="#P" n="27"/>ouis: scilicet in corio et in lana. modo minime 
+          vtilita<lb ed="#P" n="28" break="no"/>tis est pilus bouis. etiam dicetur quod corium ouis non 
+          <lb ed="#P" n="29"/>multum valet.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e912">
+          ¶ Tertio dicere possumus sic: boues 
+          <lb ed="#P" n="30"/>non succurrunt sibiipsis solitarie ita bene sicut 
+          o<lb ed="#P" n="31" break="no"/>uis. bos non currit ita velociter sicut ouis. credo 
+          <lb ed="#P" n="32"/>istud esse verum. quere ab expartis. et si ita compertum 
+          <lb ed="#P" n="33"/>fuerit: sufficit: quia ego procedo ex illa imaginatione. 
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e924">
+          <lb ed="#P" n="34"/>¶ Adsextum dicitur: interdum est pena sine cuipa: sed 
+          <lb ed="#P" n="35"/>non sine causa: in proposito cam potest ess: quia domins peccat 
+          <lb ed="#P" n="36"/>tenendo bouem cornibus ferientem. et si non peccet: sit 
+          pru<lb ed="#P" n="37" break="no"/>dentior in seruando suo boue.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e935">
+          ¶ Insuper homicidium 
+          <lb ed="#P" n="38"/>bruti reddit alios cautiores ad se pseruandos siue 
+          <lb ed="#P" n="39"/>a scelere / siue ne occidantur.
+        </p>
+        <p xml:id="jm3cbb-e98622-d1e942">
+          ¶ Quarto si bos 
+          conser<lb ed="#P" n="40" break="no"/>uaretur vlterius: postquam habuit praencipium ad huiusmodi 
+          perpe<lb ed="#P" n="41" break="no"/>tranda: non desisteret. Propterea rurales grossos 
+          ca<lb ed="#P" n="42" break="no"/>nes eleporiarios occidentes agnos e medio 
+          tol<lb ed="#P" n="43" break="no"/>lunt propter occisionem agnorum in posterum. eadem 
+          pe<lb ed="#P" n="44" break="no"/>na debetur illis brutis secundum leges: et bruta in his 
+          <lb ed="#P" n="45"/>partibus affixa palis interdum videmus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

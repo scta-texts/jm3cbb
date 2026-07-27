@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="17-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e09848"><!-- l3d5q1 -->
+        <head xml:id="jm3cbb-e09848-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e09848-Hd1e101" type="question-title">An solum Verbum sit incarnatum, et carnem
+    humanam sibi univerit</head>
+        <p xml:id="jm3cbb-e09848-d1e104">
+          <lb ed="#P" n="9"/>IN hac 
+          distinctio<lb ed="#P" n="10" break="no"/>ne quinta: magister prolixe in 
+          <lb ed="#P" n="11"/>sistit circa aliquas propositio 
+          <lb ed="#P" n="12"/>nes: an persona naturam assumpsit. 
+          <lb ed="#P" n="13"/>vel an persona personam: sed omnia 
+          <lb ed="#P" n="14"/>illa sufficienter patent ex dictis 
+          <lb ed="#P" n="15"/>in prima distinctione
+        </p>
+        <p xml:id="jm3cbb-e09848-d1e122">
+          ¶ Queritur 
+          <lb ed="#P" n="16"/>uunc: an solum verbum est incarnatum: et carnem 
+          huma<lb ed="#P" n="17" break="no"/>nam sibi vniuerit. Pro questionis solutione 
+          pono<lb ed="#P" n="18" break="no"/>eonclusiones.
+        </p>
+        <p xml:id="jm3cbb-e09848-d1e131">
+          ¶ Prima est: tota trinitas vniuit 
+          <lb ed="#P" n="19"/>naturam humanam filio in vnitatem suppositi: hec 
+          ex<lb ed="#P" n="20" break="no"/>dictis in prima distinctione patuit. et amplius 
+          ad<lb ed="#P" n="21" break="no"/>huc patet supposita significatione vocabuli: 
+          vni<lb ed="#P" n="22" break="no"/>re importat actionem: modo actio ad extra est 
+          con<lb ed="#P" n="23" break="no"/>munis tribuns: ille res dicuntur adinuicem vnite que 
+          <lb ed="#P" n="24"/>in eodem supposito concurrunt. et illud quod ad hanc 
+          <lb ed="#P" n="25"/>vnionem facit dicitur vnire actiue.
+        </p>
+        <p xml:id="jm3cbb-e09848-d1e150">
+          ¶ Secunda 
+          con<lb ed="#P" n="26" break="no"/>clusio essentia diuina vnitur humanitatir contra. 
+          <lb ed="#P" n="27"/>patet: essentia diuina et humanitas concurrunt 
+          si<lb ed="#P" n="28" break="no"/>mul in eodem supposito.
+        </p>
+        <p xml:id="jm3cbb-e09848-d1e159">
+          ¶ Tertia conclusio: 
+          ver<lb ed="#P" n="29" break="no"/>bum solum suppositat naturam humanam: patet: pater 
+          <lb ed="#P" n="30"/>non suppositat naturam humanam: nec spiritus sanctus. 
+          <lb ed="#P" n="31"/>illud solum dicitur suppositare naturam humanam 
+          <lb ed="#P" n="32"/>quod suppositum dicitur homo: hoc solum filio 
+          com<lb ed="#P" n="33" break="no"/>petit.
+        </p>
+        <p xml:id="jm3cbb-e09848-d1e172">
+          ¶ Quarta conclusio: illa non est concedenda 
+          <lb ed="#P" n="34"/>humanitas suppositat verbum: patet: per illam deno 
+          <lb ed="#P" n="35"/>tatur quod natura humana assumpta dat verbo esse 
+          <lb ed="#P" n="36"/>suppositi: quod est falsum.
+        </p>
+        <p xml:id="jm3cbb-e09848-d1e181">
+          ¶ Contra tertiam 
+          con<lb ed="#P" n="37" break="no"/>clusionem arguitur: natura diuina est incarnata: 
+          er<lb ed="#P" n="38" break="no"/>go non solum verbum: antecedens patet: idem est 
+          incar<lb ed="#P" n="39" break="no"/>nari et carni passiue vniri: sed deitas est carni 
+          vni<lb ed="#P" n="40" break="no"/>ta: quia caro et deitas concurrunt in eodem 
+          supposi<lb ed="#P" n="41" break="no"/>to. Respondetur concedendo antecedens: et 
+          negan<lb ed="#P" n="42" break="no"/>do consequentiam: quia verbum non est aliud a deitate. 
+          <lb ed="#P" n="43"/>quod solum verbum est incarnatum: patet per exponentes 
+          <lb ed="#P" n="44"/>verbum est incarnatum: et nihil aliud a verbo est 
+          in<lb ed="#P" n="45" break="no"/>carnatum: vel nulla res que non est verbum est 
+          incar<lb ed="#P" n="46" break="no"/>nata: veritas prioris exponentis est nota: et 
+          secun<lb ed="#P" n="47" break="no"/>de exponentis veritas patet per falsitatem sui 
+          contra<lb ed="#P" n="48" break="no"/>dictorii: quia pater (qui non est verbum) non est 
+          incar<lb ed="#P" n="49" break="no"/>natus: nec spiritus sanctus: et nulla est essentia 
+          diui<lb ed="#P" n="50" break="no"/>na que non sit verbum: cum essentia diuina sit verbum: et 
+          <lb ed="#P" n="51"/>est nisi vn a essentia diuina.
+        </p>
+        <p xml:id="jm3cbb-e09848-d1e216">
+          ¶ Dubitatur de 
+          veri<lb ed="#P" n="52" break="no"/>tate huius propositionis: deus assumpsit hominem. 
+          <lb ed="#P" n="53"/>circa hanc propositionem est difficultas: communiter 
+          lo<lb ed="#P" n="54" break="no"/>quentes illam negant. Sed contra hoc arguitur: in 
+          <lb ed="#P" n="55"/>psal. Te deum laudamus canit ecclesia. Tu ad 
+          li<lb ed="#P" n="56" break="no"/>berandum suscepturus hominem non horruisti 
+          virgi<lb ed="#P" n="57" break="no"/>nis vterum. et hieronymus in explanatione fidei: 
+          <lb ed="#P" n="58"/>et magister recitat distin. xv. ca. iiii. in fine. licet 
+          er<lb ed="#P" n="59" break="no"/>go persona filii susciperet passibilem hominem: ita 
+          <lb ed="#P" n="60"/>tamen eius habitatione secundum substantiam suam nil¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>passa est. et Anselmus secundo libro cur deus 
+          homo<lb ed="#P" n="62" break="no"/>ca. vii. dicit / quod plures homines nequeunt vnum 
+          eun<lb ed="#P" n="63" break="no"/>demque hominem assumere in vnitate persone. ecce 
+          quo<lb ed="#P" n="64" break="no"/>modo hi vocant humanitatem assumptam hominem: 
+          <lb ed="#P" n="65"/>et multe similes sunt auctoritates: eod est modo 
+          lo<lb ed="#P" n="66" break="no"/>quendi vtentes. alia dicta induci possunt ad 
+          osten<lb ed="#P" n="67" break="no"/>dendum quod verbum assumpsit humanitatem et non 
+          ho<lb ed="#P" n="68" break="no"/>minem.
+        </p>
+        <p xml:id="jm3cbb-e09848-d1e258">
+          ¶ Respondetur: terminus homo multis 
+          mo<lb ed="#P" n="69" break="no"/>dis capitur: vno modo absolute pro omni 
+          compo<lb ed="#P" n="70" break="no"/>sito ex materia et anima rationali: et sic tam totus 
+          <lb ed="#P" n="71"/>homo quam pars integralis eius est homo: quia 
+          substam<lb ed="#P" n="72" break="no"/>tia rationalis: et per consequens homo: sortes: 
+          pla<lb ed="#P" n="73" break="no"/>to: vel huiusmodi. Alio modo capitur connotatiue / 
+          pro<lb ed="#P" n="74" break="no"/>illo quod humanitatem sustentat ipostatice: et sic verbum 
+          <lb ed="#P" n="75"/>est homo. primo modo capiendo vocabulum: 
+          ver<lb ed="#P" n="76" break="no"/>hum assumpsit hominem. patet: assumpsit 
+          humanita<lb ed="#P" n="77" break="no"/>tem: ergo et hominem: consequentia tenet a sinonimo 
+          <lb ed="#P" n="78"/>ad sinonimum. Secundo modo non assumpsit hominem: 
+          <lb ed="#P" n="79"/>quia nihil assumit se in vnitatem suppositi. Secundo 
+          mo<lb ed="#P" n="80" break="no"/>do verbum realiter est homo.
+        </p>
+        <p xml:id="jm3cbb-e09848-d1e288">
+          ¶ Sed contra primum 
+          <lb ed="#P" n="81"/>membrum arguitur sic: quandocunqe aliquis terminus 
+          <lb ed="#P" n="82"/>supponit pro aliqua re et postea re illa manente non 
+          <lb ed="#P" n="83"/>supponit pro eadem re: ille terminus est 
+          connotati<lb ed="#P" n="84" break="no"/>uus. sed homo supponit pro materia et forma quando 
+          <lb ed="#P" n="85"/>forma materiam informat: et quando ipsa est 
+          sepa<lb ed="#P" n="86" break="no"/>rata non amplius supponit pro illa re: ergo homo est 
+          <lb ed="#P" n="87"/>terminus connotatiuus. maior patet: non alias eques 
+          <lb ed="#P" n="88"/>pedes / albus / et huiusmodi dicuntur termini 
+          connotati<lb ed="#P" n="89" break="no"/>ui. minor est nota. Respondetur: quando terminus homo 
+          <lb ed="#P" n="90"/>in omni significatione esset terminus connotatiuus 
+          <lb ed="#P" n="91"/>non infirmatur principalis responsio que dicit quod hec est 
+          <lb ed="#P" n="92"/>vera verbum assumpsit hominem / siue homo dicatur 
+          <lb ed="#P" n="93"/>connotatiuus siue non. Secundo dico: ratio assumpta 
+          <lb ed="#P" n="94"/>non concludit: et patet a signo: quia inferret nullum 
+          <lb ed="#P" n="95"/>terminum significantem rem compositam ponibilem in 
+          pre<lb ed="#P" n="96" break="no"/>dicamento substantie: cum in illo predicamento solum 
+          <lb ed="#P" n="97"/>ponantur termini absoluti substantiam 
+          significan<lb ed="#P" n="98" break="no"/>tes. Respondeo ergo maior est vera vt iacet: sed si 
+          di<lb ed="#P" n="99" break="no"/>cas sic: quandocunqe aliquis terminus supponit 
+          pro<lb ed="#P" n="100" break="no"/>re aliqua vel rebus ipsis existentibus non amplius 
+          <lb ed="#P" n="101"/>supponit pro illis rebus: ille terminus est connota 
+          <lb ed="#P" n="102"/>tiuus: dico maior hec est neganda in terminis 
+          si<lb ed="#P" n="103" break="no"/>gnificantibus substantiam compositam. in aliis autem 
+          <lb ed="#P" n="104"/>hoc concedo. terminorum absolutorum et connotatiuo 
+          <lb ed="#P" n="105"/>rum ad placitum significantium significatio 
+          depen<lb ed="#P" n="106" break="no"/>det ab hominum vsu et auctoritate: nec oportet 
+          ali<lb ed="#P" n="107" break="no"/>ter regulis inniti. et termini mentales suapte 
+          na<lb ed="#P" n="108" break="no"/>tura talem significantiam habent. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="52-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e31574"><!-- l3d23q6 -->
+        <head xml:id="jm3cbb-e31574-Hd1e99">Quaestio 6</head>
+        <head xml:id="jm3cbb-e31574-Hd1e101" type="question-title">An habitus in infinitum crescat per actuum multiplicationem</head>
+        <p xml:id="jm3cbb-e31574-d1e104">
+          <lb ed="#P" n="51"/>NUnc de habitus 
+          <lb ed="#P" n="52"/>et actus productione mutua: et 
+          <lb ed="#P" n="53"/>ad quos actus habitus 
+          incli<lb ed="#P" n="54" break="no"/>net: vidimus. vlterius 
+          viden<lb ed="#P" n="55" break="no"/>dum est de habitus cremento et 
+          <lb ed="#P" n="56"/>decremento. et sexto queritur: 
+          <lb ed="#P" n="57"/>an habitus in infinitum crescat 
+          <lb ed="#P" n="58"/>per actuum multiplicationem.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e124">
+          ¶ Respondetur per 
+          con<lb ed="#P" n="59" break="no"/>clusiones: quarum prima est. non est dabilis 
+          maxi<lb ed="#P" n="60" break="no"/>mus habitus citra infinitum quem anima potest susci¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>pere: et adhuc infinito habitu in anima producto: ipsa 
+          <lb ed="#P" n="62"/>potest ma iorem suscipere / in aliqua acceptione maio 
+          <lb ed="#P" n="63"/>ritatis. hec conclusio ex. xiii. distinctione patet. 
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e140">
+          <lb ed="#P" n="64"/>¶ Secunda conclusio. ad intensionem actus intenditur 
+          <lb ed="#P" n="65"/>habitus. probatio. actus producit habitum. modo ad 
+          <lb ed="#P" n="66"/>intensionem cause sequitur intensio effectus.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e150">
+          ¶ Tertia 
+          <lb ed="#P" n="67"/>conclusio. dabilis est intensissimus actus quem 
+          intel<lb ed="#P" n="68" break="no"/>lectus vel voluntas potest producere sine habitu: vel 
+          <lb ed="#P" n="69"/>cum habitu tante intensionis. hec conclusio patetpri 
+          <lb ed="#P" n="70"/>mo de celo et mundo: vbi dicitur quod potentia actiua 
+          <lb ed="#P" n="71"/>terminatur ad maximum effectum quem potest. et hoc 
+          <lb ed="#P" n="72"/>habet verum quando non est resistentia ex parte passi. 
+          Se<lb ed="#P" n="73" break="no"/>cundo probatur hoc specialiter de actu. calor vt 
+          quat<lb ed="#P" n="74" break="no"/>tuor producit calorem vt quattuor. et status est in 
+          ca<lb ed="#P" n="75" break="no"/>lore quem potest producere. ergo pari forma potentia 
+          <lb ed="#P" n="76"/>habet statum in sua productione. et eodem modo actus 
+          <lb ed="#P" n="77"/>vt quattuor potest producere aliquem habitum: et non 
+          ma<lb ed="#P" n="78" break="no"/>iorem.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e179">
+          ¶ Contra tertiam conclusionem arguitur sic. 
+          vo<lb ed="#P" n="79" break="no"/>luntas adiuta habitu / potest maiorem actum producere 
+          <lb ed="#P" n="80"/>quam habitu non adiuta. sed in infinitum potest crescere 
+          <lb ed="#P" n="81"/>habitus. ergo non datur maximus actus quem 
+          volun<lb ed="#P" n="82" break="no"/>tas vel intellectus potest producere.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e190">
+          ¶ Respondetur 
+          con<lb ed="#P" n="83" break="no"/>clusio intelligitur sine auxilio.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e195">
+          ¶ Secundo arguitur 
+          <lb ed="#P" n="84"/>contra alteram particulam que dicit quod actus potest 
+          pro<lb ed="#P" n="85" break="no"/>ducere habitum tante intensionis et non maiorem. 
+          Ar<lb ed="#P" n="86" break="no"/>guitur sic. actus vt quattuor primo productus in 
+          <lb ed="#P" n="87"/>potentia habitum certe intensionis producit: sit 
+          gra<lb ed="#P" n="88" break="no"/>tia exempli ille habitus intensus vt quattuor. 
+          se<lb ed="#P" n="89" break="no"/>cundus actus secundo allatus tante actiuitatis est si 
+          <lb ed="#P" n="90"/>cut actus prior: sed actus prior quattuor gradus 
+          <lb ed="#P" n="91"/>produxit habitus: ergo actus posterior totidem 
+          <lb ed="#P" n="92"/>producit est agens naturale. passum est susceptiuum 
+          <lb ed="#P" n="93"/>illius effectus. nec est repugnantia illorum effectuum 
+          <lb ed="#P" n="94"/>inter se: igitur.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e221">
+          ¶ Respondetur concedendo quod actus 
+          <lb ed="#P" n="95"/>primo allatus producit habitum intensum vt quat 
+          <lb ed="#P" n="96"/>tuor. similis actus in intensione graduali. 
+          Secun<lb ed="#P" n="97" break="no"/>do adductus nichil producit. et ratio est: quia agens 
+          <lb ed="#P" n="98"/>eiusdem speciei secum equaliter actiuum: produxit 
+          effe<lb ed="#P" n="99" break="no"/>ctum ita potentem sicut secundus actus est natus 
+          produ<lb ed="#P" n="100" break="no"/>cere. modo ita est in aliis agentibus: si a. calidum vt 
+          <lb ed="#P" n="101"/>quattuor producat calorem vt quattuor in b. passum: 
+          <lb ed="#P" n="102"/>c. equaliter calidum cum a. in gradu vel in 
+          multitudi<lb ed="#P" n="103" break="no"/>ne forme: applicatum b. passo iam calefacto vt quat 
+          <lb ed="#P" n="104"/>tuor. nichil vlterius producit: cum iam inuenit passum 
+          <lb ed="#P" n="105"/>ei assimilatum. modo simile non agit in simile: primo 
+          <lb ed="#P" n="106"/>de generatione. sic erit de actu et habitu.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e250">
+          ¶ 
+          Con<lb ed="#P" n="107" break="no"/>tra hoc arguitur sic. si noticia abstractiua sortis 
+          <lb ed="#P" n="108"/>producat speciem vel habitum in intellectum platonis 
+          <lb ed="#P" n="109"/>intensum vt quattuor. noticia abstractiua cicero 
+          <lb ed="#P" n="110"/>nis superueniens intellectui platonis producit 
+          no<lb ed="#P" n="111" break="no"/>uam speciem vel habitum tante intensionis: et sic si ad 
+          <lb ed="#P" n="112"/>ducantur viginti homines cum viginti noticiis 
+          ab<lb ed="#P" n="113" break="no"/>stractiuis: semper producerentur noui habitus:  
+          <lb ed="#P" n="114"/>ille noticie sunt eiusdem speciei: ergo actus vitalis 
+          <lb ed="#P" n="115"/>superueniene in secundo loco vel posteriori: actui 
+          pre<lb ed="#P" n="116" break="no"/>cedenti eiusdem rationis producit suum effectum de 
+          <lb ed="#P" n="117"/>nouo: ac si similem effectum non inuenisset productum 
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e277">
+          <lb ed="#P" n="118"/>¶ Respondetur. istud argumentum non concludit. 
+          <lb ed="#P" n="119"/>varia obiecta varias producunt noticias 
+          repssen<lb ed="#P" n="120" break="no"/>tatiuas obiectorum et habitus productiuos similium 
+          <lb ed="#P" n="121"/>noticiardmactualiam non est sic de calore et fiisore 
+          <pb ed="#P" n="52-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>et de aliis qualitatibus vitalibus: saltem non 
+          con<lb ed="#P" n="2" break="no"/>stat quod sit sic. si habeam noticiam abstractiuam a. 
+          albe<lb ed="#P" n="3" break="no"/>dinis: videtur quod illa albedo potest in aliquo 
+          tempo<lb ed="#P" n="4" break="no"/>re certo vel instanti ita esse intensa / quod non amplius 
+          <lb ed="#P" n="5"/>intendetur: nec habitus illius. alioquin vna 
+          demon<lb ed="#P" n="6" break="no"/>stratio millies repetita semper scientiam intendit: 
+          <lb ed="#P" n="7"/>etiam sifuerit remissior in posterioribus 
+          repetitioni<lb ed="#P" n="8" break="no"/>bus quam in primis.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e310">
+          ¶ Secundo arguitur. si repetitio 
+          <lb ed="#P" n="9"/>actuum similium in vigore non intenderet habitu: 
+          se<lb ed="#P" n="10" break="no"/>quitur quod non intenderetur habitus citharizandi. 
+          <lb ed="#P" n="11"/>consequens est falsum. si quis fuerit peritus 
+          citha<lb ed="#P" n="12" break="no"/>redus: si non repetat actus: in temporis interuallo 
+          <lb ed="#P" n="13"/>nescit promprte citharizare: et tamen si exerceat ompe 
+          <lb ed="#P" n="14"/>rationes citharizandi: promptissime citharizabit: 
+          <lb ed="#P" n="15"/>et hoc non / nisi quia coalescit habitus 
+          citharizan<lb ed="#P" n="16" break="no"/>di per actuum citharizandi crebram repetitionem. 
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e330">
+          <lb ed="#P" n="17"/>¶ Respondetur non nichil coloris est in 
+          argumeni<lb ed="#P" n="18" break="no"/>to: sed ipsum non concludit. dicam ad alterationem 
+          <lb ed="#P" n="19"/>carnis habitus citharizandi corrumpitur: quia 
+          cor<lb ed="#P" n="20" break="no"/>rupto subiecto partialiter corrumpitur habitus 
+          <lb ed="#P" n="21"/>eius sed repetitio actuum / producit de nouo 
+          habi<lb ed="#P" n="22" break="no"/>tus / et manutenet eandem intensionem gradualem in 
+          <lb ed="#P" n="23"/>habitu: supposito quod actus fuerint ita intensi / sicut 
+          <lb ed="#P" n="24"/>primi actus generatiui habitus. sed si subiectum 
+          <lb ed="#P" n="25"/>habitus nullo modo alteraretur: habitus conserua 
+          <lb ed="#P" n="26"/>retur in eadem intensione graduali. actus 
+          sequen<lb ed="#P" n="27" break="no"/>tes nichil habitus producunt de nouo: nisi 
+          inten<lb ed="#P" n="28" break="no"/>siores fuerint quam actus qui primo habitum 
+          produ<lb ed="#P" n="29" break="no"/>xerunt: et ita dicetur de scriptore / lanifice / et 
+          ali<lb ed="#P" n="30" break="no"/>is artificibus.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e363">
+          ¶ Sed contra hoc arguitur: 
+          repe<lb ed="#P" n="31" break="no"/>tio actuum circa intellectum producit nouum habitum: 
+          <lb ed="#P" n="32"/>licet actus posteriores non fuerint intensiores 
+          actu<lb ed="#P" n="33" break="no"/>primo producto per habitus: et tamen intellectus non 
+          <lb ed="#P" n="34"/>corrumpitur: igitur. maior patet. si homo repetat 
+          <lb ed="#P" n="35"/>actus circa aliquod scibile in quo homo est 
+          habi<lb ed="#P" n="36" break="no"/>tuatus manutenetur habitus: sic quod homo exit 
+          promn<lb ed="#P" n="37" break="no"/>pte in operationes conformes suo habitui: et si non 
+          <lb ed="#P" n="38"/>repetat actus: nullo modo exit in similes actus. 
+          <lb ed="#P" n="39"/>hoc patet de sene non potente exire in actus eorum 
+          <lb ed="#P" n="40"/>que in iuuentute intellexit. et hoc non est nisi quia 
+          <lb ed="#P" n="41"/>non repetiuit actus habitus generatiuos.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e389">
+          ¶ 
+          Re<lb ed="#P" n="42" break="no"/>spondetur: ista replica (licet colorem habeat ) 
+          defe<lb ed="#P" n="43" break="no"/>ctum habet ex alio. et defectus ille ex questione 
+          <lb ed="#P" n="44"/>sequenti patebit.
+        </p>
+        <p xml:id="jm3cbb-e31574-d1e398">
+          ¶ Dubitatur: an habituatus 
+          prom<lb ed="#P" n="45" break="no"/>pte et delectabiliter exit in actus sui habitus. 
+          Re<lb ed="#P" n="46" break="no"/>spondetur: si habitus fuerit intensus: et non fuerit 
+          <lb ed="#P" n="47"/>obex: prompte exit in actus suos habitui 
+          confor<lb ed="#P" n="48" break="no"/>mes. assuetus surgere hora quarta mane: 
+          promptis<lb ed="#P" n="49" break="no"/>sime illa hora surgit. et assuetus ad sextam vel 
+          septi<lb ed="#P" n="50" break="no"/>mam dormire: cum tedio et nausea. et communiter 
+          <lb ed="#P" n="51"/>est cum delectatione habitus. potest tamen sequi 
+          tri<lb ed="#P" n="52" break="no"/>sticia ex habitu inuidie aut odii aut ex habitu 
+          pe<lb ed="#P" n="53" break="no"/>nitendi. ergo promptius exire in actum habitui 
+          con<lb ed="#P" n="54" break="no"/>formen est magis essentiale habitui / quam 
+          delectabili<lb ed="#P" n="55" break="no"/>ter exire in operationes. etiam intensius operatur 
+          <lb ed="#P" n="56"/>habituatus quam non habituatus / cum simili conatu / et 
+          <lb ed="#P" n="57"/>ceteris paribus. et habitus bonus malo 
+          opposi<lb ed="#P" n="58" break="no"/>to resistit. Ecce ergo quid facit habitus bonus: 
+          <lb ed="#P" n="59"/>hilariter facit hominem bene operari inten se / cum 
+          <lb ed="#P" n="60"/>facilitate / et malo resistit. in habitu malo 
+          opposi<lb ed="#P" n="61" break="no"/>ta istorum eueniunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

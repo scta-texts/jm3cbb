@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="75-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e46015"><!-- l3d32q1 -->
+        <head xml:id="jm3cbb-e46015-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e46015-Hd1e101" type="question-title">An Deus aequaliter omnia creata et increata diligat</head>
+        <p xml:id="jm3cbb-e46015-d1e104">
+          <lb ed="#P" n="23"/>Une circa 
+          distinctio<lb ed="#P" n="24" break="no"/>nem. 32 loquendum est. circa quam 
+          <lb ed="#P" n="25"/>quero hanc questionem: an 
+          de<lb ed="#P" n="26" break="no"/>us <sic>aliqualiter</sic> omnia creata et 
+          <lb ed="#P" n="27"/>increata diligat.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e120">
+          ¶ Respondetur: 
+          <lb ed="#P" n="28"/>diligere aliquid ( vt superius ex 
+          <lb ed="#P" n="29"/>Aristotele secundo ethorice alle 
+          <lb ed="#P" n="30"/>gauimus) nihil aliud est quam illi aliquid boni velle 
+          pro<lb ed="#P" n="31" break="no"/>nunc in presenti vel in futuro tempore. Ex isto 
+          pa<lb ed="#P" n="32" break="no"/>tet quod deus non diligit illud quod in nulla temporis 
+          dif<lb ed="#P" n="33" break="no"/>ferentia existit. patet: nullum bonum illi commnicat. num 
+          <lb ed="#P" n="34"/>quam tribuit illi esse: et omne bonum presupponit esse. hoc 
+          <lb ed="#P" n="35"/>presupposito pono tres conclusiones questioni 
+          re<lb ed="#P" n="36" break="no"/>sponsiuas.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e142">
+          ¶ Quarum prima est: deus diligit omnia 
+          <lb ed="#P" n="37"/>equalitate actus. sic scilict: quod actus quo diligit 
+          vnib<lb ed="#P" n="38" break="no"/>non est maior vel intensior quam actus quo diligit 
+          a<lb ed="#P" n="39" break="no"/>liud obiectum. probatur: actus quo deus diligit 
+          ali<lb ed="#P" n="40" break="no"/>quid est ipse deus et sua voluntas.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e154">
+          ¶ Secunda conclusio: 
+          <lb ed="#P" n="41"/>deus eodem actu plus diligit se quam creaturam. 
+          proba<lb ed="#P" n="42" break="no"/>tur: deus diligit eodem actu plus appreciatiue se quam 
+          <lb ed="#P" n="43"/>creaturam: et diligit creaturam proptur se: et non econuerso. 
+          <lb ed="#P" n="44"/>ergo magis se diligit (licet eodem actu) quam creaturam. 
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e165">
+          <lb ed="#P" n="45"/>¶ Secundo arguitur ad idem de actu collatiuo quo 
+          <lb ed="#P" n="46"/>diligo sortem propter deum. per illum actum eundem 
+          nu<lb ed="#P" n="47" break="no"/>mero plus diligo deum quam creaturam. ergo non 
+          incon<lb ed="#P" n="48" break="no"/>uenit quod deus eodem actu diligat aliqua plura. a. et 
+          <lb ed="#P" n="49"/>b. et illo actu plus diligat b. quam a.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e178">
+          ¶ Tertia conclusio: 
+          <lb ed="#P" n="50"/>deus inequaliter diligit diligibilia quae interdum 
+          ha<lb ed="#P" n="51" break="no"/>bent habuerunt vel habebunt esse ex parte rei 
+          di<lb ed="#P" n="52" break="no"/>lecte vel obiecti voliti. probatur hec conclusio: 
+          dilige<lb ed="#P" n="53" break="no"/>re aliquid / est illi aliquod bonum velle secundum 
+          Ari<lb ed="#P" n="54" break="no"/>stotelem secundo Rethorice. ergo plus diligit illud 
+          cui<lb ed="#P" n="55" break="no"/>maius bonum vult. sed multis inequaliter vult 
+          <lb ed="#P" n="56"/>bona. plus sibi vult quam creaturis. plus vult 
+          creatu<lb ed="#P" n="57" break="no"/>ris rationabilibus quod irrationabilibus. plus 
+          an<lb ed="#P" n="58" break="no"/>gelo quam homini. plus equo quam mule. et plus mule quam 
+          <lb ed="#P" n="59"/>asino. et cuiplus efficaciter vult: illud plus diligit. 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e207">
+          ¶ Comra istas tres conclusiones et earum 
+          <lb ed="#P" n="61"/>declarationes simul arguitur: ex dictis sequitur quod 
+          <lb ed="#P" n="62"/>deus diligit omnia creata. et per consequens 
+          si<lb ed="#P" n="63" break="no"/>mul diligit duo contraria: cum vtrumque contrariorum 
+          si<lb ed="#P" n="64" break="no"/>mul habet est.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e218">
+          ¶ Secundo arguitur: deo equalis est 
+          <lb ed="#P" n="65"/>cura de omnibus Sapientie. v. ergo deus omnia 
+          equa<lb ed="#P" n="66" break="no"/>liter diligit.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e225">
+          ¶ Ad primum respondetur concedendo quod 
+          <lb ed="#P" n="67"/>deus simul diligit duo contraria: siue sit sermo de 
+          re<lb ed="#P" n="68" break="no"/>bus contrariis: siue propositionibus contrariis: cum 
+          <lb ed="#P" n="69"/>illas vult simul esse in rerum natura: sed non in eodem 
+          <lb ed="#P" n="70"/>subiecto: vel simul veras.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e237">
+          ¶ Ad secundum: concedo quod 
+          <lb ed="#P" n="71"/>deus diligit omnia equaliter quatum est ex perte 
+          soili<lb ed="#P" n="72" break="no"/>citudinis: quia equalis est sollicitudo ex parte dei de 
+          <lb ed="#P" n="73"/>omnibus. sed non diligit equalitr omnia quantium ad 
+          bona<lb ed="#P" n="74" break="no"/>volita.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e248">
+          ¶ Tertio arguitur: dilectio dei sequitur eius 
+          <lb ed="#P" n="75"/>cognitionem. sed equaliter omnia cognoscit. ergo 
+          <lb ed="#P" n="76"/>equaliter omnia vuit.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e255">
+          ¶ Quarto arguitur: deus 
+          dili<lb ed="#P" n="77" break="no"/>git omia possibilia que in nulla temporis 
+          differen<lb ed="#P" n="78" break="no"/>tia erunt. patet. in eis habet complacentiam / 
+          vo<lb ed="#P" n="79" break="no"/>lendo ea esse possibilia.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e264">
+          ¶ Ad tertium concedo 
+          du<lb ed="#P" n="80" break="no"/>as premissas: et nego consequentiam. cognitio dei 
+          ni<lb ed="#P" n="81" break="no"/>chil ponit in re cognita: dilectio autem aliquid 
+          po<lb ed="#P" n="82" break="no"/>nit in re dilecta.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e273">
+          ¶ Ad quartum nego assumptum. 
+          <lb ed="#P" n="83"/>et ad probationem eius / concedo quod habet 
+          complacen<lb ed="#P" n="84" break="no"/>tiam possibilem in eis: sed hoc ad dilectionem non 
+          <lb ed="#P" n="85"/>sufficit.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e282">
+          ¶ Dubitatur: an actus diligendi quo deus 
+          <lb ed="#P" n="86"/>diligit se et omnia alia sit proprius alicui persone 
+          <lb ed="#P" n="87"/>in diuinis.
+        </p>
+        <p xml:id="jm3cbb-e46015-d1e290">
+          ¶ Respondetur: diligere se et alia est actus 
+          <lb ed="#P" n="88"/>essentialis: et per consequens nulli persone proprius: 
+          <lb ed="#P" n="89"/>quia sicut pater non sapit sapientia genita: ita nec 
+          <lb ed="#P" n="90"/>diligit dilectione spirata. nichil enu recipit 
+          per<lb ed="#P" n="91" break="no"/>sona producens a persona producta. pater et 
+          fili<lb ed="#P" n="92" break="no"/>us diligunt se et spiritum sanctum amore essentia 
+          <lb ed="#P" n="93"/>li / qui est essentia: diligendo se amore essentiali / 
+          <lb ed="#P" n="94"/>spirant spiritum sanctum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

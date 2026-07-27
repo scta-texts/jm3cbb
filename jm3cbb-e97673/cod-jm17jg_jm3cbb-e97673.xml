@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="160-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e97673"><!-- l3d39q5 -->
+        <head xml:id="jm3cbb-e97673-Hd1e99">Quaestio 5</head>
+        <head xml:id="jm3cbb-e97673-Hd1e101" type="question-title">An periurium deliberatum sit gravius quam homicidium</head>
+        <p xml:id="jm3cbb-e97673-d1e104">
+          <lb ed="#P" n="43"/>¶ Questio. v. 
+          <lb ed="#P" n="44"/>Quinto circa hanc 
+          di<lb ed="#P" n="45" break="no"/>stinctionem queritur an 
+          periu<lb ed="#P" n="46" break="no"/>rium deliberatum sit grauius 
+          <lb ed="#P" n="47"/>quam homicidium. Respondetur: 
+          circa<lb ed="#P" n="48" break="no"/>hanc questionem due sunt 
+          posi<lb ed="#P" n="49" break="no"/>tiones. vna tenet partem 
+          affirma<lb ed="#P" n="50" break="no"/>tiuam dicens quod periurium ex 
+          suo<lb ed="#P" n="51" break="no"/>genere homicidium in malicia exuperat: quia cadit 
+          su<lb ed="#P" n="52" break="no"/>per materiam magis indebitam quam actus 
+          homici<lb ed="#P" n="53" break="no"/>dii. Periurium est contra reuerentiam dei: homicidium 
+          <lb ed="#P" n="54"/>solum contra propositum.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e133">
+          ¶ Sed contra istud 
+          argui<lb ed="#P" n="55" break="no"/>tur: illud est grauius peccatum quod meliori bono 
+          op<lb ed="#P" n="56" break="no"/>ponitur: sed homicidium caritati deiet proximi 
+          op<lb ed="#P" n="57" break="no"/>ponitur: periurium vero opponitur virtuti latrie. mo¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>do charitas est praestantior virtus quam latria. ¶
+          rgecun<lb ed="#P" n="59" break="no"/>do arguitur ad idem: Si periurium est magis peccatum 
+          <lb ed="#P" n="60"/>quam homicidium: hoc est quia immediate est contra deum / 
+          <lb ed="#P" n="61"/>et non homicidium: ergo tunc quodlibet peccatum 
+          <lb ed="#P" n="62"/>commissum immediate contra deum erit maius 
+          quo<lb ed="#P" n="63" break="no"/>cumque peccato vel quibuscumque peccatis contra 
+          proxi<lb ed="#P" n="64" break="no"/>mum commissis. consequens est falsum.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e159">
+          ¶ Tertio 
+          ar<lb ed="#P" n="65" break="no"/>guitur. licet ceteris paribus maius sit peccatum 
+          fe<lb ed="#P" n="66" break="no"/>rire principem quam subiectum: ex quinto ethicorum. 
+          tamen<lb ed="#P" n="67" break="no"/>maius peccatum est occidere subiectum hominem 
+          <lb ed="#P" n="68"/>quam male loqui de rege: ergo sic erit in proposito. 
+          for<lb ed="#P" n="69" break="no"/>te dicis: rex terrenus non excedit infinite verum ei 
+          <lb ed="#P" n="70"/>subiectum: deus tamen quamlibet creaturam infinite 
+          <lb ed="#P" n="71"/>excedit: propterea non est idem. Contra hoc arguitur: 
+          <lb ed="#P" n="72"/>quia hac via procedendo omne peccatum commissum 
+          <lb ed="#P" n="73"/>immediate contra deum esset infinitum: quod liquet 
+          <lb ed="#P" n="74"/>esse falsum: tunc peccatum aliquid esse grauius 
+          com<lb ed="#P" n="75" break="no"/>missum contra hominem vel hominss quam hoc vel illud 
+          <lb ed="#P" n="76"/>peccatum commissum immediate contra deum 
+          ineffi<lb ed="#P" n="77" break="no"/>caciter probat periurium esse grauius homicidio. 
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e191">
+          <lb ed="#P" n="78"/>¶ Quarto arguitur. homicidium non solum est 
+          con<lb ed="#P" n="79" break="no"/>tra hominem sed contra deum et eius prohibitionem: quo 
+          <lb ed="#P" n="80"/>tollitur hoc modo animalium ceterorum metrum et 
+          men<lb ed="#P" n="81" break="no"/>sura: pro quo deus magnas penas infligit: vt ex 
+          scri<lb ed="#P" n="82" break="no"/>ptura palam est: igitur.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e204">
+          ¶ Propter has rationes 
+          po<lb ed="#P" n="83" break="no"/>nitur hec conclusio: homicidium est grainus peccatum 
+          <lb ed="#P" n="84"/>quod periurium. patet hec conclusio ex probationibus ad 
+          <lb ed="#P" n="85"/>ductis.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e213">
+          ¶ Contra hoc arguitur: grauius est 
+          pecca<lb ed="#P" n="86" break="no"/>tum contra preceptum in quo deus non potest 
+          dispen<lb ed="#P" n="87" break="no"/>sare quam contra preceptum in quo dispensare potest. 
+          <lb ed="#P" n="88"/>sed deus in homicidio dispensare potest: non autem 
+          <lb ed="#P" n="89"/>in periurio.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e224">
+          ¶ Secundo arguitur: periurium est contra 
+          prae<lb ed="#P" n="90" break="no"/>ceptum prime tabule. homicidium contra praeceptum 
+          <lb ed="#P" n="91"/>secunde tabule. sed transgressiones prime tabule 
+          <lb ed="#P" n="92"/>sunt maiores: igitur.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e233">
+          ¶ Ad primum nego maiorem. 
+          <lb ed="#P" n="93"/>ipsa concessa probaretur quod mendacium officiosum 
+          <lb ed="#P" n="94"/>est grauius peccatum quodm homicidium: quod liquet 
+          <lb ed="#P" n="95"/>esse salsum.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e242">
+          ¶ Ad secundum concedo maiorem. et 
+          mi<lb ed="#P" n="96" break="no"/>norem. velteteris paribus: et sic concedo. si esset possibile 
+          <lb ed="#P" n="97"/>occidere deum esset maius peccatum quam hominem 
+          <lb ed="#P" n="98"/>occidere. ceteris imparibus: non opatet. non est ita 
+          <lb ed="#P" n="99"/>grande peccatum dicere vnum malum verum de 
+          re<lb ed="#P" n="100" break="no"/>ge sicut occidere pastorem.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e256">
+          ¶ Tertio arguitur. Oumu 
+          <lb ed="#P" n="101"/>nis controuersie finis est iuramentum / ad hebre. vi. 
+          <lb ed="#P" n="102"/>ergo cum incidit questio de homicidio / standum est 
+          <lb ed="#P" n="103"/>iuramento: si iuramentum sit minus peccatum quam 
+          <lb ed="#P" n="104"/>homicidium. qui negat se hominem occidere non 
+          cu<lb ed="#P" n="105" break="no"/>rabit de periurio. si sit minus peccatum: quia ille qui 
+          <lb ed="#P" n="106"/>maius peccatum admittit / minus non recusabit. 
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e272">
+          <lb ed="#P" n="107"/>¶ Confirmatur hec ratio de iuda qui non abhorruit 
+          <lb ed="#P" n="108"/>fornicationem: et tamen mendacium abhorruit. 
+          <lb ed="#P" n="109"/>Gen. xxxviii.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e281">
+          ¶ Quarto arguitur in aliquo 
+          periu<lb ed="#P" n="110" break="no"/>rio inuolui turmors: vt periurando quod sortes homnem 
+          occi<lb ed="#P" n="111" break="no"/>dit qui nullum peremit. ergo tale periurium tam 
+          ho<lb ed="#P" n="112" break="no"/>micidium quod periurium includit: erit maius 
+          pecca<lb ed="#P" n="113" break="no"/>tum quam homicidium.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e292">
+          ¶ Ad tertium dicitur: vbi non 
+          <lb ed="#P" n="114"/>constat de alia probatione / statur in iuramento: sed non 
+          <lb ed="#P" n="115"/>sequitur propterea quod periurium sit maius peccatum quam 
+          homici<lb ed="#P" n="116" break="no"/>dium.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e301">
+          ¶ Ad confirmationem dicitur: interdum homines 
+          <lb ed="#P" n="117"/>erubescunt plus de minore peccato quam de maiore. 
+          <pb ed="#P" n="161-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Iudei non fecerunt conscientiam procurare 
+          mor<lb ed="#P" n="2" break="no"/>tem innocentis: etiam messie in lege promissi. et 
+          ta<lb ed="#P" n="3" break="no"/>men fecerunt conscientiam precium sanguinis in 
+          cor<lb ed="#P" n="4" break="no"/>bonam mittere excolentes culicem et 
+          deglutien<lb ed="#P" n="5" break="no"/>tes camelum. Multirurales nostri limitanei 
+          inter<lb ed="#P" n="6" break="no"/>angliam et scotiam magnam faciunt conscientiam 
+          <lb ed="#P" n="7"/>aliquo modo frangere ieiunium / vel panem in die 
+          <lb ed="#P" n="8"/>ieiunabili comedere / qui nullam vnquam faciunt 
+          tol<lb ed="#P" n="9" break="no"/>lere viginti equos vel boues a vicino.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e330">
+          ¶ Secundo 
+          <lb ed="#P" n="10"/>dicitur: periurium deliberatum est maius peccatum 
+          <lb ed="#P" n="11"/>quam fornicatio simplex: immo quam adulterium. Anum 
+          <lb ed="#P" n="12"/>est contra deum immediate: et aliud in proximum. 
+          <lb ed="#P" n="13"/>et non tollitur corpus proximi per hoc: ergo 
+          periu<lb ed="#P" n="14" break="no"/>rium deliberatum est maius adulterio: et per 
+          con<lb ed="#P" n="15" break="no"/>sequens cum homicidium est maius peccatum quam 
+          <lb ed="#P" n="16"/>periurium: et periuriuum maius adulterio: 
+          homi<lb ed="#P" n="17" break="no"/>cidium est maius adulterio.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e351">
+          ¶ Ad quartum dicitur: 
+          <lb ed="#P" n="18"/>nos loqui proponimus de periurio simplici: quod 
+          <lb ed="#P" n="19"/>homicidium vel equale peccatum excludit. 
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e358">
+          <lb ed="#P" n="20"/>¶ Quinto arguitur per argumentum secundum 
+          <lb ed="#P" n="21"/>adductum in conclusione prima questionis tertie 
+          <lb ed="#P" n="22"/>huius distinctionis. in illius argumenti calce ex 
+          <lb ed="#P" n="23"/>Augustino adducitur auctoritas in Gratiano 
+          ex<lb ed="#P" n="24" break="no"/>capitulo Ille. xxii. q. v. vbi dicitur: qui hominem 
+          <lb ed="#P" n="25"/>prouocat ad iurationem: et scit eum falsum iuratu 
+          <lb ed="#P" n="26"/>rum: vincit homicidam.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e376">
+          ¶ Aespondetur ille 
+          pec<lb ed="#P" n="27" break="no"/>cat: et alium ad periurandum instiguat. et sic 
+          dupli<lb ed="#P" n="28" break="no"/>citer peccat: et per consequens stat ipsum plus 
+          pec<lb ed="#P" n="29" break="no"/>care quam homicidam.
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e385">
+          ¶ Insuper dicitur: stat dare 
+          ali<lb ed="#P" n="30" break="no"/>quod periurium aliquo homicidio maius. 
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e390">
+          <lb ed="#P" n="31"/>¶ Dubitatur an habitus periurandi ex venialibus 
+          <lb ed="#P" n="32"/>genitus inclinet in actus periurii mortales. 
+        </p>
+        <p xml:id="jm3cbb-e97673-d1e397">
+          <lb ed="#P" n="33"/>¶ Respondetur quod non. in primis nunquam habitus est 
+          <lb ed="#P" n="34"/>viro imputabilis. Secundo: si cetera omnia sint 
+          <lb ed="#P" n="35"/>paria: secundus actus periurandi est venialis sicut 
+          <lb ed="#P" n="36"/>primus: et tertius actus periurandi est venialis si 
+          <lb ed="#P" n="37"/>cut secundus: et sic in abyssum. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

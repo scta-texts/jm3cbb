@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="14-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e08376"><!-- l3d4q2 -->
+        <head xml:id="jm3cbb-e08376-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e08376-Hd1e101" type="question-title">Quid egerit beata virgo in conceptione corporis Christi ratione
+    cuius ipsa debeat dici mater Christi</head>
+        <p xml:id="jm3cbb-e08376-d1e104">
+          <lb ed="#P" n="28"/>SEcunda questio 
+          <lb ed="#P" n="29"/>circa hanc distinctionem est hec 
+          <lb ed="#P" n="30"/>quid egerit beata virgo in 
+          con<lb ed="#P" n="31" break="no"/>ceptione corporis christi / 
+          ra<lb ed="#P" n="32" break="no"/>tione cuius / ipsa debeat diei 
+          ma<lb ed="#P" n="33" break="no"/>ter christi.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e120">
+          ¶ Pro hac 
+          que<lb ed="#P" n="34" break="no"/>stione reminsci oportet eorum 
+          <lb ed="#P" n="35"/>que in distinctione precedenti dicta sunt / quod 
+          pri<lb ed="#P" n="36" break="no"/>mo sanguis a variis locis diue virginis ad 
+          ma<lb ed="#P" n="37" break="no"/>tricem dilatus est.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e131">
+          ¶ Secundo materia in matrice 
+          <lb ed="#P" n="38"/>est condensata / et alterata / et anima intellectiua 
+          <lb ed="#P" n="39"/>informata / et denique totum a verbo assumptum. et 
+          li<lb ed="#P" n="40" break="no"/>cet omnia hec fuerint in eodem instanti temporis 
+          <lb ed="#P" n="41"/>facta: tamen possunt poni multa signa nature. Quia 
+          <lb ed="#P" n="42"/>semper praesuppositum ab alio / potest dici fieri in 
+          prio<lb ed="#P" n="43" break="no"/>re signo nature. Sed tunc est difficultas: 
+          quomo<lb ed="#P" n="44" break="no"/>do beata virgo poterat dici mater christi: cum ad 
+          <lb ed="#P" n="45"/>ista non poterat actiue concurrere. Ad quod dlcitur ab 
+          <lb ed="#P" n="46"/>aliquibus quod ipsa dicitur mater christi propterea: quia 
+          <lb ed="#P" n="47"/>spiritussanctus preuenit actionem vrginis: et 
+          opera<lb ed="#P" n="48" break="no"/>tus est subito hoc quod vrgo non poterat subito 
+          pro<lb ed="#P" n="49" break="no"/>ducere: sed solum successiue. sed ipsa sibi relicta 
+          <lb ed="#P" n="50"/>successiue operata fuisset: et hoc ad maternitatem 
+          <lb ed="#P" n="51"/>fufficit secundum eos. hoc motiuum non valet. si a ignis 
+          <lb ed="#P" n="52"/>magis actiuus quam b ignis minor praeueniat 
+          actio<lb ed="#P" n="53" break="no"/>nem b ignis producendo c ignem. c. ignis dicitur 
+          <lb ed="#P" n="54"/>effectus a ignis: et nullomodo b. similiter si deus 
+          <lb ed="#P" n="55"/>producat se solo effectum aliquem quem a 
+          creatu<lb ed="#P" n="56" break="no"/>ra produxisset: effectus / ille non dicitur esse a creatu 
+          <lb ed="#P" n="57"/>re: sed dei. ergo si spiritus sanctus preuenit actionem 
+          di<lb ed="#P" n="58" break="no"/>ue virginis in productione corporis christi: 
+          vir<lb ed="#P" n="59" break="no"/>go non debet dici mater christi. Secundo dicitur 
+          <lb ed="#P" n="60"/>et melius ex questionem precedente: non est de ra¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tione matris aliud quam ex ea materiam assumi: ex 
+          qua<lb ed="#P" n="62" break="no"/>fetus plasmetur: et quod fctus ipse ab ea in vtero alat. 
+          <lb ed="#P" n="63"/>modo omnia ista competebant virgini respectu 
+          cor<lb ed="#P" n="64" break="no"/>poris christi. et sie miuatur quod ipsa erat mater christi 
+          <lb ed="#P" n="65"/>Secundo modo saluatur id idem aliter / tenendo 
+          mo<lb ed="#P" n="66" break="no"/>dum galteni: dato etiam quod ponatur forma 
+          corno<lb ed="#P" n="67" break="no"/>reitatis. cum qualitatiue dispositiones sunt producte 
+          <lb ed="#P" n="68"/>sufficienter per vnum determinatum passim: agens 
+          na<lb ed="#P" n="69" break="no"/>turale subito producit formam substantialem. hoc 
+          <lb ed="#P" n="70"/>declaro alibi. quod nunc ignis successiue in lignum 
+          <lb ed="#P" n="71"/>(hoc est in materiam ligni) producat formam ignis est 
+          <lb ed="#P" n="72"/>quia successiue disponit materiam: sed si materia 
+          <lb ed="#P" n="73"/>esset subito disposita qualitatiue et vniformitera 
+          <lb ed="#P" n="74"/>ignis produceret subito formam substantialem per 
+          to<lb ed="#P" n="75" break="no"/>tum passum inclusum in spera sue actiuitatis: ergo 
+          <lb ed="#P" n="76"/>si spiritussanctus mutauit subito materiam 
+          dispo<lb ed="#P" n="77" break="no"/>sitam quaelitatiue ad matricem vrginis / quaere non poterat 
+          <lb ed="#P" n="78"/>forma corporeitatis in vrgine / vel sensitiua ( si 
+          pona<lb ed="#P" n="79" break="no"/>natur distincta ab intellectiua) producere similam 
+          <lb ed="#P" n="80"/>formam. hoc dico propter alios: quiamullam aliam 
+          sor<lb ed="#P" n="81" break="no"/>mam ab intellectiua pono ego distinctam. sed quo ad 
+          <lb ed="#P" n="82"/>istam mutationem subita neam non audent concedere quod 
+          <lb ed="#P" n="83"/>beata virgo cooperata est: sed istud eoncedo: et de 
+          <lb ed="#P" n="84"/>claro quod fuit possibile quod ipsa cooperata fuisset ad 
+          <lb ed="#P" n="85"/>hanc mutationem subitam. nam si hoc non fuisset 
+          <lb ed="#P" n="86"/>possibile: hoc est propterea quod creatura non 
+          potes<lb ed="#P" n="87" break="no"/>agere in instanti: sed hoc est falsum secundum multos 
+          eo<lb ed="#P" n="88" break="no"/>rum: et secundum veritatem. Si dicas: creatura producit 
+          <lb ed="#P" n="89"/>solum per motum: iam hoc est reprobatum: quia 
+          pro<lb ed="#P" n="90" break="no"/>ducere per motum nihil aliud est quam snccessiue 
+          pro<lb ed="#P" n="91" break="no"/>ducere. Istud aliterfacilius declaro. vnus gradus 
+          <lb ed="#P" n="92"/>caloris nunc successiue comproducit calorem: eidem 
+          <lb ed="#P" n="93"/>fradui non repugnat producere calorem subito quod 
+          <lb ed="#P" n="94"/>patet: si infiniti gradus caloris / in intensione 
+          siue<lb ed="#P" n="95" break="no"/>in actiuitate ei addantur / iam isti gradus caloria 
+          <lb ed="#P" n="96"/>omnes collecti subito calefaciunt passum 
+          applica<lb ed="#P" n="97" break="no"/>tum ad quam calefactionem subitaneam iste gradus 
+          <lb ed="#P" n="98"/>caloris concurrit. quod omnes gradus caloris subito 
+          <lb ed="#P" n="99"/>calefaciant / patet sic: duo gradus caloris citius 
+          <lb ed="#P" n="100"/>calefaciunt b passum quam vnus gradus: alioquim 
+          digi<lb ed="#P" n="101" break="no"/>tus eque cito calefieret prope paruum ignem sicut 
+          prope<lb ed="#P" n="102" break="no"/>magnum: contra experientiam. tunc sic: duo gradus 
+          <lb ed="#P" n="103"/>caloris citius calefaciunt b passum quam vnus: et 
+          qua<lb ed="#P" n="104" break="no"/>tuor gradus caloris citius calefaciunt b passum quam 
+          <lb ed="#P" n="105"/>tres et sic sine statu: ergo infiniti gradus caloris 
+          <lb ed="#P" n="106"/>subito calefacium b passum. hoc ipsum patet alitet: 
+          <lb ed="#P" n="107"/>vnus gradus grauitatis concurrit ad descensum 
+          tar<lb ed="#P" n="108" break="no"/>dum mobilis in pleno: cui si addantur multi 
+          gra<lb ed="#P" n="109" break="no"/>dus grauitatis / concurrit cum eis ad motum 
+          celerio<lb ed="#P" n="110" break="no"/>rem: et si infiniti gradus addantur / concurrit ad 
+          mu<lb ed="#P" n="111" break="no"/>tationem subitam: ergo non repugnat: sed hene 
+          <lb ed="#P" n="112"/>congruit: beatam virginem (licet fuerit finite actiui 
+          <lb ed="#P" n="113"/>tatis) cooperari infinito auxilio spiritusfancti ad 
+          <lb ed="#P" n="114"/>mutationem subitam materie ministrate.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e304">
+          ¶ Et hec 
+          <lb ed="#P" n="115"/>est vna conclusio: puta quod beata virgo cooperata 
+          <lb ed="#P" n="116"/>est ad mutationem subitam materie delate ad 
+          ma<lb ed="#P" n="117" break="no"/>tricem.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e313">
+          ¶ Secunda conclusio: ipsa cooperata est ad 
+          <lb ed="#P" n="118"/>condensationem subitam materie. sed quo ad 
+          expul<lb ed="#P" n="119" break="no"/>sionem fetus in aliis mulieribus est difficultas. 
+          In<lb ed="#P" n="120" break="no"/>anima est virtus attractiua retentiua / et expulsiua. 
+          <lb ed="#P" n="121"/>videmus enim formam substantialem materlam 
+          <pb ed="#P" n="15-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>peccantem tam in quali quam in quanto expellere. videtur 
+          <lb ed="#P" n="2"/>ergo quod naturaliter mulier fetum ab vtero expellit. 
+          <lb ed="#P" n="3"/>color tamen est / quod fetus cadit a matrice sine 
+          virtu<lb ed="#P" n="4" break="no"/>te expulsiua matris: sicut pomum maturum cadit ab 
+          <lb ed="#P" n="5"/>arbore sine expulsione arboris. Sed quocumque 
+          isto<lb ed="#P" n="6" break="no"/>rum modorum dicatur est difficultas: claustra vierginis 
+          <lb ed="#P" n="7"/>manserunt integra: quia ipsa erat virgo ante partum: in 
+          <lb ed="#P" n="8"/>partu: et post partum: sine fractione signaculorum. 
+          <lb ed="#P" n="9"/>quomdo poterat corpus christi vterum egredi saluis 
+          <lb ed="#P" n="10"/>claustris virginalibus integris.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e350">
+          ¶ Et ad hoc 
+          po<lb ed="#P" n="11" break="no"/>no tertiam et quartam conclusiones. si teneatur quod 
+          ma<lb ed="#P" n="12" break="no"/>ter nullam virtutem expulsiuam habeat respectu fetus: 
+          <lb ed="#P" n="13"/>sed fetus maturus cadit: tunc spiritus sanctus (sine 
+          <lb ed="#P" n="14"/>concursu virginis) fecit totum egressum integris 
+          <lb ed="#P" n="15"/>claustris virginalibus manentibus. deus potest 
+          fa<lb ed="#P" n="16" break="no"/>cere penetrationem corporum. similiter deus 
+          pote<lb ed="#P" n="17" break="no"/>rat facere quod egrederetur vterum maternum non 
+          tran<lb ed="#P" n="18" break="no"/>seundo per medium.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e370">
+          ¶ Quarta conclusio: tenendo 
+          <lb ed="#P" n="19"/>quod in matre est virtus expulsiua fetus / adhuc 
+          bea<lb ed="#P" n="20" break="no"/>ta virgo potuit cooperari ad illam expulsionem: cum 
+          <lb ed="#P" n="21"/>hoc christifere virginalia manserunt integra. 
+          pa<lb ed="#P" n="22" break="no"/>tet: potuit cooperari ad expulsionem absolute: et 
+          <lb ed="#P" n="23"/>deus poterat tenere signacula virginalia integra: 
+          <lb ed="#P" n="24"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e386">
+          ¶ Secundo arguitur ad idem. diua virgo 
+          po<lb ed="#P" n="25" break="no"/>terat concurrere cum agente infinito ad mutationem 
+          <lb ed="#P" n="26"/>materie ad matricem in istanti: licet non sine eoncursu 
+          <lb ed="#P" n="27"/>agentis infiniti: ergo eodem modo potest concurrerem 
+          <lb ed="#P" n="28"/>ad penetrationem corporum. et si corpus infinite 
+          re<lb ed="#P" n="29" break="no"/>sistat creature / ad hoc quod pre ipso fiat penetratio: 
+          <lb ed="#P" n="30"/>deus potest exuperare illam resistentiam: que solum 
+          fi<lb ed="#P" n="31" break="no"/>nite resistit. et licet ita infinitati create resistat / 
+          il<lb ed="#P" n="32" break="no"/>lam exuperare potest virtus infinita.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e406">
+          ¶ Tertio 
+          <lb ed="#P" n="33"/>expellere corpus de loco / et corpus / penetrare / 
+          pos<lb ed="#P" n="34" break="no"/>sunt separari / et habere actiones separatas: ergo 
+          <lb ed="#P" n="35"/>deus faciendo vnum poterat virgo ad aliud 
+          coope<lb ed="#P" n="36" break="no"/>rari.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e418">
+          ¶ Quarto: si duo homines essent penetratiue 
+          <lb ed="#P" n="37"/>mutuo / potest vnus cooperari naturaliter ad 
+          rece<lb ed="#P" n="38" break="no"/>dendum ab alio: et potest ire ad varias differentias 
+          <lb ed="#P" n="39"/>positionum suapte natura: ergo virgo potest ad simile 
+          <lb ed="#P" n="40"/>coo perari.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e429">
+          ¶ Contra duas priinas conclusiones 
+          ar<lb ed="#P" n="41" break="no"/>guitur sic: ex eis sequitur quod vrgo fuit infinite actiuita 
+          <lb ed="#P" n="42"/>tis: consequens est falsum: quia ipsa erat solum finite 
+          acti<lb ed="#P" n="43" break="no"/>ua quod sequatur patet sic: non omnes creature possunt 
+          simi<lb ed="#P" n="44" break="no"/>lem mutationem facere in pleno: propter resistentiam / et 
+          <lb ed="#P" n="45"/>alios motus concomitantes: quia necesse est si aliquid 
+          con<lb ed="#P" n="46" break="no"/>densetur aliud rarefieri.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e445">
+          ¶ Respondetur: non stando in 
+          h<lb ed="#P" n="47" break="no"/>quod res finite entitatis potest esse infinite actiuitatis. 
+          <lb ed="#P" n="48"/>nego quod propter concessa in duabus primis 
+          conclusioni<lb ed="#P" n="49" break="no"/>bus ipsa dicatur infinite actiuitatis. ego non plus 
+          ago<lb ed="#P" n="50" break="no"/>cum mille viri trahendo vnam nauim onustam: quam cum vno 
+          <lb ed="#P" n="51"/>viro ferendo vnum scamnum. ipsa habuit auxilium 
+          infini<lb ed="#P" n="52" break="no"/>tum.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e461">
+          ¶ Sed contra hoc arguitur: ex isto sequitur quod ego 
+          <lb ed="#P" n="53"/>non plus ago ferendo duas libras quam vnam: quod est 
+          fal<lb ed="#P" n="54" break="no"/>sum. patet: in vtraque leuatione habeo auxilium 
+          infini<lb ed="#P" n="55" break="no"/>tum: quia non possum leuare sine ope dei mecum leuantis: 
+          <lb ed="#P" n="56"/>qui est infinitus.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e472">
+          ¶ Respondetur negando sequelam: et ad 
+          <lb ed="#P" n="57"/>probationem: qua dicitur in vtroque leuamine auxilium 
+          <lb ed="#P" n="58"/>habeo infinitum. dicitur quod deus non infinite operatur: 
+          li<lb ed="#P" n="59" break="no"/>cet sit infinitus. cum influentia dei generali plus est 
+          <lb ed="#P" n="60"/>leuare duas libras quam vnam libram. sed si deus / 
+          specia<lb ed="#P" n="61" break="no"/>lius iuuaret ad leuandas duas libras: et solum gene 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>raliter ad leuandam vnam libram: equa facilitate 
+          leua<lb ed="#P" n="63" break="no"/>rem vnam libram et duas libras. modo deus non 
+          concur<lb ed="#P" n="64" break="no"/>rit cum influentia sua speciali cum aliis mulierihus 
+          <lb ed="#P" n="65"/>ad materie dilationem subitaneam: sed solum 
+          successi<lb ed="#P" n="66" break="no"/>uam. specialius tamen cooperatus est spiritus sanctus 
+          <lb ed="#P" n="67"/>cum diua virgine: et sic potest si voluerit facere cum 
+          <lb ed="#P" n="68"/>qualibet alia muliere.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e503">
+          ¶ Contra vltimam 
+          conclusio<lb ed="#P" n="69" break="no"/>nem arguitur sic: penetratio corporum est inpossibilis 
+          <lb ed="#P" n="70"/>naturaliter ex quarto phisicorum. ergo batam virgo 
+          <lb ed="#P" n="71"/>agens finitum non poterat ad hoc cooperari.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e513">
+          ¶ 
+          Rendon<lb ed="#P" n="72" break="no"/>detur concedendo anecedens secundum communem legem vie 
+          <lb ed="#P" n="73"/>impossibile est vnum gradum grauitati mouere 
+          mobi<lb ed="#P" n="74" break="no"/>le per plenum subito. sed cum auxilio infinitorum 
+          gra<lb ed="#P" n="75" break="no"/>duum potest ad hoc cooperari
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e524">
+          ¶ Sed contra hoc 
+          argui<lb ed="#P" n="76" break="no"/>tur: vnus gradus grauitatis cum finitis vel se solo 
+          mo<lb ed="#P" n="77" break="no"/>uet aliquod mobile per plenum successiue: sed nullum 
+          <lb ed="#P" n="78"/>agens creatum potest facere penetrationem corporum 
+          <lb ed="#P" n="79"/>successiuam vel subitaneam: ergo non est simile.
+        </p>
+        <p xml:id="jm3cbb-e08376-d1e535">
+          ¶ Respondetur 
+          <lb ed="#P" n="80"/>non est omnino simile. sufficit aliqualis similitudo. muli 
+          <lb ed="#P" n="81"/>er est fetus expulsiua ab vtero. et si resistentia 
+          fue<lb ed="#P" n="82" break="no"/>rit tanta / quod eam vincere non potest / non expellit: tamen ipsa 
+          <lb ed="#P" n="83"/>potest cooperari cum ope adiuncta. hoc sic declaro. 
+          <lb ed="#P" n="84"/>possum currum trahere in aere non in medio denso: 
+          <lb ed="#P" n="85"/>vt pote in luto vel arena: tamen si ponatur auxilium 
+          pos<lb ed="#P" n="86" break="no"/>sum cooperari: et si medium esset tante resistentie quod 
+          <lb ed="#P" n="87"/>omnes creature mecum iuncte non possumus redam 
+          <lb ed="#P" n="88"/>extrahere: possum tamen cooperari cum deo ad 
+          <lb ed="#P" n="89"/>currum illum extrahendum: sic in proposito. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

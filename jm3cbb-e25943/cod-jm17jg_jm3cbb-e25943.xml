@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="43-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e25943"><!-- l3d20q1 -->
+        <head xml:id="jm3cbb-e25943-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e25943-Hd1e101" type="question-title">An Christus poterat aliter quam per passionem suam genus humanum redimere</head>
+        <p xml:id="jm3cbb-e25943-d1e104">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>NUnc in hac 
+          distin<lb ed="#P" n="62" break="no"/>ctione. xx. videndum est: an christus 
+          <lb ed="#P" n="63"/>poterat aliter quam per passionem 
+          <lb ed="#P" n="64"/>suam genus humanum 
+          redime<lb ed="#P" n="65" break="no"/>res
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e120">
+          ¶ Respondetur: beatus Ansel. 
+          <lb ed="#P" n="66"/>in duobus libris: cur deus homo 
+          <lb ed="#P" n="67"/>nititur respondere per aliquas 
+          <lb ed="#P" n="68"/>propositiones principales.
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e129">
+          ¶ Quarum vna est: 
+          ho<lb ed="#P" n="69" break="no"/>minem ad beatitudinem creatum et a iusticia lapsum 
+          <lb ed="#P" n="70"/>necesse fuit reparare: ne deus in suo opere 
+          frustra<lb ed="#P" n="71" break="no"/>retur: et in vanum ceperit quod de tam sublimi 
+          natu<lb ed="#P" n="72" break="no"/>ra facere cepit.
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e141">
+          ¶ Secunda propositio: homo sine 
+          sa<lb ed="#P" n="73" break="no"/>tisfactione redimi non poterat: quia peccando 
+          ho<lb ed="#P" n="74" break="no"/>norem deo abstulit quandiu non satisfecit: in culpa fuit. 
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e148">
+          <lb ed="#P" n="75"/>¶ Tertia propositio: deum derelinquere peccatum 
+          <lb ed="#P" n="76"/>impunitum iniustum est et indecens. nec sola 
+          mise<lb ed="#P" n="77" break="no"/>ricordia remittere potest / sine satisfactione: qula 
+          <lb ed="#P" n="78"/>tunc dimitteretur peccatum inordinatum.
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e159">
+          ¶ Quarta 
+          pro<lb ed="#P" n="79" break="no"/>positio: illa satisfactio non potest fieri nisi per 
+          ho<lb ed="#P" n="80" break="no"/>minem deum.
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e166">
+          ¶ Quinta propositio: oportet 
+          homi<lb ed="#P" n="81" break="no"/>nem deum satisfacere per passionem / et mortem. 
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e171">
+          <lb ed="#P" n="82"/>¶ Pro questionis solutione ponuntur 
+          conclusio<lb ed="#P" n="83" break="no"/>nes.
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e178">
+          ¶ Quarum prima est. sicut non fuit necessaria  
+          <lb ed="#P" n="84"/>redemptio humani generis: ita nec modus ille 
+          re<lb ed="#P" n="85" break="no"/>demptionis prior pars conclusionis patet. deus ad 
+          <lb ed="#P" n="86"/>extra nihil necessario agit. humanum genus 
+          repa<lb ed="#P" n="87" break="no"/>rare est actio ad extra: igitur Secunda pars patet 
+          <lb ed="#P" n="88"/>non implicat contradictionem quod genus humanum 
+          <lb ed="#P" n="89"/>aliter liberaretur. immo mille aliis modis. sed deus 
+          <lb ed="#P" n="90"/>potest facere omne illud quod non implicat: igitur. 
+          <lb ed="#P" n="91"/>Confirmatur illud per Augu. xiii de trinitate c. 
+          <lb ed="#P" n="92"/>x. alius modus liberandi genus humanum fuit deo 
+          <lb ed="#P" n="93"/>possibilis: cuius potestati equaliter cuncta 
+          subia<lb ed="#P" n="94" break="no"/>cent.
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e205">
+          ¶ Secunda conclusio. contingenter deus 
+          re<lb ed="#P" n="95" break="no"/>demit humanum genus: et contingenter ipsam per 
+          <lb ed="#P" n="96"/>passionem redemit. hec conclusio claret ex priore: 
+          <lb ed="#P" n="97"/>et ipsa est nota cuilibet in theologia aliquid 
+          capi<lb ed="#P" n="98" break="no"/>enti. Ex illo patet quid veritatis contineant 
+          pro<lb ed="#P" n="99" break="no"/>positiones beati Ansel.
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e218">
+          ¶ Tertia conclusio: 
+          cogruentissi<lb ed="#P" n="100" break="no"/>mus modus redimendi humani generis fuit per 
+          pas<lb ed="#P" n="101" break="no"/>sionem: et illo modo quo humanum genus redemit: 
+          <lb ed="#P" n="102"/>probatio: ille modus preuisus est a deo: ergo 
+          nul<lb ed="#P" n="103" break="no"/>lus modus est congruentior. ille modus magnam 
+          di<lb ed="#P" n="104" break="no"/>lectionem dei ostendit erga nos: secundum illud 
+          aposto<lb ed="#P" n="105" break="no"/>li ad Ephe. ii deus qui diues est in misericordiam 
+          <lb ed="#P" n="106"/>propter nimiam charitatem suam qua dilexit nos: cum 
+          <lb ed="#P" n="107"/>essemus mortui peccatis conuificauit nos in christo 
+          cu<lb ed="#P" n="108" break="no"/>ius gratia estis saluati: et maiorem charitatem 
+          ne<lb ed="#P" n="109" break="no"/>mo habet quam vt animam suam ponat pro amicis 
+          <lb ed="#P" n="110"/>suis. propterea fuit modus congruus ex parte dei 
+          <lb ed="#P" n="111"/>pro tanto quod in omni opere dei debet manifestari 
+          <lb ed="#P" n="112"/>misericordia et iusticia: secundum illud psalmi. xxiiii 
+          vni<lb ed="#P" n="113" break="no"/>uerse vie domini misericordia et veritas: hoc est 
+          <lb ed="#P" n="114"/>iusticia: sed si genus humanum reparasset sine 
+          satis<lb ed="#P" n="115" break="no"/>factione fuisset misericordia sine iusticia
+        </p>
+        <p xml:id="jm3cbb-e25943-d1e255">
+          ¶ 
+          Co<lb ed="#P" n="116" break="no"/>tra secundam conclusionem arguitur: stante ordinatione 
+          <lb ed="#P" n="117"/>diuina / necessarium fuit genus humanum hoc 
+          mo<lb ed="#P" n="118" break="no"/>do reparari: ergo non erat contingens. 
+          distingui<lb ed="#P" n="119" break="no"/>tur quod erat necessarium: vel necessitate consequentie: 
+          <lb ed="#P" n="120"/>quamadmodum hic / necesse est sortem mouere si sortes 
+          <pb ed="#P" n="43-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>currat: vel necessarium necessitate consequentis: et 
+          <lb ed="#P" n="2"/>sic negatur. cum priore necessitate stat contingentia 
+          <lb ed="#P" n="3"/>vtriusque propositionis: et contingentia totius 
+          co<lb ed="#P" n="4" break="no"/>pulatiue. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

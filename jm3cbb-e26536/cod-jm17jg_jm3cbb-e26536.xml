@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="44-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e26536"><!-- l3d21q2 -->
+        <head xml:id="jm3cbb-e26536-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e26536-Hd1e101" type="question-title">An corpus Christi non fuisset putrefactum si prolongata fuisset
+    resurrectio Christi</head>
+        <p xml:id="jm3cbb-e26536-d1e104">
+          <lb ed="#P" n="33"/>Prima questione 
+          <lb ed="#P" n="34"/>expedita: nunc aggredienda est 
+          <lb ed="#P" n="35"/>secunda: quo querebatur: an corpus 
+          <lb ed="#P" n="36"/>christi fuisset putrefactum: si 
+          pro<lb ed="#P" n="37" break="no"/>longata fuisset resurrectio 
+          chri<lb ed="#P" n="38" break="no"/>sti.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e120">
+          ¶ Respondetur per 
+          propo<lb ed="#P" n="39" break="no"/>sitiones. prima est: condiciona 
+          <lb ed="#P" n="40"/>lis proposita est falsa propositio. probatur: est mala 
+          <lb ed="#P" n="41"/>consequentia: ergo est falsapropositio. consequentia 
+          <lb ed="#P" n="42"/>tenet. idem requiritur et sufficit ad falsitatem 
+          propo<lb ed="#P" n="43" break="no"/>sitionis conditionalis: et maliciam consequentie. antecdens 
+          <lb ed="#P" n="44"/>patet: potest ita esse sicut significatur per 
+          antece<lb ed="#P" n="45" break="no"/>dens: absque hoc quod sit sicut significatur per consequens. 
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e138">
+          <lb ed="#P" n="46"/>¶ Secunda propositio: theologice lo quendo de lege 
+          <lb ed="#P" n="47"/>propositio data est vra. vel dato quod refurrectio non 
+          fuis<lb ed="#P" n="48" break="no"/>set accelerata: corpus christi non fuisset putrefactum. 
+          <lb ed="#P" n="49"/>probatur per illud psalmiste psalmo. xv. non 
+          da<lb ed="#P" n="50" break="no"/>bis sanctum tuum videre corruptionem: quod beatus 
+          Pe<lb ed="#P" n="51" break="no"/>trus exponit Actuum. ii. de corpere christi.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e155">
+          ¶ Secundo 
+          ar<lb ed="#P" n="52" break="no"/>guitur ad illud. deus assumpsit defectus humane 
+          <lb ed="#P" n="53"/>nature volens: propter humani generis redemptio 
+          <lb ed="#P" n="54"/>nem: ergo non decuit assumere nisi illos defectus 
+          <lb ed="#P" n="55"/>qui prodesse poterant nostre redemptioni: et non de 
+          <lb ed="#P" n="56"/>rogabant sue dignitati. putrefactio autem corporis 
+          <lb ed="#P" n="57"/>sui post mortem nostre redemptioni non 
+          profuis<lb ed="#P" n="58" break="no"/>set: quia iam per mortem completa erat nostra 
+          re<lb ed="#P" n="59" break="no"/>demptio: ergo talem putrefactionem non 
+          assumpsis<lb ed="#P" n="60" break="no"/>set.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e177">
+          ¶ Tertio arguitur sic. si corpus christi fuisset pu¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>trefactum: hoc fuisset propter causas corruptiuas 
+          <lb ed="#P" n="62"/>intrinsecas: et extrinsecas. sed hoc causa superior 
+          <lb ed="#P" n="63"/>impedire poterat: et impediuisset: vt dictum est. 
+          ani<lb ed="#P" n="64" break="no"/>ma impedit corruptionem sui corporis quandiu ipsum 
+          <lb ed="#P" n="65"/>informat: ergo a fortiore hoc potest deus. Alii hanc 
+          <lb ed="#P" n="66"/>conclusionem probant per hec media: corpus in quo 
+          <lb ed="#P" n="67"/>nunquam fuit corruptio fomitis / non debuit 
+          putrefie<lb ed="#P" n="68" break="no"/>ri. sed corruptio fomitis nunquam fuit in carne 
+          chr<lb ed="#P" n="69" break="no"/>isti. ergo non debuit putrefieri. Preterea arguunt 
+          <lb ed="#P" n="70"/>secundum Augustinum. xiii. de trini. ca. xvi. defectus 
+          huma<lb ed="#P" n="71" break="no"/>ne nature venerant de meritis originalis 
+          pecca<lb ed="#P" n="72" break="no"/>ti: ergo cum christus siunquam habuit peccatum originale: 
+          <lb ed="#P" n="73"/>non debuit habere defectus nisi voluntarie 
+          assun<lb ed="#P" n="74" break="no"/>ptos pro nostra redemptione. sed ille probationes 
+          <lb ed="#P" n="75"/>sunt nulle. beata virgo non habuit fomitem 
+          origi<lb ed="#P" n="76" break="no"/>nalis: nec erat in originali concepta. ergo rationes 
+          <lb ed="#P" n="77"/>concluderent de corpore eius: quod ipsi / vel forte alii 
+          <lb ed="#P" n="78"/>non concederent. sed de facto puto corpus eius 
+          as<lb ed="#P" n="79" break="no"/>sumptum cum anima. sed si non fuisset assumptum 
+          <lb ed="#P" n="80"/>scio quod deus poterat miraculose ipsum a putrefactio 
+          <lb ed="#P" n="81"/>ne preseruasse. ponam conclusionem propter tres 
+          <lb ed="#P" n="82"/>primas rationes.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e229">
+          ¶ Tertia conclusio de qua 
+          varii<lb ed="#P" n="83" break="no"/>digladiantur est hec probabilis. si corpus christi fuisset 
+          <lb ed="#P" n="84"/>sibi relictum cum diuinitate sicut erat in triduo:et 
+          rem<lb ed="#P" n="85" break="no"/>surrectio non fuisset accelerata: si non fuisset nouum 
+          <lb ed="#P" n="86"/>miraculum: corpus christi fuisset putrefactum suadetu r 
+          <lb ed="#P" n="87"/>hec conclusio: corpus christi fuit compositum ex contrariis 
+          <lb ed="#P" n="88"/>et erant corruptiua extrinseca: ergo natum erat 
+          cor<lb ed="#P" n="89" break="no"/>rumpi: et corruptum fuisset: si non fuisset nouum 
+          mi<lb ed="#P" n="90" break="no"/>raculum aliud ab assumptione diuinitatis. patet 
+          re<lb ed="#P" n="91" break="no"/>soluebatur: nutriebatur / augebatur / clauis 
+          diui<lb ed="#P" n="92" break="no"/>debatur / et patiebatur / tempore quo fuit assumptum 
+          <lb ed="#P" n="93"/>a verbo: ergo cum assumptione verbi / stat eodem 
+          mo<lb ed="#P" n="94" break="no"/>do quod fuisset putrefactum: quia mirra et aloe non 
+          <lb ed="#P" n="95"/>poterant perpetuo preseruare iplum a putrefactid 
+          <lb ed="#P" n="96"/>ne: licet bene ad tempus: proptetea iudei 
+          corpora<lb ed="#P" n="97" break="no"/>mortuorum sic condiebant: Ioannis. xix. huic 
+          ratio<lb ed="#P" n="98" break="no"/>ni dici potest: verum est / toto tempore ante 
+          mortem<lb ed="#P" n="99" break="no"/>patiebatur / nutriebatur / augebatur / vt osedatur 
+          <lb ed="#P" n="100"/>humana natura in christo et pro nobis pateretur: 
+          sc<lb ed="#P" n="101" break="no"/>cus est post mortem.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e273">
+          ¶ Secundo arguitur ad idest. an 
+          <lb ed="#P" n="102"/>te resurrectionem corpus christi non fuit 
+          glorio<lb ed="#P" n="103" break="no"/>sum: eterat passiuum naturale: et actiuum naturale 
+          <lb ed="#P" n="104"/>fuit ei applicatum: ergo ipsum corrupisset si non 
+          <lb ed="#P" n="105"/>fuisset nouum miraculum. istud non potest 
+          adiu<lb ed="#P" n="106" break="no"/>uare arguentes: multi huic rationi innitentes 
+          con<lb ed="#P" n="107" break="no"/>cedunt(et bene ) quod dos impassibilitatis non est 
+          ali<lb ed="#P" n="108" break="no"/>qua qualitas corpus beati preseruans: sed 
+          specia<lb ed="#P" n="109" break="no"/>lis solum manutenentia dei: quam habuisset in 
+          pri<lb ed="#P" n="110" break="no"/>mo instanti mortis dicerent alii. ita quod sic dicerent 
+          <lb ed="#P" n="111"/>vel dicere possunt: deus in primo instanti complete 
+          <lb ed="#P" n="112"/>dispositionis corporis christi / assumpsit ipsum cum suis 
+          <lb ed="#P" n="113"/>partibus: et permisit ipsum more aliorum hominum 
+          <lb ed="#P" n="114"/>augeri nutriri / pati inediam / sitim / lachrimas / 
+          ca<lb ed="#P" n="115" break="no"/>lorem / frigus / agoniam / timorem lanceationem / 
+          ver<lb ed="#P" n="116" break="no"/>bera / mortem / et huiusmodi ad mortem vsque exclusiue: 
+          <lb ed="#P" n="117"/>ita quod in primo instanti non esse vite / a prima assum 
+          <lb ed="#P" n="118"/>ptione: determinauit quod nullum agens iam 
+          ampli<lb ed="#P" n="119" break="no"/>us in ipsum corpus ageret corrumpendo. et patet 
+          <lb ed="#P" n="120"/>a signo: in anima tunc omnis tristicia primo fuit 
+          <lb ed="#P" n="121"/>eiecta: et nulla postea sequuta est: licet non stnt idem 
+          <pb ed="#P" n="44-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>penitus: sic dicendo / esset solum verbaliter luctari 
+          <lb ed="#P" n="2"/>in termino an esset nouum miraculum: vel antiquum. 
+          <lb ed="#P" n="3"/>sufficit hoc certum: dato quod resurrectio christi non 
+          fuis<lb ed="#P" n="4" break="no"/>set accelerata: corpus christi non fuisset putrefactum siue 
+          <lb ed="#P" n="5"/>dicatur nouum miraculum vel ne.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e334">
+          ¶ Contra secundam 
+          <lb ed="#P" n="6"/>conclusionem arguitur. humilitas est meritum 
+          exal<lb ed="#P" n="7" break="no"/>tationis: qui se humiliat exaltabitur. sed corpus 
+          <lb ed="#P" n="8"/>christi maxime ex altandum erat: ergo prius debuit 
+          <lb ed="#P" n="9"/>humiliari: sed hoc fuisset per putrefactionem.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e345">
+          ¶ 
+          Se<lb ed="#P" n="10" break="no"/>cundo arguitur per illud quod scribitur ad hebreos. ii. 
+          <lb ed="#P" n="11"/>debuit per omnia fratribus assimulari: ergo 
+          cor<lb ed="#P" n="12" break="no"/>pus christi debuit putrefieri more corporum aliorum 
+          <lb ed="#P" n="13"/>hominum.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e357">
+          ¶ Distingo istam: corpus maxime exaltan 
+          <lb ed="#P" n="14"/>dum maxine erat humiliandum: verum est humiliatione 
+          meri<lb ed="#P" n="15" break="no"/>toria. si autem post mortem fuisset putrefactum illa 
+          pu<lb ed="#P" n="16" break="no"/>trefactio non fuisset meritoria: quia per illam 
+          hu<lb ed="#P" n="17" break="no"/>miliationem non meruisset diuinitas: quia ipsa non 
+          po<lb ed="#P" n="18" break="no"/>test mereri. nec anima christi: quia iam erat extra 
+          sta<lb ed="#P" n="19" break="no"/>tum vie: ergo non tunc merita fuisset exaltationem 
+          <lb ed="#P" n="20"/>sui corporis. nec corpus exanime poterat 
+          mere<lb ed="#P" n="21" break="no"/>ri. sed in vita maxine se humiliauit: cum esset deus 
+          <lb ed="#P" n="22"/>exinaniuit seipsum formam serui accipiens. si 
+          intel<lb ed="#P" n="23" break="no"/>ligas propositionem hanc assumptam de humilia 
+          <lb ed="#P" n="24"/>tione per putrefactionem: falsa est propositio: nec 
+          <lb ed="#P" n="25"/>est vllo modo humilitas.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e386">
+          ¶ Ad secundum dicitur: ad 
+          <lb ed="#P" n="26"/>mortem vsque conformabatur fratribus.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e391">
+          ¶ Tertio 
+          <lb ed="#P" n="27"/>arguitur: natura non incipit motum quem terminare non 
+          <lb ed="#P" n="28"/>potest sexto phisicorum. erminus autem corruptionis 
+          mixti<lb ed="#P" n="29" break="no"/>viuentis est putrefactio: secundum philo. iiii. metheororum. 
+          <lb ed="#P" n="30"/>sed natura incipit illam in separatione anime a corpere. illa 
+          <lb ed="#P" n="31"/>enim separatio anime ad corpus est inchoatio ad 
+          <lb ed="#P" n="32"/>prutrefactionem.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e407">
+          ¶ Quarto: secundum damascenum libro. 
+          <lb ed="#P" n="33"/>iii. ca. xix. christus assumpsit passiones nature 
+          huma<lb ed="#P" n="34" break="no"/>ne: totum hominem: et omnia que sunt hominis assum 
+          <lb ed="#P" n="35"/>psit preter pccatum. modo corpus putrefieri non 
+          <lb ed="#P" n="36"/>est peccatum: igitur.
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e418">
+          ¶ Ad tertium: conceditur maior: 
+          <lb ed="#P" n="37"/>si natura non impediatur a fortiore agente: modo 
+          <lb ed="#P" n="38"/>hic impediebatur ab auctore nature. nobis 
+          pro<lb ed="#P" n="39" break="no"/>fuit inchoatio: et non fuisset vtilis terminatio: vt 
+          <lb ed="#P" n="40"/>ex dictis iam patuit in conclusionis probatione. 
+        </p>
+        <p xml:id="jm3cbb-e26536-d1e429">
+          <lb ed="#P" n="41"/>¶ Ad quartum dicitur: auctoritas Damasceni 
+          sol<lb ed="#P" n="42" break="no"/>uit se. dicit quod assumpsit passiones nature viuentis
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

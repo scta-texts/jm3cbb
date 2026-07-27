@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 28</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 28</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="101-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e61617"><!-- l3d33q28 -->
+        <head xml:id="jm3cbb-e61617-Hd1e99">Quaestio 28</head>
+        <head xml:id="jm3cbb-e61617-Hd1e101" type="question-title">An iustitia distributiva et commutativa sub iustitia particulari
+    contentae inter se specie distinguantur</head>
+        <p xml:id="jm3cbb-e61617-d1e104">
+          <lb ed="#P" n="71"/>SEcundo circa iusticiam 
+          <lb ed="#P" n="72"/>queritur: an iusticia distributiua et 
+          <lb ed="#P" n="73"/>commutatiua: sub iusticia particula 
+          <lb ed="#P" n="74"/>ri contente: inter se spem 
+          distinguan<lb ed="#P" n="75" break="no"/>tur. Pro questionis solutione 
+          ali<lb ed="#P" n="76" break="no"/>qua pmittere oportebit: postea conclusiue 
+          responde<lb ed="#P" n="77" break="no"/>bitur: nam iusticia legalis et particularis in hoc 
+          conue<lb ed="#P" n="78" break="no"/>niunt quod vtraque est in ordine ad alterum: sed differunt. 
+          <lb ed="#P" n="79"/>iusticia legalis requirit prudentiam communem quae confert de 
+          <lb ed="#P" n="80"/>omnibus agibilibus per alias virtutes: eo quod habet 
+          <lb ed="#P" n="81"/>interdum vnam alteri pferre: et earum operationes in 
+          bo<lb ed="#P" n="82" break="no"/>num commne finaliter ordinare. iustitia vero particula 
+          <lb ed="#P" n="83"/>ris (sicut et quelibet alia virtus particularis) suam propria 
+          <lb ed="#P" n="84"/>prudentiam exigit dirigentem operationes nosiras in suam 
+          <lb ed="#P" n="85"/>propriam materiam.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e139">
+          ¶ Preterea: aliter sumitur medium in 
+          iu<lb ed="#P" n="86" break="no"/>sticia distributiua et commutatiua sicut dicit 
+          philoso<lb ed="#P" n="87" break="no"/>phus. v. ethicorum. iii. et. iiii. c. iii. dicit quod iustum 
+          distri<lb ed="#P" n="88" break="no"/>butiuum consistit in proportionalitate geometrica: et non 
+          <lb ed="#P" n="89"/>in proportionalitate continua: sed discreta vel 
+          conti<lb ed="#P" n="90" break="no"/>gua. terminos in littera satis explicat. secundum Iorda 
+          <lb ed="#P" n="91"/>num in principio secundi arithmetice: et euclidem in 
+          <lb ed="#P" n="92"/>quinto proportionalitas est similitudo proportionum. 
+          <lb ed="#P" n="93"/>proportio est duarum quantitatum eiusdem gecedeonis vnius 
+          <lb ed="#P" n="94"/>ad alteram certa in quantitate relatio. vult ergo pihoius quod 
+          iu<lb ed="#P" n="95" break="no"/>stum distributiuum attenditur secundum 
+          proportionali<lb ed="#P" n="96" break="no"/>tatem quae est equalitas proportionum: quod sic probat: in 
+          qui<lb ed="#P" n="97" break="no"/>buscunque sunt quattuor termiini quorum duo habent 
+          <lb ed="#P" n="98"/>eandem proportionem adinuicem quam habent reliqua 
+          duo<lb ed="#P" n="99" break="no"/>in illis est proportionalitas: quae est equalitas proportonnum: 
+          <lb ed="#P" n="100"/>sed in iusto secundum iusticiam distributiuam sunt quattuor 
+          <lb ed="#P" n="101"/>termini quorum duo habent eandem proportionem 
+          adinui<lb ed="#P" n="102" break="no"/>cem quam habent reliqua duo: igitur iusium distributiuum 
+          <lb ed="#P" n="103"/>attenditur secundum proportionalitatem quae est equalitas 
+          pro<lb ed="#P" n="104" break="no"/>portionum. quam tenet cum maiore. minor patet: et 
+          vbicun<lb ed="#P" n="105" break="no"/>que fuerit iusticia distributiua. ibi ort quod sit proportio 
+          <lb ed="#P" n="106"/>vnius persone cui fit distributio ad rem ei distributam: 
+          <lb ed="#P" n="107"/>quia secundem eandem proportionem diuiduntur praemia: vt pote res 
+          <lb ed="#P" n="108"/>vel homores: et persone quibus distribuuntur. vt sit a. ii. millia 
+          <lb ed="#P" n="109"/>aureorum: b autem decem millia aureorum: et. c. sit aiax 
+          qui<lb ed="#P" n="110" break="no"/>duobus annis laborauit in republica militando. dve 
+          <lb ed="#P" n="111"/>ro sit vlixes qui vno anno laborauit. tunc sic: sicut 
+          <lb ed="#P" n="112"/>se habet a ad b. ita se habet c. ad d. quia vtrobique inue 
+          <lb ed="#P" n="113"/>nitur proportio dupla: igitur permutatim: sicut a 
+          <lb ed="#P" n="114"/>se habet ad c. ita se habet b. ad d. quecumque eim sunt 
+          adin<lb ed="#P" n="115" break="no"/>uicem proportionabilia sunt permutatin proportionabilia: 
+          <lb ed="#P" n="116"/>et hoc patet solo exemplo: sicut se hastent decem ad quinque 
+          <lb ed="#P" n="117"/>ita se hanent octo in ordine ad quattuor: ideo permuta 
+          <lb ed="#P" n="118"/>tim: sicut se haent decem ad octo: ita se habent quinque 
+          <lb ed="#P" n="119"/>ad quattuor. vtrobique enim est sesquequarta propor¬ 
+          <pb ed="#P" n="101-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tio. eodem modo hoc deducere possis: si duo seruie 
+          <lb ed="#P" n="2"/>runt reipublice per equale tempus: sed opera vnius est 
+          <lb ed="#P" n="3"/>vtilior reipublice in duplo quam opera alterius. vel 
+          <lb ed="#P" n="4"/>due sunt persone demerentes in republica secundum 
+          <lb ed="#P" n="5"/>proportionem duplam vel aliquam aliam similem: 
+          opor<lb ed="#P" n="6" break="no"/>tet praemia et penas similes irrogare eisdem. dicit etiam 
+          <lb ed="#P" n="7"/>philosophus quae est proportio partium ad partes: ea 
+          <lb ed="#P" n="8"/>dem est proportio totius ad totum. et patet 
+          exemplari<lb ed="#P" n="9" break="no"/>ter: sicut se habent sex ad tria. ita quattuor in 
+          ordi<lb ed="#P" n="10" break="no"/>ne ad duo iam sume partes excedentes: et eas 
+          simul<lb ed="#P" n="11" break="no"/>iungas: et sic sume partes excessas: et eas simul ium 
+          <lb ed="#P" n="12"/>gas. et vide in qua proportione totum excedit totum: 
+          <lb ed="#P" n="13"/>sic pars partem. et patet: sex et quattuor simul iuncta 
+          <lb ed="#P" n="14"/>sunt decem: tria et duo sunt quinque: est proportio dupla: 
+          <lb ed="#P" n="15"/>sicut erat a principio: non est sic in proportione arith 
+          <lb ed="#P" n="16"/>metica: quod exemplariter detegitur. sicut se habent 
+          <lb ed="#P" n="17"/>quinque in ordine ad quattuor sic ternarius ad 
+          binari<lb ed="#P" n="18" break="no"/>um. est similis proportio arithmetica: cum est equalis 
+          <lb ed="#P" n="19"/>differentia. adde. quinque tria: et habes octo. rursus 
+          <lb ed="#P" n="20"/>adde quattuor ad duo et habes sex. octonarius (vt 
+          <lb ed="#P" n="21"/>vides) senarium in dualitate excedit: quinarius 
+          qua<lb ed="#P" n="22" break="no"/>ternarium solum in vnitate. ergo non seruatur in illis proportio 
+          <lb ed="#P" n="23"/>arithmetica: hec tangit phoisus capite tertio inquiens. 
+          <lb ed="#P" n="24"/>Erit ergo ordine vt a. sese habet adc. ita b. sese 
+          <lb ed="#P" n="25"/>habebit ad. d. quare et totum ad totum: quod 
+          qui<lb ed="#P" n="26" break="no"/>dem distributio ipsa coniungit. et si ita 
+          composi<lb ed="#P" n="27" break="no"/>tum fuerit: iuste coniungit. Coniunctio igitur a. 
+          <lb ed="#P" n="28"/>termini cum. c. et b. cum d. iustum est id / quod ad distributio 
+          <lb ed="#P" n="29"/>nem accommodatur: et est medium eius quod 
+          compa<lb ed="#P" n="30" break="no"/>rationem rationum non subit. quod enim subit ipsam: 
+          <lb ed="#P" n="31"/>medium est. iustum autem subit. Talem autem rationum 
+          <lb ed="#P" n="32"/>comparationem mathematici geometricam vocant. 
+          <lb ed="#P" n="33"/>In geometrica namque fit vt et totum ad totum 
+          perin<lb ed="#P" n="34" break="no"/>de sese habeat atque ad vtrumque sese habet vtrum 
+          <lb ed="#P" n="35"/>que. Ex his patet si debeat fieri distributio e 
+          pecu<lb ed="#P" n="36" break="no"/>niis publicis aliquibus personis: oportet quod id fiat 
+          <lb ed="#P" n="37"/>secundum merita prsonarum: alias erunt incusationes 
+          <lb ed="#P" n="38"/>et murmura. sed in iusticia commutatiua aliter est 
+          <lb ed="#P" n="39"/>procedendum. illa consistit in proportione arithmeti 
+          <lb ed="#P" n="40"/>ca: vt dicit philosophus. v. ethicorum. iiii. oportet 
+          ha<lb ed="#P" n="41" break="no"/>bere solum oculum ad iniuriam illatam: neglecta 
+          emi<lb ed="#P" n="42" break="no"/>nentia persone: et reducere hoc ad medium. vt si no 
+          <lb ed="#P" n="43"/>bilis abstulit michi equum: vel pauper: bonus: vel 
+          ma<lb ed="#P" n="44" break="no"/>lus: nichil refert: oportet restituere equum: et 
+          emen<lb ed="#P" n="45" break="no"/>dare quod est commissum in rempublicam: et hoc 
+          tan<lb ed="#P" n="46" break="no"/>git philosophus dicens. Iustum autem quod est in 
+          con<lb ed="#P" n="47" break="no"/>merciis est quidem equum quoddam: et iniustum iniquum: 
+          <lb ed="#P" n="48"/>Sed non illa comparatione rationum: sed 
+          arithme<lb ed="#P" n="49" break="no"/>tica. nichil enim refert si probus prauo detraxerit 
+          an<lb ed="#P" n="50" break="no"/>prauus probo. neque si adulterium probus an prauus 
+          <lb ed="#P" n="51"/>commiserit: sed ad differentiam nocumenti lex respicit 
+          <lb ed="#P" n="52"/>tantum: et vtitur vt equalibus: si hic iniuriam facit: 
+          <lb ed="#P" n="53"/>ille patitur: si hic nocuit: ille est lesus. oportet 
+          accipe<lb ed="#P" n="54" break="no"/>re lucrum ab illo quivltra latitudinem iusticie habuit: 
+          <lb ed="#P" n="55"/>et applicare illi a quo ablatum est: quousque sit 
+          equa<lb ed="#P" n="56" break="no"/>litas: et tunc erit iusticia. sicut exemplificat de 
+          dua<lb ed="#P" n="57" break="no"/>bus lineis equalibus: si auferatur aliquid abvna: 
+          <lb ed="#P" n="58"/>et addatur alteri: oportet illud tollere ab alia: et 
+          po<lb ed="#P" n="59" break="no"/>ri addere: quousque fuerit equalitas. qui percussit alium 
+          <lb ed="#P" n="60"/>habet de bono estimato: cum voluntatem suam adim 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>pleuit: et lesus de malo. oportet hoc reducere al 
+          <lb ed="#P" n="62"/>medium. Ecce diserimen inter iusticiam 
+          commutati<lb ed="#P" n="63" break="no"/>uam et distributiuam.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e358">
+          ¶ Sed parua ingeritur 
+          difficul<lb ed="#P" n="64" break="no"/>tas. Uidetur quod non requirantur plures persone ad 
+          <lb ed="#P" n="65"/>iusticiam distributiuam: sed sufficit vna. princeps in 
+          <lb ed="#P" n="66"/>republica potest illi soli de bonis c aniitatis dare 
+          se<lb ed="#P" n="67" break="no"/>cundum sua merita: dato quod nullus alius sit. 
+          Secum<lb ed="#P" n="68" break="no"/>do: si quis principem percussit: oportet quod plus puniatur: 
+          <lb ed="#P" n="69"/>sicut Aristoteles dicit. v. ethicorum. v. impugnando 
+          <lb ed="#P" n="70"/>pitagoricos et radamantem: dicentes quod iustum sit idem 
+          <lb ed="#P" n="71"/>quod equale contrapassum. ergo in commutationibus 
+          attemn<lb ed="#P" n="72" break="no"/>ditur personarum dignitas.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e381">
+          ¶ Ad primum dicitur: non 
+          <lb ed="#P" n="73"/>est vniuersalitur verum quod requirantur plures persone ad 
+          <lb ed="#P" n="74"/>iusticiam distributiuam: sed in pluribus verum habet. 
+          <lb ed="#P" n="75"/>¶Ad secundum respondetur. in iusticia 
+          commutati<lb ed="#P" n="76" break="no"/>ua non attenditur dignitas personarum per se: sed solum 
+          <lb ed="#P" n="77"/>dampnum illatum: et cum dicitur: non oportet principem reper 
+          <lb ed="#P" n="78"/>cuti. dicitur quod hoc non prouenit ex dignitate 
+          princi<lb ed="#P" n="79" break="no"/>pis per se. sed ex maiore vel minore dampno illato. 
+          <lb ed="#P" n="80"/>qui enim percutit principem / non solum in personam 
+          <lb ed="#P" n="81"/>principis percutit: sed toti communitati cuius vices 
+          <lb ed="#P" n="82"/>gerit: et plus ledit communitatem / qui partem eius no 
+          <lb ed="#P" n="83"/>biliorem ledit / quam ignobiliorem. contrapassum non est 
+          vni<lb ed="#P" n="84" break="no"/>uersaliter iustum. si quis ex repentina ira occideret: 
+          <lb ed="#P" n="85"/>non debet puniri sicut deliberato animo occidens. 
+          <lb ed="#P" n="86"/>pro primo ordinata est ciuitas refugii: vt ibi saluare 
+          <lb ed="#P" n="87"/>tur. secundo negata est: vt patet Deuteronomi. ix. 
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e416">
+          <lb ed="#P" n="88"/>¶ his praemissis respondetur per tres conclusiones. 
+          <lb ed="#P" n="89"/>Quarum prima est: iusticia distributiua et commutati 
+          <lb ed="#P" n="90"/>ua non distinguuntur specie penes res ipsas qua 
+          distri<lb ed="#P" n="91" break="no"/>buuntur et commutantur. patet: stat quod sint res omnino 
+          <lb ed="#P" n="92"/>similes in spe.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e429">
+          ¶ Secunda conclustio. multi sunt actus 
+          <lb ed="#P" n="93"/>intiores iusticie commutatiue e distributiue specie 
+          <lb ed="#P" n="94"/>distincti. probatur: multi tales actus habent 
+          obie<lb ed="#P" n="95" break="no"/>cta spem distincta. actus iusticie distributiue respicit 
+          <lb ed="#P" n="96"/>bonum commune pro obiecto. actus / iusticie commutatiue 
+          <lb ed="#P" n="97"/>respicit bonum proprium. et lebet bonum propriumet alienum 
+          <lb ed="#P" n="98"/>sunt eiusdem speii. tamen hec complexa / bonum proprium / et 
+          <lb ed="#P" n="99"/>bonum alienum: vel bonum proprium  et bonum comnune / 
+          <lb ed="#P" n="100"/>faciunt discrimen specificum. igt.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e449">
+          ¶ Tertia conclusio: 
+          <lb ed="#P" n="101"/>dabiles sunt duo actus quorum vnus spectat ad 
+          iu<lb ed="#P" n="102" break="no"/>sticiam distributiuam et alter ad iusticiam commutatiuam: 
+          <lb ed="#P" n="103"/>immo ad non iusticiam: sed ad liberalitatem: eiusdem 
+          spemi<lb ed="#P" n="104" break="no"/>spanlissie entitatiue: vt do tibi hoc: volo habeas hoc: 
+          <lb ed="#P" n="105"/>demonstrando per pronomen aliquod quod est de bono comni: etde 
+          <lb ed="#P" n="106"/>monstro duo similia mea per similes actus similia 
+          omni<lb ed="#P" n="107" break="no"/>no obiecta habsentes.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e467">
+          ¶ Dubitatur an mags expediat 
+          ci<lb ed="#P" n="108" break="no"/>uitatem regi per bonum virum quam per bonam legem. 
+          Respon<lb ed="#P" n="109" break="no"/>detur: praestat ciuitatem regi per bonum toculatum virum. 
+          <lb ed="#P" n="110"/>ratio vna est vir prudens vtitur epelrea: et in 
+          particu<lb ed="#P" n="111" break="no"/>lari praecipit: lex autem in vniuersali. modo sermones 
+          vni<lb ed="#P" n="112" break="no"/>uersales minus i via morum valent quam particulares. ii. 
+          <lb ed="#P" n="113"/>ethicorum. et. iii. politicorum. In super. vir bonus est 
+          <lb ed="#P" n="114"/>lex animata secundum philosophum. v. ethicorum. modo lex 
+          vi<lb ed="#P" n="115" break="no"/>ua est melior lege mortua in pelle arietis scripta. 
+          In<lb ed="#P" n="116" break="no"/>super: vir prudens facit legem: saltem humanam: de qua 
+          lo<lb ed="#P" n="117" break="no"/>quor. et lex non est bona nisi quia a prudente viro lata 
+          <lb ed="#P" n="118"/>modo ppter vnumquodque tale et illud magis: primo 
+          <lb ed="#P" n="119"/>posteriorum.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e496">
+          ¶ Contra illud arguitur: lex est 
+          securior<lb ed="#P" n="120" break="no"/>homine: et minus est confidendum de homine quam de 
+          <pb ed="#P" n="102-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>lege. propterea dicit Aristo: secundo Politicorum: 
+          pau<lb ed="#P" n="2" break="no"/>cissima sunt iudicibus committenda.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e510">
+          ¶ Secundo: lex 
+          prae<lb ed="#P" n="3" break="no"/>fertur sancto et oculato viro in sanctitate et 
+          boni<lb ed="#P" n="4" break="no"/>tate. ergo est bono viro melior. consequentia est nota. 
+          <lb ed="#P" n="5"/>probatur antecedens. ad Romanos. vii. dicit 
+          apo<lb ed="#P" n="6" break="no"/>stolus: scimus enim quod lex spiritualis est: ego autem 
+          car<lb ed="#P" n="7" break="no"/>nalis sum.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e523">
+          ¶ Respondetur. lex non est securior 
+          pru<lb ed="#P" n="8" break="no"/>dente et oculato viro de quo loquimur: multis 
+          ta<lb ed="#P" n="9" break="no"/>men est securior: quia homines vt in pluribus sunt mali. 
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e530">
+          <lb ed="#P" n="10"/>¶ Ad secundum dicitur: Paulus locutus est de lege 
+          Moy<lb ed="#P" n="11" break="no"/>saica: que erat lex dei: et non est illic semo de lege 
+          <lb ed="#P" n="12"/>humana. esto quod vocabat se carnalem: hoc erat ve 
+          <lb ed="#P" n="13"/>rum: multum spiritualis erat. si curam aliquarum regendorum 
+          <lb ed="#P" n="14"/>cepisset: sciebat eos melius regere quod vna lex 
+          inani<lb ed="#P" n="15" break="no"/>mata et scripta.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e546">
+          ¶ Dubitatur: an epelrea distingua 
+          <lb ed="#P" n="16"/>tur a iustitia.
+        </p>
+        <p xml:id="jm3cbb-e61617-d1e551">
+          ¶ Respondetur: epekea est habitus 
+          <lb ed="#P" n="17"/>inclinans ad equalitatem seruandam vbi deficit lext 
+          <lb ed="#P" n="18"/>vt verbi gratia: lex dictat nullus peregrinus sub 
+          pe<lb ed="#P" n="19" break="no"/>na mortis conscendat muros vrbis tempore 
+          obsessio<lb ed="#P" n="20" break="no"/>nis: excubie in muro dormiant: aliquis est 
+          peregri<lb ed="#P" n="21" break="no"/>nus in vrbe qui dormientes excitat: et iuuat 
+          tueri<lb ed="#P" n="22" break="no"/>muros ab hostibus. epekea ostendit hunc non de 
+          <lb ed="#P" n="23"/>bere occidi: et quienam pacto iste casus non 
+          include<lb ed="#P" n="24" break="no"/>batur in lege. actus intellectus interpraetatur legem: et 
+          <lb ed="#P" n="25"/>habitus (qui est epekea) inclinabit ad conformitur 
+          agen<lb ed="#P" n="26" break="no"/>dum. potest iusticia capi collectine et diuisiue: et seciu hoc 
+          <lb ed="#P" n="27"/>potest epekeam includere: et sic epekea est iusticia
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

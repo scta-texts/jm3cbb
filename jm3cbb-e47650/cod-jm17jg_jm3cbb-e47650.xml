@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="78-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e47650"><!-- l3d33q4 -->
+        <head xml:id="jm3cbb-e47650-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e47650-Hd1e101" type="question-title">An prudentia semper sit habitus veredicus</head>
+        <p xml:id="jm3cbb-e47650-d1e104">
+          <lb ed="#P" n="54"/>QUero tertio: an 
+          pru<lb ed="#P" n="55" break="no"/>dentia semper sit habitus 
+          vere<lb ed="#P" n="56" break="no"/>dicus: siue sit sermo de actu 
+          pru<lb ed="#P" n="57" break="no"/>dentie vel eius habitu in idem 
+          <lb ed="#P" n="58"/>redit.
+        </p>
+        <p xml:id="jm3cbb-e47650-d1e117">
+          ¶ Respondetur 
+          affirma<lb ed="#P" n="59" break="no"/>tiue ad quaestionem. probatur hec 
+          re<lb ed="#P" n="60" break="no"/>sponsio siue conclusio affirmati¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ua auctoritate Aristo. iii. capite sexti ethicorum 
+          di<lb ed="#P" n="62" break="no"/>centis: sunt itaque ea quibus verum anima dicit 
+          affirman<lb ed="#P" n="63" break="no"/>do aut negando numero quinque. hec autem sunt / ars / 
+          <lb ed="#P" n="64"/>scientia / prudentia / sapientia / intellectus. et quod 
+          ari<lb ed="#P" n="65" break="no"/>sto. voluerit illud dicere patet: prudentiam intellectui 
+          <lb ed="#P" n="66"/>scientie et sapientie comparat: quibus non contingit 
+          <lb ed="#P" n="67"/>errare: ergo nec cum prudentia.
+        </p>
+        <p xml:id="jm3cbb-e47650-d1e141">
+          ¶ Contra hanc 
+          conclufi<lb ed="#P" n="68" break="no"/>sionem arguitur: stat electionem esse bonam in 
+          volunta<lb ed="#P" n="69" break="no"/>te: et regulari ab errore inuincibili. probatio: si 
+          cre<lb ed="#P" n="70" break="no"/>dam vel existimen sortem esse pauperem qui est diues: et 
+          <lb ed="#P" n="71"/>volendo conformare me illi iudicio qua iudico / iste est 
+          <lb ed="#P" n="72"/>pauper / de danda ei elemosina: iste actus 
+          volunta<lb ed="#P" n="73" break="no"/>tis est bonus: et tamen non regulatur a prudentia: 
+          <lb ed="#P" n="74"/>sed ab errore: ergo prudentia est error: cum sit assensus 
+          <lb ed="#P" n="75"/>falsus obiectiue. vel prudentia non requiritur ad 
+          re<lb ed="#P" n="76" break="no"/>gulandum actum appetitus.
+        </p>
+        <p xml:id="jm3cbb-e47650-d1e164">
+          ¶ Respondetur 
+          conceden<lb ed="#P" n="77" break="no"/>do quod ille actus voluntatis est bonus moraliter: et 
+          <lb ed="#P" n="78"/>non regulatur a prudentia. illud iudicium non est 
+          pru<lb ed="#P" n="79" break="no"/>dentia. semper prudentia est de vero. si sit de falso: 
+          <lb ed="#P" n="80"/>non est prudentia. terminus prudentia hoc 
+          impor<lb ed="#P" n="81" break="no"/>tat / quod sit de obiecto vero.
+        </p>
+        <p xml:id="jm3cbb-e47650-d1e177">
+          ¶ Contra hoc arguitur: 
+          <lb ed="#P" n="82"/>sequitur quod prudentia et error erunt eiusdem speciei 
+          <lb ed="#P" n="83"/>specialissime. patet: habeam ego iudicium 
+          pruden<lb ed="#P" n="84" break="no"/>tiale de a. propotione practica per aliquod certum tmtus: et sit 
+          <lb ed="#P" n="85"/>a propostio vera in priore parte illius temporis: et falsa in 
+          po<lb ed="#P" n="86" break="no"/>steriore parte illius.
+        </p>
+        <p xml:id="jm3cbb-e47650-d1e190">
+          ¶ Respondetur concedendo illatum: 
+          pru<lb ed="#P" n="87" break="no"/>dentia erit error: prudentia erit non prudentia. 
+          Ali<lb ed="#P" n="88" break="no"/>ter dicitur: prudentia est de vero vt in pluribus. 
+          in<lb ed="#P" n="89" break="no"/>terdum tamen est de falso: et sic dicit eustratius. 
+          por<lb ed="#P" n="90" break="no"/>modus magis vtitur modo loquendi aristotelis: 
+          <lb ed="#P" n="91"/>licet sit difficultas quodam modo ad nomen.
+        </p>
+        <p xml:id="jm3cbb-e47650-d1e203">
+          ¶ 
+          Se<lb ed="#P" n="92" break="no"/>cundo arguitur: ex hac conclusione duabus precedem 
+          <lb ed="#P" n="93"/>tibus sequitur quod prudentia est opinio: et opinio 
+          <lb ed="#P" n="94"/>falsa. consequens est contra aristotelem tertio 
+          capitu<lb ed="#P" n="95" break="no"/>lo allegato: qui cum posuit quinque habitus 
+          veridi<lb ed="#P" n="96" break="no"/>cos: expresse dicit: fieri autem potest vt falsum existima 
+          <lb ed="#P" n="97"/>tione opinioneque dicat.
+        </p>
+        <p xml:id="jm3cbb-e47650-d1e219">
+          ¶ Bespondetur: tres istorum 
+          ha<lb ed="#P" n="98" break="no"/>bituum sunt a falsitate imunes: vtpote intellectus / 
+          <lb ed="#P" n="99"/>qui est circa principia imediata secundo posteriorum: et 
+          sci<lb ed="#P" n="100" break="no"/>entia quae est circa necessaria et mediata primo et 
+          secun<lb ed="#P" n="101" break="no"/>do posteriorum. idem contingit de sapientia: tenendo 
+          <lb ed="#P" n="102"/>quod habet pro obo / immediata etmediata. sed cum ars et 
+          pru<lb ed="#P" n="103" break="no"/>dentia sint circa contingentia: licet sint agibilia et 
+          factibi<lb ed="#P" n="104" break="no"/>lia: non video quin possunt esse de falso:et realitur sunt 
+          <lb ed="#P" n="105"/>opiniones interdum. vnde assensus qua assentio huic / 
+          <lb ed="#P" n="106"/>dandum est beneficium huic: est opinio: casu quo sunt 
+          <lb ed="#P" n="107"/>duo oblati / et nescitur quis eorum est magis 
+          idone<lb ed="#P" n="108" break="no"/>us. vel ego assentio illi: et sunt apparentie de 
+          oppo<lb ed="#P" n="109" break="no"/>sito. est assensus ineuidens: non fides: nec aliquis 
+          ali<lb ed="#P" n="110" break="no"/>us actus ab opinione: ergo est opinio. Insuper: assem 
+          <lb ed="#P" n="111"/>su prudentiali assentio alicui / dubitando de 
+          oppo<lb ed="#P" n="112" break="no"/>sito: eodem modo quo est dubitatio circa opinionem: 
+          <lb ed="#P" n="113"/>igitur. nec debet te mouere quod concedam opinionem 
+          suf<lb ed="#P" n="114" break="no"/>ficienter regulatinam actus voluntatis: viso quod igno 
+          <lb ed="#P" n="115"/>rantia inuincibilis sufficienter regulat actum 
+          volun<lb ed="#P" n="116" break="no"/>tatis: qui est error praue disponnis. hoc non semper 
+          <lb ed="#P" n="117"/>contingit de opinione.
+        </p>
+        <p xml:id="jm3cbb-e47650-d1e265">
+          ¶ Ad aristo. dico: ipse est in 
+          <lb ed="#P" n="118"/>telligendus / quod non est de ratione prudentie quod sit 
+          o<lb ed="#P" n="119" break="no"/>pinio: quia illo dato / quelibet prudentia esset opinio: 
+          <lb ed="#P" n="120"/>quod liquet esse falsum. habetur prudentia necessa¬ 
+          <pb ed="#P" n="78-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>riorum: de quibus non or habere opinionem. non 
+          ta<lb ed="#P" n="2" break="no"/>men nego quin possunt esse opiniones circa 
+          neces<lb ed="#P" n="3" break="no"/>saria. scio alteram istarum esse necessariam: deus poteit 
+          <lb ed="#P" n="4"/>facere infinitum: nullus deus potest facere infinitum: 
+          <lb ed="#P" n="5"/>tamen circa vtramque sunt opiniones.
+        </p>
+        <p xml:id="jm3cbb-e47650-d1e290">
+          ¶ Concludendo 
+          <lb ed="#P" n="6"/>dico: realiter aliqua prudentia est opinio: nisi quis in 
+          <lb ed="#P" n="7"/>aere fingeret modum loquendi: dicens quod opminio est solum in 
+          <lb ed="#P" n="8"/>speculatiuis: et non in practicis. prudentia tamen non est 
+          <lb ed="#P" n="9"/>de falso. questione decima hec quaestio notior euadet
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

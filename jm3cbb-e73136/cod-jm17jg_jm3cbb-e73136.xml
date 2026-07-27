@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="120-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e73136"><!-- l3d37q5 -->
+        <head xml:id="jm3cbb-e73136-Hd1e99">Quaestio 5</head>
+        <head xml:id="jm3cbb-e73136-Hd1e101" type="question-title">An lex Mosaica tempore sui cursus obligabat omnes ad sui observantiam</head>
+        <p xml:id="jm3cbb-e73136-d1e104">
+          <lb ed="#P" n="18"/>QUinto circa hanc 
+          di<lb ed="#P" n="19" break="no"/>stinctionem quaeritur an lex 
+          moy<lb ed="#P" n="20" break="no"/>saica tempore sui cursus 
+          obliga<lb ed="#P" n="21" break="no"/>bat omnes ad sui obseruantiam. hoc 
+          <lb ed="#P" n="22"/>est quaerere (paululum mutatis 
+          ter<lb ed="#P" n="23" break="no"/>minis) an erat necessarium ad 
+          <lb ed="#P" n="24"/>salutem recipere legem moy 
+          <lb ed="#P" n="25"/>si pro tempore sui cursus.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e124">
+          ¶ Pro questionis 
+          solutio<lb ed="#P" n="26" break="no"/>ne scito quod aliqua erant de lege nature in lege 
+          moy<lb ed="#P" n="27" break="no"/>saica: alia vero diuina positiua in eadem.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e131">
+          ¶ Quo 
+          <lb ed="#P" n="28"/>ad ista pono tres conclusiones: Quarum prima est. lex 
+          <lb ed="#P" n="29"/>Moysaica quatum ad illa quae erant de lege nature 
+          ob<lb ed="#P" n="30" break="no"/>ligabat omnes. Secunda conclusio. lex Moysaica 
+          <lb ed="#P" n="31"/>quantum ad positiua diuina solos iudeos obligabat. 
+          <lb ed="#P" n="32"/>Tertia conclisio sequens. tota lex mhorsaica non 
+          ob<lb ed="#P" n="33" break="no"/>ligabat omnes ad credendum.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e148">
+          ¶ Prima conclusio 
+          <lb ed="#P" n="34"/>probatur: lex naturc obligat omnes. illa est inuariabilis 
+          <lb ed="#P" n="35"/>ttamquam ligamen in corde insculpta. Lex Moysaica quantum 
+          <lb ed="#P" n="36"/>ad illam partem est de lege nature: igitur.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e157">
+          ¶ 
+          Secun<lb ed="#P" n="37" break="no"/>da conclusio patet quae ad eius priorem exponentem: puta 
+          <lb ed="#P" n="38"/>iudeos obligabat lex Moysaica: patet 
+          Deutero<lb ed="#P" n="39" break="no"/>nomii. xxv. maledictus qui non permanet in 
+          sermoni<lb ed="#P" n="40" break="no"/>bus legis huius: nec eos opere perfecit. et patet ratione: 
+          <lb ed="#P" n="41"/>aliquos obligabat: et nullos alios a iudeis vt pate 
+          <lb ed="#P" n="42"/>bit per secundam partem: ergo solos iudeos obligabat. 
+          <lb ed="#P" n="43"/>non intelligo per iudeos / illos solos de tribu iuda: 
+          <lb ed="#P" n="44"/>sed de omnibus aliis tribubus filiorum israel. hec pars 
+          <lb ed="#P" n="45"/>patet Deuteronomii. xxvi. Profiteor hodie coram 
+          <lb ed="#P" n="46"/>domino deo tuo. probatio alterius partis hanc etiam ex 
+          <lb ed="#P" n="47"/>plicabit. Secunda pars patet. gentiles saluabantur 
+          <lb ed="#P" n="48"/>seruantes precise legem nature: vt patet ad 
+          Roma<lb ed="#P" n="49" break="no"/>nos secundo. vbi dicit apostolus: quicunque enim sine 
+          le<lb ed="#P" n="50" break="no"/>ge peccauerunt sine lege peribunt: vbi glosa inter 
+          <lb ed="#P" n="51"/>linearis: gentiles sine lege scripta. Et quicunque in 
+          <lb ed="#P" n="52"/>legem peccauerunt per legem iudicabuntur: in verbo in 
+          <lb ed="#P" n="53"/>legem dicit eadem glosa: Iudei. et paulopost dicit 
+          <lb ed="#P" n="54"/>apostolus in eodem capite. Cum enim gentes qui legem 
+          <lb ed="#P" n="55"/>non habent naturaliter ea quaelegis sunt faciunt 
+          eius<lb ed="#P" n="56" break="no"/>modi legem non habentes ipsi sibi sunt lex: qui 
+          ostem<lb ed="#P" n="57" break="no"/>dunt opus legis scriptum in cordibus suis testimo 
+          <lb ed="#P" n="58"/>nium reddente illis conscientia ipsorum. hoc innuebat 
+          <lb ed="#P" n="59"/>psalmista psalmo. exlvii. inquiens: Non fecit taliter 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>omni nationi: et iudicia sua non manifestauit eis. hoc 
+          <lb ed="#P" n="61"/>idem innuebat Moyses Deuteronomii. iiii. 
+          inqui<lb ed="#P" n="62" break="no"/>ens: quae est alia gens sic inelita vt habeat 
+          cerimoni<lb ed="#P" n="63" break="no"/>as / iustaque iudicia / et vniuersam legem.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e220">
+          ¶ Tertia 
+          <lb ed="#P" n="64"/>conclusio ex his correlarie sequitur. si vna pers legis 
+          <lb ed="#P" n="65"/>Moysaice non obligabat omnes: ergo nec tota 
+          cathe<lb ed="#P" n="66" break="no"/>gorice.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e229">
+          ¶ Contra tertiam conclusionem arguitur 
+          probam<lb ed="#P" n="67" break="no"/>do quod non soli iudei siue hebrei obligabantur 
+          suscipe<lb ed="#P" n="68" break="no"/>re legem Moysaicam. et primo sic: quicumque enim subdun 
+          <lb ed="#P" n="69"/>tur regi: oportet quod subdantur legi ipsius regis. sicut 
+          <lb ed="#P" n="70"/>galli sunt deuincti leges galli subire: et ita in aliis 
+          re<lb ed="#P" n="71" break="no"/>gnis. sed lex vetus est data a deo: licet mediante 
+          an<lb ed="#P" n="72" break="no"/>gelo. modo deus est rex omnis terre / secundum illud 
+          psal<lb ed="#P" n="73" break="no"/>miste psalmo. xxiii. Demeni est terra et plenitudo eius 
+          <lb ed="#P" n="74"/>orbis terrarum: ergo omens inhabitantes terram 
+          te<lb ed="#P" n="75" break="no"/>nebantur ad legem Moysaicam.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e251">
+          ¶ Secundo. si 
+          Ari<lb ed="#P" n="76" break="no"/>stoteles / Plato / et alii gentiles / non fuissent 
+          obli<lb ed="#P" n="77" break="no"/>gati saluare legem Moysaicam: peior fuisset 
+          condi<lb ed="#P" n="78" break="no"/>tio hebreorum quam gentilium: cum gentiles in lege latio 
+          <lb ed="#P" n="79"/>re citius poterant saluari quam hebrei in lege 
+          strictio<lb ed="#P" n="80" break="no"/>re. sicut facilius est bene incidere in via lata quam 
+          an<lb ed="#P" n="81" break="no"/>gusta.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e267">
+          ¶ Ad primum distinguitur maior illius rationis. 
+          <lb ed="#P" n="82"/>vel si illa lex sit data omnibus vniuersaliter: et sic 
+          con<lb ed="#P" n="83" break="no"/>ceditur. secus est si sit lex specialis data specialibus 
+          <lb ed="#P" n="84"/>amicis et ministris: quemadmodum erant hebrei pro 
+          il<lb ed="#P" n="85" break="no"/>lo tempere. dedit omnibus legem naturalem tam hebreis quod 
+          genti<lb ed="#P" n="86" break="no"/>libus quam seruatam iri voluit ab omnibus. et dato quod lex 
+          <lb ed="#P" n="87"/>nature sit in homim cordibus / insculpta: non inconuenit 
+          <lb ed="#P" n="88"/>quod deus illas leges verbo det: vt in maiore 
+          honore<lb ed="#P" n="89" break="no"/>habeantur ob auctoritatem dei verbaliter legem 
+          praecipiem<lb ed="#P" n="90" break="no"/>tis. Tum secundo. multi habent naturalia deprauata: et 
+          <lb ed="#P" n="91"/>multi sunt rudes de plebe.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e292">
+          ¶ Ad secundum nego quod 
+          <lb ed="#P" n="92"/>peiora fuisset conditio hebreorum quom gentilium. probatio 
+          <lb ed="#P" n="93"/>nichil valet. ipsa concluderet quod clerici 
+          religiosi<lb ed="#P" n="94" break="no"/>essent in peiore statu quam laici: quia obligantur ad illa ad 
+          <lb ed="#P" n="95"/>qua laici obligantur et ad plura. et concluderet quod 
+          trahen<lb ed="#P" n="96" break="no"/>tes moram extra collegia Parisius melius se 
+          habe<lb ed="#P" n="97" break="no"/>rent quam moram in collegio trahentens: qui arctantur 
+          rem<lb ed="#P" n="98" break="no"/>diuinam et lectiones horis statutis audire. maior 
+          li<lb ed="#P" n="99" break="no"/>centia non arguit meliorem statum: quando vt ait 
+          Co<lb ed="#P" n="100" break="no"/>micus. licentia detriores sumus. Ad illum neruum 
+          argu<lb ed="#P" n="101" break="no"/>menti: facilius est incidere per iter latum quam angustum 
+          <lb ed="#P" n="102"/>quod est pars illius. Distinguo. vel si in latitudine 
+          <lb ed="#P" n="103"/>sint siccarii / fures / et latrones / et in parte vie non fuerint 
+          <lb ed="#P" n="104"/>husmodi: et tunc hoc est falsum. sed sic est in proposito. 
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e323">
+          <lb ed="#P" n="105"/>¶ Tertio arguitur. scribitur Exodi. xii. Siquis pere 
+          <lb ed="#P" n="106"/>grinorum in vestram voluerit transire coloniam: et 
+          fa<lb ed="#P" n="107" break="no"/>cere phase domini: circuncidetur prius omne 
+          masculi<lb ed="#P" n="108" break="no"/>num eius: et tunc rite celebrabit: eritque simul sicut 
+          <lb ed="#P" n="109"/>indigena terre. sed incassum extranei fuissent ad le 
+          <lb ed="#P" n="110"/>gem diuinam admissi auctoritate diuina: si non 
+          fuis<lb ed="#P" n="111" break="no"/>set necessarium legem illam ab illis obseruari.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e341">
+          ¶ 
+          Quar<lb ed="#P" n="112" break="no"/>to arguitur. deus non est acceptor personarum Actuum 
+          <lb ed="#P" n="113"/>primo. ergo non accepit hebreos ad meliorem legem quam 
+          gen<lb ed="#P" n="114" break="no"/>tiles.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e350">
+          ¶ Ad tertium dicitur: auctoritas assumpta 
+          ma<lb ed="#P" n="115" break="no"/>gis est pro conclusione (si verba poederen) quam contra eam. 
+          <lb ed="#P" n="116"/>Dicitur: si quis peregrinorum transire voluerit: at si 
+          di<lb ed="#P" n="117" break="no"/>ceret: non obligo omns adhuc protpere istius legis: et non 
+          <lb ed="#P" n="118"/>frustra gentiles hoc fecerunt: quia salutem melius in le 
+          <lb ed="#P" n="119"/>ge Mhoysaica consequi poterant quam manendo in 
+          <pb ed="#P" n="120-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>gentilitatis ritu. exemplum nunc de laico 
+          capien<lb ed="#P" n="2" break="no"/>te sacra vel religionem ingrediente.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e372">
+          ¶ Ad quartum 
+          <lb ed="#P" n="3"/>dicitur: deum non esse acceptorem psonatum duplicit 
+          <lb ed="#P" n="4"/>intelligitur. Uno modo quod non acceptet hunc hominem 
+          <lb ed="#P" n="5"/>potius quam illum: sed indrni sehabet qua ad omnes: et nego propotionen 
+          <lb ed="#P" n="6"/>illam in hoc sensu. dat auxiliu speciale cui vult: et 
+          pre<lb ed="#P" n="7" break="no"/>destinat quem vult. cui vult miseretur: et quem vult 
+          <lb ed="#P" n="8"/>obdurat. et Iacob dilexi: Esau autem odio habui. sic 
+          <lb ed="#P" n="9"/>accepit gentem iudeorum in specialem populum de 
+          to<lb ed="#P" n="10" break="no"/>to vniuerso: et etiam multos alios gentiles qui ad 
+          au<lb ed="#P" n="11" break="no"/>xilium speciale et predestinatione: licet non obliga 
+          <lb ed="#P" n="12"/>bat eos ad aliam legem quam naturalem. Alio modo 
+          in<lb ed="#P" n="13" break="no"/>telligitur hec propositio assumpta in sensu quo 
+          bea<lb ed="#P" n="14" break="no"/>tus Lucas eam recitat. Deus non solum acceptauit 
+          <lb ed="#P" n="15"/>hebreos dando eis legem gratie: sed vult eam dari 
+          omni<lb ed="#P" n="16" break="no"/>bus. hoc dicit symon petrus ante visionem a domino 
+          <lb ed="#P" n="17"/>immissam: antea putabat oppositum: e quod lex 
+          gra<lb ed="#P" n="18" break="no"/>tie solum erat danda filiis israel. accipere personas 
+          <lb ed="#P" n="19"/>in sensu quo reprobatur non potest deo conpetere: quia 
+          <lb ed="#P" n="20"/>hoc est personam persone indebite praeferre: vtpote dado 
+          <lb ed="#P" n="21"/>beneficium inidoneo: idoneo relicto. vel minus 
+          ido<lb ed="#P" n="22" break="no"/>neo: praetermisso magis idoneo ab illo qui obligabatur 
+          <lb ed="#P" n="23"/>ad oppositum. modo notum est hoc non competere 
+          <lb ed="#P" n="24"/>deo.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e422">
+          ¶ Quinto arguitur. ex dictis sequitur quod gentiles 
+          <lb ed="#P" n="25"/>hebreis vicini poterant dicere licite / nolumus hanc 
+          <lb ed="#P" n="26"/>legem Moysaicam suscipere quam scimus deum 
+          tradi<lb ed="#P" n="27" break="no"/>disse: nichil ad nos de illa: et per consequens poterant licite 
+          <lb ed="#P" n="28"/>eam contennere.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e434">
+          ¶ Sexto: Esaie. xlix. scribitur: parum est 
+          <lb ed="#P" n="29"/>vt sis michi seruus ad suscitandas tribus Iacob et 
+          <lb ed="#P" n="30"/>feces israel conuertendas: dedi te in lucem gentium 
+          <lb ed="#P" n="31"/>vt sis salus mea vsque ad extremum terre: ergo lex mo 
+          v<lb ed="#P" n="32" break="no"/>si fuit data vsque ad extremum terre.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e445">
+          ¶ Septimo 
+          <lb ed="#P" n="33"/>arguitur: lex noua continetur in lege veteri tanquam 
+          ro<lb ed="#P" n="34" break="no"/>ta in rota: sed contentum obligat omnes: sed continens est 
+          ma<lb ed="#P" n="35" break="no"/>ior vel equalis contento. ergo lex moysi obligat omnes. 
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e454">
+          <lb ed="#P" n="36"/>¶ Ad quintum concedo omnia assumpta in argumento ad 
+          <lb ed="#P" n="37"/>finem vsque de contemptu: et patet in simili de 
+          ingressu<lb ed="#P" n="38" break="no"/>religionis et consiliis euangelicis. laicus potest sic 
+          di<lb ed="#P" n="39" break="no"/>cere licite: nolo subire horum consiliorum onus: quid ad 
+          <lb ed="#P" n="40"/>me de eis. ad ea non obligor. sed si ipa contenneret: 
+          ma<lb ed="#P" n="41" break="no"/>le ageret.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e470">
+          ¶ Ad sextum dicitur quod est verbum patris 
+          <lb ed="#P" n="42"/>ad christum in humanitate assumpta:e arguit 
+          so<lb ed="#P" n="43" break="no"/>lum pro lege noua.
+        </p>
+        <p xml:id="jm3cbb-e73136-d1e477">
+          ¶ Ad septimm concedo quod 
+          pncipa<lb ed="#P" n="44" break="no"/>liora legis gratrie in lege veteri continentur: vtpote christus est 
+          <lb ed="#P" n="45"/>messias in lege promissus: et huiusmodi. sed sic continens 
+          <lb ed="#P" n="46"/>aliud tanquam antecedens in consequentia aliqua: non tantum ex 
+          <lb ed="#P" n="47"/>panditur sicut consequens cum omnibus ad legem 
+          con<lb ed="#P" n="48" break="no"/>sequentis pertinentibus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

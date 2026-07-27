@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="154-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e94201"><!-- l3d38q4 -->
+        <head xml:id="jm3cbb-e94201-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e94201-Hd1e101" type="question-title">An Deus aliquem mediate fefellit, vel aliqui Deo authore mentiti sunt de facto</head>
+        <p xml:id="jm3cbb-e94201-d1e104">
+          <lb ed="#P" n="100"/>Quarto queritur: an 
+          de<lb ed="#P" n="101" break="no"/>aliquem mediate fefellit: vel aliqui deo au 
+          <lb ed="#P" n="102"/>thore mentiti sunt de facto.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e113">
+          ¶ 
+          Responde<lb ed="#P" n="103" break="no"/>tur. nulli sunt decepti vel mentiti sunt deo 
+          instigan<lb ed="#P" n="104" break="no"/>te. hec concluslo probata est in questione 
+          preceden<lb ed="#P" n="105" break="no"/>ti: in qua dictum est deus non potest fallere: et si 
+          fal<lb ed="#P" n="106" break="no"/>lere non potest: nec fefellit.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e124">
+          ¶ Contra hanc conclusionem 
+          <lb ed="#P" n="107"/>instatur variis mediis. probatur quod deus fefellerit et 
+          <lb ed="#P" n="108"/>mentiri fecit: primo de illo argumento communi. Sene. xxvii. 
+          <lb ed="#P" n="109"/>de iacob: cuius solutio non est communis. arguitur sic: Iacob 
+          men<lb ed="#P" n="110" break="no"/>titus est dicens suo patri / ego sum filius tuus 
+          primo<lb ed="#P" n="111" break="no"/>genitus esau: et tamen sciebat hoc esse falsum: t 
+          ta<lb ed="#P" n="112" break="no"/>men hoc fecit instinctu speciali et responso diuinitus 
+          ac<lb ed="#P" n="113" break="no"/>cepto: ergo mentitus est. Forte dicis sicut aliqui 
+          docti<lb ed="#P" n="114" break="no"/>viri dicunt quos Lyranus formaliter insequitur: 
+          <lb ed="#P" n="115"/>Iacob mentitus est. Contra hoc est Augu. in lib. de 
+          men<lb ed="#P" n="116" break="no"/>dacio: et Romanus pontifex in capitulo gaudemus. 
+          <lb ed="#P" n="117"/>de diuor. et scriptura de eo non sine sale dixit / erat 
+          <lb ed="#P" n="118"/>simplex: hoc est sine plica et dolo: era illud dici non potest. 
+          <lb ed="#P" n="119"/>rabi salo. excusans Iacob dicit / sunt due propotiones 
+          <pb ed="#P" n="155-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vere: quarum prior est: ego sum. Secunda: esau 
+          primo<lb ed="#P" n="2" break="no"/>genitus tuus. modo vtraque istarum propositionum est vera. 
+          <lb ed="#P" n="3"/>imaginatio viri non est spernenda: sed non sufficit pro 
+          ar<lb ed="#P" n="4" break="no"/>gumento. nicholaus hoc impugnat dicens: quacumque 
+          <lb ed="#P" n="5"/>arte verborum aliquis fallit alium: a mendacio non 
+          excu<lb ed="#P" n="6" break="no"/>satur. aliter ergo dicit: et est solutio communis. bbet iacob non 
+          <lb ed="#P" n="7"/>esset esau in psona: erat tamen in officio et dignitate 
+          <lb ed="#P" n="8"/>quantum ad ius primogeniture: et iacob intellexit in illo 
+          <lb ed="#P" n="9"/>sensu: et sic non fefellit patrem. contra vidit patrem 
+          cape<lb ed="#P" n="10" break="no"/>re in alio sensu: ergo patrem fefellit: sicut contra 
+          rabisa<lb ed="#P" n="11" break="no"/>lomonem arguit. falsum est insuper quod quacumque arte 
+          <lb ed="#P" n="12"/>verborum aliquis fallit alium a mendacio non excusa 
+          <lb ed="#P" n="13"/>tur. fallere non est mentiri. cum non transit contra mentem: 
+          <lb ed="#P" n="14"/>non mentitur.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e190">
+          ¶ Dico ad argumentum quo ad menda 
+          <lb ed="#P" n="15"/>cium non est difficultas. Iacob dixit quod erat 
+          primogeni<lb ed="#P" n="16" break="no"/>tus suus Isaac: intelligens quo ad ius primogenitu 
+          <lb ed="#P" n="17"/>re: quia de illo sensu contendebatur. sicut saluator 
+          Ioan<lb ed="#P" n="18" break="no"/>nis. xi. de Ioanne dicit / ipse est helias. et patet in 
+          thea<lb ed="#P" n="19" break="no"/>tris: quando quis loquitur nomine hherodis vel pilati: 
+          <lb ed="#P" n="20"/>et sic Iacob nullo modo mentitus est. sed de patre 
+          fallem<lb ed="#P" n="21" break="no"/>do maior est difficultas. Iacob protulit 
+          propositio<lb ed="#P" n="22" break="no"/>nem amphibologicam duos sensus habentem: quorum 
+          <lb ed="#P" n="23"/>alter est verus: et in illo iacob suum dictum intellexit. 
+          <lb ed="#P" n="24"/>Secundus sensus erat falsus: in quo pater primo 
+          intel<lb ed="#P" n="25" break="no"/>lexit: et iacob hoc putabat: ergo ferellit. Probo conseqentiam. 
+          <lb ed="#P" n="26"/>si aliquis querat sortem quem habeo in camera: et ego 
+          <lb ed="#P" n="27"/>dico / non est in camera mea: intelligens tertiam 
+          perso<lb ed="#P" n="28" break="no"/>nam de edo: et video quod alter intelligit vt est ttia persona 
+          <lb ed="#P" n="29"/>de sum: ego non sum excusatus a fallendo et a 
+          deceptio<lb ed="#P" n="30" break="no"/>ne: cum verborum arte alium circunuenio. et patet alio 
+          <lb ed="#P" n="31"/>exemplo: sortes dicit berthe habeo et habebo tesem 
+          <lb ed="#P" n="32"/>per in vxorem quousque corpus hoc sub terra fuerit: in 
+          <lb ed="#P" n="33"/>telligens de cineribus et terra quam proiiciet supra se: 
+          co<lb ed="#P" n="34" break="no"/>getur contrahere et tenere communem verborum 
+          intelli<lb ed="#P" n="35" break="no"/>gentiam. de spoesa. c. ex litteris. Respondetur: in istis 
+          duo<lb ed="#P" n="36" break="no"/>bus exemplis vltimis ego fallo: et per consequens 
+          pec<lb ed="#P" n="37" break="no"/>co / verborum arte alios circunueniendo. secus erat de 
+          <lb ed="#P" n="38"/>iacob: quia hoc spuissancti instinctu fecit: pro cuius in 
+          <lb ed="#P" n="39"/>telligentia pleniore scias: cuius est ius condere eiua 
+          <lb ed="#P" n="40"/>est ambiguitatem in iure incidentem interpraetari. sic est in 
+          <lb ed="#P" n="41"/>iure potetificio et in aliquibus romani poestificis 
+          rescri<lb ed="#P" n="42" break="no"/>partis. Modo deus est iuris diuini legislator: et eius 
+          in<lb ed="#P" n="43" break="no"/>fallibilis (in rebus ambiguis ) expositor. propterea 
+          <lb ed="#P" n="44"/>recte dici solet quod sensus litteralis non est sensus 
+          il<lb ed="#P" n="45" break="no"/>le quem nuda verba prima facie ostendunt: sed est 
+          sen<lb ed="#P" n="46" break="no"/>sus a spiritusancto intentus quem interdum ex aliis 
+          <lb ed="#P" n="47"/>locis scripture colligimus / nonnumquam per reuelationem 
+          <lb ed="#P" n="48"/>et spiritussancti inspirationem: et ille est rectissimus 
+          <lb ed="#P" n="49"/>sensus infallibilis. Modo rebecca mater 
+          Iacob<lb ed="#P" n="50" break="no"/>edocta erat ab oraculo quod ius primogeinture debitum 
+          <lb ed="#P" n="51"/>erat minori: patet Gene. xxv. perrexitque Iebecca vt 
+          <lb ed="#P" n="52"/>consuleret deum. modo deus / iuraet dominia omnia 
+          <lb ed="#P" n="53"/>pro libito equissime confert: quia sua sunt. Iacob 
+          vir<lb ed="#P" n="54" break="no"/>sane optimus primo reluctatus est: grande reputans 
+          <lb ed="#P" n="55"/>nephas patri velle illudere: sed a matre et 
+          illumi<lb ed="#P" n="56" break="no"/>natione dei edoctus / tandem sputessancti 
+          inspirationi<lb ed="#P" n="57" break="no"/>acquieuit: ergo dictum suum / ego sum filius tuus primogeni 
+          <lb ed="#P" n="58"/>tus esau habebat sensum hunc a spuisancto 
+          inten<lb ed="#P" n="59" break="no"/>tum: ego sum cui debetur ius primogeinture. quia de 
+          il<lb ed="#P" n="60" break="no"/>lo sensu contendebatur: et de illo sensu intendebat. et 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ad illum sensummentis aciem cum respondentibus 
+          si<lb ed="#P" n="62" break="no"/>gnis tam verbo quam gestu applicuit.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e299">
+          ¶ Sed contra 
+          <lb ed="#P" n="63"/>hoc arguitur. xxii. q. v. ca. quacumque: gratianus ex isido 
+          <lb ed="#P" n="64"/>ro recitat: quacumque arte verborum quis iurat deus tamen 
+          <lb ed="#P" n="65"/>qui conscientie testis est ita hoc accipit sicut ille 
+          cui<lb ed="#P" n="66" break="no"/>iuratur intelligit. sed pater intellexit in alio sensu: 
+          <lb ed="#P" n="67"/>ergo patrem fefellit quicquid sit de emotione 
+          spiri<lb ed="#P" n="68" break="no"/>tussancti: vel spiritussanctus animum Iacob moue 
+          <lb ed="#P" n="69"/>bat ad fallendum: et idem est sine iuramento auctoritas 
+          <lb ed="#P" n="70"/>isidoro alligata.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e319">
+          ¶ Respondetur. Illud capitulum quacum 
+          <lb ed="#P" n="71"/>que / intelligitur sicut ille cui iuratur intelligit: id est 
+          <lb ed="#P" n="72"/>intelligere debet. non quod teneatur semper sic 
+          intelli<lb ed="#P" n="73" break="no"/>gere sub pena peccati: sed sic ille est verus sensus 
+          il<lb ed="#P" n="74" break="no"/>lius propositionis. et patet de consecratione 
+          distinctio<lb ed="#P" n="75" break="no"/>ne. iiii. c. non illud. sufficit michi dicere veritatem 
+          se<lb ed="#P" n="76" break="no"/>cundum materiam subiectam: qualitercumque tu 
+          intel<lb ed="#P" n="77" break="no"/>ligis. modo iacob dixit verum secundum verum sensum 
+          <lb ed="#P" n="78"/>a spusancto intellectum: ergo dixit quod licite dicere 
+          po<lb ed="#P" n="79" break="no"/>terat: et per consequens non fefellit. directe fallere est 
+          <lb ed="#P" n="80"/>peccatum: et per consequens si aliquis dicat quod licite dicere potest 
+          <lb ed="#P" n="81"/>nunquam alium fallit. sed alter male intelligens fallitur 
+          <lb ed="#P" n="82"/>a seipo.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e348">
+          ¶ Contra hoc arguitur: iacobet rebecca 
+          slu<lb ed="#P" n="83" break="no"/>diose praeparabant pelles circa collum et manus / iacob: 
+          <lb ed="#P" n="84"/>sed hoc non fecerunt nisi quatenus isaac falleretur: 
+          <lb ed="#P" n="85"/>quia ad quod propositum alias pelles induerunt.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e357">
+          ¶ 
+          Con<lb ed="#P" n="86" break="no"/>firmatur hec ratio ex responsione isaac dicentis ad esau 
+          <lb ed="#P" n="87"/>Gene. xxvii. Uenit frater tuus fraudulenter et 
+          acce<lb ed="#P" n="88" break="no"/>pit benedictionem tuam: ergo ex littera colligitur quod 
+          pa<lb ed="#P" n="89" break="no"/>trem fallebat.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e368">
+          ¶ Ad primam istarum rationum concedo 
+          <lb ed="#P" n="90"/>maiorem: minorem tamen nego. induebant 
+          pel<lb ed="#P" n="91" break="no"/>les caprarum quatenus verum quod non tenebantur 
+          di<lb ed="#P" n="92" break="no"/>cere isaac occultarent. exemplum in simili. sortes est 
+          <lb ed="#P" n="93"/>iniuste obsessus in vrbe ab vno tyranno: quam prote 
+          <lb ed="#P" n="94"/>gere non potest: induit vestes fratris minoris / vel 
+          femi<lb ed="#P" n="95" break="no"/>ne / quatenus sic euadat. talis cum licite facit quod potest / 
+          <lb ed="#P" n="96"/>nullo modo fallit. duobus modis poterat se 
+          habe<lb ed="#P" n="97" break="no"/>re iacob vel ille vestes femine induens. Uno modo vt 
+          <lb ed="#P" n="98"/>fallant: et hoc est malum. Alio modo vt occultent 
+          <lb ed="#P" n="99"/>vnum verum quod non tenentur dicere vel propalare: ehoc est 
+          <lb ed="#P" n="100"/>indirecte fallere: et non est fallere simpliciter. licet ve 
+          <lb ed="#P" n="101"/>stes induens iudicet / quod ex induitione pellium vel ve 
+          <lb ed="#P" n="102"/>stium / hoc videns falletur erronee assentiens: 
+          nichil<lb ed="#P" n="103" break="no"/>ad a / cum induens licite agat.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e402">
+          ¶ Ad secundum duo 
+          di<lb ed="#P" n="104" break="no"/>co. primum est: licet isaac iudicabat et diceret esau 
+          <lb ed="#P" n="105"/>quod iacob eum fefellit: non sequitur quod iacob fefellerit 
+          <lb ed="#P" n="106"/>Secundo dico: isaac cepit fraudulenter in bonam partem. 
+          <lb ed="#P" n="107"/>aliqua est pia fraus et dolus bonus. vt patet secunde 
+          <lb ed="#P" n="108"/>Corinth. xii. cum essem astutus cepi vos dolo. hinc 
+          <lb ed="#P" n="109"/>legiste vtuntur mo loquendi de dolo malo / ac si aliquis 
+          <lb ed="#P" n="110"/>dolus eset bonus: et ita isaac fecit vt filii iram liniret 
+          <lb ed="#P" n="111"/>contra se. sicut comuniter homines malunt seipsos viuere in 
+          <lb ed="#P" n="112"/>quiete quam alios. iram esau quodammon a se reiecit 
+          re<lb ed="#P" n="113" break="no"/>torquendo vtcumque in iacob: quem simplicem et prudentemm 
+          <lb ed="#P" n="114"/>nouerat. ipse autem senex volens in mansuetudineet 
+          tram<lb ed="#P" n="115" break="no"/>quillitate paucosdies caniciei adhuc deducere in 
+          vi<lb ed="#P" n="116" break="no"/>ta: cum mansit fixus / in besendictione data iacob: non 
+          po<lb ed="#P" n="117" break="no"/>terat animm aliorsum flectere. cognouerat omnia illa esse 
+          <lb ed="#P" n="118"/>a deo cui reluctari nolut. ex his pateriarcham isaac 
+          cui<lb ed="#P" n="119" break="no"/>christus multum assimilatur in figura excusare potes sicut 
+          <lb ed="#P" n="120"/>fiiu scogentum ctrarterummfis pcot. ¶c Sono aui¬ 
+          <pb ed="#P" n="155-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>zibraham dicebat seruis suis se reuersurum cum 
+          pue<lb ed="#P" n="2" break="no"/>ro Isaac / Gen. xxii. et tamen intendebat eum perimere 
+          <lb ed="#P" n="3"/>et non ita cum eo redire. similiter dixit Sara esse 
+          so<lb ed="#P" n="4" break="no"/>roremeius. Gene. xx. cum peregrinarentur in geraris: 
+          <lb ed="#P" n="5"/>hoc est in palestina: et tamen in viis eius regebantur a 
+          <lb ed="#P" n="6"/>spusancto: ergo mendacium potest licite fieri.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e459">
+          ¶ 
+          Te<lb ed="#P" n="7" break="no"/>spondetur: Abraham non mentitus est. vel credidit quod 
+          <lb ed="#P" n="8"/>deus temptatiue hoc dixit. vel si exequutiue hoc 
+          effi<lb ed="#P" n="9" break="no"/>caciter voluit / mortuum resuscitaret: quia deus ei 
+          dice<lb ed="#P" n="10" break="no"/>bat: in Isaacvocabitur tibi semen: et hoc est quod dicit 
+          <lb ed="#P" n="11"/>Apostolus ad hebreos. xi. fide obtulit Abraham 
+          <lb ed="#P" n="12"/>Isaac cum temptaret: arbitrans quod a mortuis suscita 
+          <lb ed="#P" n="13"/>re potens est deus. sic non dicit pueris aliquid quod 
+          men<lb ed="#P" n="14" break="no"/>te non haberet. sed quo ad Saram dicitur quod Sara erat 
+          <lb ed="#P" n="15"/>ex eodem patre cum Abraham: pater abrahe erat auus 
+          <lb ed="#P" n="16"/>Sare: ergo ex quo patre erat Abraham immediate 
+          <lb ed="#P" n="17"/>ex eodem erat sara mediate: et hoc abraham regi 
+          Abi<lb ed="#P" n="18" break="no"/>melech dixit inquiens: alias autem vere soror mea est / 
+          <lb ed="#P" n="19"/>filia patris mei / et non filia matris mee / et duxi eam 
+          <lb ed="#P" n="20"/>vxorem. alias: hoc est sub alio modo loquendi quam 
+          <lb ed="#P" n="21"/>vos gerarice loquimini / est soror mea. hoc est loquendo 
+          <lb ed="#P" n="22"/>sicut nos loquimur in patria nostra. sicut loth 
+          di<lb ed="#P" n="23" break="no"/>citur michi frater / Gene. xiii. Abraham probabiliter 
+          <lb ed="#P" n="24"/>iudicabat quod rex geraris pulchritudine mulieris 
+          al<lb ed="#P" n="25" break="no"/>lectus / interficeret abraham: et eam in vxorem 
+          duce<lb ed="#P" n="26" break="no"/>ret. si non fuisset adhuc in senectute eximie 
+          pulchri<lb ed="#P" n="27" break="no"/>tudinis a deo totaliter conseruata: abraham nullo 
+          <lb ed="#P" n="28"/>modo sic iudicasset: et sic abraham non mentitus est. 
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e509">
+          <lb ed="#P" n="29"/>¶ Sed replica est quod fefellit: vidit quod alter capiebat in 
+          <lb ed="#P" n="30"/>alio sensu: et arte verborum propositionem 
+          amphibolo<lb ed="#P" n="31" break="no"/>gicam protulit: in aliosensu non vsitato inter 
+          pale<lb ed="#P" n="32" break="no"/>stinos vsus est. libet verum dixit loquendo more patrie 
+          <lb ed="#P" n="33"/>sue. si britannus ego propositionem 
+          amphibologicam<lb ed="#P" n="34" break="no"/>proferrem parisii in sensu britannico qui sensus est 
+          <lb ed="#P" n="35"/>alienus a sensu parisiensium: et video quod parisianus 
+          <lb ed="#P" n="36"/>in alio capit sensu: diceret merito essem deceptor¶ 
+          Re<lb ed="#P" n="37" break="no"/>spondetur: Abraham iudicabat quod protegeretur a deo. 
+          <lb ed="#P" n="38"/>non obstante deus non erat temptandus. debuit 
+          primo<lb ed="#P" n="39" break="no"/>facere illa qua naturaliter facere poterat vt suum 
+          ho<lb ed="#P" n="40" break="no"/>micidium euitaret: et relinquere reliqua in manu dei: 
+          <lb ed="#P" n="41"/>quod et fecit. et hoc tangit glosa interlinearis. dum 
+          <lb ed="#P" n="42"/>habeat hoc quod faciat non debet deum temptare. ex 
+          <lb ed="#P" n="43"/>priore Pharaonis correctione certus erat quia 
+          viola<lb ed="#P" n="44" break="no"/>ri non poterat. sicut paulus fecit dum vocatus esset a 
+          <lb ed="#P" n="45"/>preside / antea etiam doctus de nocte quod in italiam 
+          pro<lb ed="#P" n="46" break="no"/>ficisceretur Actuum. xxiii. verum ergo abraham dixit 
+          <lb ed="#P" n="47"/>loquendo sicut ipse et sui vsi sunt in loquendo: et cum 
+          <lb ed="#P" n="48"/>causa sua erat iusta. et si hoc a deo habuit: nulla est 
+          <lb ed="#P" n="49"/>difficultas quod non peccauit: vt de iacob iam in priori 
+          ar<lb ed="#P" n="50" break="no"/>gumento diximus: iustam causam sic loquendi habuit 
+          <lb ed="#P" n="51"/>a deo concessam. etiam pharao non erat iudex 
+          abra<lb ed="#P" n="52" break="no"/>he quia non fuit ei data auctoritas vt aliquid faceret 
+          con<lb ed="#P" n="53" break="no"/>tra deum. secus est de me qui debeo loqui more 
+          commu<lb ed="#P" n="54" break="no"/>ni more parisiensium:t vti commni modo loquendi apud 
+          <lb ed="#P" n="55"/>eos.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e570">
+          ¶ Sed contra dicis: ex vtraque solutione 
+          sequi<lb ed="#P" n="56" break="no"/>tur quod deus dispensat in fallendo: patet: facitquod istud quod 
+          <lb ed="#P" n="57"/>esset fallere non sit fallereet peccatu. Iacob non 
+          po<lb ed="#P" n="58" break="no"/>terat iuste dixisse / ego sum filius tuus 
+          primogeni<lb ed="#P" n="59" break="no"/>tus Esau. Respondetur negando quod deus dispensat 
+          <lb ed="#P" n="60"/>in fallendo propterea: sed solum sequitur quod deus facit 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>aliquid esse viro iustum quod esset ei iniustum. si deus 
+          <lb ed="#P" n="62"/>daret michi caputium tuum: dicerem quod est meum: 
+          <lb ed="#P" n="63"/>et caperem: non te fallerem: sed verum dicerem: quia deus 
+          <lb ed="#P" n="64"/>mihi dominium caputii tui dedit. sic deus dedit 
+          Ia<lb ed="#P" n="65" break="no"/>cobius primogeniture: et fecit eum dicere verum secumdum 
+          <lb ed="#P" n="66"/>materiam subiectam. sic erat de abraham. 
+          Secun<lb ed="#P" n="67" break="no"/>do dici potest: forte sufficit quod ego loquar verum de 
+          vir<lb ed="#P" n="68" break="no"/>tute sermonis britannici in casu potissimum 
+          odio<lb ed="#P" n="69" break="no"/>so parisiensi: etiam vbi video quod ipse aliter intellexit: 
+          <lb ed="#P" n="70"/>potissimum si ipse esset michi aliquid mali 
+          machi<lb ed="#P" n="71" break="no"/>naturus / si responderem ad suam intelligentiam. 
+          ecce<lb ed="#P" n="72" break="no"/>quomodo tres patriarche a mendaciis excusantur. 
+          <lb ed="#P" n="73"/>reliquum est aliqua adhuc argumenta aliorum virorum 
+          <lb ed="#P" n="74"/>proborum in scriptura adducere.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e616">
+          ¶ Tertio 
+          argui<lb ed="#P" n="75" break="no"/>tur: Ioseph dixit fratribus exploratores estis / 
+          Ge<lb ed="#P" n="76" break="no"/>ne. xlii. et non assentiebat propositioni quam protulit: 
+          <lb ed="#P" n="77"/>ergo mendacium est licitum in viro specialiter a deo 
+          <lb ed="#P" n="78"/>protecto. Similiter Gene. xliiii. dixit fratribus suis. 
+          <lb ed="#P" n="79"/>Cyphum quem furati estis ipse est in quo bibit domins 
+          <lb ed="#P" n="80"/>meus et in quo augurari solet.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e632">
+          ¶ Quarto arguitur. 
+          hebrei<lb ed="#P" n="81" break="no"/>fefellerunt egyptos querentes bona eorum mutuo 
+          <lb ed="#P" n="82"/>et accommodato / Exodi. iii. et. xii. instigante deo: 
+          <lb ed="#P" n="83"/>et non peccauerunt: ergo fallere contingit sine 
+          pec<lb ed="#P" n="84" break="no"/>cato. illud patet Exodi. iii. dicitur. Et cum vos 
+          egre<lb ed="#P" n="85" break="no"/>diemin non exibitis vacui: sed postulabit mulier a 
+          vici<lb ed="#P" n="86" break="no"/>na sua et hospita sua vasa argentea et aurea / ac 
+          ve<lb ed="#P" n="87" break="no"/>stes. et Exodi. xii. scribitur. Dominus autem dedit gratiam 
+          <lb ed="#P" n="88"/>populo coram egyptiis vt comodarent eis et spolia 
+          <lb ed="#P" n="89"/>rent egyptios: modo qui capit comodato promit 
+          <lb ed="#P" n="90"/>tit restituere: quod hebrei non fecerunt. ergo egyptios 
+          <lb ed="#P" n="91"/>fefellerunt.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e659">
+          ¶ Ad tertium dicit nicholaus 
+          Ioseph<lb ed="#P" n="92" break="no"/>mentitus est. apostoli erant perfectiores istis qui 
+          veniali<lb ed="#P" n="93" break="no"/>ter peccarunt. Respondetur aliter: non est facile 
+          dampnan<lb ed="#P" n="94" break="no"/>dus in mendacio vir ita exemplaris qui in 
+          iuuentu<lb ed="#P" n="95" break="no"/>te domine sue vxori phutipharis non condescendit: 
+          <lb ed="#P" n="96"/>sed citius voluit incarcerari et mortem perpeti antnde 
+          <lb ed="#P" n="97"/>quam tale scelus committeret. nego quod peccauit vel quod 
+          <lb ed="#P" n="98"/>mentitus est: ironice et interrogatiue hoc dicit. 
+          quen<lb ed="#P" n="99" break="no"/>admodum ego dicerem philosophis / vos estis 
+          homici<lb ed="#P" n="100" break="no"/>cideet raptores. furati estis ciphum: hoc est / clanculum 
+          <lb ed="#P" n="101"/>habetis. est modus loquendi. si breuiarium meum ponam in 
+          <lb ed="#P" n="102"/>caputium tuum: et nescio vbi est: inueniens ipseet post explora 
+          <lb ed="#P" n="103"/>tionem dico iocose / furatus esbreuiarium meum. ad aliam 
+          <lb ed="#P" n="104"/>particulam de augurio. egyptii semper erant magni 
+          au<lb ed="#P" n="105" break="no"/>gures. Uerosimile est quod erat cyphus / in quo rex 
+          bibe<lb ed="#P" n="106" break="no"/>bat: et in quo augurari solet rex. sed quia de augurio 
+          <lb ed="#P" n="107"/>proprio loquutus est: dubitatur: Respondetur vno modo. loquaebatur 
+          <lb ed="#P" n="108"/>vt plures more egyptiorum eum reputantium augurem: 
+          <lb ed="#P" n="109"/>sicut virgo dixit. Luc. ii. Patertuus et ego dolentes 
+          <lb ed="#P" n="110"/>quaerebamus te. modus erat loquendi ita apud alios. 
+          Se<lb ed="#P" n="111" break="no"/>cundo dicitur. augurari proprie capiendo semper sonat in 
+          ma<lb ed="#P" n="112" break="no"/>lum: et sic non cepit Ioseph. Secundo latius sumitur: vt est 
+          <lb ed="#P" n="113"/>predicere futura. et ioseph fuit talis augur egregius: 
+          <lb ed="#P" n="114"/>vt patet Gene. xl. et. xli. noscis non est similis mei in arte 
+          <lb ed="#P" n="115"/>auguriandi. quando nicholaus dicit aliqui apostoli viris his non 
+          <lb ed="#P" n="116"/>in perfectiores venialiter peccarunt: vt Petrus ad 
+          <lb ed="#P" n="117"/>Galath. ii. Respondetur concedendo quod apostoli postquam erant 
+          <lb ed="#P" n="118"/>confirmati ex alio non erant inferiores patriarchis: 
+          <lb ed="#P" n="119"/>vel saltem circa finem vite. nec admittimus 
+          determina<lb ed="#P" n="120" break="no"/>tum veniale in apostolis / nisi vbiscriptura hoc pro 
+          <pb ed="#P" n="156-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>babiliter osedit. illud Ioannis in canonica non mouet: 
+          <lb ed="#P" n="2"/>Si dixerimus peccatum non habemus nosseipsos 
+          <lb ed="#P" n="3"/>seducimus et veritas in nobis non est. stat virum 
+          <lb ed="#P" n="4"/>non esse in peccato: et non dicere vel iudicare se non 
+          <lb ed="#P" n="5"/>esse in peccato. Delicta quis intelligit. Semper hi 
+          pa<lb ed="#P" n="6" break="no"/>tres exosum habebant mendatium. Iudas non 
+          equa<lb ed="#P" n="7" break="no"/>lis recitatis in bonitate / qui luxum cum thamar admi 
+          <lb ed="#P" n="8"/>sit mendatium multum abhorruit.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e746">
+          ¶ Ad quartum 
+          dici<lb ed="#P" n="9" break="no"/>tur / deus hebreis transtulit dominium rerum quas 
+          ab<lb ed="#P" n="10" break="no"/>egyptiis ceperunt: et dedit gratiam in oculis egyptio 
+          <lb ed="#P" n="11"/>rum quod darent eis si habebant quod hebrei petebant. 
+          <lb ed="#P" n="12"/>instigabat eos interius ad hoc dandum. hebrei 
+          ta<lb ed="#P" n="13" break="no"/>men ex stultitia sua poterant dixisse / date nobis 
+          ac<lb ed="#P" n="14" break="no"/>comodato vel mutuoet restituemus: vt citius 
+          allice<lb ed="#P" n="15" break="no"/>rent egyptios ad res dandas: intendentes non 
+          re<lb ed="#P" n="16" break="no"/>stituere: sed defraudare: tunc hebrei ex imprudentia 
+          <lb ed="#P" n="17"/>sua et malicia peccabant / non satis in deo confidentes: 
+          <lb ed="#P" n="18"/>qui dedisset gratiam in oculis egyptiorum dare eis omnia 
+          <lb ed="#P" n="19"/>que petebant.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e772">
+          ¶ Quinto arguitur. Dauid finxit se 
+          <lb ed="#P" n="20"/>furiosum coram Achis rege getis: et tamen non erat 
+          <lb ed="#P" n="21"/>talis: igitur: et non est dicendum quod peccauit: cum eum 
+          <lb ed="#P" n="22"/>inuenit deus secundum cor suum. quod finxit se furere patet: 
+          <lb ed="#P" n="23"/>quia sic dicit littera: et immutauit os suum coram Achis: 
+          <lb ed="#P" n="24"/>collabebatur inter manus eorum: et impingebat in 
+          ho<lb ed="#P" n="25" break="no"/>stia porte: diffluebantque saliue eius in barbam. et ait 
+          <lb ed="#P" n="26"/>Achis ad seruos suos: vidistis hominem insanum / 
+          qua<lb ed="#P" n="27" break="no"/>re adduxistis eum ad me. an desunt nobis furiosi / 
+          <lb ed="#P" n="28"/>introduxistis istum vt fureret me presente. 
+          Dimit<lb ed="#P" n="29" break="no"/>tite illum hinc ne ingrediatur domum meam. Dauid illic 
+          <lb ed="#P" n="30"/>mutauit os suum more stultorum aliena loquendo: et 
+          <lb ed="#P" n="31"/>collabebatur inter manus eorum: hoc est / cecidit 
+          mo<lb ed="#P" n="32" break="no"/>re epilentici: et impingebat in hostia porte. finxit se 
+          <lb ed="#P" n="33"/>intrare per ianuas clausas: et more stultorum pinxit 
+          <lb ed="#P" n="34"/>super hostia: et mouebat saliuam caute vt descenderet 
+          <lb ed="#P" n="35"/>super barbam.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e809">
+          ¶ Respondetur: licet Dauid in 
+          prospe<lb ed="#P" n="36" break="no"/>ritate non parum peccabat erga vriam et 
+          numeratio<lb ed="#P" n="37" break="no"/>onem populi: tamen in aduersis (more multorum) bene 
+          <lb ed="#P" n="38"/>se habebat: et multum abhorrebat mendacium: vt patet 
+          <lb ed="#P" n="39"/>ex. xxvii. c. primi Degum / de responsione ad regem 
+          <lb ed="#P" n="40"/>Achis: in qua dicebat quod perrexit contra meridiem 
+          <lb ed="#P" n="41"/>iudee. Propterea dicitur quod Dauid in isto facto non 
+          <lb ed="#P" n="42"/>peccauit: vsus est signis indifferentibus ad furiam 
+          <lb ed="#P" n="43"/>et non furiam: volens occultare verum: ad cuius 
+          occul<lb ed="#P" n="44" break="no"/>tationem licitam iudicabat circunstantes futuros 
+          dece<lb ed="#P" n="45" break="no"/>ptos. quia non occurrebat viro in angustiis posito alia 
+          <lb ed="#P" n="46"/>via euadendi: illic optime practicauit illud carmen. 
+          <lb ed="#P" n="47"/>Stulticiam simulare loco prudentia summa est. 
+          <lb ed="#P" n="48"/>Si in vocibus amphibologice licite hoc modo 
+          lo<lb ed="#P" n="49" break="no"/>quitur: vt de Abrahamet Iacob diximus: et cum 
+          <lb ed="#P" n="50"/>gestus non indicent ita determinate conceptum mentis 
+          <lb ed="#P" n="51"/>sicut voces: a fortiore licet vti duplicitate gestuum 
+          <lb ed="#P" n="52"/>quemadmodum fecit Dauid.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e848">
+          ¶ Sexto arguitur per illud 
+          <lb ed="#P" n="53"/>quod scribitur quarti aegum sexto. de rege sirie qui 
+          mi<lb ed="#P" n="54" break="no"/>sit exercitum ad capiendum heliseum qui tunc 
+          habita<lb ed="#P" n="55" break="no"/>bat in dothaim: dicebat famulo suo: plures enim 
+          <lb ed="#P" n="56"/>nobiscum sunt quam cum illis: quod erat falsum. et statin 
+          se<lb ed="#P" n="57" break="no"/>quitur post praeces helisei: et aperuit domins oculos 
+          pue<lb ed="#P" n="58" break="no"/>ri et vidit: et ecce mons plenus equorum et curruum 
+          <lb ed="#P" n="59"/>igneorum in circuitu helisei: et tamen nulli erant currus: 
+          <lb ed="#P" n="60"/>ergo famulus helisci decipiebatur. et paulopost se 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>quitur. Ad praeces helisei siri percussi sunt cecitate. sic 
+          <lb ed="#P" n="62"/>scribitur: percussitque eos domns ne viderent iuxta 
+          ver<lb ed="#P" n="63" break="no"/>bum helisei: ergo deus misit in eos errorem. 
+          Quar<lb ed="#P" n="64" break="no"/>to: propheta dixit siris: non est hec via / nec ipsa est 
+          <lb ed="#P" n="65"/>ciuitas: seque mini me et ostendam vobis virum quem 
+          <lb ed="#P" n="66"/>queritis. et tamen quesierunt eum in dothaym / in 
+          <lb ed="#P" n="67"/>qua vrbe ipse erat: et rectissime ibant in dothaym. 
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e885">
+          <lb ed="#P" n="68"/>¶ Ad sextum nego quod heliseus fallebat. hoc erat 
+          <lb ed="#P" n="69"/>verum: plures erant cum hheliseo quam cum siris: hoc est: 
+          <lb ed="#P" n="70"/>maior erat resistentia.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e895">
+          ¶ Ad secundam obiectionem 
+          <lb ed="#P" n="71"/>qua dicitur famulus helisei vidit motem plenum equis 
+          <lb ed="#P" n="72"/>et curribus ignitis. Aliqui dicunt quod hoc fuit secundum 
+          <lb ed="#P" n="73"/>sensum quod deus produxit iudicium erroneum in 
+          sen<lb ed="#P" n="74" break="no"/>sum: et non in intellectum. sed hoc non valet. 
+          pote<lb ed="#P" n="75" break="no"/>rat deus producere aliqua realiter quae apparerent 
+          cur<lb ed="#P" n="76" break="no"/>rus tam secundum sensum quam secundum intellectum 
+          famuli<lb ed="#P" n="77" break="no"/>helisei: et sic fallebatur a seipso.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e913">
+          ¶ Tertio poterant 
+          <lb ed="#P" n="78"/>esse de facto currus / igniti vt animaretur famulus 
+          heli<lb ed="#P" n="79" break="no"/>sei.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e920">
+          ¶ Ad tertium dicitur quod siri erant percussi cecitate: 
+          <lb ed="#P" n="80"/>id est: deus non concurrebat cum eis ad videndum vel ad 
+          <lb ed="#P" n="81"/>intelligendum: et sic non poterant recte iudicare: quia si 
+          <lb ed="#P" n="82"/>prima causa non concurrat ad effectum / causa secunda non 
+          <lb ed="#P" n="83"/>potest concurrere.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e931">
+          ¶ Ad quartum dicitur: licet 
+          he<lb ed="#P" n="84" break="no"/>liseus mansit interdum in Dothaym: communius 
+          tamen<lb ed="#P" n="85" break="no"/>mansit in samaria: quod patet quarti Regum quinto: 
+          vbi<lb ed="#P" n="86" break="no"/>iuuencula hebrea dicebat domine sue: vtinam fuisset 
+          do<lb ed="#P" n="87" break="no"/>minus meus ad prophetam qui est in samaria: 
+          profe<lb ed="#P" n="88" break="no"/>cto curasset eum a lepra quam habet. et propheta duxit 
+          si<lb ed="#P" n="89" break="no"/>ros ad samariam dicens eis: sequemini me et 
+          ostem<lb ed="#P" n="90" break="no"/>dam vobis virum quem queritis: quod verificabat. vel sic: 
+          <lb ed="#P" n="91"/>non est hec via ad habendum virum quem queritis: 
+          <lb ed="#P" n="92"/>nec est ista ciuitas in qua inuenietis eum. non laboro 
+          <lb ed="#P" n="93"/>excusare Iehu: licet egregie fecit occidendo 
+          sacer<lb ed="#P" n="94" break="no"/>dotes Baal: et zelo zelatus est pro domino 
+          exerci<lb ed="#P" n="95" break="no"/>tuum: quia non discessit a peccatis Ieroboam filii 
+          Na<lb ed="#P" n="96" break="no"/>batis. sed viros optimos non debemus dampnare in 
+          <lb ed="#P" n="97"/>mendatio / nisi vbi constiterit.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e964">
+          ¶ Septimo arguitur 
+          <lb ed="#P" n="98"/>per istud quod scribitur tertii Regum vltimo / de 
+          rege<lb ed="#P" n="99" break="no"/>israel decepto a prophetis dicit Micheas propheta. 
+          <lb ed="#P" n="100"/>Egressus est autem spiritus / et stetit coram domino / et ait: 
+          <lb ed="#P" n="101"/>ego decipiam illum. Cui locutus est domins: in quo: et 
+          <lb ed="#P" n="102"/>ille ait. Egrediar et ero spiritus mendax in ore omnium 
+          <lb ed="#P" n="103"/>prophetarum eius. Et dixit domins: decipies et preuale 
+          <lb ed="#P" n="104"/>his: egredere et fac ita.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e982">
+          ¶ Respondetur secundum 
+          Augu<lb ed="#P" n="105" break="no"/>stinum libro. lxxxiii. quaestionum. q. liii. Sicut deus 
+          per<lb ed="#P" n="106" break="no"/>seipsum neminem decipit: ita nec per angelum bonum nec 
+          <lb ed="#P" n="107"/>per hominem bonum. Sed si quis dignus sit decipi: de 
+          <lb ed="#P" n="108"/>us perniittit influentia generali illum decipi per malum an 
+          <lb ed="#P" n="109"/>gelum. sicut rex Achab qui deceptus est per malum 
+          <lb ed="#P" n="110"/>angelum: qui ad hoc non est missus: sed permissus. illud 
+          <lb ed="#P" n="111"/>enim verbum: egredere et fac ita: non est dictum 
+          impe<lb ed="#P" n="112" break="no"/>ratiue: sed permissiue vel praenunciatiue: vt tantum valet si 
+          <lb ed="#P" n="113"/>cut facies. sicut illud Ioannis. ii. Soluite templum 
+          <lb ed="#P" n="114"/>hoc. et Ioannis. xiii. quod facis fac citius.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1007">
+          ¶ Octauo 
+          <lb ed="#P" n="115"/>arguitur: christus finxit se longius ire / Luce vltimo. et 
+          <lb ed="#P" n="116"/>paulus dicebat / percutiat te paries dealbate: et 
+          <lb ed="#P" n="117"/>cum argueretur quod summum sacerdotem dei malediceret: 
+          <lb ed="#P" n="118"/>dicebat: nesciebam fratres quod princeps est sacerdotum. 
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1018">
+          <lb ed="#P" n="119"/>¶ Ad octauum dicitur. triplex est fictio vel simulatio: 
+          <lb ed="#P" n="120"/>scilicet cautele / doctrine / et deceptionis. Prima est in 
+          <pb ed="#P" n="156-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>iustis insidiis. Secunda fuit in christo qua docuit 
+          apo<lb ed="#P" n="2" break="no"/>stolos officium hospitalitatis. Undee coegerunt eum 
+          <lb ed="#P" n="3"/>dicentes / Mane nobiscum domine quanum aduesperascit / et 
+          <lb ed="#P" n="4"/>inclinata est iam dies / Luce vltimo. et mater docens 
+          <lb ed="#P" n="5"/>filium incidere / ostendit ei baculum vel 
+          brachia<lb ed="#P" n="6" break="no"/>propinqua retrocedens cum puerilus appropinquat 
+          <lb ed="#P" n="7"/>quatenus incidere addiscat. Tertia est simulatio 
+          <lb ed="#P" n="8"/>deceptionis que est mala.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1047">
+          ¶ Ad nonum de Paulo 
+          <lb ed="#P" n="9"/>respondetur: stat quod Paulus nesciebat an ille 
+          Ana<lb ed="#P" n="10" break="no"/>nias presens esset summus sacerdos. esto quod 
+          audi<lb ed="#P" n="11" break="no"/>uerit quod Ananias esset summus sacerdos: non 
+          tamen<lb ed="#P" n="12" break="no"/>cognouit eum visu et astantem. sicut nec ego facerem 
+          <lb ed="#P" n="13"/>Franciscum primum: esto quod assentiam huic franciscus est 
+          <lb ed="#P" n="14"/>rex. Secundo dicitur: translatum erat sacerdotium: quod 
+          <lb ed="#P" n="15"/>sciebat apostolus: et sic rectissime ad intentionem 
+          <lb ed="#P" n="16"/>locutus est.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1067">
+          ¶ Decimo arguitur de mulieribus 
+          pro<lb ed="#P" n="17" break="no"/>bis de quibus scriptura loquitur: sara negauit se post 
+          <lb ed="#P" n="18"/>hostium risisse. pari forma Rachel / vt patris 
+          laban<lb ed="#P" n="19" break="no"/>idola occultaret sub se: dicebat se morbo femineo 
+          <lb ed="#P" n="20"/>laborare. oppositum vtriusque erat verum. de 
+          obste<lb ed="#P" n="21" break="no"/>tricibus egiptiorum: de Raab meretrice: et de Iudith. 
+          <lb ed="#P" n="22"/>Mhulieres erant omens probe: et de deuoto femineo 
+          <lb ed="#P" n="23"/>sexu: quae communiter aut multum bone sunt / aut multum 
+          <lb ed="#P" n="24"/>praue: raro medium more virorum tenentes. iste in 
+          ar<lb ed="#P" n="25" break="no"/>gumento adducte non reliquerunt illud mulieribus 
+          <lb ed="#P" n="26"/>proprium. fallere / flere / nere. illi sexui iocose 
+          appli<lb ed="#P" n="27" break="no"/>cari potest illud alexandrinum: sed quia per sexum mulie 
+          <lb ed="#P" n="28"/>rum siue virorum noscuntur propria: hoc sic in praesentiarum 
+          <lb ed="#P" n="29"/>interpretor: mulierum proprietas siue accidens commune est 
+          <lb ed="#P" n="30"/>fallere et mentiri: patet: iste due probe mulieres ita 
+          fe<lb ed="#P" n="31" break="no"/>cerunt: quid erit de tota multitudine. secus est de 
+          vi<lb ed="#P" n="32" break="no"/>ris in tanto numero. concedo illas omens mentitas 
+          <lb ed="#P" n="33"/>fuisse. et licet comunter concedatur Iudith mentita fuisse: 
+          <lb ed="#P" n="34"/>possumus viduam illam sanctissimam hoc modo 
+          excu<lb ed="#P" n="35" break="no"/>sare. notum est mulierem posse se ornare quatenus 
+          vi<lb ed="#P" n="36" break="no"/>ro suo placeat secundum dictamen recte rationis: 
+          cui<lb ed="#P" n="37" break="no"/>propositioni aliam addo: sic licet mulieri se ornare 
+          <lb ed="#P" n="38"/>vt gratiam capiat in oculis truculentissimi hostis. 
+          <lb ed="#P" n="39"/>quemadmodum erat holofernes: vt patet per illa que 
+          <lb ed="#P" n="40"/>inaniter peregit ante obsidionem bethulie. licet ipsa 
+          <lb ed="#P" n="41"/>iudicabat quod holofernes libidinose moueretur eius 
+          <lb ed="#P" n="42"/>speciositatem contemplando: ipsa hoc non intendebat. 
+          <lb ed="#P" n="43"/>sed intendebat captare gratiam in oculis eius 
+          quate<lb ed="#P" n="44" break="no"/>nus ipsa libere ingrederetur et egrederetur tentorium 
+          <lb ed="#P" n="45"/>principis militie ad nutum: quem ipsa desiderare in 
+          <lb ed="#P" n="46"/>tendedati quia hoc poterat. erat iustum bellum ex 
+          par<lb ed="#P" n="47" break="no"/>te hebreorum. spuissancti instinctu peculiari ipsa 
+          hoc<lb ed="#P" n="48" break="no"/>attemptauit. et hoc sic deprehenditur: tota vita non 
+          <lb ed="#P" n="49"/>erat sanguinaria: ausu femineo / cum influentia de 
+          <lb ed="#P" n="50"/>generali / non est credibile quod ipsa hoc attemptasset. 
+          per<lb ed="#P" n="51" break="no"/>lotionem corporis et vestium nitorem volebat captare 
+          <lb ed="#P" n="52"/>gratiam maiorem in oculis principis. Iudith decimo 
+          <lb ed="#P" n="53"/>scribitur: lauit corpus suum et vnxit se myrtho 
+          opti<lb ed="#P" n="54" break="no"/>mo et discriminabat crinem capitis sui et imposuit 
+          <lb ed="#P" n="55"/>mitram super caput suum et induit se vestimentis 
+          iocundi<lb ed="#P" n="56" break="no"/>tatis sue. etcr. Cui domins contulit splendorem vt ipsa 
+          lon<lb ed="#P" n="57" break="no"/>ge speciosissima in omnium conspectibus appareret: in 
+          <lb ed="#P" n="58"/>his non peccauit. possumus exponere reliqua que 
+          <lb ed="#P" n="59"/>videntur esse mendacium. sed vero similius est quod ipsa 
+          <lb ed="#P" n="60"/>hona vidua aliqua mendacia adiecit: et garriendo 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>more femineo promisit plura quam expediebat pro 
+          oc<lb ed="#P" n="62" break="no"/>cidendo holoferne: vtpote quod ipsa duceret 
+          holofer<lb ed="#P" n="63" break="no"/>nem per mediam hierosolimam: et quod haberet omnem 
+          po<lb ed="#P" n="64" break="no"/>pulum israel: ad hoc spiritussanctus non coopabatur sed 
+          <lb ed="#P" n="65"/>mouebat eam quatenus holofernem occideret: dedit 
+          <lb ed="#P" n="66"/>illi speciositatem incredibilem: et disposuit 
+          holofer<lb ed="#P" n="67" break="no"/>nen et reliqua omnia vt facile occideretur: et eam ad 
+          homi<lb ed="#P" n="68" break="no"/>cidium instigauit. sed ipsa (de suo sexusapiens 
+          men<lb ed="#P" n="69" break="no"/>dacia officiosa adiecit.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1187">
+          ¶ Undecimo arguitur per illud 
+          <lb ed="#P" n="70"/>quod scribitur Ione tertio. adhuc quattuor dies et 
+          <lb ed="#P" n="71"/>niniue subuertetur: et hoc dixit imperante deo: et 
+          <lb ed="#P" n="72"/>tamen non ita euenit.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1196">
+          ¶ Duodecimo arguitur: 
+          Esai<lb ed="#P" n="73" break="no"/>as dixit Ezechie ex ore dei: dispone domui tue quia 
+          <lb ed="#P" n="74"/>morieris tu et non viues: et tamen ad fletum Ezechie ad 
+          <lb ed="#P" n="75"/>diti sunt. xv. anni: vt patet Esaie. xxxviii. igitur.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1206">
+          ¶ Ad 
+          <lb ed="#P" n="76"/>vndecimum dicitur: propheta hoc dixit comminatorie: 
+          <lb ed="#P" n="77"/>etiam conuersi erant quo ad mores. rex et omnes 
+          ieiuna<lb ed="#P" n="78" break="no"/>runt et conuerterunt se ad fletum.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1215">
+          ¶ Ad duodecimum 
+          <lb ed="#P" n="79"/>dicitur: secundum causas naturales Ezechias mori 
+          de<lb ed="#P" n="80" break="no"/>buit.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1222">
+          ¶ Decimotertio arguitur: circunstantia vite 
+          vni<lb ed="#P" n="81" break="no"/>us saluande facit mendacium quod fuisset mortale essetm 
+          <lb ed="#P" n="82"/>veniale: ergo similis circunstantia adhuc addita / 
+          <lb ed="#P" n="83"/>tollit illud veniale et facit non peccatum: tenet consequentia: 
+          <lb ed="#P" n="84"/>plus est tollere mortale et mutare in veniale quam 
+          tol<lb ed="#P" n="85" break="no"/>lere veniale.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1235">
+          ¶ Decimoquarto arguitur: aliquis potest 
+          <lb ed="#P" n="86"/>habere ignorantiam inuincibilem quod non est 
+          mentien<lb ed="#P" n="87" break="no"/>dum: talis mentiens non peccat: ergo aliquod 
+          menda<lb ed="#P" n="88" break="no"/>cium bene fit.
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1244">
+          ¶ Ad decimuntertium concedo antecedens: non 
+          <lb ed="#P" n="89"/>quod idem actus qui fuisset mortalis sine circunstantia / est 
+          <lb ed="#P" n="90"/>venialis per circunstantiam appositam: si circunstantia 
+          ca<lb ed="#P" n="91" break="no"/>dat in ratione obiecti. sed consequentia est nulla: posita illa 
+          <lb ed="#P" n="92"/>circunstantia et simili de vita vnius saluanda vel vita 
+          <lb ed="#P" n="93"/>mille hominim: semper cum est ratio mendacii est peccatu. 
+          <lb ed="#P" n="94"/>manet malicia generica actus: sed diminuitur 
+          mali<lb ed="#P" n="95" break="no"/>cia venialis per appositionem vite multorum. ad 
+          pro<lb ed="#P" n="96" break="no"/>bationem consequene / negetur quod vtrobique illud quod tollit a 
+          <lb ed="#P" n="97"/>maiore maius / tollit tantum a minore. contritio de 
+          ma<lb ed="#P" n="98" break="no"/>iore culpa plus tollit quam de minore: et maius est 
+          tol<lb ed="#P" n="99" break="no"/>lere culpam: et penam eternam in temporalem commutare: quad 
+          <lb ed="#P" n="100"/>penam paruam temporalem tollere: et tamen medietas 
+          <lb ed="#P" n="101"/>cuiuscumque contritionis primum facit et non secundum. 
+        </p>
+        <p xml:id="jm3cbb-e94201-d1e1275">
+          <lb ed="#P" n="102"/>¶ Ad. xiiii. negetur quod hic sit ignorantia inuincibilis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

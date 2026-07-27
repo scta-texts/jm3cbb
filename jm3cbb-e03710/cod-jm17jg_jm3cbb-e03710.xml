@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="6-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e03710"><!-- l3d2q1 -->
+        <head xml:id="jm3cbb-e03710-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e03710-Hd1e101" type="question-title">Utrum verbum potuerit assumere naturam irrationabilem?</head>
+        <p xml:id="jm3cbb-e03710-d1e104">
+          ¶ 
+          Cir<lb ed="#P" n="121" break="no"/>ca hanc quaestionem dubitatur: an congruum fuit deum incar¬ 
+          <pb ed="#P" n="7-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nari.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e115">
+          ¶ Secundo dubitatur: quare deus reparat et 
+          <lb ed="#P" n="2"/>redemit naturam humanam: et non angelicam.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e120">
+          ¶ 
+          Ter<lb ed="#P" n="3" break="no"/>tio: quare deus expectauit ita diu antequam incarnatus est. 
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e126">
+          <lb ed="#P" n="4"/>¶ Ad primam dubitationem dicitur quod sic. quanto 
+          per<lb ed="#P" n="5" break="no"/>sona est maior tanto magis ei conuenit humilitas 
+          <lb ed="#P" n="6"/>secundum illud ecclus iii. Ouanto maior es humilia te in 
+          <lb ed="#P" n="7"/>omnibus: ergo cum deus est maximus: et in carnis 
+          as<lb ed="#P" n="8" break="no"/>sumptione fuit maxima humilitas: sic quod seipsum ex 
+          <lb ed="#P" n="9"/>inaniuit formam serui accipiens ad philippem. 
+          ii<lb ed="#P" n="10" break="no"/>ergo congruebat incarnari vt nobis humilitatis 
+          <lb ed="#P" n="11"/>daret exemplum. Insuper: quanto domins maior est 
+          tan<lb ed="#P" n="12" break="no"/>to magis decet eum facere gratiam: sed secundum Au. xiii. 
+          <lb ed="#P" n="13"/>de trini. c. xix. in rebus per tempus ortis summa est 
+          <lb ed="#P" n="14"/>gratia quod homo in vnitate persone coniunctus est 
+          <lb ed="#P" n="15"/>deo: ergo maxime congruum fuit deum incarnari. 
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e155">
+          <lb ed="#P" n="16"/>¶ Ad secundam dubitationem dicitur: causa 
+          princi<lb ed="#P" n="17" break="no"/>lis est voluntas redemptoris: sed congruentie sunt 
+          <lb ed="#P" n="18"/>ad hoc: decuit deum humiliari ex praecedenti dubita 
+          <lb ed="#P" n="19"/>tione: et maior erat apparentia hum ilitatis 
+          formam<lb ed="#P" n="20" break="no"/>humanam accipiens quam angelicam. propterea 
+          semen<lb ed="#P" n="21" break="no"/>abrahe apprehendit: et nunquam angelos: ad hebre. 
+          <lb ed="#P" n="22"/>ii. etiam homo magis a nobis cognoscibilis est 
+          <lb ed="#P" n="23"/>pro hoc statu. et angelus peccauit nullo 
+          instigan<lb ed="#P" n="24" break="no"/>te potissimum supremus angelorum in malicia: et alii 
+          <lb ed="#P" n="25"/>omnes habebant clarissima naturalia ad ei resistendum 
+          <lb ed="#P" n="26"/>et non ceciderant vniuersaliter. mulier seducta est a 
+          <lb ed="#P" n="27"/>serpente: tamen post peccatum admissum adam multum 
+          <lb ed="#P" n="28"/>alliciebatur ad peccandum ab vxore que data est ei 
+          <lb ed="#P" n="29"/>in adiutorium: et genus humanum totum ceciderat: ergo 
+          <lb ed="#P" n="30"/>magis decuit hominem reparari quam angelum.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e190">
+          ¶ Ad 
+          <lb ed="#P" n="31"/>tertium dubium dicitur: quod facile et cito impetratur 
+          mi<lb ed="#P" n="32" break="no"/>nus appreciamur. cui applaudit glosa i. Reg. iii. 
+          <lb ed="#P" n="33"/>c. super illa propositione: sermo dei erat precio sus 
+          <lb ed="#P" n="34"/>id est rarus. secundum diuerbium commune. omne rarum 
+          <lb ed="#P" n="35"/>carum. et doctrina comparata magno ero 
+          aui<lb ed="#P" n="36" break="no"/>dius suscipitur quam gratis exhibita in multis: secundum 
+          <lb ed="#P" n="37"/>illud commune: plus valet empta satis sapientia quam data 
+          <lb ed="#P" n="38"/>gratis: sed beneficium reparationis est maximum 
+          <lb ed="#P" n="39"/>secundum auctoritatem Aug. xiii. de trini. recitatam in 
+          solu<lb ed="#P" n="40" break="no"/>tione ad primam dubitationem: ergo congruebat 
+          sa<lb ed="#P" n="41" break="no"/>pientissimum opificem (quamadmodum deus est ) non solum 
+          ho<lb ed="#P" n="42" break="no"/>nestum facere sed tempore honesto. omnia tempus hasent 
+          <lb ed="#P" n="43"/>rca hanc 
+          distin<lb ed="#P" n="44" break="no"/>ctionem secundam quero quat 
+          <lb ed="#P" n="45"/>tuor. Primo: vtrum verbum 
+          po<lb ed="#P" n="46" break="no"/>tuerit assumere naturam irra 
+          <lb ed="#P" n="47"/>tionabilem. Secundo: an deus 
+          po<lb ed="#P" n="48" break="no"/>tuit assumere naturam 
+          rationa<lb ed="#P" n="49" break="no"/>lem non fruentem deo. Tertio: an 
+          <lb ed="#P" n="50"/>natura tota humana prius fuerit assumpta quam partes 
+          <lb ed="#P" n="51"/>vel econuerso. Quarto quaeritur: an simul tempore 
+          fue<lb ed="#P" n="52" break="no"/>rit carnis conceptio: vniocarnis / et anime / et vtriusque 
+          <lb ed="#P" n="53"/>assumptio: ad diuine persone vnitatem.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e242">
+          ¶ Circa 
+          pri<lb ed="#P" n="54" break="no"/>mam istarum questionum expediendam: notum est quod 
+          ver<lb ed="#P" n="55" break="no"/>bum assumpsit naturam rationalem scilicet humanitatem 
+          <lb ed="#P" n="56"/>christi ex corpore et anima conflatam. sed in questio 
+          <lb ed="#P" n="57"/>ne loquimur de dei potentia absoluta: an verbum 
+          <lb ed="#P" n="58"/>possit vel poterit assumere ei naturam irrationalem. 
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e255">
+          <lb ed="#P" n="59"/>¶ Circa presentem questionem due sunt vie opposite 
+          <lb ed="#P" n="60"/>quaerum vna est henrici gandens quinto quodlibeto 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>partem negatiuam tenentis: quam Ioannes picus in 
+          <lb ed="#P" n="62"/>apologia conclusione quarta insequitur 
+          Middil<lb ed="#P" n="63" break="no"/>to vvnde (qui henricum praecessit vel contemporaneus erat ) 
+          <lb ed="#P" n="64"/>materiam tenet probleumaticam. Tertia est via 
+          <lb ed="#P" n="65"/>(que sicut est communior / sic verior ) partem 
+          affirma<lb ed="#P" n="66" break="no"/>tiuam tenens.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e277">
+          ¶ Propterea ponitur hec conclusio: 
+          ver<lb ed="#P" n="67" break="no"/>bum potest assumere naturam irrationalem vl natura non 
+          <lb ed="#P" n="68"/>rationalem: probatur: verbum de facto semel assupsit 
+          <lb ed="#P" n="69"/>naturam non rationalem: ergo naturam non rationalem 
+          <lb ed="#P" n="70"/>assumere potest: consequentia est notissima a minus am 
+          plo<lb ed="#P" n="71" break="no"/>ad maius amplum minoris ampli limites 
+          transcem<lb ed="#P" n="72" break="no"/>dens. antecdens patet: in triduo anima christi fuit separata 
+          <lb ed="#P" n="73"/>a suo corpore: et ipsum non informauit: alias non 
+          <lb ed="#P" n="74"/>fuisset mortuus in triduo contra articulum fidei: 
+          <lb ed="#P" n="75"/>nec corpus / illud forma cadaueris informabatur vel 
+          <lb ed="#P" n="76"/>aliqua alia. et si alia: non impeditur propositum cum 
+          <lb ed="#P" n="77"/>non sit rationalis: et tamen adhuc corpus christi fuit in 
+          <lb ed="#P" n="78"/>triduo a verbo assumptum. quod semel assumpsit numquam 
+          <lb ed="#P" n="79"/>dereliquit secundum Augu. damascenum: et omnes quo 
+          <lb ed="#P" n="80"/>ad partes essentiales.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e311">
+          ¶ Huic argumento respondere 
+          <lb ed="#P" n="81"/>conantur dicentes quod corpus christi fuit assumptum a 
+          <lb ed="#P" n="82"/>verbo propter ordinem quem habebat ad animam 
+          ratio<lb ed="#P" n="83" break="no"/>nalem: sicut materia ad propriam formam et ad 
+          to<lb ed="#P" n="84" break="no"/>tam naturam humanam quae est natura rationalis tanquam 
+          <lb ed="#P" n="85"/>pars ad totum. et sic non est simile de aliis naturis 
+          <lb ed="#P" n="86"/>non rationabilibus non habentibus similem habitudinem ad 
+          <lb ed="#P" n="87"/>animam.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e329">
+          ¶ hec euacuatio est nulla realiter: semper 
+          <lb ed="#P" n="88"/>habetur quod verbum fuit vnitum corpori quod non erat 
+          <lb ed="#P" n="89"/>rationale in triduo. nec vlla est apparens solutio 
+          <lb ed="#P" n="90"/>sed solum sophistica euacuatio. Iste gabriel hanc 
+          po<lb ed="#P" n="91" break="no"/>sitionem defendens dicit: si gratia vnionis tolleretur 
+          <lb ed="#P" n="92"/>ab anima: non tantum anima: sed corpus etiam in 
+          sepul<lb ed="#P" n="93" break="no"/>chro fuisset derelictum: subiungens: ne illud videatur 
+          <lb ed="#P" n="94"/>esse confictum placet adducere verba alexandri parte 
+          <lb ed="#P" n="95"/>tertia. q. xi. et cs. dico illam conditionalem 
+          impos<lb ed="#P" n="96" break="no"/>sibilem. poterat gratia vnionis tolli ab anima 
+          manen<lb ed="#P" n="97" break="no"/>te vnione ad corpus. vna non essentialitur dependit 
+          ab<lb ed="#P" n="98" break="no"/>alia: testimonium alexandri est nullum nisi suum dictum 
+          <lb ed="#P" n="99"/>probet. dicit alexander sic. in triduo mortis 
+          vnie<lb ed="#P" n="100" break="no"/>batur diuinitas corpori mediante anima: quanuis etiam 
+          <lb ed="#P" n="101"/>eeet seperata a corpore. nam anima ex qua vniturcorpori 
+          re<lb ed="#P" n="102" break="no"/>linquit in corpore dispositionem quae remanet in 
+          cor<lb ed="#P" n="103" break="no"/>pore separata anima ab ipso: et illa dispositio est 
+          <lb ed="#P" n="104"/>ipsius anime sicut effectus quidam: et propter hoc 
+          <lb ed="#P" n="105"/>quicquid fit per illam dispositionem vel mediante illa 
+          <lb ed="#P" n="106"/>fit mediante anima: quia mediante effectu anime 
+          <lb ed="#P" n="107"/>tanquam sue cause proxime: et per longum declarat in 
+          fi<lb ed="#P" n="108" break="no"/>ne subdens: in corpore iesu christi manet 
+          disposi<lb ed="#P" n="109" break="no"/>tio ad diuinam vnionem seperata anima: per quam 
+          disposi<lb ed="#P" n="110" break="no"/>tionem manet vnio corperis ad deitatem. quia quaelibet 
+          ma<lb ed="#P" n="111" break="no"/>teria sortitur proprictatem a dispositione sue forme. et 
+          <lb ed="#P" n="112"/>anima christi separata a corpore illud quod ex anima 
+          <lb ed="#P" n="113"/>erat in corpore: sed impressum fuit medium vel 
+          <lb ed="#P" n="114"/>dispositio vnionis corporis ad diuinitatem. quod 
+          <lb ed="#P" n="115"/>sic intelligendum puto: quod propter illam impressionem vel 
+          <lb ed="#P" n="116"/>dispositionem in corpe derelictam ipsum dependebat 
+          <lb ed="#P" n="117"/>ad animam tanquam ad formam ad quam naturaliter 
+          in<lb ed="#P" n="118" break="no"/>clinabatur: et per eam ad suppositum anime quod est 
+          <lb ed="#P" n="119"/>verbum: non quod illa impressio fuerit gratia vnionis 
+          <lb ed="#P" n="120"/>nec per llam immediate vnitum suerit verbo. sed quod per 
+          <lb ed="#P" n="121"/>illam immediate dependebat ad animam: licet seperatam 
+          <pb ed="#P" n="7-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>et mediante anima per gratiam vnionis anime mediate 
+          <lb ed="#P" n="2"/>ad verbum: et cum consequenter arguitur: non 
+          <lb ed="#P" n="3"/>refert quod prius vnita fuit anime rationali: negetur. 
+          <lb ed="#P" n="4"/>et similiter negetur quod verbum alia vnione vniuerit 
+          <lb ed="#P" n="5"/>sibi animam et alia carnem: sed eadem gratia vnionis 
+          <lb ed="#P" n="6"/>vniuit sibi animam et carnem et totam naturam 
+          huma<lb ed="#P" n="7" break="no"/>nam: nam sicut vna gratia existente in anima 
+          beati<lb ed="#P" n="8" break="no"/>petri in celo acceptat pulueres suos: siue corporis 
+          <lb ed="#P" n="9"/>remunerandi ad gloriam: quae est quedam vnio gratui 
+          <lb ed="#P" n="10"/>ta: et nisi anima petri informet non acceptarentur 
+          <lb ed="#P" n="11"/>eius reliquie ad gloriam: totus denique dicitur sanctus 
+          <lb ed="#P" n="12"/>et beatus secundum corpus et animam licet diuersimode: 
+          <lb ed="#P" n="13"/>Ita in proposito: propter gratiam vnionis in 
+          anima<lb ed="#P" n="14" break="no"/>christi corpus separatum fuit ipostatice verbo 
+          vni<lb ed="#P" n="15" break="no"/>tum. Dico hic / multa tam ab isto quam ab alexandro 
+          <lb ed="#P" n="16"/>dicta respuenda: falsum est dictum quod vniebatur 
+          corpo<lb ed="#P" n="17" break="no"/>ri mediante anima: immo licet anime non vniretur 
+          pos<lb ed="#P" n="18" break="no"/>set corpori vniri: nec requiritur aliqua dispositio 
+          in<lb ed="#P" n="19" break="no"/>corpore ad hoc tanquam effectus anime. Insuper: si illa 
+          <lb ed="#P" n="20"/>dispositio requireretur et sufficeret dato quod deus 
+          ani<lb ed="#P" n="21" break="no"/>mam annichilaret: verbum potest assumere corpus et 
+          <lb ed="#P" n="22"/>non mediante anima: quia anima non est. de gratia 
+          vnio<lb ed="#P" n="23" break="no"/>nis in questione sequente loquar. Falsum est insuper 
+          <lb ed="#P" n="24"/>quod non potest verbum prius vniri corpori absque hoc 
+          <lb ed="#P" n="25"/>quod fuerit anime vnitum.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e464">
+          ¶ Secundo arguitur ad 
+          ean<lb ed="#P" n="26" break="no"/>dem conclusionem: non est magis determinata natura 
+          <lb ed="#P" n="27"/>irrationalis ad proprium suppositum quam natura 
+          ra<lb ed="#P" n="28" break="no"/>tionalis: quia non suppositat perfectius naturam suam quam 
+          <lb ed="#P" n="29"/>suppositum rationale: sed vrtute diuima natura rationalis 
+          <lb ed="#P" n="30"/>suppositatur supposito diuino: ergo irrationalis 
+          <lb ed="#P" n="31"/>vel non rationalis negatiue suppositari potest. 
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e480">
+          <lb ed="#P" n="32"/>¶ Tertio arguitur: deus potest assumere in vnio 
+          <lb ed="#P" n="33"/>nem sibi omne illud quod non implicat: sed brutum 
+          <lb ed="#P" n="34"/>vel naturam non irrationalem assumi a verbo non 
+          im<lb ed="#P" n="35" break="no"/>plicat: igitur. Propter hec ergo dico: verbum diuinum 
+          <lb ed="#P" n="36"/>potest assumere omnem naturam creatam in aliquam 
+          <lb ed="#P" n="37"/>vnionem: naturam suppositabilem in vnitatem suppositi: 
+          <lb ed="#P" n="38"/>et naturam personabilem in vnitatem persone: et alias 
+          <lb ed="#P" n="39"/>naturas in alias vniones. Preuiter potest sibi vnire 
+          <lb ed="#P" n="40"/>naturam secundum talem. denominationem qualem habere vel 
+          <lb ed="#P" n="41"/>dare potest natura assumpta.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e504">
+          ¶ Contra hanc 
+          con<lb ed="#P" n="42" break="no"/>clusionem arguitur sic: ex ea sequitur possibilitas 
+          hu<lb ed="#P" n="43" break="no"/>ius conclusionis: deus est asinus: et omnis asinus est 
+          <lb ed="#P" n="44"/>animal stolidum: ergo deus est animal stolidum. 
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e513">
+          <lb ed="#P" n="45"/>¶ Secundo: sequitur quod hec est possibilis: aliquis 
+          <lb ed="#P" n="46"/>comedet seipsum: patet: ponendo quod verbum assumat 
+          <lb ed="#P" n="47"/>cibum assumptum. sed ista sunt inconuenientia: igitur 
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e523">
+          <lb ed="#P" n="48"/>¶ Ad primum: concedo possibilitatem illius deus est 
+          <lb ed="#P" n="49"/>asinus. deus habet longas aures: sed nego hanc: omnis asinus 
+          <lb ed="#P" n="50"/>est animal stolidum: capiendo ly asinus 
+          connotati<lb ed="#P" n="51" break="no"/>ue: in illo casu asinus / ille esset omne sciens.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e534">
+          ¶ Ad se 
+          <lb ed="#P" n="52"/>cundum illatum: dicitur quod ipsum non est inconueniens secundum 
+          <lb ed="#P" n="53"/>diuersas naturas: quamadmodum idem generat se. 
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e541">
+          <lb ed="#P" n="54"/>¶ Tertio arguitur: ex ista conclusione sequitur quod deus 
+          <lb ed="#P" n="55"/>potest assumere naturam que nescit se esse assumptam 
+          <lb ed="#P" n="56"/>quod videtur inconueniens. consequentia est clara
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e550">
+          ¶ 
+          Quar<lb ed="#P" n="57" break="no"/>to: sequitur quod deus / peccatum potest assumere: et sic deus 
+          <lb ed="#P" n="58"/>peccat per comunicationem ydiomatum: quod sequatur 
+          pa<lb ed="#P" n="59" break="no"/>tet: omnem naturam creatam deus potest assumere: quia 
+          <lb ed="#P" n="60"/>non est potior ratio de vna natura quam quaelibet: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e561">
+          <lb ed="#P" n="61"/>¶ Ad tertium: concedo illatum: ipsum erat verum 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>in triduo: corpus christi fuit assumptum in 
+          tri<lb ed="#P" n="63" break="no"/>duo: et corpus hoc nesciebat vel ignorabat 
+          igno<lb ed="#P" n="64" break="no"/>rantia pure negationis.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e574">
+          ¶ Ad quartum: concedo 
+          <lb ed="#P" n="65"/>conclusionem pro vt proponitur de virtute sermonis. 
+          <lb ed="#P" n="66"/>quia quacumque entitate data quae est peccatum: ipsa 
+          po<lb ed="#P" n="67" break="no"/>test poni extra subiectum: et tunc non erit peccatum. 
+          <lb ed="#P" n="68"/>sed deus non potest assumere peccatum.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e586">
+          ¶ Contra: 
+          <lb ed="#P" n="69"/>deus potest assumere cecum vel orbatum in aliquo 
+          men<lb ed="#P" n="70" break="no"/>bro: et talia sunt peccata in natura: secundo 
+          phisico<lb ed="#P" n="71" break="no"/>rum.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e595">
+          ¶ Respondetur: negaui de peccato pro vt 
+          ipsum<lb ed="#P" n="72" break="no"/>dicit culpam: monstra et huumodi potest assumere: 
+          in<lb ed="#P" n="73" break="no"/>conueniens est et per consequens impossibile quod de 
+          <lb ed="#P" n="74"/>us assumat peccatum et peccat.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e604">
+          ¶ Sed contra hoc 
+          <lb ed="#P" n="75"/>arguitur: sortes potest facere peccatum: et si deus non 
+          <lb ed="#P" n="76"/>potest facere peccatum et peccare: sequitur quod sortes 
+          po<lb ed="#P" n="77" break="no"/>test aliquid facere quod non potest facere deus.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e613">
+          ¶ 
+          Re<lb ed="#P" n="78" break="no"/>spondetur: concedendo illas premissas: et negando 
+          <lb ed="#P" n="79"/>conclusionem illatam. solum concludendum est: 
+          aliquali<lb ed="#P" n="80" break="no"/>ter potest facere sortes qualiter non potest 
+          facere<lb ed="#P" n="81" break="no"/>deus: quod est verum: quia oblique et male agere: ei 
+          <lb ed="#P" n="82"/>deus non potest taliter agere. et hoc non arguit 
+          po<lb ed="#P" n="83" break="no"/>tentiam in sorte et impotentiam in deo: sed summam 
+          per<lb ed="#P" n="84" break="no"/>fectionem in deo: et defectibilitatem in sorte. cum hoc 
+          <lb ed="#P" n="85"/>stat: quancunqe rem sortes potest partialiter 
+          pro<lb ed="#P" n="86" break="no"/>ducere: illam potest deus partialiter producere et 
+          <lb ed="#P" n="87"/>se solo producere.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e637">
+          ¶ Quinto arguitur: deus non 
+          <lb ed="#P" n="88"/>potest assumere albedinem in vnitatem suppositi vel 
+          <lb ed="#P" n="89"/>persone: ergo nullam rem potest assumere in 
+          vnita<lb ed="#P" n="90" break="no"/>tem persone. tenet consequentia. equalis est ratio in 
+          <lb ed="#P" n="91"/>omnibus. antecedens patet: albedo non est 
+          supposita<lb ed="#P" n="92" break="no"/>bilis.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e650">
+          ¶ Sexto arguitur: si deus assumat 
+          albedi<lb ed="#P" n="93" break="no"/>nem: non erit albus: et si sic nullam denominationem 
+          po<lb ed="#P" n="94" break="no"/>test dare deo: et quicquid a deo assumitur potest 
+          <lb ed="#P" n="95"/>dare denominationem aliquam ei. assumptum patet: ni 
+          <lb ed="#P" n="96"/>chil est album nisi quod in se habet albedinem 
+          sufficien<lb ed="#P" n="97" break="no"/>tem denomnare totum: vel habet naturam albam assuma 
+          <lb ed="#P" n="98"/>ptam.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e667">
+          ¶ Ad quintum: concedo quod deus non potest assume 
+          <lb ed="#P" n="99"/>re albedinem in vnitatem suppositi. albedo non est 
+          <lb ed="#P" n="100"/>suppositabilis. ad hoc quod aliquid sit 
+          suppositabi<lb ed="#P" n="101" break="no"/>le requiritur quod ipsum sibi relictum potest esse suppositum: vt 
+          <lb ed="#P" n="102"/>in distinctione praecedenti diximus.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e678">
+          ¶ Ad sextum: 
+          tran<lb ed="#P" n="103" break="no"/>seat quod deus non erit albus: albedo tamen potest 
+          <lb ed="#P" n="104"/>dare ei aliquam denominationem: deus dicetur 
+          susten<lb ed="#P" n="105" break="no"/>tans albedinem.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e687">
+          ¶ Septimo arguitur: angelus non 
+          <lb ed="#P" n="106"/>potest esse asinus: ergo nec deus est asinus.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e692">
+          ¶ 
+          Oc<lb ed="#P" n="107" break="no"/>tauo: in deo non differunt velle et posse: sed deus no 
+          <lb ed="#P" n="108"/>luit esse asinus: ergo non potest esse asinus.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e699">
+          ¶ Ad se 
+          <lb ed="#P" n="109"/>ptimum: nego antecedens: connotatiue captis 
+          termi<lb ed="#P" n="110" break="no"/>nis: patet. si deus assumeret asinumet angelum.
+        </p>
+        <p xml:id="jm3cbb-e03710-d1e706">
+          ¶ Ad 
+          <lb ed="#P" n="111"/>octauum: dicitur consequentia est nulla. Unum est hic 
+          <lb ed="#P" n="112"/>quod memorie dabis: imprudens est arguens in 
+          scola<lb ed="#P" n="113" break="no"/>publica inferens coram laicorum multitudine tales 
+          <lb ed="#P" n="114"/>conclusiones: deus potest esse vacca: et assumere 
+          <lb ed="#P" n="115"/>stramina: et tunc se comedet. vel si assumat murem 
+          <lb ed="#P" n="116"/>et caseum: inferendo idem rodit seipsum. assumendo 
+          <lb ed="#P" n="117"/>calorem et frigus: contrariabitur sibiipsi: deus est 
+          <lb ed="#P" n="118"/>bufo: deus est serpens: et ita de multi 
+          conclusioni<lb ed="#P" n="119" break="no"/>bus quas intulimus pro intelligentibus. ratio 
+          qua<lb ed="#P" n="120" break="no"/>re iste est imprudens: protinus ingeniosus re 
+          spois<lb ed="#P" n="121" break="no"/>dens concedet concedenda: et tunc arguens sfabit 
+          <lb ed="#P" n="122"/>confuse tantum. Secundo imperitum vulgus 
+          <pb ed="#P" n="8-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>scandalizatur de talibus deu¬ ponitur: concedatur 
+          <lb ed="#P" n="2"/>possibilis: deus peccat: impossibilis: et sic hec 
+          <lb ed="#P" n="3"/>deus errat: deus decipitur: licet in in solubilibus 
+          <lb ed="#P" n="4"/>pro talibus ego erro ego decipior potest esse 
+          dif<lb ed="#P" n="5" break="no"/>ficultas in qua in presentiarum non immorabor: quia 
+          <lb ed="#P" n="6"/>assensus istorum non est falsus: et sic hec: deus 
+          damna<lb ed="#P" n="7" break="no"/>tur ratione culpe negabitur. quod deus penam 
+          tol<lb ed="#P" n="8" break="no"/>leret: non inconuenit. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

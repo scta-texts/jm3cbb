@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="4-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e01890"><!-- l3d1q3 -->
+        <head xml:id="jm3cbb-e01890-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e01890-Hd1e101" type="question-title">An eadem natura creata potest assumi in eodem tempore
+    adaequato a pluribus suppositis in divinis</head>
+        <p xml:id="jm3cbb-e01890-d1e104">
+          <pb ed="#P" n="4-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>TErtio circa hanc 
+          <lb ed="#P" n="2"/>primam distinctionem quero 
+          <lb ed="#P" n="3"/>an eadem natura creata potest 
+          <lb ed="#P" n="4"/>assumi in eodem tempore 
+          ad<lb ed="#P" n="5" break="no"/>equato a pluribus suppositis 
+          <lb ed="#P" n="6"/>in diuinis: vtpote a qualibet 
+          <lb ed="#P" n="7"/>trium personarum in diuinis: 
+          <lb ed="#P" n="8"/>vel a duabus. quesiui in eodem tempore adequa 
+          <lb ed="#P" n="9"/>to: successiue non est dubium. hec questio habet 
+          <lb ed="#P" n="10"/>varios partes oppositas quaestiones tenentes. 
+          ali<lb ed="#P" n="11" break="no"/>qui tenent partem negatiuam quorum praecipua ratio 
+          <lb ed="#P" n="12"/>est: quod nichil potest dependere a pluribus causis 
+          <lb ed="#P" n="13"/>totalibus. aliis placet pars affirmatiua.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e139">
+          ¶ Circa 
+          <lb ed="#P" n="14"/>questionem primo dicam de veritate illius dicti 
+          <lb ed="#P" n="15"/>methaphisici: an idem effectus posset a pluribus 
+          cau<lb ed="#P" n="16" break="no"/>sis totalibus dependere: quia ex hoc in parte (vt 
+          <lb ed="#P" n="17"/>aliqui putant ) questionis solutio dependet. 
+          Secun<lb ed="#P" n="18" break="no"/>do ad questionis titulum respondebo. Quo ad 
+          <lb ed="#P" n="19"/>primum aliquas distinctiones premittam. Causarum 
+          <lb ed="#P" n="20"/>quedam sunt eiusdem ordinis: et sunt cause in eo 
+          <lb ed="#P" n="21"/>dem genere cause eque prime et eiusdem speciei: 
+          <lb ed="#P" n="22"/>vt duo homines nauim trahentes. cause 
+          alteri<lb ed="#P" n="23" break="no"/>us ordinis sunt cause / speciuoce distincte 
+          essen<lb ed="#P" n="24" break="no"/>tialiter subordinate secundum prius et posterius vt 
+          sol<lb ed="#P" n="25" break="no"/>et homo in hominis generatione. Secunda 
+          causa<lb ed="#P" n="26" break="no"/>rum partitio. causarum eiusdem ordinis quedam est 
+          <lb ed="#P" n="27"/>totalis: que non eget alia eiusdem ordinis in illo 
+          <lb ed="#P" n="28"/>genere cause ad secum concausandum: sed ipsa per se 
+          suf<lb ed="#P" n="29" break="no"/>ficit. sed causa partialis est que in illo genere non 
+          <lb ed="#P" n="30"/>sufficit ad causandum effectum sine alia: vt 
+          duo<lb ed="#P" n="31" break="no"/>homines nauim trahentes que ab altero tantum 
+          tra<lb ed="#P" n="32" break="no"/>hi non potest. omnes cause efficientes sunt eiusdem 
+          <lb ed="#P" n="33"/>generis cause inter se: sicut omnes materiales 
+          <lb ed="#P" n="34"/>sunt eiusdem generis cause inter se. sed due cause 
+          <lb ed="#P" n="35"/>quarum vna est efficiens: et altera materialis: sunt al 
+          <lb ed="#P" n="36"/>terius generis cause.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e191">
+          ¶ His paucis canrum partitio 
+          <lb ed="#P" n="37"/>nibus prelibatis pono tres conlusiones. Quarum 
+          <lb ed="#P" n="38"/>pima est: eiusdem effectus sunt plures cause totales 
+          <lb ed="#P" n="39"/>alterius generis cause: secundo phisicorum. et quinto 
+          <lb ed="#P" n="40"/>methaphisice hoc patet statue factor et es sunt 
+          cau<lb ed="#P" n="41" break="no"/>se statue: non curando de illo exemplo: sortes habet 
+          <lb ed="#P" n="42"/>causam materialem. formalem et efficientem.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e208">
+          ¶ Secunda 
+          <lb ed="#P" n="43"/>conclusio eiusdem effectus possunt esse plures cause 
+          <lb ed="#P" n="44"/>totales eiusdem generis et alterius ordinis. patet 
+          <lb ed="#P" n="45"/>de sole et homine respectu hominis: de sole et boue 
+          re<lb ed="#P" n="46" break="no"/>spectu bouis.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e219">
+          ¶ Tertia conclusio: effectus ab alid 
+          <lb ed="#P" n="47"/>bus causis effectum attingentibus naturaliter 
+          pro<lb ed="#P" n="48" break="no"/>ductus: non potest ille idem numero ab aliis natu 
+          <lb ed="#P" n="49"/>ralibus causis produci: hoc est. idem effectus non 
+          <lb ed="#P" n="50"/>potest produci a duabus causis totalibus: hoc est 
+          <lb ed="#P" n="51"/>sufficientibus. probatur hec conclusio: opposito istius 
+          <lb ed="#P" n="52"/>conclusionis dato: sequitur quod proprie corruptum 
+          <lb ed="#P" n="53"/>potest naturaliter idem numero reproduci: quod 
+          ari<lb ed="#P" n="54" break="no"/>stoteles secundo de generatione reprobat. 
+          consequen<lb ed="#P" n="55" break="no"/>tia patet: si. c. effectus producibilis ab a causa es 
+          <lb ed="#P" n="56"/>fectum attingente potest a b. causa produci: 
+          nichil<lb ed="#P" n="57" break="no"/>obstat quin producetur a b. cum producebatur 
+          se<lb ed="#P" n="58" break="no"/>mel aba. quia c. dependet tantum a b. sicut ab a. 
+          Se<lb ed="#P" n="59" break="no"/>cundo arguitur ad idem: noticia intuitiua 
+          produ<lb ed="#P" n="60" break="no"/>cta ab a. obiecto nullo modo potest produci a b. obie¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>cto: alioquin noticia intuitiua singularis vnius 
+          <lb ed="#P" n="62"/>obiecti potest aliud obiectum representare quod falsum 
+          <lb ed="#P" n="63"/>suppono: et suppositio declaratur in tertia distinctio 
+          <lb ed="#P" n="64"/>ne secundi semper noticia intuitiua repesentat obiectum 
+          <lb ed="#P" n="65"/>a quo partialiter producitur: nolo dicere quod sit de 
+          ra<lb ed="#P" n="66" break="no"/>tione noticie intuitiue / quod repesentet omnem suam 
+          cau<lb ed="#P" n="67" break="no"/>sam effectiuam: non repssentat deum: nec ipsam 
+          animam<lb ed="#P" n="68" break="no"/>nisi ipsa fuerit obiectum alicuius noticie intuitiue: et 
+          <lb ed="#P" n="69"/>si deus se solo produceret noticiam a obiecti: nullam 
+          <lb ed="#P" n="70"/>suam causam effectiuam repsentaret: sed semper 
+          noti<lb ed="#P" n="71" break="no"/>cia intuitiua naturalitur repesentat suum obiectum: quod 
+          <lb ed="#P" n="72"/>ipsam partialiter producit.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e280">
+          ¶ Contra hanc tertiam 
+          con<lb ed="#P" n="73" break="no"/>clusionem arguitur sic: calor vt quattuor in aquae 
+          pro<lb ed="#P" n="74" break="no"/>ductus ab a. igne conseruatur a b. igne: remoto a. 
+          <lb ed="#P" n="75"/>igne: sed conseruare est causare ex prima distinctione 
+          <lb ed="#P" n="76"/>secundi. ergo effectus productus abvna causa effectum 
+          <lb ed="#P" n="77"/>attingente produci potest ab alia causa.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e293">
+          ¶ Secundo 
+          <lb ed="#P" n="78"/>arguitur. si duo ignes essent mutuo penetratiue a. 
+          <lb ed="#P" n="79"/>et b. produceretur idem calor ab vtroque illorum: igitur 
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e300">
+          <lb ed="#P" n="80"/>¶ Tertio arguitur: si duo luminosa obiiciantur 
+          be<lb ed="#P" n="81" break="no"/>opaco causant eandest vmbram: quia non percipis 
+          du<lb ed="#P" n="82" break="no"/>as vmbras de nocte vel die. et vmbra est effectus : 
+          <lb ed="#P" n="83"/>quia lumen secundarium corporis luminosi vel 
+          corpo<lb ed="#P" n="84" break="no"/>rum luminosorum ex. xiii. distinctione secundi. igitur. similir 
+          <lb ed="#P" n="85"/>aliquis propter duos fines potest adire forum: 
+          ergo<lb ed="#P" n="86" break="no"/>pari ratione idem effectus potest produci a duabus 
+          <lb ed="#P" n="87"/>causis efficientibus
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e320">
+          ¶ finaliter arguitur: ignis nunc 
+          <lb ed="#P" n="88"/>non producit vnum gradum caloris plusquam alium: nisi 
+          pro<lb ed="#P" n="89" break="no"/>quanto determinatur a prima causa ad productionem 
+          hu<lb ed="#P" n="90" break="no"/>ius caloris vel huius ignis: sed libere prima 
+          cau<lb ed="#P" n="91" break="no"/>sa determinat ignem ad hunc effectum nunc: ergo potest 
+          <lb ed="#P" n="92"/>eum determinare nunc ad productionem alterius ignis 
+          <lb ed="#P" n="93"/>vel ad productionem eiusdem postea.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e337">
+          ¶ Respondetur 
+          <lb ed="#P" n="94"/>ad primum: negando quod b. ignis possit conseruare 
+          ca<lb ed="#P" n="95" break="no"/>lorem productum ab a igne: notum est quod b. ouum non 
+          po<lb ed="#P" n="96" break="no"/>test conseruare noticiam productam ab a. ouo: nec 
+          ra<lb ed="#P" n="97" break="no"/>tio aliqua probat oppositum hic: licet aqua 
+          calefa<lb ed="#P" n="98" break="no"/>cta ab a igne posita prope b. ignem maneat 
+          conti<lb ed="#P" n="99" break="no"/>nuo calefacta: hoc non est quia calor productus 
+          <lb ed="#P" n="100"/>aba. conseruetur a b. igne: sed b. ignis intendit calorem 
+          <lb ed="#P" n="101"/>aque proportionabiliter sicut remittitur a 
+          forma<lb ed="#P" n="102" break="no"/>substantiali: supposito quod sit tante actiuitatis sicut 
+          <lb ed="#P" n="103"/>a. ignis. calor a. ignis remittitur a forma 
+          substan<lb ed="#P" n="104" break="no"/>tiali aque ita cito prope contrarium ac si non esset 
+          con<lb ed="#P" n="105" break="no"/>trarium. et hoc tenendo hanc solutionem 
+          probabilem<lb ed="#P" n="106" break="no"/>oppositum non est improbabile: vt alibi diximus. 
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e368">
+          <lb ed="#P" n="107"/>¶ Ad secundum argumentum: concedo quod aliquis calor 
+          p<lb ed="#P" n="108" break="no"/>ducitur ab a. et b. ignibus copulatim: non autem 
+          co<lb ed="#P" n="109" break="no"/>pulatiue. calor producibilis aba. non est 
+          producibi<lb ed="#P" n="110" break="no"/>lis a b.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e379">
+          ¶ Tertium argumentum similiter soluitur. 
+          ar<lb ed="#P" n="111" break="no"/>gumentu de finibus non est ponderandum: quia 
+          ser<lb ed="#P" n="112" break="no"/>mo est de causis efficientibus naturalibus. volitio 
+          <lb ed="#P" n="113"/>nes producte ab vna causa non producuntur ab alia. 
+          <lb ed="#P" n="114"/>motus localis est mobile quod mouetur: vel si 
+          pona<lb ed="#P" n="115" break="no"/>tur ens succeffiuum: quod est probabile: motus 
+          loca<lb ed="#P" n="116" break="no"/>lis productus ab vno mouente non estur producibilis 
+          <lb ed="#P" n="117"/>ab alio copulatiue: non tamen nego quin quelibet 
+          dua<lb ed="#P" n="118" break="no"/>rum causarum naturalium producat vnum totum 
+          effe<lb ed="#P" n="119" break="no"/>ctum: sed non totaliter.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e401">
+          ¶ Ad argumentum finale 
+          <lb ed="#P" n="120"/>quod mouet quendam doctorem ad tenendum 
+          opposi<lb ed="#P" n="121" break="no"/>tum: ipsum habet apparentiam. Ad quod dico: licee 
+          <pb ed="#P" n="4-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>deus determinet agens secundum ad 
+          productio<lb ed="#P" n="2" break="no"/>nem vnius effectus ante alium: ille effectus cadit in 
+          <lb ed="#P" n="3"/>ambitu illius agentis: non tamen potest facere vnum 
+          <lb ed="#P" n="4"/>agens producere effectum alterius agentis: saltem 
+          <lb ed="#P" n="5"/>non habetur in agentibus creatis: immo non videtur 
+          <lb ed="#P" n="6"/>quod possit facere calorem frigefacere aut frigus 
+          cale<lb ed="#P" n="7" break="no"/>facere: quia hoc est tollere omnem causalitatem a causis 
+          <lb ed="#P" n="8"/>secundis. Et argumentum istius doctoris refello: quia 
+          <lb ed="#P" n="9"/>in ipso plurimum confidit: hoc non concedit de 
+          notici<lb ed="#P" n="10" break="no"/>is et conceptibus vitalibus. Sed probo quod 
+          argu<lb ed="#P" n="11" break="no"/>mentum suum equaliter concludat contra se sicut 
+          pro<lb ed="#P" n="12" break="no"/>se: quod sic declaro: a albedo potest producere mille 
+          <lb ed="#P" n="13"/>noticias: immo infinitas sui: quaro ab arguente 
+          qua<lb ed="#P" n="14" break="no"/>re citius producit hanc noticiam nunc quam illam: cum vtram 
+          <lb ed="#P" n="15"/>que istarum producit successiue. Si eas ad libertatem 
+          <lb ed="#P" n="16"/>dei determinantis nunc ad hunc effectum et non alium: 
+          <lb ed="#P" n="17"/>cum hoc tamen non potest facere per te quod vnum obiectum 
+          <lb ed="#P" n="18"/>producat noticiam alterius: sic dico vtrobique
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e451">
+          ¶ hoc 
+          <lb ed="#P" n="19"/>methaphisico praemisso veniendum est ad titulum que 
+          <lb ed="#P" n="20"/>stionis qua querebatur: an tres persone in diuinis 
+          <lb ed="#P" n="21"/>possunt simul eandem naturam assumere. hic sunt due 
+          <lb ed="#P" n="22"/>positiones opposite: quarum vna tenet partem 
+          affir<lb ed="#P" n="23" break="no"/>matiuam: que innititur opposito tertie 
+          conclusio<lb ed="#P" n="24" break="no"/>nis. Alia partem negatiuam tenet. fundamentum 
+          <lb ed="#P" n="25"/>prioris positionis iam reprobauimus. partem 
+          negati<lb ed="#P" n="26" break="no"/>uam tenet quidem alius subtilis doctor questione 
+          <lb ed="#P" n="27"/>secunda huius distinc. Diddilto vvnde quaestione 
+          quar<lb ed="#P" n="28" break="no"/>ta. huius distinctionis dicit: quod si primus terminus 
+          isti<lb ed="#P" n="29" break="no"/>us vnionis sit essentia diuina: iam eadem natura 
+          <lb ed="#P" n="30"/>potest assumi a tribus personis mediante vna essem 
+          <lb ed="#P" n="31"/>tia existente in tribus: sicut vna albedo potest esse 
+          <lb ed="#P" n="32"/>in tribus corporibus: si vna superficies in qua est esset 
+          <lb ed="#P" n="33"/>in eis. Sed si primus terminus / istius vnionis est 
+          perso<lb ed="#P" n="34" break="no"/>na: tunc nulla vna natura potest simul assumi a tribus 
+          <lb ed="#P" n="35"/>personis. quia in omni dependentia essentiali vnum 
+          <lb ed="#P" n="36"/>dependens non dependet precise nisi vnum quod 
+          <lb ed="#P" n="37"/>totaliter terminat eius dependentiam. Hanc 
+          opi<lb ed="#P" n="38" break="no"/>nionem non credo veram: nec motiua eius / in proposito 
+          <lb ed="#P" n="39"/>efficaciam habere: propterea
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e499">
+          ¶ Ponitur hec conclusio 
+          <lb ed="#P" n="40"/>eandem naturam humanam a tribus diuinis suppositis 
+          si<lb ed="#P" n="41" break="no"/>mul assumi est possibile: probatur hec conclusio: 
+          <lb ed="#P" n="42"/>eadem natura humana potest assumi a tribus 
+          se<lb ed="#P" n="43" break="no"/>cundario: si essentia diuina esset primo terminus 
+          <lb ed="#P" n="44"/>vnionis: vt opinans dicit. sed idem sequetur 
+          in<lb ed="#P" n="45" break="no"/>conueniens ad hoc (si inconueniens sit) quod seque 
+          <lb ed="#P" n="46"/>tur ad illud quod ipse negat: quia idem effectus de 
+          <lb ed="#P" n="47"/>pendet a pluribus causis sufficientibus 
+          secunda<lb ed="#P" n="48" break="no"/>riis. Secundo arguitur ad idem: eadem albedo 
+          <lb ed="#P" n="49"/>potest inherere duobus subiectis primis: a 
+          quo<lb ed="#P" n="50" break="no"/>rum quolibet dependet: quia potest poni in 
+          duo<lb ed="#P" n="51" break="no"/>bus locis eadem albedo (sicut recte ipse tenet ) 
+          <lb ed="#P" n="52"/>pono quod in vno loco inhereat a subiecto: hec 
+          albe<lb ed="#P" n="53" break="no"/>do potest non inherere in alio loco et postea potest 
+          <lb ed="#P" n="54"/>snherere b. subiecto: et perconsequens simul 
+          in<lb ed="#P" n="55" break="no"/>herebit duobus subiectis. vere est michi 
+          mirabi<lb ed="#P" n="56" break="no"/>le quomodo neget possibilitatem huius casus. 
+          <lb ed="#P" n="57"/>pariforma quomodo neget quod eadem forma non 
+          <lb ed="#P" n="58"/>posset informare diuersas materias totales. 
+          Ter<lb ed="#P" n="59" break="no"/>tio arguitur: deus potest omne illud facere quod non 
+          <lb ed="#P" n="60"/>tmplicat contradictionem: quia non est impossibile 
+          <lb ed="#P" n="61"/>apud deum omne vrbum: sed nulla sequetur contradi¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>ctio ad tres personas simul assumere eandem 
+          na<lb ed="#P" n="63" break="no"/>turam: vt argumentorum solutionibus patebit. 
+          <lb ed="#P" n="64"/>Quarto arguitur: ad vnionem ypostaticam 
+          verbi<lb ed="#P" n="65" break="no"/>defacto equaliter quelibet persona in diuinis 
+          <lb ed="#P" n="66"/>concurrit: sed vna solum terminat: puta verbum: ergo 
+          <lb ed="#P" n="67"/>non habes propterea si eadem natura creata a tribus 
+          <lb ed="#P" n="68"/>suppositis assumatur: quod plus dependeat ab vna quam ab 
+          <lb ed="#P" n="69"/>alia. et ita est nunc de facto: et plures possunt esse 
+          <lb ed="#P" n="70"/>termini respectu eiusdem sundamenti et plures 
+          <lb ed="#P" n="71"/>relationes in illo vt patet in aliis. Confirmatur 
+          <lb ed="#P" n="72"/>hec ratio: vel quinto arguitur: plures relationes 
+          <lb ed="#P" n="73"/>possunt esse in eodem fundamento respectu 
+          plu<lb ed="#P" n="74" break="no"/>rium terminorum: patet de sorte habente multos 
+          fi<lb ed="#P" n="75" break="no"/>lios: ergo in humanitate assumpta a verbo possunt 
+          <lb ed="#P" n="76"/>esse plures vniones ad diuimas personas. Hoc 
+          ar<lb ed="#P" n="77" break="no"/>gumentum duco contra aduersarios qui 
+          ponuui<lb ed="#P" n="78" break="no"/>relationes distingui a fundamento et termino. 
+          <lb ed="#P" n="79"/>Sed dicis: non repugnat relationi: vnde relatio 
+          <lb ed="#P" n="80"/>est quod plures sint in eodem subieeto: sed bene 
+          vn<lb ed="#P" n="81" break="no"/>de talis relatio. Sexto arguitur: secundum istum 
+          docto<lb ed="#P" n="82" break="no"/>rem distinctione. xliii. quarti idem effectus 
+          po<lb ed="#P" n="83" break="no"/>test produci a pluribus causis copulatiue. 
+          simi<lb ed="#P" n="84" break="no"/>liter distinctione. xx. secundi. si adam non peccasset 
+          <lb ed="#P" n="85"/>soli electi nati fuissent: et per consequens beata 
+          <lb ed="#P" n="86"/>barbara: beata christina: et huiusmodi poterant fuisse 
+          <lb ed="#P" n="87"/>ab aliis parentibus: ergo idem effectus potest 
+          <lb ed="#P" n="88"/>esse a pluribus causis.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e611">
+          ¶ Propter has rationes te 
+          <lb ed="#P" n="89"/>neo has duas conclusiones: quarum prior est iam 
+          <lb ed="#P" n="90"/>posita quod eadem natura potest assumi a pluribus 
+          <lb ed="#P" n="91"/>suppositis diuinis: siue ab omnibus tribus 
+          eque<lb ed="#P" n="92" break="no"/>primo: sine a duobus eque primo: vel primo ab 
+          <lb ed="#P" n="93"/>vna persona: et stante illa potest assumi a duabus 
+          <lb ed="#P" n="94"/>aliis.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e627">
+          ¶ Secund a conclusio: essentia potest esse 
+          pri<lb ed="#P" n="95" break="no"/>mus terminus vnionis cuiuscumqe alterius 
+          natu<lb ed="#P" n="96" break="no"/>re create: patet: ipsa natura est independens: 
+          po<lb ed="#P" n="97" break="no"/>tens cuiuscumque nature create dependentiam termt 
+          <lb ed="#P" n="98"/>nare: sicut persona in diuinis quelibet potest 
+          na<lb ed="#P" n="99" break="no"/>turam quamcumque in vnionem ypostaticam 
+          as<lb ed="#P" n="100" break="no"/>sumere.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e643">
+          ¶ Contra priorem istarum conclusionum 
+          <lb ed="#P" n="101"/>arguitur per argumenta quibus doctor prefatus 
+          <lb ed="#P" n="102"/>tenet oppositum Primo sic: quia essentia diuina 
+          <lb ed="#P" n="103"/>concluditur esse infinita ex hoc quod ipsa eadam 
+          po<lb ed="#P" n="104" break="no"/>test esso in tribus / personis: igitur ista natura esset 
+          <lb ed="#P" n="105"/>infinita si posset esse in pluribus personis: 
+          proba<lb ed="#P" n="106" break="no"/>tur consequentia: quia qua ratione posset esse in 
+          <lb ed="#P" n="107"/>duabus personis pari ratione et in infinitis. si eti 
+          <lb ed="#P" n="108"/>am simul posset aliqua habere plures 
+          personali<lb ed="#P" n="109" break="no"/>tates perfectas increatas igitur posset habcre 
+          per<lb ed="#P" n="110" break="no"/>sonalitatem creatam et increatam: vel plures creatas: 
+          <lb ed="#P" n="111"/>quia non magis repugnant simul esse personalitas 
+          crea<lb ed="#P" n="112" break="no"/>taet increata natura vna: quam due personalitates 
+          increa<lb ed="#P" n="113" break="no"/>te quarum vtraque supplet vicem perfecte 
+          personali<lb ed="#P" n="114" break="no"/>tatis create. d Respondetur: quod essentia diuina est 
+          <lb ed="#P" n="115"/>eadem tribus personis: et ex ista idemptitate 
+          se<lb ed="#P" n="116" break="no"/>quitur quod sit infinita. illa autem natura affumpta 
+          <lb ed="#P" n="117"/>non esset eadem illis tribus personis: sed 
+          aduen<lb ed="#P" n="118" break="no"/>ticia: licet simul esset in eis. similiter natura 
+          diui<lb ed="#P" n="119" break="no"/>na fundat tres relationes et tres personalitates 
+          <lb ed="#P" n="120"/>increatas: et ex hoc sequitur eius infinitas: illa 
+          <lb ed="#P" n="121"/>auem natura aduenticia non fundaret eas. hec est 
+          so<lb ed="#P" n="122" break="no"/>lutio guillermi vatronis: et recta quo ad priorem 
+          <pb ed="#P" n="5-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>partem. de hoc quod natura diuina fundat tres 
+          rela<lb ed="#P" n="2" break="no"/>tiones nunc missum facio.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e702">
+          ¶ Contra hanc solutionem 
+          <lb ed="#P" n="3"/>replicat iste doctor: quia ficut forma substantia 
+          <lb ed="#P" n="4"/>lis: si substantialiter perficeret plura supposita 
+          <lb ed="#P" n="5"/>esset actualiter illimitata: ita accidens consequens 
+          <lb ed="#P" n="6"/>quod accidentaliter perficeret eadem supposita esset 
+          il<lb ed="#P" n="7" break="no"/>limitatum. exemplum: sicut anima est illimitata ad 
+          per<lb ed="#P" n="8" break="no"/>ficiendum plures partes corporis substantiales: ita 
+          <lb ed="#P" n="9"/>scientia est accidens illimitatum respectu partium 
+          <lb ed="#P" n="10"/>corporis: igitur sicut essentia diuina quae est essentia 
+          <lb ed="#P" n="11"/>liter natura trium suppositorum est infinita: qua 
+          <lb ed="#P" n="12"/>si natura essentialis eorum. ita natura humana 
+          es<lb ed="#P" n="13" break="no"/>set infinita licet efset aduenticia pluribus 
+          supposi<lb ed="#P" n="14" break="no"/>tis. Respondeo: negando si forma subftantialis 
+          per<lb ed="#P" n="15" break="no"/>ficeret substantialiter plura supposita quod ipsa 
+          es<lb ed="#P" n="16" break="no"/>set propterea infinita. dico defacto si deus 
+          vel<lb ed="#P" n="17" break="no"/>let potest eandem animam ponere informatiue 
+          <lb ed="#P" n="18"/>in omnium hominum corpora: sicut eadem anima nunc 
+          <lb ed="#P" n="19"/>informat plures partes corporis: ita potest 
+          cor<lb ed="#P" n="20" break="no"/>pora totalia si deus velit: et per eandem formam 
+          nu<lb ed="#P" n="21" break="no"/>mero essent centum milia hominiim totalium distinctorum: 
+          <lb ed="#P" n="22"/>ad distinctionem duorum hominum sufficit distinctio 
+          <lb ed="#P" n="23"/>partium: quemadmodum brachium distinguitur a tibia 
+          <lb ed="#P" n="24"/>in eod est homine. Similiter accidens idem numero 
+          <lb ed="#P" n="25"/>potest esse in quibuscumque subiectis: vel infinitis: 
+          <lb ed="#P" n="26"/>pecumdum quod deo placuerit. Ad aliam partem argumenti: 
+          <lb ed="#P" n="27"/>concedo quod eadem natura potest dependere ab 
+          infi<lb ed="#P" n="28" break="no"/>nitis personis si essent. sed si persona creata assu 
+          <lb ed="#P" n="29"/>matur desinit esse persona: est repugnantia in adie 
+          <lb ed="#P" n="30"/>cto quod persona assumat personam: patet ex questione 
+          <lb ed="#P" n="31"/>precedenti: si aliquid assumptum fuerit ipsum est de 
+          <lb ed="#P" n="32"/>pendens: et si sit persona est independens. quo fit: 
+          <lb ed="#P" n="33"/>hec consequentia est nulla: multiplicato supposito 
+          <lb ed="#P" n="34"/>creato in se multiplicatur natura: ergo 
+          multipli<lb ed="#P" n="35" break="no"/>cato supposito increato multiplicabitur natura. 
+          <lb ed="#P" n="36"/>quodlibet fuppositum creatum est natura creata idem 
+          <lb ed="#P" n="37"/>ptice. sed tenendo quod vnum fuppositum creatum posset 
+          <lb ed="#P" n="38"/>vnire ypostatice naturam creatam: de quo inferius 
+          <lb ed="#P" n="39"/>loquemur: tunc dico mille supposita creata 
+          pos<lb ed="#P" n="40" break="no"/>sunt eandem naturam creatam afsumere. sed sicut fant 
+          <lb ed="#P" n="41"/>mille supposita assumentia sic mille sunt nature 
+          as<lb ed="#P" n="42" break="no"/>sumentes.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e791">
+          ¶ Sed contra hoc sic arguo: ponat 
+          sor<lb ed="#P" n="43" break="no"/>tes in duobus locis in vno loco assumatur: in alio 
+          <lb ed="#P" n="44"/>loco non assumatur: iam est dependens et 
+          indepen<lb ed="#P" n="45" break="no"/>dens: siue persona et non persona. Hoc 
+          argumen<lb ed="#P" n="46" break="no"/>tum est facile: admitto quod potest assumi in vno 
+          lo<lb ed="#P" n="47" break="no"/>co et non in alio: quamadmodum sortes potest esse cecus 
+          <lb ed="#P" n="48"/>in vno loco et videns in alio. ex quo nullo pacto 
+          <lb ed="#P" n="49"/>sequitur quod est cecus et videns: sicut diximus. x. 
+          di<lb ed="#P" n="50" break="no"/>stinctione quarti: semper negabitur consequens cu 
+          <lb ed="#P" n="51"/>consequentia / arguendo a parte ad totum cum 
+          dictio<lb ed="#P" n="52" break="no"/>ne negationem includente. sic cum istis terminis 
+          sup<lb ed="#P" n="53" break="no"/>positum persona: considerando terminorum naturas 
+          <lb ed="#P" n="54"/>quomdo negationem includent.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e820">
+          ¶ Tertis arguitur: au 
+          <lb ed="#P" n="55"/>ctoritate anselmi de incarnatione verbi capitulo 
+          <lb ed="#P" n="56"/>tertio dicentis: diuersas personas vnam eandemque 
+          <lb ed="#P" n="57"/>personam esse cum vno eodemque homine nequit 
+          intelli<lb ed="#P" n="58" break="no"/>gi. et secundo cur deus homo capitulo nono dicit: 
+          plu<lb ed="#P" n="59" break="no"/>res persone eundem hominem nequeunt assumere ad 
+          <lb ed="#P" n="60"/>vnitatem persone: sed in vna persona necesse est 
+          fie<lb ed="#P" n="61" break="no"/>ci vnionem.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e839">
+          ¶ Respondetur: anselmus intendit quod non 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>est possibile quod tres persone diuinr simul sint vna 
+          <lb ed="#P" n="63"/>persona cum eodem homine assumpto: ita quod si est 
+          as<lb ed="#P" n="64" break="no"/>sumptio ad vnitatem persone: non tamen oportet quod hoc 
+          <lb ed="#P" n="65"/>sitr in vna persona: quia impossibile est concurrere 
+          plu<lb ed="#P" n="66" break="no"/>res diuinas personas in vnam personam. quia licet 
+          pa<lb ed="#P" n="67" break="no"/>ter et filius eafidem naturam huinanam assumant: non 
+          <lb ed="#P" n="68"/>sunt vnus homo. quod probo. quia da oppositum: 
+          pa<lb ed="#P" n="69" break="no"/>ter et filius sunt vnus homo: et cum homo stet 
+          de<lb ed="#P" n="70" break="no"/>terminate: ergo sunt iste vnus homo: demonstram 
+          <lb ed="#P" n="71"/>do patrem: vel ille vnus homo: demonstrando filium. 
+          <lb ed="#P" n="72"/>consequens est disiunctiua pro vtraque sui parte 
+          fal<lb ed="#P" n="73" break="no"/>sa. quia pater et filius non sunt iste vnus homo / 
+          de<lb ed="#P" n="74" break="no"/>monstrando patrem: nee ille homo: demonstrando 
+          fi<lb ed="#P" n="75" break="no"/>lium: et hoc potissimum capiendo et complexiue: non 
+          sto<lb ed="#P" n="76" break="no"/>iam in talibus: parisius et rome venditur piper: 
+          <lb ed="#P" n="77"/>sortes et brunellus est animal: an sint vere in 
+          sensu<lb ed="#P" n="78" break="no"/>cathegorico: quia probabile est quod sic: complexiue 
+          er<lb ed="#P" n="79" break="no"/>go capto cop. lato ista est vera patur et filius sunt 
+          <lb ed="#P" n="80"/>plures homines: quia duo homines per eandm est 
+          huma<lb ed="#P" n="81" break="no"/>nitatem: et si eadem anima informaret viginti materias 
+          <lb ed="#P" n="82"/>totales (quod dico des posfibile ) iam essent viginti 
+          <lb ed="#P" n="83"/>homines. Regula illa appellationum de 
+          significatio<lb ed="#P" n="84" break="no"/>ne vnius termini cadente in formale alterius non 
+          <lb ed="#P" n="85"/>habet verum in terminis numeralibus. si cadem 
+          <lb ed="#P" n="86"/>anima informaret duas materias distinctas: 
+          es<lb ed="#P" n="87" break="no"/>sent duo animata et non vnum solum animatum.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e900">
+          ¶ Quarto 
+          <lb ed="#P" n="88"/>arguitur: est nisi vna dependentia in vna 
+          humani<lb ed="#P" n="89" break="no"/>tate: ergo ipsa non potest dependere a pluribus 
+          <lb ed="#P" n="90"/>suppositis diuinis.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e909">
+          ¶ Quinto arguitur sequitur ex 
+          <lb ed="#P" n="91"/>dictis quod pater potest assumere christum consequaens 
+          <lb ed="#P" n="92"/>est inconueniens. Ad quartum dico: dependentia 
+          rea<lb ed="#P" n="93" break="no"/>biter est res dependens: et eo modo quo est vnitas 
+          <lb ed="#P" n="94"/>in natura assumpta: est vnitas dependentie: sicut 
+          <lb ed="#P" n="95"/>est vna conseruatio passiua eius a tribus personis 
+          <lb ed="#P" n="96"/>in diuinis. Ad quintum: nego sequelam christus est 
+          <lb ed="#P" n="97"/>deus modo deus a nullo potest dependerc¶ Sexto 
+          <lb ed="#P" n="98"/>grguitur: idem effectus non potest dependere a 
+          plu<lb ed="#P" n="99" break="no"/>ribus causis totalibus: sed sic esset si eadem 
+          natu<lb ed="#P" n="100" break="no"/>ra humana affumeretur a tribus suppositis in 
+          diui<lb ed="#P" n="101" break="no"/>nis: quia a qualibet illarum dependeret: maior 
+          pa<lb ed="#P" n="102" break="no"/>tet. si c. dependet ab. a. causa totali: et a. b. ergo alte 
+          <lb ed="#P" n="103"/>ra illarum seclusa ab altera dependeret
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e940">
+          ¶ Respondet 
+          <lb ed="#P" n="104"/>iam humanitas a verbo assumpta: tantum dependet 
+          <lb ed="#P" n="105"/>a patre et spuit sancto sicut a verbo. nullus effectus 
+          <lb ed="#P" n="106"/>potest esse quin a qualibet persona in diuinis 
+          de<lb ed="#P" n="107" break="no"/>pendeat: et si per impossibile esset nisi vna persona in 
+          <lb ed="#P" n="108"/>diuinis: sufficienter quilibet effectus ab illa 
+          depen<lb ed="#P" n="109" break="no"/>deret: sicut in prima distinctione secundi dictum est 
+          <lb ed="#P" n="110"/>Si dicas: eadem albedo depodet a pluribus subie 
+          <lb ed="#P" n="111"/>ctis secundum dicta mearet eadem forma a pluribus 
+          cor<lb ed="#P" n="112" break="no"/>poribus totalibus. dico quod hoc est in gencre 
+          cau<lb ed="#P" n="113" break="no"/>se materialis solum.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e964">
+          ¶ Septimo arguitur: 
+          impossibi<lb ed="#P" n="114" break="no"/>le est patrem incarnari: quia impossibile est quod pater 
+          <lb ed="#P" n="115"/>in diuinins esset filius: sed esset filius si esset 
+          incar<lb ed="#P" n="116" break="no"/>natus. eodemmodo probatur quod spiritus sanctus non 
+          <lb ed="#P" n="117"/>potest incarnari: quiatune esset filius.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e975">
+          ¶ Octauo 
+          <lb ed="#P" n="118"/>arguitur: incarnari ess mitti. sed patri noi: conuenit 
+          <lb ed="#P" n="119"/>mitti vt patet ex primo: igitur.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e983">
+          ¶ Ad septimum: nego 
+          <lb ed="#P" n="120"/>quod sit impossibile quod pater incarnctur: concedo quod 
+          pa<lb ed="#P" n="121" break="no"/>ter non potest esse filius dei. potest incarnari sinc 
+          <lb ed="#P" n="122"/>hoo quod esset filius temporalis mulietis: creando co¬¬ 
+          <pb ed="#P" n="5-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>pus vel assumendo ei naturam sortis adulti: iam 
+          pa<lb ed="#P" n="2" break="no"/>ter non esset natus ex muliere: etiam poterat 
+          assu<lb ed="#P" n="3" break="no"/>mere humanitatem in vtero virgineo sicut filius 
+          fe<lb ed="#P" n="4" break="no"/>cit: et tunc fuisset filius hominis et temporalis: et non 
+          fi<lb ed="#P" n="5" break="no"/>lius secundum deitatem. impossibile est quod pater sit filius 
+          <lb ed="#P" n="6"/>secundum diuinam naturam.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1009">
+          ¶ Ad octauum respodetur quod patur 
+          <lb ed="#P" n="7"/>non propterea mitteretur: nec sua incarnatio esset 
+          <lb ed="#P" n="8"/>missio sicut filii et spiritus sancti: quia non est 
+          mani<lb ed="#P" n="9" break="no"/>festatio quod pater est ab alio. patet in simili: licet 
+          pa<lb ed="#P" n="10" break="no"/>ter diceret: hic est filius meus dilectus: non erat 
+          <lb ed="#P" n="11"/>patris missio Incarnatio in communi abstrahit amissio 
+          <lb ed="#P" n="12"/>ne: hoc est. potest esse incarnatio absque missione: 
+          <lb ed="#P" n="13"/>quia incarnari nichil aliud dicit nisi carni 
+          vniri<lb ed="#P" n="14" break="no"/>in vnitate suppositi vel nature: vt in 
+          explicatio<lb ed="#P" n="15" break="no"/>ne secunde conclusionis dicemus.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1031">
+          ¶ Nono arguitur: in 
+          <lb ed="#P" n="16"/>primo libro dictum est: pater ex sua proprietate est 
+          <lb ed="#P" n="17"/>innascibilis: ergo non potest esse natus: quia tunc idem 
+          <lb ed="#P" n="18"/>esset genitus et ingenitus. Responsio est facilis: 
+          pa<lb ed="#P" n="19" break="no"/>ter est innascibilis sundum naturam diuinam: et nasci 
+          po<lb ed="#P" n="20" break="no"/>test secundum naturam humanam: sicut filius est 
+          mor<lb ed="#P" n="21" break="no"/>talis secundum naturam humanam et immortalis secundum natu 
+          <lb ed="#P" n="22"/>ram diuinam.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1049">
+          ¶ Decimo arguitur: specialiter de sputu 
+          <lb ed="#P" n="23"/>sancto: probatur quod non possit incarnari et nasci: quia 
+          <lb ed="#P" n="24"/>hoc repugnat suo modo procedendi qui est per 
+          mo<lb ed="#P" n="25" break="no"/>dum amoris vel voluntatis: non autem per modum natu 
+          <lb ed="#P" n="26"/>re: procedit enim non quomodo natus sed quomodo datus secundum 
+          <lb ed="#P" n="27"/>Aug. v. de trinitate.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1062">
+          ¶ Undecimo: ex sua proprie 
+          <lb ed="#P" n="28"/>tate dicitur spritus: sed spiritus non potest esse corpus 
+          <lb ed="#P" n="29"/>vel aliquod corporeum igitur
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1069">
+          ¶ Ad decimum: dicitur quod 
+          <lb ed="#P" n="30"/>hoc repugnat suo modo procedendi ad intra non autem 
+          <lb ed="#P" n="31"/>ad extra.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1077">
+          ¶ Ultimum argumentum non mouet: spiritus 
+          <lb ed="#P" n="32"/>sanctus licet appropriate dicatur spiritus: non tamen est 
+          <lb ed="#P" n="33"/>magis spiritus quam pater vel filiusergo argumentum 
+          equaeli<lb ed="#P" n="34" break="no"/>ter procedit in omnibus. non inconuenit sptm suscipere 
+          <lb ed="#P" n="35"/>per communicationem ydiomatum denominationem 
+          concre<lb ed="#P" n="36" break="no"/>tiuam corporum.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1090">
+          ¶ Iam contra vnam probationum 
+          <lb ed="#P" n="37"/>quam feci arguitur: si eadem anima posset 
+          infor<lb ed="#P" n="38" break="no"/>mare multa corpora totalia: rediret error commenta 
+          <lb ed="#P" n="39"/>toris vnam animam in omnibus hominibus ponentis. Sed 
+          <lb ed="#P" n="40"/>forte dicis (et sic dicendum reor ) commentator loquitur 
+          <lb ed="#P" n="41"/>de facto: et sic errat prniciose et pueriliter: ego 
+          lo<lb ed="#P" n="42" break="no"/>quor de possibili. Contra: ad illud sequitur quod 
+          qua<lb ed="#P" n="43" break="no"/>litates contrarie essent in eodem subiecto: sicut 
+          con<lb ed="#P" n="44" break="no"/>tra commentatorem instare solemus: et ad contraria esse 
+          <lb ed="#P" n="45"/>simul sequuntur condictoria vera: quarto 
+          methaphi<lb ed="#P" n="46" break="no"/>sice: quod est contra primum principium.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1114">
+          ¶ Respondetur 
+          <lb ed="#P" n="47"/>sufficienter interarguendum ad calcem vique 
+          argumen<lb ed="#P" n="48" break="no"/>ti: ad quam dico siue sequatur illa de inesse siue non 
+          <lb ed="#P" n="49"/>dico consequens esse valde possibile et necessarium 
+          <lb ed="#P" n="50"/>quod qualitates contrarie possunt esse simul in eodem 
+          <lb ed="#P" n="51"/>subiecto primo. deus potest ponere penetratiue 
+          <lb ed="#P" n="52"/>duo corpora mutuo: quorum vnum est calidum et al 
+          <lb ed="#P" n="53"/>terum frigidum: et destruere alterum subiectorum: vtrumque 
+          <lb ed="#P" n="54"/>accidens relinquendo in altero subiecto. Insuper: 
+          <lb ed="#P" n="55"/>secundum multos istorum qui hoc pro inconuenienti 
+          suscipi<lb ed="#P" n="56" break="no"/>unt qualitates contrarie vel qualitates eiusdem 
+          spe<lb ed="#P" n="57" break="no"/>ciei cum contrariis possunt se compati: infero eis: ergo 
+          <lb ed="#P" n="58"/>omnes tales gradus possunt se compati de dei 
+          po<lb ed="#P" n="59" break="no"/>tentia absoluta. nec iuuat ire ad actionem et ad 
+          bel<lb ed="#P" n="60" break="no"/>lum hostile mutuo in gradibus intensis quia si deus 
+          <lb ed="#P" n="61"/>non agat cum altera vel cum neutra non potest esse 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>actio et pugna inter sllas. nego ergo quod ad qualita 
+          <lb ed="#P" n="63"/>tes contrarias esse simul vllo modo sequatur 
+          con<lb ed="#P" n="64" break="no"/>tradictio: aristote. naturaliter loquutus est. idem 
+          po<lb ed="#P" n="65" break="no"/>test poni in variis locis etiam secundum istos. et addo 
+          <lb ed="#P" n="66"/>tunc idem sibi relictus cum influentia dei 
+          generali<lb ed="#P" n="67" break="no"/>potest conscendere scalam et simul descendere: 
+          cale<lb ed="#P" n="68" break="no"/>fieri prope ignem frigefleri prope gelu: et per consequens 
+          <lb ed="#P" n="69"/>calefit et frigefit simpliciter.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1169">
+          ¶ Iam contra secundam 
+          <lb ed="#P" n="70"/>conclusionem arguitur: essentia diuina non potest 
+          <lb ed="#P" n="71"/>assumere naturam humanam: ita quod essentia diuina 
+          <lb ed="#P" n="72"/>sit primus terminus nature humane: patet: quia 
+          il<lb ed="#P" n="73" break="no"/>lo dato aliqua erit natura intellectualis nec 
+          prso<lb ed="#P" n="74" break="no"/>na in propria personalitate nec in personalitate 
+          alie<lb ed="#P" n="75" break="no"/>na: patet: cum natura creata dependet ab essentia: 
+          <lb ed="#P" n="76"/>non est persona in se: ex secunda quaestione huius 
+          distin<lb ed="#P" n="77" break="no"/>ctionis: nec terminus primus assumens est 
+          forma<lb ed="#P" n="78" break="no"/>liter persona.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1191">
+          ¶ Respondetur: concedendo quod natura 
+          as<lb ed="#P" n="79" break="no"/>sumpta necest in se persona nec natura assumens est 
+          <lb ed="#P" n="80"/>immediate vel formaliter persona. potest 
+          admitti<lb ed="#P" n="81" break="no"/>distinctio formalis inter essentiam diuinam et 
+          perso<lb ed="#P" n="82" break="no"/>nam: patet illa distinctio erit eorum que realiter sunt 
+          <lb ed="#P" n="83"/>eadem res: et aliquid dicitur de vno significatiue 
+          <lb ed="#P" n="84"/>quod non dicitur de alio: vt pater generat: essentia 
+          <lb ed="#P" n="85"/>diuina non generat: essentia diuina est communicabilis 
+          <lb ed="#P" n="86"/>tribus: pater non est comunicabilis tribus. licet hic 
+          sta<lb ed="#P" n="87" break="no"/>re potes dicendo quod essentia diuina est res 
+          gene<lb ed="#P" n="88" break="no"/>rans: quia pater generans. pater est res pluribus 
+          <lb ed="#P" n="89"/>comunicabilis: quia pater est essentia communicabilis: sed 
+          <lb ed="#P" n="90"/>cum essentia diuina est primus terminus istius 
+          assun<lb ed="#P" n="91" break="no"/>ptionis: natura intellectualis assumpta nec est 
+          pr<lb ed="#P" n="92" break="no"/>sona in se nec personatur in assumente: saltem primo / 
+          <lb ed="#P" n="93"/>et sic non suppositas: sed assumitur ad vnionem 
+          natu<lb ed="#P" n="94" break="no"/>re: et non in vnitatem suppositi tanquam in termino 
+          pri<lb ed="#P" n="95" break="no"/>mo.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1230">
+          ¶ Sed an suppositetur natura assumpta in 
+          <lb ed="#P" n="96"/>tribus suppositis secundario est difficultas cum natura 
+          <lb ed="#P" n="97"/>humana assumatur ad vnionem nature tanquam ad 
+          ter<lb ed="#P" n="98" break="no"/>minum primum: et essentia diuina realiter est in 
+          tri<lb ed="#P" n="99" break="no"/>bus personis per idemptitatem: videtur quod quelibet 
+          il<lb ed="#P" n="100" break="no"/>larum personarum erit terminus secundarius illius vnio 
+          <lb ed="#P" n="101"/>nis: et sic natura humana suppositatur in tribus 
+          <lb ed="#P" n="102"/>suppositis secundariis. Sed contra illud arguitur 
+          <lb ed="#P" n="103"/>ex illo sequatur quod essentia diuina est nunc de facto 
+          <lb ed="#P" n="104"/>terminus secundarius in vnione ypostatica 
+          huma<lb ed="#P" n="105" break="no"/>nitatis assumpte a verbo: verbum est terminus 
+          pri<lb ed="#P" n="106" break="no"/>mus illius vnionis: et verbum realiter est essentia 
+          <lb ed="#P" n="107"/>diuina: ergo essentia diuina est terminus secundarius 
+          <lb ed="#P" n="108"/>istius vnionis ypostatice: et ex consequenti sic 
+          ar<lb ed="#P" n="109" break="no"/>guo: essentia diuina est terminus secundarius 
+          vnio<lb ed="#P" n="110" break="no"/>nis ypostatice: et essentia diuina realiter est in 
+          pa<lb ed="#P" n="111" break="no"/>tre: ergo pater est terminus secundarius istius vnio 
+          <lb ed="#P" n="112"/>nis.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1270">
+          ¶ Respondetur: concedendo quod essentia diuina est 
+          <lb ed="#P" n="113"/>terminus secundarius vnionis ypostatice ad verbum: 
+          <lb ed="#P" n="114"/>et concedo quod essentia diuina realiter est pater / 
+          <lb ed="#P" n="115"/>non tamen sequitur quod pater est terminus secundarius 
+          isti<lb ed="#P" n="116" break="no"/>us vnionis. ista est concedenda in communi 
+          theolo<lb ed="#P" n="117" break="no"/>gia: verbum est essentia diuina: non autem hec verbum 
+          <lb ed="#P" n="118"/>est pater: propterea essentia diuina est terminus 
+          <lb ed="#P" n="119"/>secundarius vnionis ypostatice. non autem pater: non 
+          <lb ed="#P" n="120"/>oportet quod omne illud quod idemptificatur cum termino 
+          <lb ed="#P" n="121"/>secundario sit terminus secundarius vnionis 
+          ypostati<lb ed="#P" n="122" break="no"/>ce. sed quicquid idemptificatur immediate cum ter¬ 
+          <pb ed="#P" n="6-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>mino primario est terminus secundarius. et consequem 
+          <lb ed="#P" n="2"/>ter loquendo concedi potest: sicut essentia diuina 
+          <lb ed="#P" n="3"/>est homo in casu nostre secunde conclusionis quo 
+          essen<lb ed="#P" n="4" break="no"/>tia diuina esset primus terminus vnionis nature 
+          <lb ed="#P" n="5"/>humane: ita pater est homo: filius est homo: 
+          sputs<lb ed="#P" n="6" break="no"/>sanctus est homo: licet secundario.
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1312">
+          ¶ Secundo 
+          argui<lb ed="#P" n="7" break="no"/>tur: si essentia diuina esset primus terminus 
+          assumen<lb ed="#P" n="8" break="no"/>do naturam humanam: tunc hic esset vnio nature 
+          <lb ed="#P" n="9"/>ad naturam: et sic idem eseset natura assumens et assumpta 
+          <lb ed="#P" n="10"/>Respondetur non esset ad vnitatem compositionis: plusquam 
+          <lb ed="#P" n="11"/>christi: qui nullo modo est compositus. sed verbum. 
+          <lb ed="#P" n="12"/>nec esset ad vnitatem nature: ad hunc sensum: 
+          <lb ed="#P" n="13"/>quod vna natura coincideret in aliam: quia hoc est 
+          im<lb ed="#P" n="14" break="no"/>possibile. sed est vnio vnius nature assumpte ad 
+          <lb ed="#P" n="15"/>naturam assumentem: sic scilicet: quod natura vna assu 
+          <lb ed="#P" n="16"/>mit aliam. quando queritur a te an est vnio nature ad 
+          <lb ed="#P" n="17"/>naturam. distinguas illam: vel ad hunc sensum 
+          <lb ed="#P" n="18"/>quod vna natura sustentet aliam: et quod vna natura 
+          sci<lb ed="#P" n="19" break="no"/>licet creata sustentatur a natura increata: et sic 
+          con<lb ed="#P" n="20" break="no"/>ceditur. vel quod vna natura coincidat realiter cum 
+          <lb ed="#P" n="21"/>alia: vel in aliam mutatur et sic negatur. ostende 
+          <lb ed="#P" n="22"/>sensum in quo illam concedis et in verbis non lucteris 
+        </p>
+        <p xml:id="jm3cbb-e01890-d1e1349">
+          <lb ed="#P" n="23"/>¶ Ecce summatim illa qua in hac quaestione praetendimus: 
+          <lb ed="#P" n="24"/>quod effectus productus ab a. causa effectum attingente in 
+          <lb ed="#P" n="25"/>genere cause efficientis sufficienter non est 
+          pro<lb ed="#P" n="26" break="no"/>ducibilis a b. causa. non est dubium quin idem 
+          effe<lb ed="#P" n="27" break="no"/>ctus potest produci a duabus causis effectum non 
+          <lb ed="#P" n="28"/>attingentibus. et ex industria sic loquutus sum: non 
+          <lb ed="#P" n="29"/>vtens hac: idem effectus potest produci a duabus 
+          <lb ed="#P" n="30"/>causis totalibus: quia illa est distinguenda: vel fi 
+          to<lb ed="#P" n="31" break="no"/>talibus tantum valet sicut praecisis et sic est neganda: vel 
+          <lb ed="#P" n="32"/>si tantum valet sicut sufficientibus e illam concedit 
+          Oham<lb ed="#P" n="33" break="no"/>in principio tertii cum multis aliis adherentibus: 
+          <lb ed="#P" n="34"/>qui est sensus de quo contradicitur: quem sensum 
+          dixi<lb ed="#P" n="35" break="no"/>falsum. hoc non obstante dixi eadem natura 
+          hu<lb ed="#P" n="36" break="no"/>mana potest simul assumi a qualibet persona in 
+          di<lb ed="#P" n="37" break="no"/>uinis: et eadem natura dependet a qualibet persona 
+          <lb ed="#P" n="38"/>in diuinis: immo ita est nunc de facto de natura 
+          as<lb ed="#P" n="39" break="no"/>sumpta a verbo quaelibet persona diuina est causa 
+          suffi<lb ed="#P" n="40" break="no"/>ciens: ita quod si per impossibile esset nisi vna persona 
+          <lb ed="#P" n="41"/>in diuinis: sicut philosophi ymaginati sunt: ab 
+          <lb ed="#P" n="42"/>illa dependere potest natura humana. et ita dico 
+          <lb ed="#P" n="43"/>de qualibet persona in diuinis. Secundo quelibet 
+          <lb ed="#P" n="44"/>persona in diuinis potest terminare hanc 
+          depen<lb ed="#P" n="45" break="no"/>dentiam: non quod dependentia distinguatur a 
+          na<lb ed="#P" n="46" break="no"/>tura dependente realiter vel formaliter ad 
+          sensum<lb ed="#P" n="47" break="no"/>aliorum. et si filius sufficienter terminet 
+          dependem<lb ed="#P" n="48" break="no"/>tiam humanitatis assumpte: tota dependentia 
+          huma<lb ed="#P" n="49" break="no"/>nitatis non est exhausta: quin ad alias personas 
+          ter<lb ed="#P" n="50" break="no"/>minari potest. Opinor vlterius quod essentia diuina 
+          <lb ed="#P" n="51"/>potest esse primus terminus vnionis nature: et sic 
+          <lb ed="#P" n="52"/>erit vnio vnius nature ad aliam non per idemptitatem sed 
+          <lb ed="#P" n="53"/>assumptionem. et non erit vnio ypostatica: saltem primo. 
+          <lb ed="#P" n="54"/>Ronne primi termini. loquor vt pooles quando dico 
+          <lb ed="#P" n="55"/>person am diuinam terminare vnionem ypostaticam. 
+          <lb ed="#P" n="56"/>multi ponentes relationem inherentem 
+          humanita<lb ed="#P" n="57" break="no"/>ti vsi siant hoc modo loquendi: concipientes quod 
+          <lb ed="#P" n="58"/>verbum sit terminus / istius relationis cuius fundamentum 
+          <lb ed="#P" n="59"/>est natura assumpta: non vtor illo modo 
+          loquendi<lb ed="#P" n="60" break="no"/>in illo sensu. conseruatio creaturee eius dependentia ad 
+          <lb ed="#P" n="61"/>deum realiter est creatura dependens ad deum: et il¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>lic non est relatio distincta a fundamento: vt teneter 
+          <lb ed="#P" n="63"/>doctor subtilis. licet alii reales hoc non approbant 
+          <lb ed="#P" n="64"/>et tamen adhuc diceret deus terminat hanc de 
+          <lb ed="#P" n="65"/>pendentiam et conscruationem. sic diceret de 
+          ha<lb ed="#P" n="66" break="no"/>bitudine totius ad suas partes. Similiter 
+          pa<lb ed="#P" n="67" break="no"/>ter in diuinis filiationem filii in diuinis terminat: 
+          <lb ed="#P" n="68"/>et filius paternitatem econuerso terminat: et 
+          tamen<lb ed="#P" n="69" break="no"/>non proptera relatio illic ponitur distincta a funda 
+          <lb ed="#P" n="70"/>mento et termino. nec distinctionem potiono inter 
+          pater<lb ed="#P" n="71" break="no"/>nitatem patrem tam in diuinis quam in creatura. 
+          nihil<lb ed="#P" n="72" break="no"/>significatiue dici potest de vno et negari de reliqui. 
+          <lb ed="#P" n="73"/>sed hic potes euitare hunc modum loquendi: si vis: 
+          <lb ed="#P" n="74"/>tu qui relationes negas distingui a fundamento et 
+          ermi<lb ed="#P" n="75" break="no"/>no e vti hoc modo loquendi nunc in hac materia: filius 
+          <lb ed="#P" n="76"/>assumit naturam humanam. vel assumpsit naturam 
+          hu<lb ed="#P" n="77" break="no"/>nam: et non pater. quia per illam denotabitur quod est 
+          <lb ed="#P" n="78"/>comunicatio mutua inter filium et humanitatem in 
+          concre<lb ed="#P" n="79" break="no"/>to: et non in patre vel spiritus sancto. dum modo sensum 
+          <lb ed="#P" n="80"/>tenueris de verbis minime refert.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

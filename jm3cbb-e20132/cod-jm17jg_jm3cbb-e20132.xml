@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="33-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e20132"><!-- l3d14q5 -->
+        <head xml:id="jm3cbb-e20132-Hd1e99">Quaestio 5</head>
+        <head xml:id="jm3cbb-e20132-Hd1e101" type="question-title">An anima Christi cognoscat in proprio genere ea quae cognoscit
+    in Verbo</head>
+        <p xml:id="jm3cbb-e20132-d1e104">
+          <lb ed="#P" n="73"/>Quinto queritur: 
+          <lb ed="#P" n="74"/>an anima christi cognoscat in 
+          <lb ed="#P" n="75"/>proprio genere ea que 
+          cogno<lb ed="#P" n="76" break="no"/>(scit in verbo. In hac 
+          questio<lb ed="#P" n="77" break="no"/>ne quid nominis cognoscere in 
+          pro<lb ed="#P" n="78" break="no"/>prio genere explicabitur. 
+          post<lb ed="#P" n="79" break="no"/>ea conclusiue ad questionem 
+          re<lb ed="#P" n="80" break="no"/>spondebimus: et contra conclusiones vt veritas 
+          pa<lb ed="#P" n="81" break="no"/>teat pauca obiiciemus: et quoddam argumentum 
+          <lb ed="#P" n="82"/>principale in questionis precedentis calce 
+          dilue<lb ed="#P" n="83" break="no"/>mus.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e130">
+          ¶ Cognoscere in proprio genere est 
+          noti<lb ed="#P" n="84" break="no"/>ciam ex obiectis naturaliter posse acqulrere hoc 
+          <lb ed="#P" n="85"/>supposito: ponuntur tres conclusiones.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e137">
+          ¶ 
+          Prima<lb ed="#P" n="86" break="no"/>est. anima christi potest acquirere: et poterant in 
+          <lb ed="#P" n="87"/>via: noticias intuitiuas obiectorum presentium 
+          pro<lb ed="#P" n="88" break="no"/>batur: hoc potest anima nostra acquirere in 
+          corpo<lb ed="#P" n="89" break="no"/>re mortali: ergo a fortiori anima eius poterat 
+          in<lb ed="#P" n="90" break="no"/>via. esto quod corpus eius erat passibile: anima eius 
+          <lb ed="#P" n="91"/>poterat cognoscere obiecta omnia que iam 
+          cogno<lb ed="#P" n="92" break="no"/>scit in corpore immortali: solum corpus quod 
+          coi<lb ed="#P" n="93" break="no"/>rumpitur aggrauat animam. non erat sic de 
+          corpore<lb ed="#P" n="94" break="no"/>suo: licet pro nostra redemptione corpus 
+          passibi<lb ed="#P" n="95" break="no"/>le assumpsit. Preterea: anima christi in via clare 
+          <lb ed="#P" n="96"/>vidit deum: et quelibet anima alia clare videns de 
+          <lb ed="#P" n="97"/>um vidit omnia obiecta presentia: que angelus 
+          <lb ed="#P" n="98"/>vel anima separata videre potest. ergo hoc 
+          negam<lb ed="#P" n="99" break="no"/>dum non est ab anima christi.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e171">
+          ¶ Secunda 
+          conclu<lb ed="#P" n="100" break="no"/>sio. anima christi poterat acquirere in via 
+          notici<lb ed="#P" n="101" break="no"/>as abstractiuas. probatur. alie anime possunt 
+          ta<lb ed="#P" n="102" break="no"/>les acquirere: ergo et anima christi.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e180">
+          ¶ Tertia 
+          con<lb ed="#P" n="103" break="no"/>cluisio. anima christi profecit in acquisitione 
+          menouan<lb ed="#P" n="104" break="no"/>rum noticiarum. probatur sic: stante noticia quam 
+          <lb ed="#P" n="105"/>habebat de omnibus in verbo: poterat aliquarum 
+          <lb ed="#P" n="106"/>rerum in verbo cognitarum habere noticiam in 
+          pro<lb ed="#P" n="107" break="no"/>prio genere. probatut siczanima christi in primo 
+          <lb ed="#P" n="108"/>instanti in quo erat in rerum natura habebat 
+          noti<lb ed="#P" n="109" break="no"/>ciam de nilo: sed postquam christus in pueritia 
+          hero<lb ed="#P" n="110" break="no"/>dem fugieus profectus est in egyptum: nouam 
+          no<lb ed="#P" n="111" break="no"/>ticiam denilo acquisiuit. probatur sic: habebat 
+          <lb ed="#P" n="112"/>potentiam intellectiuam et sensitiuam bene 
+          dis<lb ed="#P" n="113" break="no"/>positam: et obiectum erat presens in ratione obiecti. 
+          <lb ed="#P" n="114"/>modo actiuo et passiuo debite applicatis: si non 
+          <lb ed="#P" n="115"/>ponatur obex: sequitur effectus. in christo non erat 
+          <lb ed="#P" n="116"/>obex. quemadmodum si quis sciret demonstratiue 
+          <lb ed="#P" n="117"/>hanc luna est eclipsabilis: potest hoc scire per ex 
+          <lb ed="#P" n="118"/>perientiam: si sup speram lune ponatur: potissimum 
+          te<lb ed="#P" n="119" break="no"/>nendo ( vt est vero similius) quod iudicium illud experi¬ 
+          <pb ed="#P" n="34-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>mentale et scientia sunt alterius speciei 
+          specialis<lb ed="#P" n="2" break="no"/>sime.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e228">
+          ¶ Secundo probatur eadem conclusio per illud 
+          <lb ed="#P" n="3"/>quod scribitur Luce. ii. et in fine questionis 
+          pre<lb ed="#P" n="4" break="no"/>cedentis allegauimus: christus profecit sapientia et 
+          <lb ed="#P" n="5"/>etate. sed non profecit acquirendo noticias in 
+          ver<lb ed="#P" n="6" break="no"/>bo: cum in primo instanti quo erat in rerum natura 
+          <lb ed="#P" n="7"/>omnia in verbo cognouit.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e241">
+          ¶ Tertio arguitur: 
+          di<lb ed="#P" n="8" break="no"/>dicit obedientiam ex his que passus est ad heb. v. 
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e246">
+          <lb ed="#P" n="9"/>¶ Contra istud arguitur. anima christi habuit 
+          no<lb ed="#P" n="10" break="no"/>ticiam intuitiuam de nilo in verbo antequam descendit 
+          <lb ed="#P" n="11"/>in egyptum: ergo illo stante non acquisiuit aliam 
+          noti<lb ed="#P" n="12" break="no"/>ciam intuitiuam. tenet consequentia: si deus 
+          produ<lb ed="#P" n="13" break="no"/>cat calorem ita intensum in aquam sicut a ignis potest 
+          <lb ed="#P" n="14"/>producere in eam: si postea illa aqua applicaretur 
+          <lb ed="#P" n="15"/>a. igni: ignis nichil caloris produceret de nouo: 
+          <lb ed="#P" n="16"/>als ageret vltra gradum sue perfectionis: ergo si 
+          ani<lb ed="#P" n="17" break="no"/>ma christi habuit noticiam intuitiuam de nilo 
+          ante<lb ed="#P" n="18" break="no"/>quam christus descendit in egyptum: nilus nullam 
+          noti<lb ed="#P" n="19" break="no"/>ciam intuitiuam produxit in animam christi: cum est 
+          <lb ed="#P" n="20"/>preuentus ab alia causa. forte dicis: ille noticie 
+          <lb ed="#P" n="21"/>non sunt eiusdem speciei specialissime.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e277">
+          ¶ Contra: sunt 
+          <lb ed="#P" n="22"/>due noticie intuitiue de eodem obiecto: ergo sunt 
+          <lb ed="#P" n="23"/>eiusdem speciei.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e285">
+          ¶ Secundo arguitur: inanes sunt due 
+          <lb ed="#P" n="24"/>noticie in eadem potentia respectu eiusdem obiecti: 
+          <lb ed="#P" n="25"/>ergo anima christi non habet duas tales noticias. 
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e292">
+          <lb ed="#P" n="26"/>¶ Ad primum: concedo antecedens: et nego 
+          consequem<lb ed="#P" n="27" break="no"/>tiam. et concedo illud assumptum de calore. in 
+          noti<lb ed="#P" n="28" break="no"/>ticiis et actibus vitalibus illud non habet verum. 
+          <lb ed="#P" n="29"/>stante notitia a albedinis in intellectu sortis b. 
+          al<lb ed="#P" n="30" break="no"/>bedo similem noticiam producit de nouo. etiam 
+          conce<lb ed="#P" n="31" break="no"/>ditur quod noticia intuitiua in verbo / et noticia intuiti 
+          <lb ed="#P" n="32"/>ua in genere proprio respectu eiusdem obiecti / non sunt 
+          <lb ed="#P" n="33"/>eiusdem speciei specialissime. vna est matutina: et 
+          <lb ed="#P" n="34"/>alia vespertina. non est inconueniens dare duas 
+          <lb ed="#P" n="35"/>noticias intuitiuas diuersarum specierum eiusdem 
+          <lb ed="#P" n="36"/>obiecti: patet in angelo et in anima. sed illic 
+          potem<lb ed="#P" n="37" break="no"/>tie distinguntur specie: non autem istio. sed deus 
+          in<lb ed="#P" n="38" break="no"/>numeras noticias specie distinctas potest 
+          produ<lb ed="#P" n="39" break="no"/>cere eiusdem obiecti. quia quod cum potentiis specie 
+          <lb ed="#P" n="40"/>distinctis efficere potest: hoc se solo potest facere¬ 
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e327">
+          <lb ed="#P" n="41"/>¶ Ad secundum nego quod ille noticie sunt inanes. 
+          per<lb ed="#P" n="42" break="no"/>fectio est potentie / posse acquirere noticiam in 
+          praesen<lb ed="#P" n="43" break="no"/>tia obiecti. quare hoc non negandum est a potentia 
+          <lb ed="#P" n="44"/>optime disposita: quemadmodum est anima christi. 
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e338">
+          <lb ed="#P" n="45"/>¶ Tertio arguitur: opinio et scientia respectu 
+          eius<lb ed="#P" n="46" break="no"/>dem obiecti repugnant: ergo due noticie respectu 
+          <lb ed="#P" n="47"/>eiusdem obiecti quarum vna est clarior altera.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e347">
+          ¶ 
+          Re<lb ed="#P" n="48" break="no"/>spondetur quod due noticie simplices quarum vna est 
+          <lb ed="#P" n="49"/>clarior alia non repugnant respectu eiusdem. patet 
+          <lb ed="#P" n="50"/>de intuitiuae abstractiua: inter quas nulla est 
+          repu<lb ed="#P" n="51" break="no"/>gnantia. immo probabile est quod non stat naturaliter 
+          no<lb ed="#P" n="52" break="no"/>ticiam intuitiuam esse in potentia sine abstractiua 
+          pro<lb ed="#P" n="53" break="no"/>hatio: post rem intuitiue cognitam eximus in abstra 
+          <lb ed="#P" n="54"/>ctiuam rememoratiuam per habitum derelictum a 
+          noti<lb ed="#P" n="55" break="no"/>cia: sed ille habitus non producitur a noticia 
+          intui<lb ed="#P" n="56" break="no"/>tiua: quia vtrobique habitus inclinat in similem actum 
+          <lb ed="#P" n="57"/>in specie actui a quo producebatur: sed ille 
+          habi<lb ed="#P" n="58" break="no"/>tus non inclinat in noticiam intuitiuam: quia 
+          naturali<lb ed="#P" n="59" break="no"/>ter non habetur noticia intuitiua sine praesentia 
+          ob<lb ed="#P" n="60" break="no"/>iecti: inclinat tamen in noticiam abstractiuam: ergo 
+          produ<lb ed="#P" n="61" break="no"/>cebatur a noticia abstractiua: que quidem noticia 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>abstractiua ab intuitiua prodiicebatur. sicut 
+          ob<lb ed="#P" n="63" break="no"/>iectum et potentia producunt intuitiuam noticiam: ita 
+          <lb ed="#P" n="64"/>potentia et noticia intuitiua abstractiuam 
+          produ<lb ed="#P" n="65" break="no"/>cunt. et per consequens intuitiua et abstractiua se 
+          <lb ed="#P" n="66"/>compatiuntur respectu eiusdem obiecti. Rursus: si 
+          <lb ed="#P" n="67"/>ego habeo noticiam abstractiuam albedinis in 
+          scola<lb ed="#P" n="68" break="no"/>collegii montis acuti: si illam albedinem oculis 
+          cor<lb ed="#P" n="69" break="no"/>poreis videam: generabitur noua noticia intuitiua. 
+          <lb ed="#P" n="70"/>opinio et scientia habent suas speciales causas 
+          <lb ed="#P" n="71"/>repugnantie: vt in suis locis visum est.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e404">
+          ¶ Contra. 
+          er<lb ed="#P" n="72" break="no"/>go noticia intuitiuae abstractiua eiusdem obiecti 
+          <lb ed="#P" n="73"/>sunt sinonime. consequens est falsum: cum sunt 
+          alte<lb ed="#P" n="74" break="no"/>rius rationis: non significant idem subeadem ratio 
+          <lb ed="#P" n="75"/>ne. et eodem modo argumentari possum respectu 
+          <lb ed="#P" n="76"/>duarum noticiarum quarum vtraque est intuitiua: vna 
+          <lb ed="#P" n="77"/>in verbo et alia in genere proprio.
+        </p>
+        <p xml:id="jm3cbb-e20132-d1e421">
+          ¶ Responde 
+          <lb ed="#P" n="78"/>detur. omnes ille tres noticie sunt sinonime. vox 
+          <lb ed="#P" n="79"/>scriptura / et conceptus / sunt sinonimi: et tamen sunt 
+          <lb ed="#P" n="80"/>alterius speciei. Ad terminos esse sinonimos 
+          sus<lb ed="#P" n="81" break="no"/>ficit quod significent idem adequate et eodem modo: 
+          <lb ed="#P" n="82"/>hoc est eodem modo absolute vel connotatiue. stat 
+          <lb ed="#P" n="83"/>duos esse conceptus sinonimos: quorum vnus est 
+          <lb ed="#P" n="84"/>altero clarior: ergo terminos esse alterius 
+          ratio<lb ed="#P" n="85" break="no"/>nis et speciei non arguit eos non esse sinonimos. 
+          <lb ed="#P" n="86"/>Ex isto patet quod christus realiter profecit nouas 
+          <lb ed="#P" n="87"/>noticias acquirendo: sed ex isto non sequitur quod 
+          ali<lb ed="#P" n="88" break="no"/>quid ei incognitum addidicit. si quis sciat 
+          demonstra<lb ed="#P" n="89" break="no"/>re hanc / super lineam datam contingit triangulum 
+          <lb ed="#P" n="90"/>equelaterum collocare: potest acquirere de nouo alium 
+          <lb ed="#P" n="91"/>modum demonstrandi eandem: sed tamen non scit 
+          <lb ed="#P" n="92"/>propterea conclusionem ante incognitam. sic est in 
+          pro<lb ed="#P" n="93" break="no"/>posito. christus acquirit nouas noticias in 
+          pro<lb ed="#P" n="94" break="no"/>prio genere rerum ante cognitarum in verbo. nec isto 
+          <lb ed="#P" n="95"/>modo cognoscit omnia: quia ille noticie solum 
+          na<lb ed="#P" n="96" break="no"/>turaliter acquiruntur. quo fit: cognitio rerum in 
+          pro<lb ed="#P" n="97" break="no"/>prio genere non distinguitur in verbo penes 
+          ob<lb ed="#P" n="98" break="no"/>iecta cognita: sed penes modum cognoscendi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

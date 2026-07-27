@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="108-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e66229"><!-- l3d36q2 -->
+        <head xml:id="jm3cbb-e66229-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e66229-Hd1e101" type="question-title">An sint ponendae virtutes in appetitu sensitivo</head>
+        <p xml:id="jm3cbb-e66229-d1e104">
+          <lb ed="#P" n="31"/>SEcundo circa hanc 
+          di<lb ed="#P" n="32" break="no"/>stinctionem. xxxvi. queritur: an sint 
+          <lb ed="#P" n="33"/>ponende virtutes in appetitu 
+          <lb ed="#P" n="34"/>sensitiuo.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e115">
+          ¶ Respondetur ad hanc 
+          <lb ed="#P" n="35"/>questionem per tres 
+          conclusio<lb ed="#P" n="36" break="no"/>nes. Quarum prima est. 
+          ponen<lb ed="#P" n="37" break="no"/>da est virtus in appetitu 
+          sensiti<lb ed="#P" n="38" break="no"/>uo ipsum inclinans contra naturalem eius inclinatio 
+          <lb ed="#P" n="39"/>nem. probatur hec conclusio: appetitus sensitiuus 
+          cre<lb ed="#P" n="40" break="no"/>briter rationi aduersatur. patet de incontinenti. t 
+          Eu<lb ed="#P" n="41" break="no"/>stracius. i. ethicorum dicit. quod incontinens seipsum vult 
+          <lb ed="#P" n="42"/>rescindere ab irrationali appetitu: sed superare non 
+          <lb ed="#P" n="43"/>potest. et ratio potest cohibere appetitum sensitiuum ne 
+          <lb ed="#P" n="44"/>effrenate in illicitum moueatur: cui principatur 
+          princi<lb ed="#P" n="45" break="no"/>patu politico: primo politicorum: et quod sine tristicia 
+          <lb ed="#P" n="46"/>rationi obediat: vt patet in virtutibus purgatoriis et 
+          <lb ed="#P" n="47"/>purgati animi. et hoc non fit sine bono habitu in 
+          sem<lb ed="#P" n="48" break="no"/>sualitate inclinante ipsam conformiter ad rationem. 
+          <lb ed="#P" n="49"/>Ex isto formatur sic ratio: in continente 
+          inconti<lb ed="#P" n="50" break="no"/>nentie magna est rebellio inter sensualitem et ratio 
+          <lb ed="#P" n="51"/>nem. in heroico vel temperato temperantia gradu / 
+          <lb ed="#P" n="52"/>omnia sunt rationi consona sine tristicia vlla: et hoc non 
+          <lb ed="#P" n="53"/>potest fieri sine habitu bono in sensualitate. non 
+          sus<lb ed="#P" n="54" break="no"/>ficit ad hanc armoniam pacificam habitus bonus in 
+          <lb ed="#P" n="55"/>voluntate. ergo oportet dare habitum bonum studiosum 
+          <lb ed="#P" n="56"/>(qui erit virtus) in appetitu sensitiuo sine 
+          sensuali<lb ed="#P" n="57" break="no"/>tate: que est conclusio probanda. Secundo arguitur ad 
+          <lb ed="#P" n="58"/>idem. bruta inclinata ad obiecta delectabilia / et 
+          <lb ed="#P" n="59"/>ad delectabilium persequutionem / possunt habi¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>tuari ad oppositum: et non perhabitum in voluntate: qua 
+          <lb ed="#P" n="61"/>nullam habent: sed solum appetitum sensitiuum. ergo 
+          <lb ed="#P" n="62"/>habent habitum in appetitu sensitiuo. Tertio 
+          argni<lb ed="#P" n="63" break="no"/>tur. appetitus sensitiuus humanus est superior et alte 
+          <lb ed="#P" n="64"/>rius rationis quam appetitus bruti cuiuscumque. ergo si 
+          bru<lb ed="#P" n="65" break="no"/>ta possunt habituari ad oppositum inclinationio eo 
+          <lb ed="#P" n="66"/>rum: appetitus sensitiuus in homine habituari potest. 
+          <lb ed="#P" n="67"/>Ex his sufficienter osenditur quod in appetitu 
+          sensiti<lb ed="#P" n="68" break="no"/>uo ponitur habitus studiosus: et ad bonum inclinans: 
+          <lb ed="#P" n="69"/>contra naturalem inclinationem appetitus sensitiui. 
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e196">
+          <lb ed="#P" n="70"/>¶ Secunda conclusio. in appetitu sensitiuo ponitur 
+          <lb ed="#P" n="71"/>habitus conformiter ad rationem quando appetitus 
+          <lb ed="#P" n="72"/>sensitiuus est rectus illi conformis. patet: in ipso potest 
+          <lb ed="#P" n="73"/>generari habitus: licet rationi aduersetur: contra 
+          <lb ed="#P" n="74"/>naturalem inclinationem. ergo citius in eo generari 
+          po<lb ed="#P" n="75" break="no"/>test habitus quando est rationi conformis.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e213">
+          ¶ 
+          Ter<lb ed="#P" n="76" break="no"/>tia conclusio. habitus in appetitu sensitiuo est vinus 
+          <lb ed="#P" n="77"/>minus principalis quod habitus intellectiui appetitus 
+          <lb ed="#P" n="78"/>probatur: actus eius est imperfectior: ergo et habitus. 
+          <lb ed="#P" n="79"/>consequentia liquest: antecedens patet: potentia est perfectior: 
+          er<lb ed="#P" n="80" break="no"/>go et actus. propterea Aristoteles felicitatem ponit 
+          <lb ed="#P" n="81"/>in intellectu et appetitu intellectiuo: et non in 
+          sensu<lb ed="#P" n="82" break="no"/>vel appetitu sensitiuo. x. ethic. viii. dicit: non enim 
+          <lb ed="#P" n="83"/>hoc ipso quo homo est ita viuet: sed quo est quid in 
+          <lb ed="#P" n="84"/>ipso diuinum: quantum igitur hoc ab ipso composito 
+          dis<lb ed="#P" n="85" break="no"/>fert: tantum et huius operatio distat ab ea quaea 
+          vir<lb ed="#P" n="86" break="no"/>tute alia proficiscitur.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e239">
+          ¶ Contra primam conclusio 
+          <lb ed="#P" n="87"/>nem arguitur sic: appetitus sensitiuus ita 
+          naturali<lb ed="#P" n="88" break="no"/>ter inclinatur in persequutionem sui obiecti 
+          sensati<lb ed="#P" n="89" break="no"/>per sensum sicut ignis ad calefactionem: sed ignis 
+          nul<lb ed="#P" n="90" break="no"/>lo modo potest habituari in oppositum quod non 
+          calefa<lb ed="#P" n="91" break="no"/>ciat passum sufficienter applicatum: vel ad 
+          frigefactio<lb ed="#P" n="92" break="no"/>nem. igritur.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e255">
+          ¶ Secundo arguitur: ille habitus oppositus in sensualita 
+          <lb ed="#P" n="93"/>te non causatur a voluntate. quia voluntas non est factiua 
+          <lb ed="#P" n="94"/>nec producit effectum extra se: saltem actum vel 
+          habi<lb ed="#P" n="95" break="no"/>tum: nec potest causari a sensualitate met: nec videtur 
+          <lb ed="#P" n="96"/>a qua alia causa causari potest: erao a nulla causa causari 
+          <lb ed="#P" n="97"/>potest. Clarius sic argumentor: capio sortem 
+          vehe<lb ed="#P" n="98" break="no"/>menter inclinatum.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e271">
+          ¶ Ad hec potest dari triplex 
+          <lb ed="#P" n="99"/>imaginatio: vna: quod nullus est habitus in 
+          appetitu<lb ed="#P" n="100" break="no"/>sensitiuo oppositus inclinationi naturali eius: sed 
+          <lb ed="#P" n="101"/>est habitus multum intensus in voluntate qui inclinatio 
+          <lb ed="#P" n="102"/>ni naturali appetitus sensitiui resistit. sed hec 
+          ima<lb ed="#P" n="103" break="no"/>ginatio non est bona: non esset illa tranmquillitas tunc 
+          <lb ed="#P" n="104"/>in homine vt omnia rationi sint consona: nec esset 
+          <lb ed="#P" n="105"/>habitus in bruto contra naturalem inclinationem eius: 
+          <lb ed="#P" n="106"/>cuius oppositum videmus. ergo volumus dicere: est 
+          ha<lb ed="#P" n="107" break="no"/>bitus oppositus inclinationi naturali sensus in 
+          ap<lb ed="#P" n="108" break="no"/>petitu sensitiuo. Sed due dantur imaginationes a qua 
+          <lb ed="#P" n="109"/>causa causatur ille habitus. vno modo potest dici: 
+          volun<lb ed="#P" n="110" break="no"/>tas producit immediate sine suo proprio actu 
+          elici<lb ed="#P" n="111" break="no"/>to quandam qualitatem in appetitum sensitiuum 
+          confor<lb ed="#P" n="112" break="no"/>miter tendentem cum voluntate. quemadmodum sine 
+          <lb ed="#P" n="113"/>alio actu praeuio producit eius proprium primum actum 
+          <lb ed="#P" n="114"/>elicitum: quare non potest etiam sine aliquo actu praeuio 
+          con<lb ed="#P" n="115" break="no"/>currere ad aliquid producendum in potentia 
+          executi<lb ed="#P" n="116" break="no"/>ua vel sensitiua. et hoc potest biphariam dici: vno 
+          mo<lb ed="#P" n="117" break="no"/>do quod illa qualitas mouet sensualitatem partialiter 
+          <lb ed="#P" n="118"/>producere actum oppositum sue inclinationi 
+          na<lb ed="#P" n="119" break="no"/>turali. Alio modo potes imaginariquod non est ponen¬ 
+          <pb ed="#P" n="109-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dum aliud in sensualitate ab illa qualitate ei 
+          impes<lb ed="#P" n="2" break="no"/>sa quae tendit in obiectum conformiter ad voluntatem: ne 
+          <lb ed="#P" n="3"/>tibi id extraneum videatur: declaro per 
+          manuda<lb ed="#P" n="4" break="no"/>tiones: de virtute magnetis sibi ferrum 
+          attrahen<lb ed="#P" n="5" break="no"/>tis: et de virtute nature in nobis cibum grauem assum 
+          <lb ed="#P" n="6"/>ptum in ore ad caput ad se trahentis. Idemptidem: 
+          <lb ed="#P" n="7"/>printum mobile sua influentia motu raptus speras 
+          <lb ed="#P" n="8"/>inferiores omnes secum ab oriente ad occidentem 
+          con<lb ed="#P" n="9" break="no"/>tra motum proprium mouet per quandam qualitatem 
+          <lb ed="#P" n="10"/>eis impressam. similiter intelligentia mouens 
+          orbem<lb ed="#P" n="11" break="no"/>causat motum localem in celum: qui celum mouet: 
+          te<lb ed="#P" n="12" break="no"/>nendo quod motus localis distinguitur a mobili: et de 
+          im<lb ed="#P" n="13" break="no"/>petu causato in troco pueri trocum circungirantis 
+          <lb ed="#P" n="14"/>ad pueri nutum: et de impetu in nobis nos mouentem 
+          <lb ed="#P" n="15"/>ad vnam differentiam positionis: nec in particulari 
+          <lb ed="#P" n="16"/>cog iita n:nec volitam. lic et voluntas producat 
+          qua<lb ed="#P" n="17" break="no"/>litatem extra se voluntatenrin multis istorum non 
+          <lb ed="#P" n="18"/>producit qualitatem extra suum totum. Tertia 
+          ima<lb ed="#P" n="19" break="no"/>ginatio: et verosimiliter praecedenti: adhuc est talis. 
+          vo<lb ed="#P" n="20" break="no"/>luntas mediante suo imperio forti mouet 
+          sensuali<lb ed="#P" n="21" break="no"/>tatem in fugam illius ad quod naturaliter inclinatur: hoc 
+          <lb ed="#P" n="22"/>est in primum actum fuge: puta in suum nolle 
+          natu<lb ed="#P" n="23" break="no"/>rale respectu talis obiencti. ad illud nolle naturale. 
+          <lb ed="#P" n="24"/>imperium voluntatis / t ipse appetitus sensitiuus / im 
+          <lb ed="#P" n="25"/>mediate concurrunt. cum ipsa sensatione / posito 
+          im<lb ed="#P" n="26" break="no"/>perio voluntatis efficaci / ponitur illa: fuga: et non 
+          <lb ed="#P" n="27"/>posito illo imperio non ponetur illa fuga: ergo illud 
+          <lb ed="#P" n="28"/>imperium efficientiam habet respectu illius fuge. 
+          Dico<lb ed="#P" n="29" break="no"/>enim ad formam argumenti non esse idem in igne 
+          <lb ed="#P" n="30"/>calore et in agentibus naturalibus inanimatis. et 
+          <lb ed="#P" n="31"/>in animatis agentibus naturalibus. et patet manifeste: 
+          <lb ed="#P" n="32"/>primorum principiorum assensus in nobis causant 
+          <lb ed="#P" n="33"/>habitum: vt in distinctione. xxiii. superius diximus: et 
+          <lb ed="#P" n="34"/>tamen in igne vel lapide sursum moto non 
+          causa<lb ed="#P" n="35" break="no"/>tur habitus vllus. deus dedit imperium et dominium 
+          <lb ed="#P" n="36"/>rationi et voluntati vt possint appetitum 
+          sensiti<lb ed="#P" n="37" break="no"/>uum mouere conformiter ad rationem: et ipsum 
+          ha<lb ed="#P" n="38" break="no"/>bituare et captiuare ad bonum. Gene. iiii. sub te 
+          ap<lb ed="#P" n="39" break="no"/>petitus tuus erit: hoc est in tuo imperio et dominio. 
+          <lb ed="#P" n="40"/>appetitusmouet appetitum sicut spera speram: tertio 
+          <lb ed="#P" n="41"/>de anima hoc est: appetitus intellectiuusmouet 
+          ap<lb ed="#P" n="42" break="no"/>petitum sensitiuum. et non solum illud in 
+          homini<lb ed="#P" n="43" break="no"/>bus: sed in brutis. cum primum applicatur iuuenis 
+          <lb ed="#P" n="44"/>canis fame pertesus lanio in bouis diuisione oc 
+          <lb ed="#P" n="45"/>cisione: ad carnem currit: stat vir cum virga 
+          canem<lb ed="#P" n="46" break="no"/>dure feriens: habituat eum ad oppositum: ad fugam illi 
+          <lb ed="#P" n="47"/>us carnis. timor virge et conseruatio vite plus 
+          mo<lb ed="#P" n="48" break="no"/>uet canem ad fugam quam ad prosequutionem carnis. 
+          habi<lb ed="#P" n="49" break="no"/>tuat eum quod sic non accedit: nec carnem vllam capit: nisi 
+          <lb ed="#P" n="50"/>frustrum ei particulariter proiectum: vt video dum 
+          tran<lb ed="#P" n="51" break="no"/>seo prope lanios parisii: videndo eorum canes humi 
+          <lb ed="#P" n="52"/>positos dominos intueri in partitione carnium 
+          ve<lb ed="#P" n="53" break="no"/>nalium quousque eis proiiciant. similiter de catto 
+          iu<lb ed="#P" n="54" break="no"/>uene experimur: qui non est ita disciplinabilis sicut 
+          <lb ed="#P" n="55"/>canis: cum animam sensitiuam inferiorem habeat. 
+          <lb ed="#P" n="56"/>docemus cattum vt ad mensam accedere non audeat: 
+          <lb ed="#P" n="57"/>sed cibum appositum expectat in loco consueto: et cum 
+          <lb ed="#P" n="58"/>appetitus sensitiuus in homine sit supremus 
+          ap<lb ed="#P" n="59" break="no"/>petitus sensitiuus: quia animam rationalem habens 
+          pro<lb ed="#P" n="60" break="no"/>parte: quare ista negabimus eius appetitui fensiti 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>uo conuenire.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e458">
+          ¶ Contra istud arguitur: ex dictis se 
+          <lb ed="#P" n="62"/>quitur quod ratio imperat appetitui sensitiuo 
+          princi<lb ed="#P" n="63" break="no"/>patu dispositico: consequens est contra Aristotelem. i. 
+          <lb ed="#P" n="64"/>politicorum: et consquentia patet: potest ipsum habituare ad 
+          <lb ed="#P" n="65"/>quam partem voluerit: et eum in chamo mitem 
+          duce<lb ed="#P" n="66" break="no"/>re.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e471">
+          ¶ Respondetur. non sequitur. post peccatum primi 
+          <lb ed="#P" n="67"/>parentis non potest volunt as imperare ad nutum 
+          ap<lb ed="#P" n="68" break="no"/>petitui sensitiuo quin interdu: n reluctetur: secus est 
+          re<lb ed="#P" n="69" break="no"/>spectu partium corporis. potest sine resistentia vlla 
+          di<lb ed="#P" n="70" break="no"/>gitum aut manum mouere. sed appetitus sensitiui ali 
+          <lb ed="#P" n="71"/>qua membra reluctantur: vt videre est in membris 
+          pu<lb ed="#P" n="72" break="no"/>dibundis: quae non mouentur semper ad nutum voluntatis. 
+          <lb ed="#P" n="73"/>de quorum motu et dispositione Adam erubuit: 
+          iu<lb ed="#P" n="74" break="no"/>sticia originali amissa. sed fateor: voluntas potest 
+          capti<lb ed="#P" n="75" break="no"/>uare appetitum sensitiuum ne vllo modo reluctetur 
+          <lb ed="#P" n="76"/>rationi: ita quod homo potest sequi rationem sine 
+          tri<lb ed="#P" n="77" break="no"/>sticia vel rebellione sensus: per bonam 
+          habituatio<lb ed="#P" n="78" break="no"/>nem sensus.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e501">
+          ¶ Sed contra ista arguitur. Paulus 
+          sen<lb ed="#P" n="79" break="no"/>sit aliam legem in membris suis captiuantem eum ad 
+          pec<lb ed="#P" n="80" break="no"/>catum: et tamen heroicus erat in virtute.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e508">
+          ¶ 
+          Respon<lb ed="#P" n="81" break="no"/>detur: hanc rebellionem ei Sathan infundebat: 
+          pro<lb ed="#P" n="82" break="no"/>pterea eam angelum sathane appellabat apostolus. 
+          <lb ed="#P" n="83"/>Simile de Iheronimo dici pote st. qui magnos 
+          in<lb ed="#P" n="84" break="no"/>sultus passus est: non obstantibus virtutibus 
+          eminen<lb ed="#P" n="85" break="no"/>tissimis in eo productis. Ex his patet ad vtrumque 
+          <lb ed="#P" n="86"/>argumentorum solutio.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e524">
+          ¶ Sed queris: quomodo deus 
+          <lb ed="#P" n="87"/>creauit nos cum hac sensualitate quae rationi aduersatur: 
+          <lb ed="#P" n="88"/>que ad optima depraecatur. i. ethicorum. Insuper: ex pro 
+          <lb ed="#P" n="89"/>batione prime conclusionis videtur sequi quod in nobis 
+          es<lb ed="#P" n="90" break="no"/>set contrarietas et ciuile bellum: cum caro concupiscit 
+          <lb ed="#P" n="91"/>aduersus spiritum: et sic qualitates contrarie erunt si 
+          <lb ed="#P" n="92"/>mul. contra Aristo. iiii. metha.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e540">
+          ¶ Aespondetur: deus 
+          <lb ed="#P" n="93"/>creauit nos homines: modo de hominum ratione est 
+          ha<lb ed="#P" n="94" break="no"/>bere acopetitum sensitiuum: qui inclinatur in prosequutio 
+          <lb ed="#P" n="95"/>nem obiecti conuenientis / vt homines nutriantur / et se 
+          <lb ed="#P" n="96"/>manuteneant per generationem. dedit rationem et 
+          im<lb ed="#P" n="97" break="no"/>perium ipsi voluntati: per quod potest sensualitatem 
+          co<lb ed="#P" n="98" break="no"/>hibere ne tendat effrenis circa suum obiectum. Ad 
+          <lb ed="#P" n="99"/>aliud respondetur. quando est prosequutio in 
+          sensuali<lb ed="#P" n="100" break="no"/>tate respectu a. obiecti delectabimlst respuitio 
+          eius<lb ed="#P" n="101" break="no"/>dem in voluntate vel in appetitu intellectiuo: non 
+          <lb ed="#P" n="102"/>est contrarietas. contraria sunt apta nata fieri 
+          circa<lb ed="#P" n="103" break="no"/>idem. modo appetitus sensitiuus non est appetitus in 
+          <lb ed="#P" n="104"/>tellectiuus: et sic actus qui in his duabus potentiis sunt / 
+          <lb ed="#P" n="105"/>non contrariantur. sed quia tendunt in idem obiectum 
+          <lb ed="#P" n="106"/>opposito modo: vt sensualitas in prosequutionem 
+          <lb ed="#P" n="107"/>obiecti delectabilis: et voluntas in fugam illius: dicir 
+          <lb ed="#P" n="108"/>contrarietas obiectimaquantum ad tendentiam: et illa non est 
+          <lb ed="#P" n="109"/>contrarietas vllo modo.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e579">
+          ¶ Contra tertiam 
+          conclu<lb ed="#P" n="110" break="no"/>sionem arguitur sic. appetitus sensitiuus est 
+          perfectior<lb ed="#P" n="111" break="no"/>appetitu intellectiuo: ergo actus eius est perfectior 
+          cir<lb ed="#P" n="112" break="no"/>ca idem obiectum quam actus appetitus intellectiui: et 
+          pr<lb ed="#P" n="113" break="no"/>consequens habitus appetitus sensitiui est perfectior 
+          ha<lb ed="#P" n="114" break="no"/>bitu appetitus / intellectiui: et per consequus virtus in ap 
+          <lb ed="#P" n="115"/>petitu sensitiuo est perfectior quam in appetitu 
+          intelle<lb ed="#P" n="116" break="no"/>ctiuo. primum antecedens probatur: appetitus 
+          sen<lb ed="#P" n="117" break="no"/>sitiuus est aggregatum ex organoet anima intelle 
+          <lb ed="#P" n="118"/>ctiua: appetitus intellectiuus nichil aliud est quam 
+          vo<lb ed="#P" n="119" break="no"/>luntas. modo totum alterius rationis a parte 
+          sem<lb ed="#P" n="120" break="no"/>per est perfectius essentialiter sua parte: alioquin 
+          <pb ed="#P" n="109-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>homo non esset perfettior sua anima.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e612">
+          ¶ Aespondetur 
+          distinguen<lb ed="#P" n="2" break="no"/>do quod appetitus sensitiuus sit perfectior appetitu 
+          intelle<lb ed="#P" n="3" break="no"/>ctiuo: vel perfectior entitatiue: et sic concedo: vel quod sit 
+          par<lb ed="#P" n="4" break="no"/>fectior potentia: et sic nego. intellectus et voluntas est per 
+          <lb ed="#P" n="5"/>fectior potentia quam sensus et appetitus. sensitiuus: quia potest 
+          <lb ed="#P" n="6"/>actum producertur perfectiorem: et seperati a corpere potest suum actum 
+          <lb ed="#P" n="7"/>producere: non autem sensus: et nobiliora oba respicit. 
+          sen<lb ed="#P" n="8" break="no"/>sus vel appetitus sensitiuus nihil spuritale habet pro suo obso. 
+          <lb ed="#P" n="9"/>pro nunc non aggredior illam difficultatem phisicam: 
+          an<lb ed="#P" n="10" break="no"/>appetitus sensitiuus sit in corde more Aristo. vel in 
+          cere<lb ed="#P" n="11" break="no"/>bro more medicorum: in quocumque illorum locorum est: ille 
+          <lb ed="#P" n="12"/>est appetitus sen sitiuus in qua virtutem vicium locamus. 
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e639">
+          <lb ed="#P" n="13"/>¶ Contra istam arguitur: bene sequitur: hic binarius (demonstran 
+          <lb ed="#P" n="14"/>do animam et suum organum corporeum ) est perfectior quam hec 
+          <lb ed="#P" n="15"/>anima: et hic binarius est potentia sensitiua: ergo potentia 
+          sen<lb ed="#P" n="16" break="no"/>sitiua est perfectior anima.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e650">
+          ¶ Respondetur concedendoquod sequatur. 
+          <lb ed="#P" n="17"/>sed ex illo non sequitur appetitus sensitiuus est perfectior 
+          po<lb ed="#P" n="18" break="no"/>tentia quam voluntas: bene autem est perfectior res. libet idem sit 
+          <lb ed="#P" n="19"/>potentia et ille binarius vel illa res: est minus perfecta 
+          po<lb ed="#P" n="20" break="no"/>tentia: et perfectior res.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e661">
+          ¶ Contra ista arguitur: si sensus esset 
+          <lb ed="#P" n="21"/>aggregatum ex organo et anima: tunc appetitus sensitiuus 
+          <lb ed="#P" n="22"/>in homine esset perfectior quam appetitus sensitiuus / in bruto: 
+          <lb ed="#P" n="23"/>et potentia visiua in homine esset perfectior potentia 
+          visi<lb ed="#P" n="24" break="no"/>ua aquile. consequens est fln. aquila longe melius videt.
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e672">
+          ¶ Respondetur 
+          <lb ed="#P" n="25"/>potentia visiua hominis est perfectior res quam potentia visiua 
+          <lb ed="#P" n="26"/>lincis vel aquile: sed non est perfectior potentia visiua: cum 
+          <lb ed="#P" n="27"/>linx et aquila longius et perspicacius vident: haesent organum quaeli 
+          <lb ed="#P" n="28"/>tatiue melius dispositum: habic melius vident: nonne vides: 
+          <lb ed="#P" n="29"/>lippus et senex potentiam visiuam habsent ita perfectam entita 
+          <lb ed="#P" n="30"/>tiue sicut in iuuentute: et tamen non ita bene vident: quia potentia 
+          <lb ed="#P" n="31"/>vislua eorum debilitatur: et est indisposita. modo potentiam bene 
+          <lb ed="#P" n="32"/>disponi multum facit ad exeundum in actum potentie: et 
+          <lb ed="#P" n="33"/>ad denominandam potentiam perfectam in esse potentie. si senex 
+          <lb ed="#P" n="34"/>hatret oculum iuuenis videret vt iuuenis primo de anima. 
+        </p>
+        <p xml:id="jm3cbb-e66229-d1e696">
+          <lb ed="#P" n="35"/>¶ Uides ergo quomodo saluari potest quodo sunt habitus in appetitu 
+          <lb ed="#P" n="36"/>sesitiuo eum hilitantes ad imperium rationis: et vt rationi 
+          pa<lb ed="#P" n="37" break="no"/>reat inclinantes. et potest esse tantus / habitus: quod inclinatio eius tantum 
+          <lb ed="#P" n="38"/>facit ad respuitionem obii ad quod inclinatur ex se: vt cum 
+          <lb ed="#P" n="39"/>voluptate respuat ipsum. quando homo exit in actum sui habitus / 
+          <lb ed="#P" n="40"/>cum oblectamento exit: et tantus esse potest habitus quod 
+          sensua<lb ed="#P" n="41" break="no"/>litas erit extincta: ad hunc sensum: quod nullam 
+          rebellio<lb ed="#P" n="42" break="no"/>nem facit in homine ad hoc quod abstineat ab obo ad quod 
+          <lb ed="#P" n="43"/>sensualitas ex se inclinatur. hoc in gradibus virtutum 
+          <lb ed="#P" n="44"/>amplius deducetur: propterea super hoc nunc supersedeo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

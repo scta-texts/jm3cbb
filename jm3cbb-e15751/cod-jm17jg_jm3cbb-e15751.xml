@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="26-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e15751"><!-- l3d13q3 -->
+        <head xml:id="jm3cbb-e15751-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e15751-Hd1e101" type="question-title">An anima Christi habeat infinitam gratiam intensive</head>
+        <p xml:id="jm3cbb-e15751-d1e104">
+          <lb ed="#P" n="19"/>TErtio circa hanc 
+          <lb ed="#P" n="20"/>materiam queritur: an 
+          anima<lb ed="#P" n="21" break="no"/>christi habeat infinitam gratiam in 
+          <lb ed="#P" n="22"/>tensiue. nunc recitabo modum 
+          <lb ed="#P" n="23"/>quem soleo tenere a. xii vel. xiiii 
+          <lb ed="#P" n="24"/>annis preteritis / dum in 
+          scola<lb ed="#P" n="25" break="no"/>eram: quem tenere intendo. et 
+          <lb ed="#P" n="26"/>per duas conclusiones mentem explanabo.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e124">
+          ¶ Prior
+          <lb ed="#P" n="27"/>est hec: deus potest producere infinitam charitatem 
+          <lb ed="#P" n="28"/>cathegoreumatice: vel gratiam: quod pro eod est 
+          re<lb ed="#P" n="29" break="no"/>cipio.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e133">
+          ¶ Secunda conclusio: anime christi infinita 
+          gra<lb ed="#P" n="30" break="no"/>tia intensiue communicata est. Prior conclusio sic 
+          proba<lb ed="#P" n="31" break="no"/>tur mundus / potuit fuisse ab etseno: sicut putauit 
+          Ari<lb ed="#P" n="32" break="no"/>stoteles. ex prima distinctione secundi infiniti homines 
+          <lb ed="#P" n="33"/>poterant esse predestinati: et tunc essent infinite 
+          ani<lb ed="#P" n="34" break="no"/>me cathegoreumatice gratias habentes infinitas: 
+          <lb ed="#P" n="35"/>ex quibus si deus poterat conflare vnam gratiam: 
+          <lb ed="#P" n="36"/>illa esset infinite intensa. dices: ille gratie suissent 
+          <lb ed="#P" n="37"/>inequales: et sic non fuisset ex eis infinita gratia. 
+          <lb ed="#P" n="38"/>hoc non valet: fuissent infiniti gradus equales. 
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e156">
+          <lb ed="#P" n="39"/>¶ Secundo arguitur ad idem. tenendo lineam latitu 
+          <lb ed="#P" n="40"/>dinis et profunditatis expertem: datur actu vna 
+          <lb ed="#P" n="41"/>linea infinite longa. patet de linea giratiua 
+          corpo<lb ed="#P" n="42" break="no"/>ris colunnaris. viii. vel decem pedum: cuius crassitu 
+          <lb ed="#P" n="43"/>do erit vnius pedis. gira girans primam partem 
+          pro<lb ed="#P" n="44" break="no"/>portionalem est pedalis ad minus: et gira girans 
+          <lb ed="#P" n="45"/>duas primas partes proportionales est bipedalis: 
+          <lb ed="#P" n="46"/>gira girans tres primas partes proportionales est 
+          <lb ed="#P" n="47"/>tripedalis: infinite sunt partes proportionales 
+          ca<lb ed="#P" n="48" break="no"/>hegoreumatice. ergo gira girans omnes est 
+          infi<lb ed="#P" n="49" break="no"/>nite longa. nihil est dictu quod Duri. et Marsillius 
+          <lb ed="#P" n="50"/>dicunt: nulla gira girat omnes: quia nulle partes 
+          <lb ed="#P" n="51"/>sunt omnes. quia nec due sunt omnes / nec tres sunt 
+          <lb ed="#P" n="52"/>omnes / nec quattuor sunt omnes / et sic 
+          consequen<lb ed="#P" n="53" break="no"/>ter. dico: vna singularis est falsa: demonstrando 
+          <lb ed="#P" n="54"/>omnes. et si teneatur (pro vt verius putatur ) quod 
+          <lb ed="#P" n="55"/>quelibet longitudo est latitudo et profunditas: 
+          <lb ed="#P" n="56"/>et cum hoc quod longitudo corporis difformis debet 
+          <lb ed="#P" n="57"/>mensurari penes lineam imaginabilem 
+          longissimam<lb ed="#P" n="58" break="no"/>in medio / habetur idem. similiter Aristo. deberet 
+          <lb ed="#P" n="59"/>nunc dicere quod est infinita multitudo animarum / 
+          tenen<lb ed="#P" n="60" break="no"/>do quod anima erat incorruptibilis: nulla erat eieuasio. 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>nulla est apparentia dicere quod anima migret de 
+          coi<lb ed="#P" n="62" break="no"/>pore in corpus cum pitagora: vel quod est vna in 
+          om<lb ed="#P" n="63" break="no"/>nibus hominibus: ergo. Ex his patet prior 
+          cona<lb ed="#P" n="64" break="no"/>clusio. quia hanc materiam in fine primi latius 
+          de<lb ed="#P" n="65" break="no"/>duco nunc pertranseo.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e219">
+          ¶ Secunda conclusio probatur 
+          <lb ed="#P" n="66"/>tam auctoritate quam ratione. auctoritates sunt heci 
+          <lb ed="#P" n="67"/>prima: Ioannis. iii. non enim ad mensuram dat deus 
+          <lb ed="#P" n="68"/>spsm: et gio. marginaluinon particulati: non per subdiui 
+          <lb ed="#P" n="69"/>siones: sed geneafiter: et vsiuersasitur non valet 
+          etpo<lb ed="#P" n="70" break="no"/>sitio nicholai: data est secundum suam capacitatem: vt 
+          <lb ed="#P" n="71"/>quando vas est aqua repletum. hoc in prima 
+          questio<lb ed="#P" n="72" break="no"/>ne huius distinctionis reprobauimus. Secunda aucto 
+          <lb ed="#P" n="73"/>ritas est Ioannis. i. et vidimus eius gloriam 
+          quasi<lb ed="#P" n="74" break="no"/>vnigeniti a patre plenum gratieet vritatis: vbi glo 
+          <lb ed="#P" n="75"/>marginalis / homo christus plenus fuit gratia: quia 
+          nul<lb ed="#P" n="76" break="no"/>lis precedentibus meritis. ex quo conceptus est fuit 
+          <lb ed="#P" n="77"/>diuinitas in eo complens hominem illum 
+          omni<lb ed="#P" n="78" break="no"/>plenitudine redundante in omnes sanctos. e glo 
+          <lb ed="#P" n="79"/>sa interlinearis / secundum humanitatem. et glosa iterum 
+          mar<lb ed="#P" n="80" break="no"/>ginalis Augustini de gratia infusa hoc intelligit. 
+          <lb ed="#P" n="81"/>alioquin non esset plenitudo gratie in eo contra 
+          <lb ed="#P" n="82"/>euangelistam. hoc tenet magister in litera ca. secunda 
+          <lb ed="#P" n="83"/>cuidam obiectioni satisfaciens: que ex verbis 
+          Lu<lb ed="#P" n="84" break="no"/>ce. ii. trahi potest: vbi beatus Lucas dicit: 
+          Ihe<lb ed="#P" n="85" break="no"/>sus proficiebat sapientia / et etate / et gratia / apud 
+          <lb ed="#P" n="86"/>deum et homines. si enim proficiebat sapicntia et 
+          <lb ed="#P" n="87"/>gratia: non videtur a conceptione habuisse 
+          plenitu<lb ed="#P" n="88" break="no"/>dinem gratie sine mensura. E cce obiectionem 
+          magi<lb ed="#P" n="89" break="no"/>stri in forma. ad quam sic respondet. ad quod sane dici 
+          po<lb ed="#P" n="90" break="no"/>test: ipsu secundum hominem tantam a conceptione 
+          acce<lb ed="#P" n="91" break="no"/>pisse sapientie et gratie plenitudinem: vt deus ei 
+          ple<lb ed="#P" n="92" break="no"/>nius conferre non potuit: et tamen vere dicil prosecisse 
+          <lb ed="#P" n="93"/>sapientia et gratia: non quidem in se: sed in aliis: qui 
+          <lb ed="#P" n="94"/>de eius sapientia et gratia proficiebanr. ad hoc 
+          <lb ed="#P" n="95"/>Gregorium in quadam omclia introducit: qui an i 
+          Ir<lb ed="#P" n="96" break="no"/>ta hominis naturam 
+          proficiebarsapieni<lb ed="#P" n="97" break="no"/>se sapientior esset ex tempdre: quta a oinima 
+          conce<lb ed="#P" n="98" break="no"/>ptionis hora spiritu sapientie plenus 
+          petmane<lb ed="#P" n="99" break="no"/>bat. et Augu. ad dardanum dicit / omni gratia 
+          ple<lb ed="#P" n="100" break="no"/>nus est. Ex his scquitur / quod magister tenei quod deus 
+          <lb ed="#P" n="101"/>dedit anime christi tantam gratiam quod maioret farrena 
+          <lb ed="#P" n="102"/>potuerit et illi dicto addo hanc propositionem: dena 
+          <lb ed="#P" n="103"/>potest creare infinitamgratiam intensiue: ex 
+          con<lb ed="#P" n="104" break="no"/>clusione praecedente: ergo ei data est infinita gta iiten¬¬ 
+          <lb ed="#P" n="105"/>siue.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e308">
+          ¶ Ratio est hec. quod honestius esty dcaiquioes 
+          <lb ed="#P" n="106"/>anime christi: ita quod si oporteat labi non dando anime christi 
+          <lb ed="#P" n="107"/>quod habet / vel dando ei plusquam habeat: vbi 
+          certis<lb ed="#P" n="108" break="no"/>sime non constat de medio: malo excedere dando 
+          <lb ed="#P" n="109"/>ei plus quam habeat quam tollendo aliquid gratie quod 
+          ha<lb ed="#P" n="110" break="no"/>bet. gentiles omnes de deo loqueutes ei attribue 
+          <lb ed="#P" n="111"/>bant quicquid excellentie esse videbatur: sed 
+          au<lb ed="#P" n="112" break="no"/>ctoritates sonant quod infinitam gratiam intensiue 
+          ha<lb ed="#P" n="113" break="no"/>beat: et illud est prohabile ex prima conclusione: 
+          <lb ed="#P" n="114"/>ergo illud est anime christi dandum: Preterea: si non 
+          <lb ed="#P" n="115"/>sit infinita: sed finita: multi alii sancti possunt 
+          to<lb ed="#P" n="116" break="no"/>tam suam gratiam attingere: quod est inconueniens. 
+          <lb ed="#P" n="117"/>sed ista ratio non est ponderanda. sanctorum nullus at 
+          <lb ed="#P" n="118"/>tinget gratiam christifere virginis: que est finita 
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e339">
+          <lb ed="#P" n="119"/>¶ Propterea hane conclusionem teneo: quod gratia 
+          <lb ed="#P" n="120"/>anime christi est infinita intensiue: et ex con 
+          sequen<lb ed="#P" n="121" break="no"/>ti cum vero sequitur quod gratia anime christi omnium sanctorum 
+          <pb ed="#P" n="27-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>gratias in gradu excedit. probatio: omnes alie gratie 
+          <lb ed="#P" n="2"/>iuncte sunt finite. Stephanus est gratia plenus secundum 
+          <lb ed="#P" n="3"/>decentiam. diua virzo secundum preeminentiam. christus sim 
+          <lb ed="#P" n="4"/>pliciter plenus secundum infinitate.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e361">
+          ¶ Cotra hac 
+          conclu<lb ed="#P" n="5" break="no"/>sionem arguitur: ex ea sequitur quod actus elicitus ab anima 
+          <lb ed="#P" n="6"/>christi esset minus meritorius quam actus sortis. conse 
+          <lb ed="#P" n="7"/>quens est inconueniens. et quod sequatur patet sic: habet 
+          <lb ed="#P" n="8"/>infinitum auxilium naturale: scilicet concursum gratie: que 
+          <lb ed="#P" n="9"/>ad quemlibet actum meritorium effectiue concurrit. 
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e374">
+          <lb ed="#P" n="10"/>¶ Respondetur. de merito anime christi futurus est 
+          sermo<lb ed="#P" n="11" break="no"/>distin. xviii. huius.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e382">
+          ¶ Secundo dico: quod non semper actus 
+          <lb ed="#P" n="12"/>elicitus a maiore gratia est minus meritorius quam actus 
+          <lb ed="#P" n="13"/>elicitus minore gratia. et hoc est verum quando homo 
+          per<lb ed="#P" n="14" break="no"/>merita sua habet gratiam datam. tunc gratia 
+          dispositi<lb ed="#P" n="15" break="no"/>ue dependet in facultate sua. et idem est de gratia anime 
+          <lb ed="#P" n="16"/>christi quam deus illi besendicte anime gratis dedit. 
+          natu<lb ed="#P" n="17" break="no"/>ralilla assumpta fuit toti trinitati acceptissia.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e398">
+          ¶ 
+          Se<lb ed="#P" n="18" break="no"/>cundo: ex questionis conclusione responsiua sequitur quod 
+          <lb ed="#P" n="19"/>christus non potest actum meritorium finite intensum elicere. 
+          <lb ed="#P" n="20"/>consequens est inconueniens. ergo et antecedens. conse 
+          <lb ed="#P" n="21"/>quentiam declaro: quia quocumque conatu voluntatis 
+          <lb ed="#P" n="22"/>ad actus elitionem applicato: actus esset infinite 
+          in<lb ed="#P" n="23" break="no"/>tensus. quod probo: quia applicatur agens infinite 
+          <lb ed="#P" n="24"/>actiuitatis: agens quidem naturale secundum extremum 
+          <lb ed="#P" n="25"/>sue potentie agens. Insuper: si actus esset finitus se 
+          <lb ed="#P" n="26"/>quitur hec conclusio quod actus potest esse ita intensus 
+          <lb ed="#P" n="27"/>cum finita gratia sicut cum gratia infinita. Ulterius se 
+          <lb ed="#P" n="28"/>quitur: quod gratia necessitaret voluntatem creatam christi ad 
+          <lb ed="#P" n="29"/>eliciendum actum meritorium: et per consequens non erit 
+          <lb ed="#P" n="30"/>meritorius: cum non erit liber.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e429">
+          ¶ Ad primum istorum dicitur 
+          <lb ed="#P" n="31"/>quod a quaecumque concursu voluntatis quantuncunqe paruo 
+          si<lb ed="#P" n="32" break="no"/>deus influentia generali concurret / relinquendo caritatem 
+          <lb ed="#P" n="33"/>concurrere secundum extremum sue potentie: erit actus 
+          infi<lb ed="#P" n="34" break="no"/>nitus elicitus. et propterea beatitudo voluntatis anime 
+          <lb ed="#P" n="35"/>christi est infinita. et deus potest tantum cooperari cum 
+          intel<lb ed="#P" n="36" break="no"/>lectu ad videndum: vel superinfundere aliquem habitum 
+          <lb ed="#P" n="37"/>creatum: et sic visio dei erit infinita. potest tamen deus si 
+          <lb ed="#P" n="38"/>velit non concurrere cum charitate secundum extremum 
+          potem<lb ed="#P" n="39" break="no"/>tie charitatis: et tumoactus elicitus / erit finitus. Ex 
+          <lb ed="#P" n="40"/>emplum in simili: si sit calor infinitus: et deus coagat 
+          <lb ed="#P" n="41"/>influentia generali secum / infinite calefacit. potest tamen de 
+          <lb ed="#P" n="42"/>us sic concurrere quod multum vel parum ad nutum dei 
+          ca<lb ed="#P" n="43" break="no"/>lefaciat: sicui deus qui est infiniti vigoris finite 
+          ca<lb ed="#P" n="44" break="no"/>lefacit. et licet deus sit agens liberum: et charitas 
+          <lb ed="#P" n="45"/>agens naturale: omnia agentia creata tam naturalia 
+          <lb ed="#P" n="46"/>quam libera a concursu dei dependent.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e466">
+          ¶ Ad secundum 
+          ar<lb ed="#P" n="47" break="no"/>gumentum: nego quod charitas vel quicumque habitus 
+          <lb ed="#P" n="48"/>potest voluntatem necessitare. habitus quilibet est 
+          instru<lb ed="#P" n="49" break="no"/>mentum potentie: quam necessitare non potest.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e475">
+          ¶ Dubita 
+          <lb ed="#P" n="50"/>tur: an gratia vnionis: et gratia singularis persone christi. et 
+          <lb ed="#P" n="51"/>gratia capitis: sunt eadem gratia realiter.
+        </p>
+        <p xml:id="jm3cbb-e15751-d1e482">
+          ¶ Respondetur: 
+          <lb ed="#P" n="52"/>hic aliqui verba et parum in sententia multiplicat. 
+          <lb ed="#P" n="53"/>dico: gratia vnionis potest capi pro gratuita dei 
+          volun<lb ed="#P" n="54" break="no"/>tate: et tunc notum est distinguitur a gratia 
+          habituali<lb ed="#P" n="55" break="no"/>anime christi. Alio modo potest capi gratia vnionis pro 
+          gratia<lb ed="#P" n="56" break="no"/>habituali de qua in quastionibus precedentibus 
+          lo<lb ed="#P" n="57" break="no"/>quuti sumus: qua redditur humanitas christi digna secundum 
+          <lb ed="#P" n="58"/>legem ad bie quod assumatur a verbo. non quod gratia talis sit ne 
+          <lb ed="#P" n="59"/>cessaria ad hoc quod assumatur a verbo de potentia dei: 
+          <lb ed="#P" n="60"/>vt in distinctione secunda diximus de corpore christi 
+          as<lb ed="#P" n="61" break="no"/>sumpto a verbo in triduo sine gratia inherente: et tunc 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>est eadem realiter cum gratia singularis persone: sed 
+          ter<lb ed="#P" n="63" break="no"/>mini in connotato differunt. dicitur gratia singularis 
+          per<lb ed="#P" n="64" break="no"/>sdne / pro quanto facit opera eius deo grata. et gratia 
+          vnio<lb ed="#P" n="65" break="no"/>nis pro quanto reddit humanitatem dignam ad hoc quod 
+          assu<lb ed="#P" n="66" break="no"/>matur. eadem gratis dicitur gratia capitis / inquantum christus 
+          <lb ed="#P" n="67"/>meruit per gratiam illam vt redundaret: et continuo in 
+          <lb ed="#P" n="68"/>nos redundat secundum illud Ioannis. /. de plenitudine 
+          <lb ed="#P" n="69"/>eius omnes accipimus. tota ecclesia dicitur vnum 
+          cor<lb ed="#P" n="70" break="no"/>pus mysticum per similitudinem ad naturale corpus 
+          <lb ed="#P" n="71"/>hominis: eo quod sicut in corpore naturali sunt multa 
+          men<lb ed="#P" n="72" break="no"/>bra diuersos actus habentia: sic in ecclesia funt 
+          mul<lb ed="#P" n="73" break="no"/>te persone habentes diuersa bona et officia: vt 
+          pa<lb ed="#P" n="74" break="no"/>tet per apostolm ad Romanos. xii. et prime Corinthi. 
+          <lb ed="#P" n="75"/>xii. sie in ecclesia dicitur esse aliquod caput: ad si 
+          <lb ed="#P" n="76"/>militudinem capitis humani: et similitudo est hec. 
+          <lb ed="#P" n="77"/>caput est prima pars hominis a superiore parte 
+          exor<lb ed="#P" n="78" break="no"/>diendo: ceteris partibus est prefectior quia in eo 
+          vigen<lb ed="#P" n="79" break="no"/>omnes sensus tam interiores quam exteriores. solus 
+          sen<lb ed="#P" n="80" break="no"/>sus tactus in aliis partibus: propter vim cognitiuam 
+          <lb ed="#P" n="81"/>et motiuam illic dominantem reliquas partese se regit. sic/e 
+          <lb ed="#P" n="82"/>christus secundum quod homo: hoc est humanitas christi est eiusdem na 
+          <lb ed="#P" n="83"/>ture nobiscum: est altior membris in gratia cognitione 
+          <lb ed="#P" n="84"/>et aliis donis. meretur pro membris: et in ea influit: secundum 
+          <lb ed="#P" n="85"/>illud Ioan. i. de plenitudine eius accipimus omnes. 
+          <lb ed="#P" n="86"/>propterea dicitur caput eccle secundum humanitatem. iuxta 
+          il<lb ed="#P" n="87" break="no"/>lud ad Ephese i. ipsum dedit caput sup 
+          ommecciel<lb ed="#P" n="88" break="no"/>siam: vbiglo. quod christus dicitur caput secundum humanitatem. nec 
+          <lb ed="#P" n="89"/>inconuenit quod caput habeat in alio ordine: scilicet deum: 
+          <lb ed="#P" n="90"/>vt patet prime Corin. xi. caput christi deus. sicut 
+          paterfa<lb ed="#P" n="91" break="no"/>milias caput domus habet caput aliud in vrbe 
+          vel<lb ed="#P" n="92" break="no"/>in regno. etiam dicitur caput angelorum / ad Collocens. ii. et 
+          <lb ed="#P" n="93"/>in eos influit secundum Dyoni. c. vii. celestis hierarchie. 
+          <lb ed="#P" n="94"/>et angeli beati ad vnum finem tendunt cum hominbus: ad deum 
+          <lb ed="#P" n="95"/>videndum / amandum / et laudandum ergo vnam ecclesiam 
+          cum<lb ed="#P" n="96" break="no"/>hominibus faciunt. sed non habet tot conuenientias cum 
+          ange<lb ed="#P" n="97" break="no"/>lis sicut cum hominibus postquam non est eiusdem naturecum eis
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

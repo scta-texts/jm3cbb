@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="157-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e95948"><!-- l3d39q2 -->
+        <head xml:id="jm3cbb-e95948-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e95948-Hd1e101" type="question-title">An omne iuramentum sit obligatorium</head>
+        <p xml:id="jm3cbb-e95948-d1e104">
+          <lb ed="#P" n="78"/>SEcundo circa hunc 
+          <lb ed="#P" n="79"/>materiam queritur an omne 
+          iura<lb ed="#P" n="80" break="no"/>mentum sit obligatorium.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e113">
+          ¶ 
+          Re<lb ed="#P" n="81" break="no"/>spondetur. omne iuramentum 
+          <lb ed="#P" n="82"/>sicitum habens legittimam mate 
+          <lb ed="#P" n="83"/>riam iuramenti / est 
+          obligatori<lb ed="#P" n="84" break="no"/>um. licet res iurata sit licita: si 
+          <lb ed="#P" n="85"/>obicem maiori bono prestat. non est materia 
+          iuramen<lb ed="#P" n="86" break="no"/>ti: vt non intrare remligionem est licitum: sed non est 
+          li<lb ed="#P" n="87" break="no"/>cita materia iuramenti / sicut in distinctione. xxxviii. 
+          <lb ed="#P" n="88"/>quarti diximus. Probatur hec conclusio: omne 
+          proinis<lb ed="#P" n="89" break="no"/>sum licitum et circa materiam licitam est seruandum: 
+          <lb ed="#P" n="90"/>omne iuramentum licitum est huiusmodi: igitur.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e137">
+          ¶ Secundo 
+          <lb ed="#P" n="91"/>arguitur ad idem: omne periurium est peccatum: vt 
+          poss<lb ed="#P" n="92" break="no"/>hac dicetur. sed qui non seruat iuramentum licitum 
+          <lb ed="#P" n="93"/>est periurus: ergo peccat: et non nisi quia 
+          iuramen<lb ed="#P" n="94" break="no"/>tum suum relinquiat: igitur.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e149">
+          ¶ Tertio patet hoc per c. 
+          <lb ed="#P" n="95"/>Si vero. de iureiuran. vbi Alex. iii. archiepiscopo 
+          <lb ed="#P" n="96"/>Senonen. dixit. Duximus tibi respondendum quod 
+          <lb ed="#P" n="97"/>non est tutum quemlibet contra iuramentum suum 
+          veni<lb ed="#P" n="98" break="no"/>re: nisi tale sit quod seruatum virgat in interitum salutis 
+          <lb ed="#P" n="99"/>eterne. nec nos alicui dare materiam volumus 
+          ve<lb ed="#P" n="100" break="no"/>niendi contra iuramentum proprium ne auctores 
+          periu<lb ed="#P" n="101" break="no"/>rii videamur: nec obstat quod sit per metum extortum: 
+          <lb ed="#P" n="102"/>vt patet per. c. nuperrime allegatum: et patet per. c. 
+          <lb ed="#P" n="103"/>Ad audientiam. de his quae vi metus. et. xxii. q. iiii. si 
+          a<lb ed="#P" n="104" break="no"/>liu n. vt hec conclusio intelligatur / obiiciemus de 
+          <lb ed="#P" n="105"/>iuramento coacto doloso et incantato et in quo 
+          di<lb ed="#P" n="106" break="no"/>spensatur.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e178">
+          ¶ Primo arguitur: matrimonium metu 
+          fa<lb ed="#P" n="107" break="no"/>etum iureiurando assertum est nullum: ergo conclusio 
+          fal<lb ed="#P" n="108" break="no"/>sa. clare sic arguitur: cogat tirannus metu cadente 
+          <lb ed="#P" n="109"/>in constantem virum sortem contrahere cum sua filia 
+          <lb ed="#P" n="110"/>per verba de presenti: et consentiat sortes: quia si 
+          di<lb ed="#P" n="111" break="no"/>ceret se consentire et non consentiret peccaret per 
+          men<lb ed="#P" n="112" break="no"/>dacium: et sic non esset constans. consentit ergo: et 
+          <lb ed="#P" n="113"/>tamen sic iurans non obligatur tenere iuramentum: 
+          <lb ed="#P" n="114"/>etiam si ex culpa sua in talem metum inciderit: tenetur 
+          <lb ed="#P" n="115"/>cum salute anime implers quod potest: vt patet per. c. 
+          Ue<lb ed="#P" n="116" break="no"/>nsens. de sponsa.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e202">
+          ¶ Pib argumenti solutione note 
+          <lb ed="#P" n="117"/>tumduplex esse metus. quidam endit in constantem 
+          vi<lb ed="#P" n="118" break="no"/>rum: hoc est: ratione illlus vir prudens debet 
+          fle<lb ed="#P" n="119" break="no"/>cti et consentire: esto quod sibi relictus consentire nol¬ 
+          <pb ed="#P" n="158-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>let. mors / mutilatio / omnim bonorum perditio / iustum 
+          <lb ed="#P" n="2"/>metum incutiunt. ius irritat aliquos contractus qui 
+          <lb ed="#P" n="3"/>per metum fiunt: in talibus homo non est obligatus 
+          <lb ed="#P" n="4"/>perficere quod iurauit: quia consensus ille non sufficit 
+          <lb ed="#P" n="5"/>ad illum contractum ratione irritationis a lege. 
+          con<lb ed="#P" n="6" break="no"/>sensus matrimonialis debet esse liber. vbi non est 
+          <lb ed="#P" n="7"/>libertas / consensus est nullus: nec ad matrimonium 
+          <lb ed="#P" n="8"/>sufficit: et per consequens non obligatur ratione iuramenti 
+          <lb ed="#P" n="9"/>matrimonium perficere: sed potest resilire sine 
+          pecca<lb ed="#P" n="10" break="no"/>to. ita contingit iu aliquibus aliis contractibus quaes 
+          <lb ed="#P" n="11"/>glo. in. c. Abbas. de his que vi aut metus. colligit 
+          <lb ed="#P" n="12"/>in carmine inquiens. Tutor / iudicium / dos / sacrum / 
+          <lb ed="#P" n="13"/>copula / votum / hec sex vi facta de iure scias 
+          fore<lb ed="#P" n="14" break="no"/>nulla. Cerera ius patitur: sed postea restituentur. 
+          <lb ed="#P" n="15"/>Auctoritas tutoris per metum extorta nulla est. ff. 
+          <lb ed="#P" n="16"/>de auct. tu. i. is. vltimo. non tenet iurisditio per 
+          me<lb ed="#P" n="17" break="no"/>tum extorta. ff. de iudi lege secunda. nec dos 
+          pro<lb ed="#P" n="18" break="no"/>missa per metum vel soluta non tenet: quia est 
+          accesso<lb ed="#P" n="19" break="no"/>ria ad matrimonium. ff. eodem titu. si mulier. . 
+          Si<lb ed="#P" n="20" break="no"/>dos. sacrum: hoc est res ecclesie promisse per metum 
+          <lb ed="#P" n="21"/>cum iuramento non obligant iurantem ad impletionem 
+          <lb ed="#P" n="22"/>xv. q. vi. c. primo de iureiuran. c. Peruenit. sexto 
+          vo<lb ed="#P" n="23" break="no"/>tum per metum factum non tenet. de his que vi metus 
+          <lb ed="#P" n="24"/>ve causa fiunt. c. primo. In aliis casibus tenent illa 
+          <lb ed="#P" n="25"/>que per metum fiunt: cum possunt sine interitu 
+          sa<lb ed="#P" n="26" break="no"/>tis seruari: tamen subuenitur metum passo per actionem 
+          <lb ed="#P" n="27"/>quod metus causa.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e274">
+          ¶ Secundo arguitur: sit sortes in ne 
+          <lb ed="#P" n="28"/>more qui iureiurando timore mortis promittat 
+          cras<lb ed="#P" n="29" break="no"/>satoribus mille: talis potest pecuniam soluere sicut 
+          <lb ed="#P" n="30"/>supponitur: et non est contra salutem anime sue hanc 
+          <lb ed="#P" n="31"/>pecuniam dare: et tamen non tenetur pecuniam dare 
+          <lb ed="#P" n="32"/>supposito quod habeat dispensationem a papa: vt patet 
+          <lb ed="#P" n="33"/>in. c. Si vero. de iureiuran.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e290">
+          ¶ Respondetur si sortes 
+          <lb ed="#P" n="34"/>potest habere clientes in sufficienti numero sine 
+          su<lb ed="#P" n="35" break="no"/>is impensis ad capiendos siccarios debet soluere 
+          <lb ed="#P" n="36"/>et tenere iusiurandum. Sinaunt / potst capere 
+          absolu<lb ed="#P" n="37" break="no"/>tionem ab epso qui eum a iuramento resaxabit: et tunc 
+          <lb ed="#P" n="38"/>non tenebitur soluere: quia episus potest absoluere 
+          iuran<lb ed="#P" n="39" break="no"/>tem quando iuramentum continet turpitudinem ex parte 
+          <lb ed="#P" n="40"/>recipientis et in eius odium. et licet episus possit 
+          absol<lb ed="#P" n="41" break="no"/>uere: bene ageret non soluendo / si aliud remedium 
+          <lb ed="#P" n="42"/>occurrat ipsi iuranti per quod non perdet suam 
+          pecuni<lb ed="#P" n="43" break="no"/>am: vt si quis iurauit fenerario dare pecuniam 
+          fe<lb ed="#P" n="44" break="no"/>nebram / illam dabit: sed datum repetet: vt patet in 
+          <lb ed="#P" n="45"/>c. Debitores. de iureiur. nihil iurauit de illo. vel 
+          di<lb ed="#P" n="46" break="no"/>cat iudici vt iudex suo officio cogat fenerarium 
+          re<lb ed="#P" n="47" break="no"/>mittere iuranti. Si vero iurauit pecuniam dare / et 
+          <lb ed="#P" n="48"/>eam non repetere / nec iudici nec alicui 
+          denuncia<lb ed="#P" n="49" break="no"/>re / sed omnino de dato silere: tunc iuramentum est 
+          incau<lb ed="#P" n="50" break="no"/>tum: ad quod seruandum iurans non est obligatus. 
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e329">
+          <lb ed="#P" n="51"/>¶ Sed contra hoc arguitur: casu stante quo 
+          sor<lb ed="#P" n="52" break="no"/>tes iurauit crassatoribus dare mille: et sie perdet 
+          su<lb ed="#P" n="53" break="no"/>am pecuniam irrecuperabiliter si eam det. seruare 
+          <lb ed="#P" n="54"/>iuramentum est de iure diuino: a quo episus non potest 
+          <lb ed="#P" n="55"/>absoluere et relaxare: quia si sic ius diuinum tollit. 
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e343">
+          <lb ed="#P" n="56"/>¶ Aespondetur: pro rationabili causa potest epistus in 
+          iu<lb ed="#P" n="57" break="no"/>ramento et in voto dispensare. modo hic est 
+          rationa<lb ed="#P" n="58" break="no"/>bilis causa / in odium crassatorum / et in fauorem 
+          innocem<lb ed="#P" n="59" break="no"/>tis et iusticie / ne hac via violetur ab improbis. 
+          mul<lb ed="#P" n="60" break="no"/>ta sunt quae sine dispensatione essent peccata que non 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>erunt peccata dispensatione habita a superiore: 
+          <lb ed="#P" n="62"/>patet in ieiunio et in aliis materiis. a fortiore in 
+          vo<lb ed="#P" n="63" break="no"/>to et in iureiurando quae tangunt ius diuinum: et 
+          ieiuni<lb ed="#P" n="64" break="no"/>um solum ius humanum. quando constat quod est illicitum 
+          ser<lb ed="#P" n="65" break="no"/>uare iuramentum propria auctoritate homo contrauenit: 
+          <lb ed="#P" n="66"/>quia non est obligatus seruare iuramentum. in casu 
+          <lb ed="#P" n="67"/>ancipiti habcatur dispensatio superioris. seruare 
+          <lb ed="#P" n="68"/>illud quod vouetur in propriis terminis / non est de iure 
+          <lb ed="#P" n="69"/>diuino: patet: si ille cui iuratur remittat: vel si detur 
+          <lb ed="#P" n="70"/>equalens aliud vel maius: eodem modo si a superiori fiat 
+          re<lb ed="#P" n="71" break="no"/>laxatio: vt in proposito.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e382">
+          ¶ Tertio arguitur: 
+          iuramen<lb ed="#P" n="72" break="no"/>tum dolosum non obligat: et tamen est iuramentum: 
+          <lb ed="#P" n="73"/>igitur. consequentia tenet cum minore: et probatur 
+          <lb ed="#P" n="74"/>maior: nemo obligatur obligatione speciali ad 
+          ali<lb ed="#P" n="75" break="no"/>quid nisi se obligare intendit: et patet in materia 
+          <lb ed="#P" n="76"/>voti in distinctione. xxxviii. quarti. ergo nec in iura 
+          <lb ed="#P" n="77"/>mento. sed dolose iurans non intendit se obligare: 
+          <lb ed="#P" n="78"/>immo intendit se non obligare fortasse: ergo 
+          ta<lb ed="#P" n="79" break="no"/>lis non obligatur seruare iuramentum.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e402">
+          ¶ 
+          Respon<lb ed="#P" n="80" break="no"/>detur: dolose iurans non obligatur seruare 
+          iuramen<lb ed="#P" n="81" break="no"/>tum: cum non intendat se obligare ad faciendum quod 
+          <lb ed="#P" n="82"/>iurat. tenetur tamen seruare alium indempnem: vt dolose 
+          <lb ed="#P" n="83"/>iuraui dare tibi ligna pro hyeme vel vina / tmpere quo 
+          <lb ed="#P" n="84"/>haberi solent bono foro: et tu in me confidis: et 
+          pro<lb ed="#P" n="85" break="no"/>pterea tibi non prouides: iacturam incurris ex 
+          <lb ed="#P" n="86"/>meo dolo: teneo te releuare / cum causam dedi 
+          tuo<lb ed="#P" n="87" break="no"/>dampno.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e422">
+          ¶ Contra illud arguitur: ordinem sacrum 
+          recipi<lb ed="#P" n="88" break="no"/>ens tenetur seruare: continentiam: esto quod hoc non 
+          intem<lb ed="#P" n="89" break="no"/>dat: ergo iurans facere a. et intendens oppositum / 
+          <lb ed="#P" n="90"/>tenetur hoc seruare. Secundo arguitur: dolose iurans 
+          <lb ed="#P" n="91"/>contrahere cum aliqua tenetur matrimonium perficere: 
+          <lb ed="#P" n="92"/>ergo sic in iuramento. Tertio: omne iuramentum 
+          <lb ed="#P" n="93"/>licitum est seruandum: iuramentum dolosum est huismodi: 
+          <lb ed="#P" n="94"/>igitur. Quarto: fraus et dolus nulli debent 
+          patro<lb ed="#P" n="95" break="no"/>cinari. si dolose iurans non est obligatus seruare 
+          iu<lb ed="#P" n="96" break="no"/>ramentum: et non dolose iurans est obligatus / 
+          iusiu<lb ed="#P" n="97" break="no"/>randum seruare: ergo dolus patrocinatur suo facto 
+          <lb ed="#P" n="98"/>ri.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e448">
+          ¶ Ad primum respondetur: accipiens ordines 
+          <lb ed="#P" n="99"/>intendit formaliter vel equiualenter seruare 
+          conti<lb ed="#P" n="100" break="no"/>nentiam. Formaliter vult ordines capere qui habent 
+          <lb ed="#P" n="101"/>continentiam annexam: ergo vult continentiam: 
+          sal<lb ed="#P" n="102" break="no"/>tem continentiam vult. quando a. et b. sunt insepara 
+          <lb ed="#P" n="103"/>biliter annexa / volens formaliter a. virtualiter et 
+          <lb ed="#P" n="104"/>equiualenter. b. vult.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e464">
+          ¶ Ad secundum nego 
+          <lb ed="#P" n="105"/>antecedens. et antecedente concesso / consequentia est nulla in alia 
+          <lb ed="#P" n="106"/>materia. in matrimonio excomnicatione fulminabitur 
+          <lb ed="#P" n="107"/>vt matrimonium perficiat: postquam ita dixit in facie 
+          eccle<lb ed="#P" n="108" break="no"/>sie: ergo vt se ab excommunicatione purget / debet 
+          <lb ed="#P" n="109"/>contrahere: et consentire de nouo / si non 
+          contra<lb ed="#P" n="110" break="no"/>xit realiter cum aliqua alia.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e481">
+          ¶ Ad tertium distinguo: 
+          <lb ed="#P" n="111"/>vel si homo non intendat se obligare: negatur. si 
+          inten<lb ed="#P" n="112" break="no"/>dat se obligare: verum est: si non deobligetur aliunde 
+          <lb ed="#P" n="113"/>per causam rationabilem. si sortes iuret platoni quod non 
+          <lb ed="#P" n="114"/>stabit contra eum: nichilominus potest stare contra eum pro 
+          <lb ed="#P" n="115"/>se / vel pro ecclesia sua / vel pro communitate sua / vt dicit 
+          <lb ed="#P" n="116"/>glo. in. c. Petitio. de iureiuran.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e497">
+          ¶ Ad quartum 
+          con<lb ed="#P" n="117" break="no"/>cedo maiorem cum minore: sed nego consequentiam. dolus 
+          <lb ed="#P" n="118"/>non patrocinatur iuranti dolose: cum peccet iurando 
+          <lb ed="#P" n="119"/>dolose. qui non iurat dolose / non peccat: et per 
+          con<lb ed="#P" n="120" break="no"/>sequens dolus non patrocinatur ipsi dolum habem¬ 
+          <pb ed="#P" n="158-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ti.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e515">
+          ¶ Quarto arguitur: iurans occidere homnem non 
+          <lb ed="#P" n="2"/>obligatur: immo adhuc manet obligatus non occide 
+          <lb ed="#P" n="3"/>re: quia quod erat illicitum ante sacramentum non fit 
+          li<lb ed="#P" n="4" break="no"/>citum post sacramentum: et tamen est iuramentum: 
+          <lb ed="#P" n="5"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e526">
+          ¶ Respondetur: istud iuramentum est incautum: 
+          <lb ed="#P" n="6"/>propterea non est seruandum sed rescindendum. in 
+          tur<lb ed="#P" n="7" break="no"/>pe promissis rescinde fidem. in turpi voto muta de 
+          <lb ed="#P" n="8"/>cretum. xxii. q. iiii. et magister in littera recitat. 
+          iu<lb ed="#P" n="9" break="no"/>ramentum vocatur incautum quando transit super mate 
+          <lb ed="#P" n="10"/>riam illicitam / vel materiam de se licitam sed non est 
+          lici<lb ed="#P" n="11" break="no"/>ta materia iuramenti: vt iurare velle religionem non 
+          <lb ed="#P" n="12"/>intrare. esto quod licet religionem non intrare: 
+          nemo<lb ed="#P" n="13" break="no"/>deberet fixe nolle vel se obligare ad non intrandum 
+          <lb ed="#P" n="14"/>religionem: quia hoc est / montioni sputssancti ponere 
+          <lb ed="#P" n="15"/>animm fixum in oppositum: et per consequens hoc iurans non est 
+          <lb ed="#P" n="16"/>obligatus seruare iuramentum vi iurisiurandi: cum 
+          <lb ed="#P" n="17"/>sit iuramentum incautum. quo fit / iurans occidere 
+          ho<lb ed="#P" n="18" break="no"/>minem auctoritate priuata peccat de nouo hominen 
+          <lb ed="#P" n="19"/>volendo occidere: quia peccatum peccato addit. Primo 
+          <lb ed="#P" n="20"/>peccauit iurando. aliquod est iuramentum 
+          indiffe<lb ed="#P" n="21" break="no"/>rens ad iuramentum incautum et cautum: vt quando 
+          ali<lb ed="#P" n="22" break="no"/>quis iurat aliquod quod est indifferens ad licitum 
+          il<lb ed="#P" n="23" break="no"/>licitum. stat successu temporis / quod fuit a 
+          principio<lb ed="#P" n="24" break="no"/>indifferens vel licita materia iuramenti / efficiatur 
+          <lb ed="#P" n="25"/>illicita materia iuramenti: et sic erit iuramentum 
+          incau<lb ed="#P" n="26" break="no"/>tum.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e574">
+          ¶ Sed contra illud arguitur. Iosue iurauit 
+          ga<lb ed="#P" n="27" break="no"/>baonitis de propinquo venientibus quod non occide 
+          <lb ed="#P" n="28"/>ret eos / Iosue nono: et tamen postea cognouit eos tam 
+          <lb ed="#P" n="29"/>Iosue quam princeps multitudinis fefellisse et fuisse 
+          ca<lb ed="#P" n="30" break="no"/>naneos cum quibus / illicitum erat inire fedus: prout scribitur 
+          <lb ed="#P" n="31"/>Exodi. xxiii.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e587">
+          ¶ Insuper. xxii. q. iiii. Innocens e. vltino 
+          <lb ed="#P" n="32"/>dicitur: quod illicitum iuramentum obseruari prohibetur non 
+          <lb ed="#P" n="33"/>est generaliter intelligendum: ergo aliquod 
+          iuramen<lb ed="#P" n="34" break="no"/>tum illicitum est obseruandum. sed omne iuramentum 
+          il<lb ed="#P" n="35" break="no"/>licitum est incautum: immo in eodem loco innuere vide 
+          <lb ed="#P" n="36"/>tur Gratianus iuramentum de non assumendo 
+          habi<lb ed="#P" n="37" break="no"/>tu religionis nulla auctoritate prohibetur: sed tale 
+          <lb ed="#P" n="38"/>iuramentum est incautum. Rursus. lxxxv. distinctione 
+          <lb ed="#P" n="39"/>florentinum. dicit Gregorius quod si aliquis tactis 
+          sacro<lb ed="#P" n="40" break="no"/>sanctis euangeliis iuret se non recepturum epsatum: 
+          <lb ed="#P" n="41"/>et postea eligatur: repellendus est. ergo tale 
+          iuramen<lb ed="#P" n="42" break="no"/>tum est seruandum: tamen est incautum.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e614">
+          ¶ Ad primum dicitur 
+          <lb ed="#P" n="43"/>Iosue bene egit et principes iurantes Gabaonitis. 
+          <lb ed="#P" n="44"/>non erat generaliter preceptum destruere 
+          canane<lb ed="#P" n="45" break="no"/>os: poterant eos recipere quando firmiter 
+          propone<lb ed="#P" n="46" break="no"/>bant viuere sub alis dei israel. Secundo erant serui: 
+          li<lb ed="#P" n="47" break="no"/>gna partiebantur et aquam ferebant pro populo dei. et sic 
+          <lb ed="#P" n="48"/>erant occisi ciuiliter. Tertio: decuit primum iusiuran 
+          <lb ed="#P" n="49"/>dum seruare genti extere ne obloquuti fuissent de 
+          <lb ed="#P" n="50"/>domino deo israel.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e634">
+          ¶ Ad secundum dicitur quod 
+          Gratia<lb ed="#P" n="51" break="no"/>nus in hoc non tenetur. tatum auctoritatis sua 
+          verba<lb ed="#P" n="52" break="no"/>habenti et non amplius) quatum auctoritates vel 
+          ra<lb ed="#P" n="53" break="no"/>tiones quas introducit valerent.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e643">
+          ¶ Ad vltimum 
+          ar<lb ed="#P" n="54" break="no"/>gumentum dicitur quod iste non repellebatur ab 
+          epi<lb ed="#P" n="55" break="no"/>scopatu quia iuramentum suum fuit obligatorium: sed quia 
+          <lb ed="#P" n="56"/>solempniter peccauit iurando: ratione cuius 
+          iudica<lb ed="#P" n="57" break="no"/>batur inidoneus promoueri. Secundo dico: licet 
+          <lb ed="#P" n="58"/>satus epsorum sit statu religiosorum naior: quia episeus est in 
+          <lb ed="#P" n="59"/>statu perfectionis acquisite: religiosus in statu perfectio 
+          <lb ed="#P" n="60"/>nis acquirende: tamen epsatus non est status securi¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>or ad bene et laudabilitur viuendum: proptea non est id est 
+          <lb ed="#P" n="62"/>per omnia de illis duobus. sed vbi quis est idoneus: et pro 
+          <lb ed="#P" n="63"/>episcopatu vtilis: is potest epispatum capere quicquid ante 
+          <lb ed="#P" n="64"/>lurauit.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e672">
+          ¶ Quinto argu.tur. si aliquis iuret adire hie 
+          <lb ed="#P" n="65"/>rosolymam: et postea religionem ingrediens / non 
+          <lb ed="#P" n="66"/>tenetur adire hierosolymam: et tamen est licitum et 
+          ho<lb ed="#P" n="67" break="no"/>nestum: ergo conclusio falsa.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e681">
+          ¶ Sexto: sortes iurat 
+          <lb ed="#P" n="68"/>berthe quod eam in vxorem ducet: postea ante 
+          matrimoni<lb ed="#P" n="69" break="no"/>um ipsa fornicatur: sortes non tenetur cum ipsa 
+          con<lb ed="#P" n="70" break="no"/>trahere: ergo conclusio falsa.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e690">
+          ¶ Ad quintum dicitur. 
+          il<lb ed="#P" n="71" break="no"/>le non est periurus qui rem iuratam mutat in melius. fi. 
+          qui<lb ed="#P" n="72" break="no"/>satis da. cogun. l. vltima. et. xxii. q. iiii. mulier. et q. 
+          <lb ed="#P" n="73"/>ii. Beatus.
+        </p>
+        <p xml:id="jm3cbb-e95948-d1e700">
+          ¶ Adsextum respondetur: conclusiones 
+          ge<lb ed="#P" n="74" break="no"/>nerales alicui contractui inherentes semper sunt in 
+          <lb ed="#P" n="75"/>telligende: vt si deo placuerit. xxii. q. ii. Beatus o. 
+          pri<lb ed="#P" n="76" break="no"/>mo. Si placet pape. de iureiuran. venientes. si res 
+          <lb ed="#P" n="77"/>in eodem itatu permanserit. xxii. q. ii. Ne quis. 
+          condi<lb ed="#P" n="78" break="no"/>tiones spcciales non intelliguntur si non 
+          speciuo<lb ed="#P" n="79" break="no"/>centur. modo hec mulier sregit fidem ante matrimo 
+          <lb ed="#P" n="80"/>nium. modo frangenti fidem trangetur fides eidem: 
+          <lb ed="#P" n="81"/>et hoc quando est tacita conditio subintellecta: vt 
+          <lb ed="#P" n="82"/>in proposito. Ecce quomodo sacramentum seu fidei 
+          <lb ed="#P" n="83"/>prestatio est seruanda: que se haent vt superius et inferius. 
+          <lb ed="#P" n="84"/>Omnis fidei prestatio est sacramentum siue 
+          iura<lb ed="#P" n="85" break="no"/>mentum: sed non contra / vt notum est. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

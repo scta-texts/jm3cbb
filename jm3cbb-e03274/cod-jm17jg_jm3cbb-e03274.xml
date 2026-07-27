@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="6-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e03274"><!-- l3d1q4 -->
+        <head xml:id="jm3cbb-e03274-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e03274-Hd1e101" type="question-title">
+    An una persona in divinis, utpote Filius, posset assumere in
+    unitatem suppositi plures humanitates sive homines
+   </head>
+        <p xml:id="jm3cbb-e03274-d1e104">
+          <lb ed="#P" n="81"/>QUarto circa hanc 
+          <lb ed="#P" n="82"/>distinctionem queritur: an vna 
+          <lb ed="#P" n="83"/>persona in diuinis: vt pote 
+          fili<lb ed="#P" n="84" break="no"/>us posset assumere in vnitatem 
+          <lb ed="#P" n="85"/>suppositi plures humanitates 
+          <lb ed="#P" n="86"/>siue homines.
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e120">
+          ¶ Respondetur 
+          <lb ed="#P" n="87"/>per conclusionem affirmatiuam quod 
+          <lb ed="#P" n="88"/>sic: que conclusio sic probatur: humanitas est in 
+          pu<lb ed="#P" n="89" break="no"/>ra et plena obedientia ad verbum: et qua ratione 
+          <lb ed="#P" n="90"/>vna humanitas eadem ratione quaelibet: nec 
+          incompos<lb ed="#P" n="91" break="no"/>sibilitas vlla est quod plures simul assumantur: ergo 
+          <lb ed="#P" n="92"/>possibile est verbum simul sumere tres 
+          humanita<lb ed="#P" n="93" break="no"/>tes vel quotlibet voluerit.
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e138">
+          ¶ Secundo: per naturam 
+          <lb ed="#P" n="94"/>assumptam potentia filii dei non est diminut a: sed an 
+          <lb ed="#P" n="95"/>te assumptionem humanitati poterat assumere a natu 
+          <lb ed="#P" n="96"/>ram ergo nunc potest assumere a naturam. quia verbum est 
+          suppo<lb ed="#P" n="97" break="no"/>situm duarum naturarum diuine et humane: ergo pari ratione 
+          <lb ed="#P" n="98"/>potest esse suppositum duarum vel plurium naturarum huma 
+          <lb ed="#P" n="99"/>narum.
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e155">
+          ¶ Contra hanc conclusionem arguitur sic: 
+          ponen<lb ed="#P" n="100" break="no"/>do quod verbum assumat tres humanitates: tunc 
+          ver<lb ed="#P" n="101" break="no"/>bum debet esse tres homines. patet: verbum nunc est 
+          <lb ed="#P" n="102"/>vnus homo ab humanitate. ergo sitres assumat 
+          <lb ed="#P" n="103"/>humanitates erit tres homines: et si duas assumat 
+          <lb ed="#P" n="104"/>humanitates erit duo homines. significatum de ly 
+          <lb ed="#P" n="105"/>tria debet cadere in connotationem termini 
+          ho<lb ed="#P" n="106" break="no"/>mo. vt de deo dicitur est terminus connotatiuus. 
+          <lb ed="#P" n="107"/>sicut hic sortes est niger monachus denotatur 
+          ni<lb ed="#P" n="108" break="no"/>gredo habitui monachali competere.
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e177">
+          ¶ Respondetur 
+          <lb ed="#P" n="109"/>ab aliquibus quod verbum est tres homines in casu 
+          <lb ed="#P" n="110"/>illo. aliqui dicunt quod nec est vnus homo nec plures 
+          <lb ed="#P" n="111"/>homines neutra earum solutionum valet. non prima. quia 
+          <lb ed="#P" n="112"/>bene sequitur verbum est tres homines ergo hi tres homines: vel 
+          <lb ed="#P" n="113"/>illi tres: et sic de singulis: posita constantia 
+          conse<lb ed="#P" n="114" break="no"/>quens est disiunctiua nullam partem habens veram: 
+          ergo<lb ed="#P" n="115" break="no"/>consequens est falsum. si aliquam habeat partem veram: 
+          <lb ed="#P" n="116"/>quero quid demonstras. si aliud a verbo: iam 
+          ex<lb ed="#P" n="117" break="no"/>trema illius affirmatiue non supponunt pro eodem 
+          <lb ed="#P" n="118"/>et per consequens ipsa est falsa. Si demonstras 
+          ver<lb ed="#P" n="119" break="no"/>bum: iam verbum non est plures res. Item si 
+          ver<lb ed="#P" n="120" break="no"/>bum est tres homines: verbum est tres persone: es 
+          <pb ed="#P" n="6-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sic erit numerus quinarius personarum in diuinis: quod 
+          <lb ed="#P" n="2"/>est impossibile. illa regula appellationum non habet 
+          <lb ed="#P" n="3"/>verum in terminis numeralibus vt in questione 
+          praece<lb ed="#P" n="4" break="no"/>denti dictum est: sileadem anima informaret tria 
+          <lb ed="#P" n="5"/>corpora: illa essent tria animata: et non vnum 
+          anima<lb ed="#P" n="6" break="no"/>tum. Nec valet secunda solutio. verbum est ens: et non / 
+          <lb ed="#P" n="7"/>non homo: ergo / est homo. Item: vnum et multa sunt 
+          <lb ed="#P" n="8"/>opposita immediate diuidentia ens: igitur a simili 
+          <lb ed="#P" n="9"/>circa hoc ens quod est homo: vnum vel alterum est 
+          im<lb ed="#P" n="10" break="no"/>mediate verum. vt si est homo necesse est quod sit vnus 
+          <lb ed="#P" n="11"/>homo. Item: homo et vnus homo conuertuntur 
+          <lb ed="#P" n="12"/>primo elenchorum: ergo si verbum est homo est vnus 
+          <lb ed="#P" n="13"/>homo.
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e238">
+          ¶ Dico ergo: si verbum assumeret mille huma 
+          <lb ed="#P" n="14"/>nitates esset vnus homo. ficut vnus homo multi 
+          <lb ed="#P" n="15"/>tudine vestium circumamictus est vnus vestitus. et 
+          mul<lb ed="#P" n="16" break="no"/>tos habens gradus albedinis est vnum album. et 
+          <lb ed="#P" n="17"/>multas habens scientias est vnum sciens. ad 
+          abstra<lb ed="#P" n="18" break="no"/>ctorum multiplicationem non est necesse multiplicare 
+          <lb ed="#P" n="19"/>concretum.
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e254">
+          ¶ Secundo arguitur: impossibile est 
+          duo<lb ed="#P" n="20" break="no"/>accidentia eiusdem speciei simul esse in eodem subie 
+          <lb ed="#P" n="21"/>cto quinto methaphisice: ergo a simili impossibile 
+          <lb ed="#P" n="22"/>est duas naturas eiusdem speciei specialissime si 
+          <lb ed="#P" n="23"/>mul esse in eodem supposito.
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e265">
+          ¶ Tertio arguitur: 
+          pa<lb ed="#P" n="24" break="no"/>ter et filius sunt vnus spirator spuitssancti ex. xii. 
+          <lb ed="#P" n="25"/>dist inctione primi: licet sint persone: ergo similiter 
+          <lb ed="#P" n="26"/>si due persone assumant eandem humanitatem erunt vnus 
+          <lb ed="#P" n="27"/>homo: et sic si due humanitates assumantur a verbo erunt 
+          <lb ed="#P" n="28"/>duo homines.
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e278">
+          ¶ Ad secundum dico. illa propositio est 
+          <lb ed="#P" n="29"/>falsa: sed debet intelligi nisi constituant aliquod vnum. 
+          <lb ed="#P" n="30"/>si de luminibus hoc patiatur instantiam: 
+          dicen<lb ed="#P" n="31" break="no"/>do quod non constituunt vnum: sed manent distincta 
+          <lb ed="#P" n="32"/>(sicut dicit diuus dionisius. secundo. c de diuinis 
+          <lb ed="#P" n="33"/>nominibus inquiens quod lumina plurium 
+          lumina<lb ed="#P" n="34" break="no"/>rium simul possunt esse in eadem parte medii 
+          ma<lb ed="#P" n="35" break="no"/>nentia distincta) hoc tamen potest exponi: manent 
+          <lb ed="#P" n="36"/>distincta: licet vnam formam componant. vnum 
+          <lb ed="#P" n="37"/>lumen non est aliud. Secundo dico argumentum 
+          <lb ed="#P" n="38"/>a simili: crebriter. iiii. pede vel iii. claudicat. 
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e303">
+          <lb ed="#P" n="39"/>¶ Ad tertium quod magis impugnat solutionem 
+          <lb ed="#P" n="40"/>ad quoddam argumentum questionis 
+          preceden<lb ed="#P" n="41" break="no"/>tis quam solutionem principalem: licet vt cunqe vtrique 
+          <lb ed="#P" n="42"/>amplicetur: sed siue hoc siue illud appareat 
+          suffi<lb ed="#P" n="43" break="no"/>cit nobis. Respondetur: spirator ex sanctorum 
+          <lb ed="#P" n="44"/>consuetudine dicit principium vel potentiam 
+          spi<lb ed="#P" n="45" break="no"/>randi: et non personas spirantes. et quia in patre et 
+          <lb ed="#P" n="46"/>in filio est nisi vnum principium spirandi: scilicet 
+          ni<lb ed="#P" n="47" break="no"/>si eadem deitas: eadem intelligentia et eadem voluntas: 
+          <lb ed="#P" n="48"/>recte conceditur: pater et filius sunt vnus 
+          spira<lb ed="#P" n="49" break="no"/>tor: et duo spirantes: quia huiusmodi adiectiua 
+          suppo<lb ed="#P" n="50" break="no"/>sita et non principium spirandi respiciunt. 
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e332">
+          <lb ed="#P" n="51"/>¶ Quarto: ex hac conclusione sequitur hec 
+          pro<lb ed="#P" n="52" break="no"/>positio: idem generat se: quod intellectus 
+          capere<lb ed="#P" n="53" break="no"/>non potest: secundum Augusti. primo de trinitate. c. i. quod 
+          <lb ed="#P" n="54"/>sequatur patet: ponendo quod eadem persona in 
+          di<lb ed="#P" n="55" break="no"/>uinis assumat tam patrem quam filium. tunc erit 
+          pa<lb ed="#P" n="56" break="no"/>ter et filius. vel assumat humanitatem in vtero 
+          <lb ed="#P" n="57"/>antequam vterum maternum egrediatur: vel in 
+          pri<lb ed="#P" n="58" break="no"/>mo instanti quo est in rerum natura: et cum hoc 
+          <lb ed="#P" n="59"/>matrem vel patrem.
+        </p>
+        <p xml:id="jm3cbb-e03274-d1e354">
+          ¶ Respondetur: non 
+          incon<lb ed="#P" n="60" break="no"/>uenit secundum communicationem ydiomatum quod idem 
+          <lb ed="#P" n="61"/>sit pater et filius respectu diuersarum naturarum
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

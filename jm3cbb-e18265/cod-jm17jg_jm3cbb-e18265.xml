@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="30-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e18265"><!-- l3d14q3 -->
+        <head xml:id="jm3cbb-e18265-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e18265-Hd1e101" type="question-title">An anima Christi vel alia anima eadem visione videat creaturas in
+    Verbo et ipsum Verbum</head>
+        <p xml:id="jm3cbb-e18265-d1e104">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>TErtio queritur: 
+          <lb ed="#P" n="63"/>an anima christi vel alia 
+          ani<lb ed="#P" n="64" break="no"/>ma eadem visione videat 
+          cre<lb ed="#P" n="65" break="no"/>aturas in verbo et ipsum 
+          ver<lb ed="#P" n="66" break="no"/>bum.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e120">
+          ¶ Pro quaestionis solutione 
+          <lb ed="#P" n="67"/>scito mltos dicere: videre 
+          ali<lb ed="#P" n="68" break="no"/>quid in verbo: nihil aliud est quae 
+          <lb ed="#P" n="69"/>visionem verbi rem talem creatam representare. 
+          <lb ed="#P" n="70"/>multi dicunt deus causat visionem in verbo. sed 
+          <lb ed="#P" n="71"/>illud videtur multis extraneum: quod noticia vnius 
+          <lb ed="#P" n="72"/>rei distincta aliam rem representat. Tertii dicunt 
+          <lb ed="#P" n="73"/>videre creaturam in verbo / est ipsam in verbo tanquam 
+          <lb ed="#P" n="74"/>in speculo videre: sicut faciem meam in speculo 
+          na<lb ed="#P" n="75" break="no"/>turali vel artificiali video.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e142">
+          ¶ Contra primam viam 
+          <lb ed="#P" n="76"/>arguitur sic: si visio verbi est visio creaturarum / 
+          se<lb ed="#P" n="77" break="no"/>quitur hec conclusio: quod impossibile est visionem 
+          ver<lb ed="#P" n="78" break="no"/>bi esse in intellectu beati: quin videantur creature 
+          <lb ed="#P" n="79"/>plures: quod est falsum. patet: illa visio est etiam 
+          noti<lb ed="#P" n="80" break="no"/>cia creaturarum: sed non stat noticiam alicuius 
+          obie<lb ed="#P" n="81" break="no"/>cti esse in intellectu quin intellectus tale obiectum 
+          <lb ed="#P" n="82"/>videat. patet. non stat calorem esse inhesiue in 
+          suo<lb ed="#P" n="83" break="no"/>subiecto quin subiectum erit calidum ergo non stat 
+          vi<lb ed="#P" n="84" break="no"/>sionem a. creature esse in beato quin beatus videat 
+          <lb ed="#P" n="85"/>a. creaturam. sed visio verbi est visio a creature p te: 
+          <lb ed="#P" n="86"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e169">
+          ¶ Secundo arguitur: si visio verbi 
+          represen<lb ed="#P" n="87" break="no"/>taret cteatutas alias: vel hoc est naturaliter 
+          vel<lb ed="#P" n="88" break="no"/>ad placitum. non secundum: cum est conceptus vltima 
+          <lb ed="#P" n="89"/>tus rei. et tunc sic: vnam creaturam representat 
+          na<lb ed="#P" n="90" break="no"/>turaliter: et non est maior ratio de vna creatura quam 
+          <lb ed="#P" n="91"/>de alia: ergo quamlibet creaturam possibilem 
+          repre<lb ed="#P" n="92" break="no"/>sentat distincte et naturaliter. et ex consenquente 
+          <lb ed="#P" n="93"/>Ulterius infero: quod ipsa erit infinite perfecta quod 
+          <lb ed="#P" n="94"/>est falsum. consequentiam tamen declaro. representa 
+          <lb ed="#P" n="95"/>re vnam rem infimam distincte arguit aliquam 
+          per<lb ed="#P" n="96" break="no"/>fectionem: representare duas res distincte arguit 
+          <lb ed="#P" n="97"/>maiorem perfectionem in duplo. posito quod 
+          represen<lb ed="#P" n="98" break="no"/>tatio respectu vnius obiecti arguit tantam 
+          per<lb ed="#P" n="99" break="no"/>fectionem sicut respectu alterius: sed hoc 
+          faci<lb ed="#P" n="100" break="no"/>le est inuenire in proposito. et sic consequenter 
+          as<lb ed="#P" n="101" break="no"/>cendendo arguitur: semper erit maior perfectio 
+          in<lb ed="#P" n="102" break="no"/>representatione plurium: ergo representare infinita 
+          <lb ed="#P" n="103"/>distincte arguit infinitam perfectionem. tenet consequem 
+          <lb ed="#P" n="104"/>tia: vbi pluralitas arguit perfectionem: et maior 
+          plu<lb ed="#P" n="105" break="no"/>ralitas maiorem perfectionem: ibiinfinitas / infinitam 
+          <lb ed="#P" n="106"/>arguit perfectionem. propterea deus concluditur 
+          infi<lb ed="#P" n="107" break="no"/>nite perfectus: quia sibi omnia distincte repsentat. 
+          <lb ed="#P" n="108"/>Dicis michi: representare inflnita tanquam obiecta 
+          <lb ed="#P" n="109"/>primaria arguit infinitam perfectionem: sed non 
+          re<lb ed="#P" n="110" break="no"/>presentare infinita tanquam obiecta secundaria. modo 
+          <lb ed="#P" n="111"/>est vnum obicctum primarium respectu omnium 
+          ista<lb ed="#P" n="112" break="no"/>rum noticiarum: scilicet deus.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e228">
+          ¶ Contra hoc 
+          argui<lb ed="#P" n="113" break="no"/>tur. representare duo obiecta distincte secundario 
+          <lb ed="#P" n="114"/>arguit maiorem perfectionem in duplo quam 
+          repre<lb ed="#P" n="115" break="no"/>sentare distincte vnum obiectum secudarium: et sic 
+          con<lb ed="#P" n="116" break="no"/>sequenter ascendendo. ergo reducitur argumentum: 
+          <lb ed="#P" n="117"/>et stat eius vigor.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e241">
+          ¶ Potest dici quod he ratione a 
+          <lb ed="#P" n="118"/>non demonstrant intentum.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e246">
+          ¶ Ad primum dicam: licet ea 
+          <lb ed="#P" n="119"/>dem sit visio verbi et a. creature: stat illam 
+          visio<lb ed="#P" n="120" break="no"/>nem esse in intellectu beati absqe hoc quod illa vllam 
+          <lb ed="#P" n="121"/>creaturam representet. deus potest non concurrere 
+          <pb ed="#P" n="31-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ad tendentiam actualem in obiectum secundarium. 
+          <lb ed="#P" n="2"/>quemadmodum potest noticia sortis esse in intelle 
+          <lb ed="#P" n="3"/>ctu meo absque hoc quod intellectus meus actualiter 
+          <lb ed="#P" n="4"/>sortem cognoscat: quia ad illam tendentiam 
+          actu<lb ed="#P" n="5" break="no"/>alem cognoscendam non concurrit deus de 
+          poten<lb ed="#P" n="6" break="no"/>tia sua absoluta.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e272">
+          ¶ Contra hoc arguitur: ergo 
+          eo<lb ed="#P" n="7" break="no"/>dem modo potest visio dei stare in intellectu 
+          bea<lb ed="#P" n="8" break="no"/>ti absque hoc quod illa visione videatur actualiter deus: 
+          <lb ed="#P" n="9"/>postquam illa visio est creatura. et si deus potest non 
+          <lb ed="#P" n="10"/>concurrere cum tendentia ad sortem cognoscendum: 
+          <lb ed="#P" n="11"/>videtur eodem modo potest non concurrere ad 
+          <lb ed="#P" n="12"/>cognoscendum deum: et sic concedere oportet: 
+          <lb ed="#P" n="13"/>aliquis habet visionem intuitiuam dei: et non 
+          vi<lb ed="#P" n="14" break="no"/>det deum: quod videtur inconueniens.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e292">
+          ¶ Secundo 
+          <lb ed="#P" n="15"/>sequitur / quod illa notitia esset habitus et non actus. 
+          pa<lb ed="#P" n="16" break="no"/>tet. non actualiter tendit in obiectum: et potest tende 
+          <lb ed="#P" n="17"/>re in ipsum.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e302">
+          ¶ Tertio sequitur / quod visione creatu 
+          <lb ed="#P" n="18"/>re sortes esset beatus.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e307">
+          ¶ Quarto: noticia habitual 
+          <lb ed="#P" n="19"/>non potest esse in potentia quin sit habitus: ergo nec 
+          <lb ed="#P" n="20"/>actualis potest esse in potentia quin erit actualis. 
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e314">
+          <lb ed="#P" n="21"/>¶ Ad has rationes vtcumque responderi potest. Primo 
+          <lb ed="#P" n="22"/>ad priorem: dicitur non est simile de noticia 
+          bea<lb ed="#P" n="23" break="no"/>tifica dei respectu obiecti primi: et de noticia 
+          crea<lb ed="#P" n="24" break="no"/>ture: ex natura rei.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e325">
+          ¶ Ad secundum argumentum negatur 
+          <lb ed="#P" n="25"/>quod sit habitus. numquam per habitum potest potentia actualitur 
+          <lb ed="#P" n="26"/>tendere in obiectum: quod hic contingit.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e332">
+          ¶ Secundo 
+          habi<lb ed="#P" n="27" break="no"/>tus generatur ex actu vel actibus: et actum partia 
+          <lb ed="#P" n="28"/>liter producit: quod non facit actus / iste.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e339">
+          ¶ Tertium 
+          argu<lb ed="#P" n="29" break="no"/>mentum non mouet. extra hanc materiam similis 
+          dif<lb ed="#P" n="30" break="no"/>ficultas potest prouenire. si deus intuitiue videa 
+          <lb ed="#P" n="31"/>tur cum humanitate assumpta vel cum aliqua alia 
+          <lb ed="#P" n="32"/>creatura: de quo in distinctione xlix. quarti latius 
+          <lb ed="#P" n="33"/>sumus loquuti. Concedo hanc conclusionem consequentur 
+          <lb ed="#P" n="34"/>ad hanc positionem. visione creature beatificatur 
+          <lb ed="#P" n="35"/>homo vel angelus. patet. hac visione dein 
+          beatifi<lb ed="#P" n="36" break="no"/>catur sortes: hec visio dei est visio creature: ergo 
+          <lb ed="#P" n="37"/>visione creature beatificatur sortes. sed illa 
+          bea<lb ed="#P" n="38" break="no"/>titudo non prouenit a creatura. nec quia habet 
+          crea<lb ed="#P" n="39" break="no"/>turam pro obiecto actus est beatificus nec sortes 
+          <lb ed="#P" n="40"/>beatificatur per creaturam vel in creatura: licet 
+          per<lb ed="#P" n="41" break="no"/>creature visionem beatificatur. Secundo concludendum 
+          <lb ed="#P" n="42"/>est / quod visio formice est perfectior hac visione 
+          in<lb ed="#P" n="43" break="no"/>tuitiua an geli: demonstrando / noticiam qua intuitiue 
+          <lb ed="#P" n="44"/>adequaete cognoscitur angelus. quod illud sequatur patet ex 
+          di<lb ed="#P" n="45" break="no"/>ctis: sed non sequitur quod visio formice est perfectior visione 
+          <lb ed="#P" n="46"/>angeli: propter distributionem illius toti visione 
+          an<lb ed="#P" n="47" break="no"/>geli. propterea pronomen demonstratiuum adieci.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e384">
+          ¶ Ad 
+          <lb ed="#P" n="48"/>quartum: concedo quod noticia habitualis non potest esse 
+          <lb ed="#P" n="49"/>in intellectu quin sit noticia habitualis. 
+          semper<lb ed="#P" n="50" break="no"/>est apta nata facere illud et denominare suum 
+          pas<lb ed="#P" n="51" break="no"/>sum denominatione habitui conuenienti. non est 
+          si<lb ed="#P" n="52" break="no"/>mile de actuali. sicut sortes non potest esse quin sit 
+          <lb ed="#P" n="53"/>risibilis: potest tamen esse sine hoc quod rideat. et 
+          le<lb ed="#P" n="54" break="no"/>ticia illa que est dilatiua cordis et labiorum 
+          natu<lb ed="#P" n="55" break="no"/>raliter forte potest esse in suo passo / absque hoc quod 
+          <lb ed="#P" n="56"/>dicatur ridere. Secundo dico quod ipsa notitia actua 
+          <lb ed="#P" n="57"/>lis si ponatur in intellectu semper est actualis: sed 
+          <lb ed="#P" n="58"/>non oportet quod semper actualiter in suum obiectum 
+          <lb ed="#P" n="59"/>tendat.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e413">
+          ¶ Accedendo ad principale argumentum 
+          con<lb ed="#P" n="60" break="no"/>cedo quod non stat calorem intensum esse in subiecto / 
+          <lb ed="#P" n="61"/>quin subiectum ipsum denominet denominatione con¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>cretiua sue abstractioni respondenti. secus est de noticia. 
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e424">
+          <lb ed="#P" n="63"/>¶ Alia et alia accidentia alias alias sortiunt 
+          na<lb ed="#P" n="64" break="no"/>turas. albedo vel calor a est essentialitere 
+          intrinsece<lb ed="#P" n="65" break="no"/>talis: licet non necessario albedo vel calor. noticia 
+          <lb ed="#P" n="66"/>non est essentialiter et intrinsece noticia: sed 
+          acci<lb ed="#P" n="67" break="no"/>dentaliter et contingenter noticia: licet sit essentia 
+          <lb ed="#P" n="68"/>liter et intrinsece qualitas.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e440">
+          ¶ Sed contra illud 
+          <lb ed="#P" n="69"/>arguitur: sequitur ex illo quod deus facit miraculum 
+          <lb ed="#P" n="70"/>continuo / impediendo noticiam beatificam a sua 
+          repre<lb ed="#P" n="71" break="no"/>sentatione naturali: immo cum comunicet libere beato 
+          <lb ed="#P" n="72"/>noticiam beatificam: non permittit eam 
+          represem<lb ed="#P" n="73" break="no"/>tare omne representabile per eam: patet. illa 
+          no<lb ed="#P" n="74" break="no"/>ticia per te aliquod representabile representat actua 
+          <lb ed="#P" n="75"/>liter / si sibi relinquatur: et non est maior ratio de 
+          <lb ed="#P" n="76"/>vno quam de alio: ergo quodlibet representabile 
+          ac<lb ed="#P" n="77" break="no"/>tualiter representat: si non impediatur. et tunc 
+          se<lb ed="#P" n="78" break="no"/>quitur / quod quilibet beatus continuo omne 
+          represen<lb ed="#P" n="79" break="no"/>tabile actualiter cognoscit. vel deus non concurrit 
+          <lb ed="#P" n="80"/>ad hoc: impediendo visionem dei ab effectu 
+          suo<lb ed="#P" n="81" break="no"/>naturali. Prior pars huius disiunctiue est falsa: 
+          er<lb ed="#P" n="82" break="no"/>go secunda est vera / et concedenda. Consequenter 
+          dice<lb ed="#P" n="83" break="no"/>retur: communicat creature plusquam meritus est: licet non 
+          <lb ed="#P" n="84"/>concurrat ad representationem creature: quia 
+          cogno<lb ed="#P" n="85" break="no"/>scere creaturam nihil facit ad essentialem 
+          beatitu<lb ed="#P" n="86" break="no"/>dinem: secundum illud Augu. v. confessionum de creaturi ad 
+          <lb ed="#P" n="87"/>deum loquentis: beatus qui te scit / etiam si illa ne 
+          <lb ed="#P" n="88"/>sciat: qui vero te et illa nouit: non propter illa 
+          bea<lb ed="#P" n="89" break="no"/>tior: sed propter te solum beatus est.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e488">
+          ¶ Ad secundum 
+          ar<lb ed="#P" n="90" break="no"/>gumentum principale interarguendum tanguntr 
+          fra<lb ed="#P" n="91" break="no"/>ctiones. Pro nunc probabilius iudico hunc modum 
+          <lb ed="#P" n="92"/>relinquendum. et dico quod videre in verbo: nihil aliud 
+          <lb ed="#P" n="93"/>est quam illum cui est sancta visio verbum videre: et no 
+          <lb ed="#P" n="94"/>ticiam capere a deo solo: vel partialiter creatura 
+          con<lb ed="#P" n="95" break="no"/>currente. hoc complexum: sortem videre a. in 
+          ver<lb ed="#P" n="96" break="no"/>bo: est terminus connotatiuus de materiali pro 
+          sor<lb ed="#P" n="97" break="no"/>te supponens: connotando quod sortes verbum videat 
+          <lb ed="#P" n="98"/>et cum hoc a. reuelatur a verbo. videre in verbo 
+          <lb ed="#P" n="99"/>est videre a verbo: vel videre per verbum. quod 
+          con<lb ed="#P" n="100" break="no"/>notet quod sortes verbum videat patet: non dicimus 
+          <lb ed="#P" n="101"/>prophetas viatores / in suis illuminationibus suas 
+          <lb ed="#P" n="102"/>prophecias in verbo videre: esto quod illuminati erant 
+          <lb ed="#P" n="103"/>a solo verbo. ergo requiritur ad hoc quod dicatur 
+          ali<lb ed="#P" n="104" break="no"/>quod videri in verbo / quod illuminatus verbum 
+          vi<lb ed="#P" n="105" break="no"/>deat: et sic paulus in raptu vidit in verbo 
+          archa<lb ed="#P" n="106" break="no"/>na que non licuit homini loqui. verbum potest 
+          no<lb ed="#P" n="107" break="no"/>ticiam qualencunqe complexam / vel incomplexam / 
+          <lb ed="#P" n="108"/>apprehensiuam iudicatiuam / approshensiuam non 
+          iudicati<lb ed="#P" n="109" break="no"/>uam / se solo in intellectu creato producere. patet: quic 
+          <lb ed="#P" n="110"/>quid potest verbum producere mediante causa se 
+          <lb ed="#P" n="111"/>cunda: illud potest producere se solo. sed cum 
+          crea<lb ed="#P" n="112" break="no"/>tura potest producere noticiam. ergo noticiam potest 
+          <lb ed="#P" n="113"/>producere se solo. et si esset extra subiectum non esset 
+          <lb ed="#P" n="114"/>noticia. intellectus est susceptiuus / illius: et est quaelitas 
+          <lb ed="#P" n="115"/>naturaliter immutatiua intellectus creati: et non potest 
+          <lb ed="#P" n="116"/>non immutare intellectum: si ei inhereat: ad hoc quod 
+          <lb ed="#P" n="117"/>odiectum cognoscatur: si deus concurrat: ergo erit 
+          <lb ed="#P" n="118"/>noticia actualis respectu intellectus creati: licet 
+          <lb ed="#P" n="119"/>intellectus nullam efficientiam habeat respectu 
+          <lb ed="#P" n="120"/>illius noticie. siue concurrat in conseruando siue non: 
+          <lb ed="#P" n="121"/>parum refert. dico deus / potest illam noticiam se solo 
+          conser<lb ed="#P" n="122" break="no"/>uare. et si conseruat in intellectu: realiter erit intellectui 
+          <pb ed="#P" n="31-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>noticia: siue voluntas creata velit vel nolit. et de 
+          <lb ed="#P" n="2"/>necessitate tendit in obiectum illius noticie: si deus 
+          <lb ed="#P" n="3"/>sua influentia generali concurrat ad hoc. potest 
+          ta<lb ed="#P" n="4" break="no"/>men deus se solo causare noticiam intuitiuam 
+          ali<lb ed="#P" n="5" break="no"/>cuius rei vel aliquarum rerum: et relinquere 
+          concur<lb ed="#P" n="6" break="no"/>sum intellectus ad hoc quod coagat cum noticia intuitiua 
+          <lb ed="#P" n="7"/>ad effectus sequentes noticiam intuitiuam: quamadmodum 
+          <lb ed="#P" n="8"/>sunt multi assensus. si videam clare parietem et 
+          albe<lb ed="#P" n="9" break="no"/>dinem eius: statim habeo iudicia contingentia 
+          mul<lb ed="#P" n="10" break="no"/>ta de pariete. et si deus se solo produceret noticiam 
+          <lb ed="#P" n="11"/>intuitiuam parietis albi absentis: intellectus 
+          ha<lb ed="#P" n="12" break="no"/>bebit similia iudicia / ac si parietem album vide 
+          <lb ed="#P" n="13"/>ret. quia deus porrigit intellectui eandem causam 
+          <lb ed="#P" n="14"/>coadiuuatiuam. Insuper: potest intellectus 
+          concur<lb ed="#P" n="15" break="no"/>rere ad noticiam intuitiuam vel abstractiuam: et 
+          <lb ed="#P" n="16"/>deus partialiter concurrere. patet: ego non possum 
+          <lb ed="#P" n="17"/>habere noticiam intuitiuam rei absentis: et si esset 
+          <lb ed="#P" n="18"/>presens / intellectus mens et res ipsa possunt illud 
+          <lb ed="#P" n="19"/>iudicium producere. deus potest supplere 
+          causa<lb ed="#P" n="20" break="no"/>litatem effectiuam obiecti: et tantum facere precise 
+          <lb ed="#P" n="21"/>ac si res ipsa esset presens obiectiue. tunc 
+          intelle<lb ed="#P" n="22" break="no"/>ctus potest concurrere cum deo supplente. similiter 
+          <lb ed="#P" n="23"/>intellectus potest habere noticiam abstractiuam et 
+          appre<lb ed="#P" n="24" break="no"/>hensionem non iudicium / de presenti vel de 
+          futu<lb ed="#P" n="25" break="no"/>ro: per solum habitum. deus potest causalitatem 
+          <lb ed="#P" n="26"/>habitus supplere. Ex his patet quod deus 
+          partiali<lb ed="#P" n="27" break="no"/>ter potest illuminare intellectum in ignotis vel 
+          to<lb ed="#P" n="28" break="no"/>taliter: sed commnius totaliter noticias producit: 
+          potissi<lb ed="#P" n="29" break="no"/>mum complexas de contingenti. Ecce quid est videre 
+          <lb ed="#P" n="30"/>in verbo.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e631">
+          ¶ Qu is modus priori sit rationabilior 
+          <lb ed="#P" n="31"/>patet. nullu tale inconueniens patitur contra se sicut 
+          <lb ed="#P" n="32"/>modus precedens. inconueniens est quod noticis 
+          di<lb ed="#P" n="33" break="no"/>stincta et singularis vnius obiecti aliud 
+          represen<lb ed="#P" n="34" break="no"/>tet. potest enin deus calorem annichilare: vel 
+          fri<lb ed="#P" n="35" break="no"/>gus: vel impedire ipsa ne agant non concurrendo cum 
+          <lb ed="#P" n="36"/>eis. sed quod possit facere calorem frigefacere: vel 
+          fri<lb ed="#P" n="37" break="no"/>gus calefacere de per se et sine anteperistasi: non est 
+          <lb ed="#P" n="38"/>possibile. similiter noticia singulari sortis non potest 
+          <lb ed="#P" n="39"/>representare platonem vllo modo. dicere oppositum est 
+          <lb ed="#P" n="40"/>euertereomnem causalitatem naturalem rerum: ergo eo 
+          <lb ed="#P" n="41"/>dem modo noticia beatifica (que est singulatis 
+          re<lb ed="#P" n="42" break="no"/>spectu dei visi / solum representat deum: nec potest ali 
+          <lb ed="#P" n="43"/>quod aliud onbiectum representare. et hec est vna 
+          <lb ed="#P" n="44"/>conclusio principralis quam in hac questione teneo 
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e665">
+          <lb ed="#P" n="45"/>¶ Secunda conclusio est titulo questionis responsiua: 
+          <lb ed="#P" n="46"/>quod verbum et creatura non videntur eadem visione. 
+          <lb ed="#P" n="47"/>patet: de qualibet creatura est sua visio: et noticia 
+          <lb ed="#P" n="48"/>od partem: vt patet ex discursu in questione 
+          pre<lb ed="#P" n="49" break="no"/>missa.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e678">
+          ¶ Contra has duas conclusiones arguitur 
+          <lb ed="#P" n="50"/>sic. dabilis est vna visio dei et beate virginis in 
+          pa<lb ed="#P" n="51" break="no"/>tria: ergo eadem est visio dei et vnius creature: et 
+          <lb ed="#P" n="52"/>illa visio est singularis: licet plura representet 
+          co<lb ed="#P" n="53" break="no"/>pulatim.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e689">
+          ¶ Secundo arguitur. noticia dei 
+          represen<lb ed="#P" n="54" break="no"/>tat sibi distincte omnem creaturam: ergo non est 
+          incon<lb ed="#P" n="55" break="no"/>ueniens quod eadem noticia numero representet omnia 
+          <lb ed="#P" n="56"/>possibilia etiam distincte.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e698">
+          ¶ Respondetur: primum 
+          <lb ed="#P" n="57"/>argumentum non est contra conclusionem. cum illa 
+          noti<lb ed="#P" n="58" break="no"/>cia repaesentet duo copulatim. et non est noticia sin 
+          <lb ed="#P" n="59"/>gularis ipsius dei diuisim: saltem in supponendo: 
+          <lb ed="#P" n="60"/>quicquid sit de significatione. nemo dubitat quin 
+          <lb ed="#P" n="61"/>multarum rerum potest esse vna noticia singularis. 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>sed quod noticia singulatis sortem representans / 
+          pla<lb ed="#P" n="63" break="no"/>tonem vel aliam rem representet: negamus.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e718">
+          ¶ 
+          Con<lb ed="#P" n="64" break="no"/>tra hoc arguitur: sequitur ex illo quod noticia 
+          crea<lb ed="#P" n="65" break="no"/>ture est beatitudo. et quod non perpetua est 
+          beatitu<lb ed="#P" n="66" break="no"/>do: quia noticia solius dei potest desinere esse. et 
+          <lb ed="#P" n="67"/>incipere esse noticia dei et virginis: et illa noticia 
+          <lb ed="#P" n="68"/>erit beatintudo.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e731">
+          ¶ Ad hoc argumentum et difficultatem 
+          <lb ed="#P" n="69"/>in eo emergentem latius in distinctione. xlix. 
+          quarti<lb ed="#P" n="70" break="no"/>respondimus.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e739">
+          ¶ Ad secundum: concedo antecedens. et ex illo 
+          con<lb ed="#P" n="71" break="no"/>cluditur deus infinitus. et similiter noticia dei de 
+          <lb ed="#P" n="72"/>necessitate representat omne significabile. modo 
+          <lb ed="#P" n="73"/>non dico hoc de noticia creata beatifica: 
+          parifor<lb ed="#P" n="74" break="no"/>ma noticia dei est substantia: noticia beatifica / ac 
+          <lb ed="#P" n="75"/>cidens.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e752">
+          ¶ Tertio arguitur: noticia reflexa 
+          repre<lb ed="#P" n="76" break="no"/>sentat omne illud quod per noticiam directam 
+          repre<lb ed="#P" n="77" break="no"/>sentatur: vt noticia noticie sortis / sortem 
+          represe<lb ed="#P" n="78" break="no"/>tat. sed deus est notitia: ergo noticia beatifica (cum 
+          <lb ed="#P" n="79"/>est noticia noticie)est noticia reflexa: ergo 
+          repie<lb ed="#P" n="80" break="no"/>sentat omne illud quod noticia directa representat. 
+          <lb ed="#P" n="81"/>sed noticia directa representat omnia ipsi deo: 
+          er<lb ed="#P" n="82" break="no"/>go noticia beatifica representat omnia beato: si deus 
+          <lb ed="#P" n="83"/>concurrat. maior rationis patet. conceptus non 
+          vl<lb ed="#P" n="84" break="no"/>timatus termini vocalis aut scripti / representat 
+          <lb ed="#P" n="85"/>omne illud quod terminus vocalis significat: et non 
+          <lb ed="#P" n="86"/>nisi quia est conceptus talis termini. modo noticia 
+          <lb ed="#P" n="87"/>beatifica est conceptus termini omnia 
+          represen<lb ed="#P" n="88" break="no"/>tantis. cum deus est noticia: deus est terminus. 
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e783">
+          <lb ed="#P" n="89"/>¶ Confirmatur hec ratio: stans prope me et 
+          vi<lb ed="#P" n="90" break="no"/>dens ymaginem meam in speculo: videt me: sed deus 
+          <lb ed="#P" n="91"/>est speculum in quo creature omnes relucent: secundum 
+          <lb ed="#P" n="92"/>Augu. vii. de irini. ca. vltimo dicentem: quod verbum 
+          <lb ed="#P" n="93"/>est ars quedam ompotentis ac sapientis dei: plena 
+          <lb ed="#P" n="94"/>omnium rantionum viuentium incommutabiliu. Er 
+          <lb ed="#P" n="95"/>auicenna. vi. naturalium libro quarto. ca. ii dicit / quod 
+          <lb ed="#P" n="96"/>omnia quae in mundo sunt presentia preterita et 
+          su<lb ed="#P" n="97" break="no"/>tura habent esse in sapientia creatoris: ergo 
+          crea<lb ed="#P" n="98" break="no"/>ture clarius in deo videntur quam in seipsis.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e807">
+          ¶ Ad 
+          <lb ed="#P" n="99"/>tertium negatur maior. noticia reflexa noticie 
+          sor<lb ed="#P" n="100" break="no"/>tis est naturalis similitudo solius accidentis: et 
+          <lb ed="#P" n="101"/>nullomodo naturalis similitudo sortis. et cum est 
+          <lb ed="#P" n="102"/>conceptus vltimatus nullo modo sortem 
+          represem<lb ed="#P" n="103" break="no"/>tat. nunquam conceptus vltimatus representat aliquid 
+          <lb ed="#P" n="104"/>nisi cuius est naturalis similitudo. Et si dicas: 
+          no<lb ed="#P" n="105" break="no"/>ticia abstractiua sorti terminatur ad speciem sortis 
+          <lb ed="#P" n="106"/>immediate: et est eius noticia intuitiua: et media 
+          <lb ed="#P" n="107"/>te terminatur ad sortem. nego illud. precise 
+          termi<lb ed="#P" n="108" break="no"/>natur ad sortem. sicut noticia intuitiua sortis: 
+          pro<lb ed="#P" n="109" break="no"/>vt latius alibi diximus. Illud quod de conceptu non 
+          <lb ed="#P" n="110"/>vltimato in medium offertur / nihil probat. 
+          signifi<lb ed="#P" n="111" break="no"/>cat ad placitum hoc quod vox significat ad 
+          placi<lb ed="#P" n="112" break="no"/>tum. naturaliter precise significat vocem cuius est 
+          <lb ed="#P" n="113"/>similitudo. et quando ita esset in creaturis: quod non 
+          <lb ed="#P" n="114"/>concedo: adhuc non sequitur in proposito de noticia 
+          sub<lb ed="#P" n="115" break="no"/>stantie. licet ipsa de per accidens sit notitia: non vor 
+          <lb ed="#P" n="116"/>catur noticia reflexa.
+        </p>
+        <p xml:id="jm3cbb-e18265-d1e849">
+          ¶ Ad confirmationem 
+          tran<lb ed="#P" n="117" break="no"/>seat maior. ad minorem dico: falsum est quod creature 
+          <lb ed="#P" n="118"/>reluceant in deo sicut imago in speculo: si ly sicut 
+          <lb ed="#P" n="119"/>dicat omimodam similitudinem. imago est species 
+          <lb ed="#P" n="120"/>realiter existens in speculo: vel in medio speculo 
+          <lb ed="#P" n="121"/>vicino: vel res ipsa visa per lineam reflexam: sicut in 
+          <lb ed="#P" n="122"/>xiii. distinctione secundi diximus. Res ipse non ita re¬ 
+          <pb ed="#P" n="32-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>iucent in deo: deus tamen est sibi ipsi noticia rerum. 
+          <lb ed="#P" n="2"/>et auctoritates adducte sufficienter ostendunt quod 
+          <lb ed="#P" n="3"/>deus est ceterarum rerum noticia per suam essentiam 
+          <lb ed="#P" n="4"/>que est obiectum primarium omnium rerum 
+          represen<lb ed="#P" n="5" break="no"/>tatiuum et creature sunt obiecta secundaria.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 21</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 21</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="133-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e81423"><!-- l3d37q21 -->
+        <head xml:id="jm3cbb-e81423-Hd1e99">Quaestio 21</head>
+        <head xml:id="jm3cbb-e81423-Hd1e101" type="question-title">An ecclesia licite utatur imaginibus</head>
+        <p xml:id="jm3cbb-e81423-d1e104">
+          <lb ed="#P" n="40"/>Queritur an ecclesia 
+          li<lb ed="#P" n="41" break="no"/>cite vtatur imaginbus. 
+          Aespon<lb ed="#P" n="42" break="no"/>detur: hebrei dicunt nos idola 
+          <lb ed="#P" n="43"/>tras eoquod imaginibus vtimur. 
+          <lb ed="#P" n="44"/>greci eti am imaginesabhorrent. 
+          <lb ed="#P" n="45"/>leo tertius imperator fuit a 
+          Gre<lb ed="#P" n="46" break="no"/>gorio tertio excommunicatus 
+          <lb ed="#P" n="47"/>eo quod imagines apud constantinopoli deleuit.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e124">
+          ¶ S 
+          <lb ed="#P" n="48"/>pro veritate ponitur hec conclusio: ecclesia licite vti 
+          <lb ed="#P" n="49"/>tur imaginibus tam christi quam aliorum sanctorum. 
+          pro<lb ed="#P" n="50" break="no"/>batur hec conclusio a posteriore: da oppositum 
+          sequi<lb ed="#P" n="51" break="no"/>tur quod tota ecclesia aberraret sic adorando: consequens 
+          <lb ed="#P" n="52"/>est falsum: ergo et antecedens. Iterum: Constantinus / papa 
+          excommu<lb ed="#P" n="53" break="no"/>nicauit Philippum imperatorem eo quod imagines christi / 
+          <lb ed="#P" n="54"/>beate marie virginis / et sanctorum / dehonestauit. 
+          In<lb ed="#P" n="55" break="no"/>super: vt dicit Iohannes damascenus. Christus 
+          imagi<lb ed="#P" n="56" break="no"/>nen suam in pannum ipssit: et misit Abagaro regi. paeterea: 
+          <lb ed="#P" n="57"/>romani habent faciem christi quam ipsemet impessit 
+          pan<lb ed="#P" n="58" break="no"/>no quem sibi obtulit veronica: que in ecclesia 
+          sancti<lb ed="#P" n="59" break="no"/>petri monstratur. praeterea beatus lucas depinxit 
+          mul<lb ed="#P" n="60" break="no"/>tas imagines diue virginis: quarum quattuor aut quin 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>que rome habentur. Amplius ratione arguitur: apud 
+          genti<lb ed="#P" n="62" break="no"/>les in lumme naturali non solum recitantur verbo et 
+          <lb ed="#P" n="63"/>scripto gesta heroum: sed etiam in tapctise 
+          parieti<lb ed="#P" n="64" break="no"/>bus depinguntur: vt illorum gesta ad memoriam 
+          reuo<lb ed="#P" n="65" break="no"/>cemus: et eos stiideamus imitari. propterea septimo 
+          <lb ed="#P" n="66"/>politicorum dicit philosophorum princeps quod gesta 
+          he<lb ed="#P" n="67" break="no"/>roum debent depingi vt ea iuuenes videat e similia 
+          <lb ed="#P" n="68"/>faciant. imaginens sunt memoratiua signa virtutis 
+          <lb ed="#P" n="69"/>sequende et vicii vitandi: non solum per sensum auditus 
+          <lb ed="#P" n="70"/>actum memorandi haurimus: sed etiam per sensum 
+          vi<lb ed="#P" n="71" break="no"/>sus. Item Mpoyses fecit serpentem eneum. Numeri. xxi. 
+          <lb ed="#P" n="72"/>vbi dixit dominus: fac serpentem et pone eum pro signo: 
+          <lb ed="#P" n="73"/>vt essent memores quomodo erant percussi a 
+          serpen<lb ed="#P" n="74" break="no"/>tibus ignotis a quibus populus fuit iuste afflictus 
+          <lb ed="#P" n="75"/>a deo. et praeseruatus quando ad se rediit a deo.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e189">
+          ¶ Preter 
+          <lb ed="#P" n="76"/>ea in fabricatione tabernaculi. Exodi. xxv. 
+          Duo<lb ed="#P" n="77" break="no"/>cherubin erant super propiciatorium cum alis extensis: 
+          <lb ed="#P" n="78"/>que erant in forma humana: et mutuo se respiciebant: 
+          <lb ed="#P" n="79"/>e erant intra sancta sanctorum / loco sanctissimo: 
+          vbi<lb ed="#P" n="80" break="no"/>dabantur responsa. modo cherubin repsentant angelos. 
+          <lb ed="#P" n="81"/>ex his patet conclusio.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e206">
+          ¶ Contra conclusionem arguitur 
+          <lb ed="#P" n="82"/>sic: per illud quod scribitur Deutero. v. non facies 
+          tibi<lb ed="#P" n="83" break="no"/>sculptile / nec adorabis ea / neque coles.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e213">
+          ¶ Secundo 
+          <lb ed="#P" n="84"/>arguitur: in veteri lege nunquam fuit vsus imaginum: et 
+          <lb ed="#P" n="85"/>tamen vetus lex est figura noue: igitur.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e220">
+          ¶ Ad primum 
+          <lb ed="#P" n="86"/>dicitur: non adoramus imaginem vt est res quedam et 
+          <lb ed="#P" n="87"/>terminus finalis orationis: quia hoc ad idolatriam per 
+          <lb ed="#P" n="88"/>tineret. sed adoramus / imaginem prout alterius signum: 
+          <lb ed="#P" n="89"/>non feror in imaginem nisi ratione rei signte per 
+          imagi<lb ed="#P" n="90" break="no"/>nem. eodem actu in vtramque feror. et si sint duo actus 
+          <lb ed="#P" n="91"/>simultatis: semper vnus est propter alium: vt de vsu 
+          <lb ed="#P" n="92"/>et fruitione contingit ex. i. distinctione primi.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e238">
+          ¶ Ad 
+          <lb ed="#P" n="93"/>secundum dicendum est. quod deus non fuit in veteri lege 
+          hu<lb ed="#P" n="94" break="no"/>manus nec homo factus: ideo tunc non debuit habere 
+          fi<lb ed="#P" n="95" break="no"/>guram vel imaginem.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e247">
+          ¶ Tertio: in noua lege 
+          nichil<lb ed="#P" n="96" break="no"/>inuenitur expesse de imaginibus: ergo non sunt diuine 
+          tra<lb ed="#P" n="97" break="no"/>ditiones: sed humane inuentiones.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e254">
+          ¶ Quarto: dicit 
+          <lb ed="#P" n="98"/>damascenus li. iiii. cap. viii. Inuisibilis inquit et 
+          incor<lb ed="#P" n="99" break="no"/>porei et incircunscriptibilis dei quis potest imaginem 
+          <lb ed="#P" n="100"/>facere: quasi diceret / nullus. et sequitur summe igitur in 
+          <lb ed="#P" n="101"/>sipientie et impietatis est velle figurare id quod est 
+          diui<lb ed="#P" n="102" break="no"/>num.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e268">
+          ¶ Ad tertium dicitur: ex facto christi et sanctorum 
+          <lb ed="#P" n="103"/>concludimus imaginum institutiones rationabiles. et 
+          li<lb ed="#P" n="104" break="no"/>cet homines eas pro rationabili causa instituerent: 
+          <lb ed="#P" n="105"/>hoc sufficit.
+        </p>
+        <p xml:id="jm3cbb-e81423-d1e277">
+          ¶ Ad quartum respondetur non possumus 
+          <lb ed="#P" n="106"/>habere aliquid corporeum quod repesentat deum in se / si 
+          <lb ed="#P" n="107"/>cut est: cum est incorporeus. sed manuductione quadam 
+          <lb ed="#P" n="108"/>trinitas depingetur: vti in ecclesiis vides: in quibus 
+          pa<lb ed="#P" n="109" break="no"/>ter tanquam senior depingitur. lbet filius vel spuissanctus 
+          <lb ed="#P" n="110"/>fuerint ab eterno: quia filius est a patre et sputsanctus 
+          ab<lb ed="#P" n="111" break="no"/>vtroque: propterea quo ad vulgus sic depingitur: sic eum 
+          <lb ed="#P" n="112"/>vidit Daniel / Danielis. vii. et spuitssanctus in spem 
+          colum<lb ed="#P" n="113" break="no"/>bi: quia talis apparuit super christum. Math. iii. et MPar. 
+          <lb ed="#P" n="114"/>i. et filius in forma humanitatis: cum veram 
+          humani<lb ed="#P" n="115" break="no"/>tatem assumpsit: et talem in se habeat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

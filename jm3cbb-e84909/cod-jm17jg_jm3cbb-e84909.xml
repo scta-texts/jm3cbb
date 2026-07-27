@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 28</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 28</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="139-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e84909"><!-- l3d37q28 -->
+        <head xml:id="jm3cbb-e84909-Hd1e99">Quaestio 28</head>
+        <head xml:id="jm3cbb-e84909-Hd1e101" type="question-title">An Socrates peccet volendo occidere hominem
+    innocentem vel auctoritate propria</head>
+        <p xml:id="jm3cbb-e84909-d1e104">
+          <lb ed="#P" n="89"/>SEcundo circa idem 
+          pre<lb ed="#P" n="90" break="no"/>ceptum queritur an sortes peccet volem 
+          <lb ed="#P" n="91"/>do occidere hominem innocentem vel 
+          <lb ed="#P" n="92"/>auctoritate propria.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e115">
+          ¶ Rspondetur 
+          ai<lb ed="#P" n="93" break="no"/>firmatiue. tale homicidium 
+          prohi<lb ed="#P" n="94" break="no"/>betur per secundum preceptumse 
+          <lb ed="#P" n="95"/>cunde tabule.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e124">
+          ¶ Contra hoc sic arguitur: et 
+          pono<lb ed="#P" n="96" break="no"/>in casu quod plato probetur coram sorte iudice innocens 
+          <lb ed="#P" n="97"/>cum testibus omni exceptione maioribus: et non 
+          <lb ed="#P" n="98"/>constet sorti de opposito: vt omnis positio secluda 
+          <lb ed="#P" n="99"/>tur. hoc supposito arguitur sic. sortes habet 
+          iudici<lb ed="#P" n="100" break="no"/>um rectum in intellectuet dictamen prudentiale vel 
+          <lb ed="#P" n="101"/>errorem inuincibllem quo iudicat / innocens est 
+          oc<lb ed="#P" n="102" break="no"/>cidendus: ergo actus voluntatis ab illo iudicio in 
+          <lb ed="#P" n="103"/>tellectus regulatus est bonus.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e145">
+          ¶ Sed dicis. 
+          sor<lb ed="#P" n="104" break="no"/>tes habet hoc iudicium erroneum ignorantia 
+          inuincibi<lb ed="#P" n="105" break="no"/>li / plato est occidendus. sed illud iudicium est 
+          fal<lb ed="#P" n="106" break="no"/>sum / putatus innocens non probatus nocens non 
+          <lb ed="#P" n="107"/>est occidendus: et per consequens iudicinm 
+          affir<lb ed="#P" n="108" break="no"/>matiuum quod innocens est occidendus est falsum.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e158">
+          ¶ Contra: 
+          <lb ed="#P" n="109"/>habeat cicero hoc iudicium. innocens est occidendus 
+          <lb ed="#P" n="110"/>a sorte: hoc iudicium est verum in cicerone: et est 
+          sinoni<lb ed="#P" n="111" break="no"/>mum iudicio sortis: ergo iudicium sortis est verum. non 
+          <lb ed="#P" n="112"/>stat vnum sinonimum esse verum quin aliud sit verum 
+          <lb ed="#P" n="113"/>extra insolubilia. bene in illis dantur due propositiones 
+          <lb ed="#P" n="114"/>sinonime etiam mentales vltimate: quarum vna est ve 
+          <lb ed="#P" n="115"/>ra et alia falsa: vt Iohannes dicit falsum / 
+          Iohan<lb ed="#P" n="116" break="no"/>nes dicit flnm / casu quo iohannes proferat priorem 
+          so<lb ed="#P" n="117" break="no"/>lum cum suis partibus: et sortes illam aliam: propositio 
+          <lb ed="#P" n="118"/>sortis est vera: et propositio iohannis falsa. sed extra hanc 
+          <lb ed="#P" n="119"/>materiam hoc non contingit. probatur ergo assumumptum: 
+          <lb ed="#P" n="120"/>puta quod propositio ciceronis est vera qua iudicat / in 
+          <pb ed="#P" n="139-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nocens est oceidendus a sorte. patet: iste est occidendus 
+          <lb ed="#P" n="2"/>a sorte: ille est innocens: igitur. argumentum potest fieri in 
+          <lb ed="#P" n="3"/>peccato carnis cum eadem difficultate sic: posito quod 
+          <lb ed="#P" n="4"/>sortes ex ignorantia inuincibili credat bertham esse 
+          <lb ed="#P" n="5"/>eius quae non est eius: et cum hoc habeat sortes talem actum / 
+          <lb ed="#P" n="6"/>volo cognoscere solutam. notum est quod hec volitio est 
+          <lb ed="#P" n="7"/>mala in sorte / volo cognoscere solutam: sed 
+          probo<lb ed="#P" n="8" break="no"/>quod non: regulatur a dictamine vero in sorte: patet: 
+          re<lb ed="#P" n="9" break="no"/>gulatur a dictamine vero in platone. Plato 
+          ha<lb ed="#P" n="10" break="no"/>bet hoc iudicium / soluta mulier est cognoscenda a 
+          sor<lb ed="#P" n="11" break="no"/>te licite: et illud iudicium est verum in platone: et 
+          iudici<lb ed="#P" n="12" break="no"/>um sortis est ei sinonimum / vel propositiones ipse: erao 
+          <lb ed="#P" n="13"/>propositio sortis est vera qua iudicat soluta est a 
+          me<lb ed="#P" n="14" break="no"/>cognoscenda. quod iudicium siue propositio platonis sit 
+          <lb ed="#P" n="15"/>vera patet sic: bene sequitur: hec bertha licite est 
+          cogno<lb ed="#P" n="16" break="no"/>scenda a sorte. hec bertha est soluta. ergo soluta licite est 
+          <lb ed="#P" n="17"/>cognoscenda a sorte. totum antecedens est verum: consequentia est sillo 
+          <lb ed="#P" n="18"/>gismus expositorius: consequens non se falsificat: ergo conclusio 
+          <lb ed="#P" n="19"/>est vera quae est dictamen platonis: e illi dictamini 
+          di<lb ed="#P" n="20" break="no"/>ctamen fortis est sinonimum: et vnum est verum: ergoet 
+          reli<lb ed="#P" n="21" break="no"/>quum: quod restabat probandum.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e236">
+          ¶ Respondetur: hoc 
+          <lb ed="#P" n="22"/>dictamemn in platone est verum: sic est dictamen ei sinonimum 
+          <lb ed="#P" n="23"/>in sorte / soluta est a me cognoscenda: exponendo 
+          per<lb ed="#P" n="24" break="no"/>dignum vel posse: et actus voluntatis ei respondens 
+          <lb ed="#P" n="25"/>est bonus: puta hic actus / hanc solutam volo 
+          cognosce<lb ed="#P" n="26" break="no"/>re: hanc volo coguiscere: et hec est soluta: ergo solutam volo 
+          <lb ed="#P" n="27"/>cognscere: consequentia est bona: et totum antecedens licitum: et per consequens ipse 
+          <lb ed="#P" n="28"/>consequens est licitum. sed illud iudicium intellectus / 
+          <lb ed="#P" n="29"/>soluta est a me cognoscenda non regulat hunc actum / 
+          <lb ed="#P" n="30"/>volo cognoscere solutam: vbi actus volendi cadit 
+          for<lb ed="#P" n="31" break="no"/>maliter in solutam: sed potius debet regulari a 
+          ta<lb ed="#P" n="32" break="no"/>li dictamine cognoscenda est a me soluta: vt noticia 
+          <lb ed="#P" n="33"/>cognoscendi cadat in solutam. eodem modo est in plato 
+          <lb ed="#P" n="34"/>ne: illud iudicium in platone est falsum / sortes debet 
+          <lb ed="#P" n="35"/>cognoscere solutam / vel cognoscenda est soluta a sorte. 
+          <lb ed="#P" n="36"/>emultum refert dicere / soluta es cognoscenda a me: 
+          <lb ed="#P" n="37"/>cognoscenda est a me soluta: solutam volo cognoscere: 
+          <lb ed="#P" n="38"/>volo cognoscere solutam. similiter innocentem volo 
+          <lb ed="#P" n="39"/>occidere: et volo occidere innocentem in casu que 
+          <lb ed="#P" n="40"/>stionis / priorest actus bonus: et secundus malus. 
+          simili<lb ed="#P" n="41" break="no"/>ter illud iudicium est verum in sorte / innocens est a me 
+          <lb ed="#P" n="42"/>occidendus: quod patet: sequitur ex vero: ergo illa est vera. antecedens 
+          <lb ed="#P" n="43"/>patet. bene sequitur ille est a me occidendus: ille est inno 
+          <lb ed="#P" n="44"/>cens. ergo innocens est a me occidendus. totum antecedens est verum. 
+          <lb ed="#P" n="45"/>sortes habet ignorantiam inuincibilem circa maiorem: et licet 
+          <lb ed="#P" n="46"/>non assentiat minori: hoc non obstante / ipsa est vera. 
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e293">
+          <lb ed="#P" n="47"/>¶ Dubitatur an let occidere tyrannum morte dignum 
+          <lb ed="#P" n="48"/>auctoritate propria: capio tyrannum vulgariter: et non 
+          <lb ed="#P" n="49"/>sicut Aristoteles in politicis capit. Bespondetur quod non 
+          <lb ed="#P" n="50"/>patet hoc per secundum praeceptum secunde tabule.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e304">
+          ¶ Contra hoc 
+          <lb ed="#P" n="51"/>arguitur: cirurgicus abscidit membrum putridum 
+          vicin<lb ed="#P" n="52" break="no"/>in corpore vero infectiuum aliorum membrorum: ergo 
+          <lb ed="#P" n="53"/>tu potes mebrum putridum incorpore mistico aliorum 
+          <lb ed="#P" n="54"/>infectiuum tollere de rerum natura.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e315">
+          ¶ Secundo: potes 
+          <lb ed="#P" n="55"/>eum occidere quando vrbem conmburit: vel pro tui vel alterius 
+          <lb ed="#P" n="56"/>tuitione: igitur.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e323">
+          ¶ Ad primum nego consequentiam. corpus verum 
+          <lb ed="#P" n="57"/>non potest esse illa perte non abiecta. corpus misticum potest 
+          <lb ed="#P" n="58"/>esse cum illo tyranno. Secundo: cum licentia totius corpis 
+          <lb ed="#P" n="59"/>veri tollitur hoc membrum. etiam cum facultate totius 
+          cor<lb ed="#P" n="60" break="no"/>poris mistici. tu tamquam minister conitatis potes hunc 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tyrannum occidere: dum est licite condempnatus.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e339">
+          ¶ Ad 
+          se<lb ed="#P" n="62" break="no"/>cundum concedo antecedens. possum illum occidere quando actu 
+          tyran<lb ed="#P" n="63" break="no"/>nisat in bello iusto.
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e346">
+          ¶ Tertio arguitur. Iudico illum 
+          tyran<lb ed="#P" n="64" break="no"/>num multa mala facturum populo: ergo possum ipsum 
+          <lb ed="#P" n="65"/>occidere: patet: quando iudico quod cadam in extremam 
+          necessi<lb ed="#P" n="66" break="no"/>tatem poslum capere panem ad me subleuandum: ergo 
+          <lb ed="#P" n="67"/>possum istum tollere de rerum natura antequam malum 
+          per<lb ed="#P" n="68" break="no"/>petret de quo probabilissime iudico quod male aget. 
+        </p>
+        <p xml:id="jm3cbb-e84909-d1e359">
+          <lb ed="#P" n="69"/>¶ Despondetur negando conseqentiam. et ad probationem 
+          conce<lb ed="#P" n="70" break="no"/>do antecedens: et nego consequentiam: pro malo futuro (antequam ponatur in 
+          <lb ed="#P" n="71"/>effectu) non est homo vltimo supplicio feriendus. impediam 
+          <lb ed="#P" n="72"/>eum omn alia via licita possibili: et multe 
+          inueniri<lb ed="#P" n="73" break="no"/>possunt: non autem possent inueniri de succurrendo extre 
+          <lb ed="#P" n="74"/>me necessitati. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

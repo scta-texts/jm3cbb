@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="18-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e10465"><!-- l3d6q2 -->
+        <head xml:id="jm3cbb-e10465-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e10465-Hd1e101" type="question-title">An aliqua illarum trium positionum est vera quas magister in
+    littera recitat circa materiam incarnationis</head>
+        <p xml:id="jm3cbb-e10465-d1e104">
+          <lb ed="#P" n="7"/>SEcundo circa 
+          hanc<lb ed="#P" n="8" break="no"/>distinctionem quaeritur: an aliqua 
+          ista<lb ed="#P" n="9" break="no"/>rum positionum est vera quas 
+          ma<lb ed="#P" n="10" break="no"/>gister in littera recitat circa 
+          ma<lb ed="#P" n="11" break="no"/>teriam incarnationis. Pro 
+          solu<lb ed="#P" n="12" break="no"/>tione quaestionis ille tres positio 
+          <lb ed="#P" n="13"/>nes recitabuntur. postea 
+          conclu<lb ed="#P" n="14" break="no"/>siue respondebitur / quid super hoc tenendum videbitur. 
+          <lb ed="#P" n="15"/>Prima positio dicit quod ex corpere et anima constituitur 
+          <lb ed="#P" n="16"/>homo: et ille homo assumptus est verbum. Secunda positio 
+          te<lb ed="#P" n="17" break="no"/>net quod verbum non componitur precise ex corpere et anima: sed 
+          <lb ed="#P" n="18"/>ex tribus componitur: scilicet corpore / anima / et 
+          <lb ed="#P" n="19"/>diuinitate. Tertia positio dicit / quod corpus est 
+          as<lb ed="#P" n="20" break="no"/>sumptum a verbo: et sic anima: sed anima non 
+          infor<lb ed="#P" n="21" break="no"/>mat corpus: nec corpus est informatum ab anima 
+        </p>
+        <p xml:id="jm3cbb-e10465-d1e139">
+          <lb ed="#P" n="22"/>¶ Pro veritate habenda ponuntur quattuor conclusio 
+          <lb ed="#P" n="23"/>nes. Prima: positio prima est falsa. Secunda 
+          con<lb ed="#P" n="24" break="no"/>clusio / secunda positio est erronea. et falsa. 
+          Ter<lb ed="#P" n="25" break="no"/>tia conclusio: tertia positio est falsa et erronea 
+          <lb ed="#P" n="26"/>Quarta conclusio: christus est simplex et indiuisibilis 
+          <lb ed="#P" n="27"/>Prima conclusio probatur: ex ea sequitur quod idem 
+          <lb ed="#P" n="28"/>est assumens et assumptum: et idem assumit se. Secundo 
+          <lb ed="#P" n="29"/>sequitur quod aliquod temporale incipit esse eternum. 
+          <lb ed="#P" n="30"/>verbum fuit ab eterno. binarius ille assumptus 
+          <lb ed="#P" n="31"/>incepit esse: modo ista non possunt competere eidem 
+        </p>
+        <p xml:id="jm3cbb-e10465-d1e163">
+          <lb ed="#P" n="32"/>¶ Secunda conclusio probatur: christus est simplex non 
+          <lb ed="#P" n="33"/>componibilis alicui. non potest esse subiectum 
+          respe<lb ed="#P" n="34" break="no"/>ctu forme: nec forma respectu materie: ergo 
+          ni<lb ed="#P" n="35" break="no"/>chil componitur ex diuinitate et corpore et anima. 
+          <lb ed="#P" n="36"/>pars est imperfectior suo toto (potissimum pars 
+          al<lb ed="#P" n="37" break="no"/>terius rationis a toto ) modo heresis est in philo 
+          <lb ed="#P" n="38"/>sophia naturali ( fide seclusa ) ponere aliquid 
+          no<lb ed="#P" n="39" break="no"/>bilius prima causa: quam deum communiter vocamus. 
+          <lb ed="#P" n="40"/>Secundo: christus fuit abeterno: sed incepit esse 
+          <lb ed="#P" n="41"/>christus quando vniebantur corpus et anima: ergo 
+          <lb ed="#P" n="42"/>nihil potest esse ex eis compositum. Dicis: stat 
+          anima<lb ed="#P" n="43" break="no"/>esse incorruptibilem: similiter corpus in lumine 
+          <lb ed="#P" n="44"/>naturali: et tamen hominem esse corruptibilem: quia 
+          <lb ed="#P" n="45"/>vnio est contingens: sic dicetur in proposito. licet 
+          <lb ed="#P" n="46"/>ita dici potest: prima ratio non solum in fide / sed 
+          <lb ed="#P" n="47"/>in lumine naturali concludit.
+        </p>
+        <p xml:id="jm3cbb-e10465-d1e201">
+          ¶ Tertia conclusio 
+          pro<lb ed="#P" n="48" break="no"/>batur: ex ea sequitur quod christus non est homo. patet 
+          <lb ed="#P" n="49"/>non habet humanitatem assumptam: sed non aliter 
+          <lb ed="#P" n="50"/>christus dicitur esse homo: igitur.
+        </p>
+        <p xml:id="jm3cbb-e10465-d1e210">
+          ¶ Quarta 
+          conclu<lb ed="#P" n="51" break="no"/>sio probatur: christus non est compositus nec potest 
+          con<lb ed="#P" n="52" break="no"/>poni: vt in secunda conclusione et eius probatione 
+          di<lb ed="#P" n="53" break="no"/>ximus: et cam est / oportet quod sit simplex.
+        </p>
+        <p xml:id="jm3cbb-e10465-d1e219">
+          ¶ Contra 
+          <lb ed="#P" n="54"/>probationem secunde conclusionis arguitur: materia que 
+          <lb ed="#P" n="55"/>est creatura est subiectum forme: ergo deus potest 
+          <lb ed="#P" n="56"/>esse subiectum forme. similiter forma potest informare 
+          <lb ed="#P" n="57"/>materiam: ergo deus / potest informare materiam. 
+          te<lb ed="#P" n="58" break="no"/>net consequentia: alioquin concedere oportebit: 
+          ali<lb ed="#P" n="59" break="no"/>quid potest facere forma / quod non potest deus / 
+          face<lb ed="#P" n="60" break="no"/>re: quod non videtur concedendum.
+        </p>
+        <p xml:id="jm3cbb-e10465-d1e237">
+          ¶ Ad primum: negs 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>consequentiam. imperfectionis est aliquid in se 
+          susci<lb ed="#P" n="62" break="no"/>pere vt perficiatur: hoc deo non competit.
+        </p>
+        <p xml:id="jm3cbb-e10465-d1e246">
+          ¶ Ad secundum: 
+          <lb ed="#P" n="63"/>nego consequentiam: et ad probationem: nego quod 
+          sequa<lb ed="#P" n="64" break="no"/>tur conclusio illa illata: quod aliquid potest forma 
+          fa<lb ed="#P" n="65" break="no"/>cere / quod deus facere nequeat. quamcumque entitatem 
+          <lb ed="#P" n="66"/>potest forma aliqua facere: hoc deus potest 
+          face<lb ed="#P" n="67" break="no"/>re. sed informare formaliter potest forma materiam 
+          <lb ed="#P" n="68"/>et hoc non potest deo competere: et hoc non est 
+          effi<lb ed="#P" n="69" break="no"/>cere. agens formam siue producens eam 
+          informatio<lb ed="#P" n="70" break="no"/>nem causat. deus creans animam facit eam 
+          effecti<lb ed="#P" n="71" break="no"/>ue informare corpus. similiter deus cum igne 
+          pro<lb ed="#P" n="72" break="no"/>ducens formam ignis facit illam formam effectiue 
+          in<lb ed="#P" n="73" break="no"/>formare materiam.
+        </p>
+        <p xml:id="jm3cbb-e10465-d1e272">
+          ¶ Contra quartam conclusionem 
+          <lb ed="#P" n="74"/>arguitur: dicimus / in christo sunt corpus anima et 
+          <lb ed="#P" n="75"/>diuinitas: ergo non est simplex. Respondetur: conces 
+          <lb ed="#P" n="76"/>dendo quod ille est vulgaris modus loquendi: qui sane 
+          <lb ed="#P" n="77"/>intelligendus est: sic scilicet: ad hoc quod aliquid 
+          di<lb ed="#P" n="78" break="no"/>catur christus requiritur quod hec tria vniantur: in 
+          sem<lb ed="#P" n="79" break="no"/>su quo antede loquuti sumus: christus est terminus 
+          con<lb ed="#P" n="80" break="no"/>notatiuus pro secunda persona in diuinis supponens: 
+          <lb ed="#P" n="81"/>connotando quod corpus et animam habeat assumpta 
+          <lb ed="#P" n="82"/>Anerat christus / in triduo. post hac futurus est 
+          ser<lb ed="#P" n="83" break="no"/>mo distinctione. xxii. huius. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="13-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e07936"><!-- l3d4q1 -->
+        <head xml:id="jm3cbb-e07936-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e07936-Hd1e101" type="question-title">An mater aliqua ullam efficientiam habeat respectu foetus
+    generandi</head>
+        <p xml:id="jm3cbb-e07936-d1e104">
+          <lb ed="#P" n="88"/>IN hac quarta 
+          <lb ed="#P" n="89"/>distinctione loquendum est de 
+          <lb ed="#P" n="90"/>maternitate diue virginis 
+          re<lb ed="#P" n="91" break="no"/>spectu christi. circa hanc materiam 
+          <lb ed="#P" n="92"/>quadruplicem questionem 
+          scin<lb ed="#P" n="93" break="no"/>demus. Prima erit: an 
+          mater<lb ed="#P" n="94" break="no"/>aliqua vllam efficientiam 
+          ha<lb ed="#P" n="95" break="no"/>beat respectu fetus generandi: quia ex hoc in 
+          par<lb ed="#P" n="96" break="no"/>te dependet questio sequens. Secunda questio erit 
+          <lb ed="#P" n="97"/>ad quid cooperata fuerit beata vrgo respectu 
+          cor<lb ed="#P" n="98" break="no"/>poris christi / ratione cuius dicatur eius mater. 
+          Ter<lb ed="#P" n="99" break="no"/>tia questio erit: an beata virgo sit mater dei et 
+          ho<lb ed="#P" n="100" break="no"/>minis. Quarta erit: an spiritussanctus / potest 
+          dici<lb ed="#P" n="101" break="no"/>pater christi.
+        </p>
+        <p xml:id="jm3cbb-e07936-d1e137">
+          ¶ Circa primam questionem due sunt 
+          <lb ed="#P" n="102"/>pationes: quarum prima tenet partem negatiuam: quod 
+          ma<lb ed="#P" n="103" break="no"/>ter solum ministrat materiam ad generationem fotus 
+          <lb ed="#P" n="104"/>et nullam efficientiam habet respectu fetus 
+          generan<lb ed="#P" n="105" break="no"/>di: sed sememn paternum efficientiam habet: semem inquam 
+          <lb ed="#P" n="106"/>quo ad partes spirituosas: et illa pars alterat 
+          fe<lb ed="#P" n="107" break="no"/>mineum semen: et fortasse partes naturales et 
+          ter<lb ed="#P" n="108" break="no"/>restres seminis virilis. et sic educitur fetus: sicut 
+          coa<lb ed="#P" n="109" break="no"/>gulum de lacte caseum educit: vt dicit Auicemnna in 
+          <lb ed="#P" n="110"/>primo canone fen prima doctrina quinta 
+          recitan<lb ed="#P" n="111" break="no"/>do opinionem aristotelis. Partem oppositam tenet 
+          <lb ed="#P" n="112"/>galienus / in libro de spermate. et licet hanc ma 
+          teri<lb ed="#P" n="113" break="no"/>am in. xviii. distinct. ii. questione. ii. tractauerim 
+          <lb ed="#P" n="114"/>magis insequens partem negatiuam: quam ypo cras 
+          <lb ed="#P" n="115"/>plato et aristoteles sequuti sentent: et adhuc illam 
+          par<lb ed="#P" n="116" break="no"/>tem probabiliorem reor: vtraque tamen pars 
+          estitho<lb ed="#P" n="117" break="no"/>pica. vnum principale motiuum est hoc: data parte a 
+          ffir<lb ed="#P" n="118" break="no"/>matiua questionis sequitur quod virgo potest parere in 
+          <lb ed="#P" n="119"/>sensu composito. consequens est falsum. quod sequatur 
+          pa<lb ed="#P" n="120" break="no"/>tet sic: sememn mulieris est actiuum ad 
+          generationem<lb ed="#P" n="121" break="no"/>prolis: et passiuum: puta vna pars est agtiua et alia 
+          <pb ed="#P" n="14-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>pars est passiua: ergo si fuerit mulier polluta in 
+          <lb ed="#P" n="2"/>somno sine claustrorum virginalium fractura 
+          semen<lb ed="#P" n="3" break="no"/>eius recipietur in matrice. et sic erit causa actiua et 
+          <lb ed="#P" n="4"/>passiua sufficiens ad generationem fetus sine 
+          com<lb ed="#P" n="5" break="no"/>mixtione viri. quia ponatur quod ipsa sit copiose 
+          pol<lb ed="#P" n="6" break="no"/>luta de nocte in somno. pone omnia quae argumentum 
+          <lb ed="#P" n="7"/>promouent
+        </p>
+        <p xml:id="jm3cbb-e07936-d1e202">
+          ¶ Huic argumento dici potest: quod licet mas 
+          <lb ed="#P" n="8"/>et femina lunt eiusdem speciei specialissime 
+          entita<lb ed="#P" n="9" break="no"/>tiue: eorum tamen semina non sunt eiusdem speciei 
+          sub<lb ed="#P" n="10" break="no"/>stantialiter vel qualitatiueaccidentaliter. modo 
+          <lb ed="#P" n="11"/>forme substantiales seminum non possunt exire in 
+          <lb ed="#P" n="12"/>suas operationes supremas nisi qualitatiue 
+          fue<lb ed="#P" n="13" break="no"/>rint disposite: et patet de seminibus / iuuenum et vltra 
+          <lb ed="#P" n="14"/>septuagesimum annum senum / vel impotentium 
+          gene<lb ed="#P" n="15" break="no"/>rare. dicetur etiam quod mater effectiue concurrit (
+          li<lb ed="#P" n="16" break="no"/>cet minus principaliter ad generationem fetus: et 
+          <lb ed="#P" n="17"/>requiritur concursus vtriusque seminis: alioquin 
+          nul<lb ed="#P" n="18" break="no"/>lomodoproducetur fetus. sicut potentia sola non 
+          <lb ed="#P" n="19"/>sufficit producere noticiam intuitiuam a obiecti: nec 
+          <lb ed="#P" n="20"/>a obiectum se solo sufficit. nec melioratio vnius / isto 
+          <lb ed="#P" n="21"/>rum potest sic augeri quod suppleat camlitatem 
+          vtri<lb ed="#P" n="22" break="no"/>usque. sic in proposito. Si dicas: iste cause specie 
+          di<lb ed="#P" n="23" break="no"/>stinguntur: et in istis hoc habet verum. in causis 
+          <lb ed="#P" n="24"/>eiusdem speciei vnum indiuiduum potest intendi vel 
+          <lb ed="#P" n="25"/>perfici quod suppleat vtriusque canlitatem. vnus 
+          ho<lb ed="#P" n="26" break="no"/>mo potest tantum portare sicut duo alii. et vnus / ignis 
+          <lb ed="#P" n="27"/>tantum calefaceresicut duo alii. hoc iam euacuauim 
+          <lb ed="#P" n="28"/>augeatur semen masculi ante quartum decimum 
+          <lb ed="#P" n="29"/>annum (cuius malicia non supplet etatem ) in quacumque 
+          <lb ed="#P" n="30"/>quantitate extensiua / nunquam sufficiet ad generationem. 
+          <lb ed="#P" n="31"/>ergo licet iste masculus sit eiusdem speciei entita 
+          <lb ed="#P" n="32"/>tiue cum adulto generare potenti: cum semen vnius est 
+          <lb ed="#P" n="33"/>prolificum: alterius non: oportet dicers quod sit 
+          discri<lb ed="#P" n="34" break="no"/>men specificum substantialiter vel accidentaliter in 
+          <lb ed="#P" n="35"/>seminibus: et sic argumentum extinguitur.
+        </p>
+        <p xml:id="jm3cbb-e07936-d1e266">
+          ¶ 
+          Argu<lb ed="#P" n="36" break="no"/>menta galieni habent aliquid apparentie. vnum est: 
+          <lb ed="#P" n="37"/>totiens fetus assimilatur matri sicut patri: ergo 
+          <lb ed="#P" n="38"/>est effectus matris sicut patris: loquor de 
+          effe<lb ed="#P" n="39" break="no"/>ctu cause efficientis. Secundo fetus diligitur a 
+          ma<lb ed="#P" n="40" break="no"/>tre sicut patre: igitur. Prior istarum rationum non est 
+          <lb ed="#P" n="41"/>ponderanda: et refello argumentum: interdum effectus 
+          <lb ed="#P" n="42"/>neutri eorum assimulatur: et hoc potest euenire ab 
+          <lb ed="#P" n="43"/>influentia celi. aliqui in aliquibus regionibus 
+          nati<lb ed="#P" n="44" break="no"/>habent aliam dispositionem corpoream quam alii. Sed 
+          di<lb ed="#P" n="45" break="no"/>cis: verum est in variis locis. immo etiam in eodem 
+          loco<lb ed="#P" n="46" break="no"/>successiue. imaginatio mulieris tempere conceptionis 
+          <lb ed="#P" n="47"/>multum facit: vt in secundo tetigimus. Tertio dico 
+          ma<lb ed="#P" n="48" break="no"/>teria etiam facit ad assimulationem. vlterius dico 
+          ar<lb ed="#P" n="49" break="no"/>gumentum parum mouet: maritus adultere occulte / 
+          <lb ed="#P" n="50"/>tantum diligit filium putatiuum sicut proprium filium ergo 
+          <lb ed="#P" n="51"/>dilectio naturalis vel spontanea matris vel 
+          pa<lb ed="#P" n="52" break="no"/>tris non arguit sufficienter efficientiam. quod mater plus 
+          <lb ed="#P" n="53"/>diligat filium quam pater triplex est causa: teste 
+          Aristo<lb ed="#P" n="54" break="no"/>tele nono ethicorum. Prima est: maiorem 
+          certitudi<lb ed="#P" n="55" break="no"/>nem habet quod proles est eius quam pater Secundo: maio 
+          <lb ed="#P" n="56"/>res labores pro fetu patitur. modo diligimus illa 
+          <lb ed="#P" n="57"/>que cum difficultate acquiruntr. Tertio: est magis 
+          <lb ed="#P" n="58"/>assueta cum fetu: in iuuentute potissimum.
+        </p>
+        <p xml:id="jm3cbb-e07936-d1e318">
+          ¶ Sed possunt 
+          <lb ed="#P" n="59"/>fieri alie rationes pro medicorum principe. vna et 
+          <lb ed="#P" n="60"/>tertia talis: forma substantialis matris effectiue 
+          <lb ed="#P" n="61"/>concurrit ad eductionem forme in prole / et non se¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>men: ergo mater effectiue concurrit. antecedens 
+          pan<lb ed="#P" n="63" break="no"/>tet: semen paternum est inanimatum: ergo est 
+          imper<lb ed="#P" n="64" break="no"/>fectius animato fetu. vtrobique viuentia non 
+          viuem<lb ed="#P" n="65" break="no"/>tibus prestant. modo imperfectius non concurrit 
+          <lb ed="#P" n="66"/>ad productionem perfectioris: causa equiuoca 
+          semper<lb ed="#P" n="67" break="no"/>debet esse nobilior suo effectu.
+        </p>
+        <p xml:id="jm3cbb-e07936-d1e342">
+          ¶ Respondetur: hoc 
+          <lb ed="#P" n="68"/>argumentum non iuuat galienum: quia ipse loquitur 
+          <lb ed="#P" n="69"/>de semine materno: et argumentum conuertit se ad 
+          <lb ed="#P" n="70"/>formam substantialem femine. Sed argumentum 
+          <lb ed="#P" n="71"/>tangit vnam difficultatem non spernendam ( de 
+          ani<lb ed="#P" n="72" break="no"/>ma intellectiua non loquor) ipsa creatur a solo deo 
+          <lb ed="#P" n="73"/>nec in homine pono formam aliquam nisi 
+          intecllecti<lb ed="#P" n="74" break="no"/>uam. sed loquendo in aliis bruti est difficultas / a 
+          qua<lb ed="#P" n="75" break="no"/>producatur vltima forma specifica ad quam fit 
+          <lb ed="#P" n="76"/>ascensus per formas imperfectiores: sic scilicet 
+          <lb ed="#P" n="77"/>quod posterior sit priore perfectior. videmus quod aliqua bruta 
+          <lb ed="#P" n="78"/>producuntur sine forma viua. patet in animalibus 
+          <lb ed="#P" n="79"/>ex stercoribus anim alium vel aliarum putrefactionum 
+          <lb ed="#P" n="80"/>genitis. talia non producuntur a celo / nisi tamquam causa 
+          <lb ed="#P" n="81"/>partiali. celum est inperfectius talibus / brutis: quia in 
+          <lb ed="#P" n="82"/>animatum. et dico talia animalia esse producta a 
+          ce<lb ed="#P" n="83" break="no"/>lo / et eius influentiis / et a deo. non inconuenit a 
+          cau<lb ed="#P" n="84" break="no"/>sam equiuocam partialem esse iinus perfectam 
+          suo<lb ed="#P" n="85" break="no"/>effectu: quia nullam alia causam productiuam istorum 
+          <lb ed="#P" n="86"/>brutorum dare possumus / rationabiliter loquendo in 
+          <lb ed="#P" n="87"/>brutis non genitis generatione spontanea. sed 
+          <lb ed="#P" n="88"/>in matrum matricibus possumus dare causalita 
+          <lb ed="#P" n="89"/>tem effectiuam formis substantialibus matrum: 
+          <lb ed="#P" n="90"/>forma substantialis vacce est presens in 
+          instan<lb ed="#P" n="91" break="no"/>ti generationis vituli: non constat quod ab ea ne on 
+          <lb ed="#P" n="92"/>ganda est causalitas: ergo illa forma concurrit 
+          <lb ed="#P" n="93"/>principalissime (inter causas secundas ) ad 
+          gene<lb ed="#P" n="94" break="no"/>rationem forme vituline. et sic femina plus facit 
+          ge<lb ed="#P" n="95" break="no"/>nerationem bruti quam masculus: licet semem 
+          masculi<lb ed="#P" n="96" break="no"/>num plus facit ad alterationes praeuias quam sememn 
+          femi<lb ed="#P" n="97" break="no"/>neum. tandem forme substantiales seminum corrum 
+          <lb ed="#P" n="98"/>puntur ab agenti quod formam substantialem perse 
+          <lb ed="#P" n="99"/>ctiorem producit. Ex isto sequitur: si omnia 
+          ac<lb ed="#P" n="100" break="no"/>cidentia in matrice vacce conseruarentur a deo: et 
+          <lb ed="#P" n="101"/>forma substantialis vacce desineret esse quando 
+          debe<lb ed="#P" n="102" break="no"/>ret educi forma substantialis vituli: nunquam produa 
+          <lb ed="#P" n="103"/>ceretur nisi deus magis concurrat quam soleat 
+          con<lb ed="#P" n="104" break="no"/>currere in aliis vitulis producendis
+        </p>
+        <p xml:id="jm3cbb-e07936-d1e425">
+          ¶ Quarto 
+          ar<lb ed="#P" n="105" break="no"/>guitur etiam pro galieno: si mater effectiue non 
+          con<lb ed="#P" n="106" break="no"/>currat ad generationem prolis: tunc ad veram 
+          ma<lb ed="#P" n="107" break="no"/>ternitatem sufficit ministrare materiam fetui: et 
+          per<lb ed="#P" n="108" break="no"/>consequens mulier erit mater respectu vermis in 
+          <lb ed="#P" n="109"/>vtero geniti: et terra respectu minere in ea genite. 
+          <lb ed="#P" n="110"/>consequens est contra omnes loquentes. consequentia 
+          ta<lb ed="#P" n="111" break="no"/>men patet: quia illic ministratur materia: et illud 
+          suf<lb ed="#P" n="112" break="no"/>ficit ad maternitatem: cum non requiritur causalitas 
+          <lb ed="#P" n="113"/>effectiua.
+        </p>
+        <p xml:id="jm3cbb-e07936-d1e447">
+          ¶ Respondeor hoc argumentum non cogit. 
+          <lb ed="#P" n="114"/>nam ipsum refello sic: licet ponatur aliquod actiuum 
+          <lb ed="#P" n="115"/>intrinsecum in inanimatis: in eis tamen non conceditur 
+          <lb ed="#P" n="116"/>maternitas vel paternitas: et si ponatur actiuitas 
+          <lb ed="#P" n="117"/>in homine vel alio bruto respectu pedunculorum 
+          <lb ed="#P" n="118"/>vel vermium: non tamen solemus vocare animalia 
+          <lb ed="#P" n="119"/>ex quibus / sunt tales effectus matres: nec effectus 
+          <lb ed="#P" n="120"/>ipsos filios: ergo hoc argumentum erit vtrique 
+          <lb ed="#P" n="121"/>positioni commune. dicimus aliquas causas actiuas 
+          <lb ed="#P" n="122"/>matres: et effectus filios de predicamento relatio¬ 
+          <pb ed="#P" n="14-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nis. aliquas vero non sie vocamus. ad veram 
+          ratio<lb ed="#P" n="2" break="no"/>nem maternitat / sufficite requiritur: quod animal 
+          ali<lb ed="#P" n="3" break="no"/>ud animal multum ei propinquum in specie in matrice 
+          <lb ed="#P" n="4"/>habeat / materiam ei ministrando / ipsumque 
+          nutri<lb ed="#P" n="5" break="no"/>endo / et demum ab vtero eiiciendo. dixi multum 
+          simi<lb ed="#P" n="6" break="no"/>le in specie: quod intelligo in specie specialissima vel 
+          sub<lb ed="#P" n="7" break="no"/>alterna propinqua. Exemplum primi: inter bouem 
+          fe<lb ed="#P" n="8" break="no"/>miname bouem masculum: heccubam et hectorem. Exem 
+          <lb ed="#P" n="9"/>plum secundi: inter equam et mulam: inter liciscam et 
+          ca<lb ed="#P" n="10" break="no"/>nem. mula ab asino et a equa genita / vocatur filius 
+          <lb ed="#P" n="11"/>eque: quia multum eque similatur: medium inter 
+          asi<lb ed="#P" n="12" break="no"/>num et equam obtinet. sic de alio animali genito 
+          aduo<lb ed="#P" n="13" break="no"/>bus / indiuiduis diuersarum specierum. et ita obiectio 
+          <lb ed="#P" n="14"/>nes de minera veirme et pedunculo sunt nulle.
+        </p>
+        <p xml:id="jm3cbb-e07936-d1e504">
+          ¶ Ex 
+          <lb ed="#P" n="15"/>omnibus concludo: probleumaticum est an semen 
+          mu<lb ed="#P" n="16" break="no"/>lieris sit actiuum in generatione prolis: et pars ne 
+          <lb ed="#P" n="17"/>gatiua est probabilior. non constat quni aliqua pars 
+          <lb ed="#P" n="18"/>corpulenta seminis viri (hoc est pars materialis 
+          <lb ed="#P" n="19"/>seminis ) ingrediatur compositionem fetus. pars 
+          spi<lb ed="#P" n="20" break="no"/>rituosa semins / degerit / disponit / alterat / et 
+          dif<lb ed="#P" n="21" break="no"/>formitatem facit in partibus etherogeneis / secundum quod vna 
+          <lb ed="#P" n="22"/>pars est magis apta ad vnum membrum quam alia: et 
+          <lb ed="#P" n="23"/>postea pars spirituosa resoluitur. probabile est etiam 
+          <lb ed="#P" n="24"/>quod forma substantialis matris concurrit effectiue 
+          <lb ed="#P" n="25"/>ad vltimam formam in ascensu formarum sed deus et 
+          <lb ed="#P" n="26"/>influentie celestes formas substantiales educunt 
+          <lb ed="#P" n="27"/>animalium / non generatione spoestanea producibilium
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

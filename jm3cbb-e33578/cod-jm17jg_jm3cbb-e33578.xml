@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 10</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 10</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="55-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e33578"><!-- l3d23q10 -->
+        <head xml:id="jm3cbb-e33578-Hd1e99">Quaestio 10</head>
+        <head xml:id="jm3cbb-e33578-Hd1e101" type="question-title">An obiectum fidei semper sit verum, vel an assensus fidei sit verus</head>
+        <p xml:id="jm3cbb-e33578-d1e104">
+          <lb ed="#P" n="106"/>IN precedenti 
+          que<lb ed="#P" n="107" break="no"/>stione de obiecto fidei 
+          loquuti<lb ed="#P" n="108" break="no"/>sumus. nunc de obiecto complexo 
+          <lb ed="#P" n="109"/>loquuturi sumus. propterea. 
+          De<lb ed="#P" n="110" break="no"/>cimo circa hanc distinctionem 
+          <lb ed="#P" n="111"/>queritur an obiectum fidei 
+          sem<lb ed="#P" n="112" break="no"/>per sit verum: vel an assensus 
+          fi<lb ed="#P" n="113" break="no"/>dei sit verus.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e124">
+          ¶ Pro questionis solutione 
+          pono<lb ed="#P" n="114" break="no"/>tres conclusiones.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e129">
+          ¶ Quarum prima est. fides infusa 
+          <lb ed="#P" n="115"/>semper est de vero. Secunda conclusio. fides actus 
+          <lb ed="#P" n="116"/>semper est de vero. Tertia conclusio fides habitus 
+          <lb ed="#P" n="117"/>acquisitus semper est de vero.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e139">
+          ¶ Prima conclusio 
+          pro<lb ed="#P" n="118" break="no"/>batur. fides infusa est speciale instrumentum spritus 
+          <lb ed="#P" n="119"/>sancti diffusum in cordibus hominum ad assentiendum 
+          <lb ed="#P" n="120"/>inclinans. et si inclinaret ad falsu: tunc deus 
+          specia<lb ed="#P" n="121" break="no"/>liter moueret ad assentiendum falso: quod est inconueniens 
+          <pb ed="#P" n="55-v"/>
+          <cb ed="#P" n="a"/>
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e155">
+          <lb ed="#P" n="1"/>¶ Secundo arguitur ad idem. fides infusa inclinat 
+          <lb ed="#P" n="2"/>solum ad assensum propositionis reuelate a deo. sed 
+          <lb ed="#P" n="3"/>deus non potest reuelare falsum in sensu quo est 
+          <lb ed="#P" n="4"/>falsum: quia tunc deciperet: quod in vltimis 
+          articu<lb ed="#P" n="5" break="no"/>lis pariensibus reprobatur. Non valet aliorum 
+          di<lb ed="#P" n="6" break="no"/>ctum quod non potest decipere de potentia dei 
+          ordina<lb ed="#P" n="7" break="no"/>ta: bene autem de potentia dei absoluta. articulus erat 
+          <lb ed="#P" n="8"/>compositus in sensu dubio. non erat dubium apud 
+          sa<lb ed="#P" n="9" break="no"/>pientes quod deus non poterat decipere secundum legem 
+          <lb ed="#P" n="10"/>nunc statutam et ordinatam: quia tunc in multis no 
+          <lb ed="#P" n="11"/>bis traditis tanquam certissimis ambigeremus: ergo 
+          <lb ed="#P" n="12"/>volebat articulus loqui de potentia dei absoluta 
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e184">
+          <lb ed="#P" n="13"/>¶ Secunda conclusio patet per diffinitionem fidei actus 
+          <lb ed="#P" n="14"/>superius positam: est assensus verus firmus et certus. 
+          cer<lb ed="#P" n="15" break="no"/>titudo ab obiecto dependet: firmitas ex parte 
+          <lb ed="#P" n="16"/>actus oritur. hoc actum respicit in suo connotato: sic 
+          <lb ed="#P" n="17"/>quod fluctuationem ab ipso tollit: licet eadm est res sit 
+          cer<lb ed="#P" n="18" break="no"/>titudo et firmitas.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e200">
+          ¶ Tertia conclusio probatur 
+          <lb ed="#P" n="19"/>semper habitus / inclinat proportionabiliter in 
+          ordi<lb ed="#P" n="20" break="no"/>ne ad obiectum: sicut actus a quo emanauit.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e207">
+          ¶ 
+          Con<lb ed="#P" n="21" break="no"/>tra primam conclusionem arguitur sic: reuelatio potest 
+          <lb ed="#P" n="22"/>esse de falso. ergo conclusio et sua probatio secunda 
+          <lb ed="#P" n="23"/>est nulla. antecedens patet. deus reuelauit Petro 
+          <lb ed="#P" n="24"/>antequam gallus cantet ter me negabis. et reuelatione 
+          <lb ed="#P" n="25"/>facta: non erat necesse Petrum negare christum: alas 
+          <lb ed="#P" n="26"/>non peccasset negando christum: cuius oppositum 
+          <lb ed="#P" n="27"/>ponit Augusti. et patet. distinctione. l. ca. fidelior. 
+          <lb ed="#P" n="28"/>erat futurum contingens: quod patet. deus ab eterno sciuit 
+          <lb ed="#P" n="29"/>omne futurum contingens esse futurum cathegorice: 
+          <lb ed="#P" n="30"/>et tamen non propterea sequitur illa necessitas in 
+          <lb ed="#P" n="31"/>aliquo contingente futuro. sicut anima christi in primo 
+          <lb ed="#P" n="32"/>instanti quo erat in rerum natura sciebat quod iudas 
+          <lb ed="#P" n="33"/>erat traditurus christum: et tamen non propterea iudas 
+          <lb ed="#P" n="34"/>erat necessitatus tradere christum: quia si sic non 
+          peccas<lb ed="#P" n="35" break="no"/>set: ergo eod est modo si alicui reuelasset / non adhuc 
+          <lb ed="#P" n="36"/>magis necessarium fuisset quam antea: et tamen est 
+          om<lb ed="#P" n="37" break="no"/>nino hinc inde similis difficultas. tunc sic: deus 
+          <lb ed="#P" n="38"/>reuelauit Petro / antequam gallus cantet ter me ne 
+          <lb ed="#P" n="39"/>gabis: et Petrus poterat non negare christum. 
+          pona<lb ed="#P" n="40" break="no"/>tur ita esse. ergo christus poterat reuelare falsum: 
+          <lb ed="#P" n="41"/>immo de facto reuelauit falsum: scilicet quod Petrus ne 
+          <lb ed="#P" n="42"/>garet ipsum: et tamen ponitur in esse quod Petrus non 
+          <lb ed="#P" n="43"/>neget christum.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e259">
+          ¶ forte dicis: ponendo illam in esse 
+          <lb ed="#P" n="44"/>Petrus non negabit christum: iam ponitur aliquid 
+          <lb ed="#P" n="45"/>incompossibile maiori. ista non simul stant: christus 
+          re<lb ed="#P" n="46" break="no"/>uelauit Petro quod ipse esset negaturus christum: et 
+          Pe<lb ed="#P" n="47" break="no"/>trus non negabit christum: quia bene sequitur / christus 
+          <lb ed="#P" n="48"/>reuelauit Petro quod eum esset negaturus: ergo 
+          Pe<lb ed="#P" n="49" break="no"/>trus eum negabit: vel negauit. vel sic: christus 
+          reuela<lb ed="#P" n="50" break="no"/>uit Petro quod petrus negaret christum: et res non est 
+          po<lb ed="#P" n="51" break="no"/>sita in esse: ergo Petrus negabit christum. ergo 
+          oppo<lb ed="#P" n="52" break="no"/>situm consequentis est antecedenti incompossibile.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e282">
+          ¶ 
+          Con<lb ed="#P" n="53" break="no"/>tra hoc arguitur sic. christus reuelauit illam propositio 
+          <lb ed="#P" n="54"/>nem / est propositio de preterito vera: sed ad preteri 
+          <lb ed="#P" n="55"/>tum nulla est potentia. vi. Ethicorum. ergo non potest 
+          <lb ed="#P" n="56"/>non esse vera. sed necessarium nulli contingenti 
+          repu<lb ed="#P" n="57" break="no"/>gnat. patet vtrobique. non alias hec copulatiua est 
+          <lb ed="#P" n="58"/>possibilis: o mne quod demonstratur per 
+          pronomen<lb ed="#P" n="59" break="no"/>hoc / est sortes: et hoc est hoc deo demonstrato. 
+          er<lb ed="#P" n="60" break="no"/>go ille simul stant: christus reuelauit Petro quod 
+          Pe<lb ed="#P" n="61" break="no"/>trus esset eum negaturus: et Petrus eum non nega¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>bit: quod erat probandum. vel ducatur argumentum de 
+          <lb ed="#P" n="63"/>fide infusa et suo concursu sic: Petrus vel Andre 
+          <lb ed="#P" n="64"/>as assensit huic / Petrus negabit christum: velcapia 
+          <lb ed="#P" n="65"/>tur aliqua de suturo de fide: et fides infusa 
+          concur<lb ed="#P" n="66" break="no"/>rebat ad illud assensum: illa propositio est de 
+          prete<lb ed="#P" n="67" break="no"/>rito vera que nullo modo dependet ex vna de 
+          fu<lb ed="#P" n="68" break="no"/>turo contingenti. ergo hec est necessaria: totus iste 
+          <lb ed="#P" n="69"/>assensus fuit: et non est possibile totum illum assensum 
+          <lb ed="#P" n="70"/>fuisse / quin fuerit causatus ex fide infusa cum aliis 
+          <lb ed="#P" n="71"/>causis concurrentibus: quia si fides infusa non 
+          concur<lb ed="#P" n="72" break="no"/>risset: assensus non fuisset tante intentionis. ergo 
+          il<lb ed="#P" n="73" break="no"/>le assensus causabatur a fide infusa. sed illa erat 
+          pos<lb ed="#P" n="74" break="no"/>sibilis in tempore inter medio inter reuelationem 
+          <lb ed="#P" n="75"/>christi et negationem petri: Petrus non negabit 
+          <lb ed="#P" n="76"/>christum. simus nos in tempore illo intermedio: et si 
+          il<lb ed="#P" n="77" break="no"/>la sit vera / Petrus non negabit christum: fides 
+          infu<lb ed="#P" n="78" break="no"/>sa inclinauit in falsum.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e343">
+          ¶ Ad primum putctum 
+          argu<lb ed="#P" n="79" break="no"/>menti concedo quod de falso potest fieri reuelatio. sed 
+          <lb ed="#P" n="80"/>non est possibile quod reuelatio sit de falso: quia reuelatio 
+          <lb ed="#P" n="81"/>nihil aliud est nisi manifestatio veri prius ignoti 
+          <lb ed="#P" n="82"/>alicui a deo mediate vel immediate. si reuelatum non 
+          <lb ed="#P" n="83"/>sit verum: assensus eius non est reuelatio. terminus 
+          reuela<lb ed="#P" n="84" break="no"/>tio / connotat quod sit de vero. alioquin tibi dicens 
+          fal<lb ed="#P" n="85" break="no"/>sum / diceretur tibi illud reuelare. quod non est 
+          dicen<lb ed="#P" n="86" break="no"/>dum. ergo ista non stant simul / christus reuelauit 
+          Pe<lb ed="#P" n="87" break="no"/>tro quod petrus esset christum negaturus: et Petrus eum 
+          <lb ed="#P" n="88"/>non negaret. ponendo hanc in esse / Petrus non 
+          <lb ed="#P" n="89"/>negabit christum: iam sequitur non est Petro reuelatum quod 
+          <lb ed="#P" n="90"/>negabit christum. reuelatio potest esse non reuelatio christus 
+          <lb ed="#P" n="91"/>reuelauit Petro / antequam gallus cantet ter me ne 
+          <lb ed="#P" n="92"/>gabis: licet sit de preterito: non tamen est necessaria 
+          <lb ed="#P" n="93"/>sua veritas dependet ex hac de futuro 
+          contingen<lb ed="#P" n="94" break="no"/>ti / Petrus negabit christum. ergo nec christus nec 
+          ali<lb ed="#P" n="95" break="no"/>quis potest reuelare falsum: nec christus potest dicere 
+          <lb ed="#P" n="96"/>falsum: vt in primo dixi: dicere quidem assertorie et 
+          <lb ed="#P" n="97"/>intentione fallendi. quod propositionem falsam potest 
+          produ<lb ed="#P" n="98" break="no"/>cere / non est dubium. concedo ergo quod Petrus post 
+          <lb ed="#P" n="99"/>verbum christi et prolationem illius dicti mere 
+          contin<lb ed="#P" n="100" break="no"/>genter negauit christum. fuit liber non negare christum: si 
+          <lb ed="#P" n="101"/>cut et iudas contingenter tradidit christum post illa 
+          <lb ed="#P" n="102"/>verba / vnus vestrum me traditurus est: et qui 
+          intin<lb ed="#P" n="103" break="no"/>git mecum in peraspidem ille me tradet. christus potest 
+          <lb ed="#P" n="104"/>non assertiue dixisse illud quod dixit: sicut potest non 
+          <lb ed="#P" n="105"/>reuelare quod reuelauit.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e404">
+          ¶ Ad secundum argumentum 
+          <lb ed="#P" n="106"/>pro nunc dico negando hanc copulatiuam ob 
+          par<lb ed="#P" n="107" break="no"/>tium incompossibilitatem Petrus non negabit christum: 
+          <lb ed="#P" n="108"/>et fides infusa inclinat ad assensum istius Petrus 
+          <lb ed="#P" n="109"/>negabit christum ante positionem rei in esse.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e415">
+          ¶ Contra 
+          se<lb ed="#P" n="110" break="no"/>cundam conclusionem arguitur sic hic assensus quo 
+          assen<lb ed="#P" n="111" break="no"/>tio huic / dies iudicii erit: vel antichristus erit: 
+          po<lb ed="#P" n="112" break="no"/>test esse de falso: quia obiectum est contingens: hic 
+          <lb ed="#P" n="113"/>assensus est vel potest esse fides: ergo fides potest 
+          <lb ed="#P" n="114"/>esse de falso: et ponatur in esse: tunc fides erit de 
+          <lb ed="#P" n="115"/>falso. Preterea: charitaset spes sunt circa falsum: 
+          <lb ed="#P" n="116"/>ergo et fides. tenet consequentia: sunt virtutes 
+          theolo<lb ed="#P" n="117" break="no"/>gice sicut et ipsa fides: et charitas est fide maior 
+          <lb ed="#P" n="118"/>i. ad corinthi. xiii. si maior: compatiatur falsum / et 
+          mi<lb ed="#P" n="119" break="no"/>nor. assumptum patet: prescitus / sperat consequi 
+          beati<lb ed="#P" n="120" break="no"/>tudinem: quam non consequetur. de charitate patet: 
+          <lb ed="#P" n="121"/>potest quis deceptus errore inuincibili / charitatiue 
+          <lb ed="#P" n="122"/>in proximum tendere: vt dando elemosinam diuiti¬ 
+          <pb ed="#P" n="56-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quem credit esse pauperem.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e452">
+          ¶ Respondetur concedendo quod 
+          <lb ed="#P" n="2"/>fides potest esse defalso: sicut argumentum tangit. 
+          <lb ed="#P" n="3"/>et iterum patet: hoc iudicium potest esse de falso: hoc 
+          <lb ed="#P" n="4"/>iudicium est vel potest esse fides: igitur fides potest 
+          <lb ed="#P" n="5"/>esse de falso. Secunda propositio: si iudicium illud sit de 
+          <lb ed="#P" n="6"/>falso / non est fides: sed error / et perfidia. Tertia 
+          <lb ed="#P" n="7"/>propositio: illa modalis diuisa vera / fides potest 
+          <lb ed="#P" n="8"/>esse defalso: male ponitur in esse sic / fides est de 
+          fal<lb ed="#P" n="9" break="no"/>so. debet poni per hanc / hoc est de falso.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e472">
+          ¶ Contra 
+          <lb ed="#P" n="10"/>illud arguitur: ex solutione sequitur quod actus / fidei 
+          <lb ed="#P" n="11"/>est eiusdem speciei specialissime cum errore: immo se 
+          <lb ed="#P" n="12"/>quitur quod fides erit error. patet: ponendo quod vnus 
+          <lb ed="#P" n="13"/>hebreus in lege assentiret huic / christus occidetur: 
+          <lb ed="#P" n="14"/>continuando suum assensum per vnum tempus: in cuius priore 
+          <lb ed="#P" n="15"/>medietate christus sit occisus: iam ille assensus in secunda 
+          <lb ed="#P" n="16"/>medietate est error.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e491">
+          ¶ Respondetur conced endo quod idem 
+          <lb ed="#P" n="17"/>assensus successiue est assensus fidei et error. nec 
+          <lb ed="#P" n="18"/>quilibet assensus fidei specie distinguitur a 
+          quo<lb ed="#P" n="19" break="no"/>libet assensu erroneo. nec peccauit quilibet 
+          he<lb ed="#P" n="20" break="no"/>breus habendo illumassensum falsum pro tempore: 
+          pa<lb ed="#P" n="21" break="no"/>tet de rudibus: quousque veritas eis fuisset 
+          sufficien<lb ed="#P" n="22" break="no"/>ter declarata: sicut inferius de bona vetula 
+          con<lb ed="#P" n="23" break="no"/>tra altissiodorum dicemus: qui etiam dicit oppositum 
+          <lb ed="#P" n="24"/>istius assertionis.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e511">
+          ¶ Ad secunduem argumentum: concedo antecedens 
+          <lb ed="#P" n="25"/>et nego consequentiam. non est simile. spes et 
+          chari<lb ed="#P" n="26" break="no"/>tas sunt virtutes appetitus intellectiui. fides et eius 
+          <lb ed="#P" n="27"/>actus spectant ad intellectum. et licet spes et 
+          chari<lb ed="#P" n="28" break="no"/>tas fidem psupponant: possunt esse circa aliquod 
+          ob<lb ed="#P" n="29" break="no"/>inectum circa quod contingit error inuicibllis: non 
+          qui<lb ed="#P" n="30" break="no"/>dem per actum fidei: sed per aliquem alium actum 
+          co<lb ed="#P" n="31" break="no"/>gnitiuum. non solus actus fidei sufficit vtrobique ad 
+          <lb ed="#P" n="32"/>actus spei et charitatis: sed prudentie / et alii actus 
+          <lb ed="#P" n="33"/>apprehensiui / et iudicatiui requiruntur.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e533">
+          ¶ Tertio 
+          <lb ed="#P" n="34"/>arguitur: fide credimus / corpus christi esse in 
+          eucha<lb ed="#P" n="35" break="no"/>ristia: vel sub hostia. et hoc potest esse falsum: sacerdos 
+          <lb ed="#P" n="36"/>potest esse malus.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e542">
+          ¶ Respondetur. hec non est de 
+          <lb ed="#P" n="37"/>fide: corpus christi continetur sub hac hostia: sed 
+          solum<lb ed="#P" n="38" break="no"/>hec. conditionalis / si sacerdos fecit debitam 
+          dili<lb ed="#P" n="39" break="no"/>gentiam: et nihil omissum est ad consecrationem 
+          corpo<lb ed="#P" n="40" break="no"/>ris christi: corpus illic est.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e553">
+          ¶ Contra tertia 
+          conclusio<lb ed="#P" n="41" break="no"/>nem arguitur sic: capio habituatum habitu fidei 
+          in<lb ed="#P" n="42" break="no"/>tenso vt. viii. circa hoc futurum anticpristus erit: vel 
+          <lb ed="#P" n="43"/>aliud futurum contingens credendum: vt christus morietur. 
+          <lb ed="#P" n="44"/>arguitur sic: habitus semper inclinat in similes actus 
+          <lb ed="#P" n="45"/>entitatiue actibus a quibus emersit: vt in materi a 
+          <lb ed="#P" n="46"/>habituum in hac distinctione iam patuit: ergo 
+          ha<lb ed="#P" n="47" break="no"/>bitus hebrei qui eliciebatur ex his actibus / 
+          chri<lb ed="#P" n="48" break="no"/>stus morietur: inclinabat eum ad assentiendum huic 
+          <lb ed="#P" n="49"/>christus morietur: etiam post mortem christi / 
+          tempo<lb ed="#P" n="50" break="no"/>re quo illa propositio de futuro erat falsa.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e577">
+          ¶ 
+          cor<lb ed="#P" n="51" break="no"/>te dicis (et ita dicendum est) non est amplius ille 
+          ha<lb ed="#P" n="52" break="no"/>bitus fidei habitus: sed habitus erroris: et ad 
+          fal<lb ed="#P" n="53" break="no"/>sum inclinans. quam primum in falsum inclinat / non est 
+          <lb ed="#P" n="54"/>habitus fidei.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e589">
+          ¶ Contra hoc arguitur: ille 
+          habi<lb ed="#P" n="55" break="no"/>tus fuit genitus ex actibus / fidei: et ex solis talibus 
+          <lb ed="#P" n="56"/>ergo quandocumque remanet remanebit fidei 
+          habi<lb ed="#P" n="57" break="no"/>tus: quia vtrobique ex actibus temperantie / 
+          gene<lb ed="#P" n="58" break="no"/>ratur habitus temperantie: ex actibus / iusticie 
+          ha<lb ed="#P" n="59" break="no"/>bitus iusticie: ergo et eodem modo in proposito. 
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e602">
+          <lb ed="#P" n="60"/>¶ hic homo potest duplicem viam elicere. vna est: 
+          <lb ed="#P" n="61"/>ad habitum esse fidem sat est quod producatur ex so¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>lis actibus fidei: vel quod habitus ille desinit esse 
+          fi<lb ed="#P" n="63" break="no"/>des: quam primum obiectum est falsum.
+        </p>
+        <p xml:id="jm3cbb-e33578-d1e615">
+          ¶ Contra 
+          <lb ed="#P" n="64"/>priorem viam obiicitur quod non sufficiat qnod 
+          di<lb ed="#P" n="65" break="no"/>ctum est: quia tunc fides habitus inclinat in 
+          fal<lb ed="#P" n="66" break="no"/>sum: et pari ratione concedere debes quod fides actus 
+          <lb ed="#P" n="67"/>inclinat in falsum: contra secundam conclusionemet vitatem. 
+          pro<lb ed="#P" n="68" break="no"/>pterea capio secundam viam: quod non manet ille habitus 
+          <lb ed="#P" n="69"/>fides. cum primum suum obiectum incipit esse falsum: 
+          <lb ed="#P" n="70"/>habitus desinit esse fides. ad fidem habitualem / non 
+          <lb ed="#P" n="71"/>sufficit quod ex actibus credendi et fidei sit genitus 
+          <lb ed="#P" n="72"/>sed requiritur quod suum obiectum sit verum: si sit in 
+          re<lb ed="#P" n="73" break="no"/>rum natura: et non falsum: nisi sit propositio 
+          plu<lb ed="#P" n="74" break="no"/>res que simul est vera et falsa: sed in sensu vero est 
+          <lb ed="#P" n="75"/>obiectum fidei. simile dicerem de habitu 
+          temperan<lb ed="#P" n="76" break="no"/>tie: sortes habet habitum comedendi tanteum ex tali 
+          ci<lb ed="#P" n="77" break="no"/>bo in sanitate ex actibus temperantie genitum. 
+          ha<lb ed="#P" n="78" break="no"/>bitus ille naturaliter inclinat habentem ad tantum 
+          co<lb ed="#P" n="79" break="no"/>medendum in morbo: sed postea ille habitus desinit 
+          <lb ed="#P" n="80"/>esse virtus: cum non inclinet conformiter ad 
+          pruden<lb ed="#P" n="81" break="no"/>tiam actuum regulatricem. stat quod generabatur 
+          con<lb ed="#P" n="82" break="no"/>formiter ad actus prudentiales: et tamen similia 
+          <lb ed="#P" n="83"/>iudicia iam habita non sunt prudentie
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 13</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 13</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="127-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e77525"><!-- l3d37q13 -->
+        <head xml:id="jm3cbb-e77525-Hd1e99">Quaestio 13</head>
+        <head xml:id="jm3cbb-e77525-Hd1e101" type="question-title">An caritas sit necessaria ad praeceptorum impletionem</head>
+        <p xml:id="jm3cbb-e77525-d1e104">
+          <lb ed="#P" n="31"/>¶ Questio. xiii. 
+          <lb ed="#P" n="32"/>QUeritur decimotertio: 
+          <lb ed="#P" n="33"/>an charitas sit necessaria ad 
+          prae<lb ed="#P" n="34" break="no"/>ceptorum impletionem. Circa hanc 
+          <lb ed="#P" n="35"/>questionem sunt positiones. vna 
+          <lb ed="#P" n="36"/>tenet partemi affirmatiuam: quam 
+          <lb ed="#P" n="37"/>tenet Dionysius cistertiensis in 
+          <lb ed="#P" n="38"/>distin. xvii. sui primi. dicit quod ne 
+          <lb ed="#P" n="39"/>mo potest omnia precepta nec 
+          ali<lb ed="#P" n="40" break="no"/>quod preceptorum adimplere sine gratia. non solum 
+          <lb ed="#P" n="41"/>homo tenetur ad substantiam actus qui precipitur: sed etiam 
+          <lb ed="#P" n="42"/>ad modum. si alterum illorum faciat altero omisso 
+          pec<lb ed="#P" n="43" break="no"/>cat omissiue: quia ad illa duo homo tenetur. non 
+          sequi<lb ed="#P" n="44" break="no"/>tur: ille facit substantiam actus quem tenetur facere: 
+          er<lb ed="#P" n="45" break="no"/>go non peccat: quia non facit qualiter tenetur. nam 
+          te<lb ed="#P" n="46" break="no"/>netur opus:ipsem facere ex charitate: et per consequens si quio 
+          <lb ed="#P" n="47"/>det elemosinam extreme indigenti extra gratiam: 
+          pec<lb ed="#P" n="48" break="no"/>cat: sed non tantum peccat ac si non daret 
+          elemosi<lb ed="#P" n="49" break="no"/>nam. dicit Dionysius. quo fit: quis peccat non faciem 
+          <lb ed="#P" n="50"/>do substantiam actus qui precipitur. Secundo: subam actus 
+          <lb ed="#P" n="51"/>faciens sine charitate: sed minus peccat secundum eum quamsi 
+          <lb ed="#P" n="52"/>subamm actus non faceret.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e154">
+          ¶ Contra hanc viam 
+          ar<lb ed="#P" n="53" break="no"/>guitur: ex ea sequitur quod dans elemosinam 
+          pauperi<lb ed="#P" n="54" break="no"/>habet dubitare an peccet vel non. non potest scire se 
+          <lb ed="#P" n="55"/>adimplere preceptum. consequens est inconuensens: igitur. 
+          <lb ed="#P" n="56"/>Et quod sequatur: patet sic: dans elemosinam praeceptiuam non 
+          so<lb ed="#P" n="57" break="no"/>lum tenetur ad subammactus per hanc viam: sed etiam 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>ad modum dandi: puta quod det ex charitate. sed dans 
+          <lb ed="#P" n="59"/>non potest scire se habere charitatem: per consequens non 
+          <lb ed="#P" n="60"/>potest scire quod preceptum adimpleuerit.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e176">
+          ¶ Secundo 
+          <lb ed="#P" n="61"/>arguitur: mortalis peccator peccaret continuo 
+          faciem<lb ed="#P" n="62" break="no"/>do opera precepta: cum illa non eliciat ex charitate: 
+          <lb ed="#P" n="63"/>quod non est dicendum. illam viam duramet 
+          improbabi<lb ed="#P" n="64" break="no"/>lem relinquo.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e188">
+          ¶ Preterea: Non bene loquitur 
+          vir<lb ed="#P" n="65" break="no"/>iste consequenter ad se adui illam viam duriorem: quod patet: 
+          <lb ed="#P" n="66"/>ostendo secundum eum quod tantum peccat non faciens fubamm 
+          <lb ed="#P" n="67"/>actus sicut ille qui substantiam actus extra charitatem 
+          fa<lb ed="#P" n="68" break="no"/>cit. sint duo sortes et plato obligati facere a. opus 
+          <lb ed="#P" n="69"/>precepti: sortes substantiam actus a. omittit: plato vero 
+          <lb ed="#P" n="70"/>opus facit sine charitate. tunc sic: isti duo sunt equa 
+          <lb ed="#P" n="71"/>liter obligati facere a opus: hoc supponitur: et equae 
+          <lb ed="#P" n="72"/>liter omittunt a. ergo equaliter peccant. Qi 
+          equa<lb ed="#P" n="73" break="no"/>liter omittant a. patet. plato non facit opus praecepti nec 
+          <lb ed="#P" n="74"/>actum similem in specie specialissima: quia secundum eum 
+          <lb ed="#P" n="75"/>actus meritorius et non meritorius vtrobique specie 
+          <lb ed="#P" n="76"/>drnet. facere opus non meritorium nullo modo est 
+          face<lb ed="#P" n="77" break="no"/>re substantiam actus: ergo omittit tam substantiam actus ad 
+          <lb ed="#P" n="78"/>quem tenetur et modum faciendi sicut alter.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e221">
+          ¶ Pro 
+          quae<lb ed="#P" n="79" break="no"/>stionis solutione pono conclusiones: quarum prima est: 
+          <lb ed="#P" n="80"/>Intentio dei obligantis est quod homo faciat opus 
+          praece<lb ed="#P" n="81" break="no"/>pti ex charitate. Secunda conclusio: deus non obligat 
+          <lb ed="#P" n="82"/>aliquem sub pena peccati facere opus decalogi ex 
+          cha<lb ed="#P" n="83" break="no"/>ritate pro omni tpere quo est praeceptum. Tertia conclusio: 
+          <lb ed="#P" n="84"/>aliquod est opus quod homo sub pena peccati tenetur 
+          face<lb ed="#P" n="85" break="no"/>re ex charitate.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e239">
+          ¶ Prima conclusio probatur. 
+          intem<lb ed="#P" n="86" break="no"/>tio dei est quod homo mereatur vitam eternam per opus 
+          <lb ed="#P" n="87"/>praecepti: iuxta illud Matthei. xix. Si vis ad vitam 
+          in<lb ed="#P" n="88" break="no"/>gredi: serua mandata. sed nemo potest mereri secunduem le 
+          <lb ed="#P" n="89"/>gem iam statutam sine charitate: igitur.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e250">
+          ¶ Secunda 
+          con<lb ed="#P" n="90" break="no"/>clusio probatur: quia opposito dato sequitur quod diligens 
+          <lb ed="#P" n="91"/>proximum vel iuuans eum extrahere bouem eius 
+          <lb ed="#P" n="92"/>aut equum de puteo extra charitatem peccaret: quod 
+          <lb ed="#P" n="93"/>non est dicendum. dicitur in conclusione omni 
+          tempo<lb ed="#P" n="94" break="no"/>re. stat tamen in casu quod homo teneatur charitatiue dilige 
+          <lb ed="#P" n="95"/>re deum: vtpote est moriturus: et occurrit dei perfecta 
+          <lb ed="#P" n="96"/>memoria: et tempus deum diligendi: tunc tenetur 
+          <lb ed="#P" n="97"/>diligere deum ex charitate: et illud potest 
+          roborari<lb ed="#P" n="98" break="no"/>per Augustinum libro de heresibus dicentem: 
+          di<lb ed="#P" n="99" break="no"/>cere quod possumus omnia precepta adimplere sine 
+          <lb ed="#P" n="100"/>gratia est heresis pelagiana: sed non videtur potius 
+          <lb ed="#P" n="101"/>hoc cem de aliquo alio precepto quam de dilectione dei: 
+          <lb ed="#P" n="102"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e281">
+          ¶ At dicis: tenetur detestari sua peccata si 
+          <lb ed="#P" n="103"/>sit in mortalibus: et tunc habebit charitatem. sed non 
+          se<lb ed="#P" n="104" break="no"/>quitur quod teneatur dilectionem dei elicere charita 
+          <lb ed="#P" n="105"/>tiue.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e290">
+          ¶ Respondetur: oppositum sequitur: sed non 
+          cre<lb ed="#P" n="106" break="no"/>do quod dilectio dei sola est vltimata dispositio ad 
+          gra<lb ed="#P" n="107" break="no"/>tiam. secundo Rethorice: secundum philosophum: diligere 
+          <lb ed="#P" n="108"/>aliquem non est aliud quam ei velle bonum: modo illud / 
+          <lb ed="#P" n="109"/>mortale compatitur. nec credo quod semper homo teneatur 
+          <lb ed="#P" n="110"/>ad dilectionem dei charitatiue.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e304">
+          ¶ Tertia 
+          conclu<lb ed="#P" n="111" break="no"/>sio patet ex predicta. et adhuc patet eadem: 
+          homo<lb ed="#P" n="112" break="no"/>tenetur capere eucharistiam pro aliquo 
+          tempore<lb ed="#P" n="113" break="no"/>sub pena mortalis peccati. sed non potest 
+          cape<lb ed="#P" n="114" break="no"/>re eucharistiam digne nisi sit in gratia: secundum 
+          <lb ed="#P" n="115"/>apostolum prime Corinthiorum. xi. Probet 
+          au<lb ed="#P" n="116" break="no"/>tem seipsum homo: vt sit dignus vt de pane illo 
+          <lb ed="#P" n="117"/>edat et de calice illo bibat. Si autem indigne mandu¬ 
+          <pb ed="#P" n="127-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cat: iudicium sibi manducat et bibit: ergo indigne 
+          <lb ed="#P" n="2"/>manducans et bibens: mortaliter peccat. At dicis: 
+          <lb ed="#P" n="3"/>si aliqualem diligentiain fecit: et non sufficientem: 
+          <lb ed="#P" n="4"/>stat quod adhuc erit in peccato mortali: et tunc non 
+          ca<lb ed="#P" n="5" break="no"/>pit eucharistiam digne nec indigne contrarie: 
+          be<lb ed="#P" n="6" break="no"/>ne autem indigne priuatiue. et tamen adhuc non 
+          <lb ed="#P" n="7"/>capit in gratia. Licet multorum sit hec positio: 
+          con<lb ed="#P" n="8" break="no"/>tra hoc arguitur: vel ille fucit omnia ad que 
+          tene<lb ed="#P" n="9" break="no"/>tur ad hoc quod digne capiat eucharistiam: vel non 
+          <lb ed="#P" n="10"/>facit omnia ad que tenetur. si primum: digne 
+          ca<lb ed="#P" n="11" break="no"/>pit. si secundum: erit ignorantia vincibilis que non 
+          <lb ed="#P" n="12"/>totaliter excusat: sed solum mortale alleuiat: 
+          er<lb ed="#P" n="13" break="no"/>go indigne contrarie capit. ergo non stat aliquem capere 
+          <lb ed="#P" n="14"/>eucharistiam sine charitate: quin nouo peccato 
+          <lb ed="#P" n="15"/>mortali peccabit. ergo est aliquod preceptum quod 
+          <lb ed="#P" n="16"/>homo tenetur adimplere ex gratia: et non sufficit 
+          <lb ed="#P" n="17"/>facere substantiam actus ad hoc quod homo 
+          morta<lb ed="#P" n="18" break="no"/>lem noxam euadat: sedcum hoc requiritur quod 
+          sub<lb ed="#P" n="19" break="no"/>stantiam actus faciat ex gratia: et per consequens 
+          <lb ed="#P" n="20"/>conclusio vera.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e369">
+          ¶ Contra duas primas conclusio 
+          <lb ed="#P" n="21"/>nes arguitur: precepta obligant quatenus eis 
+          ob<lb ed="#P" n="22" break="no"/>temperetur ad mentem e intentionem 
+          precipien<lb ed="#P" n="23" break="no"/>tis: quia secundum Gregorium. xxvi. moralium. non de 
+          <lb ed="#P" n="24"/>bet quis considerare verba: sed voluntatem 
+          in<lb ed="#P" n="25" break="no"/>tentionem: quia non debetfintentio verbis 
+          deserui<lb ed="#P" n="26" break="no"/>re: sed verba intentioni. Sed intentio dei 
+          preci<lb ed="#P" n="27" break="no"/>pientis est vt per preceptorum obseruantiam 
+          ho<lb ed="#P" n="28" break="no"/>mo ordinetur ad finem vltimu n super omnia 
+          di<lb ed="#P" n="29" break="no"/>ligendum: secundum illud apostoli. Finis precepti est 
+          <lb ed="#P" n="30"/>charitas. ergo precepta sunt adimplenda ex 
+          cha<lb ed="#P" n="31" break="no"/>ritate. Insuper: intentio dei est vt per preceptorum 
+          <lb ed="#P" n="32"/>impletionem homo habeat vitam: sicut in 
+          proba<lb ed="#P" n="33" break="no"/>tione primeconclusionis dictum est. et patet hoc ipsum 
+          <lb ed="#P" n="34"/>Ecclesiastici. xv. adiecit precepta et mandata: si 
+          <lb ed="#P" n="35"/>volueris ea conseruare / conseruabunt te. et 
+          sequi<lb ed="#P" n="36" break="no"/>tur. Ante hominem vita et mors bonum et malum: 
+          <lb ed="#P" n="37"/>quod placuerit dabitur illi.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e408">
+          ¶ Respondetur: 
+          pro<lb ed="#P" n="38" break="no"/>horum argumentorum solutione duplex est 
+          inten<lb ed="#P" n="39" break="no"/>tio precipientis. vna qua intendit finem propter 
+          <lb ed="#P" n="40"/>quem preceptum dedit. Alia est intentio secundum 
+          <lb ed="#P" n="41"/>quam subditos obligare intendit. subditus vero 
+          <lb ed="#P" n="42"/>tenetur seruare precepum secundum intentionem secum 
+          <lb ed="#P" n="43"/>dam et non primam. Uult tamen deus: si 
+          subditi<lb ed="#P" n="44" break="no"/>non seruent priorem intentionem quod non 
+          merean<lb ed="#P" n="45" break="no"/>tur. Si quis vero seruet precepta quo ad 
+          substan<lb ed="#P" n="46" break="no"/>tiam actus / et non ex charitate: non quidem 
+          pec<lb ed="#P" n="47" break="no"/>cat: sed non habebit vitam eternam ratione talis 
+          <lb ed="#P" n="48"/>impletionis. propterea Matthei. xix. saluator 
+          ad<lb ed="#P" n="49" break="no"/>iecit coniunctionem si / inquiens. Si vis ad vitam 
+          <lb ed="#P" n="50"/>ingredi / serua mandata. Ande ad precepta potest 
+          <lb ed="#P" n="51"/>quis tripharia n se habere. Primo modo non 
+          fa<lb ed="#P" n="52" break="no"/>ciendo substantiam actus qui precipitur in affirmatiuis: 
+          <lb ed="#P" n="53"/>vel cuntrauenieudo prohibitioni in negatiuis. et 
+          ta<lb ed="#P" n="54" break="no"/>lis mortaliter peccat: si deliberate id faciat. 
+          Secun<lb ed="#P" n="55" break="no"/>do modo obseruando quo ad litteram quod 
+          pre<lb ed="#P" n="56" break="no"/>cipitur vel quod prohibetur: hoc est: actum 
+          prece<lb ed="#P" n="57" break="no"/>ptum exercendo / et prohibitum omittendo: non 
+          <lb ed="#P" n="58"/>tamen ex charitate. et is non meretur saltem vitam 
+          <lb ed="#P" n="59"/>eternam: non tamen peccat nisi in casu. Tertio 
+          <lb ed="#P" n="60"/>modo quis adimplet preceptum quo ad substan¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tiam actus / et quo ad modum: hoc est ex 
+          charita<lb ed="#P" n="62" break="no"/>te. et talis sic adimplens preceptum meretur. 
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e467">
+          <lb ed="#P" n="63"/>¶ Contra secundam conclusionem arguitur. 
+          di<lb ed="#P" n="64" break="no"/>citur in ea: homo tenetur diligere deum ex 
+          chari<lb ed="#P" n="65" break="no"/>tate. Contra hoc arguitur. vel hoc est semper 
+          quan<lb ed="#P" n="66" break="no"/>do tenetur ad substantiam actus: vel interdum sic: 
+          <lb ed="#P" n="67"/>interdum vero non. non secundum: quia ratio 
+          da<lb ed="#P" n="68" break="no"/>ri non potest: quando sic: quando vero non. Nec 
+          <lb ed="#P" n="69"/>primum: quia si sic: cum illud preceptum homo 
+          te<lb ed="#P" n="70" break="no"/>netur implere ex charitate: quod est de iure 
+          na<lb ed="#P" n="71" break="no"/>ture: pari ratione reliqua omnia precepta 
+          homo<lb ed="#P" n="72" break="no"/>tenetur implere ex charitate.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e491">
+          ¶ Contra tertiam 
+          <lb ed="#P" n="73"/>conclusionem arguitur: ex ea sequitur quod preceptum 
+          <lb ed="#P" n="74"/>humanum homo tenetur implere ex churitate: 
+          <lb ed="#P" n="75"/>quod patet: suscipere eucharistiam in paschate est 
+          <lb ed="#P" n="76"/>solum praeceptum humanum: et ad illam assumptionem homo 
+          <lb ed="#P" n="77"/>tenetur ex charitate. Etsi hoc totum concedas. contra. non 
+          <lb ed="#P" n="78"/>citius ad vnum preceptum homo tenetur adimplendum 
+          ex<lb ed="#P" n="79" break="no"/>charitate quam ad aliud: ergo ad omnia precepta 
+          ho<lb ed="#P" n="80" break="no"/>mo tenetur ex charitate adimplenda.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e511">
+          ¶ Ad 
+          pri<lb ed="#P" n="81" break="no"/>mum istorum concedo quod homo tenetur interdum 
+          <lb ed="#P" n="82"/>diligere deum charitatiue. diligere deum est de 
+          <lb ed="#P" n="83"/>iure nature in periculo morts. quando homo habet 
+          per<lb ed="#P" n="84" break="no"/>fectam noticiam de deo / vel habere tenetur / 
+          ho<lb ed="#P" n="85" break="no"/>mo tenetur diligere deum ex charitate et forte in 
+          <lb ed="#P" n="86"/>aliquibus aliis temporibus: in quibus vnctio vel 
+          pru<lb ed="#P" n="87" break="no"/>dentia secundum exigentiam temporis et loci docebit. 
+          <lb ed="#P" n="88"/>ex hoc non habes quod quandocunque homo tenetur 
+          dili<lb ed="#P" n="89" break="no"/>gere deum: tenetur eum diligere ex charitate: nec 
+          <lb ed="#P" n="90"/>ad alia precepta iuris nature vel iuris positiui 
+          ma<lb ed="#P" n="91" break="no"/>gis deo obligamur quam proximo.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e538">
+          ¶ Ad secundum 
+          <lb ed="#P" n="92"/>dicitur: sumere eucharisliam pro loco et tempore est 
+          <lb ed="#P" n="93"/>preceptum diuinum positiuum: sed pro hoc deter 
+          <lb ed="#P" n="94"/>minato tempore paschate vel penthecoste est 
+          pre<lb ed="#P" n="95" break="no"/>ceptum humanum positiuum: quod homo 
+          adi<lb ed="#P" n="96" break="no"/>plens ius diuinum positiuum adimplet. sicut 
+          <lb ed="#P" n="97"/>crebriter implendo segem humanam positiuam: 
+          <lb ed="#P" n="98"/>impletur lex nature. homo tenetur de iure nature 
+          <lb ed="#P" n="99"/>dare aliquid curato qui ministrat ei spiritualia: et 
+          <lb ed="#P" n="100"/>tamen dando decimam (que est de iure positiuo 
+          <lb ed="#P" n="101"/>humano ) ius nature adimplet. similiter 
+          occiden<lb ed="#P" n="102" break="no"/>do homicidam per legem positiuam humanam: 
+          <lb ed="#P" n="103"/>impletur lex nature. Ad punctum arguinenti dico: 
+          <lb ed="#P" n="104"/>habemus speciale mandatum de illo precepto 
+          im<lb ed="#P" n="105" break="no"/>plendo in gratia vt eucharistiam. in aliis autem 
+          <lb ed="#P" n="106"/>hoc non habemus. et ratio naturalis dictat nobis 
+          <lb ed="#P" n="107"/>quod ad hoc non teneamur: et sic non est idem in 
+          om<lb ed="#P" n="108" break="no"/>nibus.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e577">
+          ¶ Dubitatur an primus actus meritorius sit magis 
+          <lb ed="#P" n="109"/>meritorius quam aliquis alius actus meritorius illum sequens. 
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e582">
+          <lb ed="#P" n="110"/>¶ Respondetur. holhot dicit quod primus actus 
+          me<lb ed="#P" n="111" break="no"/>ritorius est melior quam quicunque sequens: quia 
+          per<lb ed="#P" n="112" break="no"/>primum actum meretur quis vitam eternam: 
+          per<lb ed="#P" n="113" break="no"/>alios actus sequentes meretur homo solum vite 
+          <lb ed="#P" n="114"/>eterne augmentum. et si fuerit actus primus 
+          con<lb ed="#P" n="115" break="no"/>tritionis: tunc signanter est melior quia per illam 
+          <lb ed="#P" n="116"/>quis meretur vitam eternam / et dimissionem 
+          cul<lb ed="#P" n="117" break="no"/>pe eterne / et liberationem ab inferno: et non 
+          me<lb ed="#P" n="118" break="no"/>retur tantum per secundum actum meritorium / 
+          <lb ed="#P" n="119"/>nec quemcunque actum sequentem
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e606">
+          ¶ Contra illud 
+          <lb ed="#P" n="120"/>arguitur sic: ex illosequitur quod primum peccatum 
+          <pb ed="#P" n="128-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quo gratia amittitur esset peius quocunque alio 
+          pec<lb ed="#P" n="2" break="no"/>cato quantumcunque magno: consequens est 
+          incon<lb ed="#P" n="3" break="no"/>ueniens: quod patet vbi primum peccatum esset 
+          <lb ed="#P" n="4"/>furtum simplex. et secundum odium dei. et 
+          probo<lb ed="#P" n="5" break="no"/>consequentiam sicut ipse probat: per primum 
+          pec<lb ed="#P" n="6" break="no"/>catum aufertur tota gratia et gloria respondens: 
+          <lb ed="#P" n="7"/>et datur infinita pena extensiue in inferno. proodio 
+          <lb ed="#P" n="8"/>vero dei(quod est secundum peccatum) datur solum intensio 
+          pene<lb ed="#P" n="9" break="no"/>secundum eum: igitur.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e635">
+          ¶ Secundo arguitur: 
+          resur<lb ed="#P" n="10" break="no"/>gat sortes a peccato per paruum motum 
+          contri<lb ed="#P" n="11" break="no"/>tionis: postea / ad modicum tempus sequens 
+          ha<lb ed="#P" n="12" break="no"/>beat actum heroicum martyrii qualem habuit 
+          vin<lb ed="#P" n="13" break="no"/>centius aut laurentius. tunc sic. b. actus martyrii 
+          <lb ed="#P" n="14"/>est melior illo a. actu contritionis: cum sit actus 
+          he<lb ed="#P" n="15" break="no"/>roicus: alter vero non: igitur positio falsa.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e651">
+          ¶ 
+          Ter<lb ed="#P" n="16" break="no"/>tio arguitur. sortes per te per primum actum 
+          me<lb ed="#P" n="17" break="no"/>retur vitam eternam: quero pro quo capis vitam 
+          <lb ed="#P" n="18"/>eternam. si pro beatitudine formali sicut 
+          capere<lb ed="#P" n="19" break="no"/>debes: ita etiam per secundum actum meretur 
+          vi<lb ed="#P" n="20" break="no"/>tam eternam: quod probo: secudo actui 
+          respon<lb ed="#P" n="21" break="no"/>det in patria gloria sicut primo actui. cuilibet 
+          actui<lb ed="#P" n="22" break="no"/>meritorio sua propria respondet gloria. et stat quod 
+          <lb ed="#P" n="23"/>gloria secundi actus sit in triplo maior vel in 
+          qua<lb ed="#P" n="24" break="no"/>druplo quam gloria primo actui respondens. ergo 
+          se<lb ed="#P" n="25" break="no"/>cundus actus erit primo prestantior.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e676">
+          ¶ Fortasse 
+          <lb ed="#P" n="26"/>dicis: primo actui respondet perpetuitas glorie: 
+          <lb ed="#P" n="27"/>secundo actui solum intensio beatitudinis. 
+          Con<lb ed="#P" n="28" break="no"/>tra hoc arguitur: perpetuitas actus nichil aliud 
+          <lb ed="#P" n="29"/>est quam actus perpetuus: ergo est vna perpetuitas 
+          <lb ed="#P" n="30"/>beatitudinis respondens secundo actui sicut 
+          pri<lb ed="#P" n="31" break="no"/>mo cum est beatitudo formalis perpetua secundo 
+          <lb ed="#P" n="32"/>actui respondens sicut primo.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e694">
+          ¶ Propter has 
+          ra<lb ed="#P" n="33" break="no"/>tiones modum illum dicendi relinquo. et dico: stat 
+          <lb ed="#P" n="34"/>secundum actum esse primo meliorem in duplo / 
+          <lb ed="#P" n="35"/>triplo / vel in alia proportione numerali. bonitas 
+          <lb ed="#P" n="36"/>actus a nobilitate obiecti et conatu voluntatis 
+          ha<lb ed="#P" n="37" break="no"/>bet attendi.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e707">
+          ¶ Sed contra illud arguitur: sit 
+          sor<lb ed="#P" n="38" break="no"/>tes in gratia / eliciat vnum actum meritorium vt 
+          <lb ed="#P" n="39"/>quattuor: et sit illud premium vt quattuor. c. 
+          vlte<lb ed="#P" n="40" break="no"/>rius pono platonem qui nunc resurgit per vnum 
+          <lb ed="#P" n="41"/>actum meritorium vt vnum: et vocetur illud 
+          pre<lb ed="#P" n="42" break="no"/>mium d. his suppositis sic arguo: maius malum 
+          <lb ed="#P" n="43"/>est carere d quam c. ergo melius est habere d. quam. c. an 
+          <lb ed="#P" n="44"/>tecedens patet: si careat d. ex casu sic decedendo 
+          <lb ed="#P" n="45"/>damnabitur: sed illud non contingit carendo. c. 
+          igi<lb ed="#P" n="46" break="no"/>tur.
+        </p>
+        <p xml:id="jm3cbb-e77525-d1e729">
+          ¶ Respondetur: non est maius malum carere 
+          <lb ed="#P" n="47"/>d. quam c. simpliciter: quia non est ita malum carere 
+          <lb ed="#P" n="48"/>vno gradu glorie sicut quattuor. licet per accidens 
+          <lb ed="#P" n="49"/>et ex casu sit melius: non est tamen melius 
+          simpli<lb ed="#P" n="50" break="no"/>citer. ad tacitum argumentum suam opinionem 
+          <lb ed="#P" n="51"/>recitando / respondetur concedendo quod per primum 
+          <lb ed="#P" n="52"/>actum homo meretur vitam eternam: et per actus 
+          <lb ed="#P" n="53"/>sequentes augmentum vite eterne: sed augmentum 
+          <lb ed="#P" n="54"/>vite etsrne nichil aliud est quam vita etena. licet hoc 
+          con<lb ed="#P" n="55" break="no"/>plexum augmentum vite etsrne connotet vitam eternam fuisse 
+          <lb ed="#P" n="56"/>prius debitam: sicut augmentum gratie est gratia. 
+          <lb ed="#P" n="57"/>huiusmodi constructiones transitiue loco 
+          intransi<lb ed="#P" n="58" break="no"/>tiuarum constructionum capiuntur. quis tamen per 
+          <lb ed="#P" n="59"/>actum contritionis meretur liberationem a 
+          cul<lb ed="#P" n="60" break="no"/>paet a magna pena: sed illud est premium solum 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>concomitans: et non essentiale: sicut datis 
+          duab<lb ed="#P" n="62" break="no"/>tunicis longis eque bonis. a. et. b. a. plus valet de 
+          <lb ed="#P" n="63"/>per accidens tersiti cum difformibus tibiis quam b. 
+          tuni<lb ed="#P" n="64" break="no"/>nica valeat priamo. vtraque tunica a frigore et 
+          ca<lb ed="#P" n="65" break="no"/>lore equaliter protegit: sed difformitatem tibiarum 
+          <lb ed="#P" n="66"/>tersitis vel miphibosetha. occultat: et hoc non est ne 
+          <lb ed="#P" n="67"/>cessarium priamo cuius / species digna erat imperio. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

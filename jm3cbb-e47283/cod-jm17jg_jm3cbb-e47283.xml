@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="77-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e47283"><!-- l3d33q3 -->
+        <head xml:id="jm3cbb-e47283-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e47283-Hd1e101" type="question-title">An prudentia a scientia distinguatur</head>
+        <p xml:id="jm3cbb-e47283-d1e104">
+          <lb ed="#P" n="24"/>SEcundo circa hanc 
+          ma<lb ed="#P" n="25" break="no"/>teriam quaeritur: an prudentia a 
+          scien<lb ed="#P" n="26" break="no"/>tia distinguatur. idem est quaerere 
+          an<lb ed="#P" n="27" break="no"/>prudentia distinguatur a scientia: 
+          <lb ed="#P" n="28"/>in morali logica loquendo. in 
+          <lb ed="#P" n="29"/>materia morali opus est menten 
+          <lb ed="#P" n="30"/>loquentis et non rigorem logices 
+          <lb ed="#P" n="31"/>ponderare.
+        </p>
+        <p xml:id="jm3cbb-e47283-d1e124">
+          ¶ Pro questionis solutione scito in hac 
+          <lb ed="#P" n="32"/>parte varias extare positiones: et ratio est: quia Aristo. 
+          <lb ed="#P" n="33"/>in. vi. Ethicorum dicit prudentiami distingui ab arte 
+          <lb ed="#P" n="34"/>et scientia: quia scientia est necessariorume 
+          impossibi<lb ed="#P" n="35" break="no"/>lium aliter se habere: quod varii vario modo exponunt. 
+          <lb ed="#P" n="36"/>aliqui dicunt quod Aristo. in sexto solum intendit 
+          distin<lb ed="#P" n="37" break="no"/>guere scientiam speculatiuam ab aliis habitibus 
+          intel<lb ed="#P" n="38" break="no"/>lectualibus: et non scientiam practicam: et secundum hanc 
+          vi<lb ed="#P" n="39" break="no"/>am / moralis scientia potest coincidere cum arte et 
+          pru<lb ed="#P" n="40" break="no"/>dentia. Aliqui dicunt quod omnis scientia ab arte et 
+          <lb ed="#P" n="41"/>prudentia distinguitur: per hoc quod scientia est vniuersa 
+          <lb ed="#P" n="42"/>lium: ars veroet prudentia singularium non vniuersalium. 
+          <lb ed="#P" n="43"/>Alii dicunt prudentia quaedruplicitur accipitur: et sic per 
+          equi<lb ed="#P" n="44" break="no"/>uocationem inutilem: et non ad intentionem Aristo. in 
+          <lb ed="#P" n="45"/>sexto Ethicorum: questionem absoluunt. has 
+          acceptio<lb ed="#P" n="46" break="no"/>nes vide in Okam et in aliquibus sequentibus. 
+          <lb ed="#P" n="47"/>Propterea nichil in hac parte dici potest quod cum omnibus 
+          con<lb ed="#P" n="48" break="no"/>ueniat. ponam aliquas conclusiones quaes puto cum 
+          ari<lb ed="#P" n="49" break="no"/>stotelis mente et vitate magis conuenire.
+        </p>
+        <p xml:id="jm3cbb-e47283-d1e166">
+          ¶ Quarum 
+          <lb ed="#P" n="50"/>prima est: scientia est necessariorum et incorruptibilium. 
+          <lb ed="#P" n="51"/>hec conclusio est aristotelis sexto ethicorum tertio ca. 
+          <lb ed="#P" n="52"/>dicentis: ipset ergo scibile necessario est: ergo est eter 
+          <lb ed="#P" n="53"/>num quae enim necessario simpliciter sunt / etna sunt 
+          om<lb ed="#P" n="54" break="no"/>nia: acieterna / ingenitaet incorruptibilia sunt. 
+          propo<lb ed="#P" n="55" break="no"/>sitio scibilis est etsna / et incorruptibilis / secunde 
+          inten<lb ed="#P" n="56" break="no"/>tionalitur hoc est: est propositio necessaria / absoluendo 
+          copu<lb ed="#P" n="57" break="no"/>lam a tpere / in sensu conditionali / vel copulam modificando. 
+          <lb ed="#P" n="58"/>solus deus est necessarium et incorruptibile prime in 
+          <lb ed="#P" n="59"/>tentionaliter.
+        </p>
+        <p xml:id="jm3cbb-e47283-d1e191">
+          ¶ Secunda conclusio: prudentia est 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>vniuersalium. probatur hec conclusio: assensus huius 
+          <lb ed="#P" n="61"/>nullum malum est faciendum: vel huius / omne 
+          hone<lb ed="#P" n="62" break="no"/>stum est prosequendum: est prudentia. patet per omens 
+          <lb ed="#P" n="63"/>conditiones ad prudentiam requisitas. patet hec 
+          conclu<lb ed="#P" n="64" break="no"/>sio auctoritate Aristo. vi. Ethicorum. vii. in fine 
+          ca<lb ed="#P" n="65" break="no"/>pitis dicit philosophus: neque prudentia est vniuer 
+          <lb ed="#P" n="66"/>salium solum: sed singula etiam oportet cognoscere. et 
+          inan<lb ed="#P" n="67" break="no"/>tiqua translatione dicit: neque est prudentia 
+          vniuer<lb ed="#P" n="68" break="no"/>salium solum: sed omt et singularia cognoscere. 
+        </p>
+        <p xml:id="jm3cbb-e47283-d1e215">
+          <lb ed="#P" n="69"/>¶ Tertia conclusio: prudentia est singularium patet hec 
+          <lb ed="#P" n="70"/>conclusio ex Aristotele in probatione conclusionis 
+          pre<lb ed="#P" n="71" break="no"/>cedentis. et patet conclusio per diffinitionem prudentie: 
+          <lb ed="#P" n="72"/>et patebit ex conclusione sequenti.
+        </p>
+        <p xml:id="jm3cbb-e47283-d1e226">
+          ¶ Quarta 
+          conclu<lb ed="#P" n="73" break="no"/>sio: prudentia est magis singularium quam vniuersalium: 
+          <lb ed="#P" n="74"/>hoc est: magis relucet prudentia circa singularia quod 
+          <lb ed="#P" n="75"/>circa vniuersalia. probatur hec conclusio: ars et 
+          vir<lb ed="#P" n="76" break="no"/>tus sunt circa difficile. ii. Ethicorum. ergo vbi est maior 
+          <lb ed="#P" n="77"/>difficultas in recte iudicando: ibi prudentia magis 
+          <lb ed="#P" n="78"/>relucet. sed hoc est circa singularia: quia in illis 
+          aber<lb ed="#P" n="79" break="no"/>rare est facile: et difficile verum attingere. circa 
+          vniuer<lb ed="#P" n="80" break="no"/>salia facile est verum discernere. centum mille propotionum 
+          <lb ed="#P" n="81"/>incontractarum veritates cognoscimus: quibus si ad 
+          <lb ed="#P" n="82"/>datur specificatio alteri extrenorum / vel vtrique / velad 
+          <lb ed="#P" n="83"/>singularia descendamus / protinus veritatem 
+          obscu<lb ed="#P" n="84" break="no"/>ram habemus. exemplificare potes in speculatins: 
+          <lb ed="#P" n="85"/>vt aliqua astra sunt supra nos: aliquis est in templo 
+          vir<lb ed="#P" n="86" break="no"/>ginis: christus descendit ad inferos: et in practicis: 
+          la<lb ed="#P" n="87" break="no"/>tro est puniendus. singularia etiam sunt magis 
+          va<lb ed="#P" n="88" break="no"/>riabilia ad veritatem quam vniuersalia et superiora. 
+          su<lb ed="#P" n="89" break="no"/>periora omnia semper hic reputamus vniuersalia 
+          respe<lb ed="#P" n="90" break="no"/>ctu suorum inferiorum. cum etiam singularia magis 
+          affi<lb ed="#P" n="91" break="no"/>ciunt appetitum quam vniuersalia. et per consequens magis in 
+          <lb ed="#P" n="92"/>clinant ad peruertendum iudicium quoam vniuersalia. 
+          pro<lb ed="#P" n="93" break="no"/>pterea dicit Aristoteles primo rethorice: magis 
+          <lb ed="#P" n="94"/>potest videre verum legislator / quod prefectus / aut 
+          iu<lb ed="#P" n="95" break="no"/>dex: quia iudicium legislatoris non secundum partem: sed de 
+          fu<lb ed="#P" n="96" break="no"/>turis et vniuersalibus: prefectus autem et iudex 
+          tam<lb ed="#P" n="97" break="no"/>de peaesentibus et determinatis iudicant: ad quos et 
+          a<lb ed="#P" n="98" break="no"/>mare / etodire / et proprium commodum / annexa sunt 
+          <lb ed="#P" n="99"/>sepe: vt non adhuc possunt videre sufficienter 
+          ve<lb ed="#P" n="100" break="no"/>rum: sed attendere in iudicio proprium delectabile aut 
+          <lb ed="#P" n="101"/>triste. quod singularia plus moueant quam vninersalia patet 
+          <lb ed="#P" n="102"/>experimento circa delectabilia: vt affici circa mulie 
+          <lb ed="#P" n="103"/>rem in communi: vel circa hanc pulchram: cui quadrat 
+          ari<lb ed="#P" n="104" break="no"/>stoteles. e. de atnima: vniuersalis existimatio non 
+          mo<lb ed="#P" n="105" break="no"/>uet. Ex his concluditur quod prudentia est maior et 
+          <lb ed="#P" n="106"/>pulcrior circa singularia quod circam vniuersalia 
+          Pre<lb ed="#P" n="107" break="no"/>terea: prudentia per experientiam maxime acquiritur: quae 
+          <lb ed="#P" n="108"/>est circa singularia. proprter quood Aristo. sexti 
+          ethi<lb ed="#P" n="109" break="no"/>cor. viii. dicit quod inuenes fiunt mathematici: non 
+          au<lb ed="#P" n="110" break="no"/>tem prudentes: sic inquiens: geometre enim iuuenes 
+          <lb ed="#P" n="111"/>et mathematici ac sapientes in talibus fiunt: 
+          pruden<lb ed="#P" n="112" break="no"/>tes autem fieri non videntur. causa autem est: quia et 
+          singu<lb ed="#P" n="113" break="no"/>larium rerum est ipsa prudentia: que quidem per experientiam 
+          <lb ed="#P" n="114"/>note fiunt: iuuenis autem non est expertus. experientiam 
+          <lb ed="#P" n="115"/>enin temporis efficit longitudo. nam et hoc quispi 
+          <lb ed="#P" n="116"/>am considerauerit: cur puer mathematicus quidem 
+          <lb ed="#P" n="117"/>fieri potest sapiens autem aut naturalis non potest. 
+          pro<lb ed="#P" n="118" break="no"/>pterea in septimo capite illius libri dicit Aristo. 
+          <lb ed="#P" n="119"/>aliqui nescientes sunt promptiores ad agendum quae 
+          <pb ed="#P" n="78-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>scientes: sic inquit: qua propter et nescientes 
+          nonnulli<lb ed="#P" n="2" break="no"/>magis quam non nulli scientes / idonei sunt ad agendum: 
+          <lb ed="#P" n="3"/>etin ceteris ii qui sunt exparti. hoc exemplariter de 
+          carni<lb ed="#P" n="4" break="no"/>bus retexit inquiens: nam si quispiam sciat leues carnes 
+          <lb ed="#P" n="5"/>facile concoqui ac esse salubres: quae vero sint leues 
+          igno<lb ed="#P" n="6" break="no"/>ret: non efficiet sanitatem. sed qui scit auium carnes 
+          le<lb ed="#P" n="7" break="no"/>ues esse atque salubres: is efficiet magis. Istud patet 
+          <lb ed="#P" n="8"/>manifeste de medicis ante experientiam in singula 
+          <lb ed="#P" n="9"/>ribus: esto quod vniuersalia scientie calleant: cymiteria 
+          <lb ed="#P" n="10"/>replent. idem est de medico animme qui est ipse vir 
+          pru<lb ed="#P" n="11" break="no"/>dens. Ex his patet quod prudentia est magis efferenda 
+          <lb ed="#P" n="12"/>circa singularia quod circa vniuersalia.
+        </p>
+        <p xml:id="jm3cbb-e47283-d1e361">
+          ¶ Contra 
+          du<lb ed="#P" n="13" break="no"/>as primas conclusiones arguitur: ex eis sequitur 
+          <lb ed="#P" n="14"/>quod eadem noticia numero actualis potest esse 
+          sciem<lb ed="#P" n="15" break="no"/>tia et prudentia: et per consequens idem habitus 
+          nu<lb ed="#P" n="16" break="no"/>mero erit scientia et prudentia: et sic moralis 
+          philo<lb ed="#P" n="17" break="no"/>sophia erit prudentia. et tamen Arist. in. vi. ethi. poit 
+          dis<lb ed="#P" n="18" break="no"/>crimen inter illos habitus.
+        </p>
+        <p xml:id="jm3cbb-e47283-d1e377">
+          ¶ Renr: concedendo 
+          illa<lb ed="#P" n="19" break="no"/>tum / quod idem actus numero potest esse secina moralis prudentia 
+          <lb ed="#P" n="20"/>ex consequenti idem habitus. et licet iudicia specie distinguam 
+          <lb ed="#P" n="21"/>tur / qua habentur de hac terra est rotunda ab 
+          astrono<lb ed="#P" n="22" break="no"/>mo et phisico: quia producuntur a causis specie 
+          distin<lb ed="#P" n="23" break="no"/>ctis: hic autem idem iudicium potest causari ab vna 
+          cau<lb ed="#P" n="24" break="no"/>sa: et erit prudentia et moralis philosophia. ad 
+          ari<lb ed="#P" n="25" break="no"/>stotelem dico: intelligit quod moralis philosophia 
+          <lb ed="#P" n="26"/>prudentia differunt ratione. alia est ratio quare est 
+          <lb ed="#P" n="27"/>prudentia: et alia quare est moralis philosophia. 
+        </p>
+        <p xml:id="jm3cbb-e47283-d1e399">
+          <lb ed="#P" n="28"/>¶ Secundo: intelligit de totali scientia morali: et de 
+          to<lb ed="#P" n="29" break="no"/>tali prudentia. et ille / et numero / et specie distinguuntur. 
+          <lb ed="#P" n="30"/>aristo. enim determinaturus de discrimine inter 
+          sci<lb ed="#P" n="31" break="no"/>entiam et prudentiam / non habuit loqui quonam pacto 
+          <lb ed="#P" n="32"/>inter se conueniant: sed quomodo differant. 
+          quemad<lb ed="#P" n="33" break="no"/>modum phisicus volens discrimen ponere inter 
+          co<lb ed="#P" n="34" break="no"/>licam et nephresim quomodo vnus morbus ab alio 
+          de<lb ed="#P" n="35" break="no"/>prehendatur: ponit illa in quibus differunt: et negligit 
+          <lb ed="#P" n="36"/>illa in quibus conueniunt: si succincte suam artem tradit. 
+          <lb ed="#P" n="37"/>modo licet Aristo. bene vidit quod aliqua prudentia est 
+          <lb ed="#P" n="38"/>scientia et moralis philosophia: posuit se ad 
+          po<lb ed="#P" n="39" break="no"/>nendum illa in quibus discrimen habent scientia et 
+          pru<lb ed="#P" n="40" break="no"/>dentia.
+        </p>
+        <p xml:id="jm3cbb-e47283-d1e431">
+          ¶ Tertio: potissima pars prudentie est 
+          cir<lb ed="#P" n="41" break="no"/>ca singularia. ii. Metaphisice dicitur: speculatiue 
+          fi<lb ed="#P" n="42" break="no"/>nis est veritas: practice vero opus. prudentia autem non 
+          <lb ed="#P" n="43"/>est habitus speculatiuus: sed practicus. ideo finis 
+          <lb ed="#P" n="44"/>eius non est scire: sed operare. finis autem inter cete 
+          <lb ed="#P" n="45"/>ra semper principalius intenditur: quandm propter se: alia 
+          <lb ed="#P" n="46"/>propter ipsum. ergo circa illud erit prudentia 
+          principa<lb ed="#P" n="47" break="no"/>lius / circa quod sunt operationes quam circa quod non sunt 
+          <lb ed="#P" n="48"/>operati ones. sed operationes sunt circa singularia: 
+          <lb ed="#P" n="49"/>vt dicitur in prohemio metaphisice. igitur. non sic de 
+          <lb ed="#P" n="50"/>scientia: ergo inter se distinguuntur. sed quod aliqua 
+          scien<lb ed="#P" n="51" break="no"/>tia est ars patet: omnis scientia practica est 
+          pruden<lb ed="#P" n="52" break="no"/>tia vel ars: sed scientia moralis est scientia 
+          practi<lb ed="#P" n="53" break="no"/>cta: et numquam vel perrarum est ars: ergo est prudenti a.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

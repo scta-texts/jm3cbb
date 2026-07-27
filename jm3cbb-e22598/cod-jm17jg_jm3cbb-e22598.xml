@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="37-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e22598"><!-- l3d16q1 -->
+        <head xml:id="jm3cbb-e22598-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e22598-Hd1e101" type="question-title">An fuerit necesse Christum mori</head>
+        <p xml:id="jm3cbb-e22598-d1e104">
+          <lb ed="#P" n="71"/>CIrca hanc. xvi. 
+          <lb ed="#P" n="72"/>distinctionem quaeritur: an fuerit ne 
+          <lb ed="#P" n="73"/>cesse christum mori.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e113">
+          ¶ Respondetur. 
+          <lb ed="#P" n="74"/>necesse secunde intentionaliter 
+          ni<lb ed="#P" n="75" break="no"/>hil aliud est quam propositio 
+          neces<lb ed="#P" n="76" break="no"/>saria: quae talis est nature / quod non 
+          <lb ed="#P" n="77"/>potest aliter esse in re quam ipsa 
+          signi<lb ed="#P" n="78" break="no"/>ficet sententia totali. quadam talis propositio est 
+          neces<lb ed="#P" n="79" break="no"/>saria necessitate simpliciter dicta / necessitate 
+          ca<lb ed="#P" n="80" break="no"/>thegorica / vel necessitate consequentis. quedam 
+          <lb ed="#P" n="81"/>necessaria necessitate conditionali / siue ex 
+          sup<lb ed="#P" n="82" break="no"/>positione siue necessitate consequentie. et hoc 
+          bipha<lb ed="#P" n="83" break="no"/>riam: vel de potentia nature: vel secundum veritatem sim 
+          <lb ed="#P" n="84"/>pliciter. Primo modo hec est necessaria: si sortes in 
+          <lb ed="#P" n="85"/>francia debeat adire britamniam necesse est pertram 
+          <lb ed="#P" n="86"/>sire mare. vt necesse cadat in totam conditionalem. 
+          <lb ed="#P" n="87"/>potest deus aliter facere quam per illam 
+          conditiona<lb ed="#P" n="88" break="no"/>lem significatur. solus deus est necessarius prime in 
+          <lb ed="#P" n="89"/>tentionaliter capiendo necessitatem. dicimus etiam 
+          <lb ed="#P" n="90"/>lapidem necessitari ad motum violentum sursum: quia 
+          <lb ed="#P" n="91"/>non potest resistere motori extrinseco ad talem 
+          mor<lb ed="#P" n="92" break="no"/>tum.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e157">
+          ¶ His premissis ponuntur quattuor 
+          conclusio<lb ed="#P" n="93" break="no"/>nes sequentes.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e163">
+          ¶ Quarum prima est: non erat 
+          neces<lb ed="#P" n="94" break="no"/>sarium simpliciter christum mori. patet: poterat assu 
+          <lb ed="#P" n="95"/>mere corpus imortafe eummfis doribus sicunt en 
+          <lb ed="#P" n="96"/>suum corpus modo. similiter poterat dare remedia 
+          <lb ed="#P" n="97"/>corpori sine dotibus continuatiua vite / 
+          periustici<lb ed="#P" n="98" break="no"/>am originalem / esum ligni vite / et huiusmodi.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e176">
+          ¶ Secunda 
+          <lb ed="#P" n="99"/>conclusio: si deus reliquisset beatitudinem aime 
+          redun<lb ed="#P" n="100" break="no"/>dare in corpus: sicut facit secundum communem legem hos 
+          <lb ed="#P" n="101"/>minibus beatis: corpus chrii fuisset imortale patet: 
+          <lb ed="#P" n="102"/>nullus alius homo datur vel dabitur 
+          beatitudi<lb ed="#P" n="103" break="no"/>nem in mente habens quin corpus talis erit 
+          immor<lb ed="#P" n="104" break="no"/>tale: non quod dos impassibilitatis sit qualitas 
+          cor<lb ed="#P" n="105" break="no"/>porea in corpore beati: sed est solum preseruatio 
+          <lb ed="#P" n="106"/>dei et eius assistentia ne corpus beati nociuum 
+          pa<lb ed="#P" n="107" break="no"/>tiatur: vt latius / in distinctione. xlix. quarti diximus. 
+          <lb ed="#P" n="108"/>quod corpus christi in resurrectione sit factum immortale. nan 
+          <lb ed="#P" n="109"/>erat nouum miraculum: immo miraculum erat quod non essent 
+          <lb ed="#P" n="110"/>beatum beatifudine corpori in via. nec vnquam 
+          alicui<lb ed="#P" n="111" break="no"/>alteri conuenit.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e207">
+          ¶ Tertia conclusio: stante ordine 
+          <lb ed="#P" n="112"/>detocum corpore assumpto: non erat in potesta 
+          <lb ed="#P" n="113"/>te anime christi quin iplam necessitaretur exire suum 
+          <lb ed="#P" n="114"/>corpus. patet: secundum legem corpus mortale assumsit: 
+          <lb ed="#P" n="115"/>et beatitudo anime non redundauit in corpus: 
+          ergo<lb ed="#P" n="116" break="no"/>necesse erat eum pati a tormentis extrinsece 
+          illa<lb ed="#P" n="117" break="no"/>tis. et anima christi naturaliter non poterat illud 
+          im<lb ed="#P" n="118" break="no"/>pedire. Insuper christus sua sponte assumpsit 
+          defe<lb ed="#P" n="119" break="no"/>ctus humane nature: inter quos est mors: igitur 
+          <lb ed="#P" n="120"/>et actuum. ii. Petrus dixit iudeis de christo: hunc 
+          <lb ed="#P" n="121"/>per manus iniquorum affligentes interemistis. t. c 
+          <pb ed="#P" n="38-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>iii. eiusdemlibri dixit: auctorem vite interfecistis 
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e238">
+          <lb ed="#P" n="2"/>¶ Quarta propositio: stante ordine corporis 
+          <lb ed="#P" n="3"/>assumpti: dato quod mors christo ab extrinseco non 
+          fuis<lb ed="#P" n="4" break="no"/>set illata: adhuc mortuus fuisset per ordinem stante 
+          <lb ed="#P" n="5"/>enge communi aliorum hominum post peccatum ade 
+          intel<lb ed="#P" n="6" break="no"/>ligo: et quod deus nullum iuuamen dediffer hsfanitati: 
+          <lb ed="#P" n="7"/>sed eam reliquisset sue nature. erant in corpore christi 
+          <lb ed="#P" n="8"/>qualitates contrarie actiue et passiue adinuicem: 
+          <lb ed="#P" n="9"/>ergo fuisset actioet passio inter illas: et debilitatio 
+          <lb ed="#P" n="10"/>virtutis: et tandem sequuta fuisset mors 
+          natura<lb ed="#P" n="11" break="no"/>lis. Insuper: fuisset actio ab extrinseco: vt ab aere 
+          <lb ed="#P" n="12"/>vel alio continente. hoc patet ad hebreos. ix. 
+          sta<lb ed="#P" n="13" break="no"/>tutum est hominibus semel mori.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e267">
+          ¶ Contra duas 
+          vl<lb ed="#P" n="14" break="no"/>timas conclusiones arguitur sic: Ioannis. x. de 
+          vi<lb ed="#P" n="15" break="no"/>ta sua christus dicit: nemo tollit eam a me: sed ego 
+          <lb ed="#P" n="16"/>pono eam a memet ipso: potestatem habeo ponere 
+          <lb ed="#P" n="17"/>animam meam a memetipso. illic non dicit 
+          separa<lb ed="#P" n="18" break="no"/>tionem a me verbo: quia nunquam animam posuit a se 
+          <lb ed="#P" n="19"/>verbo: ergo hoc dicit vt homo. Ansuper: cum 
+          cla<lb ed="#P" n="20" break="no"/>more valido emisit spiritum. iste clamor validus 
+          <lb ed="#P" n="21"/>non poterat contingere viro prope mortem. Et esaie 
+          <lb ed="#P" n="22"/>liii. de christo dicitur: oblatus est quia ipse voluit.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e289">
+          ¶ 
+          Se<lb ed="#P" n="23" break="no"/>cundo arguitur: secundum Anselmum. ii. li. cur deus 
+          ho<lb ed="#P" n="24" break="no"/>mo. c. decimo: christus non fuit debitor mortis: quia 
+          <lb ed="#P" n="25"/>non habuit peccatum.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e299">
+          ¶ Ad primum respondetur quod 
+          <lb ed="#P" n="26"/>ly ego / et memet ipso / stant pro christo ratione 
+          <lb ed="#P" n="27"/>diuersarum naturarum: ita quod est sensus: ego verbum 
+          <lb ed="#P" n="28"/>pono animam meam a memetipso secundum naturam 
+          huma<lb ed="#P" n="29" break="no"/>nam: quia animam pono a corpore: et non a verbo: 
+          <lb ed="#P" n="30"/>ita quod ponere et separare potestatiue conuenit ratio 
+          <lb ed="#P" n="31"/>ne diuinitatis: sed terminus a quo separationis est 
+          <lb ed="#P" n="32"/>corpus.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e317">
+          ¶ Ad illud de clamore valido: dico quod illic 
+          <lb ed="#P" n="33"/>erat miraculum ex potentia verbi. homo 
+          prope<lb ed="#P" n="34" break="no"/>mortem vt videmus vix emittit spiritum.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e324">
+          ¶ Sed 
+          <lb ed="#P" n="35"/>contra hoc arguitur: sequitur in eadem auctoritate: 
+          <lb ed="#P" n="36"/>hoc mandatum accepi a patre meo: scilicet ponere 
+          ani<lb ed="#P" n="37" break="no"/>mam meam: sed non recepit mandatum a patre nisi vt 
+          <lb ed="#P" n="38"/>homo: quia in diuinitate erat patri equalis.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e335">
+          ¶ 
+          Se<lb ed="#P" n="39" break="no"/>cundo: Augu. iiii. de trini. ca. xiii. de spurit christi dicit 
+          <lb ed="#P" n="40"/>quod non deseruit carnem inuitus: sed quia voluit: quando 
+          <lb ed="#P" n="41"/>voluit: et qudoo voluit.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e344">
+          ¶ Respondetur: vt homo 
+          acce<lb ed="#P" n="42" break="no"/>pit potestatem ponendi animam: hoc est complacendot 
+          <lb ed="#P" n="43"/>ponendo animam: sed non effectiue: sic scilicet quod ponere et 
+          <lb ed="#P" n="44"/>non ponere fuerit in potestate eius secundum naturam 
+          hu<lb ed="#P" n="45" break="no"/>manam. nec talis expositio est extorta in scriptura: 
+          <lb ed="#P" n="46"/>quia secundum regulam Ticonii eadem littera potest 
+          exponi<lb ed="#P" n="47" break="no"/>de capite et de membris: sicut hic: qui potuit 
+          trans<lb ed="#P" n="48" break="no"/>gredi et non est transgressus. quantum ad posse transgredi ex 
+          <lb ed="#P" n="49"/>ponitur de membris: et quantum ad nontransgressus est 
+          expo<lb ed="#P" n="50" break="no"/>nitur de capite. Ad Augustinum: dicitur quod christus voluit 
+          <lb ed="#P" n="51"/>volitione deliberata mori: vt in distinctione 
+          pre<lb ed="#P" n="52" break="no"/>cedenti dictum est: et amplius in distinctione sequem 
+          <lb ed="#P" n="53"/>ti dicetur. sicut aliquis nunc moriturus sciensquod 
+          mo<lb ed="#P" n="54" break="no"/>rietur: vult illud. sed siue velit siue nolit oportet quod 
+          <lb ed="#P" n="55"/>moriatur. licet sit necessarium necessitate naturali: 
+          <lb ed="#P" n="56"/>potest esse meritorium: quia actus voluntatis est 
+          liber<lb ed="#P" n="57" break="no"/>sicut martyrese decollandi ex maleficio vel 
+          pro<lb ed="#P" n="58" break="no"/>causa iusta / volebant mortem: saltem antequam 
+          ho<lb ed="#P" n="59" break="no"/>nestatem relinquerent: vel pro culpacommissa. Ex 
+          il<lb ed="#P" n="60" break="no"/>lo sequitur quod mors christi non fuit violenta: 
+          capien<lb ed="#P" n="61" break="no"/>do violentum vt tame valet sicut inuoluntarium: sicut 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>
+          <lb ed="#P" n="63"/>Aristo. capit. iii. ethicorum. sed capiendo 
+          violen<lb ed="#P" n="64" break="no"/>tum sicut capit philosophus. ii. phisicorum: vt distin 
+          <lb ed="#P" n="65"/>guitur contra naturale: passio christi et mors fuit vio 
+          <lb ed="#P" n="66"/>lenta anime et corpori: quia anima inclinatur 
+          sua<lb ed="#P" n="67" break="no"/>pte natura perficere corpus: et corpus est inclina 
+          <lb ed="#P" n="68"/>tum perfici ab anima.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e407">
+          ¶ Ad auctoritatem Anselmi 
+          <lb ed="#P" n="69"/>dicitur quod ipse vult dicere: mors non fuit christo 
+          debi<lb ed="#P" n="70" break="no"/>ta ratione peccati: et si non fuisset peccatum: non 
+          se<lb ed="#P" n="71" break="no"/>quuta fuisset mors: secundum illud. Romanorum. viii. 
+          cor<lb ed="#P" n="72" break="no"/>pus mortuum est propter peccatum: secundum comminationem dei 
+          <lb ed="#P" n="73"/>Gen. ii. in quocunqe die comederis morte morieris: 
+          <lb ed="#P" n="74"/>sed voluntarie assumpta. assumpsit enin voluntarie 
+          <lb ed="#P" n="75"/>corpus tale: nec permisit beatitudinem anime 
+          redun<lb ed="#P" n="76" break="no"/>dare in corpus / vt esset impassibile.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e428">
+          ¶ Tertio 
+          ar<lb ed="#P" n="77" break="no"/>guitur: intellectus anime christi punctualiter cognouit 
+          <lb ed="#P" n="78"/>optimum cibum et sibi conuenientissimum: sic de 
+          aere<lb ed="#P" n="79" break="no"/>et aliis que vitam prolongant: ergo poterat 
+          alimen<lb ed="#P" n="80" break="no"/>tum ita purum assumere quod humidum radicale et 
+          ca<lb ed="#P" n="81" break="no"/>lor naturalis conseruaretur semper vniformiter: 
+          er<lb ed="#P" n="82" break="no"/>go quarta conclusio falsa.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e444">
+          ¶ Quarto arguitur: 
+          vo<lb ed="#P" n="83" break="no"/>luntas anime christi dominabatur perfecte appetitui 
+          <lb ed="#P" n="84"/>sensitiuo et omnibus viribus inferioribus: quia in 
+          <lb ed="#P" n="85"/>ipso nulla fuit earum rebellio: vt in distinctione se 
+          <lb ed="#P" n="86"/>quenti dicetur. anima dominatur appetitui sensitiuo 
+          <lb ed="#P" n="87"/>politice: et corperi dispotice primo politicorum. ergo 
+          <lb ed="#P" n="88"/>dominabatur plene super corpus suum: vt omnem 
+          <lb ed="#P" n="89"/>violentiam corporalem impedire posset.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e462">
+          ¶ Ad 
+          ter<lb ed="#P" n="90" break="no"/>tium concedo antecedens quo ad singulas partes eius. et 
+          <lb ed="#P" n="91"/>ex illo concluditur quod poterat diutius viuere naturalitur 
+          <lb ed="#P" n="92"/>quam aliquis purus homo ab orbe condito: quia corpus 
+          <lb ed="#P" n="93"/>optime complexionatum habebat. nouerat 
+          nutri<lb ed="#P" n="94" break="no"/>mentum et aerem conuenientissimum. omnia nociua 
+          co<lb ed="#P" n="95" break="no"/>gnouit: a quibus euitare poterat. sed tamen 
+          potem<lb ed="#P" n="96" break="no"/>tia nutritiua egisset in conuersione cibi: et 
+          patien<lb ed="#P" n="97" break="no"/>do fuisset debilitata: sic quod nihil poterat amplius / in 
+          <lb ed="#P" n="98"/>se conuertere. sicut vinum forte per impositionem 
+          <lb ed="#P" n="99"/>successiuam aque potest tantum debilitari quod non 
+          suf<lb ed="#P" n="100" break="no"/>ficit amplius aque in se conuertere: nisi habuisset 
+          <lb ed="#P" n="101"/>aliquid remedii a deo ad restaurationem 
+          equalita<lb ed="#P" n="102" break="no"/>tis: sicut habebat Adam pro statu inocentie.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e493">
+          ¶ Ad 
+          <lb ed="#P" n="103"/>quartum dicitur: minus dominatur anima 
+          super<lb ed="#P" n="104" break="no"/>potentiam vegetatiuam quam super potentiam sensitiuam. 
+          <lb ed="#P" n="105"/>quia appetitus sensitiuus rationi obedit. potentia 
+          <lb ed="#P" n="106"/>vegetatiua est omnino irrationalis. i. etichorum. 
+          <lb ed="#P" n="107"/>nullo modo anime obedit in actibus suis. quanuis 
+          <lb ed="#P" n="108"/>enin sit in potestate anime exhibere ei materiam in 
+          <lb ed="#P" n="109"/>quam agit: tamen materia exhibita non iacet 
+          in<lb ed="#P" n="110" break="no"/>dominio anime quantum ad suam operationem.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e513">
+          ¶ 
+          Quin<lb ed="#P" n="111" break="no"/>to arguitur: si deus permisisset beatitudinem anime in 
+          <lb ed="#P" n="112"/>corpus redundare: christus fuisset immortalis secundum 
+          cor<lb ed="#P" n="113" break="no"/>pus: sed christus permisit beatitudinem anime redundare 
+          <lb ed="#P" n="114"/>in corpus. igitur. tenet consequentia a tota conditio 
+          <lb ed="#P" n="115"/>nali cum positione antecedentis ad positionem 
+          <lb ed="#P" n="116"/>consequentis. minor patet. Matthei. xvii. christus 
+          <lb ed="#P" n="117"/>transfiguratus est in monte: vbi glo. Hieronimi 
+          <lb ed="#P" n="118"/>quod qualis est futurus tempore iudicii talis 
+          ap<lb ed="#P" n="119" break="no"/>paruit apostolis: sed tempore iudicii habebit 
+          do<lb ed="#P" n="120" break="no"/>tes omnes corporis: ergo ante tempore peregri 
+          <lb ed="#P" n="121"/>nationis secundum corpus eas habuit: quod restabat 
+          pro<lb ed="#P" n="122" break="no"/>bandum.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e542">
+          ¶ Respondetur concedendo illam conditiona 
+          <lb ed="#P" n="123"/>lem theologice loquendo quo ad dotes: et corporis 
+          <pb ed="#P" n="38-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>beatitudines. non pono huiusmodi accidentia a 
+          bea<lb ed="#P" n="2" break="no"/>titudine anime causata in ipso corpere. dos 
+          impas<lb ed="#P" n="3" break="no"/>sibilitatis et subtilitatis nullo modo sunt accidem 
+          <lb ed="#P" n="4"/>tia: vt in distinctione. xlix. quarti diximus: secus est 
+          <lb ed="#P" n="5"/>de claritate. et concedo quod claritas in 
+          transfiguratio<lb ed="#P" n="6" break="no"/>ne fuit eiusdem nature cum claritate in beatitudine 
+          <lb ed="#P" n="7"/>eorporum commnunium. sed an debeat vocari dos claritati 
+          <lb ed="#P" n="8"/>difficultas est verbalis. potest dici quod sic: licet 
+          tran<lb ed="#P" n="9" break="no"/>seunter: sicut visio Pauli in raptu potest dici 
+          bea<lb ed="#P" n="10" break="no"/>titudo momentanea. potest etiam dici 
+          conformi<lb ed="#P" n="11" break="no"/>us ad modum comunem loquendi: de ratione 
+          do<lb ed="#P" n="12" break="no"/>tis est quod sit perpetua et non transitoria: et sic de 
+          bea<lb ed="#P" n="13" break="no"/>titudine: consequenter ad modum loquendi Aristo. i. 
+          <lb ed="#P" n="14"/>Ethi. vii. ver enim nec vna facit irundo nec vnus 
+          di<lb ed="#P" n="15" break="no"/>es: et beatum eodem modo felicem ve necvnus dies 
+          <lb ed="#P" n="16"/>aut breue efficit tempus. christus tamen non habuit 
+          doten<lb ed="#P" n="17" break="no"/>impassibilitatis.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e589">
+          ¶ Ad formam ergo argumenti: ne 
+          <lb ed="#P" n="18"/>go quod christus in transfiguratione habuit dotes 
+          corpo<lb ed="#P" n="19" break="no"/>ris: immo nullam habuit dotem: et si dotem clarita 
+          <lb ed="#P" n="20"/>tis pro tempore habuit: non habuit dotem 
+          impas<lb ed="#P" n="21" break="no"/>sibilitatis: et sic mori poterat.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e600">
+          ¶ Ex omnibus his 
+          <lb ed="#P" n="22"/>patet quod mors christi fuit voluntaria in 
+          compara<lb ed="#P" n="23" break="no"/>tione ad voluntatem christi. quia ipsam voluit: et 
+          <lb ed="#P" n="24"/>ipsa ei placuit. fuit tamen violenta: quia contra 
+          <lb ed="#P" n="25"/>naturalem inclinationem anime: et nature 
+          disconue<lb ed="#P" n="26" break="no"/>niens. etiam fuit accelerata: quia mortuus ante dipsam 
+          <lb ed="#P" n="27"/>et gipsam: in quorum medio pendebat: ob 
+          maio<lb ed="#P" n="28" break="no"/>res dolores et tristicias quas habuit quam ipsi 
+          ha<lb ed="#P" n="29" break="no"/>buerunt: ne ossa sua minuerentur more latronum duorum 
+          <lb ed="#P" n="30"/>secum pendentium. potest dici tamen naturalis / ad hunc 
+          <lb ed="#P" n="31"/>sensum: quia naturale est animam seperari a corpore in 
+          <lb ed="#P" n="32"/>disposito: sicut naturale est animam vniri 
+          corpori<lb ed="#P" n="33" break="no"/>disposito quanto forma est perfectior tanto maiorem 
+          <lb ed="#P" n="34"/>dispositionem in corpore requirit. et sic non fuisset 
+          <lb ed="#P" n="35"/>naturale quod christus vixisset post illos dolores et 
+          tri<lb ed="#P" n="36" break="no"/>sticias inflictas: sed magis fuisset supernaturale 
+          <lb ed="#P" n="37"/>et miraculosum.
+        </p>
+        <p xml:id="jm3cbb-e22598-d1e637">
+          ¶ Miraculum tamen fuit emittere spnn 
+          <lb ed="#P" n="38"/>cum clamore valido: vt patet Matthei. xxvii. et 
+          <lb ed="#P" n="39"/>alia miracula contigerunt: sic scilicet: quod Centurio 
+          <lb ed="#P" n="40"/>coactus est dicere / vere filius dei erat homo iste:
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="34-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e20506"><!-- l3d15q1 -->
+        <head xml:id="jm3cbb-e20506-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e20506-Hd1e101" type="question-title">An Christus passus est verum dolorem cum tristitia</head>
+        <p xml:id="jm3cbb-e20506-d1e104">
+          <lb ed="#P" n="99"/>CIrca hanc 
+          distin<lb ed="#P" n="100" break="no"/>ctionem quintandecimam: in 
+          qua<lb ed="#P" n="101" break="no"/>magister loquitur de passions 
+          <lb ed="#P" n="102"/>christi: tres mouebo 
+          questio<lb ed="#P" n="103" break="no"/>nes. Prima erit: an in christo 
+          <lb ed="#P" n="104"/>erat verus dolor cum tristicia. 
+          <lb ed="#P" n="105"/>Secunda: an erat dolor in christo 
+          <lb ed="#P" n="106"/>secundum sensum et omnem anime portionem. Tertia: an 
+          cru<lb ed="#P" n="107" break="no"/>ciatus christi fuit maximus inter reliquos quos 
+          san<lb ed="#P" n="108" break="no"/>ctorum aliquis pertulit.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e128">
+          ¶ Primo ergo queritur: 
+          <lb ed="#P" n="109"/>an christus passus est verum dolorem cum tristicia. 
+          Pro<lb ed="#P" n="110" break="no"/>questionis solutione in primis declarandum est quid 
+          <lb ed="#P" n="111"/>sit dolor / tristitia / et de modo generationis eorum 
+          <lb ed="#P" n="112"/>holor est qualitas extensa sensui extetiori vel in 
+          <lb ed="#P" n="113"/>teriori inherens: vt. xvi distin secundi diximus. 
+          potem<lb ed="#P" n="114" break="no"/>tias sensitiuas ab anima distingui: intellectum 
+          tamen<lb ed="#P" n="115" break="no"/>et voluntatem idemptificari cum anima ponimus. 
+          Appli<lb ed="#P" n="116" break="no"/>cando hoc circa materiam de dolore: dicitur: conium 
+          <lb ed="#P" n="117"/>ctio obiectorconuenientium sensui causat delectatio 
+          <lb ed="#P" n="118"/>nem: hoc est passionem extensam conuenientem sensui: vt 
+          <lb ed="#P" n="119"/>in patientefamen velsitim cibus vel potyus conue¬ 
+          <pb ed="#P" n="34-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>niens appositus voluptatem causat in sensu gustus et 
+          <lb ed="#P" n="2"/>tactus. sic dulcis sonus cymbalorum benesonantium: 
+          <lb ed="#P" n="3"/>et pulchra visibilia apprehensa: delectationes in 
+          <lb ed="#P" n="4"/>suis sensibus causant. per oppositum: obiecta 
+          dis<lb ed="#P" n="5" break="no"/>conuenientia dolorem in sensibus generant: vt 
+          pa<lb ed="#P" n="6" break="no"/>tet de asinorum rugitibus: turpibus visibilibus: 
+          se<lb ed="#P" n="7" break="no"/>toribus / et ceteris id genus. et forte sensationes 
+          <lb ed="#P" n="8"/>obiectorum coniunctorum: sine actibus 
+          appeti<lb ed="#P" n="9" break="no"/>tus sensitiui preuiis: causant has passiones 
+          dolo<lb ed="#P" n="10" break="no"/>rem / et voluptatem in sensibus. tristitia autem et 
+          gau<lb ed="#P" n="11" break="no"/>dium sunt passiones spuitales anime inherentes. 
+          <lb ed="#P" n="12"/>et per consequens indiuisibiles extensiue. aliqui 
+          <lb ed="#P" n="13"/>tamen hec vocabulaconfundunt: dolorem pro 
+          tri<lb ed="#P" n="14" break="no"/>stitia ponentes: et contra: sed de nominbus non est 
+          <lb ed="#P" n="15"/>certandum. sufficit in re quod sint tales qualitates 
+          ex<lb ed="#P" n="16" break="no"/>tense et inextense suis subiectis inherentes: que 
+          <lb ed="#P" n="17"/>vsitate apud sapientes his nominibus vocantur: 
+          qui<lb ed="#P" n="18" break="no"/>bus vsi sumus. gaudium causatur ex volitione 
+          rei<lb ed="#P" n="19" break="no"/>desiderate: quando putatur haberi. et quato magis 
+          <lb ed="#P" n="20"/>desiderata fuerit / et intensiore volitione: maius 
+          <lb ed="#P" n="21"/>gaudium generatur
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e204">
+          ¶ Tristitia ex nolitione 
+          gene<lb ed="#P" n="22" break="no"/>ratur. et hoc multiplicitemr primo generatur tristi 
+          <lb ed="#P" n="23"/>tia a nolitione cathegorica: vt quando 
+          cognosci<lb ed="#P" n="24" break="no"/>tur aliquid esse vel fore circa quod homo habet nol 
+          <lb ed="#P" n="25"/>le: generatur tristitia. si quis autem habuerit nolle 
+          <lb ed="#P" n="26"/>circa a. et credit quod a. non erit: illud nolle non 
+          gene<lb ed="#P" n="27" break="no"/>rat in eo tristiciam. sed si existimat b. futurum quod 
+          <lb ed="#P" n="28"/>nult: tunc generatur in eo tristitia mere 
+          naturali<lb ed="#P" n="29" break="no"/>ter. declaro hoc exemplariter: si nollem sortem 
+          habi<lb ed="#P" n="30" break="no"/>turum a. honorem: et iudicem ipsum habiturum a hono 
+          <lb ed="#P" n="31"/>rem: in me generatur tristitia. sed si alius nolit idem 
+          <lb ed="#P" n="32"/>obiectum: et iudicet sortem non consequuturum illud: 
+          <lb ed="#P" n="33"/>alius non tristabitur. Ex isto patet quod sola nolitio 
+          <lb ed="#P" n="34"/>non est causa productiua tristitie. patet: est 
+          noli<lb ed="#P" n="35" break="no"/>tio in alio sicut in me: et tamen in eo non est 
+          tristi<lb ed="#P" n="36" break="no"/>tia. immo stat quod sit gaudium in eo. ergo nolitio in 
+          me<lb ed="#P" n="37" break="no"/>circa obiectum nolitum: et iudicium quod obiectum 
+          <lb ed="#P" n="38"/>eueniet: naturaliter causant tristiciam: sicut due 
+          cau<lb ed="#P" n="39" break="no"/>se partiales.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e247">
+          ¶ Sed contra istud arguitur sic. 
+          pe<lb ed="#P" n="40" break="no"/>trus et Magdalena in patria iudicabunt quod 
+          pec<lb ed="#P" n="41" break="no"/>cauerunt: et respectu peccatorum suorum habent no 
+          <lb ed="#P" n="42"/>litiones: et tamen non tristantur. ergo iste due 
+          cau<lb ed="#P" n="43" break="no"/>se partiales recitate: non generant tristitiam. cum 
+          <lb ed="#P" n="44"/>eam non generent in omne passum susceptiuum. 
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e260">
+          <lb ed="#P" n="45"/>¶ Secundo arguitur. generatur tristitia: et a 
+          nul<lb ed="#P" n="46" break="no"/>la nolitione preuia: ergo non requiritur nolitio ad 
+          <lb ed="#P" n="47"/>generationem tristitie. antecedens patet: posito quod 
+          <lb ed="#P" n="48"/>ego velim amicum meum viuere: quem protinus 
+          iudi<lb ed="#P" n="49" break="no"/>co moriturum. iam tristor: et non habeo nolle.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e273">
+          ¶ Ad 
+          <lb ed="#P" n="50"/>primum respondetur concedendo quod nolitiones ille 
+          <lb ed="#P" n="51"/>non generant tristitiam in beatis: quia habent 
+          excel<lb ed="#P" n="52" break="no"/>lentia gaudia. modo excellens gaudium tristitiam 
+          <lb ed="#P" n="53"/>impertinentem non admittit: hoc est tristitiam non a 
+          <lb ed="#P" n="54"/>tota specie contrariam. vii. ethicorum. Secundo: 
+          de<lb ed="#P" n="55" break="no"/>us non concurrit ad illam tristitiam generandam.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e289">
+          ¶ Ad 
+          <lb ed="#P" n="56"/>secundum argumentum concedo quod in illo casu tristor. 
+          <lb ed="#P" n="57"/>et potest dici forte / quod volitio vite amici mei: cum 
+          <lb ed="#P" n="58"/>iudicio quod morietur: naturaliter producunt 
+          nolitio<lb ed="#P" n="59" break="no"/>nem mortis. modo ex nolitione mortis amici: et 
+          <lb ed="#P" n="60"/>iudicio quod morietur: generatur tristitia. Aliqui 
+          di<lb ed="#P" n="61" break="no"/>cerent quod volitio alicuius rei est nolitio sui oppo¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>siti: sicut assensus vnius propositionis est 
+          disten<lb ed="#P" n="63" break="no"/>sus sui oppositi. sed hoc alias reprobauimus. 
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e311">
+          <lb ed="#P" n="64"/>¶ Sed contra hoc arguitur. si michi nunc 
+          signifi<lb ed="#P" n="65" break="no"/>cetur aliquod grande infortunium michi vel 
+          ami<lb ed="#P" n="66" break="no"/>cis meis accidere: non possum non tristari: saltem 
+          <lb ed="#P" n="67"/>sine magno iuuamine preuio: vt post hoc statim 
+          <lb ed="#P" n="68"/>dicemus: et tamen possum non elicere volitionem 
+          <lb ed="#P" n="69"/>aut nolitionem: hoc patet ex libertate voluntatis: 
+          er<lb ed="#P" n="70" break="no"/>go ex sola apprehensione alicuius multum 
+          displici<lb ed="#P" n="71" break="no"/>bilis (sine aliquo actu voluntatis preuio) 
+          genera<lb ed="#P" n="72" break="no"/>tur tristitia. et per consequens inane erat in 
+          solu<lb ed="#P" n="73" break="no"/>tione precedente dicere / quod volitio illa cum iudicio 
+          <lb ed="#P" n="74"/>naturaliter producat nolitionem: et nolitio 
+          tristiti<lb ed="#P" n="75" break="no"/>am: cum tristicia sine nolitione potest haberi. nec 
+          sus<lb ed="#P" n="76" break="no"/>ficienter constat: an illa volitio et illud iudicium 
+          na<lb ed="#P" n="77" break="no"/>turaliter illam nolitionem producant.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e344">
+          ¶ 
+          Confirma<lb ed="#P" n="78" break="no"/>tur hoc: secundum alios sola sensatio sine actu appetiius 
+          <lb ed="#P" n="79"/>sensitiui preuio producit dolorem vel voluptatem 
+          <lb ed="#P" n="80"/>sensitiuam: ergo per idem non est negandum quin 
+          no<lb ed="#P" n="81" break="no"/>ticia poterit producere tristiciam.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e356">
+          ¶ Istud 
+          argu<lb ed="#P" n="82" break="no"/>mentum michi suadet sufficienter quod tristicia et ad 
+          <lb ed="#P" n="83"/>prehensione magna displicibilis geneoratur 
+          natura<lb ed="#P" n="84" break="no"/>liter: sine aliquo actu voluntatis praeuio.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e365">
+          ¶ Et iste 
+          <lb ed="#P" n="85"/>sit secundus modus generationis tristicie: et per 
+          con<lb ed="#P" n="86" break="no"/>sequens in casu illius argumenti quo volo 
+          amicum<lb ed="#P" n="87" break="no"/>viuere quem iudico moriturum: tristor sed illa 
+          tristi<lb ed="#P" n="88" break="no"/>cia generatur a solo illo iudicio qui iudico talem 
+          mori<lb ed="#P" n="89" break="no"/>turum stante amicitia habituali. et si amor 
+          actua<lb ed="#P" n="90" break="no"/>lis insurgat augetur tristicia: potest ergo tristicia 
+          <lb ed="#P" n="91"/>generari a volitione: cum iudicio quod non eueniet illud 
+          <lb ed="#P" n="92"/>quod est volitum. sed communiter a nolitione generatur: 
+          <lb ed="#P" n="93"/>secundum illud Aug. xiiii. de ciuitate dei. ca. xv. tristicia 
+          <lb ed="#P" n="94"/>est de his rebus que nobis nolentibus accidunt. 
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e389">
+          <lb ed="#P" n="95"/>¶ Tertio arguitur: nolo mortem amici ita 
+          inten<lb ed="#P" n="96" break="no"/>se post mortem eius ad duos annos sicut quando 
+          <lb ed="#P" n="97"/>primo offertur intellectui meo: sed tunc non tristor 
+          <lb ed="#P" n="98"/>sicut quando primo presentatur mihi: et tamen cum 
+          <lb ed="#P" n="99"/>hoc iudico ita certitudinaliter quod est mortuus 
+          si<lb ed="#P" n="100" break="no"/>cut in principio: ergo nolitio et iudicium nullo 
+          mo<lb ed="#P" n="101" break="no"/>do generant tristiciam.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e407">
+          ¶ Quarto arguitur: ex 
+          di<lb ed="#P" n="102" break="no"/>ctis sequitur quod tristicia non est in potestate 
+          tristan<lb ed="#P" n="103" break="no"/>tis. consequens est falsum: consequentia patet: quia 
+          <lb ed="#P" n="104"/>mere naturaliter producitur.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e416">
+          ¶ Tertium 
+          argumen<lb ed="#P" n="105" break="no"/>tum querit difficultatem qualitercumque dicatur de 
+          ge<lb ed="#P" n="106" break="no"/>neratione tristicie: siue per apprehensionem 
+          displi<lb ed="#P" n="107" break="no"/>cibilis: siue per nolitionem et iudicium. Ad quod 
+          ar<lb ed="#P" n="108" break="no"/>gumentum dico: diu post mortem non habeo ita 
+          intem<lb ed="#P" n="109" break="no"/>sum nolle sicut in principio: nec habitus amicitie 
+          <lb ed="#P" n="110"/>in me erga amicum est ita magnus sicut erat in 
+          pri<lb ed="#P" n="111" break="no"/>cipio: ergo cause productiue tristicie sunt 
+          mino<lb ed="#P" n="112" break="no"/>res: et per consequens tristicia est minor. et si ille 
+          <lb ed="#P" n="113"/>cause adhuc non sunt diminute: tristicia erit ita 
+          ma<lb ed="#P" n="114" break="no"/>gna sicut erat in principio: si non ponatur obex 
+          ali<lb ed="#P" n="115" break="no"/>us.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e442">
+          ¶ Pro cuius intelligentia scito: si ponatur 
+          pati<lb ed="#P" n="116" break="no"/>entia in viro: cause iste naturales parum tristicie 
+          pro<lb ed="#P" n="117" break="no"/>ducent. et si patientia fuerit mirabiliter magna: stat 
+          <lb ed="#P" n="118"/>quod nihil tristicie generent: vt patet in Iob. etiam 
+          <lb ed="#P" n="119"/>homo munit se successu temporis: et suam animam 
+          dis<lb ed="#P" n="120" break="no"/>ponit ad non susceptionem tristitie considerando 
+          fra<lb ed="#P" n="121" break="no"/>gilitatem humanam: et quod moriendum est: et in domino gaudem 
+          <lb ed="#P" n="122"/>dum: et sic in ceteris huiusmodi displicibilibus: propterea 
+          <pb ed="#P" n="35-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ex industria callidissimus demon vnum infortuitum 
+          <lb ed="#P" n="2"/>repente post aliud fecit reserare ipsi Iob: quatenus 
+          <lb ed="#P" n="3"/>ipsum tristicia absorberet. et contra deum murmura 
+          <lb ed="#P" n="4"/>ret: ne posset se munire contra tristitiam si tmpristus 
+          suffici<lb ed="#P" n="5" break="no"/>ens haberet inter infortunia. sed Iob magnanimus 
+          <lb ed="#P" n="6"/>patientia habituatus antea. protinus 
+          infortuni<lb ed="#P" n="7" break="no"/>is auditis: dicebat: domins dedit domins abstulit: sicut 
+          <lb ed="#P" n="8"/>dmno placuit ita factum est: sit nomemn domini benedictum: 
+          <lb ed="#P" n="9"/>ergo nichilifecit tam bona caduca fortune quam 
+          filio<lb ed="#P" n="10" break="no"/>rum mortem: in domno iactans cogitatum suum. etiam a 
+          <lb ed="#P" n="11"/>deo erat specialiter adiutus: hoc apprehendebat 
+          <lb ed="#P" n="12"/>demon / deo inquiens: nonne tu vallasti eum et 
+          do<lb ed="#P" n="13" break="no"/>mum eius: vniuersamque substantiam eius per 
+          circui<lb ed="#P" n="14" break="no"/>tum.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e495">
+          ¶ Contra istud arguitur: christus erat 
+          patientissi<lb ed="#P" n="15" break="no"/>mus: in eo tamen generabatur tristitia magna: 
+          <lb ed="#P" n="16"/>ergo solutio nulla. Ad hoc respondebitur post hac. 
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e502">
+          <lb ed="#P" n="17"/>¶ Ad quartum nego sequelam. est mediate in 
+          potesta<lb ed="#P" n="18" break="no"/>te nostra: quia sue cause sunt in potestate nostra: 
+          <lb ed="#P" n="19"/>scilbe velle vel nolle: mediantibus quibus 
+          produci<lb ed="#P" n="20" break="no"/>tur noticia. et licet a solis noticiis apprehensiuis 
+          <lb ed="#P" n="21"/>et iudicatiuis producatur: adhuc tristitia est in 
+          po<lb ed="#P" n="22" break="no"/>testate nostra: cum possumus nos munire ne cause 
+          <lb ed="#P" n="23"/>productiue tristitie possunt in nos aliquid 
+          gene<lb ed="#P" n="24" break="no"/>rare: tamen noticie sunt in potestate nostra: cum 
+          <lb ed="#P" n="25"/>eas possumus ad nutum abolere. ¶Tertio modo 
+          <lb ed="#P" n="26"/>tristitia generatur de obiecto non absolute 
+          noli<lb ed="#P" n="27" break="no"/>to: sed absolute volito: et conditionaliter nolito. 
+          <lb ed="#P" n="28"/>Exemplum: quando sortes mercator eiicit caras 
+          <lb ed="#P" n="29"/>merces in mari gratia nauis exonerande 
+          tempore<lb ed="#P" n="30" break="no"/>tempestatis: tunc tristatur: et tamen efficaciter libere 
+          <lb ed="#P" n="31"/>et cathegorice vult res suas eiicere: vt libertas 
+          <lb ed="#P" n="32"/>contra coactionem distinguatur: non autem contra timo 
+          <lb ed="#P" n="33"/>rem: cum membris motiuis imperet vel aliis in 
+          <lb ed="#P" n="34"/>naui vt res suas eiiciant. proiicit libere: vel facit 
+          <lb ed="#P" n="35"/>alios eiicere res suas: ergo absolute vult: et 
+          tamen<lb ed="#P" n="36" break="no"/>conditionaliter nult. quia si posset aliter euadere: 
+          <lb ed="#P" n="37"/>res suas nolet eiicere. illa nolitio conditionata si 
+          <lb ed="#P" n="38"/>non sit sufficiens ad exeundum in opus: tamen 
+          suffi<lb ed="#P" n="39" break="no"/>cienter generat tristitiam: vt in multis casibus in 
+          no<lb ed="#P" n="40" break="no"/>bis experimur.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e557">
+          ¶ Contra illud arguitur: 
+          sequi<lb ed="#P" n="41" break="no"/>tur quod mercator magis gaudet quam tristetur res 
+          su<lb ed="#P" n="42" break="no"/>as eiiciendo: illic est magis de volito quam nolito: 
+          <lb ed="#P" n="43"/>secundum Aristot. iii. Ethicorum. i. et iam diximus. velle 
+          <lb ed="#P" n="44"/>causat gaudium sicut nolle tristitiam: ergo magis 
+          <lb ed="#P" n="45"/>gaudet mercator de eiectione rerum.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e570">
+          ¶ Respondetur 
+          <lb ed="#P" n="46"/>gaudium de vno obiecto et tristitia de alio non 
+          re<lb ed="#P" n="47" break="no"/>pugnant. nec de eodem obiecto: dummodo a variis 
+          <lb ed="#P" n="48"/>noticiis causantur. si res non sint ei multum cordi: 
+          <lb ed="#P" n="49"/>et credit per earum eiectionem saluari: non multum 
+          tri<lb ed="#P" n="50" break="no"/>stabitur. si contra: multum tristabitur. sufficit ergo 
+          <lb ed="#P" n="51"/>nobis quod nolitio conditionata tristitiam generet: 
+          da<lb ed="#P" n="52" break="no"/>to quod volitio causet gaudium.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e588">
+          ¶ Quarto modo 
+          <lb ed="#P" n="53"/>secundum communem viam generatur tristitia a nolitione 
+          <lb ed="#P" n="54"/>naturali cum cognitione. illa nolitio naturalis non 
+          <lb ed="#P" n="55"/>est aliquis actus positiuus a voluntate distinctus: 
+          <lb ed="#P" n="56"/>sed est ipsa voluntas. dicit enim modus communis quod 
+          <lb ed="#P" n="57"/>voluntas vt natura / aliqua refugit: vt puta 
+          om<lb ed="#P" n="58" break="no"/>ne quod est ei nociuum: vt separationem a corpore: 
+          <lb ed="#P" n="59"/>q uia appetitu naturali appetit corpori vniri. et 
+          <lb ed="#P" n="60"/>taunc si intellectus voluntati ostendat 
+          separatio<lb ed="#P" n="61" break="no"/>nem anime a corpore: causatur in voluntate tristi¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>tia sine aliquo actu voluntatis positiuo preuio: et 
+          <lb ed="#P" n="63"/>hic modus a secundo non plurimum differt.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e617">
+          ¶ Quinto 
+          <lb ed="#P" n="64"/>modo causatur tristitia a dolore. volun tas pro hoc 
+          <lb ed="#P" n="65"/>statu sic est sensui coniuncta: si dolor fuerit in 
+          sen<lb ed="#P" n="66" break="no"/>su: tristitiam causat in voluntate. et si delectatio 
+          fue<lb ed="#P" n="67" break="no"/>rit in sensu causatur spiritualis delectatio vel ga: 
+          <lb ed="#P" n="68"/>dium in voluntate sine aliquo actu preuio: et sic si 
+          <lb ed="#P" n="69"/>aliqua virgo a tyranno violente cognita fuerit: 
+          <lb ed="#P" n="70"/>in ea generabitur gaudium sine eius culpa: que 
+          qui<lb ed="#P" n="71" break="no"/>dem delectatio spuimalis a delectatione sensus 
+          ge<lb ed="#P" n="72" break="no"/>nerabitur. Sic enin ponitur aliqua delectatio 
+          sur<lb ed="#P" n="73" break="no"/>repticia precedere in voluntate omnem actum 
+          li<lb ed="#P" n="74" break="no"/>berum voluntatis. et sicut ponitur in 
+          delectationi<lb ed="#P" n="75" break="no"/>bus surrepticiis: ita potest poni in tristiciist do 
+          <lb ed="#P" n="76"/>loribus respectu obiectorum tristium. vt sicut intelle 
+          <lb ed="#P" n="77"/>ctus cooperatur sensui fortiter immutato: si non 
+          <lb ed="#P" n="78"/>sit circa alia distractus: ita voluntas compatitur 
+          <lb ed="#P" n="79"/>appetitui fensitiuo patienti circa idem obiectum: si 
+          <lb ed="#P" n="80"/>non impediatur voluntas aliunde per aliud 
+          impe<lb ed="#P" n="81" break="no"/>dimentum.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e660">
+          ¶ Contra quartum modum arguitur sic: 
+          <lb ed="#P" n="82"/>occidens voluntarie seipsum: quemadmodum 
+          fe<lb ed="#P" n="83" break="no"/>cit Achithophel: non tristatur secundum animam: licet 
+          do<lb ed="#P" n="84" break="no"/>leat secundum sensum: et tamen corruptio illa est 
+          volun<lb ed="#P" n="85" break="no"/>tati disconueniens vt natura. Preterea. martyres 
+          <lb ed="#P" n="86"/>ibant letanter et cum mentis leticia ad mortem et 
+          <lb ed="#P" n="87"/>ad carceres: iuxta illud Actuum. v. de apostolis. 
+          <lb ed="#P" n="88"/>apostoli enin gaudentes ibant a facie concilii: quia 
+          <lb ed="#P" n="89"/>digni habiti sunt pro nomine Iesu contumeliam 
+          <lb ed="#P" n="90"/>pati: et gaudium mentis non compatitur tristiciam de 
+          <lb ed="#P" n="91"/>eodem obiecto. res enim insensibiles habent 
+          na<lb ed="#P" n="92" break="no"/>turalem appetitum ad sui esse: per quod naturaliter 
+          <lb ed="#P" n="93"/>resistunt corrumpenti. sed quia non habent aliquem 
+          <lb ed="#P" n="94"/>actum elicitum: ex eorum corruptione non habent 
+          do<lb ed="#P" n="95" break="no"/>lorem vel tristitiam. idem videtur de voluntate vt est 
+          <lb ed="#P" n="96"/>appetitus naturalis.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e695">
+          ¶ He rationes quartum 
+          mo<lb ed="#P" n="97" break="no"/>dum non sufficienter reprobant.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e700">
+          ¶ Ad primum 
+          argu<lb ed="#P" n="98" break="no"/>mentum negetur quod Achitophel non tristatus fuisset 
+          <lb ed="#P" n="99"/>secundum animam in morte.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e707">
+          ¶ Ad secundum argumentum. 
+          di<lb ed="#P" n="100" break="no"/>ceretur. quod tristicia in anima genita vt natura non 
+          con<lb ed="#P" n="101" break="no"/>trariatur leticie habite per desiderium volendi 
+          pa<lb ed="#P" n="102" break="no"/>ti: per varias apprehensiones / idem potest esse 
+          vo<lb ed="#P" n="103" break="no"/>litum et nolitum: vt alibi dicitur.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e718">
+          ¶ Ad tertium dico 
+          <lb ed="#P" n="104"/>appetitus rei naturalis non requirit preuiam 
+          cogni<lb ed="#P" n="105" break="no"/>tionem rei appetende vel fugiende: ideo in ea non 
+          ge<lb ed="#P" n="106" break="no"/>neratur tristitia. sed voluntas vt natura habet 
+          co<lb ed="#P" n="107" break="no"/>gnitionem preuiam ministratam per intellectum. ideo 
+          li<lb ed="#P" n="108" break="no"/>cet non habeat actum elicitum: non obstante trista 
+          <lb ed="#P" n="109"/>bitur. si vero poneretur tantus dolor in appetitu 
+          <lb ed="#P" n="110"/>fensitiuo vel delectatio / vt intellectus non 
+          appre<lb ed="#P" n="111" break="no"/>henderet et non haberet vsum rationis: tunc non 
+          <lb ed="#P" n="112"/>habebit tristiciam plusquam res insensibilis. Non 
+          ne<lb ed="#P" n="113" break="no"/>go quin quartus modus non sufficienter probatur: 
+          <lb ed="#P" n="114"/>sicut nec sufficienter reprobatur. Nec quintus 
+          mo<lb ed="#P" n="115" break="no"/>dus sufficienter probatur. Ad illum dicetur quod vio 
+          <lb ed="#P" n="116"/>lente corrupta solum delectatur secundum sensum tactus: 
+          <lb ed="#P" n="117"/>sed non habebit leticiam in mente: et diceretur 
+          <lb ed="#P" n="118"/>quod volitiones surrepticie non sunt in potestate 
+          vo<lb ed="#P" n="119" break="no"/>luntatis: sed causantur ex apprehensione 
+          intel<lb ed="#P" n="120" break="no"/>lectus et a voluntate: et postea eadem 
+          naturali<lb ed="#P" n="121" break="no"/>tate ac necessitate delectationem causant. 
+          Ecce<lb ed="#P" n="122" break="no"/>m pelore quins modos recitatos de tristitievel 
+          <pb ed="#P" n="35-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>gaudii generatione: quorum tres primos credo ve 
+          <lb ed="#P" n="2"/>ros sine scrupulo. duo postremi modi sunt 
+          proba<lb ed="#P" n="3" break="no"/>biles: et communis scola hos ponit: propterea quinqe 
+          <lb ed="#P" n="4"/>hos modos pono.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e775">
+          ¶ His praesuppositis respondetur 
+          <lb ed="#P" n="5"/>affirmatiue ad questionem per duas conclusiones 
+          <lb ed="#P" n="6"/>Quarum prior est. christus vere prassus est dolores pro 
+          <lb ed="#P" n="7"/>nobis. Secunda conclusio. christus passus est pr nobis 
+          <lb ed="#P" n="8"/>tristiciam. Prior conclusio patet: fuit applicatio 
+          ob<lb ed="#P" n="9" break="no"/>iectorum disconuenientium sensibus christi. modo 
+          acti<lb ed="#P" n="10" break="no"/>uo et passiuo approximatis secluso impedimento 
+          <lb ed="#P" n="11"/>ponitur actio. hic non fuit impedimentum. Et 
+          pa<lb ed="#P" n="12" break="no"/>tet eadem conclusio Esaie. liii. Uere dolores meos 
+          <lb ed="#P" n="13"/>ipse portauit. et Damascenus. c. xiiii. tertii. Diuima 
+          <lb ed="#P" n="14"/>voluntas in christo volebat et permittebat carni agere 
+          <lb ed="#P" n="15"/>et pati propria. sed proprium est carni cum inciditur 
+          <lb ed="#P" n="16"/>fortiter percutitur: pati dolorem: igitur.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e805">
+          ¶ Secunda 
+          con<lb ed="#P" n="17" break="no"/>clusio patet Mat. xxvi. cepit contristari et mestus 
+          <lb ed="#P" n="18"/>esse. et tristis est anima mea vsque ad mortem. Et 
+          Lu<lb ed="#P" n="19" break="no"/>ce. xix. de christo scribitur: quod videns ciuitatem fleuit 
+          <lb ed="#P" n="20"/>super illam: sed fletus signum est tristitie: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e816">
+          <lb ed="#P" n="21"/>¶ Contra priorem conclusionem arguitur secundum Aus. 
+          <lb ed="#P" n="22"/>x. de trinita. c. xiii. christus mortuus est / quia voluit: 
+          <lb ed="#P" n="23"/>et quando voluit: et quomodo voluit: ergo christus 
+          <lb ed="#P" n="24"/>pio lesione sui corporis nullum penitus dolorem in 
+          <lb ed="#P" n="25"/>sensu habuit.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e829">
+          ¶ Secundo. quando mens multum 
+          rapi<lb ed="#P" n="26" break="no"/>tur circa celestia: corpus nil sentit: habinc paulus cum 
+          <lb ed="#P" n="27"/>raptus esset ad tertium celum non sentiebat ea que in 
+          <lb ed="#P" n="28"/>suo corpore gerebantur. vnde. ii. Corinthiorum. xii. 
+          <lb ed="#P" n="29"/>nesciebat vtrum raptus fuisset in corpore vel extra 
+          <lb ed="#P" n="30"/>corpus: sed christus secundum animam maxime deo 
+          coniun<lb ed="#P" n="31" break="no"/>gebatur: cum habuit charitatem infinitam. ex xiii. 
+          di<lb ed="#P" n="32" break="no"/>stinctione. et actus fruitiuus eius respectu dei 
+          fu<lb ed="#P" n="33" break="no"/>it infinitus in gradu. ergo nichil sentiebat in 
+          cor<lb ed="#P" n="34" break="no"/>pore.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e851">
+          ¶ Ad primum: concedo quod voluntas tationis 
+          <lb ed="#P" n="35"/>christi pati volebat. sed ex illo non sequitur quod 
+          appeti<lb ed="#P" n="36" break="no"/>tus sensitiuus non pateretur dolorem. appetitus 
+          sen<lb ed="#P" n="37" break="no"/>sitiuus naturaliter refugit corporis tormenta. si 
+          <lb ed="#P" n="38"/>enin quis velit quod amputaretur articulus pedis 
+          pro<lb ed="#P" n="39" break="no"/>pter aliquem morbum: vel causam rationabilem: non 
+          <lb ed="#P" n="40"/>obstante cum sensus sentit oiunctionem obiecti 
+          disco<lb ed="#P" n="41" break="no"/>uenientis dolet.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e869">
+          ¶ Ad secundum dicendum est quod non 
+          <lb ed="#P" n="42"/>est idem de Paulo et christo. christus enim erat 
+          comprehen<lb ed="#P" n="43" break="no"/>sor perfectissimus secundum animam: et viator perfectissimus 
+          <lb ed="#P" n="44"/>sundum corpus. in quo actus viatoris actum comprehen¬¬ 
+          <lb ed="#P" n="45"/>soris non impediebat:nec econuerso. secus erat de 
+          <lb ed="#P" n="46"/>Paulo: siue dicatur instantanee beatus vel ne: quia 
+          <lb ed="#P" n="47"/>hoc est de vocabulo certare: non curo.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e885">
+          ¶ Contra 
+          <lb ed="#P" n="48"/>secundam conclusionem arguitur. Eccle. iii. scribitur: 
+          <lb ed="#P" n="49"/>in tristicia non est vtilitas: sed in anima christi nulla fuit 
+          <lb ed="#P" n="50"/>passio inutilis: ergo in anima christi non fuit tristicia. 
+          <lb ed="#P" n="51"/>Confirmatur hec auctoritas per Esayam. lii. c. 
+          di<lb ed="#P" n="52" break="no"/>centem. Nono erit tristis neque turbulentus. et per 
+          sapien<lb ed="#P" n="53" break="no"/>tem prouer. xii. Non contristabit iustum quicquid 
+          acci<lb ed="#P" n="54" break="no"/>derit. et per Arist. viii. ethicorum dicentem. Omins 
+          tri<lb ed="#P" n="55" break="no"/>stitia est malum et fugiendum. et per eundem. iii. 
+          thopi<lb ed="#P" n="56" break="no"/>corum dicentem. Eadem sunt magis eligenda sine 
+          tri<lb ed="#P" n="57" break="no"/>sticia quam cum tristitia.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e910">
+          ¶ Secundo arguitur per 
+          argu<lb ed="#P" n="58" break="no"/>mentum tertium contra modum primum generationis 
+          <lb ed="#P" n="59"/>tristitie: cuius replica relinquebatur. christus erat 
+          pa<lb ed="#P" n="60" break="no"/>tientissimus: ergo non habuit tristitiam.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e919">
+          ¶ Responde 
+          <lb ed="#P" n="61"/>tur: prime ille auctoritates intelliguntur de tristi 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>tia que est contra imperium rationis et deiiclt 
+          homi<lb ed="#P" n="63" break="no"/>nem a recta ratione. Aristo. ii ethicorum conitra 
+          stoi<lb ed="#P" n="64" break="no"/>cons probat passiones animi cadere in sapientem sed 
+          <lb ed="#P" n="65"/>in proposito hec tristicia fuit voluntarie assumpta a 
+          <lb ed="#P" n="66"/>christo: sicut natura humana. et quia voluit ostendere 
+          se<lb ed="#P" n="67" break="no"/>talem natutam cealiter accepisse: accepit defectus 
+          na<lb ed="#P" n="68" break="no"/>turales inculpabiles nature. Sed dicis: cum 
+          pri<lb ed="#P" n="69" break="no"/>mum corpus christi habuit suam beatitudinem per 
+          cor<lb ed="#P" n="70" break="no"/>poris dotes: non amplius patiebatur: ergo nec 
+          ani<lb ed="#P" n="71" break="no"/>ma pati debuit cum primum habuit beatitudinem: sed 
+          <lb ed="#P" n="72"/>illam habuit a primo instanti quo erat in rerum 
+          na<lb ed="#P" n="73" break="no"/>tura: ergo non debuit pati postea tristiciam.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e952">
+          ¶ 
+          Rndo<lb ed="#P" n="74" break="no"/>detur: non est simile. fuit viator secundum corpus. et 
+          de<lb ed="#P" n="75" break="no"/>creuit pati pro nostra redemptione. et si anima 
+          affli<lb ed="#P" n="76" break="no"/>ctionis fuisset immunis: pati non poterat. cum 
+          pri<lb ed="#P" n="77" break="no"/>mum habuit corpus beatum: non amplius 
+          patieba<lb ed="#P" n="78" break="no"/>tur.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e965">
+          ¶ Ad secundum argumentum: dico ipsum est 
+          ex<lb ed="#P" n="79" break="no"/>his quodam modo solutum. Dico quod christus habuit 
+          pa<lb ed="#P" n="80" break="no"/>tientiam et virtutes omnes in gradu heroico: que 
+          <lb ed="#P" n="81"/>nullo modo tristiciam rationi conformem excludunt. 
+          <lb ed="#P" n="82"/>nec Iobfuit sine tristicia. aliqua patientia munit 
+          <lb ed="#P" n="83"/>hominem vt equanimiter ferat aduersa: et non 
+          deii<lb ed="#P" n="84" break="no"/>ciatur a ratione. christus ergo tristatus est secundum 
+          ratio<lb ed="#P" n="85" break="no"/>nem. et etiam sic timuit: secundum quod Mar. xiiii. scribitu 
+          <lb ed="#P" n="86"/>de christo: quod pauere cepit et tedere: sed aliter quam 
+          <lb ed="#P" n="87"/>nos qui sumus eius membra: sicut magister ex 
+          Hie<lb ed="#P" n="88" break="no"/>ronimo in littera allegat capi. vi nos enim causa 
+          <lb ed="#P" n="89"/>peccati nostri his defectibus necessatio 
+          subiacr<lb ed="#P" n="90" break="no"/>mus. et in nobis sunt isti defectus secundum 
+          propassio<lb ed="#P" n="91" break="no"/>nem / et passionem. sed in christo non: sed secundum propassionem. 
+          <lb ed="#P" n="92"/>tunc vero est propassio et non passio: quando quis 
+          <lb ed="#P" n="93"/>timet et tristatur conformiter ad rationem: sed ratio 
+          <lb ed="#P" n="94"/>nis limitem in nullo transcendit. sed tunc quis habci 
+          <lb ed="#P" n="95"/>passionem et propassionem: quando quis a ratione 
+          deii<lb ed="#P" n="96" break="no"/>citur per istas tristitias: ita quod mala perpetret. 
+          pa<lb ed="#P" n="97" break="no"/>tet de his qui sibi mortem consciscunt ob 
+          fugien<lb ed="#P" n="98" break="no"/>dam tristitiam: vt vticens cato / hannibal 
+          cleopa<lb ed="#P" n="99" break="no"/>tra / et huiusmodi. fortis est timidus vt homo: dicit 
+          phi<lb ed="#P" n="100" break="no"/>losophus. iii. ethicorum in materia de fortitudine: 
+          <lb ed="#P" n="101"/>hoc est secndum recta rationem sicut erat de christo. et 
+          pri<lb ed="#P" n="102" break="no"/>mo aeneidos maro non solum aeneam describens: sed 
+          <lb ed="#P" n="103"/>talem virum qualem expeteres: dicit quod timuit. 
+          in<lb ed="#P" n="104" break="no"/>quiens. Ex templo aenee friguerunt corpore memhra: 
+          <lb ed="#P" n="105"/>ergo viri fortis est timere quando oportet. et 
+          ta<lb ed="#P" n="106" break="no"/>les passiones realiter stoici negant a sapiente: vt in 
+          <lb ed="#P" n="107"/>distinc. xxxvi. huius dicemus: quod parum ad rem 
+          vel<lb ed="#P" n="108" break="no"/>nichil / ab his differebat philosophus: vt Augu. 
+          <lb ed="#P" n="109"/>existimat. Similiter irascebatur zelo ordinarissi. 
+          <lb ed="#P" n="110"/>mo Ioannis. ii. zelus domus tue comedit me 
+          qnam<lb ed="#P" n="111" break="no"/>do eiecit ementes et vendentes de templo. coniug 
+          <lb ed="#P" n="112"/>tamen vocatur mititas quando homo irascitur secundum 
+          re<lb ed="#P" n="113" break="no"/>ctam rationem solum. secundum illud psal. iiii. Irascimini et 
+          <lb ed="#P" n="114"/>nolite peccare. et patet per rationem: quia sicut ex 
+          ap<lb ed="#P" n="115" break="no"/>prehensione mali presentis causatur tristitia: sic 
+          <lb ed="#P" n="116"/>timor ex apprehensio ne mali futuri: sed talis 
+          ap<lb ed="#P" n="117" break="no"/>prehensio fuit in christo. Item: tristitia est sufficiens 
+          can<lb ed="#P" n="118" break="no"/>sa ire. ex tristitia alicui illata oritur appetitus 
+          re<lb ed="#P" n="119" break="no"/>pellendi vel vindicandi iniuriam factam. cum in 
+          <lb ed="#P" n="120"/>christo fuit tristitia: etiam sequuta est ira: non 
+          ra<lb ed="#P" n="121" break="no"/>men habuit excessum in ira: quam iracundiam 
+          <lb ed="#P" n="122"/>communius dicimus: habuit volitionem efficacem¬ 
+          <pb ed="#P" n="36-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vindicandi malefactum contra honorem dei: vt 
+          pos<lb ed="#P" n="2" break="no"/>sibilem vindicari: cum difficultate ex parte nature 
+          <lb ed="#P" n="3"/>humane: si sibi relicta fuisset: ex parte dei nulla erat 
+          <lb ed="#P" n="4"/>difficultas. hec tamen passio non fuit in christo contra 
+          <lb ed="#P" n="5"/>vel preter imperium rationis. sed secundum imperium 
+          <lb ed="#P" n="6"/>voluntatis et rationis recte. dixi cum difficultate: 
+          <lb ed="#P" n="7"/>si apprehendatur iniuria ab aliquo probo viro 
+          <lb ed="#P" n="8"/>vt non possibilis vindicari: tunc solum tristatur. si 
+          <lb ed="#P" n="9"/>apprehendatur vt possibilis vindicari sine 
+          diffi<lb ed="#P" n="10" break="no"/>cultate non in surgit passio ire: vt quando regens 
+          <lb ed="#P" n="11"/>suum scolasticum mitem percutit. et patet per 
+          si<lb ed="#P" n="12" break="no"/>mile in naturalibus: leo contra animosum animal 
+          pu<lb ed="#P" n="13" break="no"/>gnaturus / terram cauda ferit: et se calefacit: paruam 
+          <lb ed="#P" n="14"/>bestiam capiens pro preda: hoc non facit.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e1098">
+          ¶ 
+          Ec<lb ed="#P" n="15" break="no"/>ce quonam pacto doloret tristicia generentur. et quomodo 
+          <lb ed="#P" n="16"/>in christo fuit verus dolor: timor / mititas / et tristicia 
+          <lb ed="#P" n="17"/>realiter: sed omnia cum ratione. sapiens has 
+          pas<lb ed="#P" n="18" break="no"/>siones habet secundum rationem. auctoritates omnes 
+          <lb ed="#P" n="19"/>que in oppositum sonant: loquuntur de excessu in his 
+          <lb ed="#P" n="20"/>passionibus: hoc est quando sunt contra rectam ratio 
+          <lb ed="#P" n="21"/>nem: vt prouerbiorum. xviii. iustus quasi leo confidens 
+          <lb ed="#P" n="22"/>absqe timore erit.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e1118">
+          ¶ Aliter enim huiusmodi passiones 
+          <lb ed="#P" n="23"/>fuerunt in christo et in nobis. et discrimen est quo ad 
+          <lb ed="#P" n="24"/>tria. Primo ad obiectum: quia huiusmodi 
+          pas<lb ed="#P" n="25" break="no"/>siones in nobis crebro in illicita tendunt: non autem 
+          <lb ed="#P" n="26"/>in ipso.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e1130">
+          ¶ Secundo: in nohis huiusmodi passiones 
+          iudici<lb ed="#P" n="27" break="no"/>um rationis preueniunt: non sic in christo.
+        </p>
+        <p xml:id="jm3cbb-e20506-d1e1135">
+          ¶ 
+          Ter<lb ed="#P" n="28" break="no"/>tio huiusmodi passiones in nobis crebriter non sistunt 
+          <lb ed="#P" n="29"/>in appetitu sensitiuo: sed in rationem redundant: eam 
+          <lb ed="#P" n="30"/>perturbantes: et a recto retrahentes. hoc christo 
+          <lb ed="#P" n="31"/>nunquam contigit
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

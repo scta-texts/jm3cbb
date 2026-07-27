@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="152-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e92719"><!-- l3d38q2 -->
+        <head xml:id="jm3cbb-e92719-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e92719-Hd1e101" type="question-title">An omne mendacium sit mortale peccatum et exprobrabile et contemptivum factoris</head>
+        <p xml:id="jm3cbb-e92719-d1e104">
+          <lb ed="#P" n="107"/>Ecundo circa eandem 
+          <lb ed="#P" n="108"/>distinctionem. xxxviii. queritur: 
+          <lb ed="#P" n="109"/>an omne mendacium sit mortale 
+          pec<lb ed="#P" n="110" break="no"/>catum exprobrabile et 
+          contempti<lb ed="#P" n="111" break="no"/>uum factoris.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e117">
+          ¶ Rspenr: glosa super 
+          <lb ed="#P" n="112"/>illud praies. perdes omnes qui loquuntur 
+          <lb ed="#P" n="113"/>mendacium: ponit tria generia mendaciorum. s. iocosum / 
+          <lb ed="#P" n="114"/>officiosum / perniciosum. Iocosum in questione 
+          <lb ed="#P" n="115"/>praecedenti diffinitum est. Mendacium officiosum est 
+          men<lb ed="#P" n="116" break="no"/>dacium quod fit ob alicuius vtilitatem et nullius / 
+          incon<lb ed="#P" n="117" break="no"/>modum: hoc est: quod alicui prodest et nulli obest. obest 
+          <lb ed="#P" n="118"/>inquam alteri quod mentienti: ei em obest: quia mentitur et peccat. 
+          <lb ed="#P" n="119"/>Tertium mendacium est perniciosum: quod fit ex malignitate 
+          <pb ed="#P" n="152-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>et alicui nocet et nulli prodest. Insuper aduertas: aliqui 
+          <lb ed="#P" n="2"/>rum est positio quod viri perfecti peccant mortaliter quodcumque 
+          <lb ed="#P" n="3"/>genus mendacii committant propter perfectionem vite t 
+          sta<lb ed="#P" n="4" break="no"/>tus: non est autem sic in viris imperfectis. his premissis 
+          <lb ed="#P" n="5"/>pono quinque conclusiones sequentes.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e152">
+          ¶ Quarum 
+          prima<lb ed="#P" n="6" break="no"/>est. Aliquod est mendacium etiam deliberatum. non morta 
+          <lb ed="#P" n="7"/>le sed solum veniale.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e160">
+          ¶ Secunda conclusio: quod est veniale in 
+          <lb ed="#P" n="8"/>viris imperfectis est etiam veniale in viris perfectis. 
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e165">
+          <lb ed="#P" n="9"/>¶ Tertia concluso: aliquod est mendacium perniciosum 
+          veni<lb ed="#P" n="10" break="no"/>ale.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e172">
+          ¶ Quarta conclusio: aliquod est mendatium perniciosum 
+          <lb ed="#P" n="11"/>mortale et communiter ita est.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e177">
+          ¶ Quinta conclusio est: mendacium 
+          <lb ed="#P" n="12"/>est peccatum multum exprobrabile et hominem mendacem ex 
+          <lb ed="#P" n="13"/>probrabilem reddens.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e184">
+          ¶ Prima conclusio probatur de 
+          men<lb ed="#P" n="14" break="no"/>dacio iocoso et officioso per glo. super illo / perdes omnes 
+          <lb ed="#P" n="15"/>qui loquuntur mendacium: dicit. duo sunt generia mendacio 
+          <lb ed="#P" n="16"/>rum in quibus non est magna culpa: et loquitur de mendacio 
+          <lb ed="#P" n="17"/>iocoso et officioso. et magister in littera dicit illud 
+          <lb ed="#P" n="18"/>psal. perdes omnes qui loquuntur mendacium / non intelligitur 
+          <lb ed="#P" n="19"/>de omni mendacio. et patet conclusio ratione: ista duo mendacia 
+          <lb ed="#P" n="20"/>non conriantur caritati dei vel proximi: ergo non sunt 
+          pcctam<lb ed="#P" n="21" break="no"/>mortalia: propterea perniciosum est mortale peccatum vt 
+          <lb ed="#P" n="22"/>in conclusionis quarte probatione dicetur.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e206">
+          ¶ Secunda 
+          conclusio<lb ed="#P" n="23" break="no"/>probatur: iocosuet officiosum est veniale peccatum ex greede: ergo 
+          <lb ed="#P" n="24"/>in nullo est peccatum mortale ex circunstantia persone. tenet 
+          <lb ed="#P" n="25"/>consequentia: eadem prohibitione prohibetur omnibus. Insuper: si est 
+          <lb ed="#P" n="26"/>mortale viris perfectis: hoc est ex praecepto dei vel voto. 
+          <lb ed="#P" n="27"/>secundum non est duodbet. perfectus non vouit magis non mentiri 
+          <lb ed="#P" n="28"/>quam imperfectus: nec praeceptum alicuius alterius creature 
+          su<lb ed="#P" n="29" break="no"/>per hoc habet: igitur.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e225">
+          ¶ Tertia conclusio probatur: aliquis potest 
+          perni<lb ed="#P" n="30" break="no"/>ciose mentiri pro re parui momenti: ergo talis solum venia 
+          <lb ed="#P" n="31"/>liter peccabit. non alias aliquod furtum est vemiale. Secundo 
+          <lb ed="#P" n="32"/>arguitur ad idem: aliquod est mendacium veniale quod alicui no 
+          <lb ed="#P" n="33"/>cet et nulli prodest in re perui praecii: ergo dabile est aliquod 
+          perni<lb ed="#P" n="34" break="no"/>ciosum mendacium veniale. Tertio: si esset mortale / hoc 
+          <lb ed="#P" n="35"/>esnet quia perniciosum est mortale ex genedee sicut est furtum. 
+          <lb ed="#P" n="36"/>et nichilominus aliquod furtum est veniale. Quarto arguitur: 
+          <lb ed="#P" n="37"/>aliquod est mendacium perniciosum indeliberatum veniale: qua 
+          <lb ed="#P" n="38"/>non est de ratie mendacii perniciosi quod ipsum sit mortale. 
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e247">
+          <lb ed="#P" n="39"/>¶ Quarta conclusio probatur aliquod est mendacium perniciosum 
+          <lb ed="#P" n="40"/>contra charitatem deiet con charitatem proximi. 
+          exem<lb ed="#P" n="41" break="no"/>plum primi: sicut est mendacium in doctrina fidei. exem 
+          <lb ed="#P" n="42"/>plum secundi: quando est in nocumentum spirituale corporale / 
+          <lb ed="#P" n="43"/>vel in magnis bonis fortune proximi.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e260">
+          ¶ Quinta 
+          con<lb ed="#P" n="44" break="no"/>clusio probatur: homo mendax hoc lucratur quod ei non 
+          cre<lb ed="#P" n="45" break="no"/>ditur quando verum profert nec quando falsum enunciat: quia nescitur 
+          <lb ed="#P" n="46"/>quando dicit verum. secundo: mendacium numeratur inteur mondstra 
+          <lb ed="#P" n="47"/>quae odit deus Prouer. vi. Item pro turpi cretensium 
+          epi<lb ed="#P" n="48" break="no"/>theto recitat apostolus ad Titum. i. cretenses 
+          semper<lb ed="#P" n="49" break="no"/>mendaces. et maro turpi epitheto hoc 
+          carthagi<lb ed="#P" n="50" break="no"/>nensibus adiecit / tiriique bilingues vt miser sinon. 
+          <lb ed="#P" n="51"/>secundo. Enei. hoc admisit inquiens nec me miserum 
+          for<lb ed="#P" n="52" break="no"/>tuna sinonem.et artaxerses persarum rex sic menda 
+          <lb ed="#P" n="53"/>cium horruit vt tribus clauis linguam mentientes 
+          mili<lb ed="#P" n="54" break="no"/>tis perforaret.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e286">
+          ¶ Contra primam conclusionem arguitur 
+          <lb ed="#P" n="55"/>per illud Psalmiste. perdes omnes qui 
+          loquuntur<lb ed="#P" n="56" break="no"/>mendacium. et Sapien. i. os quod mentitur occidit animam. 
+          <lb ed="#P" n="57"/>sed nullus perditur nec spiritualiter occiditur nisi per 
+          <lb ed="#P" n="58"/>mortale peccatum: ergo omne mendacium est 
+          mor<lb ed="#P" n="59" break="no"/>tale peccatum. Tertio. glosa super illud Ron. xiiii. 
+          <lb ed="#P" n="60"/>Si manducauerit dampnatus est: dicit: quod qui iudicat 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>non edendum et edit dampnatus est. ipse enim se reum facit 
+          <lb ed="#P" n="62"/>quando illud quod sibi inutile asserit facit. sed omnis qui loquitur 
+          <lb ed="#P" n="63"/>mendacium facit illud quod sibi inutile cognoscit: ergo 
+          <lb ed="#P" n="64"/>damnatus est. sed nullus dampnatur nisi per mortale 
+          pecca<lb ed="#P" n="65" break="no"/>tum: ergo omne mendacium mortale peccatum est.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e315">
+          ¶ Respondetur 
+          <lb ed="#P" n="66"/>due prime auctoritates intelliguntur de mendacio per 
+          <lb ed="#P" n="67"/>nicioso. Ad tertium dicitur: glosa illa intelligitur de illo 
+          <lb ed="#P" n="68"/>qui scienter facit contra illud quod iudicat 
+          neces<lb ed="#P" n="69" break="no"/>sarium ad salutem.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e326">
+          ¶ Contra secundam conclusio 
+          <lb ed="#P" n="70"/>nem arguitur: adam non poterat primo venialiter peccare 
+          <lb ed="#P" n="71"/>propter statum in quo erat: ergo nec vir perfectus. Secundo 
+          <lb ed="#P" n="72"/>perfectus habet minorem latitudinem temperantie quam imperfecius: 
+          <lb ed="#P" n="73"/>ita quod necessitas est sibi regula teperantie. et hoc non 
+          con<lb ed="#P" n="74" break="no"/>tingit imperfectis: igitur: Tertio sic arguitur: 
+          perfe<lb ed="#P" n="75" break="no"/>ctis perfectione status ( velut sunt religiosi et 
+          pre<lb ed="#P" n="76" break="no"/>lati) creditur tanquam conseruatoribus veritatis. et si 
+          <lb ed="#P" n="77"/>mentiendo a veritate deuient: de ceteris eis non 
+          <lb ed="#P" n="78"/>creditur: quod non est sine magna iactura 
+          subdi<lb ed="#P" n="79" break="no"/>torum et status eorum: ergo omne mendacium est 
+          <lb ed="#P" n="80"/>eis mortale. Quarto auctoritate Augustini 
+          libro<lb ed="#P" n="81" break="no"/>de mendacio qui dicit quod perfectis praeceptum est 
+          omni<lb ed="#P" n="82" break="no"/>no non solum non mentiri: sed nec velle mentiri. sed 
+          <lb ed="#P" n="83"/>facere deliberate contra praeceptum est mortale peccatu: 
+          <lb ed="#P" n="84"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e362">
+          ¶ Ad primum nego antecedens vt ex secundo patuit. et 
+          an<lb ed="#P" n="85" break="no"/>tecedente concesso / consequentia nihil valet: ymo 
+          argumen<lb ed="#P" n="86" break="no"/>tum probaret si ei innitereris quod perfecti nullomodo 
+          <lb ed="#P" n="87"/>possunt venialiter peccare: quod est falsum. Ad 
+          secun<lb ed="#P" n="88" break="no"/>dum: martinus magitur in principio sui libri de 
+          temperan<lb ed="#P" n="89" break="no"/>tia dicit quod necessitas est latitudo tmperantie viris perfacatis 
+          <lb ed="#P" n="90"/>patet in conclusione. vi. sed dico illam conclusionem falsam. 
+          <lb ed="#P" n="91"/>latitudo temperantie consistit equalitur omnibus in hoc quod 
+          <lb ed="#P" n="92"/>tam perfectus quam imperfectus potest assumere cibum 
+          <lb ed="#P" n="93"/>non nocentem corpori vel anime si non habeat aliam 
+          <lb ed="#P" n="94"/>specialem prohibitionem / puta per votum vel ecclesiam / 
+          <lb ed="#P" n="95"/>vel huiusmodi. Si carthusien. comedat perdicem ( quia contra 
+          <lb ed="#P" n="96"/>votum ) regulam temperantie excedit. sed capiatur vir 
+          pe<lb ed="#P" n="97" break="no"/>ritus: et sit sortes carthusianus: sortes scit quod 
+          me<lb ed="#P" n="98" break="no"/>dia libra panis sufficit ei pro cibo: et copina vini 
+          pro<lb ed="#P" n="99" break="no"/>potu in die ieiunabili vel in alio: iudicat tamen ve 
+          <lb ed="#P" n="100"/>re quod medium vitrum vini amplius / et aliquid panis 
+          <lb ed="#P" n="101"/>amplius / ei non noceret quo ad corpus vel ad 
+          ani<lb ed="#P" n="102" break="no"/>mam: nec specialem prohibitionem habet eum 
+          pro<lb ed="#P" n="103" break="no"/>hibentem ne hoc comedat. dico quod istud maius 
+          come<lb ed="#P" n="104" break="no"/>dendo et bibendo nullo modo peccat plus quam 
+          imper<lb ed="#P" n="105" break="no"/>fectus.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e410">
+          ¶ Contra illud possunt adduci argumenta 
+          <lb ed="#P" n="106"/>tria quae facit mhartinus ad probandum condictorium istius 
+          <lb ed="#P" n="107"/>quod dico. Primo sic arguit: sacti habent pro regula quae 
+          <lb ed="#P" n="108"/>imperfecti habent pro consilio. sed necessitas 
+          respe<lb ed="#P" n="109" break="no"/>ctu imperfectorum est de consilio: ergo sanctis est de 
+          <lb ed="#P" n="110"/>praecepto. Secundo: quanto quis magis proficit in aliqua 
+          <lb ed="#P" n="111"/>virtute tanto magis nititur accedere ad verum et 
+          <lb ed="#P" n="112"/>indiuisibile medium: et apud eum diminuitur latitudo 
+          <lb ed="#P" n="113"/>medii. et patet simile in sagittantibus: quanto eni quis 
+          <lb ed="#P" n="114"/>magis exercitatus est et perfectus: vitupatur si 
+          regu<lb ed="#P" n="115" break="no"/>lariter non proximius accedat ad medium signi quam 
+          <lb ed="#P" n="116"/>minus exercitatus et perfectus. sed vir perfectus in vsu 
+          <lb ed="#P" n="117"/>delectabilium est in eis multum exercitatus: igitur. 
+          Con<lb ed="#P" n="118" break="no"/>firmat hoc auctoritate Bernardi: et est ratio tertia: 
+          <lb ed="#P" n="119"/>in via morum non progredi / retrocedere est: ergo 
+          vir<lb ed="#P" n="120" break="no"/>sanctus qui prius cum imperfectus esset habuit 
+          <pb ed="#P" n="153-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>medium tperantie mite latitudins: si non continue magi 
+          ac<lb ed="#P" n="2" break="no"/>cedatur ad medium illius medii: et faciat illud minoris 
+          lati<lb ed="#P" n="3" break="no"/>tudinis: non procedit nec progreditur in via morum: ergo retro 
+          <lb ed="#P" n="4"/>cedit et peccat. homones iste non probant suam conciionem. 
+          ma<lb ed="#P" n="5" break="no"/>ior prime rationis particularitur conceditur. statquod si sanctus tantum 
+          <lb ed="#P" n="6"/>comedat sicut intemperatus: male se haberet in 
+          cor<lb ed="#P" n="7" break="no"/>pore. sed sermo est de illo quod nocet sactom quo ad 
+          cor<lb ed="#P" n="8" break="no"/>pus et animam: alias nichil diceret. ad minorem in qui dicit 
+          <lb ed="#P" n="9"/>necessitas est de consilio rspectu imperfectorum: hoc concedo: 
+          <lb ed="#P" n="10"/>et sic dico est respectu perfector. Ad secunet nego maio 
+          <lb ed="#P" n="11"/>rem. ipsa et tinrtia ratio probarent quod homo possit: immo tenetur viuem 
+          <lb ed="#P" n="12"/>de vna faba: immo de millesima parte fabe in die: quia 
+          <lb ed="#P" n="13"/>si homo semper tenetur niti ad minorem latitudinem: et 
+          acce<lb ed="#P" n="14" break="no"/>dendo ad medium mathematicum latitudinis sue 
+          regu<lb ed="#P" n="15" break="no"/>le: non erit status: et sic sequitur illatum quod est manifeste 
+          fal<lb ed="#P" n="16" break="no"/>sum. datur minimus cibus qui sufficit virum in die natura 
+          <lb ed="#P" n="17"/>li alere: vel maximus cibus qui non sufficit: naturaliter 
+          <lb ed="#P" n="18"/>loquendo. exemplum de sagittario non probat intentum. tum 
+          <lb ed="#P" n="19"/>primo: sermo est illic de artificio. exercitatus potest 
+          meli<lb ed="#P" n="20" break="no"/>us sagittare quam non exercitatus. sie perfectus / in bona 
+          ma<lb ed="#P" n="21" break="no"/>teria tperantie assuetus / potest minus conedere  de 
+          mi<lb ed="#P" n="22" break="no"/>nore viuere quam non assuetus. sagittarius quamtumcumque 
+          fue<lb ed="#P" n="23" break="no"/>rit exercitatus / non semper magis et magis appropinque 
+          <lb ed="#P" n="24"/>bit ex habitu genito propinquius sagittando: quia semper sic 
+          tan<lb ed="#P" n="25" break="no"/>git album et signum minutissimum. Ad tertium dicitur. illa au 
+          <lb ed="#P" n="26"/>ctoritas est christi / nemo manum mittens ad aratrum et 
+          re<lb ed="#P" n="27" break="no"/>tro aspiciens. sed ad propositum: quando homo relinquit illud 
+          <lb ed="#P" n="28"/>quod est ei praeceptum / retrocedit / et illud relinquit / omittit / 
+          <lb ed="#P" n="29"/>et peccat. si intelligatur in hoc sensu de quo debet esse qrstio: 
+          <lb ed="#P" n="30"/>datis duobus sorte imperfecto qui potest comedere libram 
+          <lb ed="#P" n="31"/>in pane: et platone partecto qui potest tantum conedere sine 
+          ia<lb ed="#P" n="32" break="no"/>ctura corperis vel anime: nec est contra vnius regulam vel 
+          prae<lb ed="#P" n="33" break="no"/>ceptum ecclesie: quod plato peccat tantumi conedendosicut 
+          sor<lb ed="#P" n="34" break="no"/>tes: hoc nego / et dico esse filn. vnde hanc materiam 
+          con<lb ed="#P" n="35" break="no"/>cludendo dico: perfectus per assuefactionem comedendo de 
+          <lb ed="#P" n="36"/>magna latitudine facit peruam: dum sensim moderate de 
+          <lb ed="#P" n="37"/>scendit: tunc cum est habintuatus perua comedere / bene viuet: 
+          <lb ed="#P" n="38"/>quia teste Boetio natura paucis minimisque contenta est. 
+          <lb ed="#P" n="39"/>et si tantum conederet sicut fecit tmpre intemperantie / 
+          ledere<lb ed="#P" n="40" break="no"/>tur in corpere: et totam latitudinem sue temperantie 
+          tran<lb ed="#P" n="41" break="no"/>scendit. si conederem vel biberem inter prandium et cenam: 
+          <lb ed="#P" n="42"/>etiam in estate calida: essem alteratus per assuefactionem 
+          <lb ed="#P" n="43"/>in oppositum: in iuuentute opposito modo me habuissem: 
+          <lb ed="#P" n="44"/>sed punctum negocii est / quod perfectus qui potest viuere de a. 
+          pa<lb ed="#P" n="45" break="no"/>ne: et scit quod b. panis additus ei non nocebit: libet nulli 
+          <lb ed="#P" n="46"/>alii supueniunt quos habet allicere ad conestionem: et solus 
+          <lb ed="#P" n="47"/>est: an potest conedere b. sine peccato. et dico quod sic. et patet: im 
+          <lb ed="#P" n="48"/>perfectus vltra necessitatem: dicatur necessitas: sic potest 
+          co<lb ed="#P" n="49" break="no"/>medere d. quod scit ei non nocere: era pari forma perfectus 
+          <lb ed="#P" n="50"/>potest comedere b. in casu posito: alioquin ex sua 
+          per<lb ed="#P" n="51" break="no"/>fectione mirabilem obligationem acquireret. et idem 
+          dico<lb ed="#P" n="52" break="no"/>de mendacio veniali. Ad tertium dicitur: si perfecti mentirentur 
+          <lb ed="#P" n="53"/>in his quae ad doctrinam spectant vel iudicium / mortaliter 
+          <lb ed="#P" n="54"/>peccarent: in aliis autem solum venialiter. Ad vltimam quae 
+          <lb ed="#P" n="55"/>iacet in authoritate b. Augu. Dico quod velle mentiri 
+          <lb ed="#P" n="56"/>perniciose / est mortale peccatum.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e571">
+          ¶ Contra omnia ista arguitur: cum 
+          <lb ed="#P" n="57"/>crescant dona / rationes etiam crescunt donorum secundem Gre. 
+          <lb ed="#P" n="58"/>in omelia. sed in perfectis crescunt dona: ergo ad plura 
+          <lb ed="#P" n="59"/>obligantur. Secundo perfectus plus venialiter peccat 
+          <lb ed="#P" n="60"/>quam imperfectus mentiendo: et sic ascendendo per perfectionem 
+          <lb ed="#P" n="61"/>maiorem / dabitur tanta perfectio quod ratione ipsius veniale in 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>imperfecto erit mortale in perfecto. Tertio: si 
+          contio<lb ed="#P" n="63" break="no"/>nator inter prandendum dicat mendacium veniale: 
+          tol<lb ed="#P" n="64" break="no"/>lit totius sermonis fructum: quia nescitur quando dicit verum. 
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e593">
+          <lb ed="#P" n="65"/>¶ Ad primum respondetur illam authoritatem concedendo: qui 
+          <lb ed="#P" n="66"/>potola accepit a deo ad postola obligatur. doctus tenetur 
+          plu<lb ed="#P" n="67" break="no"/>ra explicite credere quam indocrus. non quod teneatur plures 
+          <lb ed="#P" n="68"/>here assensus actuales quam indoctus. stat quod indocius haemat 
+          <lb ed="#P" n="69"/>capacitatem actiuam refertam: et peoles assensus actuales 
+          <lb ed="#P" n="70"/>non potest habere doctus similibus naturalibus praeditus. sed 
+          <lb ed="#P" n="71"/>nego quod temperatus etiam qui ex consilio ieiunauit iam 
+          an<lb ed="#P" n="72" break="no"/>nis septem teneatur amplius ieiunare quod alius adultus 
+          ie<lb ed="#P" n="73" break="no"/>iunare potens: si non obligat se ad hoc sua spotieste per 
+          <lb ed="#P" n="74"/>votum: eodem modo non peccat mortaliter officiose et 
+          io<lb ed="#P" n="75" break="no"/>cose mentiendo de per accidens. tamen ad alios erudiendos 
+          <lb ed="#P" n="76"/>tenetur in casu quo alius imperfectior non tenetur. Ad 
+          se<lb ed="#P" n="77" break="no"/>cundum respondetur non o. Ad tertiu dicitur: non sequitur: potest 
+          po<lb ed="#P" n="78" break="no"/>nere discrimen vt populus cognoscat quando iocose 
+          loqui<lb ed="#P" n="79" break="no"/>tur: libet peccet mentiendo.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e628">
+          ¶ Circa hanc quaetionem 
+          dubi<lb ed="#P" n="80" break="no"/>tatur an veritas sit habitus / intellectualis vel habitus 
+          ap<lb ed="#P" n="81" break="no"/>petitiuus. Resnpondetur: veritas capitur biphariam. Uno modo 
+          <lb ed="#P" n="82"/>pro ppositione vera: et falsitas pro propotione slam 
+          actua<lb ed="#P" n="83" break="no"/>li vel habituali: sicut Aristot. capit. i. Peryarmenias 
+          <lb ed="#P" n="84"/>dicens: in sola compositione est veritas et falsitas: 
+          ca<lb ed="#P" n="85" break="no"/>piendo ese in: secunde intentionaliter: vel capiendo illam 
+          <lb ed="#P" n="86"/>transitiuam loco vnius / intransitiue. hoc modo veritas est in 
+          <lb ed="#P" n="87"/>intellectu sicut propositio vera: et aliqua veritas in aere / 
+          <lb ed="#P" n="88"/>vt propositio vocalis: aliqua est subam nulli inherens. 
+          Se<lb ed="#P" n="89" break="no"/>cundo modo capitur veritas pro habintu geinto ex actibus qui 
+          <lb ed="#P" n="90"/>bus homo vult prompte alii manifestare debitis circunstam 
+          <lb ed="#P" n="91"/>tiis veritatem intellectam. Secundo modo capitur in proposito: 
+          <lb ed="#P" n="92"/>huic autem veritati opponitur habitus mentiendi quo 
+          vo<lb ed="#P" n="93" break="no"/>luntas est prona ad dicendum flnm. dicei verum vel verum 
+          profer<lb ed="#P" n="94" break="no"/>re non est actus elicitus veritatis de qua loquimur. sed 
+          <lb ed="#P" n="95"/>actus / inperatus ab habitu veritatis.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e665">
+          ¶ Dubitatur an grauius 
+          <lb ed="#P" n="96"/>sit mendacium laudando se vel vituperando se: hoc est: 
+          <lb ed="#P" n="97"/>dicere se habere illa que nen habet aut negare sibi inesse 
+          <lb ed="#P" n="98"/>quae insunt. ndenr: prior est peior. probatur hoc ex arist. iiii. ethi. 
+          <lb ed="#P" n="99"/>vii. dicente: ac dissimulatores attenuantes sua / elega 
+          <lb ed="#P" n="100"/>tiores moribus esse videntur. non esii id lucri cam 
+          fa<lb ed="#P" n="101" break="no"/>cere videntur: sed fugientes timiditatem: maxime au 
+          <lb ed="#P" n="102"/>tem hi qui negant ea quae sunt praeclara: vt et socrates 
+          fa<lb ed="#P" n="103" break="no"/>ciebat. Secundo vicium quamto magis aduersatur 
+          me<lb ed="#P" n="104" break="no"/>dio virtutis tanto est peius: sic est de arrogantia 
+          re<lb ed="#P" n="105" break="no"/>spectu dissimulationis: vt Aristot. in calce capitis 
+          <lb ed="#P" n="106"/>allegati dicit. Aduersari autem arrogans ipsi 
+          veri<lb ed="#P" n="107" break="no"/>tati videtur: est enim dissimulatore deterior. 
+          Ter<lb ed="#P" n="108" break="no"/>tio arrogans est omnibus onerosus: laudat se ac si velit 
+          <lb ed="#P" n="109"/>omnibus superemineret: non est onerosus dissimulator 
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e699">
+          <lb ed="#P" n="110"/>¶ Contra illud arguitur: magis quis delinquit alium vitu 
+          <lb ed="#P" n="111"/>perando quam eum nimis laudando: ergo plus peccat seipss 
+          <lb ed="#P" n="112"/>vituperando quod seipsum nimis laudando: cum debeat 
+          <lb ed="#P" n="113"/>se plus diligere quom proximum. Secundo arguitur. pusillanimitas 
+          <lb ed="#P" n="114"/>est minus malum quam caymotes: vt patet quarti ethic. iii. c. 
+          <lb ed="#P" n="115"/>in fine: magnitudine autem anim pusillanimitas oppotitur 
+          <lb ed="#P" n="116"/>maguis quam latitudo: fit eim magi quod peius est. tunc sic: 
+          peior<lb ed="#P" n="117" break="no"/>est pusillanimitas quam caymotes: sed qui mentitur laudando 
+          <lb ed="#P" n="118"/>se diguificat se maioribus quam dignus sit: et qui mentitur vitu 
+          <lb ed="#P" n="119"/>perando se non dignificat se quibus dignus est: qrao magis 
+          pec<lb ed="#P" n="120" break="no"/>cat mentiens vituperando se quam mentiens laudando se. 
+          <lb ed="#P" n="121"/>Ad primum concedo antecedens et nego consequentiam. et ad probationem 
+          di<lb ed="#P" n="122" break="no"/>co: debet velle sibi ipsi plura bona spaalis qua proxi¬ 
+          <pb ed="#P" n="153-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>mo: et citius propriam vitam diligere ceteris paribua: 
+          <lb ed="#P" n="2"/>et plus peccat se occidendo quam alium similes. primo 
+          <lb ed="#P" n="3"/>contra communitatem cui facit iniuriam: cum auctoritate 
+          <lb ed="#P" n="4"/>propria tollat eius membrum. nullam potestatem habet in 
+          <lb ed="#P" n="5"/>corpus proprium vt seipsum sua auctoritate perimat. 
+          <lb ed="#P" n="6"/>sed occidendo equum vel canem vicini mei magis 
+          pec<lb ed="#P" n="7" break="no"/>co quam simile brutum mei occidendo: quia est res mea. sic 
+          <lb ed="#P" n="8"/>fama mea.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e751">
+          ¶ Ad secundum dicitur: non est simile de 
+          ve<lb ed="#P" n="9" break="no"/>ritate et magnanimitate difficilius est dignificare se 
+          <lb ed="#P" n="10"/>quod non dignificare se: ideo caymus magis accedit ad 
+          <lb ed="#P" n="11"/>magnanimitatem quam ad pusillanimitatem. Facilius autem 
+          <lb ed="#P" n="12"/>est homini dicere se habere bonum quod non habet 
+          <lb ed="#P" n="13"/>quam negare se habere bonum quod habet. vnde dicere se 
+          ha<lb ed="#P" n="14" break="no"/>bere bonum quod non habet / non est dignificare se. sed 
+          <lb ed="#P" n="15"/>secundum veritatem est magis se vilificare.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e769">
+          ¶ Tertio 
+          <lb ed="#P" n="16"/>arguitur probando quod equaliter peccant: equale est 
+          <lb ed="#P" n="17"/>peccatum addere vnum gradum boni quod homo non 
+          <lb ed="#P" n="18"/>habet sicut est tollere vnum gradum quod habet. 
+          si<lb ed="#P" n="19" break="no"/>cut equale est mendacium dicere quattuor 
+          impar<lb ed="#P" n="20" break="no"/>tibilia esse quinque sicut dicere quattuor esse tria: quia 
+          <lb ed="#P" n="21"/>equaliter recedunt a veritate. sed sic est de 
+          arrogan<lb ed="#P" n="22" break="no"/>te dissimulatore: igitur.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e787">
+          ¶ Quarto arguitur: stat virum 
+          <lb ed="#P" n="23"/>minora fingere vt ad maiora conscendat / vt 
+          dolo<lb ed="#P" n="24" break="no"/>se deciplat / vel vt astute contra rationem sese 
+          ele<lb ed="#P" n="25" break="no"/>uet: talis ironia est peior mendacitate.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e796">
+          ¶ Ad 
+          ter<lb ed="#P" n="26" break="no"/>tium respondetur: licet vna propositio vera non sit alia verior: 
+          <lb ed="#P" n="27"/>nec falsa alia falsior: loquendo de veritate et 
+          falsita<lb ed="#P" n="28" break="no"/>te propositionis: tamen in extremis veritatis moralis 
+          <lb ed="#P" n="29"/>vnum vicium est magis alio fugiendum.
+        </p>
+        <p xml:id="jm3cbb-e92719-d1e807">
+          ¶ Ad quartum 
+          <lb ed="#P" n="30"/>concedo quod talis dissimulator est peior mendace. 
+          <lb ed="#P" n="31"/>mixtus est: cum sit in vtroque extremo: peccat contra 
+          <lb ed="#P" n="32"/>iusticiam. est dissimulator in deficiendo a veritate. sed 
+          <lb ed="#P" n="33"/>magis in alio etremo propter finem. iii. ethicorum 
+          <lb ed="#P" n="34"/>dicit philosophus: finis operationis omnino est qui 
+          <lb ed="#P" n="35"/>secundum habitum. determinatur enim vnumquodque fine. 
+          pro<lb ed="#P" n="36" break="no"/>pterea dicit in quarto ethico. c. primo. qui dat non 
+          bo<lb ed="#P" n="37" break="no"/>ni gratia: sed propter aliquam aliam causam: non 
+          libe<lb ed="#P" n="38" break="no"/>ralis: sed alius quis dicetur. et. v. ethicorum dicitur: si hic 
+          qui<lb ed="#P" n="39" break="no"/>dem lucrandi gratia mechatur et accipiat: hic autem 
+          <lb ed="#P" n="40"/>apponens et iacturam faciens propter concupiscentias: 
+          <lb ed="#P" n="41"/>iste quidem luxuriosus vtique videbitur magis quod 
+          aua<lb ed="#P" n="42" break="no"/>rus: ille autem iniustus: luxuriosus autem non: hoc est: 
+          <lb ed="#P" n="43"/>non tantum participat de luxu sicut auaritia: sed a 
+          me<lb ed="#P" n="44" break="no"/>dio et a fine denominatur actus: patet de actu 
+          col<lb ed="#P" n="45" break="no"/>latiuo quo diligitur medium propter finem qui simul 
+          <lb ed="#P" n="46"/>est vsus fruitio. et patet per verba Aristotelis de 
+          <lb ed="#P" n="47"/>altero membro. Dicit enim: iste quidem vtique luxuriosus 
+          <lb ed="#P" n="48"/>videbitur magis quod auarus: ergo vult dicere: est auarus /  
+          <lb ed="#P" n="49"/>et luxuriosus. Ad propositum argumenti patet quod iste 
+          dis<lb ed="#P" n="50" break="no"/>simulator de quo quartum argumentum loquitur est 
+          hypo<lb ed="#P" n="51" break="no"/>crita / iniustus / intendens contra iusticiam eleuari / et 
+          do<lb ed="#P" n="52" break="no"/>losus: et hoc tangit philosophus / in littera. vides 
+          ve<lb ed="#P" n="53" break="no"/>ritas in proposito est habitus appetitiuus inclinans 
+          ho<lb ed="#P" n="54" break="no"/>minem ad veraciter loquendum: et hoc ostendendum 
+          <lb ed="#P" n="55"/>in aliis exterioribus signis. inclinat ad ostendendum 
+          <lb ed="#P" n="56"/>habentem talem qualis est tam verbo quam opere 
+          confor<lb ed="#P" n="57" break="no"/>miter ad rectam rationem: non inclinat habentem peccatam 
+          <lb ed="#P" n="58"/>occulta sua vel proximi ceteris propalare: sed 
+          tege<lb ed="#P" n="59" break="no"/>re / nisi sua coram confessore detegat. extrema ambo scilicet 
+          <lb ed="#P" n="60"/>dissimulatio et arrogantia sunt mala: sed habitua 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>arrogantie peior. mendacium iocosum (quod fit sine 
+          <lb ed="#P" n="62"/>animo dicendi falsum) est actus eutrapelie. aliud 
+          men<lb ed="#P" n="63" break="no"/>dacium est eidem virtuti aduersum: cauendum est a 
+          men<lb ed="#P" n="64" break="no"/>dacio libidinoso: vtpote quando homo capit voluptatem 
+          lo<lb ed="#P" n="65" break="no"/>quendi: et habitum dicacitatis in se generat / cum veris 
+          fal<lb ed="#P" n="66" break="no"/>sa miscendo. hoc frequenter virum in peccatis (saltem 
+          <lb ed="#P" n="67"/>venialibus  detinet: et quidem grandibus: interdum in 
+          <lb ed="#P" n="68"/>aliorum scandalum minus probabile incaute immiscendo: 
+          <lb ed="#P" n="69"/>et successiue sibi contradicendo: quia falsum difficulter 
+          <lb ed="#P" n="70"/>falso coadheret. hec sunt in viri contemptum: propterea 
+          <lb ed="#P" n="71"/>relinquantur / conculcentur. et denique explodentur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

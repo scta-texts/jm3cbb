@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="112-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e68773"><!-- l3d36q6 -->
+        <head xml:id="jm3cbb-e68773-Hd1e99">Quaestio 6</head>
+        <head xml:id="jm3cbb-e68773-Hd1e101" type="question-title">An intemperantia sit peior incontinentia vel bestialitate</head>
+        <p xml:id="jm3cbb-e68773-d1e104">
+          <lb ed="#P" n="83"/>SEcundo circa hanc 
+          ma<lb ed="#P" n="84" break="no"/>teriam queritur. an 
+          intempe<lb ed="#P" n="85" break="no"/>rantia sit peior incontinentia 
+          <lb ed="#P" n="86"/>vel bestialitate: loquor de 
+          intem<lb ed="#P" n="87" break="no"/>perantia gradu more 
+          aristote<lb ed="#P" n="88" break="no"/>lis. septimo Ethicorum. et non 
+          <lb ed="#P" n="89"/>de intemperantia vt est vicium 
+          <lb ed="#P" n="90"/>totaliter oppositum temperantie virtuti 
+          cardina<lb ed="#P" n="91" break="no"/>li. intemperans iudicat illud quod facit non esse 
+          <lb ed="#P" n="92"/>malum. et non habet concupiscentias: vel si quas 
+          <lb ed="#P" n="93"/>habeat: illas habet remissas. opposito modo est 
+          <lb ed="#P" n="94"/>de incontinente: iudicat quod male agit: sed habet 
+          ve<lb ed="#P" n="95" break="no"/>hementes passiones a quibus succumbit. 
+          bestiali<lb ed="#P" n="96" break="no"/>tas est vicium hominem deiiciens a statu 
+          huma<lb ed="#P" n="97" break="no"/>no statum pecudum versus: vt carnibus vesci 
+          hu<lb ed="#P" n="98" break="no"/>manis quam admodum illi essedones maris 
+          pontici<lb ed="#P" n="99" break="no"/>accole vel massagete. Sed aliquis ad 
+          concupis<lb ed="#P" n="100" break="no"/>centias inhumanas multiphariam duci potest. 
+          <lb ed="#P" n="101"/>vno mo doper electionem et malam 
+          consuetudi<lb ed="#P" n="102" break="no"/>nem. Alio modo ob egritudinem. vt in maniacis vel 
+          <lb ed="#P" n="103"/>dementibus ab vtero. vel ob passionem 
+          natura<lb ed="#P" n="104" break="no"/>lem: vt in mulieribus nouiter impregnatis in qui 
+          <lb ed="#P" n="105"/>bus retinentur menstrua: et ex consequenti fumi 
+          <lb ed="#P" n="106"/>ad caput ascendunt: et appetitum sic prosternunt 
+          <lb ed="#P" n="107"/>vt carbones comedere gestiunt. 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e161">
+          <lb ed="#P" n="108"/>¶ his premissis pono tres conclusiones. 
+          Qua<lb ed="#P" n="109" break="no"/>rum prima est. intemperantia est peior incontinem 
+          <lb ed="#P" n="110"/>tia: vel intemperatus est peior incontinente: quod 
+          <lb ed="#P" n="111"/>idem est: quia semper intendimus de illo vicio 
+          lo<lb ed="#P" n="112" break="no"/>qui: et non de aliis hominum maliciis proposito 
+          <lb ed="#P" n="113"/>impertinentibus.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e177">
+          ¶ Secunda conclusio. licet 
+          <lb ed="#P" n="114"/>bestialitas naturalis sit intemperantia 
+          terribili<lb ed="#P" n="115" break="no"/>or: non tamen est ea deterior. 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e185">
+          <lb ed="#P" n="116"/>¶ Tertia conclusio. bestialitas acquisita per 
+          ac<lb ed="#P" n="117" break="no"/>tus culpabiles in voluntate est peior 
+          intemperan<lb ed="#P" n="118" break="no"/>tia.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e194">
+          ¶ Primam conclusionem probat 
+          aristo<lb ed="#P" n="119" break="no"/>teles septimi Ethicorum. viii. cuius rationes expli¬ 
+          <pb ed="#P" n="113-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cabo. Prima ratio est hec: ille est peiorqui non est 
+          <lb ed="#P" n="2"/>penitiuus: magis voluntarie operatur: et peccatum 
+          tam<lb ed="#P" n="3" break="no"/>to est maius quato est magis voluntarium. sed in 
+          intem<lb ed="#P" n="4" break="no"/>perato ratio et voluntas est concors appetitui 
+          sensiti<lb ed="#P" n="5" break="no"/>uo: incontinens autem statim est penitiuus. 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e214">
+          <lb ed="#P" n="6"/>¶ Secundo: illa infirmitas est peior que est 
+          insanabi<lb ed="#P" n="7" break="no"/>lior: sed intemperans est insanabilior: cum non sit penitiuus 
+          <lb ed="#P" n="8"/> difficillimum est non penitiuum a peccato 
+          abstine<lb ed="#P" n="9" break="no"/>re. per penitentiam autem fortificantur intellectus 
+          <lb ed="#P" n="10"/>voluntas peccatum detestando: et post penitentiam 
+          ho<lb ed="#P" n="11" break="no"/>mo factus robustior fortius potest resistere passioni 
+          se<lb ed="#P" n="12" break="no"/>quenti.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e232">
+          ¶ Item: malicia continua est peior quam malicia 
+          <lb ed="#P" n="13"/>incontinua: sed intemperantia est malicia continua: quia 
+          <lb ed="#P" n="14"/>tam in passione quod extra eam habet rationem ele 
+          <lb ed="#P" n="15"/>ctionem corruptas. incontinentia autem non est continua: 
+          <lb ed="#P" n="16"/>quia rectum habet iudicium electionem extra passionem: aliter 
+          <lb ed="#P" n="17"/>non esset penitiuus. Une perper huiusmodi continuitatem 
+          <lb ed="#P" n="18"/>intemperantie: et discontinuitatem incontinentie: Arist. 
+          <lb ed="#P" n="19"/>intemperantiam ydropisi et pthisi comperat: 
+          incontinen<lb ed="#P" n="20" break="no"/>tiam autem epilentie. bona est hec comperatio. epilenti 
+          <lb ed="#P" n="21"/>cus perper fumos ascendentes habet cerebrum 
+          opila<lb ed="#P" n="22" break="no"/>tum: et sensu priuatur. propterea tunc cadit humi: 
+          mo<lb ed="#P" n="23" break="no"/>re herculis vel cesaris: et morbus non est continuus: 
+          <lb ed="#P" n="24"/>sic est de incontinente: alius morbus est continuus. 
+          <lb ed="#P" n="25"/>C Preterea quarto arguitur: malicia secundum quam 
+          pec<lb ed="#P" n="26" break="no"/>catum latet est peior quod malicia non latens. est enim 
+          <lb ed="#P" n="27"/>insanabilior: vt videre est in epidimia et pleuresi. 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e267">
+          <lb ed="#P" n="28"/>¶ Quinto arguitur. peiores sunt qui preconsiliati 
+          <lb ed="#P" n="29"/>et preeligentes malam electionem eligunt quam qui nec 
+          prae<lb ed="#P" n="30" break="no"/>consiliati nec praeeligentes ducuntur a passione ad 
+          ma<lb ed="#P" n="31" break="no"/>le agendum. sunt enim per omnia magis corrupti et peccatum 
+          <lb ed="#P" n="32"/>eorum est magis voluntarium. sed intemperati sunt magis 
+          <lb ed="#P" n="33"/>praeconsiliati et praeeligentes quam incontinetes: cum 
+          intempe<lb ed="#P" n="34" break="no"/>rati agant secundum electionem: incontinentes a 
+          passio<lb ed="#P" n="35" break="no"/>ne ducuntur.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e287">
+          ¶ Sed dicis: intemperatus ostenso delecta 
+          <lb ed="#P" n="36"/>bili non petit consilium: sed statim mouetur ad 
+          prose<lb ed="#P" n="37" break="no"/>quutionem delectabilis. statuit enim sibi delectationem 
+          <lb ed="#P" n="38"/>tanquam finem: consilium non est de fine.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e297">
+          ¶ Respondetur: 
+          <lb ed="#P" n="39"/>impraeconsiliatus sequens prauam delectationem potest esse 
+          <lb ed="#P" n="40"/>tripliciter. Primo modo quia ad hoc est assuetus: quia si esset 
+          <lb ed="#P" n="41"/>preconsiliatus: operaretur idem: et ille est intemperatus. 
+          Secum<lb ed="#P" n="42" break="no"/>do modo quia non potest vti consilio ob prauam natiui 
+          <lb ed="#P" n="43"/>tatem et egritudinem: et is est bestialis. Tertio modo 
+          <lb ed="#P" n="44"/>quia cito motus non animaduertit ad circunstantias 
+          <lb ed="#P" n="45"/>turpitudinem causantes: quas si attendisset: non 
+          fe<lb ed="#P" n="46" break="no"/>cisset malum: et ille est preuolans incontinens de qua 
+          <lb ed="#P" n="47"/>in questione precedente mentionem fecimus: qui 
+          <lb ed="#P" n="48"/>est aliis omnibus minus malus. si enim consideret: 
+          <lb ed="#P" n="49"/>et considerando assuescat: statim erit bonus: cum est 
+          <lb ed="#P" n="50"/>penitiuus: solum restat ei pensiculate operari. 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e326">
+          <lb ed="#P" n="51"/>¶ Sexto arguitur. ille est peior qui ex debili 
+          passi<lb ed="#P" n="52" break="no"/>one mouetur ad male agendum. sed intemperatus 
+          <lb ed="#P" n="53"/>ex debilissima passione: immo sine passione: quoniam 
+          <lb ed="#P" n="54"/>sine fame et siti querit cibos et potus: et tristatur quod 
+          <lb ed="#P" n="55"/>amplius comedere et bibere nequit. 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e339">
+          <lb ed="#P" n="56"/>¶ Septimo arguitur. in intemperato / quod est 
+          opti<lb ed="#P" n="57" break="no"/>mum in homine: scilicet ratio: est corrupta circa 
+          pri<lb ed="#P" n="58" break="no"/>cipia agibilium: cum qua corruptione non stat quod 
+          <lb ed="#P" n="59"/>sit vera virtus in homine: in incontinenti non est 
+          <lb ed="#P" n="60"/>ratio corrupta: sed ex passione operatur.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e352">
+          ¶ Secun¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>da conclusio est aristotelis in septimo: et patet: plus 
+          <lb ed="#P" n="62"/>miramur de talibus quod de multis aliis flagiciis 
+          ma<lb ed="#P" n="63" break="no"/>ioribus propter raritatem. ad hoc arguit Aristo. 
+          <lb ed="#P" n="64"/>ille habitus est peior qui hominem deprauat secundum 
+          <lb ed="#P" n="65"/>partem superiorem: scilicet intellectum volumta 
+          <lb ed="#P" n="66"/>tem: quam qui solum deprauat partem sensualem. sed 
+          <lb ed="#P" n="67"/>bestialitas deprauat partem sensualem solum: et 
+          <lb ed="#P" n="68"/>non intellectum et voluntatem: quia bestialis 
+          ho<lb ed="#P" n="69" break="no"/>mo non habet vsum rationis: et per consequens non 
+          <lb ed="#P" n="70"/>habet actum malum in voluntate. impeditus est ab 
+          <lb ed="#P" n="71"/>egritudine: vt quando correptus dira febre vl alio 
+          <lb ed="#P" n="72"/>morbo totaliter delirat. intemperantia vero 
+          infi<lb ed="#P" n="73" break="no"/>cit intellectum et voluntatem: ergo licet bestialitas 
+          <lb ed="#P" n="74"/>naturalis apparet multis terribilior: et vulgus 
+          du<lb ed="#P" n="75" break="no"/>cat in admirationem plusquam intemperantia: apud 
+          sa<lb ed="#P" n="76" break="no"/>pientem non reputatur vicium.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e391">
+          ¶ Tertia 
+          conclu<lb ed="#P" n="77" break="no"/>sio probatur. homines libere prosequentes de lecta 
+          <lb ed="#P" n="78"/>tiones brutales quas nulli nisi pessimi hominesex 
+          <lb ed="#P" n="79"/>ercent magis et turpius deiiciunt homines a 
+          sta<lb ed="#P" n="80" break="no"/>tu hominum quod intemperantia: ergo talis bestialis est 
+          <lb ed="#P" n="81"/>peior.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e404">
+          ¶ Secundo arguitur ad idem: quecunque 
+          ra<lb ed="#P" n="82" break="no"/>tio malicie potest inueniri in intemperato: illa in 
+          be<lb ed="#P" n="83" break="no"/>stiali potest inueniri / vel vna illa peior: et aliqua 
+          a<lb ed="#P" n="84" break="no"/>lia malicia super intemperantiam. ergo ipsa est 
+          pe<lb ed="#P" n="85" break="no"/>ior quam intemperantia.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e416">
+          ¶ Contra primam 
+          conclusio<lb ed="#P" n="86" break="no"/>nem arguitur sic. incontinens magis agit contra 
+          <lb ed="#P" n="87"/>conscientiam quam intemperatus. ergo incontinens 
+          ma<lb ed="#P" n="88" break="no"/>gis peccat. consequentia tenet per illud Luce. xii. 
+          <lb ed="#P" n="89"/>Seruus sciens voluntatem domini sui et non faciens 
+          <lb ed="#P" n="90"/>plagis vapulabit multis. antecedens est notum: quia 
+          <lb ed="#P" n="91"/>incontinens habet rectum iudicium in intellectu: non 
+          <lb ed="#P" n="92"/>autem intemperatus.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e434">
+          ¶ Secundo arguitur 
+          ducen<lb ed="#P" n="93" break="no"/>do vnam rationem aristotelis in oppositum. peccatum 
+          <lb ed="#P" n="94"/>incontinentie est insanabilius peccato intemperantie: ergo 
+          <lb ed="#P" n="95"/>est peius. tenet consequentia ex vna probatione aristotelis. 
+          <lb ed="#P" n="96"/>antecedens patet: cum male agit incontinens: t scit illud 
+          <lb ed="#P" n="97"/>esse malum quod facit: non est curabilis. intemperatus 
+          <lb ed="#P" n="98"/>vero curatur cum ostenditur ei malum quod agit. 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e450">
+          <lb ed="#P" n="99"/>¶ Tertio: quato quis ex maiore libidine peccat tanto 
+          <lb ed="#P" n="100"/>grauius peccat. sed incontinens ex maiore libidine peccat 
+          <lb ed="#P" n="101"/>quam intemperatus: quia incontinens habet vehementes 
+          concu<lb ed="#P" n="102" break="no"/>piscentias quas non habet intemperatus: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e461">
+          <lb ed="#P" n="103"/>¶ Ad primum conceditur antcedens: sed consequentia est nulla. non semper 
+          <lb ed="#P" n="104"/>peccatum contra conscientiam est plus quocumque alio 
+          pecca<lb ed="#P" n="105" break="no"/>to conformi ad conscientiam erroneam. plus peccabant 
+          <lb ed="#P" n="106"/>iudei occidentes christum conformiter ad conscientiam errone 
+          <lb ed="#P" n="107"/>am (quam mlti eorum habuerunt) quam illi fecissent 
+          reliquen<lb ed="#P" n="108" break="no"/>tes eum stante tali conscientia. agens con conscientiam liberam 
+          <lb ed="#P" n="109"/>plus peccat quam non agens con eam ceteris paribus. modo hec 
+          <lb ed="#P" n="110"/>cetera sunt imparia. si sint duo quorum vnus facit 
+          <lb ed="#P" n="111"/>vnum actum contra conscientiam suam: et alter 
+          <lb ed="#P" n="112"/>similem actum non contra conscientiam suam: sed 
+          <lb ed="#P" n="113"/>negligit inquirere: non minus peccat quam alter: et 
+          <lb ed="#P" n="114"/>hoc est notum quando est ignorantia affectata. hoc 
+          <lb ed="#P" n="115"/>sic declaro: sunt duo / sortus / et plato / audiunt dici quod 
+          con<lb ed="#P" n="116" break="no"/>tionator in sancton stephanmo prosequitur in seismode / qui casus sunt 
+          <lb ed="#P" n="117"/>vsure: qui vero non. sorte accedit: et scit a conctum ess vsurari 
+          <lb ed="#P" n="118"/>um: quem facit on conscientiam. plo non vult ire ne coneo 
+          conscien<lb ed="#P" n="119" break="no"/>tiam agat / paratus prestare cuicunque ad fenus: 
+          iam<lb ed="#P" n="120" break="no"/>plato non minus peccat quam sortes: et tamen non 
+          <pb ed="#P" n="113-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>committit fenus contra conscientiam. Sed dicis: plato 
+          <lb ed="#P" n="2"/>plus peccat quia duobus / peccatis peccat: quia non vult 
+          <lb ed="#P" n="3"/>scire illa qua tenetur scire cum circa materiam illam facit 
+          <lb ed="#P" n="4"/>contractum: sed actus suus vsure non est peior / vl ita 
+          <lb ed="#P" n="5"/>malus sicut actus alterius. cum vterque equaliter 
+          commit<lb ed="#P" n="6" break="no"/>tit contra legem diuinam: et vnus contra conscientiam: 
+          <lb ed="#P" n="7"/>et non alter. quicquid sit de hac obiectione: intemperatus 
+          <lb ed="#P" n="8"/>in gradu est peior: et in periculosiore statu: libet ille actus 
+          <lb ed="#P" n="9"/>non est peior quam actus / incontinentie:t forte hoc 
+          Aristo<lb ed="#P" n="10" break="no"/>teli sufficit. Secundo dico: nec est hoc adhuc probatum. 
+          <lb ed="#P" n="11"/>multe dantur disparitates in quibus 
+          intemperan<lb ed="#P" n="12" break="no"/>tia incontinentiam in malicia exuperat.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e533">
+          ¶ Ad 
+          <lb ed="#P" n="13"/>secundum nego antecedens: et ad probationem 
+          di<lb ed="#P" n="14" break="no"/>co quod ammonitio plus confert incontinenti quam 
+          inten<lb ed="#P" n="15" break="no"/>perato: quia incontinens est capatior ammonitionis: 
+          <lb ed="#P" n="16"/>cum non habeat rationem corruptam circa 
+          princi<lb ed="#P" n="17" break="no"/>pia agibilium sicut intemperatus. etiam si 
+          osten<lb ed="#P" n="18" break="no"/>datur intemperato per ammonitionem quid 
+          a<lb ed="#P" n="19" break="no"/>gendum sit: tamen difficilius obediret rationi quod 
+          <lb ed="#P" n="20"/>incontinens: quia incontinens non habet nisi 
+          pas<lb ed="#P" n="21" break="no"/>sionem impellentem: in intemperato autem 
+          habi<lb ed="#P" n="22" break="no"/>tus voluntatis concordat cum inclinatione passio 
+          <lb ed="#P" n="23"/>nis. et inclinatio habitus cum magna difficultate 
+          <lb ed="#P" n="24"/>tollitur. ad sanandum incontinentem sufficit quod 
+          fir<lb ed="#P" n="25" break="no"/>met voluntatem eius contra passionem 
+          insurgen<lb ed="#P" n="26" break="no"/>tem. ad sanandum vero intemperatum plura 
+          requi<lb ed="#P" n="27" break="no"/>runtur: oportet sanare rationem erroneam: et 
+          repri<lb ed="#P" n="28" break="no"/>mere passionem si que insit.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e570">
+          ¶ Tertio incontinens 
+          <lb ed="#P" n="29"/>habet conscientiam remurmurantem contra 
+          ma<lb ed="#P" n="30" break="no"/>lum et continuo eum percutit more sentis in carne 
+          <lb ed="#P" n="31"/>pungentis: hoc non est in intemperato. Concedo 
+          <lb ed="#P" n="32"/>quod incontinens scit se mala et male agere: sed facile 
+          <lb ed="#P" n="33"/>corrigitur: quia tam ab extrinseco quam ab intrinseco¬ 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e584">
+          <lb ed="#P" n="34"/>¶ Ad tertium dicitur quod libido interdum capitur pro 
+          actu<lb ed="#P" n="35" break="no"/>voluntatis: sic scilicet: vbi est intensior actus voluntatis 
+          <lb ed="#P" n="36"/>ibi est maior libido: in illo sensu concedo maiores. 
+          <lb ed="#P" n="37"/>nonnumquam capitur libido pro passione et inclinatione 
+          <lb ed="#P" n="38"/>appetitus sensitiui: hoc modo capiendo / maiorem 
+          <lb ed="#P" n="39"/>est falsa. ad minorem dicitur: incontinens non peccat ex 
+          <lb ed="#P" n="40"/>maiori libidine primo modo: ex hoc soluitur 
+          argu<lb ed="#P" n="41" break="no"/>mentum ad formam.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e604">
+          ¶ Quarto arguitur. vbi est 
+          mi<lb ed="#P" n="42" break="no"/>nus de ratione ibi est minus de peccato: sed minus est 
+          <lb ed="#P" n="43"/>de ratione in intemperato quam in incontinenti: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e611">
+          <lb ed="#P" n="44"/>¶ Respondetur concedendo ceteris paribus. secundo 
+          <lb ed="#P" n="45"/>si minoritas rationis proueniat a culpa operantis: hoc 
+          <lb ed="#P" n="46"/>non oportet: sed sic est in proposito.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e620">
+          ¶ Contra 
+          se<lb ed="#P" n="47" break="no"/>cundam conclusionem arguitur probando quod nulla est 
+          bestia<lb ed="#P" n="48" break="no"/>litas nanlis: natura inclinat ad virtutes: ergo non 
+          incli<lb ed="#P" n="49" break="no"/>nat ad vicia. consequentia tenet: quia nichil idem inclinat ad 
+          <lb ed="#P" n="50"/>contraria.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e631">
+          ¶ Secundo: nihil quod est a natura est malum 
+          <lb ed="#P" n="51"/>proptur ea quae insunt a natura / nec laudamur / nec 
+          vitu<lb ed="#P" n="52" break="no"/>peramur. ii. Ethi.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e638">
+          ¶ Tertio. natura dirigitur ab 
+          intel<lb ed="#P" n="53" break="no"/>ligentia non errante: ergo natura non inclinat ad 
+          bestiali<lb ed="#P" n="54" break="no"/>tatem vel ad vicium.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e646">
+          ¶ Ad primum dicitur: vna natura 
+          in<lb ed="#P" n="55" break="no"/>clinat ad virtutem: alia ad vicium. ratio ad virtutem 
+          <lb ed="#P" n="56"/>dirigit. etiam in eodem sunt varie dispositiones 
+          corpo<lb ed="#P" n="57" break="no"/>rales quarum vna disponit ad virtutem alia ad vicium. sed 
+          <lb ed="#P" n="58"/>non est eadem quaelitas quae conrio modo inclinat: ion nihil inconue 
+          <lb ed="#P" n="59"/>nientis habetur.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e659">
+          ¶ Ad secundem concedo quod nichil quod inest nobt 
+          <lb ed="#P" n="60"/>a natura est malum culpe. quando habemmus rationem / et liberum arbi¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>trium / possumus libere reniti inclinationi male: et non 
+          <lb ed="#P" n="62"/>peccare: licet interdum sit difficile.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e670">
+          ¶ Ad tertium dicitur 
+          <lb ed="#P" n="63"/>quod illa pronitas ad peccandum non venit ab errore 
+          intel<lb ed="#P" n="64" break="no"/>ligentie: sed a qualitatibus in corpore impressis: vel in 
+          <lb ed="#P" n="65"/>appetitu sensitiuo.
+        </p>
+        <p xml:id="jm3cbb-e68773-d1e679">
+          ¶ Quarto arguitur: bestialitas 
+          natu<lb ed="#P" n="66" break="no"/>ralis est difficilius curabilis quam bestialitas habintualis: ergo est 
+          <lb ed="#P" n="67"/>peior: tenet conseqentia: quia incontinentia quato minus est 
+          curabi<lb ed="#P" n="68" break="no"/>lis tanto est peior. Ad quartum nego consequentiam quando illa incura 
+          <lb ed="#P" n="69"/>bilitas inest nobi a natura. potest tamen homo impedire vsum 
+          <lb ed="#P" n="70"/>male inclinationis quando rationem habet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

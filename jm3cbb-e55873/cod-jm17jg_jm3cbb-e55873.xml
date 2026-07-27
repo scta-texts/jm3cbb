@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 18</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 18</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="91-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e55873"><!-- l3d33q18 -->
+        <head xml:id="jm3cbb-e55873-Hd1e99">Quaestio 18</head>
+        <head xml:id="jm3cbb-e55873-Hd1e101" type="question-title">An magnanimitas sit magis circa honores appetendos quam recusandos</head>
+        <p xml:id="jm3cbb-e55873-d1e104">
+          <lb ed="#P" n="67"/>NOno restat loqui de 
+          <lb ed="#P" n="68"/>partibus potentialibus 
+          fortitu<lb ed="#P" n="69" break="no"/>dinis: quos tullius macrobius 
+          <lb ed="#P" n="70"/>andromicus et multi loquentes 
+          <lb ed="#P" n="71"/>ponunt. de vtilioribus solum 
+          lo<lb ed="#P" n="72" break="no"/>quar: scilicet magnanimitate 
+          hu<lb ed="#P" n="73" break="no"/>miltate / et patientia: quales 
+          vir<lb ed="#P" n="74" break="no"/>tutes sunt: et quam preclare: vt 
+          ho<lb ed="#P" n="75" break="no"/>mines ad ipsas appetendas animentur et 
+          inflam<lb ed="#P" n="76" break="no"/>mentur. hec sunt finis tradendi doctrinam de 
+          virtuti<lb ed="#P" n="77" break="no"/>bus. a magnimitate (de qua philosophus quarti 
+          <lb ed="#P" n="78"/>ethicorum loquitur) Primo exordio queritur: an 
+          ma<lb ed="#P" n="79" break="no"/>gnanimitas sit magis circa honores appetendos 
+          <lb ed="#P" n="80"/>quod recusandos. Magnanimus est ille qui est magnis 
+          <lb ed="#P" n="81"/>honoribus dignus: et magnis se iudicat dignum: 
+          <lb ed="#P" n="82"/>vnde quarti ethicorum. iii. dicit philosophus. videtur 
+          <lb ed="#P" n="83"/>itaque is magnanimus esse qui magnis est dignus: et 
+          <lb ed="#P" n="84"/>dignum sese magnis esse censet. cuius extrema sunt 
+          <lb ed="#P" n="85"/>lentitudo: siue caymotes secundum antiquam 
+          trans<lb ed="#P" n="86" break="no"/>lationem: qui petit maiores quod dignus sit. 
+          pusilla<lb ed="#P" n="87" break="no"/>nimus est ille qui deficit. non censet magna de se: et 
+          <lb ed="#P" n="88"/>magna recusat.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e154">
+          ¶ Honor autem tripharie 
+          accipi<lb ed="#P" n="89" break="no"/>tur. Uno modo pro potestate siue officio 
+          honorifi<lb ed="#P" n="90" break="no"/>co: sicut regium officium / beneficium prioratus / vel 
+          <lb ed="#P" n="91"/>aliud officium in claustro / vel extra claustrum. 
+          Se<lb ed="#P" n="92" break="no"/>cundo modo capitur honor pro opinione bona 
+          ho<lb ed="#P" n="93" break="no"/>minum cum quibus quis viuit: sic nichil aliud est 
+          <lb ed="#P" n="94"/>nisi bona opinio quam homines habent de aliquo. 
+          <lb ed="#P" n="95"/>et sic dicimus ille est in magno honore: hoc est in 
+          <lb ed="#P" n="96"/>clara opinione. Tertio modo pro signo 
+          exte<lb ed="#P" n="97" break="no"/>riore quo viro reuerentiam tribuimus: quam 
+          ma<lb ed="#P" n="98" break="no"/>gnis praeclaris viris tribuere solemus: vt puta 
+          sa<lb ed="#P" n="99" break="no"/>lutationem cum capitis humiliatione / vel poplite 
+          <lb ed="#P" n="100"/>flexo / vel signo illo quod reputatur esse 
+          honorifi<lb ed="#P" n="101" break="no"/>cum in patria in qua homines viuunt: quae in variis 
+          re<lb ed="#P" n="102" break="no"/>gionibus variantur: vt sedere in loco medio apud 
+          <lb ed="#P" n="103"/>numedos in iudea: vt patet per petitionem matris 
+          <lb ed="#P" n="104"/>iacobi et Ioannis. et iugurtha: et aliis duobus 
+          con<lb ed="#P" n="105" break="no"/>sanguineis apud salustium: et ita de aliis.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e193">
+          ¶ His 
+          pre<lb ed="#P" n="106" break="no"/>suppositis ponuntur conclusiones. Quarum prima et 
+          <lb ed="#P" n="107"/>magnanimitas est virtus / praeclara.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e201">
+          ¶ Secunda: 
+          magna<lb ed="#P" n="108" break="no"/>nimitas magnos petit honores. primo modi: pro 
+          offi<lb ed="#P" n="109" break="no"/>cio honorifico.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e208">
+          ¶ Tertia conclusio: parum curat vere 
+          <lb ed="#P" n="110"/>magnanimus de honore secundo et tertio modis: 
+          <lb ed="#P" n="111"/>sed eos non recusat quando ordinantur ad bonum 
+          fi<lb ed="#P" n="112" break="no"/>nem.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e217">
+          ¶ Quarta conclusio: vere magnanimus 
+          nun<lb ed="#P" n="113" break="no"/>quam querit honores magnos suis humeris impares 
+          <lb ed="#P" n="114"/>nec officia suis humeris paria querit impetuose et 
+          <lb ed="#P" n="115"/>cum spem mali.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e226">
+          ¶ Quinta conclusio: habitus 
+          magna<lb ed="#P" n="116" break="no"/>nimitatis inclinat magnanimum recusare officium 
+          <lb ed="#P" n="117"/>vel beneficium quo dignus est propter speciem 
+          am<lb ed="#P" n="118" break="no"/>bitionis vel alterius mali apparentis.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e235">
+          ¶ Prima 
+          con<lb ed="#P" n="119" break="no"/>clusio patet auctoritate Aristotelis quarti 
+          ethico<lb ed="#P" n="120" break="no"/>rum. iii. cap. Et ratione. omnis illa virtus est con¬ 
+          <pb ed="#P" n="92-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>spicua qua magne potestates et difficiles optime 
+          <lb ed="#P" n="2"/>reguntur. sed habitus magnanimitatis est 
+          huiusmo<lb ed="#P" n="3" break="no"/>di. igitur.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e253">
+          ¶ Secunda conclusio probatur. magnanimus 
+          <lb ed="#P" n="4"/>petit materiam exercende virtutis. et vt ad hoc 
+          in<lb ed="#P" n="5" break="no"/>virtute proficiat: quia non est adhuc in summo vertice 
+          <lb ed="#P" n="6"/>possibili virtutis: sed hoc fit in officio aliquo 
+          ho<lb ed="#P" n="7" break="no"/>nesto exercendo: vt pote in epicopatu regendo: vt 
+          praedi<lb ed="#P" n="8" break="no"/>cet subditis: mores instituat: vicia eliminet: 
+          bene<lb ed="#P" n="9" break="no"/>ficia probis conferat: quatenus in ministerio ei 
+          coo<lb ed="#P" n="10" break="no"/>perentur.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e272">
+          ¶ Tertia conclusio probatur. parum curat 
+          <lb ed="#P" n="11"/>de hominum fama. scit illam esse vanam et deceptoriam: 
+          <lb ed="#P" n="12"/>et magis respicit ad bonam conscientiam: secundum 
+          <lb ed="#P" n="13"/>illud. i. Corinthiorum primo. gloria nostra hec est: 
+          te<lb ed="#P" n="14" break="no"/>stimonium conscientie nostre. ac si diceret: de 
+          alie<lb ed="#P" n="15" break="no"/>no testimonio parum est curandum. cui consonat id 
+          <lb ed="#P" n="16"/>quod dicitur prime Corinth. iiii. michi autem pro 
+          mi<lb ed="#P" n="17" break="no"/>nimo est vt a vobis iudicer aut ab humano die: hoc 
+          <lb ed="#P" n="18"/>est: ab opinione humana. et Cato: plus aliis de te 
+          <lb ed="#P" n="19"/>quam tu tibi credere noli. magis cupit magnanimus esse 
+          <lb ed="#P" n="20"/>bonus quam videri: more catonis maioris. Et 
+          Aristo<lb ed="#P" n="21" break="no"/>teles: et magis ipsi cure veritatem quod opinionem esse. 
+          <lb ed="#P" n="22"/>Eodem modo parum curat de exhibitione 
+          reueren<lb ed="#P" n="23" break="no"/>tie ei facte. scit illud signum ei esse fallax quod solet 
+          bo<lb ed="#P" n="24" break="no"/>nis et malis exhiberi: et potissimum his quorum opera 
+          <lb ed="#P" n="25"/>egent alios honorantes exterius. sed si pauper 
+          fue<lb ed="#P" n="26" break="no"/>rit: nec potens aliis benefacere in bonis 
+          tempora<lb ed="#P" n="27" break="no"/>libus: honor exterius exhibitus est signum 
+          sufficien<lb ed="#P" n="28" break="no"/>ter ostensum virtutis intellectualis vel moralis in 
+          <lb ed="#P" n="29"/>ipso honorato. talem honorem non spernit: propter 
+          <lb ed="#P" n="30"/>effectus consequentes: vt habeatur de eo bona 
+          fa<lb ed="#P" n="31" break="no"/>ma: vt ei legenti et praedicanti fides prestetur: etiam scit 
+          <lb ed="#P" n="32"/>ei hos honores exterius exhiberi ratione virtutum 
+          <lb ed="#P" n="33"/>in se: et sic plus acceditur ad virtutes. honos alit 
+          ar<lb ed="#P" n="34" break="no"/>tes: omnes accendimur gloria: dicit Tullius: et 
+          vir<lb ed="#P" n="35" break="no"/>tus laudata crescit. sic signo virtus sua laudatur: et 
+          <lb ed="#P" n="36"/>per consequens ad melius operandum animatur: et 
+          <lb ed="#P" n="37"/>licet officia honorifica probis et improbis 
+          confe<lb ed="#P" n="38" break="no"/>rantur: scit sibi officium esse vtile pro materia 
+          virtu<lb ed="#P" n="39" break="no"/>tio exercende: vt aliis benefaciat: quia hoc est ei 
+          cor<lb ed="#P" n="40" break="no"/>di. alia pars est magnanimus non recusat honorem 
+          <lb ed="#P" n="41"/>quando ob bonum finem ei offertur: puta salutatur: 
+          <lb ed="#P" n="42"/>et fit ei reuerentia in testimonium virtutis: quia honos 
+          <lb ed="#P" n="43"/>alit artes. Secundo: vt deus glorificetur in eo: et vt 
+          homi<lb ed="#P" n="44" break="no"/>nes ad similia habenda cum magnanimo animentur. 
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e348">
+          <lb ed="#P" n="45"/>¶ Prior pars quarte conclusionis patet: quia tunc esset 
+          <lb ed="#P" n="46"/>lentus et in vicium exuperando incideret: quod 
+          num<lb ed="#P" n="47" break="no"/>quam faciet magnanimus ab habitu magnanimitatis. 
+          <lb ed="#P" n="48"/>Secunda pars patet: magnanimus non modo est 
+          bo<lb ed="#P" n="49" break="no"/>nus: sed optimus: vt Aristoteles dicit: ergo non 
+          scan<lb ed="#P" n="50" break="no"/>dalizabit alios: sed bonum exemplar eis dabit. 
+          secun<lb ed="#P" n="51" break="no"/>dum illud Apostoli. abstinete vos ab omni specie 
+          <lb ed="#P" n="52"/>mali.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e368">
+          ¶ Quinta conclusio patet. studiosi non solum 
+          <lb ed="#P" n="53"/>est bonum facere: sed benefacere. ii. ethicorum. ergo 
+          ma<lb ed="#P" n="54" break="no"/>gnanimus nichil vult nisi bene ab habitu 
+          magna<lb ed="#P" n="55" break="no"/>nimitatis. secundo patet exemplaritur. Augustinus. 
+          Ambro<lb ed="#P" n="56" break="no"/>sius / Gregorius / Cato maior / et isti viri maximis 
+          <lb ed="#P" n="57"/>digni / refugerunt honores propter speciem mali: et in hoc 
+          <lb ed="#P" n="58"/>a sapientibus laudati sunt.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e384">
+          ¶ Contra primam 
+          conclusio<lb ed="#P" n="59" break="no"/>nem arguitur: magnanimus est superbus: idem intelligo 
+          mo<lb ed="#P" n="60" break="no"/>raliter loquendo concretiue loquens sicut abstracti¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ue: vt dicendo magnanimus est superbia: et 
+          magnani<lb ed="#P" n="62" break="no"/>mitas est superbia. ergo magnanimitas non est pulchra 
+          <lb ed="#P" n="63"/>virtus: immo non est virtus. antecedens patet. magnanimus 
+          <lb ed="#P" n="64"/>habet proprietates superbi. patet de proprietatibus quas 
+          <lb ed="#P" n="65"/>Aristoteles. iiii. ethicorum. iii. recitat. magnanimus 
+          <lb ed="#P" n="66"/>est aliorum contemptiuus. non autem parua pericula 
+          <lb ed="#P" n="67"/>subit. sed magna. pudet ipsum magna beneficia ab 
+          <lb ed="#P" n="68"/>alio suscipere. bene reminiscitur eorum quibus 
+          be<lb ed="#P" n="69" break="no"/>neficia contulit: non reminiscitur eorum a quibus 
+          be<lb ed="#P" n="70" break="no"/>neficia suscepit. cum voluptate audit ea quae ipse aliis 
+          <lb ed="#P" n="71"/>contulit. sine autem voluptate ea qua ipse accepit: quod 
+          <lb ed="#P" n="72"/>non ineleganter probat Aristoteles inquiens. qua 
+          pro<lb ed="#P" n="73" break="no"/>pter et thetis non euertat beneficia Ioui: nec 
+          athenien<lb ed="#P" n="74" break="no"/>sibus lacedemonii quae contulerunt in illos sed quae 
+          susce<lb ed="#P" n="75" break="no"/>perunt ab illis. versatur cum illis qui constituti sunt in 
+          <lb ed="#P" n="76"/>dignitate: parum cum minoribus. non aliorum laudator. 
+          <lb ed="#P" n="77"/>non admiratiuus. non potest ad alium viuere. non est 
+          me<lb ed="#P" n="78" break="no"/>mor mali. magis possidet infructuosa fructuosis: 
+          <lb ed="#P" n="79"/>tardus incessus: vox grauis: et locutio tarda. omnia 
+          <lb ed="#P" n="80"/>hec superbo conueniunt. igitur.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e436">
+          ¶ Respondetur aliqui 
+          <lb ed="#P" n="81"/>ex nostris (et nominatim hugolinus) dixerunt 
+          ma<lb ed="#P" n="82" break="no"/>gnanimitatem Aristotelis esse superbiam a deo 
+          prohi<lb ed="#P" n="83" break="no"/>bitam: sed non est ita dicendum. sed tamen per 
+          verita<lb ed="#P" n="84" break="no"/>tem fidei potest melius magnanimitas vera 
+          deprehen<lb ed="#P" n="85" break="no"/>di quam per puram philosophiam mundanam in lumine 
+          na<lb ed="#P" n="86" break="no"/>turali inuentam: licet hec fidei non repugnet. sed 
+          qua<lb ed="#P" n="87" break="no"/>dret.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e454">
+          ¶ Ponentur aliqua discrimina inter superbum 
+          <lb ed="#P" n="88"/>et magnanimum: quia interdum est difficile ponere 
+          <lb ed="#P" n="89"/>discrimen inter hec duo: magnanimus querit 
+          ho<lb ed="#P" n="90" break="no"/>neste magna propter honorem dei: nec inuidet. 
+          su<lb ed="#P" n="91" break="no"/>perbus propter se: et facillime in inuidiam descendit / 
+          <lb ed="#P" n="92"/>magnanimus est erga omnes (et potissimum probos) 
+          bene<lb ed="#P" n="93" break="no"/>uolus: superbus proximum in bono contemnit. Item 
+          su<lb ed="#P" n="94" break="no"/>perbus quaerit ab adulatoribus laudari: quos 
+          contemp<lb ed="#P" n="95" break="no"/>nit magnanimus. Item superbus appetit excellere 
+          <lb ed="#P" n="96"/>vltra suam dignitatem. magnanimus vero secundum 
+          <lb ed="#P" n="97"/>suam dignitatem. Insuper superbus appetit 
+          excelle<lb ed="#P" n="98" break="no"/>re singulariter. et si non potest: hoc appetit cum aliorum 
+          <lb ed="#P" n="99"/>depressione: vt saltem aliis depressis ipse solus 
+          ap<lb ed="#P" n="100" break="no"/>pareat eminentior: magnanimus vero appetit 
+          ex<lb ed="#P" n="101" break="no"/>cellere pro sua aliorum salute. appetit esse vir 
+          ercel<lb ed="#P" n="102" break="no"/>lens: vt se et alios ad virtutem accendat. magnanimus 
+          <lb ed="#P" n="103"/>vero non querit excellentiam in se pro se: sed vt 
+          pro<lb ed="#P" n="104" break="no"/>sit sibi et aliis ad gloriam dei: superbus pro sua 
+          glo<lb ed="#P" n="105" break="no"/>ria caduca.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e497">
+          ¶ hoc discrimine posito. Respondetur 
+          <lb ed="#P" n="106"/>ad obiecta: quae ex littera Aristotelis de prompta sunt. 
+          <lb ed="#P" n="107"/>magnanimus contempnit malos: nec magnifacit 
+          ma<lb ed="#P" n="108" break="no"/>gnos more vulgarium qui maiores se admirantur. 
+          <lb ed="#P" n="109"/>Ipse paucos se maiores habet: sed realiter magnos 
+          <lb ed="#P" n="110"/>semper debet multifacere: vt ad gloriam dei et 
+          ani<lb ed="#P" n="111" break="no"/>mationem aliorum ad virtutes promoueat non subit 
+          <lb ed="#P" n="112"/>parua pericula: quia dignus est magnis vt se in 
+          ma<lb ed="#P" n="113" break="no"/>gnis occupet. sicut aquila non capit muscas: sed 
+          par<lb ed="#P" n="114" break="no"/>ua aranea. Paulus posuit se ad euangelisandum: et 
+          <lb ed="#P" n="115"/>non ad baptisandum. pudet eum magna beneficia 
+          <lb ed="#P" n="116"/>suscipere: hoc est mauult: bene agere quam bene 
+          susci<lb ed="#P" n="117" break="no"/>pere: quia hoc est maius: vt patet. iiii. ethicorum primo. 
+          <lb ed="#P" n="118"/>gaudet in benefactis: et pudet eum vinci in 
+          benefi<lb ed="#P" n="119" break="no"/>ciis ab aliis: non vult vinci in bono. non potest cum 
+          <lb ed="#P" n="120"/>alio viuere: hoc est adulatoribus et malis. non est 
+          <pb ed="#P" n="92-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>memor mali preteriti. scit per se talia non posse 
+          le<lb ed="#P" n="2" break="no"/>di: nec minorari per bonum virtutis: quod solum 
+          repu<lb ed="#P" n="3" break="no"/>tat vere bonum. ipse tamen est memor bonorum et 
+          <lb ed="#P" n="4"/>malorum: pro quanto eorum memoria valet ad melius 
+          ope<lb ed="#P" n="5" break="no"/>randum. vulgus res vtiles vocat fructuosas: 
+          vir<lb ed="#P" n="6" break="no"/>tutes intellectuales et morales sine pecunia 
+          in<lb ed="#P" n="7" break="no"/>fructuosas. et Aristoteles more vulgi loquitur sicut 
+          <lb ed="#P" n="8"/>sexto ethicorum de Thalete et Anaxagora: et 
+          supe<lb ed="#P" n="9" break="no"/>rius recitauimus / in virtute praecedenti. omnes proprieta 
+          <lb ed="#P" n="10"/>tes iste collecte sane conueniunt viro optimo. non 
+          quae<lb ed="#P" n="11" break="no"/>rit bona fortune: n isi vt benefaci at. non est auarus. 
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e560">
+          <lb ed="#P" n="12"/>¶ Contra secundam conclusionem arguitur: dignitates 
+          <lb ed="#P" n="13"/>ecclesiastice non sunt petende: et loca superiora. et 
+          <lb ed="#P" n="14"/>tamen sunt honores primo modo. ergo conclusio 
+          <lb ed="#P" n="15"/>falsa. consequentia tenet cum minore: probatur maior 
+          <lb ed="#P" n="16"/>per Augustinum. xix. de ciuitate dii: dicentem: locus supe 
+          <lb ed="#P" n="17"/>rior sine quo populus regi non potest: et si administre 
+          <lb ed="#P" n="18"/>tur vt decet: tamen indecenter appetitur: et glosa. i. ad 
+          <lb ed="#P" n="19"/>timotheum. iii. hoc ipsum allegat. Et Gregorius in 
+          <lb ed="#P" n="20"/>registro: recusantibus / dignitates ecclesiastice sunt 
+          <lb ed="#P" n="21"/>conferende: petentibus vero sunt denegande.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e584">
+          ¶ 
+          Re<lb ed="#P" n="22" break="no"/>spondetur: moderatissime petit dignitates 
+          magna<lb ed="#P" n="23" break="no"/>nimus: nec vnquam officium nisi cognitum suis 
+          hume<lb ed="#P" n="24" break="no"/>ris par. aggregare beneficia auare: et currere ad 
+          li<lb ed="#P" n="25" break="no"/>tes forenses post beneficia: non est magnanimi: sed 
+          <lb ed="#P" n="26"/>lenti et auari. tardus est incessus magnanimi: et 
+          vox<lb ed="#P" n="27" break="no"/>grauis. ergo non curreret ad castelletum vel palacium 
+          tu<lb ed="#P" n="28" break="no"/>nica luto dispersa: vel cum mula quando sufficientiam 
+          <lb ed="#P" n="29"/>habet: vel verba multiplicaret aduocatis capite 
+          <lb ed="#P" n="30"/>nudato pro caducis honoribus. breuiter 
+          magna<lb ed="#P" n="31" break="no"/>nimus non vult honores nist medio honesto: alias 
+          <lb ed="#P" n="32"/>est caymuse in extremo. propterea pauciora habeens 
+          <lb ed="#P" n="33"/>in ecclesia: hec caduca bona contempnens: est 
+          magna<lb ed="#P" n="34" break="no"/>nimus. et alii abundantes sunt lenti et inflati: et ex 
+          <lb ed="#P" n="35"/>abundantia datur eis materia superbiendi: 
+          estiman<lb ed="#P" n="36" break="no"/>do se propterea meliores. propterea Aristoteles in 
+          <lb ed="#P" n="37"/>hac materia optime de hoc loquens dicit: qui 
+          ve<lb ed="#P" n="38" break="no"/>ro sine virtute talia bona habent: ii non iure seipsos 
+          <lb ed="#P" n="39"/>dignos magnis honoribus censent: neque 
+          magnani<lb ed="#P" n="40" break="no"/>mi recte dicuntur. non enim sunt hec sine accumula 
+          <lb ed="#P" n="41"/>ta virtute. contemptores autem petulantesque fiunt. 
+          <lb ed="#P" n="42"/>non est enim facile sine virtute moderate res ferre 
+          se<lb ed="#P" n="43" break="no"/>cundas. atque cum equabiliter ferre non possint: putent 
+          <lb ed="#P" n="44"/>que se ceteris antecellere: illos quidem despiciunt: 
+          <lb ed="#P" n="45"/>Ipsi vero quicquid contigerit agunt: imitantur enim 
+          ma<lb ed="#P" n="46" break="no"/>gnanimum: et si similes ei non sunt: idque faciunt in 
+          qui<lb ed="#P" n="47" break="no"/>bus posfunt. diogenem synopeum alexander putabat 
+          <lb ed="#P" n="48"/>valde magn animum: qui palatiis regum spretis 
+          do<lb ed="#P" n="49" break="no"/>liolum pro domo delegerat: et vere ita erat: vt recte 
+          <lb ed="#P" n="50"/>ait iuuenalis. Sensit alexander / testa cum vidit in 
+          <lb ed="#P" n="51"/>illa magnum inhabitatorem: quatum felicior hic qui 
+          nil<lb ed="#P" n="52" break="no"/>cuperet quam qui totum sibi posceret orbem. Sed contra: 
+          <lb ed="#P" n="53"/>magnanimus dignificat se vt dicit philosophus. 
+          <lb ed="#P" n="54"/>Distinguo quod dignificet se: puta censet se dignum. vel 
+          <lb ed="#P" n="55"/>quod grandia dicat de se: vel quod petat maiora quam sit 
+          di<lb ed="#P" n="56" break="no"/>gnus. nullo istorum modorum se dignificat. primum 
+          spe<lb ed="#P" n="57" break="no"/>ctat ad intellectum. secundum nec tertium facit magna 
+          <lb ed="#P" n="58"/>nimus: sed se dignificat: hoc est: capit officium ei 
+          obla<lb ed="#P" n="59" break="no"/>tum quo scit se esse dignum: vel moderatissime 
+          pe<lb ed="#P" n="60" break="no"/>tit cum omni probitate honorem eo dignum: vt prosit 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>et non praesit.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e675">
+          ¶ Contra tertiam conclusionem arguitur 
+          <lb ed="#P" n="62"/>magnanimus maxime versatur circa honores: hoc 
+          <lb ed="#P" n="63"/>est circa reuerentias ei exhibitas: vt dicit Aristo 
+          <lb ed="#P" n="64"/>teles sic inquiens. Circa vnum maxime versabitur 
+          <lb ed="#P" n="65"/>ipse (supple magnanimus) dignitas autem ad exter 
+          <lb ed="#P" n="66"/>na dicitur bona. maximum vero id asseuerant omnea 
+          <lb ed="#P" n="67"/>esse quod diis ipsis tribuimus: et quod maxime 
+          ho<lb ed="#P" n="68" break="no"/>mines qui sunt in dignitate affectant: quoque 
+          dari<lb ed="#P" n="69" break="no"/>premium ob res pulcherrimas solet. tale autem est 
+          <lb ed="#P" n="70"/>ipse honor: hoc est enim bonorum maximum. sed 
+          ex<lb ed="#P" n="71" break="no"/>ternorum.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e699">
+          ¶ Aespondetur: non speruit honorem si ei 
+          im<lb ed="#P" n="72" break="no"/>pendatur pper causas datas in probatione. tum vt 
+          ho<lb ed="#P" n="73" break="no"/>norem exhibens impendat ei officium ad quod 
+          tene<lb ed="#P" n="74" break="no"/>tur. tum vt alii animentur ad virtutem. exemplo 
+          illi<lb ed="#P" n="75" break="no"/>us honoris: et vt cum boni fuerint excellenter eis 
+          ho<lb ed="#P" n="76" break="no"/>nos exhibeatur.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e712">
+          ¶ Contra quintam conclusionem 
+          <lb ed="#P" n="77"/>arguitur: si magnanimus recuset honorem quae dignus est: 
+          <lb ed="#P" n="78"/>tunc est pusillanimus.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e720">
+          ¶ Benspondetur: aliter magnanimus et alitr 
+          <lb ed="#P" n="79"/>pusillanimus recusant honorem. prior ne 
+          inoportu<lb ed="#P" n="80" break="no"/>nus videatur honorem petere ad quem homines 
+          ni<lb ed="#P" n="81" break="no"/>mis sunt propensi. pusillanimus honorem recusat: vt 
+          <lb ed="#P" n="82"/>torpeat: et non laboret: et priuat se contrarie 
+          hono<lb ed="#P" n="83" break="no"/>re quo dignus est. patet per philosophum: 
+          pusillani<lb ed="#P" n="84" break="no"/>mus priuat se bonis quibus dignus est. et paulopost 
+          <lb ed="#P" n="85"/>dicit: non tamen stoudi tales homines: sed 
+          pigri<lb ed="#P" n="86" break="no"/>potius esse videntur. talis autem opinatio videtur 
+          <lb ed="#P" n="87"/>e deteriores /psos efficere. singuli namque appetunt 
+          <lb ed="#P" n="88"/>ea quibus sunt digni. demouent sese et a preclaris 
+          <lb ed="#P" n="89"/>act ibus et officiis quasi sunt indigni: et a bonis ex 
+          <lb ed="#P" n="90"/>ternis simili modo. si quis magnus coram deo: 
+          mi<lb ed="#P" n="91" break="no"/>nora de se iudicat: et propatrea recusat honores quibus 
+          <lb ed="#P" n="92"/>iudicat se indignum: is solum errat in intellectu 
+          igno<lb ed="#P" n="93" break="no"/>rantia inuincibili: et non est pusilanimus: quia non 
+          <lb ed="#P" n="94"/>est malus. secus esset si esset ignorantia vincibilis. 
+          <lb ed="#P" n="95"/>vel si quis iudicet quod tutius viuet cum salute anime 
+          sub<lb ed="#P" n="96" break="no"/>modio quam super ipsum poni: talis non est 
+          pusillani<lb ed="#P" n="97" break="no"/>mus. vel si quis nihilipendit honores vt doceat 
+          a<lb ed="#P" n="98" break="no"/>lios eos contempnere qui agminatim post eos 
+          cur<lb ed="#P" n="99" break="no"/>sitant: talis non est pusillanimus: sed vere magnanimus. 
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e768">
+          <lb ed="#P" n="100"/>¶ Dubitatur vtrum horum viciorum est peius 
+          len<lb ed="#P" n="101" break="no"/>titudo vel pusillanimitas.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e775">
+          ¶ Respondetur: 
+          caymo<lb ed="#P" n="102" break="no"/>tes presumptionem circa officia et ambitionem 
+          cir<lb ed="#P" n="103" break="no"/>ca honores signa exteriora includit: sic 
+          pusillani<lb ed="#P" n="104" break="no"/>mitas duo extrema innominata includit: pro quamto 
+          pu<lb ed="#P" n="105" break="no"/>sillanimis recusat tam officia quibus dignus est: et 
+          <lb ed="#P" n="106"/>exteriora signa: vt salutationes. et sic quolibet 
+          ali<lb ed="#P" n="107" break="no"/>orum duorum pusillanimitas est peior: sed non illis 
+          <lb ed="#P" n="108"/>duobus. et sic intelligere potes philosophum 
+          di<lb ed="#P" n="109" break="no"/>centem pusillanimitatem esse peiorem.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e795">
+          ¶ Secundo sic 
+          <lb ed="#P" n="110"/>exponitur. lentitudo versatur circa magna sicut 
+          <lb ed="#P" n="111"/>magnanimitas: et sic magis conuenit cum 
+          ma<lb ed="#P" n="112" break="no"/>gnanimo ex parte obiecti magni quad 
+          pusillanimi<lb ed="#P" n="113" break="no"/>tas: quia pusillanimis magna recusat. et quia 
+          phi<lb ed="#P" n="114" break="no"/>losophus dicebat pusillanimitas est crebrior: 
+          pro<lb ed="#P" n="115" break="no"/>pterea erit peior extensiue. dicit sic: magnanimo 
+          <lb ed="#P" n="116"/>aut em animi pusillanimitas opponitur magis quam 
+          <lb ed="#P" n="117"/>lentitudo. non sic erat in diebus Aristotelis: 
+          quam<lb ed="#P" n="118" break="no"/>do officia erant laboriosa / parue importantie. nunc 
+          <lb ed="#P" n="119"/>oppositum contingit in beneficiis et officiis 
+          lu<lb ed="#P" n="120" break="no"/>cratiuis. Tertio intelligitur de illo caymo qui in¬ 
+          <pb ed="#P" n="93-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tendit accipere officium vel beneficium suis humeris impar: quia 
+          <lb ed="#P" n="2"/>est ei nimis onerosum: erronee iudicat quod bene agit: et 
+          <lb ed="#P" n="3"/>pusillanimis recusat illam prouinciam ob pigritiam: et etiam 
+          <lb ed="#P" n="4"/>iudicans se indignum illo beneficio vel officio: nec vult 
+          il<lb ed="#P" n="5" break="no"/>lud capere ad instantiam prudentum eum rogantium. sed talentum 
+          <lb ed="#P" n="6"/>sibi a dominio concessum abscondit in trra: et credit soli 
+          ca<lb ed="#P" n="7" break="no"/>piti suo quod est idoneus magis quam aliis septem circunspecti 
+          <lb ed="#P" n="8"/>viris secundum illud prouer. exvi. Sapientior sibi videtur piger 
+          <lb ed="#P" n="9"/>septem viris loquentibus sententias. nunc autem dico caymos 
+          <lb ed="#P" n="10"/>in policia ecclsiastica ese crebriores quam pusillanimes 
+          <lb ed="#P" n="11"/>et magis intensiue et extensiue peccare: et ita communiter in 
+          <lb ed="#P" n="12"/>aliis ofs. ciis perpetuis: vbi homines sua malicia auxert 
+          <lb ed="#P" n="13"/>prouentus: ad quae officia poeolimi currunt gratia fructuum: et non 
+          <lb ed="#P" n="14"/>gratia officii. Opposito modo optet dicere fuisse in diebus 
+          <lb ed="#P" n="15"/>Aristotelis: saltem in patria in qua ipse vrsabatur: vt patet ex sua 
+          <lb ed="#P" n="16"/>ilta.
+        </p>
+        <p xml:id="jm3cbb-e55873-d1e860">
+          ¶ Ecce magnanimum virum sane optimum: et 
+          percon<lb ed="#P" n="17" break="no"/>sequens prrarum: qui vita et omnia confert vt aliis prosit: et non 
+          <lb ed="#P" n="18"/>vt praesit. officium nullum capit suis humeris impar: et nunquam 
+          <lb ed="#P" n="19"/>petit: sed oblatum capit: vel si petat: tanto moderamie 
+          <lb ed="#P" n="20"/>petit vt non petere videatur. esset cono suam grauitatem: qui ita 
+          <lb ed="#P" n="21"/>tarde loquitur: ita tarde incidit: solam veram virtutem habscens prae 
+          o<lb ed="#P" n="22" break="no"/>cul. quaerit citius / infructuosa apud vulgus quam fructuosa: vt 
+          <lb ed="#P" n="23"/>pote religiones deuias ad patrum tramites 
+          reduce<lb ed="#P" n="24" break="no"/>re: con vicia latrare: mores inserere: et se totum talibus de 
+          <lb ed="#P" n="25"/>dit et consumendum dat si oporteat. quod phloispiorum praenceps 
+          <lb ed="#P" n="26"/>elegantissime tangit inquiens: non autem perua pericula subit: 
+          <lb ed="#P" n="27"/>nec periclusorum est cupidus / supple paruorum propaturea quod res 
+          <lb ed="#P" n="28"/>paucas multifacit. sed subit magna: atque cum in periculo 
+          <lb ed="#P" n="29"/>vrsatur: vite sue non percit: quaesi non sit dignum omnino viuere.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 23</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 23</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="97-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e59516"><!-- l3d33q23 -->
+        <head xml:id="jm3cbb-e59516-Hd1e99">Quaestio 23</head>
+        <head xml:id="jm3cbb-e59516-Hd1e101" type="question-title">An temperantia virtus cardinalis sit una secundum speciem</head>
+        <p xml:id="jm3cbb-e59516-d1e104">
+          <lb ed="#P" n="96"/>SEcundo circa materiam 
+          tem<lb ed="#P" n="97" break="no"/>perantie quaeritur: an temperantia virtus 
+          cardina<lb ed="#P" n="98" break="no"/>lis sit vna fecundum speciem.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e113">
+          ¶ Pro questionis 
+          solu<lb ed="#P" n="99" break="no"/>tione pcnuntur conclusiones: Quatum per matur. 
+          <lb ed="#P" n="100"/>Cotingit immodci ate delectari in delecrationibus 
+          sen<lb ed="#P" n="101" break="no"/>sualibus: et sic delectando peccare. probatur hec conclusio: 
+          <lb ed="#P" n="102"/>potest homo nimis scienter vel (x igrantia vincibili 
+          conede<lb ed="#P" n="103" break="no"/>re vel bibere. patet: potest capere excessum in cibo / potu / 
+          <lb ed="#P" n="104"/>et venereis ad corperis corruptionem: scundum illud 
+          ypo<lb ed="#P" n="105" break="no"/>cratis plures occidit gula quam gladius. sequuntur 
+          morbi<lb ed="#P" n="106" break="no"/>difficultr curabilcs: et ad grende impedimentum anime. pest 
+          <lb ed="#P" n="107"/>cibum vl rotum excessiue sumpium: ad cerebrum sumi 
+          escen<lb ed="#P" n="108" break="no"/>dunt / caput parturbant / ingenium cbetant / et inssrumentum 
+          <lb ed="#P" n="109"/>exesndi in senciam scilcet sensus ebetant.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e139">
+          ¶ Secunda conclusio: 
+          <lb ed="#P" n="110"/>potest esse desccius circa delectationes guslus et tacius. 
+          pro<lb ed="#P" n="111" break="no"/>batur: stat quod homo minus cemedit vel bibit quam otet: et non 
+          <lb ed="#P" n="112"/>minstret cibum vel potum sufficientur corpri ad hoc quod sit 
+          <lb ed="#P" n="113"/>bonum instri mentum anime. talis peccat in deficiendo. 
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e151">
+          <lb ed="#P" n="114"/>¶ Tertiaconclusio. dabil est habiius in medio inclinans ad 
+          de<lb ed="#P" n="115" break="no"/>lectandum in sensu gussus et tactus: sicut om. puta non 
+          magi<lb ed="#P" n="116" break="no"/>quam oportet: nec minus. patet: vbicumque contingit dare 
+          ex<lb ed="#P" n="117" break="no"/>cessum et defectum: contingit dare mediumet virtutem. ii. 
+          ethi<lb ed="#P" n="118" break="no"/>corum. illud medium vocatur temperentia.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e164">
+          ¶ Quarta 
+          conclu<lb ed="#P" n="119" break="no"/>sio. temperantia in secunda acceptione est virtus cardimalis patet: 
+          <pb ed="#P" n="98-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>temperantia est virtus cardialis: et non in prima accepti 
+          <lb ed="#P" n="2"/>one. et non sunt plures acceptones nisi due ex quaetone 
+          prae<lb ed="#P" n="3" break="no"/>cedenti ergo in secunda acceptone est virtus cardinalis.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e180">
+          ¶ 
+          Quin<lb ed="#P" n="4" break="no"/>ta conclusio. temperantia non est vna virtus: nec vnus habitus secundum 
+          <lb ed="#P" n="5"/>spem spanlissimam. immo mille sunt habitus tperantie spe 
+          distin<lb ed="#P" n="6" break="no"/>cti. probatur hec conclusio: alius est habitus spem essentiali castitatis / 
+          <lb ed="#P" n="7"/>alius sobrietatis / alius circa cibum: et quot sunt cibi spem 
+          di<lb ed="#P" n="8" break="no"/>stincti: tot dantur habitus spem distincti. modo ad distinctioem 
+          <lb ed="#P" n="9"/>actuum specificam sequitur distinctio specifica habituum.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e196">
+          ¶ 
+          Con<lb ed="#P" n="10" break="no"/>tra primam conclomnuem arguitur sic: natura in suis operationibus per 
+          se<lb ed="#P" n="11" break="no"/>nichil ordiat ad malum: sed totum ad bonum: quia in 
+          opera<lb ed="#P" n="12" break="no"/>tionibus naturalibus dirigitur ab agente infallibili: vt a 
+          <lb ed="#P" n="13"/>deo. sed deus nobis dedit appetitum concupiscibilem qui per 
+          <lb ed="#P" n="14"/>se ordinatur concupiscere delectabilia: et ad delectandum 
+          <lb ed="#P" n="15"/>in eorum adeptone. ergo bonum est illa concupiscere: et delecta 
+          <lb ed="#P" n="16"/>ri in eis concupitis: et sic magis delectari est magis 
+          bo<lb ed="#P" n="17" break="no"/>num: et maxine: maxine erit bonum. ista consequentia tenet in his quae 
+          <lb ed="#P" n="18"/>secundem se sunt bomia: modo delectatio est secundum se eligibilis. i. 
+          <lb ed="#P" n="19"/>rethorice. vbi dicitur: delectationem eim omnia consequunturt gratia 
+          <lb ed="#P" n="20"/>illius delectari appetunt.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e222">
+          ¶ Secundo arguitur. bruta non male 
+          <lb ed="#P" n="21"/>agunt si omnes delectationes prosequantur. sed natura non 
+          <lb ed="#P" n="22"/>fuit. minus sollicita de spem humana quam brutis. ergo non de 
+          <lb ed="#P" n="23"/>buit homibus instituere delectationes quas prosequi esset 
+          <lb ed="#P" n="24"/>malum
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e233">
+          ¶ Rndenr. natura: hoc est deus qui est natura naturans: 
+          <lb ed="#P" n="25"/>dedit nobis appetitum concupiscibilem ad concupiscendum 
+          <lb ed="#P" n="26"/>ad delectandum praecise secunde dictamemn recte rationis. 
+          de<lb ed="#P" n="27" break="no"/>dit nobis cum naturali appetitu ratim t voluntatem 
+          libe<lb ed="#P" n="28" break="no"/>ram dominantem appetitui sensitino. quando infertur: melius est 
+          ma<lb ed="#P" n="29" break="no"/>gis delectari. si intelligatur de delectatone con ratiemt: non 
+          <lb ed="#P" n="30"/>sequitur: quia natura non dedit nobis taliter delectari. de 
+          <lb ed="#P" n="31"/>lectari secundem rectam ramtiem est proprium homin. delectatio ramtie 
+          <lb ed="#P" n="32"/>rilata est per se eligibilu: et non alitur: non tamen vltinate.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e254">
+          ¶ Ad 
+          <lb ed="#P" n="33"/>secundum dci concedendo quod bruta non male agunt: nec pstent 
+          <lb ed="#P" n="34"/>male agere moralr: quia ramtiem etliberum arbitrium nen heset: 
+          <lb ed="#P" n="35"/>homines autem habent.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e263">
+          ¶ Contra quartam conclonem arguitur. teperantia est 
+          <lb ed="#P" n="36"/>virtus cardial. ergo hec tperantia (demonstrando sobrieta 
+          <lb ed="#P" n="37"/>tem) est virtus cardimal. vel illa (demonstrando castitatem) est 
+          <lb ed="#P" n="38"/>virtus cardinalis. sed neutrum est dudin. consequentia tamen patet per 
+          descem<lb ed="#P" n="39" break="no"/>sum: constantiam supponendo pro pate antentis.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e274">
+          ¶ Secundo arguitur ad 
+          <lb ed="#P" n="40"/>idem. tperantia est virtus cardialus. vel ergo tmperantia sortis est 
+          <lb ed="#P" n="41"/>virtus cardinalis. vel teperantia platonis. et si vtrumque 
+          il<lb ed="#P" n="42" break="no"/>lorum concedas: dabitur maxima multitudo habituum quorum 
+          <lb ed="#P" n="43"/>quilibet erit virtus cardialis.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e285">
+          ¶ Renpo concedendo hanc: 
+          tem<lb ed="#P" n="44" break="no"/>perantia est virtus cardinalis: et hanc similitr omnis teperantia est virtus 
+          <lb ed="#P" n="45"/>cardinalis: quia particularis et velis in materia naturali (
+          ce<lb ed="#P" n="46" break="no"/>teris seruatis) equiualent: sed sic est in proposito. sbenm stat 
+          <lb ed="#P" n="47"/>personaliter / et significatiue. Concedo quod sobrietas est 
+          vir<lb ed="#P" n="48" break="no"/>tus cardimalis. ieiunium est virtus / cardinalis. tperantia sortis 
+          <lb ed="#P" n="49"/>est virtus cardinalis. et ita de quolbet homine vnum indinduum 
+          ta<lb ed="#P" n="50" break="no"/>lis virtutis habsente
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e303">
+          ¶ Contra hoc arguitur: hec sobrietas est 
+          vir<lb ed="#P" n="51" break="no"/>tus cardinalis. ergo circa hancsobrietatem viersatur tota humana 
+          <lb ed="#P" n="52"/>vita. consequens est fim. ergo et antecedens. consequentia patet: quia hoc est de ratie virtu 
+          <lb ed="#P" n="53"/>tis cardinalis. vt superius diximus in hac distinctone.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e312">
+          ¶ 
+          Anenr<lb ed="#P" n="54" break="no"/>negando sequelam. sed inferre ort: circa hunc actum et similes in 
+          <lb ed="#P" n="55"/>denominatone gendoica vsatur tota vita humana. vel sic: non ion 
+          <lb ed="#P" n="56"/>dcir virtus cardimalis virtus aliqua: quia circa ipsam vrsatur 
+          to<lb ed="#P" n="57" break="no"/>ta humana vita: sed ipsa est pers integralis virtutum: circa quaes 
+          <lb ed="#P" n="58"/>tota vita humana vsatur: ille actus sobrietates est pars 
+          temperan<lb ed="#P" n="59" break="no"/>tie subiectiua. et tperantia est pers subiectiua virtutis 
+          car<lb ed="#P" n="60" break="no"/>dialis. modo circavirtutes cardimales versatur tota vita 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>humana. ad hunc sensum morales loquuntur: tota vita 
+          hu<lb ed="#P" n="62" break="no"/>mana versatur circa hec / prudentiam / tperantiam / 
+          fortitu<lb ed="#P" n="63" break="no"/>dinem / iusticiam: et pers vite humane sub parte.
+        </p>
+        <p xml:id="jm3cbb-e59516-d1e339">
+          ¶ Dubita 
+          <lb ed="#P" n="64"/>tur: an circa communes cupiditates siue concupinas natura 
+          <lb ed="#P" n="65"/>les peccare contingat sicut circa concupinas proprias. anponr: 
+          <lb ed="#P" n="66"/>concupiscentie secundum aristo. et. ethi. xi. diuiduntur in concupinas 
+          <lb ed="#P" n="67"/>comnes siue naturales: et proprias. concupine dicuntur commnnes et 
+          <lb ed="#P" n="68"/>naturales quae appetuntur in communi quando est indigentia. vt 
+          appeti<lb ed="#P" n="69" break="no"/>tio cibi / potus / vel lecti. Concupine vero vocantur 
+          proprie<lb ed="#P" n="70" break="no"/>quando secundem complexionem indindualem appetenti vel ex habitu 
+          ap<lb ed="#P" n="71" break="no"/>petuntur: vt appetitus huius cibi vel illius. In primis dicit 
+          <lb ed="#P" n="72"/>pauci peccant: et solum vno mod: vt replendo ventrem 
+          indif<lb ed="#P" n="73" break="no"/>ferenter de quibuscumque appositis siue bomdis siue malis: 
+          <lb ed="#P" n="74"/>sic peccatur in excedendo. pauci hoc modo peccant. isti in 
+          <lb ed="#P" n="75"/>antiqua translatione gastrimergi vocantur. sic inquit iatia 
+          <lb ed="#P" n="76"/>phosti. In nanlibus quidem igrcocupiscentiis pauci peccant: et in 
+          <lb ed="#P" n="77"/>vnum in plus. conedere quidem eim qua contingzunt: l bibem vsquequa vtiquae 
+          <lb ed="#P" n="78"/>superimpleantur superabundatie est seced nanm mltitudins: repletio 
+          <lb ed="#P" n="79"/>enim indigentie natural concupiia: propet quod dome isti gastri 
+          <lb ed="#P" n="80"/>mergi. In noua translatione dicit argiropilus. hi 
+          furen<lb ed="#P" n="81" break="no"/>tes circa ventrem domir: quia vltra quam om ipset replent atque 
+          re<lb ed="#P" n="82" break="no"/>sarciunt. in propriis vero concupiscentiis multi peccant: et 
+          <lb ed="#P" n="83"/>multis modis. vnus pultes et hanc salsam querit: 
+          <lb ed="#P" n="84"/>alter perdices: alius pisces delicatos. etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

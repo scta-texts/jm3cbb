@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="12-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e07309"><!-- l3d3q2 -->
+        <head xml:id="jm3cbb-e07309-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e07309-Hd1e101" type="question-title">An implicet contradictionem beata virgo stetisse115 in peccato
+    originali praecise per unum instans</head>
+        <p xml:id="jm3cbb-e07309-d1e104">
+          <lb ed="#P" n="83"/>SEcundo circa hanc 
+          <lb ed="#P" n="84"/>distinctionem queritur: an 
+          impli<lb ed="#P" n="85" break="no"/>cet contradictionem quod beata 
+          vir<lb ed="#P" n="86" break="no"/>go stetisset in peccato 
+          origina<lb ed="#P" n="87" break="no"/>li precise per vnum instans. quia 
+          <lb ed="#P" n="88"/>de sacto diximus / in questione 
+          <lb ed="#P" n="89"/>precedente eam fuisse 
+          conceptam<lb ed="#P" n="90" break="no"/>in gratia: et quod in nullo instanti fuit in peccato. sed 
+          <lb ed="#P" n="91"/>quia inter illos antiquos scolasticos viros qui 
+          te<lb ed="#P" n="92" break="no"/>nuerunt eam conceptam fuisse in peccato originali 
+          pu<lb ed="#P" n="93" break="no"/>lularunt opiniones: aliquibus dicentibus quod ipsa ste 
+          <lb ed="#P" n="94"/>tit in peccato originali preciseper vnum instans. 
+          <lb ed="#P" n="95"/>aliis asserentibus hoc esse impossibile / et 
+          potissi<lb ed="#P" n="96" break="no"/>mum si gratia subito fuisset infusa. Alii dicunt quod in 
+          <lb ed="#P" n="97"/>eodem instanti temporis sunt signanda tria 
+          signa<lb ed="#P" n="98" break="no"/>nature. in primo signo nature / beata virgo fuit in 
+          <lb ed="#P" n="99"/>culpa concepta. in secundo signo nature ipsa erat in 
+          <lb ed="#P" n="100"/>gratia: et in culpa transeunter. in iii. signo nature 
+          <lb ed="#P" n="101"/>ipsa erat in gratia complete et permanenter. et quia 
+          <lb ed="#P" n="102"/>ista falsa iudico. Respondebo sicut censeo per 
+          con<lb ed="#P" n="103" break="no"/>clusiones.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e152">
+          ¶ Quarum prima estr: implicat in eodem 
+          <lb ed="#P" n="104"/>instanti temporis dare plura signa nature: in quo 
+          <lb ed="#P" n="105"/>rum vno habet gratiam: et in alio caret gratia. hanc 
+          <lb ed="#P" n="106"/>conclusionem reputo non egere probatione.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e161">
+          ¶ 
+          Secun<lb ed="#P" n="107" break="no"/>da conclusio: beata virgo poterat stetisse in 
+          origi<lb ed="#P" n="108" break="no"/>nali peccato per vnum instans precise: et postea 
+          suc<lb ed="#P" n="109" break="no"/>cessiue acquisiuisse gratiam. probatur conclusio: sic 
+          <lb ed="#P" n="110"/>est in generatione forme partibiliter acquirende: 
+          <lb ed="#P" n="111"/>quod in vltimo instanti non esse illius forme illa 
+          for<lb ed="#P" n="112" break="no"/>ma non est: et inmediate post hoc erit secundum se vel 
+          ali<lb ed="#P" n="113" break="no"/>quod eius: ergo beata virgo poterat stetisse in 
+          pec<lb ed="#P" n="114" break="no"/>cato originali in vno instanti determinato 
+          respon<lb ed="#P" n="115" break="no"/>dente vltimo instanti non esse illius forme 
+          generan<lb ed="#P" n="116" break="no"/>de.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e186">
+          ¶ Secundo arguituridem: lapis proiectus 
+          sur<lb ed="#P" n="117" break="no"/>sum / vel faba / cui occurrit molaris / non quiescit 
+          per<lb ed="#P" n="118" break="no"/>tempus in contactu molaris: sed ante omne instans 
+          <lb ed="#P" n="119"/>futurum post instans contactus descendet: alio quin 
+          <lb ed="#P" n="120"/>molari resisteret. ponatur quod anima beate virginis 
+          <lb ed="#P" n="121"/>primo informabat suum corpus / in instanti contactus et 
+          <lb ed="#P" n="122"/>in illo instanti fuisset in peccato originali: poterat 
+          <pb ed="#P" n="13-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>deus eam purgare ante omne instans descensus 
+          <lb ed="#P" n="2"/>fabe.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e210">
+          ¶ Tertia conclusio. poterat beata virgo ste 
+          <lb ed="#P" n="3"/>tisse in peccato originali precise perinstans et im 
+          <lb ed="#P" n="4"/>mediate post illud habere gratiam subito 
+          produ<lb ed="#P" n="5" break="no"/>ctam. probatur hec conclusio: potest deus / in hoc 
+          in<lb ed="#P" n="6" break="no"/>stanti producere corpus luminosum in medio 
+          illu<lb ed="#P" n="7" break="no"/>minabili: et non concurrere secum in hoc instanti ad 
+          <lb ed="#P" n="8"/>productionem luminis. tunc sic: in hoc a instanti non est 
+          <lb ed="#P" n="9"/>lumen in hoc medio: et immediate post hoc erit 
+          lu<lb ed="#P" n="10" break="no"/>men in eodem: quia suppono quod corpus luminosum 
+          <lb ed="#P" n="11"/>est productiuum luminis in instanti: ergo non 
+          impli<lb ed="#P" n="12" break="no"/>cat quod immediate post hoc producetur lumen. patet 
+          <lb ed="#P" n="13"/>alioquin agens naturale aptum natum producere 
+          <lb ed="#P" n="14"/>suum effectum subito in medium dispositum stabit 
+          per<lb ed="#P" n="15" break="no"/>tempus antequam suum effectum producat: quod non 
+          <lb ed="#P" n="16"/>est concedendum. sic poterat deus produxisse beatam 
+          <lb ed="#P" n="17"/>virginem in a instanti relinquendo eam in 
+          origina<lb ed="#P" n="18" break="no"/>li peccato in a instanti: et immediate post a instans 
+          <lb ed="#P" n="19"/>purgare eam infundendo gratiam momentaneam 
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e249">
+          <lb ed="#P" n="20"/>¶ Secundo arguitur ad idem: precipiat deus 
+          sorti<lb ed="#P" n="21" break="no"/>diligere eum immediate post hoc instans in quo sumus: 
+          <lb ed="#P" n="22"/>et non in hoc instanti. tunc sic( supposito quod sortes 
+          <lb ed="#P" n="23"/>actum diligendi potest elicere in instanti ) ante 
+          <lb ed="#P" n="24"/>omne instans futurum sortes potest diligere deum 
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e262">
+          <lb ed="#P" n="25"/>¶ Certio arguitur: deus potest facere omne illud 
+          <lb ed="#P" n="26"/>quod non includit contradictionem: sed diuam 
+          virgi<lb ed="#P" n="27" break="no"/>nem stare in peccato originali precise per vnum 
+          <lb ed="#P" n="28"/>instans / et ei gratiam subito infundi / non 
+          inclu<lb ed="#P" n="29" break="no"/>dit contradictionem: igitur.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e275">
+          ¶ Contra probationem ad 
+          <lb ed="#P" n="30"/>secundam conclusionem arguitur sic. omne quod refle 
+          <lb ed="#P" n="31"/>ctitur in puncto reflexionis quiescit. viii. phisicorum: 
+          <lb ed="#P" n="32"/>sed faba rediens ad eundem locum vel similem 
+          mo<lb ed="#P" n="33" break="no"/>netur motu reflexo: vt notum est: ergo quieuit in 
+          <lb ed="#P" n="34"/>tactu molaris per tempus: ergo si beata virgo fuit 
+          <lb ed="#P" n="35"/>in peccato originali in vno instanti / oportet quod 
+          ma<lb ed="#P" n="36" break="no"/>neat in peccato originali per tempus. probatur illa 
+          <lb ed="#P" n="37"/>maior: si corpus aliquod humidum proiiciatur 
+          con<lb ed="#P" n="38" break="no"/>tra parietem siccum / post se relinquit vestigium 
+          <lb ed="#P" n="39"/>humiditatis: et hoc non fuit in instanti. 
+          simi<lb ed="#P" n="40" break="no"/>liter quando cippa proiicitur contra terram / qui 
+          <lb ed="#P" n="41"/>escit illic per tempus antequam resileat: quia 
+          im<lb ed="#P" n="42" break="no"/>petus in cippa acquisitus non potest illud graue 
+          <lb ed="#P" n="43"/>subito mutare in altum ob grauis resistentiam: sed 
+          <lb ed="#P" n="44"/>per tempus quiescit in contactu terre.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e310">
+          ¶ 
+          Responde<lb ed="#P" n="45" break="no"/>tur: illa maior non est vtrobique vera / quod inter motum 
+          <lb ed="#P" n="46"/>rectum et reflexum semper datur quies media: vt 
+          <lb ed="#P" n="47"/>in probatione conclusionis dictum est. Similiter: 
+          <lb ed="#P" n="48"/>si mus cuius pedem in fune ligatum habes mouea 
+          <lb ed="#P" n="49"/>tur a te: et per reflexionem retrahas murem ad te / non 
+          <lb ed="#P" n="50"/>quiescit. nichil mouetur in instanti: ergo nec quie 
+          <lb ed="#P" n="51"/>scit in instanti. tenet consequentia: quia positiuum et 
+          <lb ed="#P" n="52"/>priuatiuum idem tempus mensurat. nec quiescit 
+          per<lb ed="#P" n="53" break="no"/>tempus: quia mus resistere non potest tractui 
+          vi<lb ed="#P" n="54" break="no"/>ri fortis. sed motu naturali / quando motus / est ab 
+          intrin<lb ed="#P" n="55" break="no"/>seco mobile quiescit in puncto reflexionis. 
+          simi<lb ed="#P" n="56" break="no"/>liter in motu violento / nisi vbi occurrit similis 
+          ca<lb ed="#P" n="57" break="no"/>sus de molari et faba. et ratio quare quiescit in fine 
+          <lb ed="#P" n="58"/>a scensus violenti est hec. nam aliquando inpetus a 
+          mo<lb ed="#P" n="59" break="no"/>bili impressus est valde fortis: et tunc violente 
+          mo<lb ed="#P" n="60" break="no"/>uet mobile sursum: sed continue debilitatur virtus 
+          <lb ed="#P" n="61"/>impressa ad tantam remissionem quod non sufficit vl¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>terius mouere sursum: tamen resistit grauitati 
+          tra<lb ed="#P" n="63" break="no"/>henti deorsum: tandem venit ad tantam 
+          remissio<lb ed="#P" n="64" break="no"/>nem quod non sufficit resistere grauitati. capto toto 
+          <lb ed="#P" n="65"/>tpere in quo sufficit mouere / et totum tempus / in quo 
+          <lb ed="#P" n="66"/>sufficit resistere / et totum tempus / in quo non 
+          suffi<lb ed="#P" n="67" break="no"/>cit resistere: in toto tempore inter medio 
+          resisten<lb ed="#P" n="68" break="no"/>tie quiescit: ergo inter illos motus reflexos cadit 
+          <lb ed="#P" n="69"/>quies media: et licet in instanti quo lapis 
+          proie<lb ed="#P" n="70" break="no"/>ctus sursum incipiat quiescere / impetus impressus 
+          <lb ed="#P" n="71"/>sit maior in actiuitate quam grauitas resistat / 
+          tamen<lb ed="#P" n="72" break="no"/>etiam medium diuidendum resistit ne ipsum diuidatur: 
+          <lb ed="#P" n="73"/>virtus impressiua non potest mouere sursum: tunc 
+          <lb ed="#P" n="74"/>successiue remittitur ille impetus quousque veniat 
+          <lb ed="#P" n="75"/>(etiam cum medio) ad equalitatem resistentie cum 
+          <lb ed="#P" n="76"/>actiuitate grauitatis: et tunc graue incipit 
+          descem<lb ed="#P" n="77" break="no"/>dere per remotionem de presenti.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e387">
+          ¶ Contra 
+          ter<lb ed="#P" n="78" break="no"/>tiam conclusionem arguitur sic: ponendo in esse quod 
+          il<lb ed="#P" n="79" break="no"/>la conclusio de possibili denotat. ex ea sequitur quod 
+          <lb ed="#P" n="80"/>instans est immediatum instanti: et si sic / tempus ex 
+          <lb ed="#P" n="81"/>solis instantibus conflatur / quod est impossibile: 
+          siifi<lb ed="#P" n="82" break="no"/>ponatur instans res subito euanescens continuans 
+          <lb ed="#P" n="83"/>partes temporis / siue aliquid aliud ponatur. quod 
+          <lb ed="#P" n="84"/>sequatur patet sic: virgo beata stat in peccato 
+          ori<lb ed="#P" n="85" break="no"/>ginali in a instanti: et gratia infunditur 
+          impartibili<lb ed="#P" n="86" break="no"/>ter: et non in a instanti per primam conclusionem: 
+          <lb ed="#P" n="87"/>ergo in aliquo alio instanti ab a primo infunditur. 
+          <lb ed="#P" n="88"/>sit illud instans b. et tunc sic: vel b instans est 
+          im<lb ed="#P" n="89" break="no"/>mediatum a instanti: et tunc habetur illatum verum: vel 
+          <lb ed="#P" n="90"/>est mediatum: et tunc intercipitur tempus: per 
+          con<lb ed="#P" n="91" break="no"/>sequens ipsa non stetit in peccato originali 
+          preci<lb ed="#P" n="92" break="no"/>se per vnum instans. forte dicis / et bene: non datur 
+          <lb ed="#P" n="93"/>instans in quo primo infunditur gratia: sed quocumque 
+          <lb ed="#P" n="94"/>instanti dato in quo est gratia infusa ante illud instans 
+          <lb ed="#P" n="95"/>eadem gratia infundebatur.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e429">
+          ¶ Contra hoc 
+          argui<lb ed="#P" n="96" break="no"/>tur: quia illo dato sequitur quod gratia solum 
+          conser<lb ed="#P" n="97" break="no"/>uatur / et numquam producitur / distinguendo 
+          productio<lb ed="#P" n="98" break="no"/>nem a conseruatione.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e438">
+          ¶ Respondetur: quocumque 
+          <lb ed="#P" n="99"/>instanti dato in qua illa gratia est / in eodem conseruatur: sed 
+          gra<lb ed="#P" n="100" break="no"/>tia subito infunditur: sed in nullo instanti primo: sed 
+          <lb ed="#P" n="101"/>instantanee sinchategoreumatice: hoc est in a 
+          instam<lb ed="#P" n="102" break="no"/>ti in quo ponitur ipsa de possibili esse in peccato 
+          ori<lb ed="#P" n="103" break="no"/>ginali / verum est dicere: ante quodlibet instans 
+          <lb ed="#P" n="104"/>futurum hec tota gratia erit infusa a deo: secus est 
+          <lb ed="#P" n="105"/>si per motum induceretur gratia. in vltimo instanti 
+          <lb ed="#P" n="106"/>non esse forme(totaliter partibiliter generande ) 
+          <lb ed="#P" n="107"/>verum est dicere: ante quodlibet instans futurum ve 
+          <lb ed="#P" n="108"/>rum erit dicere / est calor vel motus: tamen non 
+          <lb ed="#P" n="109"/>est verum dicere immediate post hoc erit hic 
+          ca<lb ed="#P" n="110" break="no"/>lor: vel hic motus. rem subito produci / est ipsam 
+          pro<lb ed="#P" n="111" break="no"/>duci / et non partibiliter: vel in nullo tempore adequa 
+          <lb ed="#P" n="112"/>to: vel quocumque tempore dato in minori mensura 
+          <lb ed="#P" n="113"/>produci: sed sic erat de gratia in illo casu: ergo 
+          in<lb ed="#P" n="114" break="no"/>stantanee et subito producitur.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e475">
+          ¶ Sed contra istud 
+          <lb ed="#P" n="115"/>arguitur: deus non potest illam gratiam subito 
+          <lb ed="#P" n="116"/>augere postquam ipsa est infusal: ergo non potest 
+          subi<lb ed="#P" n="117" break="no"/>to post originale peccatum infundere. tenet 
+          conse<lb ed="#P" n="118" break="no"/>quentia: quia ita cito potest deus augere 
+          grati<lb ed="#P" n="119" break="no"/>am prius infusam sicut remittere originalem 
+          cul<lb ed="#P" n="120" break="no"/>pam per gratie infusionem. antecedens patet: 
+          dica<lb ed="#P" n="121" break="no"/>tur illa gratia subito infusa a. et augmentum gratie 
+          <lb ed="#P" n="122"/>b / tunc sic: vel a producitur ante b:et tunc inter be 
+          <pb ed="#P" n="13-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>originalem culpam labetur tempus medium: et non 
+          <lb ed="#P" n="2"/>intercipitur tempus inter productionem a. gratie 
+          <lb ed="#P" n="3"/>et originalis culpe ex tertia conclusione: ergo 
+          ne<lb ed="#P" n="4" break="no"/>cesse est quod intercipiatur tempus inter a gratiam et 
+          <lb ed="#P" n="5"/>b gratiam. vel ita cito producitur aet b. et hoc 
+          no<lb ed="#P" n="6" break="no"/>tum est ex casu esse falsum.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e512">
+          ¶ Respondetur quod non est 
+          <lb ed="#P" n="7"/>compossibile quod beata virgzo stetisset in peccato 
+          ori<lb ed="#P" n="8" break="no"/>ginali per vnum instans precise: et a gratia fuisset 
+          <lb ed="#P" n="9"/>infusa subito / sicut diximus: et b augmentum gratie 
+          <lb ed="#P" n="10"/>immediate post a. sed si a gratia fuisset producta 
+          <lb ed="#P" n="11"/>in instanti aliquo demonstrato: vt pote in 
+          instanti<lb ed="#P" n="12" break="no"/>quo ponitur fuisse concepta in peccato originali: 
+          <lb ed="#P" n="13"/>tunc b potest infundi subito post a.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e530">
+          ¶ Contra hec 
+          ar<lb ed="#P" n="14" break="no"/>guitur: post a gratiam potest infundi b et non est 
+          da<lb ed="#P" n="15" break="no"/>bile instans post infusionem a gratie quin inter 
+          il<lb ed="#P" n="16" break="no"/>lud instans et infusionem a gratie potest infundi 
+          b<lb ed="#P" n="17" break="no"/>gratia: ergo immediate post a gratiam potest infum 
+          <lb ed="#P" n="18"/>di bgratia. tenet consequentia ab exponentibus ad 
+          <lb ed="#P" n="19"/>exponibilem de ly immediate.
+        </p>
+        <p xml:id="jm3cbb-e07309-d1e547">
+          ¶ Respondetur: 
+          argu<lb ed="#P" n="20" break="no"/>mentum hoc non concludit aliquid contra solutionem. 
+          <lb ed="#P" n="21"/>debet enin probare hanc modalem compasitam: quod 
+          possi<lb ed="#P" n="22" break="no"/>bile est quod a infunditur subito post culpam originalem 
+          <lb ed="#P" n="23"/>et b infunditur subito post a / et nullo pacto probat 
+          <lb ed="#P" n="24"/>hoc: sed innititur probationi impertinenti illi 
+          sen<lb ed="#P" n="25" break="no"/>sui. Iam diximus quod beata virgo. nullomodo est 
+          con<lb ed="#P" n="26" break="no"/>cepta in peccato originali: poterat tamen deus (si 
+          <lb ed="#P" n="27"/>voluisset) eam in peccato originali reliquisse 
+          pre<lb ed="#P" n="28" break="no"/>cise per vnum instans: et postea subito eam purgasse 
+          <lb ed="#P" n="29"/>vt ex conclusione tertia et secunda patuit. et si non 
+          fuis<lb ed="#P" n="30" break="no"/>sent rationes rationabiliter caput cuiuslibet 
+          sa<lb ed="#P" n="31" break="no"/>pientis conuincentes / quod ipsa nunquam erat in peccato 
+          <lb ed="#P" n="32"/>originali: sed plus rationis fuisset quod ipsa erat 
+          con<lb ed="#P" n="33" break="no"/>cepta in peccato originali: tenuissem de facto 
+          prin<lb ed="#P" n="34" break="no"/>cipalem conclusionem huius quaestionis. et ratio me mouens 
+          <lb ed="#P" n="35"/>est. Ioannes / et hieremias / in maternis vteris 
+          <lb ed="#P" n="36"/>sanctificati sunt per gratiam: multo plus decet quod 
+          <lb ed="#P" n="37"/>christifera virgo prius fuisset sanctificata: et 
+          dan<lb ed="#P" n="38" break="no"/>ddo illi quod eam et deum maxime congruit: hoc est in 
+          <lb ed="#P" n="39"/>minima mensura in originali stetisse: hoc est 
+          pre<lb ed="#P" n="40" break="no"/>cise per instans.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

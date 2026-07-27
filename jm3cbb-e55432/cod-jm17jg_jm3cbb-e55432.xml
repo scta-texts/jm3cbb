@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 17</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 17</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="91-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e55432"><!-- l3d33q17 -->
+        <head xml:id="jm3cbb-e55432-Hd1e99">Quaestio 17</head>
+        <head xml:id="jm3cbb-e55432-Hd1e101" type="question-title">An martyrium sit actus et habitus fortitudinis</head>
+        <p xml:id="jm3cbb-e55432-d1e104">
+          <lb ed="#P" n="16"/>OCtauo queritur circa 
+          <lb ed="#P" n="17"/>materiam fortitudinis: an 
+          mar<lb ed="#P" n="18" break="no"/>tyrium sit actus et habitus 
+          for<lb ed="#P" n="19" break="no"/>titudinis.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e115">
+          ¶ Respondetur 
+          per<lb ed="#P" n="20" break="no"/>conclusiones: Quarum prima 
+          <lb ed="#P" n="21"/>est. aliquod martirium est actus 
+          iu<lb ed="#P" n="22" break="no"/>sticie. probatur. aliquis actus 
+          <lb ed="#P" n="23"/>martyrium habet omnia requisita ad iusticie actum. 
+          <lb ed="#P" n="24"/>ergo aliquod martyrium est actus / iustitie. antecedens 
+          <lb ed="#P" n="25"/>patet: de iudice qui non vult relinquere actum 
+          iusti<lb ed="#P" n="26" break="no"/>cie non obstante conditione mortis proposita.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e133">
+          ¶ 
+          Se<lb ed="#P" n="27" break="no"/>cunda conclusio: aliquis actus martyrii est actus 
+          tem<lb ed="#P" n="28" break="no"/>perantie. probatur de actu quo bertha coniugata nult 
+          <lb ed="#P" n="29"/>se a tyranno cognosci non obstante conditione 
+          mor<lb ed="#P" n="30" break="no"/>tis. vel de actu quo sortes nult non suam 
+          cognosce<lb ed="#P" n="31" break="no"/>re non obstante conditione mortis.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e147">
+          ¶ Tertia 
+          conclu<lb ed="#P" n="32" break="no"/>sio: martyrium est actus fortitudinis. probatur: omnis 
+          <lb ed="#P" n="33"/>ille actus quo quis non vult omittere actum 
+          pre<lb ed="#P" n="34" break="no"/>cepti affirmatiui nec contraire positiue precepto 
+          <lb ed="#P" n="35"/>negatiuo non obstante morte est actus / fortitudinis: 
+          <lb ed="#P" n="36"/>martyrium est huiusmodi: igitur. Secundo arguitur ad 
+          <lb ed="#P" n="37"/>idem: omnis actus habens mortem pro partiali 
+          ob<lb ed="#P" n="38" break="no"/>iecto conformiter ad dictamen recte rationis est 
+          <lb ed="#P" n="39"/>actus fortitudinis: actus martyrii est huiusmodi. 
+          <lb ed="#P" n="40"/>Tertio arguitur ad idem. si aliquid prohiberet illum 
+          <lb ed="#P" n="41"/>actum esse actum martyrii: hoc esset propterea sicut 
+          <lb ed="#P" n="42"/>dicit martinus: quia actus est denominandus solum a 
+          <lb ed="#P" n="43"/>fine: et non a partiali obiecto vel ab actu medii: et 
+          <lb ed="#P" n="44"/>actus est simplex. ergo debet spectare ad simplicem 
+          <lb ed="#P" n="45"/>vnam virtutem: per consequens vel erit actus / 
+          iu<lb ed="#P" n="46" break="no"/>sticie tantum: vel temperantie tantum: vel alicuius 
+          <lb ed="#P" n="47"/>alterius virtutis. sed ista nichil valent. ergo 
+          conclu<lb ed="#P" n="48" break="no"/>sio vera. minor patet: dilectio sortis propter deum est 
+          <lb ed="#P" n="49"/>vsus et fruitio copulatim copulatiue secundum 
+          om<lb ed="#P" n="50" break="no"/>nes loquentes et ipsummet: fruitio respectu dei: et vsus 
+          <lb ed="#P" n="51"/>respectu creature. ergo pari ratione actus iste / volo 
+          <lb ed="#P" n="52"/>pati mortem antequam deseram actum iusticie: erit actus 
+          <lb ed="#P" n="53"/>fortitudinis iusticie: quia habet mortem pro 
+          par<lb ed="#P" n="54" break="no"/>tiali obiecto: et actu iusticie pro fine partiali 
+          ob<lb ed="#P" n="55" break="no"/>iecto.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e202">
+          ¶ Quarto arguitur ad idem: idem actus 
+          nume<lb ed="#P" n="56" break="no"/>ro spectat ad duas virtutes cardinales: et erit 
+          mix<lb ed="#P" n="57" break="no"/>tus per equiualentiam. ergo non inconuenit eundem 
+          <lb ed="#P" n="58"/>actum spectare ad duas virtutes cardinales: 
+          con<lb ed="#P" n="59" break="no"/>sequentia est nota: et probari potest antecedens per 
+          <lb ed="#P" n="60"/>dicta. Sed forte dicet alter. habendus est oculus so¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>lum ad finem. et negaret quod idem actus esset vsus et 
+          <lb ed="#P" n="62"/>fruitio. sed dici debet fruitio solum: sicut 
+          Aristote<lb ed="#P" n="63" break="no"/>les dicit. iiii. ethicorum: mechans propter lucrum est 
+          <lb ed="#P" n="64"/>auarus et non mechus. ad hoc iam in hoc tertio 
+          su<lb ed="#P" n="65" break="no"/>perius respondi. Et contra hoc arguitur: et capio actum 
+          <lb ed="#P" n="66"/>qui duas virtutes cardinales habet copulatim pro 
+          <lb ed="#P" n="67"/>fine: vt pote volo pati mortem antequam actum 
+          in<lb ed="#P" n="68" break="no"/>temperantie et iniusticie committam. talis actus 
+          <lb ed="#P" n="69"/>pertinet ad temperantiam virtutem cardinalem: et 
+          <lb ed="#P" n="70"/>qua ratione ad temperantiam pertinet eadem 
+          ratio<lb ed="#P" n="71" break="no"/>ne ad iusticiam: ergo idem actus erit duarum virtutum car 
+          <lb ed="#P" n="72"/>dinalium. eodem modo trium virtutum 
+          cardina<lb ed="#P" n="73" break="no"/>lium: obiecta trium ponendo: vel trium fines 
+          apponen<lb ed="#P" n="74" break="no"/>do. ergo eodem modo non inconuenit quod idem actus sit 
+          fortitu<lb ed="#P" n="75" break="no"/>do et iusticia / fortitudo et temperantia. Preterea arguitur 
+          <lb ed="#P" n="76"/>per illud Cipriani in epistola ad martyres dicentis. O beati 
+          <lb ed="#P" n="77"/>martyres: quibus vos laudibus predicem. O 
+          mili<lb ed="#P" n="78" break="no"/>tes fortissimi robore corporis vestri quo 
+          preco<lb ed="#P" n="79" break="no"/>nio vos explicem. et Leo papa (more cipriani) 
+          vo<lb ed="#P" n="80" break="no"/>cat martyres fortissimos. et de facto ita eos 
+          vocas<lb ed="#P" n="81" break="no"/>set sapiens quilibet. philosophus difficiliora et duriora 
+          <lb ed="#P" n="82"/>laurentius vincentius pertulerunt quam vnquam 
+          achil<lb ed="#P" n="83" break="no"/>les vel hector.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e267">
+          ¶ Quarta conclusio. ad martyrium 
+          <lb ed="#P" n="84"/>commune vel ad actum martyrii requiritur quod si 
+          ho<lb ed="#P" n="85" break="no"/>mo vellet desistere ab opere suo: non occideretur. patet. 
+          <lb ed="#P" n="86"/>actus martyrii est actuo heroicus: sed non esset actus 
+          <lb ed="#P" n="87"/>heroicus si homo non posset libere desistere: sed 
+          coge<lb ed="#P" n="88" break="no"/>retur mortet subire. igitur. Secundo arguitur ad idem. 
+          <lb ed="#P" n="89"/>post predicationem aliquam honestam si homo 
+          occi<lb ed="#P" n="90" break="no"/>deretur et non posset euadere: si non erat prescius 
+          mor<lb ed="#P" n="91" break="no"/>tis quando praedicauit: tunc mortem equanimiter 
+          to<lb ed="#P" n="92" break="no"/>lerare pertinet ad patientiam: ergo non ad martyrium. 
+          <lb ed="#P" n="93"/>Tertio: illud patet secundi machabeorum sexto de 
+          <lb ed="#P" n="94"/>eleazaro. dicebat enim eleazarus: domine qui hanc 
+          san<lb ed="#P" n="95" break="no"/>ctam scientiam manifeste tu scis: qui cum a morte 
+          <lb ed="#P" n="96"/>possim liberari: duros corporis sustineo dolores: 
+          <lb ed="#P" n="97"/>secundum animam vero propter timorem tuum 
+          li<lb ed="#P" n="98" break="no"/>benter hec patior.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e302">
+          ¶ Quinta conclusio: requiritur 
+          <lb ed="#P" n="99"/>iusta rationabilis causa ad patiendum ad hoc 
+          <lb ed="#P" n="100"/>quod dicatur martyrium. probatur hec conclusio: omnis 
+          <lb ed="#P" n="101"/>martyr sic moriens statim euolat. ergo moritur in 
+          iu<lb ed="#P" n="102" break="no"/>sta causa. antecedens patet: iniuriam facit martyri qui orat 
+          <lb ed="#P" n="103"/>pro martyre: et hoc non esset nisi qua statim est 
+          sal<lb ed="#P" n="104" break="no"/>uatus et beatus. Secundo: opposito dato: 
+          hereti<lb ed="#P" n="105" break="no"/>ci essent martyres: et aliqui infideles: pro suo errore 
+          <lb ed="#P" n="106"/>morientes. consequens est falsum. igitur. Tertio 
+          argui<lb ed="#P" n="107" break="no"/>tur per glosam super illo psalmi. xxxiiii. deus meus 
+          <lb ed="#P" n="108"/>et dominus meus in causam meam. martyres non 
+          fa<lb ed="#P" n="109" break="no"/>cit pena: sed causa.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e328">
+          ¶ Contra tres primas conclusiones 
+          <lb ed="#P" n="110"/>arguitur: ex eis sequitur quod idem actus numero 
+          es<lb ed="#P" n="111" break="no"/>set actus iusticie fortitudinis: vel temperantie 
+          <lb ed="#P" n="112"/>fortitudimis: vel temperantie fortitudinis et 
+          iusti<lb ed="#P" n="113" break="no"/>cie: consequens est falsum: quia tunc non essent 
+          vir<lb ed="#P" n="114" break="no"/>tutes cardinales distincte.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e341">
+          ¶ Secundo. sicut arguit 
+          <lb ed="#P" n="115"/>martinuo: actus quo nolo deserere actum iusticie 
+          <lb ed="#P" n="116"/>non obstante conditione mortis est actus vnicus. ergo 
+          <lb ed="#P" n="117"/>ad vnam virtutem spectat.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e351">
+          ¶ Respondetur ad 
+          pri<lb ed="#P" n="118" break="no"/>mum concedendo sequelam: et negando falsitatem 
+          <lb ed="#P" n="119"/>consequentis. virtutes non semper realiter 
+          distinguun<lb ed="#P" n="120" break="no"/>tur. sed distinguuntur interdum realiter: quando ha¬ 
+          <pb ed="#P" n="91-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>bent obiecta realiter et totaliter distincta. 
+          inter<lb ed="#P" n="2" break="no"/>dum distinguuntur ratione: puta alia est ratio 
+          qua<lb ed="#P" n="3" break="no"/>re aliqua virtus est iusticia alia quare fortitudo. 
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e371">
+          <lb ed="#P" n="4"/>¶ Ad secundum concedo antecedens. est vnicus et 
+          homogene<lb ed="#P" n="5" break="no"/>ua: sed est multiplex per equiualentiam: 
+          quemadmo<lb ed="#P" n="6" break="no"/>dum est de vsu et fruitione. actus est vnicus hoc est 
+          om<lb ed="#P" n="7" break="no"/>nes partes eius sunt eiusdem rationis inter se: et sic 
+          <lb ed="#P" n="8"/>habitus genitus: sed est duplex per equiualentiam. 
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e384">
+          <lb ed="#P" n="9"/>¶ Contra quartam conclusionem arguitur: ex ea 
+          se<lb ed="#P" n="10" break="no"/>quitur quod innocentes occisi pro christo non erant 
+          <lb ed="#P" n="11"/>martyres. consequens est contra ritum ecclesie.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e393">
+          ¶ 
+          Secun<lb ed="#P" n="12" break="no"/>do sequitur quod Ioannes baptista non erat martyr 
+          <lb ed="#P" n="13"/>nec abel. patet: alter bene predicauit contra herodem 
+          <lb ed="#P" n="14"/>quod non liceret ei habere vxorem sui fratris: et eum 
+          <lb ed="#P" n="15"/>arguebat: post indicationem non poterat euadere: vt 
+          <lb ed="#P" n="16"/>quemadmodum aliquo iam predicaret in generali 
+          con<lb ed="#P" n="17" break="no"/>tra vicia regis. de Abele patet: solum bene vixit. de 
+          <lb ed="#P" n="18"/>occisione fratris nichil sciebat.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e411">
+          ¶ Tertio 
+          Ihero<lb ed="#P" n="19" break="no"/>nimus dicit in sermone de assumptione diue 
+          virgi<lb ed="#P" n="20" break="no"/>nis quod ipsa erat martyr.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e418">
+          ¶ Ad primum dicitur: ipsum 
+          <lb ed="#P" n="21"/>non mouet: quia dicebam ad martyrium commune. per 
+          <lb ed="#P" n="22"/>hoc solos pueros secludere intendebam: 
+          adieci<lb ed="#P" n="23" break="no"/>ad actum martyrii
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e428">
+          ¶ Ad secundum nego sequelam: 
+          <lb ed="#P" n="24"/>sciebat Ioannes vel certo vel verosimiliter quod 
+          ty<lb ed="#P" n="25" break="no"/>rannus ille ei vltimum supplicium inferret. non 
+          obstan<lb ed="#P" n="26" break="no"/>te totus charitate ardens noluit tacere: sed vicium 
+          <lb ed="#P" n="27"/>publicum arguere: et idem esset de concionatore nunc 
+          <lb ed="#P" n="28"/>requiritur tamen prudentia ad predicandum: non 
+          <lb ed="#P" n="29"/>quidem mundana: sed diuina: recta: predicator 
+          <lb ed="#P" n="30"/>cum aliis conferat timentibus deum: et bona iudicia 
+          <lb ed="#P" n="31"/>habentibus: an expediat predicare vt vicia 
+          purgen<lb ed="#P" n="32" break="no"/>tur. et si inueniatur quod sic: ponat animam suam in 
+          ma<lb ed="#P" n="33" break="no"/>nibus suis habendo deum pre oculis: si non habeat 
+          <lb ed="#P" n="34"/>consilio prudentum quod predicaturus sit hoc publice. 
+          <lb ed="#P" n="35"/>taceat. de Abele et multis occisis inopinate qui 
+          insi<lb ed="#P" n="36" break="no"/>stebant in aliquo honesto opere: qui nesciebant 
+          mor<lb ed="#P" n="37" break="no"/>tem sequi ad illam operationem: non sunt strictissime dicti 
+          mar<lb ed="#P" n="38" break="no"/>tyres: latiore vocabulo martyres dici possunt.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e463">
+          ¶ Sic 
+          <lb ed="#P" n="39"/>ad tertium dicitur de diua virgine quod ipsa erat martyr 
+          laxa<lb ed="#P" n="40" break="no"/>to vocabulo: et specialius erat in illa quod in multis aliis: 
+          <lb ed="#P" n="41"/>propter dolorem quem habebat videndo filium tam 
+          <lb ed="#P" n="42"/>turpiter et ignominiose mori: secundum dictum 
+          si<lb ed="#P" n="43" break="no"/>meonis ei Luc. ii. et tuam et ipsius animam pertransibit  
+          <lb ed="#P" n="44"/>gladius.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e479">
+          ¶ Quarto arguitur. perfectissimus actus 
+          <lb ed="#P" n="45"/>non est actus fortitudinis. iusticia est maior virtus 
+          <lb ed="#P" n="46"/>et altior quam fortitudo. sed pati mortem est actus / 
+          perfe<lb ed="#P" n="47" break="no"/>ctissimus charitatis: secundum illud Ioannis. xv. 
+          <lb ed="#P" n="48"/>maiorem autem dilectionem nemo habet quod vt animam 
+          <lb ed="#P" n="49"/>suam quis ponat pro amicio suis.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e492">
+          ¶ Respondetur: 
+          <lb ed="#P" n="50"/>idem actus numero est actus iusticie et martyrii: 
+          <lb ed="#P" n="51"/>vt patuit ex nuperrime dictis. et si ponas aliquem 
+          <lb ed="#P" n="52"/>perpeti pro opere consilii: adhuc dico ille actus est 
+          <lb ed="#P" n="53"/>magne perfectionis: eo quod homo dat illa qua 
+          maxi<lb ed="#P" n="54" break="no"/>me amat inter omnia temporalia: scilicet vitam: et 
+          ca<lb ed="#P" n="55" break="no"/>pit illa que odit multum: scilicet mortem 
+          volunta<lb ed="#P" n="56" break="no"/>rie illatam: si esset mors naturalis: ad patientiam: 
+          <lb ed="#P" n="57"/>et non ad fortitudinem spectaret: sed dari potest vnum 
+          <lb ed="#P" n="58"/>indiuiduum iusticie tante perfectionis sicut est iste actus 
+          <lb ed="#P" n="59"/>fortitudinis:. sic saluatur bonitas et eminentia 
+          iu<lb ed="#P" n="60" break="no"/>sticie in ordine ad fortitudinem. sed de hoc latius 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>loquemur: cum de excessu virtutum inter se 
+          loque<lb ed="#P" n="62" break="no"/>mur.
+        </p>
+        <p xml:id="jm3cbb-e55432-d1e525">
+          ¶ Ecce quomodo martyrum est actus / vel 
+          ha<lb ed="#P" n="63" break="no"/>bitus fortitudinis: similiter iusticie: vel 
+          temperan<lb ed="#P" n="64" break="no"/>tie. similiter ad fidem pertinere potest: sicut alii 
+          dice<lb ed="#P" n="65" break="no"/>rent quod fidem potest habere pro fine. sed non est in eadem 
+          <lb ed="#P" n="66"/>potentia primo cum fide. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

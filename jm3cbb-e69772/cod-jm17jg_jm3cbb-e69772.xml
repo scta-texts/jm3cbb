@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="114-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e69772"><!-- l3d36q8 -->
+        <head xml:id="jm3cbb-e69772-Hd1e99">Quaestio 8</head>
+        <head xml:id="jm3cbb-e69772-Hd1e101" type="question-title">De virtutibus politicis purgatoriis et purgati animi: quomodo
+    continentia, temperantia gradus et virtus heroica conveniant
+    inter se, et an specie differant</head>
+        <p xml:id="jm3cbb-e69772-d1e104">
+          <lb ed="#P" n="109"/>Quarto queritur de 
+          vir<lb ed="#P" n="110" break="no"/>tutibus politicis purgatoriis et 
+          <lb ed="#P" n="111"/>purgati animi. non multum 
+          dif<lb ed="#P" n="112" break="no"/>ferunt ab hoc quaerere / quomodo 
+          conti<lb ed="#P" n="113" break="no"/>nentia / temperantia gradus / e 
+          vir<lb ed="#P" n="114" break="no"/>tus heroica / conueniant inter se: 
+          <lb ed="#P" n="115"/>et an specie differant. In hac 
+          qua<lb ed="#P" n="116" break="no"/>stione aliquas notaciunculas terminorum 
+          explicati<lb ed="#P" n="117" break="no"/>uas ponam: postea ad questionem conclusiue respondebo. 
+          <lb ed="#P" n="118"/>Macrobius in secundo super somnum dicit / 
+          ali<lb ed="#P" n="119" break="no"/>que sunt virtutes exemplares: alique vero sunt po¬ 
+          <pb ed="#P" n="114-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>litice: alique purgatorie: alique vero purgati animi. 
+          <lb ed="#P" n="2"/>simili distinctione vtitur plotinus. virtutes vocabant 
+          <lb ed="#P" n="3"/>exemplar / quarum exemplar et ydea in deo relucet. 
+          sa<lb ed="#P" n="4" break="no"/>pia / bonitas / deo attribuuntur: sic fortitudo / 
+          man<lb ed="#P" n="5" break="no"/>suetudo / iusticia / et misericordia. de fortitudine 
+          pa<lb ed="#P" n="6" break="no"/>tet primi Aegum. x. non est fortis sicut deus noster. de 
+          <lb ed="#P" n="7"/>mansuetudine Michee. v. querite mansuetum: quarite 
+          <lb ed="#P" n="8"/>bonum: non quod virtutes sint eiusdem rationis in eo et in 
+          <lb ed="#P" n="9"/>nobis: immo nulle tales sunt in deo: etiam in lumine 
+          na<lb ed="#P" n="10" break="no"/>turali loquendo. Unde dicit Aristoteles. x. 
+          Ethico<lb ed="#P" n="11" break="no"/>rum. Ridiculum est deo iusticiam / fortitudinem / 
+          tempe<lb ed="#P" n="12" break="no"/>rantiam / et prudentiam attribuere: sed metaphorice 
+          <lb ed="#P" n="13"/>excellentes virtutes ei attribuuntur a scriptura et a 
+          <lb ed="#P" n="14"/>platonicis philosophis. Fortitudo dei est eius 
+          imu<lb ed="#P" n="15" break="no"/>tabilitas. iusticia dei est obseruatio legis eterne in 
+          <lb ed="#P" n="16"/>suis operibus: vt dicit plotinus. exemplar ergo 
+          huma<lb ed="#P" n="17" break="no"/>ne virtutis est in deo: sicut in deo existunt rerum 
+          <lb ed="#P" n="18"/>ydee. tales metaphorice virtutes in deo dicuntur 
+          <lb ed="#P" n="19"/>virtutes exemplares ab illis philosophis. 
+          Uirtu<lb ed="#P" n="20" break="no"/>tes politice sunt note in doctrina philosophi. 
+          Ter<lb ed="#P" n="21" break="no"/>tie dicuntur virtutes purgatorie in diuinam 
+          similitu<lb ed="#P" n="22" break="no"/>dinem tendentes: vt quando prudentia omnia mundana 
+          diui<lb ed="#P" n="23" break="no"/>norum contemplatione despicit: omnemque anime cogitatio 
+          <lb ed="#P" n="24"/>nem in diuina sola dirigit. temperantia vero relinquit 
+          <lb ed="#P" n="25"/>inquantum natura patitur quae corporis vsus requirit: et ita 
+          <lb ed="#P" n="26"/>de aliis virtutibus purgatoriis. Alie sunt virtutes 
+          <lb ed="#P" n="27"/>purgati animi: et sunt virtutes hominem a terrenis 
+          <lb ed="#P" n="28"/>iam actualiter euocantes ad contemplanda sola celestia: 
+          <lb ed="#P" n="29"/>ita quod prudentia sola diuina intueatur: temperantia 
+          ter<lb ed="#P" n="30" break="no"/>renas cupiditates nesciat: fortitudo passiones 
+          igno<lb ed="#P" n="31" break="no"/>ret: iusticia cum diuina mente perpetuo federe societur. 
+          <lb ed="#P" n="32"/>Eet quauis hi philosophi sic loquuntur: in hac 
+          morta<lb ed="#P" n="33" break="no"/>li vita pauci illud genus virtutis assequuntur. in 
+          bea<lb ed="#P" n="34" break="no"/>tis optime inuenitur. Licet hi philosophi non 
+          inerudi<lb ed="#P" n="35" break="no"/>te loquantur: parapateticorum princeps non longe ab hoc 
+          <lb ed="#P" n="36"/>dicendi modo distat: alia distinctione vtens: cuius 
+          do<lb ed="#P" n="37" break="no"/>ctrina est comnior: quia fertilior et vtilor. suo modo 
+          lo<lb ed="#P" n="38" break="no"/>quendi vtar. Tres sunt gradus virtutum: continentia / 
+          <lb ed="#P" n="39"/>temperantia /  virtus heroica. continens / vehementes 
+          <lb ed="#P" n="40"/>passiones habet ad illicitum inclinantes sed 
+          glorio<lb ed="#P" n="41" break="no"/>sus victor in concupiscentiis euadit. Temperatus in 
+          <lb ed="#P" n="42"/>gradu iam pessumdedit insultus malos concupiscentie: et 
+          <lb ed="#P" n="43"/>nullos / aut remissos / habet. omnia in eo rationi parent: 
+          <lb ed="#P" n="44"/>nec inter sensualitatem et rationem est ciuile bellum: sed 
+          <lb ed="#P" n="45"/>plena armonia et tranquillitas domestica. Uirtus 
+          he<lb ed="#P" n="46" break="no"/>roica est diuima virtus: et est virtus comunem facultatem 
+          homi<lb ed="#P" n="47" break="no"/>num transcendens: et deo vel beatis appropinquans: 
+          <lb ed="#P" n="48"/>quomodo in hac vita conuenire potest. homo 
+          ha<lb ed="#P" n="49" break="no"/>bet animam dei imaginem: et cum angelis et 
+          bea<lb ed="#P" n="50" break="no"/>tis in ea parte conuenit: sensualitatem cum brutis 
+          <lb ed="#P" n="51"/>altioris tamen speciei. potest habere aliquos 
+          ha<lb ed="#P" n="52" break="no"/>bitus eum bestialem denominantes. et per 
+          oppo<lb ed="#P" n="53" break="no"/>situm bonos eum heroicum appellantes. virtus est 
+          <lb ed="#P" n="54"/>heroica: vel quia transcendit communem statum 
+          ho<lb ed="#P" n="55" break="no"/>minum ex parte obiecti: vt pati martyrium cum 
+          lau<lb ed="#P" n="56" break="no"/>rentio / vincentio / bartholomeo / vel sebastiano: 
+          <lb ed="#P" n="57"/>vel ex parte circunstantiarum occurrentium. ex 
+          <lb ed="#P" n="58"/>parte temporis: esto quod non sit actus heroicus 
+          pro<lb ed="#P" n="59" break="no"/>vno die vel hora: quemadmodum in thebaide eg 
+          v<lb ed="#P" n="60" break="no"/>pti: et hodierno die carthissienses boni temperan¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tiamheroicam ducunt. vel quando alicui bono 
+          os<lb ed="#P" n="62" break="no"/>fertur caducus honos mundanus: quem 
+          paucissi<lb ed="#P" n="63" break="no"/>mi relinquerent: sed plicatis manibus ipsum 
+          sequae<lb ed="#P" n="64" break="no"/>rentur. sed probus bonum dat aliis exemplum: mum 
+          <lb ed="#P" n="65"/>danum illud relinquit: in domino cogitatum iactans. 
+          <lb ed="#P" n="66"/>Perseuerantia est non vinci a passione insurgente: 
+          <lb ed="#P" n="67"/>sed de victoria nichil ponit.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e282">
+          ¶ His premissis / 
+          po<lb ed="#P" n="68" break="no"/>no quattuor conclusiones: quarum prima est. 
+          Con<lb ed="#P" n="69" break="no"/>tinentia est melior perseuerantia. Secunda 
+          conclu<lb ed="#P" n="70" break="no"/>sio. Temperantia gradus prestat continentie. 
+          Ter<lb ed="#P" n="71" break="no"/>tia conclusio. Uirtus heroica est virtutum 
+          supre<lb ed="#P" n="72" break="no"/>ma. Quarta conclusio. Non oportet istas virtutes 
+          <lb ed="#P" n="73"/>inter se specie distingui.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e298">
+          ¶ Prima conclusio 
+          proba<lb ed="#P" n="74" break="no"/>tur: melius est vincere delectationes occurrentes 
+          <lb ed="#P" n="75"/>ad illicitum trahentes quam sustinere trissicias et 
+          ab<lb ed="#P" n="76" break="no"/>eis non vinci. sed continentia est in vincendoet 
+          re<lb ed="#P" n="77" break="no"/>pellendo delectationes occurrentes. perseuerantia 
+          <lb ed="#P" n="78"/>est in hoc quod homo non succumbat a tristiciis: sed 
+          pa<lb ed="#P" n="79" break="no"/>tiatur: et non vincatur. primum est melius quam 
+          secun<lb ed="#P" n="80" break="no"/>dum. Secundo probatur eadem conclusio. sint due 
+          mu<lb ed="#P" n="81" break="no"/>lieres a. et b. quibus presententur delectationes et 
+          tri<lb ed="#P" n="82" break="no"/>sticie. a mulieri delectationes presentantur quate 
+          <lb ed="#P" n="83"/>nus castitatem amittat: ipsa a. resistit tentationi: et 
+          <lb ed="#P" n="84"/>cum hoc delectationem presentatam expellit: et 
+          <lb ed="#P" n="85"/>actum continentie elicit oppositum inclinationi 
+          <lb ed="#P" n="86"/>delectationis. b. mulieri presentatur aliquid 
+          tri<lb ed="#P" n="87" break="no"/>ste: puta absentia delectationum vel huiusmodi quaete 
+          <lb ed="#P" n="88"/>nus ipsa consentiat. b. non consentit: sed non 
+          eli<lb ed="#P" n="89" break="no"/>cit oppositum. iam a. mulier melius et 
+          laudabili<lb ed="#P" n="90" break="no"/>us se habet quam: b. mulier. ergo habitus eius et 
+          ac<lb ed="#P" n="91" break="no"/>tus est melior actu et habitu b. sed. a. vtitur 
+          conti<lb ed="#P" n="92" break="no"/>nentia / e b. perseuerantia: igitur conclusio vera. 
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e343">
+          <lb ed="#P" n="93"/>¶ Secunda conclusio probatur. Continentia 
+          gra<lb ed="#P" n="94" break="no"/>dus admittit insultus passionum in suo subiecto. 
+          <lb ed="#P" n="95"/>temperantia gradus hos iam extinxit: et nitide 
+          <lb ed="#P" n="96"/>repellit: si qui sint. ergo temperantia est melior 
+          con<lb ed="#P" n="97" break="no"/>tinentia. consequentia tenet: arguitur sic: et non 
+          mul<lb ed="#P" n="98" break="no"/>tum distat a vigore rationis precedentis. omnis 
+          <lb ed="#P" n="99"/>ille habitus qui a sua sede vicia expurgat sua 
+          per<lb ed="#P" n="100" break="no"/>fectione: est melior quam ille qui multas sordes adhuc 
+          <lb ed="#P" n="101"/>in eadem secum compatitur: sed sic est de 
+          tempe<lb ed="#P" n="102" break="no"/>rantia e: intemperantia: igitur.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e367">
+          ¶ Confirmatur hec 
+          <lb ed="#P" n="103"/>ratio per simile: multo melior famulus est ille in do 
+          <lb ed="#P" n="104"/>mo materiali mundana: quisordes omnes tam 
+          sub<lb ed="#P" n="105" break="no"/>lecto vel sub archa quam cathedris et in plano 
+          inuen<lb ed="#P" n="106" break="no"/>tas a domo eiicit: quam ille qui has sordes solum in 
+          <lb ed="#P" n="107"/>plano inuentas purgat. sed talis famulus est tem 
+          <lb ed="#P" n="108"/>perantia gradus / et alius continentia: igitur.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e383">
+          ¶ 
+          Pre<lb ed="#P" n="109" break="no"/>terea: intemperantia est deterior incontinentia secundu 
+          <lb ed="#P" n="110"/>Aristotelem: et supra deduximus. 
+          ergotemperan<lb ed="#P" n="111" break="no"/>tia est melior continentia. tenet consequentia: me 
+          <lb ed="#P" n="112"/>liori virtuti peius vicium opponitur / et econuerso. 
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e394">
+          <lb ed="#P" n="113"/>¶ Tertia conclusio probatur. substantia quanto 
+          <lb ed="#P" n="114"/>magis appropinquat deo: ipsa est perfectior. 
+          er<lb ed="#P" n="115" break="no"/>go virtus que magis accedit ad virtutem 
+          exem<lb ed="#P" n="116" break="no"/>plarem dei: est melior sed sic est de virtute 
+          heroi<lb ed="#P" n="117" break="no"/>ca: hoc est diuina: igitur. Secundo arguitur ad idem. 
+          <lb ed="#P" n="118"/>virtust ars sunt circa difficile. ii. Ethicorum. sed 
+          <lb ed="#P" n="119"/>virtus heroica est difficilior virtute non heroica: 
+          <lb ed="#P" n="120"/>velex parte obiecti: vel circunstantie. hoc ex ho¬ 
+          <pb ed="#P" n="115-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>mero septimi Ethicoru primo Aristoteles probat: 
+          <lb ed="#P" n="2"/>vbi hhomerus priamum introducit de hectore 
+          di<lb ed="#P" n="3" break="no"/>centem eo quod hector eximia bonitate prestabat. Nec 
+          <lb ed="#P" n="4"/>iam hominis sane mortalis filius ille esse 
+          videba<lb ed="#P" n="5" break="no"/>tur: sed diuo semine natus. et cum vicium non est 
+          <lb ed="#P" n="6"/>virtus: non est heroica virtus. sicut aqua non est 
+          po<lb ed="#P" n="7" break="no"/>tus humidus: cum non est potus. sequitur quod 
+          hercu<lb ed="#P" n="8" break="no"/>les / alexander macedo / iulius cesar / et huiusmodi qui alio 
+          <lb ed="#P" n="9"/>rum respublicas violarunt: et intemperanter 
+          vixe<lb ed="#P" n="10" break="no"/>runt: non erant heroici: sed viri perditissimi tam in 
+          <lb ed="#P" n="11"/>morali philosophia gentilium quam apud sacras hysto 
+          <lb ed="#P" n="12"/>rias. sed inter gentiles hi heroici erant: socrates / 
+          <lb ed="#P" n="13"/>diogenes in dolio / aristides: et magis / prophete ve 
+          <lb ed="#P" n="14"/>ris testamenti: et maxime viri percelebres in 
+          pri<lb ed="#P" n="15" break="no"/>mitiua ecclesia: qui omnia bona caduca mundi 
+          re<lb ed="#P" n="16" break="no"/>linquentes: christum vite normam sequuti sunt: 
+          pru<lb ed="#P" n="17" break="no"/>dentes sicut serpentes: simplices sicut columbe: 
+          hu<lb ed="#P" n="18" break="no"/>millimi: patientissimi ibant apostoli g audentes: 
+          <lb ed="#P" n="19"/>quanm digni habiti sunt pro nomine iesu contumeliam 
+          <lb ed="#P" n="20"/>pati: cardinalibus virtutibus erant in gradu 
+          heroi<lb ed="#P" n="21" break="no"/>co redemiti: tyrannorum immanes minas nichilife 
+          <lb ed="#P" n="22"/>cerunt: et pace in ecclesia inuenta: paulus / 
+          antho<lb ed="#P" n="23" break="no"/>nius / hylarion / et magna heremicolarum caterua 
+          <lb ed="#P" n="24"/>ad heremum confugientes temperantiam in 
+          gra<lb ed="#P" n="25" break="no"/>duheroico coluerunt: cecos honores: tristicias 
+          inu<lb ed="#P" n="26" break="no"/>tiles: fallacem mundum: et achironta 
+          conculca<lb ed="#P" n="27" break="no"/>bant: in cauernis terre speluncis: seminudi: ex 
+          her<lb ed="#P" n="28" break="no"/>bis cum aqua et modico pane victitantes: 
+          nichil<lb ed="#P" n="29" break="no"/>nisi celestia meditantes. et licet ab hominum cetu 
+          <lb ed="#P" n="30"/>semoti erant: cum virtutibus purgatoriis et purga 
+          <lb ed="#P" n="31"/>ti animi maximam familiaritatem et commertium 
+          ha<lb ed="#P" n="32" break="no"/>buerunt: homines in terreno corpore vitam 
+          ange<lb ed="#P" n="33" break="no"/>licam ducentes: quod multo pulchrius et 
+          laudabi<lb ed="#P" n="34" break="no"/>lius est quam esse angelum natura et dono dei.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e492">
+          ¶ Pro 
+          quaer<lb ed="#P" n="35" break="no"/>te conclusionis intelligentia scito: olram in fine sui 
+          ter<lb ed="#P" n="36" break="no"/>tii fingit sibi aliquas acceptiones in aere: et postea 
+          <lb ed="#P" n="37"/>infert correlarie: in hoc Iohannem errasse 
+          ponemn<lb ed="#P" n="38" break="no"/>tem continentiam / temperantiam / et virtutem 
+          he<lb ed="#P" n="39" break="no"/>roicam / esse einsdem speciei specialissime. dicitquod 
+          con<lb ed="#P" n="40" break="no"/>tinentia habet insultus passionum magnos 
+          pro<lb ed="#P" n="41" break="no"/>obiecto. temperatus in gradu habet paruos 
+          insul<lb ed="#P" n="42" break="no"/>tus vel nullos in ratione obiecti: fingit aliud obie 
+          <lb ed="#P" n="43"/>ctum virtuti heroice. Miror quomodo iste qui certe erat 
+          <lb ed="#P" n="44"/>ingeniosus contra Iohannem suum: hoc est regentem: 
+          <lb ed="#P" n="45"/>quem communius habuit in maxima reuerentia. vidit quod 
+          iohan<lb ed="#P" n="46" break="no"/>nes non sic cepit gradus illos: nec Aristoteles: nec 
+          <lb ed="#P" n="47"/>philosophorum moralium scola. quomodo non vidit quod 
+          pegri<lb ed="#P" n="48" break="no"/>ne finxit aliqua obiecta esse de essentia istorum 
+          gra<lb ed="#P" n="49" break="no"/>duum: et postea intulit errorem in alio. alius 
+          pro<lb ed="#P" n="50" break="no"/>tinus eiconcessisset istos actus et habitus specie 
+          dif<lb ed="#P" n="51" break="no"/>ferre. vigilans et solidus erat iohannes suus in hac 
+          <lb ed="#P" n="52"/>distinctione speciuoca actuum ex parte obiectorum 
+          <lb ed="#P" n="53"/>tam partialium quam totalium: solus inter illos 
+          anti<lb ed="#P" n="54" break="no"/>quos in illa parte viam regiam tenuit: quem regentes 
+          <lb ed="#P" n="55"/>in artibus omnes sequuntur demptis quibusdam 
+          reli<lb ed="#P" n="56" break="no"/>giosis: opinionibus suorum ducum addictis.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e542">
+          ¶ 
+          Proba<lb ed="#P" n="57" break="no"/>tur ergo quarta conclusio: actus continentie / 
+          temperan<lb ed="#P" n="58" break="no"/>tie / et heroicus / sunt in eadem potentia respectu 
+          eius<lb ed="#P" n="59" break="no"/>dem obiecti numero vel in specie specialissima: 
+          eo<lb ed="#P" n="60" break="no"/>dem modo tendunt in sua obiecta: similes noticias 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>omnno presupponunt: vt abstractiuas vel intuitiuas 
+          <lb ed="#P" n="62"/>similes. nec est aliquid aliud requisitum ad 
+          idempti<lb ed="#P" n="63" break="no"/>tatem speciuocam quod talibus actibus deest. ergo 
+          <lb ed="#P" n="64"/>sunt eiusdem speciei specialissime.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e565">
+          ¶ Secundo 
+          argui<lb ed="#P" n="65" break="no"/>tur ad idem. Dabilis est vnus actus numero qui 
+          pri<lb ed="#P" n="66" break="no"/>mo est continentia gradus / et postea temperantia 
+          gra<lb ed="#P" n="67" break="no"/>dus. sed res non labitur de specie essentiali in speciem 
+          <lb ed="#P" n="68"/>essentialem. ergo habitus continentie et habitus 
+          tem<lb ed="#P" n="69" break="no"/>perantie erunt eiusdem speciei speliasissime. antecedens 
+          pro<lb ed="#P" n="70" break="no"/>bo: capio sortem qui habet insultum passionis 
+          be<lb ed="#P" n="71" break="no"/>ne mitigatum: eliceat talem intensum actum / volo 
+          ser<lb ed="#P" n="72" break="no"/>uare castitatem: quam diu continuath: et postea circa idem 
+          <lb ed="#P" n="73"/>obiectum eliceat simles actus queusque passio pessum it. 
+          <lb ed="#P" n="74"/>tunc sic: dabilis est aliqua passio propter remissionem 
+          <lb ed="#P" n="75"/>que non sufficit actum mitigatiuum eius denominare 
+          <lb ed="#P" n="76"/>continentiam: sed erit temperantie gradus actus: et 
+          <lb ed="#P" n="77"/>quando passio erat maior: ille actus erat actus 
+          con<lb ed="#P" n="78" break="no"/>tinentie gradus.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e598">
+          ¶ Tertio sic arguitur. paruus / 
+          in<lb ed="#P" n="79" break="no"/>sultus passionis non sufficit denominare habentem 
+          conti<lb ed="#P" n="80" break="no"/>nentem in gradu: sit gradus vt vnum qui non 
+          suf<lb ed="#P" n="81" break="no"/>ficit: sit ille gradus maximus qui non sufficit 
+          de<lb ed="#P" n="82" break="no"/>nominare virum continentem: quando erat 
+          insul<lb ed="#P" n="83" break="no"/>tus vt vnum cum dimidio / volo quod eliceatur vnus 
+          <lb ed="#P" n="84"/>actus in sorte: et quod continuetur quousque medietas 
+          <lb ed="#P" n="85"/>illius gradus passionis ( et amplius si oporteat ) 
+          <lb ed="#P" n="86"/>euanescat: tunc ille actus in principio est actus 
+          con<lb ed="#P" n="87" break="no"/>tinentie gradus: et in fine est actus temperantie 
+          <lb ed="#P" n="88"/>gradus. ergo idem actus numero successiue 
+          conti<lb ed="#P" n="89" break="no"/>netur sub continentia gradu et temperantia 
+          gra<lb ed="#P" n="90" break="no"/>du. iste actus in illis duobus temporibus habet 
+          <lb ed="#P" n="91"/>omnia que philosophi ponunt ad hos gradus 
+          vir<lb ed="#P" n="92" break="no"/>tutum. quod si ad nomenvis preter modum 
+          philosophi<lb ed="#P" n="93" break="no"/>cum) multiplicare alios gradus habsentes alia obiecta: 
+          <lb ed="#P" n="94"/>iam multo plures dabuntur gradus quam morales 
+          po<lb ed="#P" n="95" break="no"/>nunt. Insuper: pauci immo paucissimi eliciunt 
+          ta<lb ed="#P" n="96" break="no"/>les actus cum talibus obiectis: sed gradus 
+          virtu<lb ed="#P" n="97" break="no"/>tum sunt creberrimi: ergo nichil dicis. teneo ergo 
+          <lb ed="#P" n="98"/>quod continentia et temperantia gradus sunt eiusdem 
+          <lb ed="#P" n="99"/>speciei specialissime entitatiue: et differunt solum 
+          <lb ed="#P" n="100"/>sicut perfectum e imperfectum in eadem specie. 
+          <lb ed="#P" n="101"/>et idem contingere potest de continentia / 
+          tempe<lb ed="#P" n="102" break="no"/>rantia / et gradu heroico. si aliqua mulier vult 
+          ser<lb ed="#P" n="103" break="no"/>uare castitatem suam comuniugalem: et ipsa iudicat quod 
+          <lb ed="#P" n="104"/>non est ei periculum castitatem seruare: si ex 
+          im<lb ed="#P" n="105" break="no"/>prouiso inferatur ei iudicio suo mors: ipsa continuam 
+          <lb ed="#P" n="106"/>te libere eundem actum quem prius habebat: talis 
+          <lb ed="#P" n="107"/>actus qui ante hoc erat in gradu continentie vel 
+          tem<lb ed="#P" n="108" break="no"/>perantie est in gradu heroico propter difficultatem 
+          cir<lb ed="#P" n="109" break="no"/>cunstantie ad perseuerandum in illo proposito de seruanda 
+          <lb ed="#P" n="110"/>castitate.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e670">
+          ¶ Contra primam conclusionem arguitur. 
+          continen<lb ed="#P" n="111" break="no"/>tiae perseuerantia sunt eadem virtus. ergo vna est perfectior 
+          <lb ed="#P" n="112"/>altera. consequentia est nota. probatur antecedens: ad eandem virtutem 
+          spe<lb ed="#P" n="113" break="no"/>ctat comedere tantum quantum oportet et non plus quod oportet: 
+          <lb ed="#P" n="114"/>ergo eodem modo ad eandem virtutem spectat moderari 
+          <lb ed="#P" n="115"/>passiones delectationumet tristiciarum. ergo idem est 
+          respe<lb ed="#P" n="116" break="no"/>ctu perseuerantie continentie.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e686">
+          ¶ Respondetur: eadem virtus 
+          <lb ed="#P" n="117"/>totalis est circa hec qua dicta sunt: quae a multis actibus 
+          <lb ed="#P" n="118"/>specie distinctis emergit: vt volo comedere tantum 
+          <lb ed="#P" n="119"/>quantum michi sufficit: nolo comedere plus quam oportet. 
+          <lb ed="#P" n="120"/>hic sunt nolitiones et volitiones spem distincte ad eandem 
+          <pb ed="#P" n="115-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>virtutem totalem pertinentes: non est sic hic. 
+          con<lb ed="#P" n="2" break="no"/>tinentia est gradus virtutis solum circa 
+          delectatio<lb ed="#P" n="3" break="no"/>nes: et de ratione eius est non vinci a 
+          delectatio<lb ed="#P" n="4" break="no"/>ne: sed eam vincereet propellere: perseuerantia hoc non 
+          <lb ed="#P" n="5"/>ponit: sed solum propter tristicias non succumbit. et 
+          <lb ed="#P" n="6"/>sic non est idem actus in specie communiter: nec habitus. 
+          po<lb ed="#P" n="7" break="no"/>test tamen dari actus mixtus equiualenter de 
+          vtrius<lb ed="#P" n="8" break="no"/>que natura sapiens: vt nolo deserere temperantiam 
+          <lb ed="#P" n="9"/>propter tristicias et delectationes emergentes: sed 
+          <lb ed="#P" n="10"/>ea ratione qua non succumbit ratione tristiciarum 
+          <lb ed="#P" n="11"/>vocatur perseuerantia: et quia non trahitur ad illicitum 
+          <lb ed="#P" n="12"/>per delectationes: est continentia. non tamen 
+          nego<lb ed="#P" n="13" break="no"/>quod idem actus vel habitus inclinans in 
+          prosequu<lb ed="#P" n="14" break="no"/>tionem sui obiecti primoet directe: indirecte et 
+          se<lb ed="#P" n="15" break="no"/>cundario reluctetur suo contrario. sicut calor est 
+          <lb ed="#P" n="16"/>aptus natus producere calorem primo: 
+          indire<lb ed="#P" n="17" break="no"/>cte et secundario resistit frigori: et ipsum corrumpit. 
+          <lb ed="#P" n="18"/>sed tamen in virtute qualibet cardinali totali: et in 
+          <lb ed="#P" n="19"/>aliis: dantur mille habitus specie distincti.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e743">
+          ¶ 
+          Se<lb ed="#P" n="20" break="no"/>cundo arguitur. continentia gradus non est virtus: 
+          <lb ed="#P" n="21"/>sed perseuerantia est virtus: ergo continentia non est 
+          <lb ed="#P" n="22"/>preferenda perseuerantie. consequentia tenet cum mi 
+          <lb ed="#P" n="23"/>nore: probatur maior. cum Aristoteles de singulis 
+          vir<lb ed="#P" n="24" break="no"/>tutibus moralibus tractauit ad partem: in septimo 
+          <lb ed="#P" n="25"/>de continentia gradu determinat.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e759">
+          ¶ Respondetur: 
+          <lb ed="#P" n="26"/>continentia triphariam accipitur. Uno modo pro 
+          absti<lb ed="#P" n="27" break="no"/>nentia ab omnibus actibus venereis: et tunc cum 
+          <lb ed="#P" n="28"/>virginitate coincidit. Secundo modo capitur vt tatum 
+          <lb ed="#P" n="29"/>valet sicut temperantia: quomodo eam capit seneca in 
+          <lb ed="#P" n="30"/>suo libello de quattuor virtutibus cardinalibus. 
+          <lb ed="#P" n="31"/>his modis non capimus / in proposito. Tertio modo 
+          ca<lb ed="#P" n="32" break="no"/>pitur prout diffiniuimus. Sed an sit virtus: dico: hoc no 
+          <lb ed="#P" n="33"/>men virtus biphariam accipitur. Uno modo proprie 
+          pro<lb ed="#P" n="34" break="no"/>habitu perfecto inclinante habentem ad optimum 
+          <lb ed="#P" n="35"/>opus in quod potentia potest. Alio modo latius capitur 
+          <lb ed="#P" n="36"/>virtus pro habitu inclinante habentem ad opus 
+          bo<lb ed="#P" n="37" break="no"/>num et laudabile. Continentia primo modo non est 
+          vir<lb ed="#P" n="38" break="no"/>tus: quia inclinat cum reluctatione coexistenti: 
+          tempe<lb ed="#P" n="39" break="no"/>rantia et gradus heroicus hoc modo sunt virtutes. Sed 
+          <lb ed="#P" n="40"/>non sequitur: aristoteles loquitur hic in septimo post 
+          <lb ed="#P" n="41"/>alias virtutes de his gradibus: ergo non sunt 
+          virtu<lb ed="#P" n="42" break="no"/>tes. temperantia gradus et virtus heroica sunt virtutes: 
+          <lb ed="#P" n="43"/>similitur et amicicia de qua loquitur philosophus. viii. 
+          <lb ed="#P" n="44"/>et. ix. Ethicorum. omnis temperantia gradus est virtus. et 
+          pro<lb ed="#P" n="45" break="no"/>prie capiendo temperantiam gradum: omnis 
+          temperan<lb ed="#P" n="46" break="no"/>tia gradus est temperantia virtus: sed non 
+          econ<lb ed="#P" n="47" break="no"/>uerso. capiendo temperantiam gradum cum addito: inuenitur 
+          <lb ed="#P" n="48"/>in fortitudine / iusticia / et aliis virtutibus.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e812">
+          ¶ Contra 
+          <lb ed="#P" n="49"/>secundam conclusionem arguitur. temperantia non 
+          agoni<lb ed="#P" n="50" break="no"/>sat: continentia autem agonisat: habet enim bellum cum 
+          <lb ed="#P" n="51"/>passione rebellante. sed agonisantes coronantur 
+          <lb ed="#P" n="52"/>primo Ethicorum. ergo corona magis debetur 
+          conti<lb ed="#P" n="53" break="no"/>nentie quam temperantie.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e825">
+          ¶ Secundo: ars virtus sunt 
+          cir<lb ed="#P" n="54" break="no"/>ca difficile. ii. Ethicorum. sed difficilius est sequi ratio 
+          <lb ed="#P" n="55"/>nem appetitu sensitiuo rebellante: quod facit 
+          con<lb ed="#P" n="56" break="no"/>tinentia: quam non rebellante: quod facit temperantia. 
+          magni<lb ed="#P" n="57" break="no"/>tudo em passionis auget meritum
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e836">
+          ¶ Item: multi 
+          po<lb ed="#P" n="58" break="no"/>nunt teperantiam in appetitu sensitiuo / et continentiam in 
+          vo<lb ed="#P" n="59" break="no"/>luntate. nobilioris autem potentie nobilior est habitus: 
+          <lb ed="#P" n="60"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e845">
+          ¶ has rationes facit Buridanus quaestione quinta 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>septimi Emhicon.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e852">
+          ¶ Ad primum dicit quod agonisar 
+          <lb ed="#P" n="62"/>nobiscum non est bonum: vel non est optimum sed 
+          <lb ed="#P" n="63"/>agonisare cum obiecto passionato est melius: et hoc 
+          <lb ed="#P" n="64"/>potest esse dupliciter. Ano nnodo substernendo 
+          to<lb ed="#P" n="65" break="no"/>taliter inimicum. Alio modo sibi recalcitrando et 
+          <lb ed="#P" n="66"/>resi stendo solum. corona autem magis debetur 
+          pra<lb ed="#P" n="67" break="no"/>mo modo quam secundo modo: et ille primus modus 
+          <lb ed="#P" n="68"/>magis conuenit temperantie: secundus autem 
+          con<lb ed="#P" n="69" break="no"/>tinentie.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e872">
+          ¶ Ad secundum dicit quod difficultas 
+          proue<lb ed="#P" n="70" break="no"/>niens ex debilitate rationis et ipsius voluntatis: aut 
+          <lb ed="#P" n="71"/>etiam ex inobedientia appetitus sensitiui: diminuit 
+          <lb ed="#P" n="72"/>meritum.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e882">
+          ¶ Contra has solutiones sic arguo. 
+          dif<lb ed="#P" n="73" break="no"/>ficultas proueniens ex parte obiecti vel rei 
+          opera<lb ed="#P" n="74" break="no"/>te auget meritum secundum omnes: cui propositioni ad 
+          <lb ed="#P" n="75"/>do aliam. tota ratio illius est quia in hoc est maior 
+          <lb ed="#P" n="76"/>difficultas ipsi operanti: sine culpa sua proueniens. 
+          <lb ed="#P" n="77"/>sed sic est in illo qui habet passionem naturalem non 
+          <lb ed="#P" n="78"/>ei imputabilem. ergo talis passio auget meritum 
+          <lb ed="#P" n="79"/>ipsi operanti. Secundo arguitur ad idem: si sortes et 
+          <lb ed="#P" n="80"/>plato eliceant duos actus equaliter intensos 
+          circa<lb ed="#P" n="81" break="no"/>eandem materiam: et eum sortes elicit cum maiore 
+          <lb ed="#P" n="82"/>conatu quam plato: sortes plus meretur: si difficultas 
+          <lb ed="#P" n="83"/>conatus non proueniat ex culpa sortis. sed sic est 
+          <lb ed="#P" n="84"/>in proposito. pono sortem vehementer 
+          passiona<lb ed="#P" n="85" break="no"/>tum ad illecebram: platonem habentem castitatem 
+          <lb ed="#P" n="86"/>naturalem: et cum hoc si voles habitum temperam 
+          <lb ed="#P" n="87"/>tie: obiiciantur vtrique istorum due formose mulie 
+          <lb ed="#P" n="88"/>res allectiue in illecebram: sortes elicit 
+          actumno<lb ed="#P" n="89" break="no"/>lendi intemperanter agere conformiter ad rectam 
+          <lb ed="#P" n="90"/>rationem: plato similiter: sortes in illo casu plus 
+          <lb ed="#P" n="91"/>meretur quam plato. actus sortis est actus 
+          continen<lb ed="#P" n="92" break="no"/>tie: actus platonis est actus temperantie gradus: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e928">
+          <lb ed="#P" n="93"/>¶ Proptrea dico solutiones Buridani nullas: et alitur 
+          <lb ed="#P" n="94"/>ad illas obiectiones respondendum est. Concedo quod 
+          con<lb ed="#P" n="95" break="no"/>tinentia de qua est sermo in casu argumenti est 
+          me<lb ed="#P" n="96" break="no"/>lior quam actus temperantie gradus. nec hoc est 
+          con<lb ed="#P" n="97" break="no"/>tra aristotelem. ipse enim loquitur de temperantia 
+          <lb ed="#P" n="98"/>ceteris paribus. captis duobus: continenti et temperato: 
+          <lb ed="#P" n="99"/>qui similes passiones habebat a principio cum 
+          con<lb ed="#P" n="100" break="no"/>tinenti: sed iam per bonos actus passio in tempera 
+          <lb ed="#P" n="101"/>to est extincta: et non insurgit propter habitum contra 
+          <lb ed="#P" n="102"/>rium formaliter vel virtualiter in appetitu 
+          sensiti<lb ed="#P" n="103" break="no"/>uo vel voluntate: capiatur onus actus tempantie 
+          eq<lb ed="#P" n="104" break="no"/>liter intensus: ille erit ita bonus sicut vnus actus 
+          <lb ed="#P" n="105"/>continentie: licet conatus continentis sit maior: quia 
+          <lb ed="#P" n="106"/>per bonos actus hanc facilitatem acquisiuit tem 
+          <lb ed="#P" n="107"/>peratus. et si equaliter conetur cum continenti: actus 
+          <lb ed="#P" n="108"/>suus est intensior: et plus meretur. licet sit ei facilius: 
+          <lb ed="#P" n="109"/>facilitas est acquisita ei per bonos actus suos. et 
+          <lb ed="#P" n="110"/>quia totus ille habitus temperati est intensior 
+          ha<lb ed="#P" n="111" break="no"/>bitu continentis: intensiores communiter actus 
+          eli<lb ed="#P" n="112" break="no"/>cit: et securius stat: cum non habeat reluctamen: 
+          <lb ed="#P" n="113"/>temperantia gradus continentia gradu reputatur 
+          <lb ed="#P" n="114"/>(et merito) melior. difficultas acquisita per vicium 
+          <lb ed="#P" n="115"/>non auget meritum: sed acquisita sine culpa 
+          vtrobi<lb ed="#P" n="116" break="no"/>que meritum auget. Sed tunc est difficultas: si assue 
+          <lb ed="#P" n="117"/>tus ieiunare ex bono habitu ieiunet: et male 
+          habi<lb ed="#P" n="118" break="no"/>tuatus ieiunium infringere ex habitu malo 
+          peni<lb ed="#P" n="119" break="no"/>teat de suo habitu: an male habituatus plus 
+          me<lb ed="#P" n="120" break="no"/>reatur ratione difficultatis operis et et dicitur quod 
+          <pb ed="#P" n="116-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>non: heremita quolibet die assuetus ieiunare 
+          tan<lb ed="#P" n="2" break="no"/>tum meretur sicut curialista: quantumcunque 
+          peni<lb ed="#P" n="3" break="no"/>tet curialista de fractione ieiunii. deus parcit ei 
+          <lb ed="#P" n="4"/>culpam cum est penitens: non tamen facit quod plus mereatur 
+          <lb ed="#P" n="5"/>quod alter bene habituatus: qui non plus meretur in 
+          elici<lb ed="#P" n="6" break="no"/>tione actus equaliter intensi. et per hoc ad duo 
+          argu<lb ed="#P" n="7" break="no"/>menta respondetur.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e1011">
+          ¶ Ad tertium dicitur quod temperantia 
+          gra<lb ed="#P" n="8" break="no"/>dus est tam in voluntate quod in appetitu sensituo: vt 
+          in<lb ed="#P" n="9" break="no"/>ter illas potentias sit armonia.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e1018">
+          ¶ Contra tertiam 
+          <lb ed="#P" n="10"/>conclusionem arguitur. non est tanta armonia inter 
+          appeti<lb ed="#P" n="11" break="no"/>tum sensitiuum et voluntatem in heroico sicut in 
+          tempera<lb ed="#P" n="12" break="no"/>to gradu. ergo virtus heroica non est suprema virtutum. 
+          <lb ed="#P" n="13"/>consequentia liquet. probatur antecedens de Bonifacio illo luxurioso 
+          <lb ed="#P" n="14"/>romano: qui cum illa nobili romana muliere sua domina 
+          <lb ed="#P" n="15"/>dormiuit: et orientem petens ingressus est subito 
+          gra<lb ed="#P" n="16" break="no"/>tia visitandorum martyrum: repente passus est. et cum hoc 
+          <lb ed="#P" n="17"/>consociis diceretur: dixerunt eum non esse in loco martyrum: 
+          <lb ed="#P" n="18"/>sed in prostibulo vel taberna. hoc supposito sic 
+          ar<lb ed="#P" n="19" break="no"/>guitur. alle bonifacius passus est martyrium. sed omne 
+          mar<lb ed="#P" n="20" break="no"/>tyrium voluntarie assumptum est actus heroicus. ergo 
+          il<lb ed="#P" n="21" break="no"/>le fuit heroicus. et tamen fuit adhuc multum habitualiter 
+          <lb ed="#P" n="22"/>intemperatus: ergo in se habuit malum habitum luxus eum 
+          <lb ed="#P" n="23"/>ad malum inclinantem.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e1051">
+          ¶ Confirmatur hec ratio. 
+          Ihero<lb ed="#P" n="24" break="no"/>ronymus abstinens in antris egypti diu erat 
+          heroi<lb ed="#P" n="25" break="no"/>cus: et tamen non habuit rebellem carnem. vt de se / ipse 
+          fa<lb ed="#P" n="26" break="no"/>cetur in epistola ad eustochium inquiens: quotidie 
+          lachry<lb ed="#P" n="27" break="no"/>me: quotidie gemitus. et si quando repugnante somnus eminens 
+          <lb ed="#P" n="28"/>oppressisset: nuda humo vix ossa herentia collidebam. 
+          <lb ed="#P" n="29"/>de cibis vero et potu taceo: cum etiam languentes 
+          mona<lb ed="#P" n="30" break="no"/>chi aqua frigida vtantur et coctum aliquid accepisse 
+          lu<lb ed="#P" n="31" break="no"/>xurie sit. Ille igitur ego: qui ob gehenne metum tali me 
+          <lb ed="#P" n="32"/>carcere ipse damnaueram: scorpionum tantum socius e ferarum: 
+          <lb ed="#P" n="33"/>sepe choris intereram puellarum: pallebant ora ieiunus: 
+          <lb ed="#P" n="34"/>et mens desideriis estuabat: in frigido corpore et ante 
+          <lb ed="#P" n="35"/>hominem sicca iam carne premortuum sola libidinum 
+          incen<lb ed="#P" n="36" break="no"/>dia bulliebant. Arguitur sic. iste venerabilis senex 
+          fe<lb ed="#P" n="37" break="no"/>cit actus temperantie et actus heroicos pro castitate 
+          <lb ed="#P" n="38"/>habenda: et tamen non consequutus est virtutes illas in illo 
+          <lb ed="#P" n="39"/>gradu: ergo gradus illi non ponunt illam armoniam 
+          <lb ed="#P" n="40"/>in toto homine talem qualem dicebam. ergo per hoc non 
+          ha<lb ed="#P" n="41" break="no"/>bebam arguere horum graduum bonitatem. Illud potest 
+          ro<lb ed="#P" n="42" break="no"/>borari per doctorem gentium qua erat temperatus et 
+          heroi<lb ed="#P" n="43" break="no"/>cus: et tamen passus est rebellionem non modicam. patet ad 
+          <lb ed="#P" n="44"/>Romanos. vii. Non enim quod volo bonum hoc ago: sed 
+          <lb ed="#P" n="45"/>quod odio malum illud facio. et paulo post in eodem 
+          ca<lb ed="#P" n="46" break="no"/>pite. video autem aliam legem in membris meis 
+          repugnan<lb ed="#P" n="47" break="no"/>tem legi mentis mee: et captiuantem me in lege peccati 
+          <lb ed="#P" n="48"/>que est in membris meis.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e1108">
+          ¶ Ad ista respondetur: et 
+          pri<lb ed="#P" n="49" break="no"/>mo ad primum de illo Bonifacio: certum est quod habebat 
+          <lb ed="#P" n="50"/>vnum actum heroicum qui ad martyrium sufficit. sed tota 
+          vi<lb ed="#P" n="51" break="no"/>ta sua non fuit herorica. et per consequens non fuit heroicus de 
+          <lb ed="#P" n="52"/>quo loquimur. bene erat deo deuinctus qui eum sic 
+          spe<lb ed="#P" n="53" break="no"/>cialiter iuuit vt martyrio dignus inueniretur: et bene 
+          <lb ed="#P" n="54"/>vsus est naturalibus suis.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e1125">
+          ¶ Ad alias obiectiones de 
+          <lb ed="#P" n="55"/>apostolo et hieronymo: dico vterque erat heroicus: non 
+          <lb ed="#P" n="56"/>solum in vno actu: sed in tota vita. horum minor 
+          <lb ed="#P" n="57"/>fortior erat achille vel animace. cum vterque habitauit 
+          <lb ed="#P" n="58"/>in rebelli carne: carnem in chamo et freno 
+          compe<lb ed="#P" n="59" break="no"/>scuit vterque. naturaliter heroicus non habuit hanc 
+          re<lb ed="#P" n="60" break="no"/>bellionem: sed demon deo permittente qualitati¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>uas dispositiones ad illecebram inclinantes 
+          commo<lb ed="#P" n="62" break="no"/>uit. et rationabiliter passus est deus: qua magnum 
+          <lb ed="#P" n="63"/>magna dicent. hec passio ad illecebram non inuasit 
+          mu<lb ed="#P" n="64" break="no"/>lierculosum sardanapalum: sed armipotentem 
+          spiri<lb ed="#P" n="65" break="no"/>tualem: qui tam de carnis insultu quod demone 
+          glo<lb ed="#P" n="66" break="no"/>riosum importauit triumphum. sic dicit: 
+          memini<lb ed="#P" n="67" break="no"/>me clamantem diem crebro iunxisse cum nocte: nec 
+          <lb ed="#P" n="68"/>prius a pectoris cessasse verberibus quam rediret (
+          do<lb ed="#P" n="69" break="no"/>mino imperante) tranquillitas. de apostolo: 
+          simi<lb ed="#P" n="70" break="no"/>liter demon excitauit appetitum eius ad illecebram: 
+          <lb ed="#P" n="71"/>et hoc permisit deus ne superbiret post visa 
+          ma<lb ed="#P" n="72" break="no"/>gnalia dei que non licebat homini loqui. Istud 
+          pa<lb ed="#P" n="73" break="no"/>tet secunde Corinthiorum duodecimo: sic dicit 
+          apo<lb ed="#P" n="74" break="no"/>stolus in principio capitis. Si gloriari oportet non 
+          <lb ed="#P" n="75"/>expedit quidem. veniam autem ad visiones et 
+          re<lb ed="#P" n="76" break="no"/>uelationes domini. Scio hominem in christo ante 
+          an<lb ed="#P" n="77" break="no"/>nos quatuordecim siue in corpore siue extra 
+          cor<lb ed="#P" n="78" break="no"/>pus nescio: deus scit: raptum huiusmodi hominem vsque 
+          <lb ed="#P" n="79"/>ad tertium celum. et post reuelationes has sequitur 
+          <lb ed="#P" n="80"/>Et ne magnitudo reuelationum extollat me: datus 
+          <lb ed="#P" n="81"/>est michi stimulus carnis mee: angelus sathane. in 
+          ver<lb ed="#P" n="82" break="no"/>bo stimulus / dicit glosa interlinealis. diabolus vt 
+          <lb ed="#P" n="83"/>ad defectum traheret. alii homines non ita 
+          poten<lb ed="#P" n="84" break="no"/>tes resistere diu bene operantes in scola virtutum 
+          <lb ed="#P" n="85"/>nullum insultum passionum habent: sed omnia sunt 
+          <lb ed="#P" n="86"/>sopita: et omnia sunt consona rationi in eis. eorum 
+          <lb ed="#P" n="87"/>que ad appetitum sensituum attinent speciale fuit 
+          <lb ed="#P" n="88"/>in paulo propter causam dictam. et in magno illo 
+          hie<lb ed="#P" n="89" break="no"/>ronymo: cuius sententiam consulto recitauimus: 
+          <lb ed="#P" n="90"/>vt in agonia ne desperes: sed relucteris contra 
+          sen<lb ed="#P" n="91" break="no"/>sualitatem cum illo forti athleta: vt glorosus 
+          eua<lb ed="#P" n="92" break="no"/>das victor. non tamen est credendum cum stoicis 
+          <lb ed="#P" n="93"/>quod nulla passio est in sapiente et studioso: vt 
+          Augusti<lb ed="#P" n="94" break="no"/>nus dicit. ix. de ciuitate dei. viii. de trinitate 
+          reci<lb ed="#P" n="95" break="no"/>tat modum Aristotelis parapateticorum 
+          ponen<lb ed="#P" n="96" break="no"/>tium passiones in sapiente et studioso. sed non est 
+          <lb ed="#P" n="97"/>magnum discrimen nisi verbale vt dicit inter 
+          ari<lb ed="#P" n="98" break="no"/>stotelem et stoicos. Stoici loquuntur de 
+          passioni<lb ed="#P" n="99" break="no"/>bus inordinatis et culpabilibus: nec Aristoteles 
+          <lb ed="#P" n="100"/>diceret oppositum.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e1229">
+          ¶ Contra quartam conclusionem 
+          ar<lb ed="#P" n="101" break="no"/>guitur. isti duo actus specie distinguuntur: volo 
+          tem<lb ed="#P" n="102" break="no"/>perate viuere non obstante magno insultu 
+          passio<lb ed="#P" n="103" break="no"/>nis insurgente: volo temperate viuere non 
+          ob<lb ed="#P" n="104" break="no"/>stante parua passione: et vnus illorum actuum est 
+          <lb ed="#P" n="105"/>actus continentie gradus: alter vero temperantie 
+          <lb ed="#P" n="106"/>gradus: igitur.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e1245">
+          ¶ Respondetur. argumentum 
+          du<lb ed="#P" n="107" break="no"/>pliciter deficit. sic possunt dari duo actus vel 
+          ha<lb ed="#P" n="108" break="no"/>bitus continentie gradus specie differentes inter 
+          <lb ed="#P" n="109"/>se: et duo actus vel habitus temperantie gradus 
+          <lb ed="#P" n="110"/>inter se specie distincti: de hoc quis dubitat: debet 
+          <lb ed="#P" n="111"/>arguens probare omnia indiuidua quorum vnum 
+          <lb ed="#P" n="112"/>est actus continentie gradus / et aliud 
+          temperan<lb ed="#P" n="113" break="no"/>tie gradus specie differre. quod nec probat nec 
+          pro<lb ed="#P" n="114" break="no"/>bare potest. Secundo: nego quod primus illorum 
+          <lb ed="#P" n="115"/>actuum spectat ad continentiam gradum: et 
+          secun<lb ed="#P" n="116" break="no"/>dus ad temperantiam gradum. si in primo nullus 
+          <lb ed="#P" n="117"/>sit insultus vel paruus est actus temperantie 
+          gra<lb ed="#P" n="118" break="no"/>dus: et si in secundo sit magnus insultus est actus 
+          <lb ed="#P" n="119"/>continentie gradus.
+        </p>
+        <p xml:id="jm3cbb-e69772-d1e1276">
+          ¶ Nunc vidimus continentiam cum incontinentia / 
+          <lb ed="#P" n="120"/>perseuerantiam cum mollicie / temperantiam cum intemperantia / 
+          <pb ed="#P" n="116-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>gradum heroicum (qui ferme in qualibet virtute 
+          repe<lb ed="#P" n="2" break="no"/>ribilis est: dummodo ponatur circunstantia mortis ) cum 
+          <lb ed="#P" n="3"/>bestialitate. Insuper vidimus virtutes politicas / 
+          pur<lb ed="#P" n="4" break="no"/>gatorias / purgati animi / exemplares alias 
+          incipien<lb ed="#P" n="5" break="no"/>tium proficientium et perfectorum. et parum discriminis est ad 
+          <lb ed="#P" n="6"/>rem inter stoicos nota ponentes passionem cadere in 
+          sa<lb ed="#P" n="7" break="no"/>pientem et studiosum: et parapateticos passionem 
+          po<lb ed="#P" n="8" break="no"/>nentes: quia priores loquuntur de passione viciosa: 
+          po<lb ed="#P" n="9" break="no"/>steriores de quacunque passione. Ex apostolo et 
+          Ihero<lb ed="#P" n="10" break="no"/>nimo habes non statim diffidendum cum insultus fortes 
+          <lb ed="#P" n="11"/>ad illecebram insurgunt: sed tunc fortius resistendum est: 
+          <lb ed="#P" n="12"/>et si resistas: insultum quemcumque sedabis. resistes quidem 
+          <lb ed="#P" n="13"/>parce comedendo et bibendo: parce dormiendo: 
+          occa<lb ed="#P" n="14" break="no"/>siones omnes luxus et peccati euitabis: studio honesto te 
+          <lb ed="#P" n="15"/>totum accommodabis. et cum nichil horum quae in te sunt 
+          <lb ed="#P" n="16"/>omiseris: opem diuinam iugiter implorabis: dicens. Deus 
+          <lb ed="#P" n="17"/>in adiutorium meum intende: domine ad adiuuandum me 
+          festi<lb ed="#P" n="18" break="no"/>na. Petitio optima est hec. si feceris: quisquis es 
+          con<lb ed="#P" n="19" break="no"/>tinens vel incontinens: passiones omnes pacatas 
+          habe<lb ed="#P" n="20" break="no"/>bis. prime ad Corrinth. x. Fidelis est deus qui non 
+          permit<lb ed="#P" n="21" break="no"/>tit nos tentari vltra id quod possumus. et cum dulces illas 
+          <lb ed="#P" n="22"/>sorores virtutes purgatorias et purgati animi sicut 
+          <lb ed="#P" n="23"/>temperantiam gradum osculatus fueris: earum societatem 
+          <lb ed="#P" n="24"/>numquam derelinques: tunc facile sardanapali et 
+          intem<lb ed="#P" n="25" break="no"/>perantium vitam exosam habebis. horum graduum 
+          <lb ed="#P" n="26"/>noticia finis est iste.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

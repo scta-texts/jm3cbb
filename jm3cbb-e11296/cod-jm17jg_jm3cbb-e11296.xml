@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="19-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e11296"><!-- l3d7q2 -->
+        <head xml:id="jm3cbb-e11296-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e11296-Hd1e101" type="question-title">De veritatibus talium propositionum de quibus magister languide
+    in littera inquirit: homo factus est Deus, Deus factus est homo,
+    Deus factus est aliquid</head>
+        <p xml:id="jm3cbb-e11296-d1e104">
+          <lb ed="#P" n="90"/>SEcundo quero 
+          <lb ed="#P" n="91"/>de veritatibus talium 
+          proposi<lb ed="#P" n="92" break="no"/>tionum de quibus magister 
+          lan<lb ed="#P" n="93" break="no"/>guide in littera inquirit: homo 
+          <lb ed="#P" n="94"/>factus est deus: deus factus 
+          <lb ed="#P" n="95"/>est homo: deus factus est 
+          ali<lb ed="#P" n="96" break="no"/>quid.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e122">
+          ¶ Pro questionis 
+          solu<lb ed="#P" n="97" break="no"/>tione scias: propositio de factus est / non sufficienter 
+          <lb ed="#P" n="98"/>exponitur hoc modo: vt ista a est factum per has a 
+          <lb ed="#P" n="99"/>fuit: et a non fuit ab eterno: quia si nunc sit a primo: 
+          <lb ed="#P" n="100"/>exponibilis est vera: et exponentes false: similiter 
+          <lb ed="#P" n="101"/>si a fuit ante homerum: et postea corruptum: et nunc 
+          <lb ed="#P" n="102"/>non sit. hec est falsa / a factum est. et tamen 
+          exponemn<lb ed="#P" n="103" break="no"/>tes ille essent vere. in proposito talis expositio est 
+          sur<lb ed="#P" n="104" break="no"/>ficiens: filius dei factus est homo: filius dei est homo 
+          <lb ed="#P" n="105"/>et interdum erat et non fuit homo: ergo est factus 
+          ho<lb ed="#P" n="106" break="no"/>mo. habeatur oculus ad factionem simpliciter: et 
+          <lb ed="#P" n="107"/>ad factionem secundum quid: et non erit difficultas.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e148">
+          ¶ Poc 
+          <lb ed="#P" n="108"/>presupposito respondetur quod hec propositio est 
+          fa<lb ed="#P" n="109" break="no"/>sa: christus factus est deus: vt factio denotetur 
+          ca<lb ed="#P" n="110" break="no"/>dere in terminum deus. Sed hec est vera / christus 
+          <lb ed="#P" n="111"/>est factus homo. Falsitas prime patet: quia bene se 
+          <lb ed="#P" n="112"/>quitur: christus factus est deus: ergo interdum non fuit 
+          <lb ed="#P" n="113"/>deus: quod est falsum: immo christus semper fuit deus 
+          <lb ed="#P" n="114"/>quod patet: iste deus semper fuit deus: iste deus est vel 
+          <lb ed="#P" n="115"/>fuit christus: ergo christus semper fuit deus. 
+          Se<lb ed="#P" n="116" break="no"/>cunda propositio patet. scilicet christus factus 
+          <lb ed="#P" n="117"/>est homo: per illud. Ioannis primo. verbum 
+          ca<lb ed="#P" n="118" break="no"/>ro factum est: vbi caro ponitur pro homine. hoc 
+          <lb ed="#P" n="119"/>pratet in simbolo niceno: homo factus est. Item 
+          <lb ed="#P" n="120"/>patet per exponentes: deus fuit: et tunc non fuic 
+          <lb ed="#P" n="121"/>homo immo postea incepit esse homo: et ex illa se¬ 
+          <pb ed="#P" n="19-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quitur ista: christus factus est deus homo: quia 
+          ter<lb ed="#P" n="2" break="no"/>minus homo restringit terminum deus ad standum 
+          <lb ed="#P" n="3"/>pro bomine et factio cadit in esse hominem.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e193">
+          ¶ Sed 
+          <lb ed="#P" n="4"/>contra ista arguitur sic: bene sequitur: christus 
+          fa<lb ed="#P" n="5" break="no"/>ctus est homo: ergo christus factus est. et illa infert istam 
+          <lb ed="#P" n="6"/>ehristus factus est deus.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e202">
+          ¶ Secundo arguitur ad idem 
+          <lb ed="#P" n="7"/>christus factus est christus: ergo christus factus 
+          <lb ed="#P" n="8"/>est deus. probo consequentiam: tum primo: quia eadem 
+          <lb ed="#P" n="9"/>res importatur per extrema: tum secundo: christus factus 
+          <lb ed="#P" n="10"/>est christus: ergo christus factus est filius dei: quia 
+          <lb ed="#P" n="11"/>a conuertibilibus arguitur. et si factus est filius dei: 
+          <lb ed="#P" n="12"/>factus est deus. Tum tertio: iste equiualent christus 
+          <lb ed="#P" n="13"/>est christus: et christus est filius dei: ergo addito vtro 
+          <lb ed="#P" n="14"/>biqe eodem: puta factus est /consequentia valebit. si 
+          se<lb ed="#P" n="15" break="no"/>quatur sortes est homo: ergo est animal etiam 
+          be<lb ed="#P" n="16" break="no"/>ne sequitur: sortes est homo albus: ergo sortes est 
+          <lb ed="#P" n="17"/>animal album: et ita in aliis: ergo sic erit in 
+          propo<lb ed="#P" n="18" break="no"/>sito
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e231">
+          ¶ Ad primum: consequentia nichil valet: quia 
+          ar<lb ed="#P" n="19" break="no"/>guitur a factione secundum quid ad factionem 
+          simplici<lb ed="#P" n="20" break="no"/>ter. sicut non sequitur: hic pannus factus est 
+          tunica<lb ed="#P" n="21" break="no"/>ergo hic pannus factus est: quia si pantnus 
+          precessis<lb ed="#P" n="22" break="no"/>set compositionem tunice ad centum amnos: anteced ens 
+          <lb ed="#P" n="23"/>est verum et consequens falsum. Sed tunc dices: hec 
+          <lb ed="#P" n="24"/>tunica prius fuit: ergo pannus non precessit 
+          tunicam<lb ed="#P" n="25" break="no"/>Q tunica prius fuerit arguitur sic: hic pannus prius 
+          <lb ed="#P" n="26"/>fuit: hic pannus est vel fuit hec tunica: ergo hec 
+          tu<lb ed="#P" n="27" break="no"/>nica prius fuit. Respondetur concedendo quod hec 
+          tu<lb ed="#P" n="28" break="no"/>nica prius fuerit: sed consequentia est nulla quod 
+          pan<lb ed="#P" n="29" break="no"/>nus non precessit tunicam: quia precedere denotatur 
+          <lb ed="#P" n="30"/>cadere in connotationem termini tunica: immo ille 
+          si<lb ed="#P" n="31" break="no"/>mul stant: hec tunica fuit super dorsum ouium 
+          mor<lb ed="#P" n="32" break="no"/>tuarum a centum annis preterits: et mane fuit primo 
+          <lb ed="#P" n="33"/>tunica. pone quod nichilsit in tunica nisi de lana. 
+          ta<lb ed="#P" n="34" break="no"/>men ista: christus factus est: potest pati aliquam 
+          di<lb ed="#P" n="35" break="no"/>stinctionem: per hoc quod factus potest habere christus 
+          pro<lb ed="#P" n="36" break="no"/>substantiuo: et illa est vera: vel per hoc quod potest 
+          <lb ed="#P" n="37"/>capi nominaliter / vt tamten valet sicut res facta / vel 
+          <lb ed="#P" n="38"/>ens factum: et sic consequentia nihil valet. Sed dices 
+          <lb ed="#P" n="39"/>concessio vnius membri infert concessionem alterius. 
+          <lb ed="#P" n="40"/>si christus factus est christus: christus factus est ens 
+          <lb ed="#P" n="41"/>vel aliquid: ab inferiori ad superius. quia christus 
+          <lb ed="#P" n="42"/>est aliquid ex questione precedenti. Respondeo 
+          <lb ed="#P" n="43"/>nego quod vnum membrum inferat aliud. nec arguitur 
+          <lb ed="#P" n="44"/>abliferiori ad superius respectu totalium extremorum 
+          <lb ed="#P" n="45"/>sed solum respectu partium. vel sic: arguitur ab 
+          infe<lb ed="#P" n="46" break="no"/>riore ad superius cum termino includente 
+          nega<lb ed="#P" n="47" break="no"/>tionem: et hoc patet per duas exponentes negatiuas 
+          <lb ed="#P" n="48"/>anecedentis et consequentis: vt christus non semper fuit christus: 
+          <lb ed="#P" n="49"/>e christus non semper fuit ens. Ad secundum respondetur. 
+          con<lb ed="#P" n="50" break="no"/>sequentia est nulla. ad probationem: transeat quod ea 
+          <lb ed="#P" n="51"/>dem res importetur per extrema: saltem partialia. 
+          <lb ed="#P" n="52"/>si sit sermo de totalibus / quod oportet: hoc nego factus 
+          <lb ed="#P" n="53"/>deus pro nullo supponit: secundum illud psalmiste psal. 
+          <lb ed="#P" n="54"/>lxxx. Audi populus meus et contestabor te: israel 
+          si<lb ed="#P" n="55" break="no"/>audieris me non erit in te deus recens. Ad secundum 
+          <lb ed="#P" n="56"/>consequentia est nulla. extrema non sunt 
+          conuertibi<lb ed="#P" n="57" break="no"/>lia: et partialia extrema solum conuertuntur vt nunc: 
+          <lb ed="#P" n="58"/>et non simpliciter. Ad tertium: antecedens est 
+          fal<lb ed="#P" n="59" break="no"/>sum: et consequentia nulla. nec regula assumpta 
+          ha<lb ed="#P" n="60" break="no"/>bet verum creberrime: potissimum quando variatur 
+          appel<lb ed="#P" n="61" break="no"/>latio. hec consequentia est bona sortes est magister 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>ergo est homo: adde vtriqe parisiensio: 
+          consequei<lb ed="#P" n="63" break="no"/>tia non valebit. Similiter bene sequitur: deus 
+          creai<lb ed="#P" n="64" break="no"/>ergo deus est. et tamen non sequitur deus 
+          contin<lb ed="#P" n="65" break="no"/>genter creat: ergo deus contingenter est.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e338">
+          ¶ 
+          Ter<lb ed="#P" n="66" break="no"/>tio arguitur bene sequitur: christus factus est 
+          homo<lb ed="#P" n="67" break="no"/>ergo deus factus est homo. ab inferiori ad 
+          superi<lb ed="#P" n="68" break="no"/>us generaliter: cum termino omnem negationem 
+          preceden<lb ed="#P" n="69" break="no"/>te. et vltra: deus factus est homo: ergo homo 
+          fa<lb ed="#P" n="70" break="no"/>ctus est deus per conuersionem simplicem. consequens 
+          <lb ed="#P" n="71"/>est negatum: ergo antecedens non est concedendum 
+          <lb ed="#P" n="72"/>Insuper: deus incepit esse homo: ergo deus 
+          ince<lb ed="#P" n="73" break="no"/>pit esse iste homo: vel ille homo. quero quid 
+          demod<lb ed="#P" n="74" break="no"/>stras. si demonstres deum: tunc sic: deus incepit esse 
+          <lb ed="#P" n="75"/>iste homo: demonstrando filium dei: ergo deus 
+          in<lb ed="#P" n="76" break="no"/>cepit esse iste deus: vel iste. Amplius: deus / incepit 
+          <lb ed="#P" n="77"/>esse sste homo: demonstrando filium dei: et iste 
+          ho<lb ed="#P" n="78" break="no"/>mo est deus: ergo deus incepit esse deus / 
+          exposito<lb ed="#P" n="79" break="no"/>rie. palam est non potes demonstrare alium hominen¬ 
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e371">
+          <lb ed="#P" n="80"/>¶ Ad tertium dicitur: secunda consequentia est nulla: 
+          <lb ed="#P" n="81"/>nec est conuersio. facio ampliat ad ea que sunt vel 
+          <lb ed="#P" n="82"/>erunt: et sic oculum non habes ad ampliationem. sed in 
+          <lb ed="#P" n="83"/>ea non stando (quia illic non est difficultas ) 
+          argui<lb ed="#P" n="84" break="no"/>tur quod male conuertis. non facis de subiecto 
+          conuer<lb ed="#P" n="85" break="no"/>se predicatum conuertentis. predicatum est hoc totum 
+          <lb ed="#P" n="86"/>factus homo. modo illa est vera factus homo est deus 
+          <lb ed="#P" n="87"/>sicut bene vides: Iacobus est sactus rex. non 
+          se<lb ed="#P" n="88" break="no"/>quitur ergo rexest factus Iacobus. Ad aliud 
+          ar<lb ed="#P" n="89" break="no"/>gumentum: concedo quod deus incepit esse iste homo: 
+          <lb ed="#P" n="90"/>demonstrando filtum dei. nichil aliud est 
+          demonstran<lb ed="#P" n="91" break="no"/>dum. sed nego hanc: deus / incepit esse hic deus vel 
+          <lb ed="#P" n="92"/>incepit esse hoc. licet hic homo sit hic deus: et hic 
+          <lb ed="#P" n="93"/>deus sit hic homo: est solum conuertibilitas vt nunc 
+          <lb ed="#P" n="94"/>sicut Iacobus incipit esse hic rex. et tamen non 
+          <lb ed="#P" n="95"/>incipit esse hie vel hic Iacobus. Ad aliud dicitur 
+          <lb ed="#P" n="96"/>palam est quod est paralogismus.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e410">
+          ¶ Quarto 
+          argui<lb ed="#P" n="97" break="no"/>tur: christus non precessit beatam virginem: ergo 
+          <lb ed="#P" n="98"/>christus factus est. non capio pro substantiuo 
+          ier<lb ed="#P" n="99" break="no"/>minum christus. atecdencedens patet: quia christus est 
+          <lb ed="#P" n="100"/>filius beate virginis. Respondetur negando 
+          ante<lb ed="#P" n="101" break="no"/>cedens. pro quo ponuntur iste propositiones. 
+          Prima<lb ed="#P" n="102" break="no"/>christus fuit ante beatam virginem. patet. hic deus 
+          <lb ed="#P" n="103"/>fuit ante beatam virginem: hic deus est vel fuit 
+          <lb ed="#P" n="104"/>christus: ergo christus fuit ante beatam virginem: secundum 
+          <lb ed="#P" n="105"/>verbum christi antequam Abraham fieret ego sum. Io 
+          <lb ed="#P" n="106"/>viii. Secunda propositio: christus fuit ab eterno. 
+          Ter<lb ed="#P" n="107" break="no"/>tia propositio: christus non fuit christus ante 
+          bea<lb ed="#P" n="108" break="no"/>tam virginem. Quarta propositio: christus fuit non 
+          <lb ed="#P" n="109"/>christus ante beatam virginem. patet: christus non fuit 
+          chri<lb ed="#P" n="110" break="no"/>stus ante beatam virginem: et christus / fuit ante 
+          bea<lb ed="#P" n="111" break="no"/>tam virginem: ergo christus fuit non christus antecede 
+          <lb ed="#P" n="112"/>beatam virginem: a negatiua ad affirmatinam 
+          pre<lb ed="#P" n="113" break="no"/>dicato variato penes finitum et infinitum.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e450">
+          ¶ 
+          Quin<lb ed="#P" n="114" break="no"/>to arguitur: christus essentialiter et intrinsece est 
+          <lb ed="#P" n="115"/>deus. patet: non stat christum esse quin sit deus: et 
+          chri<lb ed="#P" n="116" break="no"/>stus est deus: ergo essentialiter et intrinsece est deus. 
+          <lb ed="#P" n="117"/>tenet consequentia ab exponentibus ad exponibilem. 
+          <lb ed="#P" n="118"/>et vltra: christus essentialiter et intrinsece est deus: 
+          <lb ed="#P" n="119"/>ergo deus essentialiter et intrinsece est christus. 
+          to<lb ed="#P" n="120" break="no"/>net consequentia per conuersionem simplicem quod si 
+          conce<lb ed="#P" n="121" break="no"/>das arguitur: ergo non stat deum esse qui erit christus. 
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e470">
+          <lb ed="#P" n="122"/>¶ Sexto arguitur: christus necessario est christus 
+          <pb ed="#P" n="20-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vel non christus: sed christus non est necessario non 
+          <lb ed="#P" n="2"/>christus: ergo christus necessario est christus. 
+          te<lb ed="#P" n="3" break="no"/>net consequentia / a tota disiunctiua cum destructione 
+          <lb ed="#P" n="4"/>vnius partis ad positionem alterius. et veritas 
+          an<lb ed="#P" n="5" break="no"/>tecedentis patet. de minore non est dubium. et 
+          ma<lb ed="#P" n="6" break="no"/>ior patet: christus necessario est ens: ergo christus 
+          <lb ed="#P" n="7"/>necessario est christus vel non christus. consequentia tenet 
+          <lb ed="#P" n="8"/>a conuertibilibus simpliciter. omne disiunctum ex 
+          con<lb ed="#P" n="9" break="no"/>tradictoriis est transcendens. Sed forte dicis si 
+          <lb ed="#P" n="10"/>cut dicendum est: maior est vera in sensu disiuncto: 
+          <lb ed="#P" n="11"/>et sic consequentia est nulla: quia non arguitur a tota 
+          <lb ed="#P" n="12"/>disiunctiua cum destructione vnius partis ad 
+          po<lb ed="#P" n="13" break="no"/>sitionem alterius. Contra: propositio de disiuncto 
+          as<lb ed="#P" n="14" break="no"/>firmatiua sine distributione equiualet disiunctiue 
+          <lb ed="#P" n="15"/>vt patet vbilibet: alioquin das michi occasionem 
+          <lb ed="#P" n="16"/>concedendi: leo est capra vel bos disiunctim / et 
+          <lb ed="#P" n="17"/>non disiunctiue. ergo si sit vera in sensu disiuncto / 
+          <lb ed="#P" n="18"/>erit vera in sensu disiunctiuo.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e518">
+          ¶ Ad quintum: 
+          con<lb ed="#P" n="19" break="no"/>cedo quod christus essentialiter et intrinsece est deus: 
+          <lb ed="#P" n="20"/>vt patet per exponentes eius: christus est deus et non 
+          <lb ed="#P" n="21"/>stat christum esse quin sit deus. vel sic et melius 
+          <lb ed="#P" n="22"/>in secunda exponente: non stat hoc esse quin hoc sit 
+          <lb ed="#P" n="23"/>deus. quia alioquim currens essentialiter esset currens: 
+          <lb ed="#P" n="24"/>quia non stat currens esse / quin currens sit currens. 
+          <lb ed="#P" n="25"/>et ta men illa est falsa: quia si currens essentialiter 
+          <lb ed="#P" n="26"/>et in trinsece est currens: cum subiectum stet determi 
+          <lb ed="#P" n="27"/>nate capiatur vna singularis. et tunc sic: hoc 
+          cur<lb ed="#P" n="28" break="no"/>rens essentialiter et intrinsece est currens: hoc 
+          cur<lb ed="#P" n="29" break="no"/>rens est sortes: ergo sortes essentialiter et 
+          intrin<lb ed="#P" n="30" break="no"/>sece est currens. consequentia tenet expositorie. 
+          mi<lb ed="#P" n="31" break="no"/>nor est vera: conclusio falsa est: et non se falsificans. 
+          <lb ed="#P" n="32"/>ergo maior est falsa. sed conuersio illic nihil valet. 
+          <lb ed="#P" n="33"/>oportet tollere essentialiter in couertente: et 
+          pone<lb ed="#P" n="34" break="no"/>re aliquod signum particulare: sicut fit in 
+          conuer<lb ed="#P" n="35" break="no"/>sione propositionis de necessario que conuertitur 
+          <lb ed="#P" n="36"/>in vnam de possibili.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e560">
+          ¶ Ad sextum: inter 
+          arguen<lb ed="#P" n="37" break="no"/>dum sufficienter responsu est ad finem vsque exclusiue. 
+          <lb ed="#P" n="38"/>vbi dicitur quod regula habet verum sine signo 
+          vni<lb ed="#P" n="39" break="no"/>uersali. modo necesse est modus vniuersat
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e569">
+          ¶ 
+          Se<lb ed="#P" n="40" break="no"/>ptimo arguitur: factus christus est deus: ergo christus 
+          <lb ed="#P" n="41"/>factus est deus consequentia tenet a conuertibilibus. 
+          <lb ed="#P" n="42"/>et antecedens patet: hoc quod est factum christus: 
+          <lb ed="#P" n="43"/>est deus. Respondetur concedendo antecedens: cum 
+          <lb ed="#P" n="44"/>factio denotetur cadere in connotatum termini christus: et 
+          <lb ed="#P" n="45"/>capiendo consequens in simili sensu: vt factus sit adie 
+          <lb ed="#P" n="46"/>ctiuum termini christus: et factio non denotetur cadere 
+          <lb ed="#P" n="47"/>in terminum deus: sic etiam est propositio vera in 
+          il<lb ed="#P" n="48" break="no"/>lo sensu. antecedens et consequens equiualent sic 
+          ca<lb ed="#P" n="49" break="no"/>piendo. hec potest negari: deus factus est homo: 
+          <lb ed="#P" n="50"/>ita quod factio non denotatur cadere in terminum 
+          ho<lb ed="#P" n="51" break="no"/>mo: sed virtus eius maneat cum termino deus: ac 
+          <lb ed="#P" n="52"/>si diceremus / factus deus est homo: que est 
+          affir<lb ed="#P" n="53" break="no"/>matiua de subiecto non supponente: et falsa. sed 
+          <lb ed="#P" n="54"/>apud communem intelligentiam non ita accipimus. 
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e604">
+          <lb ed="#P" n="55"/>¶ Octauo arguitur: homo contingenter est deus. 
+          <lb ed="#P" n="56"/>ergo homo potest non fieri deus: et per consequens 
+          <lb ed="#P" n="57"/>habebitur quod homo fiet deus. veritas prime 
+          pro<lb ed="#P" n="58" break="no"/>positionis assumpte probatur per duas exponentes 
+          <lb ed="#P" n="59"/>eius / capiendo contingens specialiter. de priore 
+          <lb ed="#P" n="60"/>exponente non est difficultas: et secunda patet: homo 
+          <lb ed="#P" n="61"/>possibiliter non est deus: hec est falsa / omnis homone¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>cessario est deus: ergo illa est vera / homo 
+          possbi<lb ed="#P" n="63" break="no"/>liter non est deus.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e629">
+          ¶ Ad octauum respondetur negam 
+          <lb ed="#P" n="64"/>do quod homo contingenter est deus: immo nihil 
+          contingem<lb ed="#P" n="65" break="no"/>ter est deus. quicquid est deus necessario est deus. 
+          <lb ed="#P" n="66"/>gubernans mundum: creans animam: necessario est 
+          <lb ed="#P" n="67"/>deus. creans animam non est deus / non infert hanc: 
+          cre<lb ed="#P" n="68" break="no"/>ans animam possibiliter non est deus. Etiam illa 
+          <lb ed="#P" n="69"/>propositio de contingenti male exponitur: oportet 
+          <lb ed="#P" n="70"/>primo ipsam resoluere capiendo vnam singularem 
+          <lb ed="#P" n="71"/>termini stantis determinate. vel ponere relatiuum 
+          <lb ed="#P" n="72"/>idemptitatis in secunda exponente. sed quia illic 
+          po<lb ed="#P" n="73" break="no"/>test esse intricatio ex parte termini homo / penes 
+          <lb ed="#P" n="74"/>hoc quod potest capi absolute vel connotatiue: et an 
+          <lb ed="#P" n="75"/>vnico conceptu vel diuersis conceptibus hoc 
+          im<lb ed="#P" n="76" break="no"/>portet potest esse intricatura: propterea cum non est 
+          <lb ed="#P" n="77"/>difficultas in argumento non insito. Potest esse 
+          <lb ed="#P" n="78"/>argumentum de ista / a deus contingenter est deus: 
+          <lb ed="#P" n="79"/>supposito quod a faciat terminum sequentem stare 
+          con<lb ed="#P" n="80" break="no"/>fuse tantum. prior exponens est nota. et secunda patet: 
+          <lb ed="#P" n="81"/>quilibet terminus potest vere negari de termino 
+          <lb ed="#P" n="82"/>stante confuse tamtum habente plura supposita. 
+          Respon<lb ed="#P" n="83" break="no"/>detur: in proposito secunda exponens est falsa: sua 
+          <lb ed="#P" n="84"/>contradictoria omnis deus necessario est b deus 
+          <lb ed="#P" n="85"/>est vera: quia essentia diuina necessario est omnis deus 
+          <lb ed="#P" n="86"/>sed illa expositio non est formalis: vt patet: a 
+          ce<lb ed="#P" n="87" break="no"/>lum contingenter est celum. oportet capere 
+          singu<lb ed="#P" n="88" break="no"/>larem et exponere: quare in argumento non est 
+          dif<lb ed="#P" n="89" break="no"/>ficultas.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e688">
+          ¶ Dubitatur: an homo dicatur 
+          vniuo<lb ed="#P" n="90" break="no"/>ce de christo et sorte: et in qua materia est ista deus 
+          <lb ed="#P" n="91"/>est homo. Respondetur quod homo dicitur equoce de deo et de 
+          <lb ed="#P" n="92"/>sorte: quia mediantibus diuersis conceptibus totalibus 
+          <lb ed="#P" n="93"/>non sinonimis. vnus / conceptus est absolutus et alius 
+          con<lb ed="#P" n="94" break="no"/>notatiuus quia in termins absolute captis consequentia 
+          <lb ed="#P" n="95"/>est bona: sortes est factus homo: ergo est factum 
+          <lb ed="#P" n="96"/>ens: vel sortesincipit esse homo: ergo incipit esse 
+          <lb ed="#P" n="97"/>ens: quod non contingit de termino homo vt christo 
+          <lb ed="#P" n="98"/>conuenit: vt patet ex predictis. sed sufficit quod 
+          huma<lb ed="#P" n="99" break="no"/>nitas assumpta a verbo sit eiusdem speciei cum 
+          <lb ed="#P" n="100"/>aliis hominibus. Quo fit: omnis homo est 
+          huma<lb ed="#P" n="101" break="no"/>nitas. patet: si subiectum capiatur absolute vel 
+          pro<lb ed="#P" n="102" break="no"/>illo quod componitur ex materia et forma 
+          rationali<lb ed="#P" n="103" break="no"/>compositione phisica: quia terminus equiuocus non 
+          <lb ed="#P" n="104"/>distribuitur pro omnibus suis significatis quae 
+          equi<lb ed="#P" n="105" break="no"/>uoce significat. Secundo sequitur. nullus 
+          homo<lb ed="#P" n="106" break="no"/>est humanitas: capiendo illum terminum homo vt 
+          <lb ed="#P" n="107"/>supponit pro filio dei. nec ille contrariantur: non 
+          stan<lb ed="#P" n="108" break="no"/>do quod subiectum vnius stet restrictius quam 
+          subie<lb ed="#P" n="109" break="no"/>ctum alterius: sed quia equiuoce accipiuntur.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e734">
+          ¶ Sed 
+          <lb ed="#P" n="110"/>dicis: aliquis potest esse certus de aliquo / quod est homo vel 
+          ho<lb ed="#P" n="111" break="no"/>mo: capiendo homo in primo loco connotatiue: vt 
+          <lb ed="#P" n="112"/>supponat pro christo: et in secundo loco absolute: 
+          dubitan<lb ed="#P" n="113" break="no"/>do an sit homo absolute: vel homo connotatiue. ergo 
+          opor<lb ed="#P" n="114" break="no"/>tet dare conceptum communem in quo conueniunt. sic 
+          vni<lb ed="#P" n="115" break="no"/>uocatio entis ad deum et creaturas / subiectum et 
+          ac<lb ed="#P" n="116" break="no"/>cidens / ab aliquibus (quod alii ponderant ) 
+          proba<lb ed="#P" n="117" break="no"/>ri solet. Respondetur argumentum illud forte non 
+          <lb ed="#P" n="118"/>est tanti poederis sicut multi putant:et probaret 
+          vni<lb ed="#P" n="119" break="no"/>uocationem termini canis: vel quod sortes vniuoce 
+          si<lb ed="#P" n="120" break="no"/>gnificet tres hoc nomine vocatos: sint tres sortes 
+          <lb ed="#P" n="121"/>famati trahentes moram in collegio mondotis 
+          acu<lb ed="#P" n="122" break="no"/>ti: et non plures. si quispiam ingrediatur et dicat 
+          <pb ed="#P" n="20-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>michi in bibliotheca: vnus sortes de collegio 
+          modo<lb ed="#P" n="2" break="no"/>tis acuti est in curia: et narranti adhibeam fidem: 
+          <lb ed="#P" n="3"/>sam potest esse certitudo ex parte vnius sortis: et in 
+          <lb ed="#P" n="4"/>certitudo quisnam ille est. propterea non pondero 
+          <lb ed="#P" n="5"/>argumentum. non tamen nego quin ens significet 
+          vni<lb ed="#P" n="6" break="no"/>uoce deum et creaturas.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e782">
+          ¶ Ad aliam partem 
+          du<lb ed="#P" n="7" break="no"/>bitationis in qua petitur: in qua materia est ista 
+          <lb ed="#P" n="8"/>deus est homo. Respondetur quod est in materia 
+          con<lb ed="#P" n="9" break="no"/>tingenti probatio: predicatum potest adesse 
+          sub<lb ed="#P" n="10" break="no"/>iecto: et abesse: preter subiecti corruptionem. 
+          er<lb ed="#P" n="11" break="no"/>go est in materia contingenti. consequentia tenet 
+          <lb ed="#P" n="12"/>per diffinitionem materie contingentis: et hoc 
+          <lb ed="#P" n="13"/>ponendo quod sufficit quod conueniat per quamcunqe 
+          <lb ed="#P" n="14"/>potentiam. si adderetur naturaliter: diceretur esse in 
+          <lb ed="#P" n="15"/>materia remota: sed hoc esset stare in quid nominis. 
+          <lb ed="#P" n="16"/>dicamus secundum cepta est in materia contingenti. Sed 
+          <lb ed="#P" n="17"/>dicis: humanitas non est accidens. ergo non est in 
+          <lb ed="#P" n="18"/>materia contingenti. consequentia tenet: quia 
+          pre<lb ed="#P" n="19" break="no"/>dicatum: quod accidentaliter et directe dicitur 
+          <lb ed="#P" n="20"/>de subiecto: debet inportare accidens: vt patet hic 
+          <lb ed="#P" n="21"/>sortes est albus: plato est niger: et ita inductiue in 
+          <lb ed="#P" n="22"/>omnibus. Respondetur: concedendo quod humanitas 
+          <lb ed="#P" n="23"/>non est accidens. et nego illud quod dicis vniuersa 
+          <lb ed="#P" n="24"/>liter tenere: immo innumeras patitur instantias. 
+          sor<lb ed="#P" n="25" break="no"/>tes est sedens est in materia contingenti: et 
+          predi<lb ed="#P" n="26" break="no"/>catio quinti predicabilis: et tamen predicatum 
+          <lb ed="#P" n="27"/>non importat aliquod accidens sorti inherens: quia 
+          <lb ed="#P" n="28"/>non pono sessionem respectum extrinsecus 
+          adueni<lb ed="#P" n="29" break="no"/>entem sorti inherentem per quam denominatur sedens 
+          <lb ed="#P" n="30"/>sed quia partes substantialeo sortis taliter conueniunt 
+          <lb ed="#P" n="31"/>sorti qualiter non est essentiale ei / illa predicatio est 
+          <lb ed="#P" n="32"/>accidentalis. Item patet de hac: sortes est filiatio 
+          sor<lb ed="#P" n="33" break="no"/>tes est crispitudo: vel crispus. et quia stat deum esse 
+          <lb ed="#P" n="34"/>sine humanitate assumpta: propterea deus est 
+          ho<lb ed="#P" n="35" break="no"/>mo / est in materia contingenti: sicut est ista homo 
+          <lb ed="#P" n="36"/>est vestitus. hec vnio accidentis ad subiectum ( 
+          seclu<lb ed="#P" n="37" break="no"/>dendo inherentiam) magnam habet vicinitatem cum in 
+          <lb ed="#P" n="38"/>dumento: vt superius dictum est in prima 
+          distinctio<lb ed="#P" n="39" break="no"/>ne.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e856">
+          ¶ Sed dubitas: quod predicabile facit terminus 
+          <lb ed="#P" n="40"/>homo in ordine ad deum.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e861">
+          ¶ Respondetur in ordine 
+          <lb ed="#P" n="41"/>ad terminum deus facit quintum predicabile. sed in 
+          <lb ed="#P" n="42"/>ordine ad sua inferiora facit predicabile speciem. 
+          <lb ed="#P" n="43"/>quia sipater assumeret humanitatem aliam: tunc iste 
+          <lb ed="#P" n="44"/>erunt quidditatiue et essentiales: hic homo est 
+          ho<lb ed="#P" n="45" break="no"/>mo demonstrando patrem: et hic homo est homo / 
+          <lb ed="#P" n="46"/>demonstrando filium: et predicatur species in 
+          ordi<lb ed="#P" n="47" break="no"/>ne ad sua inferiora. praedicabilia bene materialiter 
+          <lb ed="#P" n="48"/>coincidunt: sed differunt secundum suas rationes 
+          forma<lb ed="#P" n="49" break="no"/>les.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e884">
+          ¶ Sed dices: ista est vera / deus est homo: 
+          si<lb ed="#P" n="50" break="no"/>militer et ista / sortens est homo: ergo homo est 
+          ge<lb ed="#P" n="51" break="no"/>nus.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e891">
+          ¶ Respondetur: consequentia est nulla. predi 
+          <lb ed="#P" n="52"/>catur equiuoce de eis et accidentaliter de vno. 
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e896">
+          <lb ed="#P" n="53"/>¶ Sed dices: iste sunt essentiales / hic homo est 
+          ho<lb ed="#P" n="54" break="no"/>mo demonstrando deum: et ille homo est homo 
+          de<lb ed="#P" n="55" break="no"/>monstrando sortem. sicut hoc album est album: illud 
+          al<lb ed="#P" n="56" break="no"/>bum est albsi: ergo erit genus. quia praedicatur de 
+          plu<lb ed="#P" n="57" break="no"/>ribus di sferentibus specie in eo quod quid. 
+          Respon<lb ed="#P" n="58" break="no"/>deo quod praedicatur equiuoce de eis. et si teneatur more 
+          <lb ed="#P" n="59"/>doctoris subtilis quod homo dicatur vniuoce de 
+          chri<lb ed="#P" n="60" break="no"/>sto et sorte: tunc difficultas est melior. sed dando 
+          ar<lb ed="#P" n="61" break="no"/>gumento totum quod pretendit / non sequitur quod erit 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>genus: qui hoc non conuenit termmo ratione 
+          signifi<lb ed="#P" n="63" break="no"/>cati sormalis ratione cuius terminus ponitur 
+          in<lb ed="#P" n="64" break="no"/>predicamento: vi solet dici de isto termino album 
+          <lb ed="#P" n="65"/>qi praedicatur de ploribus differantibus specie i 
+          <lb ed="#P" n="66"/>eo quod quid ratione significati materialis: vi hoc 
+          al<lb ed="#P" n="67" break="no"/>bum est album demonstrando sortem:e illud album dst 
+          <lb ed="#P" n="68"/>album demonstrando bouem.
+        </p>
+        <p xml:id="jm3cbb-e11296-d1e935">
+          ¶ Si dicas susficere 
+          ta<lb ed="#P" n="69" break="no"/>tione cuiuscumqe significati: erit solum disputatio 
+          <lb ed="#P" n="70"/>verbalis. Consequenter loquendo diceretur esse 
+          da<lb ed="#P" n="71" break="no"/>nis. sed antecedentia ad hoc non tenco hec est 
+          pre<lb ed="#P" n="72" break="no"/>dicatio quinti predicabilis: verbum est bomo 
+          proio<lb ed="#P" n="73" break="no"/>dicatum accidentaliter conuenit subiecto:et est predi 
+          <lb ed="#P" n="74"/>catio directa: licet homo non sit accidens sorte 
+          di<lb ed="#P" n="75" break="no"/>cit doctor subtilis ita est de hac album est lignum. 
+          <lb ed="#P" n="76"/>sed cum illa non est ordinata nullius praedicabilis est 
+          <lb ed="#P" n="77"/>predicatio. qualis est praedicatio istius christus est 
+          ho<lb ed="#P" n="78" break="no"/>mo: est etiam difficultas doctor subtilis 
+          dicitest<lb ed="#P" n="79" break="no"/>predicatio accidentalis: quia de ratione contingenti 
+          <lb ed="#P" n="80"/>nihil essentialiter predicatur. ratio contingens est 
+          <lb ed="#P" n="81"/>oratio inperfecta: inter cuius / partes si ponatur 
+          copu<lb ed="#P" n="82" break="no"/>la / tota propositio est contingens. hec ratio apud 
+          <lb ed="#P" n="83"/>me non habet locum: homo albus est animal 
+          colo<lb ed="#P" n="84" break="no"/>ratum est predicatio essentialis: sicut album est 
+          colo<lb ed="#P" n="85" break="no"/>ratum. quando a parte subiecti ponitur terminus 
+          <lb ed="#P" n="86"/>absolutus cum connotatiuo:et a parte praedicati ponitur 
+          <lb ed="#P" n="87"/>superius ad illum terminum absolutum: et ad illum 
+          ter<lb ed="#P" n="88" break="no"/>minum connotatiuum: ex communi logica adhuc est 
+          pre<lb ed="#P" n="89" break="no"/>dicatio essentialis: ergo aliquid praedicatur essentia 
+          <lb ed="#P" n="90"/>liter de ratione in se contingenti. ad difficultatem in 
+          <lb ed="#P" n="91"/>se: christus est homo: vt homo dicitur de christo. 
+          dico<lb ed="#P" n="92" break="no"/>extrema habent idem significatum materiale: 
+          pu<lb ed="#P" n="93" break="no"/>ta verbum. et si terminus christus humanitatemin 
+          con<lb ed="#P" n="94" break="no"/>notato importet: sicut terminus homo: esset 
+          ore<lb ed="#P" n="95" break="no"/>dicatio sinonimi de sinonimo. videatur a 
+          queren<lb ed="#P" n="96" break="no"/>te quid terminus connotet et consequenter ei 
+          respon<lb ed="#P" n="97" break="no"/>deatur. alas nullus logicus potest dicere in quo 
+          <lb ed="#P" n="98"/>praedicamento ponitur hic terminus vel ille. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

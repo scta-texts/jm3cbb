@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="32-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e19051"><!-- l3d14q4 -->
+        <head xml:id="jm3cbb-e19051-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e19051-Hd1e101" type="question-title">An intellectus creatus Christi cognoscat omnia quae Verbum
+    cognoscit</head>
+        <p xml:id="jm3cbb-e19051-d1e104">
+          <lb ed="#P" n="6"/>QUarto queritur 
+          <lb ed="#P" n="7"/>an intellectus creatus christi 
+          <lb ed="#P" n="8"/>cognoscat omnia que verbum 
+          <lb ed="#P" n="9"/>cognoscit. Scias hic 
+          multi<lb ed="#P" n="10" break="no"/>plicem esse modum opinandi. 
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e117">
+          <lb ed="#P" n="11"/>¶ Primus est dicentium quod 
+          intel<lb ed="#P" n="12" break="no"/>lectus creatus / in christo (siue 
+          intel<lb ed="#P" n="13" break="no"/>lectus anime christi) cognoscit omnia que verbum 
+          <lb ed="#P" n="14"/>cognoscit scientia visionis: et non cognoscit omnia 
+          <lb ed="#P" n="15"/>que verbum cognoscit noticia simplicis intelligen 
+          <lb ed="#P" n="16"/>tie. non capimus scire more Aristo i. et. ii. 
+          posteri<lb ed="#P" n="17" break="no"/>orum pro noticia conclusionis per demonstrationem 
+          <lb ed="#P" n="18"/>acquisita: sed pro quaecunqe noticia. scientia visionis 
+          <lb ed="#P" n="19"/>est respectu preteritorum presentium et futurorum. 
+          sci<lb ed="#P" n="20" break="no"/>entia simplicis intelligentie est respectu omnium 
+          <lb ed="#P" n="21"/>possibilium: et semper est sermo de noticia distincta: 
+          <lb ed="#P" n="22"/>quia de noticia confusa non est difficultas: noticia 
+          <lb ed="#P" n="23"/>entis confusa intellectus meus omne ens 
+          cogno<lb ed="#P" n="24" break="no"/>scit.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e150">
+          ¶ Contra illam positionem arguitur sic: aliquod 
+          <lb ed="#P" n="25"/>ens est possibile / quod nec fuit / nec est / nec erit: quod anima 
+          <lb ed="#P" n="26"/>christi cognoscit: et non est maior ratio de vno 
+          ta<lb ed="#P" n="27" break="no"/>li: quam de quilibet. ergo quodlibet ens possibile anima 
+          <lb ed="#P" n="28"/>christi distincte cognoscit.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e162">
+          ¶ Secundo arguitur 
+          apparen<lb ed="#P" n="29" break="no"/>tius anima christi infinita cognoscit distincta etiam: 
+          per<lb ed="#P" n="30" break="no"/>hanc positionem: et qua ratione cognoscit infinita 
+          <lb ed="#P" n="31"/>distincte / cognoscit omnia possibilia: quia vnum 
+          <lb ed="#P" n="32"/>non est difficilius alio. quod infinita distincte 
+          cogno<lb ed="#P" n="33" break="no"/>scit patet: quodlibet existens distincte cognoscit: 
+          <lb ed="#P" n="34"/>sed infinite res existunt: cathegoreumatice 
+          capien<lb ed="#P" n="35" break="no"/>do infinitum: vt patet de partibus continui. Et si 
+          <lb ed="#P" n="36"/>dicas te intelligere de toto et non partibus. infinita 
+          <lb ed="#P" n="37"/>sunt puncta in continuo: mutata esse in motu: et in 
+          <lb ed="#P" n="38"/>stantia in tempore per te: que non sunt partes qua 
+          <lb ed="#P" n="39"/>ti permanentis vel successiui: igitur.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e188">
+          ¶ Tertio 
+          <lb ed="#P" n="40"/>arguitur vltra hec omnia in rebus specie 
+          distin<lb ed="#P" n="41" break="no"/>etis et existentibus. anima christi habet noticiam 
+          di<lb ed="#P" n="42" break="no"/>rectam respectu multorum obiectorum: immo respectu 
+          <lb ed="#P" n="43"/>omnium rerum totalium per te: ergo habet noticiam 
+          <lb ed="#P" n="44"/>albedinis: dicatur illa a. tunc sic. a. existit: ergo est 
+          <lb ed="#P" n="45"/>ab anima christi distincte cognita. et non per 
+          ipsam<lb ed="#P" n="46" break="no"/>a: quia nulla noticia distincte representat se. 
+          pro<lb ed="#P" n="47" break="no"/>batio: quia noticia potissimum intuitiua producitur 
+          <lb ed="#P" n="48"/>a potentia et ab obiecto. et per consequens si a 
+          noti<lb ed="#P" n="49" break="no"/>cia distincte representat se: idem causabat se: quod 
+          in<lb ed="#P" n="50" break="no"/>tellectus capere non potest: vt patet. apud Aug. 
+          <lb ed="#P" n="51"/>i. de trinitate ca. primo. tunc sic a. est distincte 
+          co<lb ed="#P" n="52" break="no"/>gnita: et non per ipsam a. ergo per aliquam aliam 
+          <lb ed="#P" n="53"/>noticiam reflexam: scilicet b. tunc sic b. est in 
+          intelle<lb ed="#P" n="54" break="no"/>etu anime christi / non constituens aliquod vnum 
+          <lb ed="#P" n="55"/>cum a zquia est alterius speciei ab a: vt patet ex 
+          di<lb ed="#P" n="56" break="no"/>stincti one specifica obiectorum a. et b. et neutra illa 
+          <lb ed="#P" n="57"/>rum not iciarum est potentia vel actus: ergo non 
+          con<lb ed="#P" n="58" break="no"/>stituunt aliquod vnum. et tunc sic: vel b. est 
+          distin<lb ed="#P" n="59" break="no"/>ete cognita: vel non est cognita distincte. si secundum: iam 
+          <lb ed="#P" n="60"/>est aliquod totaleactu existens non distincte co¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>gnitum. si est cognitum: non est cognitum per se sed 
+          per<lb ed="#P" n="62" break="no"/>aliam noticiam: sicut argumentatus sum de a et b. 
+          <lb ed="#P" n="63"/>oportet necessario dicere quod est aliqua noticia 
+          re<lb ed="#P" n="64" break="no"/>flexa non distincte cognita: vel infinite sunt noticie 
+          <lb ed="#P" n="65"/>totales quarum quelibet est distincte cognita. 
+          Si<lb ed="#P" n="66" break="no"/>primum: iam est contra tuam positionem. si secundum: habetur 
+          <lb ed="#P" n="67"/>quod distincte cognoscit infinita.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e253">
+          ¶ Secunda positio te 
+          <lb ed="#P" n="68"/>net quod anima christi non potest distincte actualiter 
+          co<lb ed="#P" n="69" break="no"/>gnoscere infinita: nec per vnam noticiam 
+          actuali<lb ed="#P" n="70" break="no"/>ter cognoscere infinita. potest tamen per vnum 
+          ha<lb ed="#P" n="71" break="no"/>bitum cognoscere distincte infinita. primum patet 
+          <lb ed="#P" n="72"/>quia tune ille intellectus esset infinite perfectus. 
+          <lb ed="#P" n="73"/>sed hec probatio destruit posteriorem partem. ille 
+          ha<lb ed="#P" n="74" break="no"/>bitus qui omnia distincte representaret esset 
+          infl<lb ed="#P" n="75" break="no"/>nite perfectus: sicut actus. Aliqui dicunt / quod potest 
+          <lb ed="#P" n="76"/>anima christi infinita sinchategoreumatice 
+          cogno<lb ed="#P" n="77" break="no"/>scere distincte: sed non infinita cathegoieumatice 
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e277">
+          <lb ed="#P" n="78"/>¶ Contra: ergo intellectus anime christi potest 
+          cogno<lb ed="#P" n="79" break="no"/>scere duo / tria / quaettuor / et ascendendo in infinitum 
+          di<lb ed="#P" n="80" break="no"/>stinctis actibus: sed non maius inconueniens 
+          sequi<lb ed="#P" n="81" break="no"/>tur ad hoc quod infinita cathegoreumatice 
+          cogno<lb ed="#P" n="82" break="no"/>scat. ad cognoscendum centum mille obiecta 
+          distin<lb ed="#P" n="83" break="no"/>cte non arguitur pefectior / quam cognoscere 
+          pauca<lb ed="#P" n="84" break="no"/>obiecta sicut nos cognoscimus: ergo nec ad 
+          co<lb ed="#P" n="85" break="no"/>gnoscere distincta infinita cathegoreumatice: 
+          ar<lb ed="#P" n="86" break="no"/>guitur perfectio creaturam transcendens.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e299">
+          ¶ 
+          Preui<lb ed="#P" n="87" break="no"/>ter pono has conclusiones quas soleo semper in hac 
+          <lb ed="#P" n="88"/>parte tenere. Prima: anima christi cognoscit 
+          distin<lb ed="#P" n="89" break="no"/>cte tot sicut deus.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e308">
+          ¶ Secunda conclusio: deus cogno¬¬ 
+          <lb ed="#P" n="90"/>scitinfinita cathegoreumatice distincte.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e314">
+          ¶ 
+          Ter<lb ed="#P" n="91" break="no"/>tia conclusio: hoc est possibile fieri anima nullam acti 
+          ui<lb ed="#P" n="92" break="no"/>tatem habente respectu illarum noticiarum.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e321">
+          ¶ 
+          Quar<lb ed="#P" n="93" break="no"/>to: hoc est possibile fieri anima christi concurrente ad 
+          <lb ed="#P" n="94"/>infinitas noticias distincte. Hanc primam conclusso 
+          <lb ed="#P" n="95"/>nem tenet magister in hac distinctione. ca. ii. intro 
+          <lb ed="#P" n="96"/>ducens fulgentium in quodam sermone hoc 
+          tenen<lb ed="#P" n="97" break="no"/>tem: et dicit quod multas auctoritates ad hoc intro 
+          <lb ed="#P" n="98"/>ducit. vna est apparens ad Collocenss. ii. In quo 
+          <lb ed="#P" n="99"/>sunt omnes thesauri sapientie et scientie 
+          abscon<lb ed="#P" n="100" break="no"/>diti. quod magister probat ratione nihil scit 
+          ali<lb ed="#P" n="101" break="no"/>quis quod eius anima ignorat: sed christus secundum 
+          om<lb ed="#P" n="102" break="no"/>nium concessionem omnia scit: ergo anima eius omnia 
+          <lb ed="#P" n="103"/>scit.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e347">
+          ¶ Sed huic argumento magistri / facile 
+          respon<lb ed="#P" n="104" break="no"/>debitur: dicendo maior est falsa in proposito. christus 
+          <lb ed="#P" n="105"/>ratione intellectus increati scit multa que 
+          animan<lb ed="#P" n="106" break="no"/>eius fugiunt. sed maior illa est vera inhomine 
+          pu<lb ed="#P" n="107" break="no"/>ro: vbi totalitas scientie ab anima egreditur: non 
+          <lb ed="#P" n="108"/>est sic in proposito. auctoritas tamen aposoli recita 
+          <lb ed="#P" n="109"/>ta est bona in proposito: et in. xiii. distinctione 
+          re<lb ed="#P" n="110" break="no"/>citauimus quemadmodum ei data sunt dona sine 
+          men<lb ed="#P" n="111" break="no"/>sura: ergo ad infinitatem. Ioannis. i. plenum gratiae 
+          ve<lb ed="#P" n="112" break="no"/>ritate. modo veritas ad sapientiam secundum Augu. xiii. 
+          <lb ed="#P" n="113"/>de trini. refertur. Insuper christus homo potestate 
+          su<lb ed="#P" n="114" break="no"/>prema delegata iudicabit: Ioannis. v. scribitur: 
+          <lb ed="#P" n="115"/>pater enim iudicium dedit filio. modo quilibet est 
+          <lb ed="#P" n="116"/>bonus / iudex eorum que nouit: primo ethicorum. 
+          ergo<lb ed="#P" n="117" break="no"/>anima christi cognoscit singulos actus 
+          predesti<lb ed="#P" n="118" break="no"/>natorum et reproborum / circunstantias aggrauantes 
+          <lb ed="#P" n="119"/>alleuiantes / et impartinentes / intensionem et 
+          remis<lb ed="#P" n="120" break="no"/>sionem actuum: et ad hoc sequitur quod infinita 
+          distin<lb ed="#P" n="121" break="no"/>cte cognoscit eius anima. Et apoca. v. dignus est 
+          <pb ed="#P" n="32-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>agnus qui occisus est accipere diuinitatem et scientiam. 
+          <lb ed="#P" n="2"/>vbi glo. i. omnem cognitionem. Preterea ita putarunt 
+          <lb ed="#P" n="3"/>sicut dico in conclusione / discipuli christi. patet 
+          per<lb ed="#P" n="4" break="no"/>illud quo scribitur Ioannis. xvi. dixerunt 
+          discipu<lb ed="#P" n="5" break="no"/>i christo: nunc scimus quod scis ommnia: non erat 
+          ser<lb ed="#P" n="6" break="no"/>mo secundum diuinitatem: hoc diu antequam cognouerunt 
+          <lb ed="#P" n="7"/>christum sciebant: quod nichil deum lateret: hec ratio 
+          <lb ed="#P" n="8"/>multum me mouet. Preterea Anselmus. ii. 
+          libro<lb ed="#P" n="9" break="no"/>cur deus homo dicit / quod perfecte sciuit omne 
+          bo<lb ed="#P" n="10" break="no"/>num: et nullum ignorauit malum: et omnia illa ab 
+          <lb ed="#P" n="11"/>instanti conceptionis sciebat vt Esaias. vii. 
+          ca<lb ed="#P" n="12" break="no"/>pite sui libri canit de virgine et puero Ihesu 
+          in<lb ed="#P" n="13" break="no"/>quiens / Ecce vergo concipiet et pariet filium et 
+          vo<lb ed="#P" n="14" break="no"/>cabitur nomemn eius emanuel. butirum et mel 
+          come<lb ed="#P" n="15" break="no"/>det: vt sciat reprobare malum eligere bonum. 
+          vbi<lb ed="#P" n="16" break="no"/>glo. merginalis in verbo reprobare: sic ait: quasi 
+          <lb ed="#P" n="17"/>in pannis infantie positus habebit boni malique 
+          di<lb ed="#P" n="18" break="no"/>scretionem. et Damascenus libro. iii. c. xxi. locupleta 
+          <lb ed="#P" n="19"/>ta est domini anima futurorum cognitione / vt et 
+          re<lb ed="#P" n="20" break="no"/>liquis diuinis signis. Et paulopost dicit 
+          Domi<lb ed="#P" n="21" break="no"/>ni autem anima propter ipsam ad deum verbum visionem 
+          <lb ed="#P" n="22"/>et ypostaticam idemptitatem diues facta est. ceu 
+          di<lb ed="#P" n="23" break="no"/>xi cum reliquis diuinis signis: etiam futurorum 
+          co<lb ed="#P" n="24" break="no"/>gnitione.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e445">
+          ¶ finaliter arguitur ad conclusionem. sic. 
+          <lb ed="#P" n="25"/>attribuendum est anime christi omne illud quodo est 
+          decem<lb ed="#P" n="26" break="no"/>tius et conformius / scripture et sanctorum 
+          auctori<lb ed="#P" n="27" break="no"/>tatibus: vbi nulla est ratio nisi sophistica ad 
+          opposi<lb ed="#P" n="28" break="no"/>tum: sed sic est dicendo animam christi omnia 
+          possibi<lb ed="#P" n="29" break="no"/>lia distincte cognoscere: patet ex auctoritatibus 
+          <lb ed="#P" n="30"/>nunc recitatis: et nulla est ratio opposita vincens: 
+          <lb ed="#P" n="31"/>vt dicemus interarguendum. hic modus nec equat 
+          hu<lb ed="#P" n="32" break="no"/>manitatem christi deo: nec ponit aliquid impossibile 
+          <lb ed="#P" n="33"/>in natura. sed aliquid valde possibile et decens. ex 
+          <lb ed="#P" n="34"/>argumentorum solutionibus hoc clarius apparebit. 
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e469">
+          <lb ed="#P" n="35"/>¶ Secunda conclusio patuit distinctione. xxxvi. primi¬ 
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e474">
+          <lb ed="#P" n="36"/>¶ Tertia conclusio probatur: in qua oportet 
+          duo<lb ed="#P" n="37" break="no"/>ostendere. primum est: quod deus potest producere 
+          infi<lb ed="#P" n="38" break="no"/>nitas noticias se solo. Secundum est: quod anima potest 
+          vi<lb ed="#P" n="39" break="no"/>taliter immutari illis noticiis: et non habendo 
+          effi<lb ed="#P" n="40" break="no"/>cientiam respectu illarum. Primum sic ostendo: anima 
+          <lb ed="#P" n="41"/>naturaliter potest habere noticiam intensam vt 
+          <lb ed="#P" n="42"/>octo circa a. obiectum. ergo potest habere 
+          infini<lb ed="#P" n="43" break="no"/>tas noticias circa infinita obiecta specie distincta: 
+          <lb ed="#P" n="44"/>sic scilicet quod ille omnes simul collecte non 
+          transcem<lb ed="#P" n="45" break="no"/>dant intensionem noticie circa a obiectum: potest ipsa 
+          <lb ed="#P" n="46"/>anima habere noticiam intensam vt quattuor 
+          cir<lb ed="#P" n="47" break="no"/>ca b. et vnam noticiam alterius speciei intensam 
+          <lb ed="#P" n="48"/>vt duo circac. et noticiam alterius speciei 
+          inten<lb ed="#P" n="49" break="no"/>sam vt vnum circa d. et sic in infinitum descendendo 
+          <lb ed="#P" n="50"/>geo metrice. qua facto: anima habebit infinitas 
+          no<lb ed="#P" n="51" break="no"/>ticias distinctas: licet inequalis intensionis. 
+          pon<lb ed="#P" n="52" break="no"/>dus probationis iacet in hoc: quod ita facile est 
+          intel<lb ed="#P" n="53" break="no"/>lectui habere varias noticias circa multa 
+          obie<lb ed="#P" n="54" break="no"/>cta sicut vnam circa vnum obiectum: dum modo sit equelitas 
+          <lb ed="#P" n="55"/>in intenfione graduali. sed quia istud argumentum 
+          <lb ed="#P" n="56"/>non magnisacio: quia fundamentum falsum iudieo. 
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e523">
+          <lb ed="#P" n="57"/>¶ Aliter arguitur sic. in distinctione precedente 
+          osten<lb ed="#P" n="58" break="no"/>sum est quod deus potest producere infinitum. et ad 
+          pro<lb ed="#P" n="59" break="no"/>positum: hoc sic declaro. deus / potest facere spacium 
+          <lb ed="#P" n="60"/>infinitum: vel spiritus intellectiuos infinitos: et 
+          <lb ed="#P" n="61"/>applicare mutuo ad hoc quodse intelligant: quo facto: 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>infinite erunt noticie: licet in variis subiectis pers 
+          <lb ed="#P" n="63"/>test enin deus omnes illas noticias ponere in 
+          ea<lb ed="#P" n="64" break="no"/>dem anima ipsa anima nullam efficientiam habente. vel sic: 
+          po<lb ed="#P" n="65" break="no"/>test deus infinitas qualitates eiusdem speciei 
+          en<lb ed="#P" n="66" break="no"/>titatiue cum noticiis producere extra subiectum: 
+          <lb ed="#P" n="67"/>et anima quelibet est susceptiua cuiuslibet noticie: 
+          <lb ed="#P" n="68"/>faciat ergo ita deus suspendendo causalitatem 
+          ac<lb ed="#P" n="69" break="no"/>tiuam ipsius anime: tunc anima vitaliter 
+          immu<lb ed="#P" n="70" break="no"/>tabitur ab infinitis noticiis: quia cum ille 
+          qualita<lb ed="#P" n="71" break="no"/>tes sunt in subiecto vitaliter perceptiuo: sunt nos 
+          <lb ed="#P" n="72"/>ticie.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e562">
+          ¶ Quarta conclusio probatur: puta quod 
+          ani<lb ed="#P" n="73" break="no"/>ma potest concurrere partialiter ad 
+          productio<lb ed="#P" n="74" break="no"/>nem infinitarum noticiarum. quia si non: hoc est propte 
+          <lb ed="#P" n="75"/>rea quia est creatura limitata: et si ad infinita 
+          con<lb ed="#P" n="76" break="no"/>curreret: creature limites egrederetur. sed hoc non. 
+          <lb ed="#P" n="77"/>patet: non arguitur maior illimitatio in viro vel 
+          <lb ed="#P" n="78"/>angelo ad ferre duas libras cum adiutorio simili: 
+          <lb ed="#P" n="79"/>quam ferre vnam libram solitarie. ita facile est iribs 
+          <lb ed="#P" n="80"/>angelis pondus trium librarum ferre: sicut vni illo 
+          <lb ed="#P" n="81"/>fum vnam libram ferre: ergo ita sacile est infinitia 
+          <lb ed="#P" n="82"/>angelis infinitas libras ferre: sicut vni illorum 
+          fer<lb ed="#P" n="83" break="no"/>re vnam libram. et tamen quilibet illorum 
+          angelo<lb ed="#P" n="84" break="no"/>rum partialitur fert pondus / inflnitarum librarum in illo 
+          ca<lb ed="#P" n="85" break="no"/>su. et tamen ex hoc non arguitur egressus limitis 
+          <lb ed="#P" n="86"/>creature. Confirmatur hec ratio. idem lumen 
+          numero<lb ed="#P" n="87" break="no"/>ad infinitas visiones naturaliter concurreret: si essent 
+          <lb ed="#P" n="88"/>infinite potentie visiue et infinita obiecta 
+          appli<lb ed="#P" n="89" break="no"/>cata: ita facile sicut ad vnam visionem. Similit 
+          <lb ed="#P" n="90"/>eadem facilitate charitas concurrit ad multos actus 
+          <lb ed="#P" n="91"/>meritorios sicut ad paucos: et si potentia posset 
+          <lb ed="#P" n="92"/>inflnitos actus elicere. sed deus est infinite 
+          acti<lb ed="#P" n="93" break="no"/>uitatis: et potest animam quamcunqe adiuuare 
+          infl<lb ed="#P" n="94" break="no"/>nite. et cum infintto auxilio non requirit maior 
+          vir<lb ed="#P" n="95" break="no"/>tus ad productionem infiniti effectus quam sine 
+          auxi<lb ed="#P" n="96" break="no"/>lio producere paruum effectum.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e617">
+          ¶ Contra primam 
+          con<lb ed="#P" n="97" break="no"/>clusionem arguitur sic: bene sequitur: anima christi iot 
+          <lb ed="#P" n="98"/>distincte cognoscit quot deus: ergo sequitur quod 
+          equa<lb ed="#P" n="99" break="no"/>tur deo in cognitione. consequens est falsum.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e626">
+          ¶ 
+          Se<lb ed="#P" n="100" break="no"/>cundo arguitur. sequitur quod anima christi habet 
+          infini<lb ed="#P" n="101" break="no"/>tas noticias reflexas: sicutargumentatus sum 
+          con<lb ed="#P" n="102" break="no"/>tra primam opinionem. et per consequens 
+          impedie<lb ed="#P" n="103" break="no"/>tur in concatenatione illarum reflexionum: quod non 
+          po<lb ed="#P" n="104" break="no"/>terit plures noticias habere.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e639">
+          ¶ Ad primum neg q 
+          <lb ed="#P" n="105"/>sequelam et ratio est. noticia dei est deus. 
+          anima<lb ed="#P" n="106" break="no"/>christi cognoscit per multas noticias accidentalea 
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e646">
+          <lb ed="#P" n="107"/>¶ Secundo: deus cognoscit omnia sine ope. licet 
+          crea<lb ed="#P" n="108" break="no"/>ture sint obiecta terminatiua et secundaria respectu 
+          <lb ed="#P" n="109"/>noticie dei: tamen non sunt obiecta motiua: sed 
+          solum<lb ed="#P" n="110" break="no"/>terminatiua. anima christi non sic cognoscit: sed cum 
+          <lb ed="#P" n="111"/>infinito auxilio dei.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e660">
+          ¶ Tertio. deus de necessitate 
+          <lb ed="#P" n="112"/>cognoscit omnia cognoscibilia: anima christi 
+          contin<lb ed="#P" n="113" break="no"/>genter et ex llberalitate gratiosa dei: sed quo ad 
+          <lb ed="#P" n="114"/>obiecta cognita parificantur. hoc est nullum est 
+          obie<lb ed="#P" n="115" break="no"/>tum cognitum a deo / quod non sit distincte 
+          cogni<lb ed="#P" n="116" break="no"/>tum ab anima christi.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e673">
+          ¶ Ad secundum. concedo quod 
+          anima<lb ed="#P" n="117" break="no"/>christi habet infinitas noticias distinctas reflexas: 
+          <lb ed="#P" n="118"/>immo habet infinitas concatenationes noticiarum 
+          re<lb ed="#P" n="119" break="no"/>flexiuarum. probatio: cognoscit infinita obiecta non 
+          <lb ed="#P" n="120"/>noticias / distincte: et totalia / et partialia. et 
+          per<lb ed="#P" n="121" break="no"/>consquens habet infinitas noticias directas et 
+          spe<lb ed="#P" n="122" break="no"/>cie distinctas respectuobiectorum specse distincto 
+          <pb ed="#P" n="33-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>rum. et omnes ille noticie sunt distincte cognite 
+          per<lb ed="#P" n="2" break="no"/>noticias reflexas. et nulla est noticia reflexa non 
+          <lb ed="#P" n="3"/>distincte cognita. ergo sequitur quod infinitas 
+          conca<lb ed="#P" n="4" break="no"/>thenationes noticiarum reflexiuarum habet: et 
+          nego<lb ed="#P" n="5" break="no"/>quod aliqua concathenatio talis prestet ei 
+          impedimen<lb ed="#P" n="6" break="no"/>tum ne omnia cognoscat: cum infinitum habeat 
+          au<lb ed="#P" n="7" break="no"/>xilium.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e708">
+          ¶ Tertio arguitur: sequitur quod multa 
+          iudi<lb ed="#P" n="8" break="no"/>cia desinit habere: et multa incipit habere: et 
+          nul<lb ed="#P" n="9" break="no"/>la sunt ei reuelabilia: que sunt inconuenientia. 
+          pri<lb ed="#P" n="10" break="no"/>mum patet: quando propositiones vere incipiunt 
+          <lb ed="#P" n="11"/>esse false desinit habere earum assensum: et incipit 
+          <lb ed="#P" n="12"/>habere dissensum: secunda pars est clara. tertia 
+          pa<lb ed="#P" n="13" break="no"/>tet: scit omnia: et nichil est ei occultum: ergo 
+          nichil<lb ed="#P" n="14" break="no"/>est ei reuelabile: quod eum lateat. concedo omnia 
+          il<lb ed="#P" n="15" break="no"/>la. nulla est difficultas. talia argumenta sunt 
+          ap<lb ed="#P" n="16" break="no"/>plicabilia ad noticiam dei. et qualiter dicimus de 
+          <lb ed="#P" n="17"/>noticia dei: taliter de noticia anime christi 
+          dici<lb ed="#P" n="18" break="no"/>mus proportionabiliter. quando propositio est ve 
+          <lb ed="#P" n="19"/>ra / est scita ab anima christi: et quando desinit 
+          es<lb ed="#P" n="20" break="no"/>se vera / desinit esse scita: et oppositum eius incipit 
+          <lb ed="#P" n="21"/>esse scitum. et sic non plura scit in vno tempore quam 
+          <lb ed="#P" n="22"/>in alio.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e743">
+          ¶ Quarto arguitur: sequitur quod anima 
+          chri<lb ed="#P" n="23" break="no"/>sti scit distincte quot sunt arene in littore maris: 
+          <lb ed="#P" n="24"/>quadraturam circuli: insolubilia: et omnes 
+          huius<lb ed="#P" n="25" break="no"/>modi tricas. Ulterius sequitur quod deus 
+          compre<lb ed="#P" n="26" break="no"/>deretur ab anima christi. Conceduntur omnia dem 
+          <lb ed="#P" n="27"/>pto vltimo. quomodo deum comprehendat / vel 
+          <lb ed="#P" n="28"/>non comprehendat: dictum est superius.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e759">
+          ¶ 
+          Quin<lb ed="#P" n="29" break="no"/>to arguitur: vel omnia possibilia cognoscit 
+          noti<lb ed="#P" n="30" break="no"/>ciis finitis in gradu: vel infinitis: sed neutrum est 
+          <lb ed="#P" n="31"/>dicendum: igitur.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e768">
+          ¶ Sexto arguitur. Mat. xxiiii. 
+          <lb ed="#P" n="32"/>de die autem illa et hora nemo scit neque angeli 
+          celo<lb ed="#P" n="33" break="no"/>rum nisi pater solus.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e776">
+          ¶ Ad quintum respondetur 
+          <lb ed="#P" n="34"/>vtrumque est deo possibile. sed citius opinor quod no 
+          <lb ed="#P" n="35"/>ticiis finitis intensiue cognoscit omnia. sufficit quod 
+          <lb ed="#P" n="36"/>omnia distincte cognoscat: et quod habeat tot 
+          noti<lb ed="#P" n="37" break="no"/>cias distinctas quot sunt obiecta cognoscibilia. 
+          <lb ed="#P" n="38"/>et quo ad iudicia: omnibus propositionibus 
+          ve<lb ed="#P" n="39" break="no"/>ris assentit: et falsis dissentit. clarissime tamen 
+          in<lb ed="#P" n="40" break="no"/>ter creaturas quodlibet cognoscibile cognoscit. 
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e794">
+          <lb ed="#P" n="41"/>¶ Ad sextum respondetur: hec auctoritas non est 
+          <lb ed="#P" n="42"/>contra propositum: quia hanc auctoritatem 
+          ponderan<lb ed="#P" n="43" break="no"/>do secundum corticem littere: excluderetur filius dei secundum 
+          <lb ed="#P" n="44"/>diuinitatem: qui scit omnia sicut pater secundum omnes. 
+          <lb ed="#P" n="45"/>aliqui textus non habent neque filius: sed tunc 
+          ex<lb ed="#P" n="46" break="no"/>cluderetur spritus sanctus. hoc debet intelligi 
+          ma<lb ed="#P" n="47" break="no"/>nifestando sicut dicit glosa marginalis: quia non 
+          <lb ed="#P" n="48"/>facit homines scire illa.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e814">
+          ¶ Septimo arguitur: 
+          ani<lb ed="#P" n="49" break="no"/>ma christi nescit hanc veram / hec est nescita: demon 
+          <lb ed="#P" n="50"/>strando per pronomen propositionem cuius est 
+          <lb ed="#P" n="51"/>pars. et tamen ipsa est vera: cum ita est sicut ipsa 
+          <lb ed="#P" n="52"/>significat. si sciat eam: ergo ita est sicut ipsa 
+          signi<lb ed="#P" n="53" break="no"/>ficat: et ipsa significat quod ipsa est nescita: ergo ipsa 
+          <lb ed="#P" n="54"/>est nescita. vel capiatur ista propositio hec est 
+          nesci<lb ed="#P" n="55" break="no"/>ta aab anima christi.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e832">
+          ¶ Octauo arguitur: sequitur 
+          <lb ed="#P" n="56"/>quod anima christi nichil probleumatice seit. et cum 
+          <lb ed="#P" n="57"/>nos scimus multa probleumatice: scimus multa 
+          <lb ed="#P" n="58"/>que nescit anima christi.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e841">
+          ¶ Ad septimum responde 
+          <lb ed="#P" n="59"/>tur: quod ita est sicut ipsa significat: sed ipsa se 
+          falsifi<lb ed="#P" n="60" break="no"/>cat: cum ad ita esse sicut ipsa significat sequitur 
+          ip<lb ed="#P" n="61" break="no"/>sam esse falsam. et patet mutatis terminis: capien¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>do hanc / hec est nescita a deo. bene sequitur: hec 
+          <lb ed="#P" n="63"/>est propositio a deo nescita: ergo ipsa est falsa: cum 
+          <lb ed="#P" n="64"/>sciat omne verum.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e859">
+          ¶ Ad octauum dicitur quod deus 
+          de<lb ed="#P" n="65" break="no"/>terminate scit partem veram: quam nos dubita 
+          <lb ed="#P" n="66"/>mus. nichil est ei dubium: non sto in reflexiuis. hoc 
+          <lb ed="#P" n="67"/>dico propter tales: hec est dubia: vel hec est 
+          ani<lb ed="#P" n="68" break="no"/>me christi dubia. per pronomina demonstrando 
+          <lb ed="#P" n="69"/>propositiones quarum sunt partes. nos ob 
+          imperi<lb ed="#P" n="70" break="no"/>tiam nostram probleumatice scimus aliqua: 
+          quan<lb ed="#P" n="71" break="no"/>do neutri parti assentimus: vel interdum parti 
+          fal<lb ed="#P" n="72" break="no"/>se cum trepidatione de opposito: vel parti vere a 
+          <lb ed="#P" n="73"/>casu. sic / probleumatice scire / et dubitare / 
+          impe<lb ed="#P" n="74" break="no"/>ritiam dicit in nobis. propterea illa neganda sunt 
+          <lb ed="#P" n="75"/>ab anima christi.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e886">
+          ¶ Quicquid nos de 
+          excentri<lb ed="#P" n="76" break="no"/>cis et epiciclis et planetarum motibus ad 
+          imagi<lb ed="#P" n="77" break="no"/>nationem et opinatiue dicimus: vera determinate 
+          <lb ed="#P" n="78"/>nouit anima christi. non immoror in talibus: 
+          om<lb ed="#P" n="79" break="no"/>nis homo decipitur: ego decipior. talia non sunt in 
+          <lb ed="#P" n="80"/>proposito tractanda. licet iuniores possunt cum 
+          re<lb ed="#P" n="81" break="no"/>uerentia de talibus in angulis disputare.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e902">
+          ¶ 
+          No<lb ed="#P" n="82" break="no"/>no arguitur contra hanc conclusionem: sequitur quod 
+          <lb ed="#P" n="83"/>anima christi assentit huic: omne produeibile est 
+          <lb ed="#P" n="84"/>producibile: et omnia producibilia sunt 
+          produci<lb ed="#P" n="85" break="no"/>bilia. sed hoc est falsum. patet: capiendo omnia 
+          col<lb ed="#P" n="86" break="no"/>lectiue: ponendo eam in esse: sequitur quod deus 
+          ni<lb ed="#P" n="87" break="no"/>chil amplius potest producere: et sic virtus eius 
+          <lb ed="#P" n="88"/>esset exhausta: cum omnia producibilia sunt produ 
+          <lb ed="#P" n="89"/>cta. et quod sequatur patet sic: omnia producibilia 
+          <lb ed="#P" n="90"/>possunt esse producta distributiue: ergo omnia 
+          pro<lb ed="#P" n="91" break="no"/>ducibilia possunt esse producta capiendo omnia 
+          <lb ed="#P" n="92"/>collectiue. tenet consequentia: quia vna singularis 
+          <lb ed="#P" n="93"/>antecedentis includit omnia producibilia 
+          colle<lb ed="#P" n="94" break="no"/>etiue demonstrando omnia producibilia. ergo si 
+          <lb ed="#P" n="95"/>antecedenti assentiat: consequenti assentit: cum 
+          sci<lb ed="#P" n="96" break="no"/>at consequentiam esse bonam. Confirmatur hoc. ista 
+          <lb ed="#P" n="97"/>producibilia et ista producibilia et ista 
+          produci<lb ed="#P" n="98" break="no"/>bilia. et sic de singulis copulatim possunt esse 
+          pro<lb ed="#P" n="99" break="no"/>ducta. ergo omnia producibilia possunt esse 
+          pro<lb ed="#P" n="100" break="no"/>ducta: capiendo omnia collectiue in consequente: 
+          <lb ed="#P" n="101"/>sicut isti apostoli dei et isti apstoli dei et sic de 
+          singu<lb ed="#P" n="102" break="no"/>lis copulatim sunt duodecim: ergo omnes aposto 
+          <lb ed="#P" n="103"/>li dei sunt duodecimicapiendo omnes collectiue 
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e952">
+          <lb ed="#P" n="104"/>¶ Respondetur concedendo istam / omnia 
+          produci<lb ed="#P" n="105" break="no"/>dilia possunt esse producta: capiendo omnia distri 
+          <lb ed="#P" n="106"/>butiue. patet veritas illius per ascensum. anima 
+          <lb ed="#P" n="107"/>christi asfentit cuilibet singulari illius et 
+          bonita<lb ed="#P" n="108" break="no"/>ti consequentie: ergo assentit consequenti. Irem: in 
+          <lb ed="#P" n="109"/>ista propositione predicatur ferme idem stans 
+          con<lb ed="#P" n="110" break="no"/>fuse tantum de eodem distributo: ergo illa est vera. 
+          <lb ed="#P" n="111"/>vel capias istam: omnia que possunt esse producta 
+          <lb ed="#P" n="112"/>possunt esse producta. et si demonstrares ad 
+          ima<lb ed="#P" n="113" break="no"/>ginationem omnia producibilia: capiendo omnia 
+          <lb ed="#P" n="114"/>collectiue: et illa esset falsa: nec esset singularis 
+          al<lb ed="#P" n="115" break="no"/>terius. et ratio: quia subiectum alterius non est 
+          ve<lb ed="#P" n="116" break="no"/>rificabile de pronomine demonstrante omnia illa: 
+          <lb ed="#P" n="117"/>et sic non impeditur veritas illius vniuersalis. 
+          <lb ed="#P" n="118"/>sed capiendo omnia collectiue / est maior 
+          difficul<lb ed="#P" n="119" break="no"/>tas: potest vno modo dici quod ipsa est falsa: nulla 
+          <lb ed="#P" n="120"/>sunt omnia producibilia: capiendo omnia 
+          colle<lb ed="#P" n="121" break="no"/>ctiue: nec semper omnes distributiue infert 
+          om<lb ed="#P" n="122" break="no"/>nes collectiue. non sequitur: omnes apostoli dei¬ 
+          <pb ed="#P" n="33-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>pauciores duodecim sunt pauciores duodecim 
+          <lb ed="#P" n="2"/>ergo omnes apostoli dei pauciores duodecim 
+          <lb ed="#P" n="3"/>sunt pauciores duodeci: capiendo omnes 
+          distri<lb ed="#P" n="4" break="no"/>butiue in antecedente: et collectiue in 
+          consequen<lb ed="#P" n="5" break="no"/>te. quod patet: omnes apostoli dei pauciores 
+          duo<lb ed="#P" n="6" break="no"/>decim sunt duodecim. patet: hec est vera: isti 
+          apo<lb ed="#P" n="7" break="no"/>stoli dei pauciores duodecim: et isti apostoli dei 
+          <lb ed="#P" n="8"/>pauciores duodecin: sunt duodecim: 
+          demonstran<lb ed="#P" n="9" break="no"/>do sex per vnum pronomen: et sex alios per aliud: 
+          <lb ed="#P" n="10"/>ergo de eis copulatim sumptis falsum est dicere 
+          <lb ed="#P" n="11"/>quod sunt pauciores duodecim.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e1024">
+          ¶ Sed contra hoc 
+          <lb ed="#P" n="12"/>arguitur. ista producibilia / et ista producibilia / 
+          <lb ed="#P" n="13"/>et ista producibilia / et sic de singulis copulatim: 
+          <lb ed="#P" n="14"/>possunt esse producta. non demonstro nisi illa quo 
+          <lb ed="#P" n="15"/>rum quodlibet est producibile: ergo omnia illa 
+          <lb ed="#P" n="16"/>sunt producibilia. non demonstro chimeras: nec 
+          <lb ed="#P" n="17"/>non producibilia. ergo si quodlibet est 
+          produci<lb ed="#P" n="18" break="no"/>bile: omnia sunt producibilia.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e1042">
+          ¶ Potest 
+          respon<lb ed="#P" n="19" break="no"/>deri vno modo: quod quodlibet illorum est 
+          producibi<lb ed="#P" n="20" break="no"/>le: sed non omnia illa ad imaginationem sunt produ 
+          <lb ed="#P" n="21"/>cibilia: hoc est illa que ego demonstro ad 
+          imagi<lb ed="#P" n="22" break="no"/>nationem. sed mirabile videtur quod quodlibet illo 
+          <lb ed="#P" n="23"/>rum est producibile: et non omnia illa sunt 
+          produ<lb ed="#P" n="24" break="no"/>cibilia. quia si sic: sustinebo quod quilibet istorum est 
+          <lb ed="#P" n="25"/>saluandus: sed non omnes isti sunt saluandi: 
+          capiem<lb ed="#P" n="26" break="no"/>do omnes collectiue. potest ergo ista concedi / 
+          ca<lb ed="#P" n="27" break="no"/>piendo omnia collectiue. et si poneretur in esse: 
+          de<lb ed="#P" n="28" break="no"/>us non potest producere vnum producibile aliud 
+          <lb ed="#P" n="29"/>ab istis: sed virtus eius non esset exhausta. dico: 
+          <lb ed="#P" n="30"/>potest omnia ista annichilare: et reproducere ea in 
+          to<lb ed="#P" n="31" break="no"/>to vel in parte. Sed quicquid sit: argumentum non 
+          <lb ed="#P" n="32"/>quatit conclusionem nostram. conclusio vult quod 
+          cuili<lb ed="#P" n="33" break="no"/>bet vero anima christi actualiter assentit: et verum 
+          <lb ed="#P" n="34"/>quodlibet a falso segregat. et hanc conclusionem 
+          su<lb ed="#P" n="35" break="no"/>stinens / non habet respondere de hoc vel de illo / 
+          <lb ed="#P" n="36"/>an sit verum.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e1084">
+          ¶ Decimo arguitur. christus sedens 
+          <lb ed="#P" n="37"/>in medio discipulorum interrogabat eos Luce. li. 
+          <lb ed="#P" n="38"/>sed interrogare est nescientis. ergo anima 
+          christi<lb ed="#P" n="39" break="no"/>nesciebatur omnia.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e1094">
+          ¶ Respondetur: illa obiectio 
+          ci<lb ed="#P" n="40" break="no"/>tius est pro conclusionem dummondo circunstantia lit 
+          <lb ed="#P" n="41"/>tere bene poederetur: tunc precise etat duodecim 
+          <lb ed="#P" n="42"/>annons natus secundum carnem: et in medio doctorum intet 
+          <lb ed="#P" n="43"/>rogabat: non vt incognitum ab eis addisceret: sed 
+          <lb ed="#P" n="44"/>vt cum eis conferret: et eos illuminaret: sicut regens 
+          <lb ed="#P" n="45"/>audit discipulum. dicit littera: stupebant autem 
+          om<lb ed="#P" n="46" break="no"/>nes qui eum audiebant super prudentiaet responsis 
+          <lb ed="#P" n="47"/>eius. et Ioan. vii. Mirabantur iudei dicentes de 
+          <lb ed="#P" n="48"/>christo: quomodo hic scit litteras cum non 
+          didice<lb ed="#P" n="49" break="no"/>rit eas. poterat tamen habere nouam noticiam 
+          audi<lb ed="#P" n="50" break="no"/>tiuam experimentalem: sicut visionem: et iudicia no 
+          <lb ed="#P" n="51"/>ua super his obiectis / que ante optime nouerat: 
+          <lb ed="#P" n="52"/>nec anima sua iudicii erronei erat capax in 
+          potem<lb ed="#P" n="53" break="no"/>tia propinqua: cum omnia vera cognouerit.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e1127">
+          ¶ 
+          Con<lb ed="#P" n="54" break="no"/>tra vltimam conclusionem arguitur: anima christi 
+          con<lb ed="#P" n="55" break="no"/>currit effectiue ad infinitos actus: ergo est 
+          infini<lb ed="#P" n="56" break="no"/>te actiuitatis. si esset vna potentia que posset 
+          pre<lb ed="#P" n="57" break="no"/>cise producere vnum actum: esset alicuius actiuita 
+          <lb ed="#P" n="58"/>tis. et si esset vna potentia que posset producere 
+          du<lb ed="#P" n="59" break="no"/>os actus: esset in duplo maioris potentie: et fic 
+          ascem<lb ed="#P" n="60" break="no"/>dendo in infinitum. ergo potentia que potest 
+          pro<lb ed="#P" n="61" break="no"/>ducere infinitos actus / erit infinite potentie.
+        </p>
+        <p xml:id="jm3cbb-e19051-d1e1147">
+          ¶ Re¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>spondetur: hoc est verum: si esset sine auxilio: vel cum 
+          <lb ed="#P" n="63"/>auxilio dei generali. deus specialissime animam 
+          <lb ed="#P" n="64"/>christi iuuat. et sic argumentum non habet 
+          apparem<lb ed="#P" n="65" break="no"/>tiam: et satis patuit in conclusionis probatione. 
+          <lb ed="#P" n="66"/>Sed hic cadit argumentum: quod anima christi 
+          profi<lb ed="#P" n="67" break="no"/>ceret: secundum illud Luce. ii. Iesus proficiebat etate 
+          <lb ed="#P" n="68"/>et sapientia et gratia apud deum et homines: ergo 
+          <lb ed="#P" n="69"/>nesciuit a primo instanti omnia. sed quia hoc 
+          re<lb ed="#P" n="70" break="no"/>quirit maiorem prolixitatem quam debeat esse solutio 
+          <lb ed="#P" n="71"/>vnius argumenti: hoc in questione sequenti 
+          di<lb ed="#P" n="72" break="no"/>scutietur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

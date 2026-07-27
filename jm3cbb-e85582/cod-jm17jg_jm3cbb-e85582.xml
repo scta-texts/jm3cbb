@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 30</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 30</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="140-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e85582"><!-- l3d37q30 -->
+        <head xml:id="jm3cbb-e85582-Hd1e99">Quaestio 30</head>
+        <head xml:id="jm3cbb-e85582-Hd1e101" type="question-title">An sex species luxuriae communiter enumeratae sufficiunt</head>
+        <p xml:id="jm3cbb-e85582-d1e104">
+          <lb ed="#P" n="98"/>¶ Questio. <sic>xxix.</sic>
+          <lb ed="#P" n="99"/>Queritur circa idem 
+          <lb ed="#P" n="100"/>praeceptum: an sex species luxurie 
+          <lb ed="#P" n="101"/>communiter enumerate 
+          suffi<lb ed="#P" n="102" break="no"/>ciunt.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e120">
+          ¶ Pro solutioue quaestionis 
+          <lb ed="#P" n="103"/>notabis: luxuria duobus 
+          mo<lb ed="#P" n="104" break="no"/>dis capitur: primo modo 
+          capi<lb ed="#P" n="105" break="no"/>tur pro omni habundantia: et sic 
+          <lb ed="#P" n="106"/>capitur a Uirgi. primo Geor. 
+          <lb ed="#P" n="107"/>dicente. Luxuriam segetum tenera depascit in herba. 
+          <lb ed="#P" n="108"/>Luxus grece dicir solutio latine: luxus luxuries luxuria 
+          <lb ed="#P" n="109"/>pro eodem capiuntur. Alio modo capitur in theologia 
+          pro<lb ed="#P" n="110" break="no"/>excessu in venereis: adhuc in modo loquendi 
+          stri<lb ed="#P" n="111" break="no"/>ctius accipitur pro excessu in venereis / siue in 
+          mate<lb ed="#P" n="112" break="no"/>ria / instrumento / vel modo / vt excludatur excessus 
+          <lb ed="#P" n="113"/>cum propria vxore.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e146">
+          ¶ Isto notato: pono conclusio 
+          <lb ed="#P" n="114"/>nem: species luxurie communiter enumerate 
+          suffi<lb ed="#P" n="115" break="no"/>ciunt: patet trigesima sexta: questione primass. non 
+          <lb ed="#P" n="116"/>omnes. hoc patet auctoritate magistri quadragesi¬ 
+          <pb ed="#P" n="140-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ma prima distinctione. capitu. iiii. tacet tamen 
+          so<lb ed="#P" n="2" break="no"/>domiticum propter horrorem. et iste species vt facilius 
+          <lb ed="#P" n="3"/>memorie hereant significantur per litteras huius 
+          di<lb ed="#P" n="4" break="no"/>ctionis fassir / per f. fornicatio simplex / per a. adulte 
+          <lb ed="#P" n="5"/>rium / per s. sodomiticum / per s. secundum stuprum / per i. 
+          <lb ed="#P" n="6"/>incestum / perr raptum.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e173">
+          ¶ Contra hanc conclusionem 
+          ar<lb ed="#P" n="7" break="no"/>guitur: idem peccatum est adulterium et incestus: 
+          <lb ed="#P" n="8"/>patet: si quis cognoscat consanguineam vxorem. si 
+          <lb ed="#P" n="9"/>militer idem peccatum est raptuse incestus: ergo 
+          <lb ed="#P" n="10"/>membra coincidunt: ergo illa diuisio est mala. 
+          con<lb ed="#P" n="11" break="no"/>sequentia tenet per vnam conditionem bone 
+          diui<lb ed="#P" n="12" break="no"/>sionis. Rursus: cognoscens dicatam deo peccat et 
+          <lb ed="#P" n="13"/>facit actum luxurie. et tamen tale peccatum sub 
+          nul<lb ed="#P" n="14" break="no"/>la istarum specierum continetur: ergo diuisum 
+          exce<lb ed="#P" n="15" break="no"/>dit membra diuidentia: consequaentia tenet per aliam 
+          <lb ed="#P" n="16"/>conditionem bone diuisionis.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e197">
+          ¶ Ad primum 
+          conce<lb ed="#P" n="17" break="no"/>ditur quod idem actus numero est incestus et 
+          adulte<lb ed="#P" n="18" break="no"/>rium: et distinguitur quod coincidunt: vel in 
+          suppositio<lb ed="#P" n="19" break="no"/>ne: et sic conceditur: puta idem terminus supponit pro vtro 
+          <lb ed="#P" n="20"/>que. omnis luxuria est actus voluntatis. actus 
+          exte<lb ed="#P" n="21" break="no"/>rior est imperatus ab actu voluntatis. vel quod comncidant 
+          <lb ed="#P" n="22"/>secundum rationes formales: et sic negatur: non 
+          po<lb ed="#P" n="23" break="no"/>no formalitates more aliquorum sed solum penes 
+          <lb ed="#P" n="24"/>connotataterminorum. vel sic: non est eadem ratio 
+          <lb ed="#P" n="25"/>quare aliquis actus est incestus et quare est 
+          adulte<lb ed="#P" n="26" break="no"/>rium.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e221">
+          ¶ Ad fecundum concedo quod cognoscens dica 
+          <lb ed="#P" n="27"/>tam deo peccat. et de eius grauitate futrus est 
+          ser<lb ed="#P" n="28" break="no"/>mo. sed dico quod tale peccatum est incellus. cognos 
+          <lb ed="#P" n="29"/>scit homo filiam patris eius: puta sororem. talis est 
+          <lb ed="#P" n="30"/>filia dei: aliter tame quam alie mulieres. magis 
+          proprie<lb ed="#P" n="31" break="no"/>est adulterium: quia cognoscitur sponsa christi sicut 
+          <lb ed="#P" n="32"/>vouentes solent dicere quod habent christum pro 
+          spon<lb ed="#P" n="33" break="no"/>so. hinc Baptista libro secundo de beata 
+          Ratheri<lb ed="#P" n="34" break="no"/>na introduxit beatam virginem respondentem praecibus 
+          <lb ed="#P" n="35"/>et petitionibus beate Ratherine. Tolle manum 
+          si<lb ed="#P" n="36" break="no"/>bi perpetuo te copulat infans. Connubio christus 
+          <lb ed="#P" n="37"/>nurus est mea pone timorem. Tertio dicere potes 
+          <lb ed="#P" n="38"/>tale peccatum includitur sub alia specie innominata: 
+          <lb ed="#P" n="39"/>dicamus sub sacrilegio carnis: et sic species date 
+          <lb ed="#P" n="40"/>non sufficiunt. conclusio intelligit de speciebus 
+          com<lb ed="#P" n="41" break="no"/>munibus vel que communiter erant antede ista vota. a 
+          prien<lb ed="#P" n="42" break="no"/>cipio vel ante incarnationem pauce vouebant: et 
+          <lb ed="#P" n="43"/>tamen alie species carnis erant communes. siue ille 
+          <lb ed="#P" n="44"/>species senarie seruentur sine precisione siue non / 
+          pa<lb ed="#P" n="45" break="no"/>rum refert.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e265">
+          ¶ Secundo principaliter argumentor: 
+          ha<lb ed="#P" n="46" break="no"/>beat sortes hunc actum / volo luxuriare / non cogitam 
+          <lb ed="#P" n="47"/>do cum qua muliere nec quomodo: talis actus est 
+          lu<lb ed="#P" n="48" break="no"/>xuria: et tamen sub nulla istarum specierum continetur. 
+          <lb ed="#P" n="49"/>non sub simplici fornicatione: quia eadem ratione 
+          sub<lb ed="#P" n="50" break="no"/>adulterio. Forte dicis: si est solutus est simplex 
+          for<lb ed="#P" n="51" break="no"/>nicatio. Contra: solutus cognoscens communiunctam vel 
+          mo<lb ed="#P" n="52" break="no"/>nialem consanguineam vel affinem / non facit 
+          simpli<lb ed="#P" n="53" break="no"/>cem fornicationem: igitur.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e285">
+          ¶ Et confirmatur: 
+          ha<lb ed="#P" n="54" break="no"/>beat sortes hanc volitionem: volo cognoscere has 
+          <lb ed="#P" n="55"/>duas: demonstrando solutam coniunctam: talis 
+          <lb ed="#P" n="56"/>actus sub nulla specie luxurie continetur. igitur. 
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e294">
+          <lb ed="#P" n="57"/>¶ Ad secundum respondetur: illa luxuria sub 
+          nul<lb ed="#P" n="58" break="no"/>la istarum specierum continetur. oportet dicere 
+          <lb ed="#P" n="59"/>diuisum non est luxuria in communi. hoc est / iste 
+          termi<lb ed="#P" n="60" break="no"/>nus luxuria non restrictus: sedtotum hoc / luxuria ca¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>dens super materiam determinatam. sed tunc oportet 
+          <lb ed="#P" n="62"/>hominem inuoluere se de ratione materie 
+          determi<lb ed="#P" n="63" break="no"/>nate: vel fateri diuisum latitudinem specierum 
+          tras<lb ed="#P" n="64" break="no"/>gredi. secundum est melius. talibus actibus nomen 
+          im<lb ed="#P" n="65" break="no"/>ponatur a. vel b. potes hic capere plura genera in 
+          pro<lb ed="#P" n="66" break="no"/>posito / volo luxuriare / et volo fornicari / vel aduite 
+          <lb ed="#P" n="67"/>rari / volo incestum / vel raptum: disiunctum includens 
+          plu<lb ed="#P" n="68" break="no"/>res speies est superius ad disiunctum includens paucio 
+          <lb ed="#P" n="69"/>res species: et sic procedendo ad fornicationem 
+          simpli<lb ed="#P" n="70" break="no"/>cem vel ad adulterium tantum. et est simile sub 
+          termi<lb ed="#P" n="71" break="no"/>no coloratum qui est genus subalternum: potes dare 
+          mul<lb ed="#P" n="72" break="no"/>ta genera superiora ad album inferiora ad 
+          colora<lb ed="#P" n="73" break="no"/>tum.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e337">
+          ¶ Ad confirmationem dico talem actum esse 
+          for<lb ed="#P" n="74" break="no"/>nicationem  adulterium copulatim: sed actus quo 
+          <lb ed="#P" n="75"/>volo cognoscere hanc / vel hanc: demonstrando illas: 
+          <lb ed="#P" n="76"/>nec est adulterium nec simplex fornicatio. sed est 
+          in<lb ed="#P" n="77" break="no"/>diuiduum termini significantis disiunctim 
+          fornica<lb ed="#P" n="78" break="no"/>tionem vel adulterium.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e350">
+          ¶ Tertio arguitur: osculans 
+          ali<lb ed="#P" n="79" break="no"/>quam vt ipsa inducatur ad adulterium facit actum 
+          op<lb ed="#P" n="80" break="no"/>positum castitati: ergo est luxuria. et tamen sub nulla 
+          <lb ed="#P" n="81"/>istarum specierum includitur: igitur.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e359">
+          ¶ Et 
+          confirma<lb ed="#P" n="82" break="no"/>tur: cognoscens vxorem impudice puta contra 
+          bo<lb ed="#P" n="83" break="no"/>nam valitudinem corporis vel anime luxuriatur. 
+          <lb ed="#P" n="84"/>et tamen talis actus sub nulla specierum nominatarum 
+          <lb ed="#P" n="85"/>continetur. igitur cum propria vxore non est simplex 
+          <lb ed="#P" n="86"/>fornicatio nec adulterium: et sic de aliis speciebus: 
+          <lb ed="#P" n="87"/>igitur. Si dicas: nullus talis actus cum propria 
+          vxo<lb ed="#P" n="88" break="no"/>re nomen specierum suscipit: ex hoc sequitur quod 
+          di<lb ed="#P" n="89" break="no"/>uisio est inualida: cum membra diuidentia excedant 
+          <lb ed="#P" n="90"/>latitudinem diuisi. etiam est peccatum contra 
+          natu<lb ed="#P" n="91" break="no"/>ram cum propria vxore sicut cum aliena. potest 
+          es<lb ed="#P" n="92" break="no"/>se argumentum de illo qui cognoscit commatrem vel 
+          <lb ed="#P" n="93"/>filiam commatris. hic non est fornicatio simplex 
+          po<lb ed="#P" n="94" break="no"/>test dici quod est incestus. illegitimatio ecclesie facit 
+          in<lb ed="#P" n="95" break="no"/>cestum. sunt spirituales consanguinei. potest etiam 
+          <lb ed="#P" n="96"/>dici quod est sacrilegium. ista parentela est spiritualis ex 
+          <lb ed="#P" n="97"/>sacramentis proueniens.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e396">
+          ¶ Respondetur aliquod 
+          oscu<lb ed="#P" n="98" break="no"/>lum est non peccatum: amici solent quando 
+          primo<lb ed="#P" n="99" break="no"/>occurrunt seinuicem osculari sine peccato: sed 
+          si<lb ed="#P" n="100" break="no"/>osculum fiat causa inducende mulieris ad illecebram: 
+          <lb ed="#P" n="101"/>aliquod tale est simplex fornicatio: aliquod tale est 
+          <lb ed="#P" n="102"/>adulterium: volo hanc osculari vt eam inducam ad 
+          <lb ed="#P" n="103"/>fornicandum: demonstrando solutam: tale osculum 
+          <lb ed="#P" n="104"/>est simplex fornicatio. demonstrando coniugatam / et 
+          <lb ed="#P" n="105"/>adulterium. sicut adulterium est actus voluntatis sic 
+          <lb ed="#P" n="106"/>est osculum. volo hanc inebriare vt fornicetur: talis 
+          <lb ed="#P" n="107"/>actus sub duobus generibus subalternis 
+          intemperan<lb ed="#P" n="108" break="no"/>tie includitur: scilicet sub ebrietateet luxuria. et idem 
+          <lb ed="#P" n="109"/>actus numero est luxuria et ebrietas. in actu luxurie 
+          <lb ed="#P" n="110"/>quis interdum facit oscula indeliberata: vel si deliberata 
+          <lb ed="#P" n="111"/>et ob voluptatem: durum est dicere talia oscula esse 
+          mor<lb ed="#P" n="112" break="no"/>talia pctam: aliqui sunt atecdecedentia: vt turpiloquia / 
+          vi<lb ed="#P" n="113" break="no"/>sus impudici ad luxuriam: et talia spectant ad 
+          luxu<lb ed="#P" n="114" break="no"/>riam: et sic de talibus dummodo continuantur. multa 
+          ta<lb ed="#P" n="115" break="no"/>lia spectantia ad luxuriam satis bene includuntur in 
+          lu<lb ed="#P" n="116" break="no"/>xuria capiendo luxuriam vt sit luxus in venereis. 
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e440">
+          <lb ed="#P" n="117"/>¶ Ad confirmationem dicitur quod ibi est luxuria. sed 
+          <lb ed="#P" n="118"/>terminus proprius capitur quando diuiditur / 
+          pro<lb ed="#P" n="119" break="no"/>luxuria in materia / instrumento / vel modo. sed 
+          <lb ed="#P" n="120"/>clarius est dicere luxuria non vxoria est diuisum. 
+          <pb ed="#P" n="141-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sodomiticum est luxuria non vxoria: ad vxores 
+          nul<lb ed="#P" n="2" break="no"/>latenus attinet plus quod ad alias. vel sic ibi ponitur 
+          <lb ed="#P" n="3"/>alia species dicatur b.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e462">
+          ¶ Ex omnibus patet quod multe 
+          <lb ed="#P" n="4"/>sunt species luxurie. sed quia plerique istorum actuum sunt 
+          <lb ed="#P" n="5"/>rari: non est opus imponere nomina. sufficit in re 
+          intelli<lb ed="#P" n="6" break="no"/>gere multos actus quorum quilibet est luxuria. 
+          Di<lb ed="#P" n="7" break="no"/>camus fassir cusin f. fornicatio / a. adulterium / s. 
+          so<lb ed="#P" n="8" break="no"/>domiticum / s. stuprum / i. incestus / r. raptus / c. luxuria 
+          com<lb ed="#P" n="9" break="no"/>mumis / v. luxuria vxoria vri cum sua / s. sacrilegium. 
+          <lb ed="#P" n="10"/>sed bene intellige illa communem luxuriam. adulteriuum 
+          <lb ed="#P" n="11"/>non est luxuria communis / nec fornicatio simplex: sed actus 
+          <lb ed="#P" n="12"/>tacti in solutione secundi argumenti. per i. impudicicia 
+          <lb ed="#P" n="13"/>ouam cum thamar. Gene. xxxviii. est innaturalis et 
+          so<lb ed="#P" n="14" break="no"/>domicum scelus: et sic est actus quo quis cogitat de 
+          vene<lb ed="#P" n="15" break="no"/>reis vt polluatur in somno: cum extravas debitum. et sic 
+          da<lb ed="#P" n="16" break="no"/>tur actus sodomiticus sic accipiendo veniale: saltem 
+          <lb ed="#P" n="17"/>non constat esse mortale: sed non reddens debitum 
+          vxo<lb ed="#P" n="18" break="no"/>ri petenti peccat circa venerea per insensibilitatem. non 
+          <lb ed="#P" n="19"/>est luxuria. luxuries vero tendit ad excessum et se 
+          elon<lb ed="#P" n="20" break="no"/>gat a defectu: quo non est crebro in vsu sed ex illo 
+          sequi<lb ed="#P" n="21" break="no"/>tur quod non omnia peccata carnis dantur. dicas fassir cusin. per 
+          <lb ed="#P" n="22"/>enim non reddens quando tenetur siue tentione veniali siue se 
+          <lb ed="#P" n="23"/>tali.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e509">
+          ¶ Dubitatur: que sunt filie luxurie.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e511">
+          ¶ Secundo 
+          du<lb ed="#P" n="24" break="no"/>bitatur quomodo homo se debet seruare a luxuria.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e516">
+          ¶ Ad 
+          <lb ed="#P" n="25"/>primum supposito quod dictum est in secundo quid 
+          requri<lb ed="#P" n="26" break="no"/>tur ad hoc quod vnum peccatum dicatur filia alterius. non 
+          <lb ed="#P" n="27"/>refert de numero dato a sanctis vel doctoribus de 
+          fi<lb ed="#P" n="28" break="no"/>liabus luxurie: cum vltra filias datas plures dari 
+          pos<lb ed="#P" n="29" break="no"/>sunt: et varie a doctoribus dantur. beatus / Greg. xxxi. 
+          <lb ed="#P" n="30"/>moralium aliquas filias eius nominat. et Isidorus in 
+          li<lb ed="#P" n="31" break="no"/>bro ethimologiarum alias. beatus Greg. has filias 
+          <lb ed="#P" n="32"/>nominat cecitatem mentis / inconsiderationem 
+          praecipitatio<lb ed="#P" n="33" break="no"/>nem / inconstantiam amorem sui / odium dei / affectum 
+          praesen<lb ed="#P" n="34" break="no"/>tio seculi / desperationem futuri seculi. Ab Isidoro iste 
+          <lb ed="#P" n="35"/>filie enumerantur. Turpiloquia / scurrilia / ludicra / 
+          <lb ed="#P" n="36"/>stultiloquia. Iste filie interdum generantur ex aliis 
+          ma<lb ed="#P" n="37" break="no"/>tribus. non numquam ex luxuria. non tamen credendum est quod ex 
+          qua<lb ed="#P" n="38" break="no"/>libet luxuria generetur desperatio vel odium dei: sed 
+          <lb ed="#P" n="39"/>quando gradatim descenditur de vicio in vicium. prouer. xviii. 
+          <lb ed="#P" n="40"/>impius cum in profundum peccatorum venerit / contempnit: et 
+          se<lb ed="#P" n="41" break="no"/>quiter eum ignominia. De praecipitatione patet per 
+          The<lb ed="#P" n="42" break="no"/>rentium in eunucho qua res neque in se consilium nequam modum 
+          <lb ed="#P" n="43"/>habet vllum. De inconstantia patet per dictum eiusdem 
+          co<lb ed="#P" n="44" break="no"/>mici loco allegato de quodam iuuene qui dicebat se 
+          <lb ed="#P" n="45"/>discessurum ab amica: dicit. vna falsa lachrymula 
+          <lb ed="#P" n="46"/>restringit te. De filiabus numeratis ab Isidoro / 
+          cla<lb ed="#P" n="47" break="no"/>rum est. Matthei. xii. Ex abundantia cordis os 
+          lo<lb ed="#P" n="48" break="no"/>quitur: audit et videt.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e571">
+          ¶ Ex isto patet responsio 
+          ali<lb ed="#P" n="49" break="no"/>cuius luxurie due sunt filie. alicuius luxurie tres sunt 
+          <lb ed="#P" n="50"/>filie: alicuius quattuor sunt filie. et adhuc possunt esse 
+          <lb ed="#P" n="51"/>plures filie quod enumerentur a doctoribus quamquam ipsi 
+          <lb ed="#P" n="52"/>enumerant multas earum quae sequuntur ex quacunque 
+          lu<lb ed="#P" n="53" break="no"/>xuria: sed regulariter sequuntur he filie: ebrietas / 
+          pro<lb ed="#P" n="54" break="no"/>digalitas / turpiloquium mendacia / periuria / rixe / 
+          inui<lb ed="#P" n="55" break="no"/>dia / zelus inordinatus. non inconuenit vnum vicium 
+          capi<lb ed="#P" n="56" break="no"/>tale ab alio habere originem. interdum vnum vicium est causa 
+          <lb ed="#P" n="57"/>naturalis alterius: vt excessus vini respectu luxurie. 
+          <lb ed="#P" n="58"/>nonnunquam vnum peccatum est causa occasionalis 
+          al<lb ed="#P" n="59" break="no"/>terius sceleris / et medium acquirendi aliud. hic 
+          <lb ed="#P" n="60"/>abyssus abyssum inuocat. vnum vicium suo pondere 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>secundum beatum Grego. aliud trahit.
+        </p>
+        <p xml:id="jm3cbb-e85582-d1e604">
+          ¶ Ad secundam 
+          du<lb ed="#P" n="62" break="no"/>bitationem: in primis dicitur quod illud vicium est 
+          maxi<lb ed="#P" n="63" break="no"/>me fugiendum. patet: peccatum quod labefactat hominem / 
+          <lb ed="#P" n="64"/>et a statu hominis maxime deiicit / est marie fugiendum: 
+          <lb ed="#P" n="65"/>sic est de luxuria: igitur. consequentia est clara cum 
+          ma<lb ed="#P" n="66" break="no"/>iore. minor patet secundum Aristotelem. iii. Ethicor. 
+          Intem<lb ed="#P" n="67" break="no"/>perantia facit nos coincidere cum voluptatibus 
+          bruta<lb ed="#P" n="68" break="no"/>libus: cum bruta (sicut ipse deteglt) nullo sensu 
+          dele<lb ed="#P" n="69" break="no"/>ctatur nisi gustu et tactu. modo luxuria fit per hos 
+          sen<lb ed="#P" n="70" break="no"/>sus. Insuper Catho. Luxuria fugito / simul et vitare 
+          me<lb ed="#P" n="71" break="no"/>mento Crimen auaricie: nam sunt contraria fame. 
+          <lb ed="#P" n="72"/>Auaricia pro millesima parte non tantum deiicit hominem 
+          <lb ed="#P" n="73"/>a fama. vide quam famam sardanapalus inter scorta nens 
+          <lb ed="#P" n="74"/>acquisiuit. vide si assiriorum imperium a nembroth 
+          be<lb ed="#P" n="75" break="no"/>lo et nino inchoatum quod durauit mille trecentis amnis ) 
+          <lb ed="#P" n="76"/>in eo extinctum est: et suus muliebris modus viuendi fuit 
+          <lb ed="#P" n="77"/>occasio. luxuria rei militari plurimum nocet: et 
+          du<lb ed="#P" n="78" break="no"/>cem exercitus attenuat. plus fecit mulier achilli quod 
+          <lb ed="#P" n="79"/>hector vel troilus. Holofernes (qui vinci ab hostibus 
+          <lb ed="#P" n="80"/>non poterat) luxuria quam desiderabat occidebatur. 
+          <lb ed="#P" n="81"/>famam presbyterorum / religiosorum / scholasticorum / non 
+          so<lb ed="#P" n="82" break="no"/>lum denigrat: sed lacerat et eradicat. tot 
+          inconuenien<lb ed="#P" n="83" break="no"/>tia ex ipsa sequuntur vt ea numerare possit nemo. hic 
+          <lb ed="#P" n="84"/>non est certandum cum mulieribus: sed omnino ab eis 
+          fuglen<lb ed="#P" n="85" break="no"/>dum: dicente Baptista in calamitatibus. Hanc contra 
+          cer<lb ed="#P" n="86" break="no"/>tare caue: contedere vici est. Uincere terga dare: 
+          <lb ed="#P" n="87"/>et retro vestigia ferre. De eius deceptione et 
+          sophisti<lb ed="#P" n="88" break="no"/>catione dicit. Ore nitens animo maculata similissima 
+          sor<lb ed="#P" n="89" break="no"/>bo. Quod nitido tristes claudens in cortice succos. 
+          De<lb ed="#P" n="90" break="no"/>cipit ignaros morsuque venenat amaro. Illecebris 
+          <lb ed="#P" n="91"/>et fraude potens astuque dolisque Dimicate vultu 
+          pa<lb ed="#P" n="92" break="no"/>cem praetendit amico. et post dicit. Mira huius natura 
+          fe<lb ed="#P" n="93" break="no"/>re non ense nec hasta Uincitur. Prima arma huius 
+          pu<lb ed="#P" n="94" break="no"/>gne est fugere consortia mulierum. Exemplo Ioseph 
+          <lb ed="#P" n="95"/>qui reliquit pallium Gen. xxxix et i. Corinth. vi. praecipit  
+          <lb ed="#P" n="96"/>apostolus fugere a fornicatione. Secunda arma sunt 
+          exces<lb ed="#P" n="97" break="no"/>sus in cibo et in potu Ezechielis. et xvl. hec fuit 
+          iniqui<lb ed="#P" n="98" break="no"/>tas sodome sororis tue / superbia / saturitas panis / 
+          <lb ed="#P" n="99"/>et abundatia / et ocium. Et comicus / Sinem cerere et 
+          ba<lb ed="#P" n="100" break="no"/>cho friget venus. Tertia arma sunt ocium: secundum 
+          il<lb ed="#P" n="101" break="no"/>lud dicium Nasonis. Ocia sit tollas: periere 
+          cupidi<lb ed="#P" n="102" break="no"/>nis artes. ocium sine litteris mors est: et viui 
+          homi<lb ed="#P" n="103" break="no"/>nis sepultura secundum Senecam. Quarta arma sunt 
+          <lb ed="#P" n="104"/>excessiua dormitio: et potissimum delicate. contra 
+          il<lb ed="#P" n="105" break="no"/>lud Cathonis. plus vigila semper ne somno deditus 
+          <lb ed="#P" n="106"/>esto. Nam diuturnam quies viciis alimenta ministrat. 
+          <lb ed="#P" n="107"/>Quinta arma sunt turpiloquium / visio mulierum / 
+          ta<lb ed="#P" n="108" break="no"/>ctus / et huiusmodi propterea dicit apostolus prime Corin. xv. 
+          <lb ed="#P" n="109"/>Sepe bonos mores corrumpunt colloquia praua. non 
+          <lb ed="#P" n="110"/>audiantur cantus impudici: nec verba amatoria 
+          admit<lb ed="#P" n="111" break="no"/>tantur. claudere oportet portas ciuitatis nostre: secundum 
+          <lb ed="#P" n="112"/>illud Iob. xxxi. Pepigi fedus cum oculis meis. patet 
+          <lb ed="#P" n="113"/>per divina. Gen. xxxiiii. et. xxxix. de ioseph de dauid 
+          <lb ed="#P" n="114"/>et bersabea. ii. Regum. xi. patet de holoferno capto 
+          <lb ed="#P" n="115"/>a pulchritudine Iudith. Senes arferunt in visu 
+          <lb ed="#P" n="116"/>Susanne. Danielis. xiii. vnde beatus Aug. in libro de 
+          <lb ed="#P" n="117"/>agone christiano. et similem sententiam ponit in libello suo 
+          <lb ed="#P" n="118"/>de honestate mulierum: inter omnia christianorum certamina 
+          <lb ed="#P" n="119"/>duriora sunt prelia castitatur: vbi est quotidiana pugna 
+          <lb ed="#P" n="120"/>et rara victoria. Et Isidorus in libro de summo bo¬ 
+          <pb ed="#P" n="141-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>no quod magis per carnis luxuriam humanum genus 
+          <lb ed="#P" n="2"/>subditur diabolo quam per aliquid aliud: qua difficilius 
+          <lb ed="#P" n="3"/>est vincere vehementiam huiusmodi passionis. et quia 
+          <lb ed="#P" n="4"/>virtus et ars sunt circa difficile. Decorum est ibi consequi 
+          <lb ed="#P" n="5"/>victoriam: et in temptatione inuocare deum: qui 
+          <lb ed="#P" n="6"/>non permittit nos temptari vltra id quod 
+          possu<lb ed="#P" n="7" break="no"/>mus. prime Corinthiorum. x. apponamus nos ipsi 
+          <lb ed="#P" n="8"/>operem ad reluctandum. que qui creauit nos sine 
+          no<lb ed="#P" n="9" break="no"/>bis: non saluabit nos sine nobis. dat deus omne 
+          bo<lb ed="#P" n="10" break="no"/>num sed non per cornua taurum. ab impudicorum 
+          <lb ed="#P" n="11"/>cetu ocissime pedibus alatis volea sicut a colubro. 
+          <lb ed="#P" n="12"/>de cohabi. cleri. et mulie. ex concilio maguntinensi. c. 
+          <lb ed="#P" n="13"/>inhibendum. vetitum est clerico habere mulierem suspectam 
+          <lb ed="#P" n="14"/>in domo: intellige cohabitantem vel crebro venientem: 
+          <lb ed="#P" n="15"/>et nominat matrem / sororem / amitam. si ille haberi non 
+          pos<lb ed="#P" n="16" break="no"/>sunt nec aliam. Bernardus in glo. dicit clericos posse 
+          <lb ed="#P" n="17"/>habere feminas vsque ad secundum gradum in linea 
+          <lb ed="#P" n="18"/>collaterali: alias vsque ad quartum in linea recta 
+          ma<lb ed="#P" n="19" break="no"/>nifeste repugnat ca. signato. et beato Augu. vbicumque 
+          <lb ed="#P" n="20"/>de hac materia loquitur. lege libellum eius de 
+          honesta<lb ed="#P" n="21" break="no"/>te mulierum. si homo non vincatur a muliere: fortasse 
+          deni<lb ed="#P" n="22" break="no"/>gratur eius fama: candela prope parietem album eum non 
+          consu<lb ed="#P" n="23" break="no"/>mit: sed tamen parietem denigrat. Legitur de quidam fratre 
+          <lb ed="#P" n="24"/>in vitis patrum qui volens cum matre transire flumen / manus 
+          <lb ed="#P" n="25"/>suas inuoluit pallio / et eam portauit vltra flumen. 
+          in<lb ed="#P" n="26" break="no"/>terrogatus ab ea cur hoc faceret. respondit. corpus 
+          <lb ed="#P" n="27"/>mulieris ignis est: et eoipso quod contingebam te venit 
+          mi<lb ed="#P" n="28" break="no"/>chi in mentem memoria aliarum mulierum iuxta illud 
+          <lb ed="#P" n="29"/>prouerbiorum vi. numquid potest homo abscendere ignem in sinu 
+          <lb ed="#P" n="30"/>suo: vt vestimenta eius non ardeant: aut ambulare 
+          sup<lb ed="#P" n="31" break="no"/>prunas et non comburantur plate eius: Sic quo ingredit ad 
+          <lb ed="#P" n="32"/>vxorem proximi sui non erit mundus cum tetigerit eam: cum 
+          lu<lb ed="#P" n="33" break="no"/>xuria sit ignis corpus / inflammans. Triplex est iterum 
+          re<lb ed="#P" n="34" break="no"/>medium generale hunc ignem extinguendi: sicut in igne 
+          mate<lb ed="#P" n="35" break="no"/>riali ne homo comburatur / triplex adhibetur remedium: per 
+          <lb ed="#P" n="36"/>aque effusionem / per lignorum vel alterius materie 
+          sub<lb ed="#P" n="37" break="no"/>tractionem / vel per longationem ab igne. Sic facimus 
+          <lb ed="#P" n="38"/>olle bullienti in igne infundendo aquam frigidam / 
+          sub<lb ed="#P" n="39" break="no"/>trahendo ligna / vel potum elongando ab igne: sic 
+          adue<lb ed="#P" n="40" break="no"/>niente igne luxurie ad litteram interdum proiiciatur aqua super 
+          <lb ed="#P" n="41"/>combustum. De sancto esvaldo et multis legitur quod aduenien 
+          <lb ed="#P" n="42"/>te passione se mittebant in aquam. homo tamen non debet esse 
+          <lb ed="#P" n="43"/>homicida sui vbi hoc ei constat. licet eius vita 
+          abbre<lb ed="#P" n="44" break="no"/>vietur: no refert. melius est vitam breuem bonam habere 
+          <lb ed="#P" n="45"/>quam longam et sordidam. Legitur in vitis patrum de 
+          quo<lb ed="#P" n="46" break="no"/>da sene qui cum temptaretur de quadam muliere quam 
+          rece<lb ed="#P" n="47" break="no"/>perat in hospicio accendit lucernam et conbussit ei 
+          di<lb ed="#P" n="48" break="no"/>gitos. merito perdit domum suam qui eam incensam 
+          <lb ed="#P" n="49"/>videt et non laborat pro aqua ad extinguendus. sic est 
+          <lb ed="#P" n="50"/>hic. Secundum est de subtractione materie: et de illo 
+          <lb ed="#P" n="51"/>prius dictum es. Tertium / fugere ab hoc morbo: et non 
+          <lb ed="#P" n="52"/>secum luctari: et ad hoc est ratio: luxuria est ignis: homo 
+          <lb ed="#P" n="53"/>num. Esaye. xl. omnis caro fenum vel stipula. Eccle. xxi. 
+          <lb ed="#P" n="54"/>Stupa collecta synagoga peccatum. non est 
+          secu<lb ed="#P" n="55" break="no"/>rum stupe esse in circumferentia ignis. Luxuria est 
+          pec<lb ed="#P" n="56" break="no"/>catum sordidum. non est sanum luctari cum homine lutoso quem 
+          <lb ed="#P" n="57"/>si prosternas coinquinaberis. Eccle. xiii. quae tetigerit 
+          pi<lb ed="#P" n="58" break="no"/>cem coinquinabitur ab ea. Insuper non est securum pugnare 
+          <lb ed="#P" n="59"/>cum hoste: qui ex propinquitate sumit vires: sed sic est de 
+          <lb ed="#P" n="60"/>luxuria ante nec bellum corpus tranquillum / insurgit contra nos 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tempore belli quemadmodum si sint multi traditores in 
+          <lb ed="#P" n="62"/>exercitu alicuius: non est pugnandum sed protinus abeundum 
+          <lb ed="#P" n="63"/>modo caro aduenienti hoste est traditrix nostri.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 35</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 35</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="146-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e89324"><!-- l3d37q35 -->
+        <head xml:id="jm3cbb-e89324-Hd1e99">Quaestio 35</head>
+        <head xml:id="jm3cbb-e89324-Hd1e101" type="question-title">An furtum sit prohibitum per quartum praeceptum secundae tabulae</head>
+        <p xml:id="jm3cbb-e89324-d1e104">
+          <lb ed="#P" n="84"/>Queritur. an furtum 
+          <lb ed="#P" n="85"/>sit prohibitum per quartum praeceptum 
+          <lb ed="#P" n="86"/>secunde tabule.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e113">
+          ¶ Respendetur per 
+          <lb ed="#P" n="87"/>as conclusiones: quarum prior est: 
+          <lb ed="#P" n="88"/>tempe necessitatis bet capre 
+          alie<lb ed="#P" n="89" break="no"/>nu pro defensione vite. Secunda 
+          <lb ed="#P" n="90"/>oclusio: extra talem necessitatem 
+          <lb ed="#P" n="91"/>non licet capere alienum: nisi capiens habeat 
+          volun<lb ed="#P" n="92" break="no"/>tatem dhi psumptam quod hoc voluerit.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e129">
+          ¶ Prior conctsio 
+          <lb ed="#P" n="93"/>patet. gramina propter bruta: oues et boues perper hominem 
+          <lb ed="#P" n="94"/>fiunt: ergo talium in necessitate quilibet habet dium a deo 
+          <lb ed="#P" n="95"/>concessum secundum institutionem legis nature: quam 
+          instituti<lb ed="#P" n="96" break="no"/>onem nulla lex humana tollere potest: quia nullum est statutum 
+          <lb ed="#P" n="97"/>legi naturali contrarium.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e143">
+          ¶ Preterea. xii. q. i. 
+          dilectis<lb ed="#P" n="98" break="no"/>simis. communis vsus omnim quae sunt in hoc mundo omnibus esse 
+          <lb ed="#P" n="99"/>hominibus debuit: sed per iniquitatem alius homo dicit esse 
+          <lb ed="#P" n="100"/>suum: alius aliud: et sic inter mortales facta est 
+          diui<lb ed="#P" n="101" break="no"/>sio. sed iniquitas non praeiudicat iuri naturali: ergo adhuc 
+          <lb ed="#P" n="102"/>in necessitate omnia debent esse comunia. Idem patet. xlii. dist. 
+          <lb ed="#P" n="103"/>c. i. et. xxiii. q. vii. quod autem. et. xlvii. di. sicut hi.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e159">
+          ¶ 
+          Insu<lb ed="#P" n="104" break="no"/>per. ff. ad legem rhodiam. l. ii ergo. cum in eadem. dicitur quod in 
+          <lb ed="#P" n="105"/>necessitate in naui quod quisque habet de victualibus in 
+          <lb ed="#P" n="106"/>comue debet conferre. vbi dicit glo. Sic forte illud diuinum 
+          <lb ed="#P" n="107"/>intelligitur. Omina sunt commnia. i. comunicanda tpere 
+          necessita<lb ed="#P" n="108" break="no"/>tis.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e172">
+          ¶ Secunda conclusio habet duas partes Prior pars 
+          <lb ed="#P" n="109"/>patet: quia per oppositum committeretur furtum clanculuni 
+          capi<lb ed="#P" n="110" break="no"/>ens alienum. Secunda pars patet: quando homo capit pirum / 
+          po<lb ed="#P" n="111" break="no"/>mum / racemum / vel huiusmodi clanculum: et iudicat 
+          rationa<lb ed="#P" n="112" break="no"/>biliter quod deus consentiret / vel consentire deberet.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e183">
+          ¶ 
+          Con<lb ed="#P" n="113" break="no"/>tra priorem conclusionem arguitur: extremam necessitatem patiens 
+          <lb ed="#P" n="114"/>capit suum: ergo non capit alienum.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e190">
+          ¶ Secundo arguitur: tunc 
+          <lb ed="#P" n="115"/>sequitur quod si sortes obiret mortem nisi caperet cibum 
+          <lb ed="#P" n="116"/>e esset in medio foro: quod potest capere omnes panes in 
+          <lb ed="#P" n="117"/>foro. consequens est falsum. et consequentia patet. non est maior ratio 
+          <lb ed="#P" n="118"/>quod possit vnum panem capere quam alium. sed vnum licite 
+          ca<lb ed="#P" n="119" break="no"/>pere potest: ergo et omnes.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e203">
+          ¶ Ad primum raeponr negando antecedens: 
+          <lb ed="#P" n="120"/>non capit suum: sed sibi debitum. secundo: hbet sit suum inne 
+          <pb ed="#P" n="147-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cessitate extra necessitatem erat non suum.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e215">
+          ¶ Ad se 
+          <lb ed="#P" n="2"/>cundum nego sequelam. solum potest capere ad rele 
+          <lb ed="#P" n="3"/>uandam suam inopiam: et non amplius: et est ei liberum 
+          <lb ed="#P" n="4"/>capere a quo maluerit: et vni facere gratificationem 
+          <lb ed="#P" n="5"/>cui voluerit.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e226">
+          ¶ Tertio arguitur: si domins rei ita cito 
+          ca<lb ed="#P" n="6" break="no"/>dat in extremam necessitatem sicut ipse: tunc non potest 
+          <lb ed="#P" n="7"/>capere alienum: ergo numquam. tanet consequenia. quia iam ipse est in 
+          ex<lb ed="#P" n="8" break="no"/>trema necessitate. et si interdum non licet capere: 
+          nun<lb ed="#P" n="9" break="no"/>quam capere licebit.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e237">
+          ¶ Quarto arguitur. domins rei non tenetur 
+          <lb ed="#P" n="10"/>dare rem suam extremam inediani patienti: ergo nec 
+          <lb ed="#P" n="11"/>alter capere potest. consequentia liquet. probatur antecedens. sint 
+          <lb ed="#P" n="12"/>tres in extrema necessitate existentes: et habeat do 
+          <lb ed="#P" n="13"/>minus vnde vni subuenire potest: tunc nulli illorum 
+          <lb ed="#P" n="14"/>tenetur elemosinam aut rem suam dare. patet per 
+          ascem<lb ed="#P" n="15" break="no"/>sum. non dando sorti non peccat. similiter non dando 
+          <lb ed="#P" n="16"/>platoni non peccat. et sic de tertio: igitur.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e255">
+          ¶ Quinto: 
+          <lb ed="#P" n="17"/>homo capiens vestem de nocte ne frigore pereat 
+          <lb ed="#P" n="18"/>non capit vestis domnium: sed vestem restituere tenetur: 
+          <lb ed="#P" n="19"/>ergo eodem modo panem.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e264">
+          ¶ Ad tertium: probabile est quod 
+          <lb ed="#P" n="20"/>in tali casu tenetur relinquere priori domino proptur 
+          <lb ed="#P" n="21"/>duplex ius quod habet in ipsa re.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e271">
+          ¶ Ad quartum 
+          respon<lb ed="#P" n="22" break="no"/>sum est in. xv. distinctione quarti.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e277">
+          ¶ Ad quintum non 
+          <lb ed="#P" n="23"/>est simile: cum res vna sit res vsu consumptibilis: alia 
+          <lb ed="#P" n="24"/>vero non.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e284">
+          ¶ Sexto arguitur: de furtis. c. si quis. dicitur: 
+          <lb ed="#P" n="25"/>Si quis propter necessitatem famis aut nuditatis 
+          <lb ed="#P" n="26"/>furatus fuerit cibaria / vestem / vel pecus / 
+          penite<lb ed="#P" n="27" break="no"/>at ebdomadas tres: et si reddiderit non cogatur 
+          ie<lb ed="#P" n="28" break="no"/>iunare.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e295">
+          ¶ Septimo arguitur: auctoritate 
+          Augu<lb ed="#P" n="29" break="no"/>st ini secundo libro confessionum dicentis. lex naturalis 
+          <lb ed="#P" n="30"/>punit furtum. sed non potest dispensari in his qua lex 
+          <lb ed="#P" n="31"/>
+          <lb ed="#P" n="32"/>naturalis prohibet: ergo nulla necessitas dispesat 
+          <lb ed="#P" n="33"/>cum homine vt sibi furari liceat.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e308">
+          ¶ Ad sextum 
+          responde<lb ed="#P" n="34" break="no"/>tur: quod in illo casu non erat extrema necessitas sed 
+          <lb ed="#P" n="35"/>mediocris: et tunc capiens quod erat alienum 
+          fur<lb ed="#P" n="36" break="no"/>tum realiter committit.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e317">
+          ¶ Ad septimum: concedo quod lex 
+          <lb ed="#P" n="37"/>naturalis punit furtum: nee cum illo dispensatur. quando est 
+          <lb ed="#P" n="38"/>extrema necessitas / non est amplius furtum. dantur due 
+          <lb ed="#P" n="39"/>volitiones eiusdem speciei specialissime entitatiue: 
+          <lb ed="#P" n="40"/>quarum altera est furtum: altera vero non est furtum: vt 
+          <lb ed="#P" n="41"/>volo capere hoc: volo capere hoc. vnus patitur ex 
+          <lb ed="#P" n="42"/>tremam necessitatem: alter vero nullam: sed ad 
+          volupta<lb ed="#P" n="43" break="no"/>tem hoc vult.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e335">
+          ¶ Dubitatur: an rapina prohibeatur 
+          in<lb ed="#P" n="44" break="no"/>furto: et quare plus homines verecundantur de furto quom 
+          <lb ed="#P" n="45"/>rapina.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e343">
+          ¶ Aespondetur ad primum quod sic. prohibetur in 
+          fur<lb ed="#P" n="46" break="no"/>to capere alienum clanculum. sed capere alienum cum vio 
+          <lb ed="#P" n="47"/>lentia est peius et inclusum in illo tanquam consequens 
+          <lb ed="#P" n="48"/>in antecedente: ergo sub nomine furti rapina 
+          includi<lb ed="#P" n="49" break="no"/>tur. quando homo per medium iniustum capit vel tenet alie 
+          <lb ed="#P" n="50"/>num clanculum / furtum connuttit: vt decipiendo in 
+          lu<lb ed="#P" n="51" break="no"/>dis / in vsura / tenendo inuentum non soluendo debitum 
+          <lb ed="#P" n="52"/>occultum / et ita mille aliis modis.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e361">
+          ¶ Ad secundam 
+          <lb ed="#P" n="53"/>partem dubii dicitur: fur nichil animositatis habet: 
+          pro<lb ed="#P" n="54" break="no"/>pterea vulpis comparari solet latro / raptor 
+          lupo<lb ed="#P" n="55" break="no"/>vel animali cordatiori. in raptore videtur plus animi: habic 
+          <lb ed="#P" n="56"/>minus erubescit de rapina quam furto. sed minus 
+          erubes<lb ed="#P" n="57" break="no"/>cere non argu it peccatum esse minus. Plerique de 
+          mi<lb ed="#P" n="58" break="no"/>noribus peccatis plus erubescunt quam maioribus: patet 
+          <lb ed="#P" n="59"/>de profunda inuidia e luxu in fornicatione 
+          simpli<lb ed="#P" n="60" break="no"/>ci.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e381">
+          ¶ Dubitatur: si quis furatus fuerit vel rapuerit 
+          rea<lb ed="#P" n="61" break="no"/>suas: an teneatureas restituere illi a quo furto sub¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>traxit vel rapuit.
+        </p>
+        <p xml:id="jm3cbb-e89324-d1e390">
+          ¶ Respondetur: si quis res meas tenet. 
+          <lb ed="#P" n="63"/>quas habere non possum iuridice: vtr quia iusticia non 
+          <lb ed="#P" n="64"/>est bona: vel quia probare nequetio: non teneor res meas 
+          <lb ed="#P" n="65"/>vel similes furto ablatas restituere: dummodo 
+          timeo<lb ed="#P" n="66" break="no"/>quod nec ille qui res meas detin et vel aliquis suorum 
+          <lb ed="#P" n="67"/>heredum non restituat. et licet peccem res meas violem 
+          <lb ed="#P" n="68"/>tia rapiendo: non teneor eas in foro anime restituere 
+          il<lb ed="#P" n="69" break="no"/>li a quo rapui. ratio est: incassum res restituerem 
+          illi<lb ed="#P" n="70" break="no"/>qui mox tenetur michi eas iterato refundere. et illud 
+          <lb ed="#P" n="71"/>patet. l. si quis in tantam. C. vnde vi. et. l. extat. ff. quo 
+          me<lb ed="#P" n="72" break="no"/>tus causa. et ca. placuit. xvi. questione. vi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

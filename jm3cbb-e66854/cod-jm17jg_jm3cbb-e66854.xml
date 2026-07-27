@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="109-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e66854"><!-- l3d36q3 -->
+        <head xml:id="jm3cbb-e66854-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e66854-Hd1e101" type="question-title">An sit connexio virtutum moralium cum prudentia</head>
+        <p xml:id="jm3cbb-e66854-d1e104">
+          <lb ed="#P" n="45"/>TErtio quero: an sit 
+          <lb ed="#P" n="46"/>connexio virtutum moralium 
+          <lb ed="#P" n="47"/>cum prudentia.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e113">
+          ¶ Pro 
+          questio<lb ed="#P" n="48" break="no"/>nis solutione ponuntur due 
+          con<lb ed="#P" n="49" break="no"/>clusiones. Quarum prior est. 
+          <lb ed="#P" n="50"/>nullus est prudens nisi bonus. 
+          <lb ed="#P" n="51"/>hanc conclusionem in. xxxiii. 
+          <lb ed="#P" n="52"/>distinctione huius probauimus. 
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e126">
+          <lb ed="#P" n="53"/>¶ Secunda conclusio: non est dabilis actus virtu 
+          <lb ed="#P" n="54"/>tis moralis sine prudentia probatur hec 
+          conclu<lb ed="#P" n="55" break="no"/>sio: nullus actus in voluntate elicitus est bonus. 
+          ni<lb ed="#P" n="56" break="no"/>si regulatus a iudicio intellectus: quod voco 
+          pru<lb ed="#P" n="57" break="no"/>dentiam. memor tamen sum quod ignorantia 
+          inuin<lb ed="#P" n="58" break="no"/>cibilis sufficit secundum prius dicta: sed nunc loquar vt 
+          plu<lb ed="#P" n="59" break="no"/>res: sub nomine prudentie de illa intelligens. quare iste 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>acitus est bonus / volo dare huic elemosinam: nisi 
+          qaiu<lb ed="#P" n="61" break="no"/>dico ita debere fieri: vel deus praecipit: vel deus 
+          consu<lb ed="#P" n="62" break="no"/>lit: vl recta ro dictat: alioquin actus puerorum non 
+          habetium<lb ed="#P" n="63" break="no"/>rationem vel dementum essent boni: quod non est dicendum. 
+          pro<lb ed="#P" n="64" break="no"/>batur hec conclusio auctoritate philosophi. ii. 
+          ethi<lb ed="#P" n="65" break="no"/>corum virtutem diffinientis: est habitus electiuus in medietate 
+          <lb ed="#P" n="66"/>consistens prout determinant ipse sapiens: hoc est prudens: 
+          <lb ed="#P" n="67"/>hoc est secundum dictamen recte rationis. et patet hoc 
+          am<lb ed="#P" n="68" break="no"/>plius: ex industria. vi. ethicorum. vltimo sic dicit. At 
+          <lb ed="#P" n="69"/>que earum quae proprie est virtus non sic sine prudentia: et 
+          pau<lb ed="#P" n="70" break="no"/>lo post: in parte socratem laudat: in parte eum carpit. 
+          lau<lb ed="#P" n="71" break="no"/>dat eum in hoc quod dicebat quod virtus moralis non beaet 
+          <lb ed="#P" n="72"/>sine prudentia. sed eum arguit in hoc quod dicebat omnes 
+          <lb ed="#P" n="73"/>virtutes morales prudentias esse. sic dicit 
+          philo<lb ed="#P" n="74" break="no"/>sophus post verba allegata. Quapropter inquiunt 
+          <lb ed="#P" n="75"/>virtutes omnes prudentias esse: et Socrates partim 
+          re<lb ed="#P" n="76" break="no"/>cte quarebat: partim peccabat: quia virtutes omnes prudem 
+          <lb ed="#P" n="77"/>tias esse putabat: bene dicebat quod non esse sine pruden 
+          <lb ed="#P" n="78"/>tia ipsas aiebat. et mox hoc idem probans / 
+          diffinitio<lb ed="#P" n="79" break="no"/>nem virtutis apud omnes commueme inducit sic dicens. hoc 
+          <lb ed="#P" n="80"/>autem huius indicium est. etemm nunc omnes cum virtutem 
+          diffi<lb ed="#P" n="81" break="no"/>niunt dicentes ipsam habitum esse: et asserentes ea 
+          circa<lb ed="#P" n="82" break="no"/>que versatur: addunt secundum rectam rationem: et recta ratio est 
+          <lb ed="#P" n="83"/>ea quae est secundum prudentiam. et multa verba ad idem 
+          proposi<lb ed="#P" n="84" break="no"/>tum adducit. Forte propter aliquos impitos 
+          putan<lb ed="#P" n="85" break="no"/>tes virtutem posse fieri sine prudentia: sicut ego 
+          audi<lb ed="#P" n="86" break="no"/>ui aliquos sophistas dicere. postea correlarie infert 
+          <lb ed="#P" n="87"/>sie inquiens. Patet igitur ex dictis fieri non posse vt sine 
+          <lb ed="#P" n="88"/>hridentia sit ho proprie bonus: et absque morum virtute 
+          <lb ed="#P" n="89"/>prudens. vides duas conclusiones probatas etx 
+          men<lb ed="#P" n="90" break="no"/>te hhilosophi. Quarum priorest. non est prudentia sine 
+          <lb ed="#P" n="91"/>honitate. Secunda conclusio: non est virtus aliquam sine 
+          <lb ed="#P" n="92"/>prudentia. Ex his duabus conclusonibus sequitur: tertia 
+          con<lb ed="#P" n="93" break="no"/>nexio est inter virtutem moralem et prudentiam patet: vns 
+          <lb ed="#P" n="94"/>non potest fieri sine alia: nec econuerso: ergo inter illa est 
+          con<lb ed="#P" n="95" break="no"/>nexio. consequentia tenet ex quid nominis connexionis.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e225">
+          ¶ Contra ista 
+          <lb ed="#P" n="96"/>arguitur. prudens sortes potest precipere 
+          platoni<lb ed="#P" n="97" break="no"/>rudi agere quod est rectum: et conformiter ad 
+          di<lb ed="#P" n="98" break="no"/>ctamen recte rationis. tunc sic. in platone est actus 
+          <lb ed="#P" n="99"/>virtutis: et tamen in ipso non est recta ratio: sed in 
+          <lb ed="#P" n="100"/>alio: scilicet sorte.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e238">
+          ¶ Secundo: multi plebei dant 
+          <lb ed="#P" n="101"/>elemosinam: et multa alia bona faciunt: qui non 
+          sil<lb ed="#P" n="102" break="no"/>logisant vel iudicant in intellectu hoc est 
+          facien<lb ed="#P" n="103" break="no"/>dum. ergo non requiritur prudentia ad actum 
+          mo<lb ed="#P" n="104" break="no"/>raliter bonum.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e249">
+          ¶ Ad primum admitto casum: et 
+          di<lb ed="#P" n="105" break="no"/>co quod plato habet iudicium quod a est faciendum: licet 
+          <lb ed="#P" n="106"/>prudentiam ab alio ex precepto alterius accepit: 
+          <lb ed="#P" n="107"/>et sic non habetur virtus moralis sine prudentia. 
+          <lb ed="#P" n="108"/>Si ponas quod prudentia fuerit in sorte: et nulla in 
+          <lb ed="#P" n="109"/>platone: sed plato facit a ad mandatum sortis: tunc 
+          <lb ed="#P" n="110"/>dico quod a. non est virtus in platone.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e265">
+          ¶ Ad secundum 
+          <lb ed="#P" n="111"/>argumentum dico quod plebei habent prudentiam et 
+          <lb ed="#P" n="112"/>iudicium: prudentiam regulatiuam actus boni quem 
+          <lb ed="#P" n="113"/>faciunt: alioquin non esset bonus plebeus. sic 
+          iudi<lb ed="#P" n="114" break="no"/>cat in intellectu practico / ieiunandum est hodie / 
+          <lb ed="#P" n="115"/>eundum est ad templum / danda est elemosina 
+          pau<lb ed="#P" n="116" break="no"/>peri. et conformiter actus voluntatis elicit.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e281">
+          ¶ 
+          Ter<lb ed="#P" n="117" break="no"/>tio arguitur: prudentia non est pars essentialis nec 
+          <lb ed="#P" n="118"/>integralis virtutis moralis: nec econuerso: ergo 
+          <lb ed="#P" n="119"/>vna illarum potest esse sine alia. consequentia tenet 
+          <pb ed="#P" n="110-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vtrobique in creaturis: ergo intur prudentiam et virtu 
+          <lb ed="#P" n="2"/>tes morales non est connexio.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e299">
+          ¶ Quarto: 
+          aliqui<lb ed="#P" n="3" break="no"/>sunt naturaliter fortes et naturaliter temperati / sine 
+          <lb ed="#P" n="4"/>prudentia: ergo male dictum est.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e307">
+          ¶ Ad tertium 
+          con<lb ed="#P" n="5" break="no"/>cedo assumptum. non est contradictio de 
+          poten<lb ed="#P" n="6" break="no"/>tia dei quod vna illarum qualitatum sit sine alia. 
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e314">
+          <lb ed="#P" n="7"/>¶ Ad quartum concedo aliqui sunt dispositi et apti ad 
+          <lb ed="#P" n="8"/>vnam virtutem:t aliqui magis ad aliam: aliqui ad vicia: vt 
+          <lb ed="#P" n="9"/>solet dici de bene et male natis. et hoc concedit arist. 
+          <lb ed="#P" n="10"/>in lfa in vltimo cap. vi. ethi. sed tales propterea non hoesent 
+          <lb ed="#P" n="11"/>proprie vrtutes morales vel prudentias: cum non habemant 
+          <lb ed="#P" n="12"/>habintus appetitiuos vel prudentiales ipsius intellectus. 
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e330">
+          <lb ed="#P" n="13"/>¶ Quinto arguitur. capio sortem qui habuit a actum prudentie 
+          <lb ed="#P" n="14"/>remissum vt vnum: et b. actum voluntatis vtutis intensum 
+          <lb ed="#P" n="15"/>vt. viii. casus est possibilis. non est necesse hbere actum 
+          <lb ed="#P" n="16"/>intellectus ita intensum sicut actum voluntatis: vel 
+          econuer<lb ed="#P" n="17" break="no"/>so: tunc generabuntur due virtutes a. et b. a remissus 
+          habi<lb ed="#P" n="18" break="no"/>tus: et b. intensus: tunc possibile est quod adducatur inprudentia 
+          <lb ed="#P" n="19"/>contraria a prudentie: et ipsam corrumpat non est ne 
+          <lb ed="#P" n="20"/>cesse propterea corrumpere b. bonum actum 
+          vir<lb ed="#P" n="21" break="no"/>tutis. vel ducatur casus opposito modo: sit b. 
+          <lb ed="#P" n="22"/>actus voluntatis intensus vt vnum. et a. actualis 
+          <lb ed="#P" n="23"/>prudentia intensa vt. viii. generabuntur habitus 
+          <lb ed="#P" n="24"/>proportionabiles: tunc possibile est quod b. actus 
+          vo<lb ed="#P" n="25" break="no"/>luntatis corrumpatur per suum contrarium 
+          abs<lb ed="#P" n="26" break="no"/>que hoc quod corrumpatur a. habitus intellectus: quia 
+          <lb ed="#P" n="27"/>illud quod contrariatur formaliter habitui 
+          volun<lb ed="#P" n="28" break="no"/>tatis nullo modo contrariatur prudentie. ergo non 
+          <lb ed="#P" n="29"/>est necesse esse connexionem inter prudentiam et 
+          <lb ed="#P" n="30"/>virtutem moralem.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e372">
+          ¶ Sexto arguitur: quis 
+          po<lb ed="#P" n="31" break="no"/>test habere iudicium in intellectu: quod danda est 
+          e<lb ed="#P" n="32" break="no"/>lemosina pauperi absque hoc quod conformiter velit: 
+          <lb ed="#P" n="33"/>tale iudicium intellectus non est sapientia / nec 
+          <lb ed="#P" n="34"/>ars / nec intellectus / nec alius habitus veridicus 
+          <lb ed="#P" n="35"/>a prudentia. ergo sub prudentia continetur. 
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e385">
+          <lb ed="#P" n="36"/>¶ Septimo arguitur. ex dictis sequitur quod b. actus 
+          <lb ed="#P" n="37"/>voluntatis denominat a. actum intellectus 
+          pru<lb ed="#P" n="38" break="no"/>dentiam et econuerso / a. actus intellectus 
+          deno<lb ed="#P" n="39" break="no"/>minat b. actum voluntatis virtutem. et sic duo 
+          ac<lb ed="#P" n="40" break="no"/>tus et duo habitus mutuo se denominabuni: quod est 
+          <lb ed="#P" n="41"/>inconueniens. corsequentia tamen liquet 
+          intelli<lb ed="#P" n="42" break="no"/>genti.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e403">
+          ¶ Ad quintum dico: intelligit aristoteles. 
+          <lb ed="#P" n="43"/>potissimum de actu. non potest esse actus virtutis 
+          <lb ed="#P" n="44"/>sine actuali prudentia. de habitibus quicquid alii 
+          <lb ed="#P" n="45"/>dicunt) non video illud requiri. sicut argumentum 
+          <lb ed="#P" n="46"/>arguit: stat quod vnus habitus remittatur ad non 
+          gra<lb ed="#P" n="47" break="no"/>dum inclusiue: alio habitu stante / vel non totalitur 
+          <lb ed="#P" n="48"/>extincto. non video quaere debeamus dicere quod habitus 
+          re<lb ed="#P" n="49" break="no"/>manens non dicatur virtus: cum erat actus 
+          bo<lb ed="#P" n="50" break="no"/>nus / et studiosus / et virtus secundum actum. 
+          po<lb ed="#P" n="51" break="no"/>test homo dicere hic voluntarie. sine presentia 
+          iu<lb ed="#P" n="52" break="no"/>dicii habitualis intellectus / habitus voluntatis 
+          <lb ed="#P" n="53"/>non est virtus: sed non est expediens ita dicere. 
+          di<lb ed="#P" n="54" break="no"/>co ergo ad virtutem habitum sat esse quod generabatur 
+          <lb ed="#P" n="55"/>ex virtute et ad virtutem posset inclinare in 
+          poten<lb ed="#P" n="56" break="no"/>tia propinqua.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e437">
+          ¶ Contra hoc arguitur. maneat b. 
+          <lb ed="#P" n="57"/>habitus in voluntate sine prudetia actuali 
+          velha<lb ed="#P" n="58" break="no"/>bituali: tunc per me. b. est virtus: ergo inclinat in 
+          <lb ed="#P" n="59"/>actum virtutis sine prudentia: alias esset inanis virtus 
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e446">
+          <lb ed="#P" n="60"/>¶ Respondetur negando consequentian. Nunqua 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>est actus aliquis bonus sine prudentia actuali se 
+          <lb ed="#P" n="62"/>cundum Aristotelem et veritatem. deus 
+          preter<lb ed="#P" n="63" break="no"/>legem potest acceptare actum voluntatis sine 
+          ac<lb ed="#P" n="64" break="no"/>tuali prudentia: sicut potest actum naturalem: non 
+          <lb ed="#P" n="65"/>est idem de habitu.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e464">
+          ¶ Ad sextum concedo assum 
+          <lb ed="#P" n="66"/>ptum. potest habere rectum iudicium: sed tale 
+          iu<lb ed="#P" n="67" break="no"/>dicium non est prudentia nisi in aptitudine: supposito 
+          <lb ed="#P" n="68"/>quod iudicium habens sit bonus. sub nullo illorum 
+          <lb ed="#P" n="69"/>iudiciorum. vi. ethicorum numeratorum actualiter in 
+          <lb ed="#P" n="70"/>cluditur. si non fuerit actus ei respondens in 
+          bonita<lb ed="#P" n="71" break="no"/>te voluntatis. sed res est tenebrosior. de donominnatione 
+          <lb ed="#P" n="72"/>prudentie. res in hoc est lucida: numquam actus voluntatis est 
+          <lb ed="#P" n="73"/>bonus sine prudentia actuali: sed que bonitas 
+          requi<lb ed="#P" n="74" break="no"/>ritur ad prudentiam / est maior ambages: si esse in 
+          <lb ed="#P" n="75"/>gratia sufficeret: tunc erit prudentia sine actu 
+          stu<lb ed="#P" n="76" break="no"/>dioso. sed quicquid sit: non solemus vocare malos 
+          <lb ed="#P" n="77"/>prudentes sed solum seminiuerbios / bene loquem 
+          <lb ed="#P" n="78"/>tes / et imprudentes. in absoluto modo 
+          loquen<lb ed="#P" n="79" break="no"/>di existens in mortali puiblico non est prudens. et 
+          <lb ed="#P" n="80"/>potest dici quod nullus existens in mortali est prudens 
+          <lb ed="#P" n="81"/>de termino est solum luctare. ad iudicium ergo 
+          es<lb ed="#P" n="82" break="no"/>se prudentiam requiritur virum non esse in 
+          mor<lb ed="#P" n="83" break="no"/>tali: et habere meritum in voluntate respondens: 
+          <lb ed="#P" n="84"/>siue actuale. siue in acceptatione diuina: non 
+          in<lb ed="#P" n="85" break="no"/>sisto: quia solum eit de termino et modo 
+          loquen<lb ed="#P" n="86" break="no"/>di contend re. si non esset modus loquendi 
+          Ari<lb ed="#P" n="87" break="no"/>ftotelis: non sic loquerer: propter has 
+          obiectio<lb ed="#P" n="88" break="no"/>nes. potest homo habere rectum iudicium 
+          practi<lb ed="#P" n="89" break="no"/>cum in intellectu: et bonum actum in voluntate: et 
+          <lb ed="#P" n="90"/>esse in peccato mortali occulto: et per consequens 
+          <lb ed="#P" n="91"/>talis est malus: et tamen ab omnibus vocabitur 
+          <lb ed="#P" n="92"/>prudens.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e525">
+          ¶ Sed dicis: putatur prudens: quia 
+          pu<lb ed="#P" n="93" break="no"/>tatur bonus: sed realitur: nec est prudens / nec bonus. in hac 
+          ma<lb ed="#P" n="94" break="no"/>teria non amplius procedo.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e532">
+          ¶ Ad septimum: conceditur quod 
+          <lb ed="#P" n="95"/>duo actus mutuo se denominnant in esse tali: puta in esse 
+          pru<lb ed="#P" n="96" break="no"/>dentie et bomditatis. actus non est bonus essentialr intrinsece: 
+          <lb ed="#P" n="97"/>ymo potest esse liber in voluntate et non esse bonus. si 
+          iu<lb ed="#P" n="98" break="no"/>dicium prudentiale desinat esse: ille actus non est bonus qui 
+          <lb ed="#P" n="99"/>prius erat bonus.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e545">
+          ¶ Octauo arguitur auct. aug. super illud 
+          psal<lb ed="#P" n="100" break="no"/>mi. exxiii. forte viuos deglutissent nos: hi sunt 
+          qui<lb ed="#P" n="101" break="no"/>viui absorbentur qui sciunt malum esse lingua consentiunt: ab 
+          <lb ed="#P" n="102"/>sorpti moriuntur. Idem super illud psal. lx viii. fiat 
+          mensa<lb ed="#P" n="103" break="no"/>eorum coram ipsis. et quid est viciis consentientes nisi scientes 
+          <lb ed="#P" n="104"/>non debere consentire. Ecce norunt muscipulame 
+          peden<lb ed="#P" n="105" break="no"/>ponunt. Idem super illud psal. ex viii. concupiuit anima mea 
+          <lb ed="#P" n="106"/>desi. etc. praecedit intellectus. sequitur tardus aut nullus effectus 
+          <lb ed="#P" n="107"/>ex his auctoritatibus sequitur quod quis potest here prudentiam in 
+          <lb ed="#P" n="108"/>intellectu et maliciam in affectu.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e568">
+          ¶ Rder: iste 
+          auctorita<lb ed="#P" n="109" break="no"/>tes nhhil aliud volunt nisi quod intellectus potest recte iudica 
+          <lb ed="#P" n="110"/>re a ese malum et non faciendum. hoc non obstante homo 
+          conue<lb ed="#P" n="111" break="no"/>nit tali iudicio: quod non meretur dici prudentia perper 
+          de<lb ed="#P" n="112" break="no"/>fectum connotatonis emin. si homo concorditur oparetur sicut 
+          iu<lb ed="#P" n="113" break="no"/>dicat: tunc suum iudicium esset prudentia. et sic prudentia 
+          <lb ed="#P" n="114"/>erit quando non erit prudentia.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e584">
+          ¶ Nono arguitur: voluntas poatest 
+          <lb ed="#P" n="115"/>elicereactum bonum onr conscientiam: puta quod danda est elemo 
+          <lb ed="#P" n="116"/>sina pauperi: ex tali actu generabitur virtus: et tamen non regula 
+          <lb ed="#P" n="117"/>tur a prudentia.
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e593">
+          ¶ Respondetur: ille actus voluntatis est 
+          ma<lb ed="#P" n="118" break="no"/>lus:et per consequens habitus eius non est virtus: licet posse 
+          <lb ed="#P" n="119"/>postea ille habitus inclinare ad actum bonum quando 
+          <lb ed="#P" n="120"/>habetur prudentia vel error inuincibilis in intellectu. 
+          <pb ed="#P" n="110-v"/>
+          <cb ed="#P" n="a"/>
+        </p>
+        <p xml:id="jm3cbb-e66854-d1e606">
+          <lb ed="#P" n="1"/>¶ Eece quonam pacto nunquam habetur actus moraliter 
+          <lb ed="#P" n="2"/>bonus sine prudentia actuali. et secundum modum 
+          loquendi<lb ed="#P" n="3" break="no"/>philosophi malus non est prudens. licet recte potest 
+          <lb ed="#P" n="4"/>iudicare de agibilibus: tale iudicium non sufficit ad 
+          <lb ed="#P" n="5"/>prudentiam. non oportet alios argumenta contra illum 
+          <lb ed="#P" n="6"/>modum loquendi dirigere: cum de termino 
+          pruden<lb ed="#P" n="7" break="no"/>tia contendant: quo aristoteles vtitur conforiterad 
+          <lb ed="#P" n="8"/>vulgus. philosophus non negat quin malus potest 
+          <lb ed="#P" n="9"/>recte dictare in intellectu: et male operari in 
+          effe<lb ed="#P" n="10" break="no"/>ctu. Beatus Thomas sequens modum loquendi de 
+          pru<lb ed="#P" n="11" break="no"/>dentia aliter dret: quod voluntas non potest contraire 
+          <lb ed="#P" n="12"/>imperio intellectus et vltimate dictato per ipsum. ego autem 
+          <lb ed="#P" n="13"/>hac via dicere non possum: tum: quia non pono tale 
+          <lb ed="#P" n="14"/>imperium in intellectu: nec iudico illud verum quod 
+          <lb ed="#P" n="15"/>dicit de voluntate: vt post hac in eadem distinctio 
+          <lb ed="#P" n="16"/>ne attingere curabo. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

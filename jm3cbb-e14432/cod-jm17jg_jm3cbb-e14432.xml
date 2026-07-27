@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="24-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e14432"><!-- l3d11q2 -->
+        <head xml:id="jm3cbb-e14432-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e14432-Hd1e101" type="question-title">An haec est concedenda: Christus est creatura</head>
+        <p xml:id="jm3cbb-e14432-d1e104">
+          <lb ed="#P" n="112"/>SEcundo in 
+          loco<lb ed="#P" n="113" break="no"/>quero: an hec est concedenda 
+          <lb ed="#P" n="114"/>christus est creatura. 
+          Respon<lb ed="#P" n="115" break="no"/>detur aliqua sunt hic certa: sed 
+          <lb ed="#P" n="116"/>solum modus loquendi est 
+          du<lb ed="#P" n="117" break="no"/>bius. certum est quod in christo sunt 
+          <lb ed="#P" n="118"/>due nature: scilicet diuina et 
+          <lb ed="#P" n="119"/>humana: et humanitas incepit esse: primum est 
+          con<lb ed="#P" n="120" break="no"/>tra Arrium ponentem deum pure creaturam: et 
+          negantem<lb ed="#P" n="121" break="no"/>diuinitatem in christo. Secundum contra Manicheum. sed 
+          <pb ed="#P" n="24-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>de modo loquendi solum est difficultas. in disputa 
+          <lb ed="#P" n="2"/>tione verbali non oportet paruo pedi longum 
+          inqui<lb ed="#P" n="3" break="no"/>rere calceum. Creatura biphariam accipitur: vno 
+          <lb ed="#P" n="4"/>modo pro omni re que non est deus: vel habet 
+          es<lb ed="#P" n="5" break="no"/>se post non esse: et sic concedimus omnis res est 
+          cre<lb ed="#P" n="6" break="no"/>ator: vel creatura: in sensu disuuncto. Alio modo 
+          capi<lb ed="#P" n="7" break="no"/>tur creatura pro re que subsistit in natura que 
+          ha<lb ed="#P" n="8" break="no"/>bet esse post non esse. primo modo christus non est 
+          <lb ed="#P" n="9"/>creatura: et sic magister negat illam / et communis 
+          scola<lb ed="#P" n="10" break="no"/>Secundo modo illa propositiofacit sensum verum 
+          <lb ed="#P" n="11"/>licet minus vsitatum. secundo modo capit Augu. 
+          Di<lb ed="#P" n="12" break="no"/>eronimus et multi alii antiqui concedentes christum esse 
+          <lb ed="#P" n="13"/>creaturam. possunt fieri tales rationes: christus est 
+          ho<lb ed="#P" n="14" break="no"/>mo: vl ergo homo creatus vel increatus. non secundum: 
+          <lb ed="#P" n="15"/>nullus est homo increatus: ergo est homo creatus 
+          <lb ed="#P" n="16"/>ergo est creatura. sed nulla est difficultas. licet 
+          chri<lb ed="#P" n="17" break="no"/>stus sit homo creatus: christus non est creatura.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

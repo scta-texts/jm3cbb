@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="44-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e26877"><!-- l3d21q3 -->
+        <head xml:id="jm3cbb-e26877-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e26877-Hd1e101" type="question-title">An mansit idem corpus post separationem animae quod antea fuit
+    vivum</head>
+        <p xml:id="jm3cbb-e26877-d1e104">
+          <lb ed="#P" n="43"/>TErtio quero: an 
+          <lb ed="#P" n="44"/>mansit idem corpus post 
+          sepa<lb ed="#P" n="45" break="no"/>rationem anime: quod antea 
+          <lb ed="#P" n="46"/>fuit viuum. Pro questionis 
+          so<lb ed="#P" n="47" break="no"/>lutione reminisci oportet quod 
+          cor<lb ed="#P" n="48" break="no"/>pus interdum capitur pro 
+          alte<lb ed="#P" n="49" break="no"/>ra parte compositi: non numquam 
+          pro<lb ed="#P" n="50" break="no"/>toto composito: et vocatur corpus de 
+          predicamen<lb ed="#P" n="51" break="no"/>tos substantie. tertio modo capitur pro qualibet 
+          re<lb ed="#P" n="52" break="no"/>extensa. Primo modo dicimus: homo ex anima et 
+          <lb ed="#P" n="53"/>corpore componitur. Secundo modo: corpus est 
+          su<lb ed="#P" n="54" break="no"/>perius predicamentale ad ly homo. Tertio modo: 
+          <lb ed="#P" n="55"/>albedo est corporea qualitas: vel corpus. Rursus 
+          <lb ed="#P" n="56"/>aliqui ponunt formam corporeitatis mixti vel 
+          for<lb ed="#P" n="57" break="no"/>mam organicam pro primo perfectibili anime: e 
+          <lb ed="#P" n="58"/>inter se partiti sunt. aliqui enim ponunt quod quelibet 
+          <lb ed="#P" n="59"/>pars ethrogenea habet formam substantialem aliam 
+          ab<lb ed="#P" n="60" break="no"/>alia parte alterius rationis: et adhuc vnam super¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>additam ponunt. aliqui vero nullam superadditam. 
+          <lb ed="#P" n="62"/>secundum primos: separata anima a corpore: remanens 
+          <lb ed="#P" n="63"/>erit nisi quoddam aggregatum: et non aliquod vnum: 
+          <lb ed="#P" n="64"/>quod est inconueniens. Contra posteriores arguitur: 
+          <lb ed="#P" n="65"/>si vna forma informat partes diuersarum rationum: 
+          <lb ed="#P" n="66"/>quid opus est ponere pro variis partibus 
+          ethro<lb ed="#P" n="67" break="no"/>geneis formas varias. aliqui ponunt precise vnam 
+          <lb ed="#P" n="68"/>formam in mixto tam perfecto quam imperfecto: et 
+          <lb ed="#P" n="69"/>istorum aliqui dicunt quod materia non potest esse sine 
+          <lb ed="#P" n="70"/>forma substantiali de potentia dei absoluta. 
+          Ali<lb ed="#P" n="71" break="no"/>qui sanius loquuntur dicentes quod sic.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e172">
+          ¶ Pono 
+          pie<lb ed="#P" n="72" break="no"/>cise vnam formam: scilicet animam rationalem et 
+          cor<lb ed="#P" n="73" break="no"/>pus vel materia potest esse sine ea: et ita de facto 
+          <lb ed="#P" n="74"/>fuit in christo.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e181">
+          ¶ Poc premisso pono tres 
+          conclusio<lb ed="#P" n="75" break="no"/>nes questioni responsiuas.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e187">
+          ¶ Quatum prima est: 
+          fuii<lb ed="#P" n="76" break="no"/>idem corpus christi mortuum quod fuit vluum: 
+          capien<lb ed="#P" n="77" break="no"/>do corpus proo mareria.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e194">
+          ¶ Secunda conclunsio: nnon fuit 
+          <lb ed="#P" n="78"/>idem corpus de predicamento substantie vlum et 
+          <lb ed="#P" n="79"/>mortuum.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e201">
+          ¶ Tertia conclusio: corpus christi in triduo 
+          <lb ed="#P" n="80"/>fuit materia sine aliqua forma specifica 
+          substanti<lb ed="#P" n="81" break="no"/>ali superaddita.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e208">
+          ¶ Prima conclusio probatur: 
+          nul<lb ed="#P" n="82" break="no"/>lum agens intrinsecum vel extrinsecum corrumpebat 
+          <lb ed="#P" n="83"/>aliquid de corpore christi in triduo: ex questione 
+          <lb ed="#P" n="84"/>precedenti. ergo mansit eadem materia post 
+          mor<lb ed="#P" n="85" break="no"/>tem que fuit in vita.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e219">
+          ¶ Secundo arguitur: eadem mate 
+          <lb ed="#P" n="86"/>ria habuit animam: que anima caruit in morte. ergo 
+          <lb ed="#P" n="87"/>idem fuit corpus viuum et mortuum: capiendo corpus 
+          <lb ed="#P" n="88"/>pro materia.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e228">
+          ¶ Secunda conclusio probatur. corpus 
+          <lb ed="#P" n="89"/>de predicamento substantie est aggregatum ex 
+          ma<lb ed="#P" n="90" break="no"/>teria et forma corporeitatis informante. sed hec 
+          <lb ed="#P" n="91"/>forma corporeitatis in homine est anima intellectiua: 
+          <lb ed="#P" n="92"/>quae dat esse animatum esse sensitiuum rationale / 
+          corpo<lb ed="#P" n="93" break="no"/>reum / et ita de talibus: quia non oportet 
+          multipli<lb ed="#P" n="94" break="no"/>care formas secundum numerum predicatorum que 
+          essen<lb ed="#P" n="95" break="no"/>tialiter praedicantur de pronomine rem demonstrante. tunc 
+          <lb ed="#P" n="96"/>essent infinita cathegoreumatice: cum inter que 
+          <lb ed="#P" n="97"/>cumque duo indiuidua specie distincta deus 
+          potess<lb ed="#P" n="98" break="no"/>creare infinita inter media: dabuntur infiniti 
+          con<lb ed="#P" n="99" break="no"/>ceptus inter medii: se habentes secundum superius et in 
+          <lb ed="#P" n="100"/>ferius. Insuper: qua ratione anima dat suo 
+          perfe<lb ed="#P" n="101" break="no"/>ctibili esse animatumet sensitiuum: eadem ratione dat es 
+          <lb ed="#P" n="102"/>esse corporeum.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e262">
+          ¶ Secundo probatur. corpus mortuum: 
+          <lb ed="#P" n="103"/>vt tantum valet sicut materia carens vita: efficitur pars 
+          <lb ed="#P" n="104"/>corporis viui: sed pars essentialis nunquam potest 
+          es<lb ed="#P" n="105" break="no"/>se suum totum: igitur.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e271">
+          ¶ Tertio: corpus mortuum est 
+          <lb ed="#P" n="106"/>materia carens vita. corpus de predicamento 
+          sub<lb ed="#P" n="107" break="no"/>stantie / vitam habet tanquam partem: igitur.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e278">
+          ¶ 
+          Ter<lb ed="#P" n="108" break="no"/>tia conclusio probatur: vel in corpore christi fuit 
+          for<lb ed="#P" n="109" break="no"/>ma cadaueris: et hoc est falsissimum: quia sic deus 
+          <lb ed="#P" n="110"/>talem formam in morte accepisset de nouo: preter 
+          <lb ed="#P" n="111"/>absurditatem quod illic erat cadauer. vel fuit 
+          forma<lb ed="#P" n="112" break="no"/>corporeitatis vltra animam intellectiuam: et hoc non: 
+          <lb ed="#P" n="113"/>quia nulla talis est: prout latius in. xvi. distinct. 
+          <lb ed="#P" n="114"/>declaratum est. et non est ponenda anima intelle 
+          <lb ed="#P" n="115"/>ctiua in corpore in triduo informatiue: quia tunc 
+          fal<lb ed="#P" n="116" break="no"/>sum esset dicere quod christus esse mortuus: ergo 
+          nul<lb ed="#P" n="117" break="no"/>la forma substantiali informabatur illud corpus 
+          <lb ed="#P" n="118"/>Preterea arguitur ad idem: si non erat materia 
+          <lb ed="#P" n="119"/>sine forma substantiali in triduo: hoc erat 
+          propte<lb ed="#P" n="120" break="no"/>rea quia materia non potest esse sine forma 
+          substan<lb ed="#P" n="121" break="no"/>tiali: sed hoc in. xii. distinctione. ii. improbatum est: 
+          <pb ed="#P" n="45-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>lgitur.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e317">
+          ¶ Contra hoc arguitur: si non est in homine alia 
+          <lb ed="#P" n="2"/>forma quam intellectiua: sequitur quod corpus christi non 
+          fu<lb ed="#P" n="3" break="no"/>it idem numero viuum et mortuum: sed hoc est falsum. 
+          <lb ed="#P" n="4"/>probatio consequentie: corpus substantiale non 
+          ma<lb ed="#P" n="5" break="no"/>net idem numero nisi manente ead esm forma substam 
+          <lb ed="#P" n="6"/>tiali: sicut nec aliqua substantia composita manet ea 
+          <lb ed="#P" n="7"/>dem numero nisi manente sua forma substentiali. 
+          <lb ed="#P" n="8"/>sed anima rationalis non mansit in sepulchro. ergo non 
+          <lb ed="#P" n="9"/>mansit idem corpus. consequens est falsum. vnde ve 
+          <lb ed="#P" n="10"/>ritas ait ad discipulos: hec inquit caro mea est 
+          <lb ed="#P" n="11"/>pro mundi vita. et Ambrosius hoc tangens prout 
+          <lb ed="#P" n="12"/>recitatur de consecra. distinc. ii. veritas ait ad 
+          di<lb ed="#P" n="13" break="no"/>scipulos. postea subiungit: non alia plane quam que 
+          na<lb ed="#P" n="14" break="no"/>ta est de maria virgine et passa in cruce resurrexit 
+          <lb ed="#P" n="15"/>de sepulchro: sed planum est quod illa eadem numero 
+          <lb ed="#P" n="16"/>que iacuit in sepulchro mortua resurrexit viua. 
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e352">
+          <lb ed="#P" n="17"/>¶ Secundo arguitur: Io. xx. christus volens 
+          proba<lb ed="#P" n="18" break="no"/>re resurrectionis veritatem Thome dicenti: nisi 
+          vi<lb ed="#P" n="19" break="no"/>dero in manibus eius fixuram clauorum: et mittam 
+          <lb ed="#P" n="20"/>manum meam in latus eius: non credam. dixit christus 
+          ip<lb ed="#P" n="21" break="no"/>si Thome: affer manum tuam in latus meum: et noli 
+          es<lb ed="#P" n="22" break="no"/>se incredulus sed fidelis: queritur ergo de illo 
+          vul<lb ed="#P" n="23" break="no"/>nerelateris: aut fuit idem vulnus quod fuit ibi in 
+          <lb ed="#P" n="24"/>flictum cum in cruce iam esset mortuus: sicut dicitur 
+          <lb ed="#P" n="25"/>Ioannis. xix. aut non fuit idem vulnus. si fuit idem 
+          <lb ed="#P" n="26"/>vulnus numero: ergo idem corpus vulneratum: et 
+          <lb ed="#P" n="27"/>ita corpus christi viuum et mortuum idem est. si fuit 
+          <lb ed="#P" n="28"/>aliud vulnus: tunc christus non certificauit Thomam de 
+          <lb ed="#P" n="29"/>eo quod querebat. quidam bassolis in hac 
+          distinctio<lb ed="#P" n="30" break="no"/>ne hanc secundam rationem facit cum nouem aliis: ad 
+          <lb ed="#P" n="31"/>probandum quod erat idem corpus christi viuum et 
+          mor<lb ed="#P" n="32" break="no"/>tuum. et in. xvii. distinctione secundi sui primam ratio 
+          <lb ed="#P" n="33"/>nem facit. Pro eis omnibus vnum verbum sufficit. 
+          pro<lb ed="#P" n="34" break="no"/>docto nichil esset dicendum: quia mox videt quod 
+          ni<lb ed="#P" n="35" break="no"/>chil ponderis habent. Respondebo tamen ad has 
+          <lb ed="#P" n="36"/>rationes factas.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e398">
+          ¶ Ad priorem rationem. conclusio 
+          <lb ed="#P" n="37"/>nes ferme respondent. caro interdum capitur 
+          pro<lb ed="#P" n="38" break="no"/>homine: vt verbum caro factum est. caro etiam capitur 
+          <lb ed="#P" n="39"/>pro materia carnis: et sic erat de corpore 
+          christi<lb ed="#P" n="40" break="no"/>in sepulchro. dico quod illic erat caro: hoc est 
+          mate<lb ed="#P" n="41" break="no"/>teria que fuit pars humanitatis christi. si boue 
+          mor<lb ed="#P" n="42" break="no"/>tuo deus conseruaret materiam sine forma 
+          substan<lb ed="#P" n="43" break="no"/>tiali vlla generanda: sicut potest: reputaretur caro: 
+          <lb ed="#P" n="44"/>sed non talis qualem nunc habemus: quia forma 
+          car<lb ed="#P" n="45" break="no"/>nis nunc corrupta / generatur noua forma. 
+          genera<lb ed="#P" n="46" break="no"/>ratio vnius est corruptio alterius primo de gene 
+          <lb ed="#P" n="47"/>ratione. pone quod carnis comedende forma 
+          annichi<lb ed="#P" n="48" break="no"/>letur a deo: que res erit: et quo nomine vocetur: non 
+          <lb ed="#P" n="49"/>curo. scio quod non est eiusdem speciei cum carne que 
+          <lb ed="#P" n="50"/>ante erat. quando homo moritur: anima solum 
+          desi<lb ed="#P" n="51" break="no"/>nit informare suam materiam: et materia 
+          communi<lb ed="#P" n="52" break="no"/>ter in morte informatur forma cadaueris: non au 
+          <lb ed="#P" n="53"/>tem in christo: sed materia mansit sine vlla 
+          forma<lb ed="#P" n="54" break="no"/>subansttiali. surrexit cum eodem corpore de 
+          predi<lb ed="#P" n="55" break="no"/>camento substantie cum corpore quod antea 
+          ha<lb ed="#P" n="56" break="no"/>bebat.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e445">
+          ¶ Secundi argumenti punctum iacet in 
+          <lb ed="#P" n="57"/>idemptitate vulneris: et dico quod tantum vel magis 
+          <lb ed="#P" n="58"/>valet contra arguentem quam contra positionem 
+          op<lb ed="#P" n="59" break="no"/>positam. quod sic declaro: christus non habuit idem 
+          <lb ed="#P" n="60"/>corpus de predicamento substantie in resurrectio 
+          <lb ed="#P" n="61"/>ne cum corpore mortuo. patet: omnis homo est cor¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>pus: capiendo corpus de predicamento 
+          substan<lb ed="#P" n="63" break="no"/>tie. et certe homo non est materia cum forma 
+          cor<lb ed="#P" n="64" break="no"/>poreitatis: siue ponatur vna: siue multe: prout in 
+          <lb ed="#P" n="65"/>questionis principio recitaui. et cum non est idem 
+          <lb ed="#P" n="66"/>corpus vulneratum: non erat idem vulnus per 
+          argu<lb ed="#P" n="67" break="no"/>mentum istius. vulnus nihil aliud est quam carnis vel 
+          <lb ed="#P" n="68"/>alterius partis in animali violenta partitio: et ite 
+          <lb ed="#P" n="69"/>rum ista partitio nichil aliud est quam res sic 
+          parti<lb ed="#P" n="70" break="no"/>ta. qualitercumque aliter: vel quicumque ponens 
+          formam<lb ed="#P" n="71" break="no"/>corporeitatis responderet: ita respondere possum. 
+          <lb ed="#P" n="72"/>si ipsi dicunt: erat separatio earnis et neruorum 
+          ma<lb ed="#P" n="73" break="no"/>terie et forme corporeitatis: et illa diuisio eadem 
+          <lb ed="#P" n="74"/>mansit: nunquid ego dicam sic de sola materia que 
+          <lb ed="#P" n="75"/>erat partita: et mansit eadem partita in 
+          resurrectio<lb ed="#P" n="76" break="no"/>ne: et per consequens saluabo ita bene sicut alii quod 
+          <lb ed="#P" n="77"/>mansit idem vulnus in morte et in vita.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e495">
+          ¶ 
+          Ter<lb ed="#P" n="78" break="no"/>tio arguitur: tunc non essent eadem corpora 
+          san<lb ed="#P" n="79" break="no"/>ctorum mortua et viua: et per consequens non ado 
+          <lb ed="#P" n="80"/>randa.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e504">
+          ¶ Respondetur quod generatur noua forma 
+          ca<lb ed="#P" n="81" break="no"/>daueris. notum est quod istud totum non erat pars 
+          alicu<lb ed="#P" n="82" break="no"/>ius hominis. Sed tu dicis: forma corporeitatis fuit 
+          <lb ed="#P" n="83"/>pars eius: et ratione illius partis colitur: sic ego 
+          <lb ed="#P" n="84"/>dico de materia. breuiter nulla est ratio quin 
+          po<lb ed="#P" n="85" break="no"/>test reduci contra illam positionem tantum sicut ipsa 
+          <lb ed="#P" n="86"/>contraalios arguit:
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e520">
+          ¶ Quarto arguitur: si sit 
+          ni<lb ed="#P" n="87" break="no"/>si vna forma in homine et in bruto accidens 
+          mi<lb ed="#P" n="88" break="no"/>grabit de subiecto in subiectum. patet de albedine 
+          <lb ed="#P" n="89"/>in equo vel homine mortuo. Respondetur: omnia 
+          <lb ed="#P" n="90"/>accidentia extensa / non vitales immutationes / 
+          quam<lb ed="#P" n="91" break="no"/>admodum sunt sensationes / et appetitiones sensua 
+          <lb ed="#P" n="92"/>les / inherent materie prime: et quia latius hanc 
+          ma<lb ed="#P" n="93" break="no"/>teriam in secundo deduxi: pertranseo.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e538">
+          ¶ Dubitatur: an 
+          <lb ed="#P" n="94"/>christus resurrexit cum suis cicatricibus.
+        </p>
+        <p xml:id="jm3cbb-e26877-d1e543">
+          ¶ Respondetur 
+          <lb ed="#P" n="95"/>quod sic. patet Ioan. xx. Infer digitum tuum huc: et 
+          vi<lb ed="#P" n="96" break="no"/>de manus meas: et affer manum tuam: et mitte in 
+          <lb ed="#P" n="97"/>latus meum. hoc est conueniens vt iudei videant in 
+          <lb ed="#P" n="98"/>quem pepigerunt: et in signum victorie. non dedecet 
+          <lb ed="#P" n="99"/>fortem militem cicatrices vulnerum habere. 
+          Augu<lb ed="#P" n="100" break="no"/>stinus dicit. xxii. de trinitate dei: fortassis in illo 
+          <lb ed="#P" n="101"/>regno / in corporibus martyrum videbimus vulne 
+          <lb ed="#P" n="102"/>rum cicatrices: que pro christi nomine pertulerunt 
+          <lb ed="#P" n="103"/>Insuper: hoc facit vt patri supplicans / ostendat 
+          <lb ed="#P" n="104"/>quale genus mortis pro nobis pertulit. sed ista 
+          <lb ed="#P" n="105"/>ratio parum valet. pater sine signo hoc semper 
+          de<lb ed="#P" n="106" break="no"/>prehendit. probabile est ergo quod in perpetuum: vel 
+          <lb ed="#P" n="107"/>saltem ad iudicium vsque: cicatrices in corpore 
+          chri<lb ed="#P" n="108" break="no"/>stus seruet: et martyres similiter: non ita sicut erat 
+          <lb ed="#P" n="109"/>in re: quia sic Dyonisius haberet caput in 
+          brachi<lb ed="#P" n="110" break="no"/>is: sed in signo cognoscibili. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="119-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e72855"><!-- l3d37q4 -->
+        <head xml:id="jm3cbb-e72855-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e72855-Hd1e101" type="question-title">Quae est prima lex obligatoria et an voluntas et intellectus
+    divinus sit prima et radicalis causa contingentium in rebus</head>
+        <p xml:id="jm3cbb-e72855-d1e104">
+          <lb ed="#P" n="30"/>Quarto queritur circa hanc 
+          <lb ed="#P" n="31"/>distinctionem. xxxvii. quae est prima lex 
+          obli<lb ed="#P" n="32" break="no"/>gatoria: et an voluntas et intellectus 
+          diui<lb ed="#P" n="33" break="no"/>nus sit prima et radicalis cam contingentium in rebus. 
+          Pro<lb ed="#P" n="34" break="no"/>questionis solutione scias aliquos dicere intellectum 
+          <lb ed="#P" n="35"/>diuinum esse primam regulam obligatoriam: aliqui 
+          di<lb ed="#P" n="36" break="no"/>cunt voluntatem esse primam legem et primam causam in 
+          contingenti<lb ed="#P" n="37" break="no"/>bus.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e124">
+          ¶ Pro veritate quaestionis haesenda secunde opinionem 
+          mean<lb ed="#P" n="38" break="no"/>ponam aliques conclusiones. Quarum prima est. dabilis est 
+          prima<lb ed="#P" n="39" break="no"/>lex obligatoria. probatur: leges sunt subordinate 
+          sicui<lb ed="#P" n="40" break="no"/>cane. sed in causis subordinatis non est procedere in infinitum: 
+          <lb ed="#P" n="41"/>sed standum in vna cam prima. ergo similiter standum erit in aliquae 
+          <lb ed="#P" n="42"/>lege prima.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e137">
+          ¶ Secunda conclus. lex diuina est prima lex 
+          obli<lb ed="#P" n="43" break="no"/>gatoria. probatur hec conclusio: aliqui est prima lex obligato 
+          <lb ed="#P" n="44"/>ria ex conclusione praecedenti: et illa non est humana: quia tunc 
+          <lb ed="#P" n="45"/>lex diuina subordinatur legi humane tamquam legi priori: 
+          <lb ed="#P" n="46"/>quod liquet esse fln.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e149">
+          ¶ Tertia conclusio. voluntas dinna est 
+          <lb ed="#P" n="47"/>prima cam rerum contingentium. probatur hec conclusio: aliqua res 
+          con<lb ed="#P" n="48" break="no"/>tingenter producuntur: et ad omnim talium productionem volum 
+          <lb ed="#P" n="49"/>tas dei concurrit: et est cam exsendi talium rerum: et non 
+          neces<lb ed="#P" n="50" break="no"/>saria: ergo est prima cam contingentium. Insuper: per hoc quod 
+          intel<lb ed="#P" n="51" break="no"/>lectus diuinus / intelligit aliquid: propterea illa res habeens esse 
+          <lb ed="#P" n="52"/>cognitum non dcir esse vel fore: sed per hoc quod voluntas dinna 
+          <lb ed="#P" n="53"/>vult illud esse: res illa dicitur esse vel fore.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e167">
+          ¶ Quarta conclusio: 
+          <lb ed="#P" n="54"/>voluntas dinna non est cam vitatis propotionum necessariarum. 
+          <lb ed="#P" n="55"/>probatur: siue voluntas aliquid velit circa tales 
+          necessi<lb ed="#P" n="56" break="no"/>tates siue non: nihilo tamen minus / ipse sunt necessarie. sed 
+          <lb ed="#P" n="57"/>quia propotiones sunt res contingentes: et vitates earum ett: 
+          <lb ed="#P" n="58"/>quia vitas nichil aliud est a propoaitione vera: sophistice in 
+          <lb ed="#P" n="59"/>proposito potest dici quod voluntas doinna est prima cam quire¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>propotiones sunt necessarie: quia est cam quare ipse sunt. sed 
+          <lb ed="#P" n="61"/>intelligitur conclusio: posita exnetia earum necessitatem non hasent 
+          <lb ed="#P" n="62"/>a voluntate dinna: sed a rebus / ipsis taliter significatis 
+          <lb ed="#P" n="63"/>affirmatiue vel negatiue.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e193">
+          ¶ Quinta conclusio. alicuius 
+          <lb ed="#P" n="64"/>productionis necessarie voluntas dinna est principium 
+          <lb ed="#P" n="65"/>probatur hec conclusio. voluntas diuina est 
+          principium<lb ed="#P" n="66" break="no"/>spirandi spndum sanctum: qui procedit quomodo datus est et non 
+          <lb ed="#P" n="67"/>quomdo natus est. xv. de trinitate secundum Augustinum: et 
+          pa<lb ed="#P" n="68" break="no"/>tebit amplius hec conclusio in. x. distinctione. i.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e206">
+          ¶ Contra 
+          <lb ed="#P" n="69"/>tertiam conclusionem arguitur sic: bene sequitur: hec voluntas 
+          din<lb ed="#P" n="70" break="no"/>na est prima cam rerum contingentium: et hec voluntas dinna 
+          <lb ed="#P" n="71"/>est intellectus diuinus: ergo intellectus diuinus est prima 
+          can<lb ed="#P" n="72" break="no"/>rerum contingentium.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e217">
+          ¶ Secundo arguitur: voluntas non fertur in 
+          <lb ed="#P" n="73"/>incognitum: ergo prius natura intellectus diuinus 
+          intel<lb ed="#P" n="74" break="no"/>ligit ateexpm fore anteequod voluntas dinna vult anteechristum 
+          fo<lb ed="#P" n="75" break="no"/>re. ergo voluntas dinna non est prima cam rerum contingentium. 
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e226">
+          <lb ed="#P" n="76"/>¶ Ad priniam istarum rationum concedo consequentiam cum consequente et 
+          to<lb ed="#P" n="77" break="no"/>tum antecedens. sed quod intellectus sit prima cam contingentium 
+          <lb ed="#P" n="78"/>est propterea quia cum voluntate ydemptificatur. vel sic: 
+          intel<lb ed="#P" n="79" break="no"/>lectus dinnus est prima cam contingentium inquantum voluntas: non 
+          <lb ed="#P" n="80"/>inquantum intellectus.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e240">
+          ¶ Ad secundue concedo quod voluntas dinna 
+          <lb ed="#P" n="81"/>non fertur in incognitum. prius natura intellectus diuinus 
+          <lb ed="#P" n="82"/>apprshensiue offert vnum futurum contingens: vt pote hanc 
+          <lb ed="#P" n="83"/>antee christus erit: vel suum oppositum: voluntati dinne: et volum 
+          <lb ed="#P" n="84"/>tas dinna acceptat vnam partem: puta hanc antechpristus erit: 
+          <lb ed="#P" n="85"/>tunc in tertio signo nature intellectus dinnus 
+          assen<lb ed="#P" n="86" break="no"/>tit illi parti anteechristus erit: scit voluntatem eius efficacem non 
+          <lb ed="#P" n="87"/>impedibilem:et tunc protinus / illi assentit. ex hoc non arguitur 
+          di<lb ed="#P" n="88" break="no"/>scursus in intellectu dinno: sed explicatur vno modo quomodo 
+          <lb ed="#P" n="89"/>voluntas dinna est prima cam contingentium. voluntas 
+          dinna<lb ed="#P" n="90" break="no"/>non fertur super vuum obiectum incognitum. ergo intellectus 
+          <lb ed="#P" n="91"/>eius prius natura cognoscit illud apprshensiue: sed in 
+          il<lb ed="#P" n="92" break="no"/>lo piore signo intellectus dinnus non assentit illi antee christus 
+          <lb ed="#P" n="93"/>erit. sed in tertio signo. omnia illa fuerunt ab etsno. quaelia 
+          <lb ed="#P" n="94"/>cumque sunt aliqua quorum vnum praesuppouit aliud 
+          tempo<lb ed="#P" n="95" break="no"/>re vel natura: praesuppositum dir prius natura. pone quod 
+          <lb ed="#P" n="96"/>deus produxisset vnum angelum ab eterno diligentem deum: 
+          <lb ed="#P" n="97"/>in illo angelo ab etsno fuissent hec tria / noticia dei / 
+          <lb ed="#P" n="98"/>dilectio dei / et gaudium effectus in cantus. noticia fuisset 
+          <lb ed="#P" n="99"/>prius natura quam actus voluntatis: quia voluntas non fertur in 
+          <lb ed="#P" n="100"/>incognitum: sed crebriter intellectus / fertur in non dilectum: 
+          <lb ed="#P" n="101"/>ergo intellectus est potentia priorvoluntate quo ad aliquid. et 
+          <lb ed="#P" n="102"/>cum gaudium est effectus sequens: posterius natura ponitur 
+          <lb ed="#P" n="103"/>quam dilectio. Ecce ergo tria per ordinem in eodem instanti temperis 
+          <lb ed="#P" n="104"/>et ab etseno: quorum noticia dicir esse in primo signo 
+          natu<lb ed="#P" n="105" break="no"/>re: dilectio in. ii. signo nature: et gaudium in. iii. signo 
+          <lb ed="#P" n="106"/>nature. sic noticia dei apprshensiua est in priore signo 
+          <lb ed="#P" n="107"/>nature respectu contingentis: et voluntas in posteriore 
+          <lb ed="#P" n="108"/>signo nature efficaciter rem contingentem esse volens: et 
+          intel<lb ed="#P" n="109" break="no"/>lectus iudicatiuus in. iii. signo nature. non quod voluntas 
+          <lb ed="#P" n="110"/>dinna aliquid velit in aliquo tpere vel instanti quo intelle 
+          <lb ed="#P" n="111"/>ctus non iudicet: sed ad sensum datum: qui copiosius in i. 
+          di<lb ed="#P" n="112" break="no"/>stinctione. ii. tractatur.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e312">
+          ¶ Tertio arguitur contra ista. oblata 
+          <lb ed="#P" n="113"/>hac disiunctiua intellectui dinno: antene christus erit vel 
+          antecede<lb ed="#P" n="114" break="no"/>cristus non erit: intellectus dinnus assentit illi prius natura 
+          <lb ed="#P" n="115"/>antequam illum voluntati dinne offert: quia est propositio necessaria: 
+          <lb ed="#P" n="116"/>ergo prius assentit vritati illius ateecpristus erit antequam vo luntas 
+          <lb ed="#P" n="117"/>dinna vult antecpriste fore. tenet consequentia: quia idem est necessitas istius 
+          <lb ed="#P" n="118"/>disiunctiue veritas vnius partis. tota veritas istius 
+          <lb ed="#P" n="119"/>disiunctine oritur ab hac cathegorica anteecpristus erit. et ne¬ 
+          <pb ed="#P" n="120-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cessitas non potest esse sine veritate: ergo tota ne 
+          <lb ed="#P" n="2"/>cessitas istius disiunctiue oritur ab hac 
+          cathego<lb ed="#P" n="3" break="no"/>rica antecpristus erit.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e341">
+          ¶ Respondetur. necessitas illius 
+          <lb ed="#P" n="4"/>disiunctiue est veritas illius. patet: idem numero est ne 
+          <lb ed="#P" n="5"/>cessitas et veritas illius propositionis. patet: 
+          necessi<lb ed="#P" n="6" break="no"/>tas propositionis necessarie est sua necessitas: et propositio 
+          quae<lb ed="#P" n="7" break="no"/>libet vera est sua veritas. intellectus diuinus 
+          assen<lb ed="#P" n="8" break="no"/>tit illi toti disiunctiue prius natura antequam voluntas 
+          <lb ed="#P" n="9"/>diuina aliquid vult circa illam: cum sciat necesse esse si 
+          <lb ed="#P" n="10"/>cut per eam significatur: sed expectat determinatio 
+          <lb ed="#P" n="11"/>nem voluntatis diuine respectu veritatis illius 
+          con<lb ed="#P" n="12" break="no"/>tingentis: qua est prima radix omnis contingentie.
+        </p>
+        <p xml:id="jm3cbb-e72855-d1e363">
+          ¶ Ex 
+          <lb ed="#P" n="13"/>his vides quomodo intellectus diuinus et 
+          volun<lb ed="#P" n="14" break="no"/>tas diuina differenter se habent respectu 
+          contingenti<lb ed="#P" n="15" break="no"/>um: et voluntas diuina est prima ratio legis in 
+          contin<lb ed="#P" n="16" break="no"/>gentibus. et potest etiam dici lex: sed quod lex potest 
+          scin<lb ed="#P" n="17" break="no"/>di in legem creatam et increatam. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

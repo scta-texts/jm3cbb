@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 22</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 22</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="96-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e58847"><!-- l3d33q22 -->
+        <head xml:id="jm3cbb-e58847-Hd1e99">Quaestio 22</head>
+        <head xml:id="jm3cbb-e58847-Hd1e101" type="question-title">An temperantia sit circa delectationes et tristitias</head>
+        <p xml:id="jm3cbb-e58847-d1e104">
+          <lb ed="#P" n="69"/>SUperius de duabus 
+          pir<lb ed="#P" n="70" break="no"/>tutibus cardinalibus habitus est 
+          <lb ed="#P" n="71"/>sermo. scilicet prudentia et fortitudine. 
+          <lb ed="#P" n="72"/>superest de aliis duabus paululum 
+          <lb ed="#P" n="73"/>imorari. et primo a temperantia 
+          <lb ed="#P" n="74"/>circa quam virtutem quero quimque 
+          <lb ed="#P" n="75"/>questiones. Quarum prima est: an temperantia sit 
+          <lb ed="#P" n="76"/>circa delectationes tristicias. Secunda: an 
+          tem<lb ed="#P" n="77" break="no"/>perantia virtus cardinalis sit vna secundum speciem. 
+          <lb ed="#P" n="78"/>Tertia: an intemperantia sit peccatum maxime ex 
+          <lb ed="#P" n="79"/>probra bile. Quarta: penes quid latitudo 
+          tempe<lb ed="#P" n="80" break="no"/>rantie attenditur. Quinta et vltima circa materiam 
+          <lb ed="#P" n="81"/>temperantie habendus est sermo de abstinentia: 
+          <lb ed="#P" n="82"/>de ieiunio. in. xv. distinctonne quarti. et castitate: in 
+          <lb ed="#P" n="83"/>xxx. distinctione quarti et duabus sequentibus iam 
+          <lb ed="#P" n="84"/>pridem scripsimus: quare de illis impresentiarum 
+          <lb ed="#P" n="85"/>nihil scribo.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e143">
+          ¶ Circa primam questionem sic 
+          proce<lb ed="#P" n="86" break="no"/>dam. in primis explicando rationem temperantie 
+          <lb ed="#P" n="87"/>et acceptionis eius: postea conciusiue 
+          respondebi<lb ed="#P" n="88" break="no"/>tur.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e152">
+          ¶ Cemperantia biphariam accipitur. 
+          Uno<lb ed="#P" n="89" break="no"/>modo significat omnem moderationem et temperiem 
+          <lb ed="#P" n="90"/>quam ratio ponit in humanis operationibus t 
+          pas<lb ed="#P" n="91" break="no"/>sionibus. et quia hec moderatio omni virtuti 
+          commu<lb ed="#P" n="92" break="no"/>nis est. hoc modo temperantia est virtus communis 
+          <lb ed="#P" n="93"/>Secundo modo capitur temperantia prout est 
+          vir<lb ed="#P" n="94" break="no"/>tus moderatiua delectationum tristiciarum gusius 
+          <lb ed="#P" n="95"/>et tactus. quomodo accepit eam aristoteles tertii 
+          ethico<lb ed="#P" n="96" break="no"/>rum decimo. Martinus ponit tntiam acceptionem 
+          tempe<lb ed="#P" n="97" break="no"/>rantie pro habitu moderatiuo delectatonnum tristiciarum 
+          <lb ed="#P" n="98"/>non arduarum. dicit non arduarum: vt temperantia contineat 
+          <lb ed="#P" n="99"/>sub se mansuetudinem liberalitatem / modestiam / 
+          <lb ed="#P" n="100"/>affabilitatem / veritatem / eutrapeliam.t per illud 
+          <lb ed="#P" n="101"/>differt a fortitudine secundum se secundum omens species eius: 
+          <lb ed="#P" n="102"/>cui conuenit moderari delectationes arduas: et 
+          <lb ed="#P" n="103"/>paucis hominibus conuenientes. et in fine dicit: 
+          <lb ed="#P" n="104"/>cui non placet ista restrictio: excogitet ipse aliam per 
+          <lb ed="#P" n="105"/>quam differat temperantia a fortitudine cardin a 
+          <lb ed="#P" n="106"/>li virtute vt contineat virtutes prefatas: alioquin 
+          <lb ed="#P" n="107"/>talis sciat se non diffiniuisse temperantiam cardinalem 
+          <lb ed="#P" n="108"/>virtutem. et postea infert quod diffinitones Tullii / 
+          am<lb ed="#P" n="109" break="no"/>brosii / et augustini / de temperantia: non sunt 
+          diffi<lb ed="#P" n="110" break="no"/>nitiones temperantie virtutis cardinalis. ego 
+          au<lb ed="#P" n="111" break="no"/>tem ponosolum illas duas acceptiones prefatas: et 
+          <lb ed="#P" n="112"/>dico illam excogitationem quam ponit de 
+          temperan<lb ed="#P" n="113" break="no"/>tia virtute cardinali inurilem: cum philosophi hac 
+          <lb ed="#P" n="114"/>acceptione non vsi sunt. et nego quod virtutes quas 
+          <lb ed="#P" n="115"/>recitat contineantur sub temperantia virtute 
+          car<lb ed="#P" n="116" break="no"/>dinali tanquam partes subiectiue. bene alique illarum 
+          <lb ed="#P" n="117"/>ab auctoribus enumerantur partes potentiales tem 
+          <lb ed="#P" n="118"/>perantie: que nullomodo sunt partes subiectiue: sed 
+          <lb ed="#P" n="119"/>aliquam affinitatem habent cum virtute principals¬ 
+          <pb ed="#P" n="97-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ad quam reducuntur: vt superius in materia de 
+          for<lb ed="#P" n="2" break="no"/>titudine dixi. male insuper distinguit temperantiam 
+          <lb ed="#P" n="3"/>a fortitudine penes arduum et non arduum: quia sic 
+          <lb ed="#P" n="4"/>quelibet virtus includeretur sub temperantia 
+          vel<lb ed="#P" n="5" break="no"/>fortitudine: cum quelibet est circa arduum vel non 
+          <lb ed="#P" n="6"/>arduum.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e240">
+          ¶ hoc premisso: ponuntur sex conclusio 
+          <lb ed="#P" n="7"/>nes ostensiue circa quas voluptates tristicias est 
+          <lb ed="#P" n="8"/>temperantia ex mente aristotelis tertii ethicorum 
+          <lb ed="#P" n="9"/>decimo: deprompte.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e249">
+          ¶ Quarum prima esti temperam 
+          <lb ed="#P" n="10"/>tia est circa delectationes et tristicias: minus tamen 
+          cir<lb ed="#P" n="11" break="no"/>ca tristicias quam delectationes. hec conclusio potest 
+          bi<lb ed="#P" n="12" break="no"/>phariam intelligi. vno modo quod temperantia 
+          perfe<lb ed="#P" n="13" break="no"/>ctius moderatur delectationes: et imperfectius 
+          tri<lb ed="#P" n="14" break="no"/>sticias et non debet sic intelligi. Secundo 
+          intelli<lb ed="#P" n="15" break="no"/>gitur sic: frequentius occurrit materia 
+          delectatio<lb ed="#P" n="16" break="no"/>nis quam tristicie: et sic crebrius delectatones 
+          moderan<lb ed="#P" n="17" break="no"/>tur quod tristicias. opposito modo est de fortitudine. 
+          <lb ed="#P" n="18"/>sed ex isto non sequitur quod non sit in medio secundum 
+          <lb ed="#P" n="19"/>dictamen recte rationis.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e273">
+          ¶ Secunda conclusio: 
+          tem<lb ed="#P" n="20" break="no"/>perantia et intemperantia sunt circa delectationes 
+          <lb ed="#P" n="21"/>corporales. hanc probat: temperantia 
+          intempe<lb ed="#P" n="22" break="no"/>rantia non sunt circa delectationes animales: ergo 
+          <lb ed="#P" n="23"/>sunt circa delectationes corporales. antecedens 
+          pa<lb ed="#P" n="24" break="no"/>tet: quia non sunt circa delectationes honoris vel 
+          di<lb ed="#P" n="25" break="no"/>scipline: quia circa illas gaudet mens: nichil 
+          patien<lb ed="#P" n="26" break="no"/>te corpore. nec temperantia et intemperantia sunt 
+          <lb ed="#P" n="27"/>circa delectationes prouenientes amore fabularum: 
+          <lb ed="#P" n="28"/>neque tristantes in pecunia etamicis dicimus intem 
+          <lb ed="#P" n="29"/>peratos / aut temperatos. dicit sic in noua transla 
+          <lb ed="#P" n="30"/>tione: eos enim qui fabulis et narrationibus 
+          delectan<lb ed="#P" n="31" break="no"/>tur: etcirca talia dies consumunt: verbosos atque de 
+          <lb ed="#P" n="32"/>liros: intemperantes autem non consueuimus 
+          ap<lb ed="#P" n="33" break="no"/>pellare. nec eos etiam qui pecuniarum vel 
+          amico<lb ed="#P" n="34" break="no"/>rum causa dolent. a communi vsu potissimum 
+          proce<lb ed="#P" n="35" break="no"/>dit et bene: quia significationem vocabuli virtutis in 
+          <lb ed="#P" n="36"/>quisiturus est.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e312">
+          ¶ Tertia conclusio: non circa omnes 
+          <lb ed="#P" n="37"/>delectationes corporis sunt temperantiaet intem 
+          <lb ed="#P" n="38"/>perantia. probat philosophus illam conclusionem 
+          <lb ed="#P" n="39"/>sic: quia circa delectationes visibilium inquantum 
+          hu<lb ed="#P" n="40" break="no"/>iusmodi non sunt temperantia et intemperantia. de 
+          <lb ed="#P" n="41"/>lectantes in coloribus: figuris: et picturis: non 
+          di<lb ed="#P" n="42" break="no"/>cuntur temperati nec intemperati. Similiter in 
+          de<lb ed="#P" n="43" break="no"/>lectationibus auditus: vt in delectatione cantus: 
+          <lb ed="#P" n="44"/>vel instrumentorum musicorum. Similiter delectam 
+          <lb ed="#P" n="45"/>tes in odoribus: vt in odoribus fructuum et 
+          herba<lb ed="#P" n="46" break="no"/>rum: non dicuntur temperati vel intemperati: nisi 
+          <lb ed="#P" n="47"/>per accidens. licet gaudentes odoribus 
+          pulmento<lb ed="#P" n="48" break="no"/>rum dicuntur temperati vel intemperati per accecdes: 
+          <lb ed="#P" n="49"/>quia per ea fit rememoratio eorum que concupiscunt. 
+          <lb ed="#P" n="50"/>quod probat a signo philosophus: quia quosdam 
+          vi<lb ed="#P" n="51" break="no"/>demus quando esuriunt gaudent odoribus ciborum: 
+          <lb ed="#P" n="52"/>quos concupiscunt.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e349">
+          ¶ Quarta conclusio: temperam 
+          <lb ed="#P" n="53"/>tia et intemperantia sunt circa delectationnens gustus 
+          <lb ed="#P" n="54"/>tactus. hanc probat sic: quia circa delenctationens in 
+          <lb ed="#P" n="55"/>quibus alia animalia communicant cum hominibus 
+          <lb ed="#P" n="56"/>(que seruilest bestiales dicuntur) sunt 
+          temperan<lb ed="#P" n="57" break="no"/>tiat intemperantia. sed delectationes gustus et 
+          ta<lb ed="#P" n="58" break="no"/>ctus sunt huismoni: igitur.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e365">
+          ¶ Quinta conclusio: 
+          tempe<lb ed="#P" n="59" break="no"/>rantia et intemperantia principalius sunt circa 
+          de<lb ed="#P" n="60" break="no"/>lectationes tactus quam gustus. hanc probat philoso 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>phus: quia temperantia et intemperantia 
+          principali<lb ed="#P" n="62" break="no"/>us sunt circa multum delectabilia quam circa parum de 
+          <lb ed="#P" n="63"/>lectabilia. sed que ad tactum pertinent sunt multum 
+          <lb ed="#P" n="64"/>delectabilia: que vero ad gustum parum 
+          oblectamen<lb ed="#P" n="65" break="no"/>ti habent. quod dupliciter probat: et ratione: et siggd. 
+          <lb ed="#P" n="66"/>ratione sic: quia delectatio ipsius gustus (prout gusius 
+          <lb ed="#P" n="67"/>distinguitur contra tactum) in iudicio saporum 
+          con<lb ed="#P" n="68" break="no"/>sistit. sed in tali iudicio parum oblectamenti 
+          capi<lb ed="#P" n="69" break="no"/>unt: qui sic iudicant dato quod sint intemperati: vt patet 
+          <lb ed="#P" n="70"/>de illis qui vina probant: et vinum per os eiiciunt: et 
+          <lb ed="#P" n="71"/>per argimageros et eos qui pulmenta condiunt. in 
+          <lb ed="#P" n="72"/>vsu eorum que ad tactum pertinent plus est 
+          oblectamen<lb ed="#P" n="73" break="no"/>ti. in cibis / potibus / et illecebris plus deiectantur 
+          <lb ed="#P" n="74"/>tam temperati quam intemperati. hoc idem eleganter 
+          <lb ed="#P" n="75"/>a signo probat de quodam pultiuorace (cui 
+          nomen<lb ed="#P" n="76" break="no"/>philoxenus erixius qui orauit iouem ( vt inquit 
+          ho<lb ed="#P" n="77" break="no"/>merus) vt guttur eius gutture gruis fieret longius: 
+          <lb ed="#P" n="78"/>vt cibus in eius gutture diutius remaneret: et dele 
+          <lb ed="#P" n="79"/>ctationem causaret: ergo signum est quod non tantum 
+          <lb ed="#P" n="80"/>in gustu delectabatur / cuius organum est in lingua: 
+          <lb ed="#P" n="81"/>sicut in tactu / cuius organum est in gutture: et in toto 
+          <lb ed="#P" n="82"/>corpore.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e423">
+          ¶ Sexta conclusio: non circa omnes delecta 
+          <lb ed="#P" n="83"/>tiones tactus sunt temperantia intemperantia. patet: 
+          <lb ed="#P" n="84"/>quia non circa delectationes liberalissimas: vt sunt ille 
+          <lb ed="#P" n="85"/>que fiunt in certaminibus per confricationem 
+          ca<lb ed="#P" n="86" break="no"/>lefactionem.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e434">
+          ¶ Contra secundam conclusionem arguitur: 
+          <lb ed="#P" n="87"/>eedem sunt delectationes corperales et animales: ergo 
+          <lb ed="#P" n="88"/>probatio secunde conclusionis est nulla. patet: iste 
+          dele<lb ed="#P" n="89" break="no"/>ctationes que sunt corporales sunt in animali et 
+          corpo<lb ed="#P" n="90" break="no"/>re: ergo sunt animales et corperales.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e445">
+          ¶ Respondetur: varia 
+          <lb ed="#P" n="91"/>est positio super hoc quid senserit aristoteles 
+          per<lb ed="#P" n="92" break="no"/>passibnes animales et corporales. Aliqui dicunt quod 
+          ari<lb ed="#P" n="93" break="no"/>stoteles per delectationes animales / illas intelligit: 
+          <lb ed="#P" n="94"/>quas primo rethorice vocat concupiscentias cum 
+          ra<lb ed="#P" n="95" break="no"/>tione: et per delectationes corporales eas intelligit: 
+          <lb ed="#P" n="96"/>quas illic vocat irrationales: que scilicet nobis insunt 
+          <lb ed="#P" n="97"/>sine preuia ratiocinatione intellectus per naturam 
+          <lb ed="#P" n="98"/>obiecti concupiscibilis et appetitus sensitiui. sed hoc 
+          <lb ed="#P" n="99"/>non videtur verum: quia non omnis concupiscentia de 
+          qua<lb ed="#P" n="100" break="no"/>loquitur philosophus primo rethorice est delecta 
+          <lb ed="#P" n="101"/>tio corporalis. aliquid etiam est concupiscentia sine 
+          ra<lb ed="#P" n="102" break="no"/>tione quod non est delectatio corporalis: vt videre 
+          <lb ed="#P" n="103"/>est de esurie et siti: de quibus illic exemplificat. Aliter 
+          <lb ed="#P" n="104"/>dicunt alii: quod delectationes dicuntur animales que 
+          <lb ed="#P" n="105"/>fiunt nichil patiente corpore causaliter: hoc est sunt 
+          <lb ed="#P" n="106"/>ille delectationes quarum passio corporis non est cam. 
+          <lb ed="#P" n="107"/>ille dicuntur corporales que fiunt patiente 
+          corpo<lb ed="#P" n="108" break="no"/>re: hoc est: quarum passio corporis est cam. Forte 
+          me<lb ed="#P" n="109" break="no"/>lius potest dici: delectationesrvocantur animales 
+          <lb ed="#P" n="110"/>eo quod anime inhesiue inherent: vt leticia et gaudium 
+          <lb ed="#P" n="111"/>mentis: quia potest esse leticia mentis tanta ab 
+          ob<lb ed="#P" n="112" break="no"/>iecto impartibili: vt de deo: secundum illud psalmiste. 
+          <lb ed="#P" n="113"/>Delectare in domno: delectationes vocantur 
+          corpora<lb ed="#P" n="114" break="no"/>leo / quia inherent corpori: hoc est appetitui sensitiuo: 
+          <lb ed="#P" n="115"/>qui est aggregatum ex corpere anima: et per consequens est 
+          <lb ed="#P" n="116"/>extensum: et sic est corpus.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e504">
+          ¶ Secundo arguitur: 
+          delecta<lb ed="#P" n="117" break="no"/>tiones spumales sunt maiores delectationibus 
+          cor<lb ed="#P" n="118" break="no"/>poreis. sed circa delectationes corporeas est 
+          tempe<lb ed="#P" n="119" break="no"/>rantia et intemperantia. ergo et circa delectationes 
+          spi<lb ed="#P" n="120" break="no"/>rituales est temperantia et intemperantia. probatio ma¬ 
+          <pb ed="#P" n="97-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ioris. potentia delectationis spuitalis est persectior 
+          <lb ed="#P" n="2"/>potentia delectationis corporalis. obiectum etiam 
+          <lb ed="#P" n="3"/>cui coniungitur communiter est periectius quam obicctum 
+          cui<lb ed="#P" n="4" break="no"/>coniungitur potentia sensitiua. ergo deleciatio perfe 
+          <lb ed="#P" n="5"/>ctior est / pcrmanentior est / et fiimior. delectatio 
+          <lb ed="#P" n="6"/>corporalis raptim euanescit.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e533">
+          ¶ Ad secundum 
+          conce<lb ed="#P" n="7" break="no"/>do maiorem. de facto delectationes si umalcs sunt 
+          pu<lb ed="#P" n="8" break="no"/>riores / firmiores / et meliores / quam delectationes 
+          cor<lb ed="#P" n="9" break="no"/>horee. lbet propter nos delectatiocs corporales 
+          ma<lb ed="#P" n="10" break="no"/>gis sentiamus / et sunt naturaliores / et ar petantur 
+          <lb ed="#P" n="11"/>tanquam quedam medic. ne comnni ra corporales detecius vel 
+          <lb ed="#P" n="12"/>anguslias. Concedo etiam minorem: sed nego consequen 
+          <lb ed="#P" n="13"/>tiam. bcbet homo in visione ei delectationibus aliquibus 
+          <lb ed="#P" n="14"/>spuimalibus peccare potest: circa illas homines non consue 
+          <lb ed="#P" n="15"/>uerunt vocare temperantiam aut intemperantiam. nec 
+          cir<lb ed="#P" n="16" break="no"/>ca talia moderanda ponendus est habitus virtutis 
+          <lb ed="#P" n="17"/>nominate: quia raro contingunt.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e559">
+          ¶ Contra tertiam 
+          conclusi<lb ed="#P" n="18" break="no"/>onem arguitur sic: intcmperantia est circa sensum visum 
+          <lb ed="#P" n="19"/>videndo formosam mulierem. ergo temperantia est circa 
+          ta<lb ed="#P" n="20" break="no"/>leni visionem moderandam. sed talis vir non delectatur in 
+          <lb ed="#P" n="21"/>visione mulieris ratione visionis: sed quia ordina 
+          <lb ed="#P" n="22"/>tur ad tactum: sicut leo audiendo ceruum.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e573">
+          ¶ Centra: 
+          <lb ed="#P" n="23"/>ergo vir delectabitur magis videndo ethiopissam 
+          <lb ed="#P" n="24"/>dulcis tactus quam valde albam.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e580">
+          ¶ Rnenr: delectatio quae 
+          <lb ed="#P" n="25"/>est in aspectu mulieris pertinet ad tempcrantiam: 
+          <lb ed="#P" n="26"/>quia est in ordine ad tactum.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e587">
+          ¶ Ad obiectionem in 
+          oppo<lb ed="#P" n="27" break="no"/>situm: dicitur: delectatio vel abhominatio alicuius 
+          sen<lb ed="#P" n="28" break="no"/>sus circa obiectumalterius: reddit delectationem 
+          al<lb ed="#P" n="29" break="no"/>terius sensus circa tale obiectum minorem vcl maiorem. 
+          <lb ed="#P" n="30"/>pulchritudomulieris accepta secundum visum: vel cantus 
+          <lb ed="#P" n="31"/>eius acceptus secundum auditum: reddit vsum tactus de 
+          <lb ed="#P" n="32"/>lectabiliorem propter imaginationem: quae uis sin 
+          se<lb ed="#P" n="33" break="no"/>spsam esset minus delectabilis. et patet laudando vel 
+          <lb ed="#P" n="34"/>deprimendo vinum quod apparet melius vel peius: et per consequens 
+          <lb ed="#P" n="35"/>auidius assumitur et melius nutrit.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e609">
+          ¶ Centra quintam 
+          conclusi<lb ed="#P" n="36" break="no"/>onem et eius probationem arguitur sic. illa delectatio est 
+          ma<lb ed="#P" n="37" break="no"/>xima: qua exclusa: omne gaudium cessat. sed talis est delecta 
+          <lb ed="#P" n="38"/>tio secundum visum: vt patet Thobie. v. quaele gaudium er t 
+          mi<lb ed="#P" n="39" break="no"/>chi qui in tenebris sedeo e lumen celi non video. qua 
+          de<lb ed="#P" n="40" break="no"/>lectatio per visum est maxina.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e622">
+          ¶ Secundo arguitur ad idem. 
+          <lb ed="#P" n="41"/>sllud quod maxine quis amat est illi delectabilissimum: vt 
+          <lb ed="#P" n="42"/>dicit phoious. i. Retho. sed int alios sensus maxine 
+          dili<lb ed="#P" n="43" break="no"/>gimus visum: vt patet. i. Metha. igritur.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e631">
+          ¶ Respondetur: vnumquod 
+          <lb ed="#P" n="44"/>que inquantum amatur fit delectabile. sensus ( sicut dicit 
+          <lb ed="#P" n="45"/>phois. i. apetha.) diligitur propter duo: scicet pro pt ccgnitio 
+          <lb ed="#P" n="46"/>nem: et proptur vtilitatem. visi onem primo medo magis 
+          diligi<lb ed="#P" n="47" break="no"/>mus: sed quia tactus est animali magi necessarius: delectatio in 
+          <lb ed="#P" n="48"/>tactu est naturalior: et per consequens maior quam delectatio in 
+          vi<lb ed="#P" n="49" break="no"/>su.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e648">
+          ¶ Dubitatur: an bruta delectentur aliis tribus 
+          sensi<lb ed="#P" n="50" break="no"/>bus a gustu et a tactu: puta sensu visus / audiius / et 
+          ol<lb ed="#P" n="51" break="no"/>factus. et dubitationis ratio est quia Arist. iii. Ethi. x. dicit 
+          <lb ed="#P" n="52"/>quod non nisi de per accedens: pro quanto hi sensus et ecrum 
+          sensa<lb ed="#P" n="53" break="no"/>tiones referuntur ad sensum gustus et tactus. sic inquit. 
+          <lb ed="#P" n="54"/>At qui neque ceta animalia voluptatem nisi per accidens 
+          per<lb ed="#P" n="55" break="no"/>hosce capiunt sensus (per hosce tres alios sersus 
+          inrel<lb ed="#P" n="56" break="no"/>ligit) neque enim odore leporum: sed esu: gaudent canes: 
+          <lb ed="#P" n="57"/>odor autem sensum ferit. neque voce bouis leo: sed esu: 
+          <lb ed="#P" n="58"/>per vocem autem sentit illum esse propinquum: atque hecipso esu 
+          <lb ed="#P" n="59"/>dere videtur. pari modo neque si vidit aut inuenit ceruum / 
+          <lb ed="#P" n="60"/>aut feram / capram hocipso gaudet: sed quia cibum habebit. 
+          <cb ed="#P" n="b"/>
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e677">
+          <lb ed="#P" n="61"/>¶ Confiimatur illud experientia: tulcheirmmis picturis e 
+          <lb ed="#P" n="62"/>figuris non et rrcpiquant bruta: od quae homines 
+          acceden<lb ed="#P" n="63" break="no"/>tes assislunt et cblecianiur. nec deresis / violis / eut 
+          <lb ed="#P" n="64"/>quibuscunque fioribus non esu ccmestibilibus curant: homincs 
+          <lb ed="#P" n="65"/>autem in sensu oliacius gaudent in multi fioribus non rese 
+          <lb ed="#P" n="66"/>rendo ad gi sium e iecium. sic in sensu euditus hominces 
+          gram<lb ed="#P" n="67" break="no"/>de oblecigmiium copiunt: vt vidcre est in caniu sueui: et in 
+          <lb ed="#P" n="68"/>cymbalis benensc nantibus.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e697">
+          ¶ Sed con isiud arguitur. aliquae 
+          <lb ed="#P" n="69"/>aues delectantur in suo cauniu: non refcrendo ed iensum racius 
+          <lb ed="#P" n="70"/>vel gusius. paet detsitaco / siui ro / e euibus latam lincuam 
+          <lb ed="#P" n="71"/>haesentibus ad canencum apati. nec vbt dicere quo hec est 
+          rela<lb ed="#P" n="72" break="no"/>tiue ad sensum tacius: e onatur quod conum auis illa in 
+          auiclu<lb ed="#P" n="73" break="no"/>dio rimquam cxprata est. similit geudet in cantu humano vt 
+          vi<lb ed="#P" n="74" break="no"/>deie est in sii ino quem canere doces. Similitur cum 
+          au<lb ed="#P" n="75" break="no"/>diuntur ccrnua venatc ut canes deleciantur. et 
+          alcmera<lb ed="#P" n="76" break="no"/>tim cum delectaticn e cxtiore ad venandum se praeparant 
+          ci<lb ed="#P" n="77" break="no"/>bo relicto. similitur pauo delectatur videndo suam caudam 
+          <lb ed="#P" n="78"/>prorinea eam erigit in conspcciu vcnientium. Similitur 
+          olor<lb ed="#P" n="79" break="no"/>morittrus suauissime canit. et rc nrefert ad cussum et 
+          <lb ed="#P" n="80"/>ad ractum. quod sic canat patet per ouidiu in epla didonis ed 
+          <lb ed="#P" n="81"/>acncam dicentem. Sic vbi fata vocant vdis abiectus in 
+          vn<lb ed="#P" n="82" break="no"/>dis. Ad vada meandri concinit albus olor. Sic 
+          dulcedi<lb ed="#P" n="83" break="no"/>ne cantus in cquno decipitur perdix ab hecine: secundum quod dici solet 
+          <lb ed="#P" n="84"/>Fistula dulce canit volucrem dum decipit aucecps. 
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e734">
+          <lb ed="#P" n="85"/>¶ Ad has raties pstest dari rasponsienes quilescumque. De 
+          pa<lb ed="#P" n="86" break="no"/>ucne dicctur / non gaudet quia visionem habet in pulchris 
+          plu<lb ed="#P" n="87" break="no"/>mis. quod patet: quia tunc tantum gauderet videndo pulcras 
+          plu<lb ed="#P" n="88" break="no"/>mas alterius pauondis: sed quia habet talcs plumas. etiam 
+          re<lb ed="#P" n="89" break="no"/>latiue hoc facit: quia tmpore coitus vel in paspontia galline. 
+          De<lb ed="#P" n="90" break="no"/>canibus dir: cantur quidam pruriius in ec rum auribus gratia cuius 
+          de<lb ed="#P" n="91" break="no"/>lectantur: et similiter in auibus.
+        </p>
+        <p xml:id="jm3cbb-e58847-d1e752">
+          ¶ Eecundo melius est datre quod 
+          <lb ed="#P" n="92"/>regularitr illud est vcrum: et comnius. interdum tamen aliqm bruta 
+          ob<lb ed="#P" n="93" break="no"/>lectamentum in aliis sensibus capiunt quae in tactu et in grsiu. 
+          <lb ed="#P" n="94"/>sic Petrus ebanensis in emento. xxviii. particula 
+          probleu<lb ed="#P" n="95" break="no"/>matum Aristotelis. probleumate penultimo ex istimas.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="121-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e74157"><!-- l3d37q8 -->
+        <head xml:id="jm3cbb-e74157-Hd1e99">Quaestio 8</head>
+        <head xml:id="jm3cbb-e74157-Hd1e101" type="question-title">An sit aliquis actus praecepti ut odium Dei vel alius
+    necessario malus</head>
+        <p xml:id="jm3cbb-e74157-d1e104">
+          <lb ed="#P" n="41"/>OCtauo queritur: an 
+          <lb ed="#P" n="42"/>sit aliquis actus / precepti vt 
+          odi<lb ed="#P" n="43" break="no"/>um dei vel alius necessario 
+          ma<lb ed="#P" n="44" break="no"/>us.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e115">
+          ¶ Respondetur per 
+          conclusio<lb ed="#P" n="45" break="no"/>nes: Quarum prima est: nullus est 
+          <lb ed="#P" n="46"/>actus necessario malus. probatur: si 
+          <lb ed="#P" n="47"/>aliquis actus esset necessario 
+          <lb ed="#P" n="48"/>malus maxime esset odium dei: sed consequens est falsum: 
+          er<lb ed="#P" n="49" break="no"/>go et antecedens. consequentia patet: non est dabilis actus peioris 
+          <lb ed="#P" n="50"/>malicie. antecedens patet: odium dei necessario est actus 
+          <lb ed="#P" n="51"/>malus: ergo odium dei necessario est: sed consequens est 
+          fal<lb ed="#P" n="52" break="no"/>sum: quaelibet creatura contingenter est.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e135">
+          ¶ Secunda 
+          conclu<lb ed="#P" n="53" break="no"/>sio: odium dei potest esse et non esse actus malus. 
+          proba<lb ed="#P" n="54" break="no"/>tur hec conclusio: odium dei deus potest producere extra 
+          <lb ed="#P" n="55"/>subdunmum se solo: probatur: quicquid deus potest producere 
+          medi<lb ed="#P" n="56" break="no"/>ante causa secunda illud deus potest producere se solo: 
+          <lb ed="#P" n="57"/>odium dei deus potest producere mediante cam secum 
+          <lb ed="#P" n="58"/>da: ergo odium dei deus potest producere se solo: qui 
+          <lb ed="#P" n="59"/>facto: odium dei non fiet male: nec erit actus malus. 
+          <cb ed="#P" n="b"/>
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e156">
+          <lb ed="#P" n="60"/>¶ Tertia conclusio: non est possibile quod odium dei 
+          be<lb ed="#P" n="61" break="no"/>ne fiat in voluntate creata. probatur hec conclusio: aliqui 
+          <lb ed="#P" n="62"/>sunt actus intrinsece mali ad sensum huius tertie 
+          <lb ed="#P" n="63"/>conclusionis: sed tales non possunt bene fieri in volum 
+          <lb ed="#P" n="64"/>tate creata. quod aliqui tales sint patet: aliqua sunt que 
+          <lb ed="#P" n="65"/>habent inuolutam maliciam secundo Ethicorum.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e172">
+          ¶ 
+          Se<lb ed="#P" n="66" break="no"/>cundo per distinctionem magistralem: aliquae sunt mala quia 
+          <lb ed="#P" n="67"/>prohibita: aliqua sunt prohibita quia mala: hoc est: habet 
+          <lb ed="#P" n="68"/>maliciam intrinsecam seclusa omi prohibitione 
+          huma<lb ed="#P" n="69" break="no"/>na. Unde Aug. primo de libero arbitrio. c. iii. 
+          adul<lb ed="#P" n="70" break="no"/>terium non ideo malum est quia vetatur lege: sed ideo 
+          ve<lb ed="#P" n="71" break="no"/>tatur lege quia malum est. Simile dicit glo. Aug. 
+          su<lb ed="#P" n="72" break="no"/>per illud Leuitici. xix. Non facietis furtum / non 
+          men<lb ed="#P" n="73" break="no"/>tiemini: quia iniustum erat mendacium idoo est 
+          prohibi<lb ed="#P" n="74" break="no"/>tum: non quia prohibitum ideo est iniustum.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e194">
+          ¶ 
+          Ter<lb ed="#P" n="75" break="no"/>tio arguitur: actus quo sortes vult facere contra 
+          pre<lb ed="#P" n="76" break="no"/>ceptum dei de necessitate est malus. bene sequitur: 
+          <lb ed="#P" n="77"/>est contra praeceptum dei ergo est malus. Dicis: non 
+          opor<lb ed="#P" n="78" break="no"/>tet quod actus terminatus ad hoc totum / contra 
+          pre<lb ed="#P" n="79" break="no"/>ceptum: sit malus: quia stat quod nullum sit preceptum. si 
+          <lb ed="#P" n="80"/>ego velim comedere caseum: per hanc volitionem 
+          <lb ed="#P" n="81"/>volo comedere hunc caseum contra preceptum 
+          supe<lb ed="#P" n="82" break="no"/>rioris: vbi nullum esset / non esset peccatum. licet hec 
+          con<lb ed="#P" n="83" break="no"/>sequentia est bona / ego facio contra praeceptum 
+          obli<lb ed="#P" n="84" break="no"/>gans superioris ergo pecco. non tamen sequitur: volo 
+          fa<lb ed="#P" n="85" break="no"/>cere contra preceptum superioris. ergo volitio 
+          mea<lb ed="#P" n="86" break="no"/>est mala. stat quod non sit praeceptum contra in aliquibus 
+          <lb ed="#P" n="87"/>est praeceptum indicatiuum e internum.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e225">
+          ¶ Quarto: 
+          ho<lb ed="#P" n="88" break="no"/>micidium est peius furto non habendo oculum ad 
+          pro<lb ed="#P" n="89" break="no"/>hibitionem exteriorem. non est differentia in prohibitone. 
+          <lb ed="#P" n="90"/>Exodi. xx. dicitur: non occides: non furtum facies 
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e234">
+          <lb ed="#P" n="91"/>¶ Sed dicis: constat nobis homicidium esse furto 
+          pe<lb ed="#P" n="92" break="no"/>ius per legem scriptam vel in papiro vel in corde nostro. 
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e241">
+          <lb ed="#P" n="93"/>¶ Contra: ex hoc habetur propositum quod 
+          homicidi<lb ed="#P" n="94" break="no"/>um est peius lege extrinseca quaelibet seclusa.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e249">
+          ¶ Quin 
+          <lb ed="#P" n="95"/>to hoc probatur in articulis parisiensibus 
+          posterio<lb ed="#P" n="96" break="no"/>ribus: vbi sic dicitur quod odium proximi non est 
+          demeri<lb ed="#P" n="97" break="no"/>torium nisi quia prohibitum a deo: error.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e258">
+          ¶ Dicis: 
+          odi<lb ed="#P" n="98" break="no"/>um biphariam capitur. Uno modo pro tali quaelitate: et 
+          <lb ed="#P" n="99"/>sic hec qualitas etiam in esse odii potest bene fieri 
+          <lb ed="#P" n="100"/>Alio modo implicat circunstantiam inordinatam: et 
+          <lb ed="#P" n="101"/>tunc male fit: non autem primo modo. vel articulus 
+          loqui<lb ed="#P" n="102" break="no"/>tur de potentia dei ordinata. sleutrum istorum valet: 
+          <lb ed="#P" n="103"/>circa inordinationem iste terminus odium nihil plus 
+          con<lb ed="#P" n="104" break="no"/>notat quam iste terminus homicidium. sed vnum non 
+          po<lb ed="#P" n="105" break="no"/>test ordinate fieri. ergo nec secundum. articuli non 
+          so<lb ed="#P" n="106" break="no"/>lent esse conditi nisi in materia ancipiti. nemo 
+          sapi<lb ed="#P" n="107" break="no"/>ens dubitauit vnquam de hoc loquendo secundum legem 
+          <lb ed="#P" n="108"/>dei ordinatam.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e284">
+          ¶ Contra secundam conclusionem 
+          ar<lb ed="#P" n="109" break="no"/>guitur: producat ergo deus odium dei se solo. odium 
+          <lb ed="#P" n="110"/>dei non male fit: et fit a deo: ergo bene fit. non est actus 
+          <lb ed="#P" n="111"/>moraliter malus si a solo deo producatur: et est acis: 
+          <lb ed="#P" n="112"/>ergo est actus moraliter bonus.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e295">
+          ¶ Respondetur: odium 
+          <lb ed="#P" n="113"/>dei deus potest producere se solo: sed non admitto 
+          <lb ed="#P" n="114"/>hanc de inesse / odium dei deus producit se solo. no 
+          <lb ed="#P" n="115"/>tum est quod illa non est de inesse alterius: sed hoc deus 
+          <lb ed="#P" n="116"/>producit se solo. sed quando illam qualitatem producit se solo: 
+          <lb ed="#P" n="117"/>non est actus malus moraliter nec bonus moraliter: 
+          <lb ed="#P" n="118"/>cum non est in subiecto quod denominare potest 
+          <lb ed="#P" n="119"/>bonum vel malum. bene est bonus actus entitatiue: 
+          <pb ed="#P" n="122-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>et bene fit.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e319">
+          ¶ Contra tertiam conclusionem arguitur sic: 
+          <lb ed="#P" n="2"/>odium dei potest esse in sompniante vel demente: et 
+          <lb ed="#P" n="3"/>tunc non male fit: ergo etiam in homine sano: quia non 
+          <lb ed="#P" n="4"/>est ex se et essentialiter et necessario viciosus et 
+          in<lb ed="#P" n="5" break="no"/>iustus: cum in furioso sit non iniustus: igitur in quo 
+          <lb ed="#P" n="6"/>libet potest esse et non esse culpabilis.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e332">
+          ¶ 
+          Respon<lb ed="#P" n="7" break="no"/>detur: transeat quod in sompniante potest esse talis actus: 
+          <lb ed="#P" n="8"/>sed non erit liber: et sic in furioso. per consequens non est ille 
+          <lb ed="#P" n="9"/>malus neque bonus: vt de iudiciis in intellectu in 
+          somdp<lb ed="#P" n="10" break="no"/>nis habitis: vel voluntatis actibus ex magnis 
+          ha<lb ed="#P" n="11" break="no"/>bitibus in sompniante cum apprehensione preuia 
+          geni<lb ed="#P" n="12" break="no"/>tis. sed non sequitur propterea quin erit actus malus 
+          <lb ed="#P" n="13"/>in vtente ratione. et concedo quod non est necessario 
+          vi<lb ed="#P" n="14" break="no"/>ciosus et iniustus: sicut dicunt due prime conclusiones. 
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e353">
+          <lb ed="#P" n="15"/>¶ Secundo arguitur: deus odium dei potest 
+          produ<lb ed="#P" n="16" break="no"/>cere se solo: vt ex conclusione secunda patet. ergo se 
+          <lb ed="#P" n="17"/>solo potest odium dei producere in voluntatem. patet: 
+          <lb ed="#P" n="18"/>potest enim deus illani qualitatem producere extra 
+          <lb ed="#P" n="19"/>subiectum: ergo a fortiore in subiecto. ad primum est 
+          <lb ed="#P" n="20"/>maius miraculum quam ad secundum. et tunc sic: potest 
+          <lb ed="#P" n="21"/>se solo producere odium in voluntatem creatam mediante 
+          <lb ed="#P" n="22"/>quo voluntas creata tendit in deum ipsum odiendo: 
+          <lb ed="#P" n="23"/>et talis actus non est malus moraliter: quia non a 
+          cre<lb ed="#P" n="24" break="no"/>tura malus: cum non est in libera ptante eius: cum 
+          nul<lb ed="#P" n="25" break="no"/>lam efficientiam habet respectu illius odii.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e379">
+          ¶ Forte dicis: 
+          <lb ed="#P" n="26"/>tunc non erit odium dei si a solo deo producatur.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e384">
+          ¶ 
+          Con<lb ed="#P" n="27" break="no"/>tra hoc arguitur: illa qualitas naturaliter tendit in 
+          <lb ed="#P" n="28"/>deum nolendo eum esse: vel nolendo ei bene esse: 
+          <lb ed="#P" n="29"/>ergo hoc representat quaetienscumque est in potentia 
+          ap<lb ed="#P" n="30" break="no"/>petitiua.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e395">
+          ¶ Confirmatur pondus huius rationis. 
+          <lb ed="#P" n="31"/>deus potest partialiter producere odium dei in 
+          volun<lb ed="#P" n="32" break="no"/>tate odientis deum: alioquin creatura nulla posset de 
+          <lb ed="#P" n="33"/>um odire: ergo deus / potest se solo odium producere in idem 
+          <lb ed="#P" n="34"/>passum supplendo causalitatem effectiuam creature. 
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e406">
+          <lb ed="#P" n="35"/>¶ Tertio arguitur: deus potest omne illud facere 
+          <lb ed="#P" n="36"/>quod non includit condictionem. sed deum illam qualitatem 
+          <lb ed="#P" n="37"/>producere se solo nullam includit condictionem: et 
+          volun<lb ed="#P" n="38" break="no"/>tatem illam qualitatem in se suscipere non implicat: 
+          er<lb ed="#P" n="39" break="no"/>go odium dei in voluntate producila deo est 
+          possibi<lb ed="#P" n="40" break="no"/>le.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e422">
+          ¶ Quarto arguitur. odiat sortes deum deo 
+          concur<lb ed="#P" n="41" break="no"/>rente influentia sua generali ad essentiam odii. deus 
+          <lb ed="#P" n="42"/>potest conseruare illud odium se solo voluntate 
+          crea<lb ed="#P" n="43" break="no"/>ta nullam actionem vel conseruationem habente: quo 
+          <lb ed="#P" n="44"/>facto: odium dei non male fiet sed bene fiet: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e434">
+          <lb ed="#P" n="45"/>¶ Ad secundum conceditur quod odium dei deus potest 
+          pro<lb ed="#P" n="46" break="no"/>ducere se solo. sed deus non potest producere odium 
+          <lb ed="#P" n="47"/>dei se solo. et concedo quod possibile est deum 
+          produce<lb ed="#P" n="48" break="no"/>re illam qualitatem se solo sed non potest ipsam pro 
+          <lb ed="#P" n="49"/>ducere se solo in aliquod. primo non potest ipsum 
+          pro<lb ed="#P" n="50" break="no"/>ducere in subiectum spirituale: quia tunc esset odium 
+          <lb ed="#P" n="51"/>si tendentiam in obiectum non impediat: et sic deus 
+          <lb ed="#P" n="52"/>produceret odium dei se solo. nec illam qualitatem 
+          <lb ed="#P" n="53"/>potest producere in subiectum corporeum. probatio: 
+          ca<lb ed="#P" n="54" break="no"/>lor et accidens corporeum non potest inherere anime 
+          <lb ed="#P" n="55"/>vel angelo: ergo pari ratione nec accidens spiritu 
+          <lb ed="#P" n="56"/>ale potest inherere subiecto corporeo. antecedens patet: quia 
+          <lb ed="#P" n="57"/>dato eius opposito sequitur quod accidens tale erit 
+          <lb ed="#P" n="58"/>infinite intensionis: quod non est concedendum: patet: 
+          ca<lb ed="#P" n="59" break="no"/>pio albedinem in a. subiecto pedali vniformiter 
+          al<lb ed="#P" n="60" break="no"/>bo vt. iiii. si tota illa albedo poneretur in medieta 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>te illius pedalis: albedo eritintensa vt. viii. et 
+          rur<lb ed="#P" n="62" break="no"/>sus si tota illa albedo poneretur in vna quarta 
+          illi<lb ed="#P" n="63" break="no"/>us corporis: erit albedo intensa vt. xvi. et sic consequem 
+          <lb ed="#P" n="64"/>ter: ergo cum tota illa ponetur in subiecto 
+          impartibi<lb ed="#P" n="65" break="no"/>li: quaelibet pars erit cum qualibet parte in eodem 
+          subie<lb ed="#P" n="66" break="no"/>cto primo: ergo tota albedo erit infinite intensa. 
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e486">
+          <lb ed="#P" n="67"/>¶ Confirmatur hec ratio: si albedo extensa posset 
+          <lb ed="#P" n="68"/>poni in subiecto impartibili: pari ratione accidens 
+          <lb ed="#P" n="69"/>spirituale potest extendi in subiecto extenso: sic quod erit 
+          <lb ed="#P" n="70"/>qualitas extensa vniformis: per consequens nunc actu 
+          quod<lb ed="#P" n="71" break="no"/>libet accidens spirituale est infinite intensum: quod 
+          <lb ed="#P" n="72"/>a nullo nisi ab imprudenti est concedendum. patet: si 
+          to<lb ed="#P" n="73" break="no"/>ta illa qualitas extensa rursus poneretur in 
+          subie<lb ed="#P" n="74" break="no"/>cto impartibili esset infinite intensa: et tante 
+          intensio<lb ed="#P" n="75" break="no"/>nis est illa qualitas spiritualis nunc: cum potest 
+          exten<lb ed="#P" n="76" break="no"/>di: igitur. Nego ergo quod sit idem producere illam 
+          qua<lb ed="#P" n="77" break="no"/>litatem extra subiectum et in subiect o.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e512">
+          ¶ Ad 
+          con<lb ed="#P" n="78" break="no"/>firmationem concedo antecedens: et nego consequentiam. quod ad 
+          odi<lb ed="#P" n="79" break="no"/>um dei deus partialiter concurrat: non cadit in dubium. 
+          <lb ed="#P" n="80"/>quod producat odium dei se solo: negetur ex argumento 
+          <lb ed="#P" n="81"/>et per rationes ad conclusionem adductas.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e523">
+          ¶ Ad 
+          ter<lb ed="#P" n="82" break="no"/>tium concedo maiorem: et ad minorem: concedo quod non in 
+          <lb ed="#P" n="83"/>celudit contradictionem deum illam qualitatem se 
+          so<lb ed="#P" n="84" break="no"/>lo producere: nec implicat voluntatem illam 
+          quali<lb ed="#P" n="85" break="no"/>tatem suscipere. quando voluntas partialitur concurrit. illam 
+          <lb ed="#P" n="86"/>qualitatem suscipit. sed contradictionem implicat quod deus 
+          <lb ed="#P" n="87"/>se solo illam qualitatem in voluntatem producat. deus 
+          <lb ed="#P" n="88"/>non potest producere illud quod est essentialiter malum / 
+          <lb ed="#P" n="89"/>in tali esse: puta in esse odii.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e543">
+          ¶ Ad quartum nego quod 
+          <lb ed="#P" n="90"/>deus potest conseruare odium dei se solo plusquam primo 
+          pro<lb ed="#P" n="91" break="no"/>ducere odium dei se solo.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e550">
+          ¶ Quinto arguitur: odium 
+          <lb ed="#P" n="92"/>dei potest esse maius peccatum et minus peccatum: 
+          <lb ed="#P" n="93"/>ergo pari forma potest esse non peccatum. antecedens 
+          pa<lb ed="#P" n="94" break="no"/>tet: deus potest prohibere odium dei sub pena maiore 
+          <lb ed="#P" n="95"/>quam iam prohibeat: sicut facit de actibus qui non essent 
+          <lb ed="#P" n="96"/>mali: nisi quia prohibiti: et postea potest odium dei 
+          pro<lb ed="#P" n="97" break="no"/>hibere sub penaminore: igitur.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e567">
+          ¶ Sexto arguitur: 
+          <lb ed="#P" n="98"/>aliqua circunstantia potest diminuere vnam portionem 
+          <lb ed="#P" n="99"/>malicie odii dei: et alia circunstantia tantum malicie odii 
+          <lb ed="#P" n="100"/>diminuere potest: et tota malicia odii est finita: ergo 
+          <lb ed="#P" n="101"/>tot circustantie (bone vel male non curo) peccati 
+          dimi<lb ed="#P" n="102" break="no"/>nutiue dari possunt: quod nulla malicia in odio dei 
+          re<lb ed="#P" n="103" break="no"/>linquetur.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e583">
+          ¶ Forte dicis: multiplicatio 
+          circunstantia<lb ed="#P" n="104" break="no"/>rum talis dari potest quod tota malicia ex 
+          circunstan<lb ed="#P" n="105" break="no"/>tiis proueniens diminui potest: sed non sequitur quod 
+          ma<lb ed="#P" n="106" break="no"/>licia intrinseca odii potest diminui.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e592">
+          ¶ Contra hoc 
+          <lb ed="#P" n="107"/>arguitur: malicia odii ydemptificatur cum essentia actus. 
+          <lb ed="#P" n="108"/>tota malicia sicut e odii essentia est finitatam in 
+          gra<lb ed="#P" n="109" break="no"/>du entitatiuo quam in gradu malicie: signetur tota 
+          ma<lb ed="#P" n="110" break="no"/>licia et sit gratia exempli vt octo: vna circunstantia 
+          <lb ed="#P" n="111"/>potest vnum gradum malicie tollere ab odio dei: et 
+          <lb ed="#P" n="112"/>si vna non sufficiat / dari possunt due circunstantie 
+          <lb ed="#P" n="113"/>vel plures sufficientes tollere vnum gradum 
+          mali<lb ed="#P" n="114" break="no"/>cie illius odii: tunc tota malicia erit vt. vii. 
+          Lur<lb ed="#P" n="115" break="no"/>sus: cum tota malicia est grauis vt septem: dari 
+          pos<lb ed="#P" n="116" break="no"/>sunt circunstantie finite qua tollere possunt alium gradum: 
+          <lb ed="#P" n="117"/>sic scilicet: quod tota malicia erit grauis vt sex: et sic consequenter 
+          <lb ed="#P" n="118"/>calculando ad non gradum malicie inclusiue. facile 
+          <lb ed="#P" n="119"/>est argumentum ducere: vt tuipse percipis.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e623">
+          ¶ 
+          Se<lb ed="#P" n="120" break="no"/>ptimo arguitur: deus contingenter omne peccatum puniti 
+          <pb ed="#P" n="122-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ergo potest non punire odium dei: ponatur ita 
+          es<lb ed="#P" n="2" break="no"/>se: et tunc sic: odio dei nulla respondet pena: ergo 
+          <lb ed="#P" n="3"/>odium dei non est malum: vel alicui malo nulla 
+          re<lb ed="#P" n="4" break="no"/>spondet pena.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e641">
+          ¶ Ad quiantum concedo antcedens. licet 
+          mali<lb ed="#P" n="5" break="no"/>cia naturalis et intrinseca non varietur: actus 
+          indif<lb ed="#P" n="6" break="no"/>ferens ad bonum et ad malum propter praeceptum vel 
+          pro<lb ed="#P" n="7" break="no"/>hibitionem superioris efficitur malus. sic vnus actus 
+          ma<lb ed="#P" n="8" break="no"/>lus proptur prohibitionem positiuam superuenientem potest 
+          <lb ed="#P" n="9"/>esseipeior. et illa prohibitio positiua potest aufe rri: 
+          <lb ed="#P" n="10"/>et tunc actus erit minus malus.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e657">
+          ¶ Ad sextum 
+          respon<lb ed="#P" n="11" break="no"/>sum est sufficienter inter arguendum ad illam 
+          repli<lb ed="#P" n="12" break="no"/>cam vsque: sit tota malicia in sua latitudine intensa 
+          <lb ed="#P" n="13"/>vt octo. multe circunstantie possunt vnum gradum 
+          <lb ed="#P" n="14"/>malicie illius actus diminuere: hoc negatur: 
+          quamdiu<lb ed="#P" n="15" break="no"/>homo vtitur ratione. non cadit ignorantia 
+          inuinci<lb ed="#P" n="16" break="no"/>bilis in vtente ratione respectu odii dei. non video 
+          <lb ed="#P" n="17"/>qua circunstantie possunt diminuere vnum gradum 
+          <lb ed="#P" n="18"/>malicie illius actus tali ratione stante. quod si ponas / 
+          <lb ed="#P" n="19"/>decrescat ratio: tunc minus peccabit: et ita de aliis 
+          <lb ed="#P" n="20"/>circunstantiis. Dico: si a decremento rationis 
+          vel<lb ed="#P" n="21" break="no"/>aliis circunstantiis attenuetur malicia illius actus: 
+          <lb ed="#P" n="22"/>semper stabit malicia quousque nichil rationis sit in 
+          <lb ed="#P" n="23"/>tali. quemadmodum quamdiu est resistentia in medio 
+          gra<lb ed="#P" n="24" break="no"/>ue simplex positum in eo successiue descendet. sed quam 
+          <lb ed="#P" n="25"/>primum nichil resistentie in medio sit: descendet 
+          su<lb ed="#P" n="26" break="no"/>bito. sic quandiu aliquid rationis sit in eliciente / 
+          sem<lb ed="#P" n="27" break="no"/>per erit aliqua malicia in odio dei: licet minor et 
+          <lb ed="#P" n="28"/>minor propter circunstantiam:t sic per calculationem 
+          <lb ed="#P" n="29"/>non habetur odium dei licitum in vtente ratione. 
+          ar<lb ed="#P" n="30" break="no"/>gumentum est sophisticum: et concluderet si aliquid 
+          va<lb ed="#P" n="31" break="no"/>leret nunc de lege quod aliquod ob causam est vel esse potest 
+          <lb ed="#P" n="32"/>non malum: quod concedit nemo. difficultas in 
+          argumen<lb ed="#P" n="33" break="no"/>to prouenit ex parte calculationis sophistice 
+          apparen<lb ed="#P" n="34" break="no"/>tis et non existentis.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e713">
+          ¶ Ad septimum concedo quod deus 
+          <lb ed="#P" n="35"/>contingenter punit odium dei pena inflicta a peccato 
+          dis<lb ed="#P" n="36" break="no"/>luncta: et potest ipsum non punire. sed ex non punitio 
+          <lb ed="#P" n="37"/>ne dei non sequitur quod actus sit bonus vel indifferens 
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e722">
+          <lb ed="#P" n="38"/>¶ Octauo arguitur: deus non necessitatur 
+          prohibe<lb ed="#P" n="39" break="no"/>re odium dei: ergo odium dei potest esse non prohibitum: ergo 
+          <lb ed="#P" n="40"/>possibile est odium dei bene fieri in creatura ratio 
+          <lb ed="#P" n="41"/>nali ratione vtente.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e733">
+          ¶ Nono: deus potest facere 
+          ali<lb ed="#P" n="42" break="no"/>quem actum peiorem odio quem potest facere bonum: 
+          <lb ed="#P" n="43"/>ergo potest facere odium dei bonum.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e740">
+          ¶ Ad octauum 
+          <lb ed="#P" n="44"/>concedo quod deus non necessitatur prohibere odium dei 
+          prohi<lb ed="#P" n="45" break="no"/>bitione externaet imperatiua. prohibetur tamen 
+          prohibi<lb ed="#P" n="46" break="no"/>tione internaet iudicatiua. sicut de necessitate deus 
+          <lb ed="#P" n="47"/>iudicat se esse: ita iudicat odium dei non esse bonum: 
+          <lb ed="#P" n="48"/>et si sic: est malum.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e753">
+          ¶ Ad nonum negatur quod deus 
+          pos<lb ed="#P" n="49" break="no"/>set facere peiorem actum ex genere quad odium dei. sicut 
+          <lb ed="#P" n="50"/>non potest facere meliorem ex genere dilectione dei. 
+          <lb ed="#P" n="51"/>potest tamen sub maiori pena infligibili alium actum 
+          <lb ed="#P" n="52"/>prohibere.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e764">
+          ¶ Secundo: dato quod ita esset sicut 
+          argumen<lb ed="#P" n="53" break="no"/>tum assumit consequentia est nulla homicidium est actus 
+          pe<lb ed="#P" n="54" break="no"/>ior quad mendacium: et tamen deus potest facere 
+          homici<lb ed="#P" n="55" break="no"/>dium actum non malum: non autem mendacium.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e774">
+          ¶ 
+          Deci<lb ed="#P" n="56" break="no"/>mo arguitur: deus potest producere se solo odium 
+          pla<lb ed="#P" n="57" break="no"/>tonis in voluntatem sortis: et praecipere sorti 
+          plato<lb ed="#P" n="58" break="no"/>tonem odire: ergo similitur potest facere respectu odii 
+          <lb ed="#P" n="59"/>sui. antecedeus patet: deus potest praecipere sorti 
+          occi<lb ed="#P" n="60" break="no"/>dere platonem sine platonis culpa: et velle platonemn 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>non esse sicut fecit Albrahe respectu Isaac.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e792">
+          ¶ Unde 
+          <lb ed="#P" n="62"/>cimo arguitur: de odio dei / lex indicatiua non est 
+          ve<lb ed="#P" n="63" break="no"/>ra nisi quia odium dei est peccatum. hoc dictamen / de 
+          <lb ed="#P" n="64"/>us non est odiendus non est verum nisi quia odium dei in 
+          <lb ed="#P" n="65"/>se est malum. ipsum esse malum est causa vericatis 
+          <lb ed="#P" n="66"/>illius dictaminis ab eo quod res est vel non est oratio 
+          <lb ed="#P" n="67"/>dicitur vera vel falsa: ergo prius natura odium 
+          dei<lb ed="#P" n="68" break="no"/>est peccatum quod illud dictamen sit verum. si deus 
+          precipe<lb ed="#P" n="69" break="no"/>ret sorti occidere platonem sine culpa platonis: et 
+          sor<lb ed="#P" n="70" break="no"/>tes nollet platonem esse: in illo casu esset licitum 
+          sor<lb ed="#P" n="71" break="no"/>ti: et nullo modo odium platonis. etiam non est idem 
+          <lb ed="#P" n="72"/>de odio purihomnis et dei.
+        </p>
+        <p xml:id="jm3cbb-e74157-d1e818">
+          ¶ Ad vndecimum dicitur: 
+          <lb ed="#P" n="73"/>odium dei est malum quia contra hoc dictamemn necessarium / 
+          <lb ed="#P" n="74"/>deus non est odiendus. hec causalis communiter 
+          conce<lb ed="#P" n="75" break="no"/>ditur: ergo causam consequentis aliquo modo antecedens 
+          im<lb ed="#P" n="76" break="no"/>portat. et quando arguitur: hoc d ctamemn est verum quia 
+          <lb ed="#P" n="77"/>ita est sicut per illud dictamen significatur. nego hanc 
+          <lb ed="#P" n="78"/>propoationem. hoc dictamen non est verum quia peccatum est 
+          <lb ed="#P" n="79"/>peccatum: immo ille actus est peccatum quia contra hoc 
+          di<lb ed="#P" n="80" break="no"/>ctamen necessarium: secus est in conditionali vel rationali.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

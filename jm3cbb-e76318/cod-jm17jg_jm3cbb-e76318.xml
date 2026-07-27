@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 11</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 11</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="125-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e76318"><!-- l3d37q11 -->
+        <head xml:id="jm3cbb-e76318-Hd1e99">Quaestio 11</head>
+        <head xml:id="jm3cbb-e76318-Hd1e101" type="question-title">An omnia praecepta decalogi sint de lege naturae</head>
+        <p xml:id="jm3cbb-e76318-d1e104">
+          <lb ed="#P" n="32"/>QUeritur undecimo. 
+          <lb ed="#P" n="33"/>an omnia precepta decalogi sint 
+          <lb ed="#P" n="34"/>de lege nature.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e113">
+          ¶ Respondetur 
+          <lb ed="#P" n="35"/>ad questionem primo aliqua 
+          pre<lb ed="#P" n="36" break="no"/>mittendo: secundo conclusiue 
+          re<lb ed="#P" n="37" break="no"/>spondendo ad questionis titulum. 
+          <lb ed="#P" n="38"/>Aliquid dir duobus modis esse de 
+          <lb ed="#P" n="39"/>lege nature. Primo modo propriissime quando est 
+          prin<lb ed="#P" n="40" break="no"/>cipium practicum euidens ex terminis vel conclusio inde 
+          <lb ed="#P" n="41"/>euidenter deducta apud omnes ratione vtentes. Secundo 
+          <lb ed="#P" n="42"/>modo aliquid dicitur esse de lege nature quando est 
+          princi<lb ed="#P" n="43" break="no"/>pium practicum euidens ex terminis vel conclusio 
+          <lb ed="#P" n="44"/>inde euidenter deducta apud omne sanum ingenium / 
+          <lb ed="#P" n="45"/>et non corruptum per prauam consuetudinem / vel ipsum est 
+          <lb ed="#P" n="46"/>obtusum. non voco illud de lege nature quia est 
+          ma<lb ed="#P" n="47" break="no"/>gis consonum legi nature proprie dicte quam suum 
+          opposi<lb ed="#P" n="48" break="no"/>tum: quia illud non est de lege nature.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e146">
+          ¶ Secundo 
+          nota<lb ed="#P" n="49" break="no"/>bis quod <name xml:id="jm3cbb-e76318-Nd1e150">frater robertus holhot</name> quaestione. iiii. sui primi
+          <lb ed="#P" n="50"/>tenet quod hec non est euidens / deus est super omnia 
+          diligen<lb ed="#P" n="51" break="no"/>dus. dicit tamen quod hec conditionalis est euidens et 
+          demon<lb ed="#P" n="52" break="no"/>strabilis / si deus est deus est super omnia diligendus. 
+          La<lb ed="#P" n="53" break="no"/>tio sua est hec: quia significatum et conceptus quem 
+          habe<lb ed="#P" n="54" break="no"/>mus de deo est / quod sit vnum creans / et conseruans 
+          li<lb ed="#P" n="55" break="no"/>bere omnia / ad cuius non esse sequitur non esse omnim sine quo 
+          <lb ed="#P" n="56"/>nichil possumus / et cetera bona que de deo 
+          conce<lb ed="#P" n="57" break="no"/>pimus. Unde sic arguit. illud est summe diligendum 
+          <lb ed="#P" n="58"/>ab homine quod scitur ab eo esse summum bonum 
+          <lb ed="#P" n="59"/>sibi. sed si sciatur ab homine quod deus est: scitur quod ip¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>se est summum bonum homini: igitur. Illud 
+          repre<lb ed="#P" n="61" break="no"/>hendit aliacensis questione. ii. sui primi: dicens quod 
+          <lb ed="#P" n="62"/>illa conditionalis nec est euidens nec euidenter de 
+          <lb ed="#P" n="63"/>monstrabilis. nec ratio facta valet. primo 
+          suppo<lb ed="#P" n="64" break="no"/>nit faisum: quod significatum siue diffinitio quid 
+          no<lb ed="#P" n="65" break="no"/>minis huius termini deus / sit illa oratio 
+          composi<lb ed="#P" n="66" break="no"/>ta ex omnibus predicatis significantibus 
+          perfe<lb ed="#P" n="67" break="no"/>ctiones dei. quod si esset verum: pari ratione argue 
+          <lb ed="#P" n="68"/>retur quod ille conditionales essent euidentes: si deus 
+          <lb ed="#P" n="69"/>est / deus est trinus et vnus: si deus / est / deus gnat deum.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e199">
+          ¶ 
+          Con<lb ed="#P" n="70" break="no"/>tra vtrumque istorum ponam conclusiones eorum dicta 
+          repro<lb ed="#P" n="71" break="no"/>bantes. quirum prima est: aliquod est praeceptum decalogi 
+          nul<lb ed="#P" n="72" break="no"/>lo modo morale. Secunda conclusio: deus est: est 
+          <lb ed="#P" n="73"/>propositio euidens. Tertia conclusio: si deus est / 
+          <lb ed="#P" n="74"/>deus est summo cultu colendus / est euidens. 
+          Quar<lb ed="#P" n="75" break="no"/>ta conclusio: omnia paecepta decalogi vno dempto sut 
+          <lb ed="#P" n="76"/>de lege nature vno modo vel alio capiendo legem natu 
+          <lb ed="#P" n="77"/>re.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e219">
+          ¶ Prima conclusio probatur: sanctificare 
+          sabba<lb ed="#P" n="78" break="no"/>tum erat solum positiuum diuinum praeceptum: ergo non 
+          <lb ed="#P" n="79"/>est preceptum morale. consequentia est nota. probatur 
+          antece<lb ed="#P" n="80" break="no"/>dens: quod deus colatur tali modo / et tali die / non est 
+          <lb ed="#P" n="81"/>de iure nature plusquam in alio die. sed non est de iure 
+          <lb ed="#P" n="82"/>nature quod deus colatur die dominico / et die veneris / et 
+          <lb ed="#P" n="83"/>quolibet die / ergo nec in die sabbato.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e235">
+          ¶ Secundo 
+          ar<lb ed="#P" n="84" break="no"/>guitur: lex nature est immutabilis: sed sabbatum cessit 
+          <lb ed="#P" n="85"/>diei domnico: ergo colere deum in sabbato non est 
+          dele<lb ed="#P" n="86" break="no"/>ge nature. dicis colere deum est de lege nature: sed 
+          <lb ed="#P" n="87"/>eum colere tali cultu / et tali die: est vel erat de iure 
+          di<lb ed="#P" n="88" break="no"/>uino positiuo: et sic istud praeceptum erat vnum mixtun 
+          <lb ed="#P" n="89"/>de iure nature et iure positiuo. sic aliqui loquuntur. 
+          <lb ed="#P" n="90"/>Contra quos sic arguitur: totum illud cathegoreu 
+          <lb ed="#P" n="91"/>matice est de iure positiuo: patet: pars illius totius 
+          <lb ed="#P" n="92"/>erat de iure positiuo diuino: ergo illud totum erat 
+          <lb ed="#P" n="93"/>de iure positiuo.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e259">
+          ¶ Confirmatur hec ratio: conclusio 
+          <lb ed="#P" n="94"/>suum robur habens ex duabus propositionibus / 
+          <lb ed="#P" n="95"/>quarum vna est de iure nature / et alia de iure 
+          po<lb ed="#P" n="96" break="no"/>sitiuo / est solum de iure positiuo: ergo sic in 
+          proposi<lb ed="#P" n="97" break="no"/>to.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e270">
+          ¶ Tertio arguitur: licet punire furem sit de 
+          iu<lb ed="#P" n="98" break="no"/>re nature: tamen quando additur ei restrictio 
+          volunta<lb ed="#P" n="99" break="no"/>ria / tota pena est positiua: vt punire eum hoc modo 
+          <lb ed="#P" n="100"/>ergo sic est in proposito.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e279">
+          ¶ Secunda conclusio 
+          proba<lb ed="#P" n="101" break="no"/>tur sufficienter ab Aristotele. viii. Phisicorum. ii. 
+          <lb ed="#P" n="102"/>et. xii. Methaphisice. et doctores communiter circa hoc 
+          <lb ed="#P" n="103"/>in. ii. distinctione primi insistunt: et rationes multe 
+          <lb ed="#P" n="104"/>illic sunt demonstrationes. proterue euasiones et 
+          in<lb ed="#P" n="105" break="no"/>apparentes aliacensis et aliorum hoc non 
+          impedi<lb ed="#P" n="106" break="no"/>unt. quod erit circulatio in causis: quod a. producat b. et b. 
+          <lb ed="#P" n="107"/>producat a. et sic de talibus proteruis responsionibus et 
+          mnuti<lb ed="#P" n="108" break="no"/>libus. sic eundo paucissimas demonstratonnes 
+          he<lb ed="#P" n="109" break="no"/>bis. pro nunc circa hoc non insisto: amplius circa illas de 
+          <lb ed="#P" n="110"/>matationes elaboro. et pro nunc sic arguo: quod celi sic 
+          sper<lb ed="#P" n="111" break="no"/>vniformiter mouentur: et sol accedit et vicissi recedit: et 
+          <lb ed="#P" n="112"/>regimen in hoc mundo: sufficienter arguit in 
+          lumi<lb ed="#P" n="113" break="no"/>ne naturali deum vnum primum ens negatiue et 
+          affir<lb ed="#P" n="114" break="no"/>matiue: et per consequens vnum. et patet hoc ad 
+          <lb ed="#P" n="115"/>hebreos. xi. Credere enim oportet accedentem ad deum 
+          <lb ed="#P" n="116"/>quia est: et inquirentibus se remunerator est. hoc est: 
+          <lb ed="#P" n="117"/>credere vnitatem dei: et quod remunerator bonorum est / 
+          <lb ed="#P" n="118"/>erat necessarium gentilibus pihlis et gentiles phoisi non tene 
+          <lb ed="#P" n="119"/>bantur nisi ad egem nature: queestcuisa situs 
+          <pb ed="#P" n="125-v"/>
+          <cb ed="#P" n="a"/>
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e328">
+          <lb ed="#P" n="1"/>¶ Secundo sic arguitur: omne illud est euidens cui si homo non 
+          <lb ed="#P" n="2"/>assentiat ex puris naturalibus: est dampnatus. sed sic est 
+          <lb ed="#P" n="3"/>de vnitate dei: igitur. consequentia tenet: et maior patet: quia 
+          gem<lb ed="#P" n="4" break="no"/>tilis ante legem gratie non tenebatur nisi ad illa que 
+          <lb ed="#P" n="5"/>in lumine naturali habere poterat: vt patet ad 
+          Do<lb ed="#P" n="6" break="no"/>manos. ii. Cum enim gentes quaelegem non habent ( scriptam 
+          <lb ed="#P" n="7"/>dicit glosa interlinealis) naturaliter ea quae legis sunt 
+          <lb ed="#P" n="8"/>faciunt: eiusmodi legem non habentes / ipsi sibi sunt 
+          <lb ed="#P" n="9"/>lex. minorpatet ad Roma. i. vbi apostolus dicit. 
+          Inuisi<lb ed="#P" n="10" break="no"/>bilia enim ipsius a creatura mundi per ea qua facta sunt 
+          in<lb ed="#P" n="11" break="no"/>tellecta conspiciuntur a creatura mundi: hoc est ab 
+          ho<lb ed="#P" n="12" break="no"/>mine: vt dicit glosa interlinealis: quia est excellens 
+          <lb ed="#P" n="13"/>creatura: vel quia conueint cum omnibius creaturis iuxta illud 
+          <lb ed="#P" n="14"/>euangelii. Predicate euangelium omni creature. Et 
+          sequi<lb ed="#P" n="15" break="no"/>tur in littera apesoli: sempiterna quoque virtus eius et 
+          <lb ed="#P" n="16"/>diuinitas ita vt sunt inexcusabiles.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e365">
+          ¶ Ex his aucto 
+          <lb ed="#P" n="17"/>ritatibus formo hoc argumentum. Gentilis 
+          philoso<lb ed="#P" n="18" break="no"/>phus obligatur sub pena etne dampnationis 
+          assenti<lb ed="#P" n="19" break="no"/>re quod est vnum primum ens: et hoc est deus sub alio 
+          vo<lb ed="#P" n="20" break="no"/>cabulo: qui est remunerator bonorum. et gentilis 
+          philo<lb ed="#P" n="21" break="no"/>sophus ante legem gratie non obligabatur ad aliud nisi quod 
+          <lb ed="#P" n="22"/>poterat ex puris naturalibus euidenter cognoscere: 
+          <lb ed="#P" n="23"/>vt patet ad homa. ii. ergo hec propositio est euidens 
+          <lb ed="#P" n="24"/>gentili phoiso / primum ens est siue deus. Idem intelligitur (
+          mo<lb ed="#P" n="25" break="no"/>re philosophorum loquendo) per summum ens in entibus: et 
+          <lb ed="#P" n="26"/>deus. male diffinit hholhot ly deus / ad hoc quod 
+          ha<lb ed="#P" n="27" break="no"/>beatur naturaliter euidentia istius / deus est. ergo hoc 
+          <lb ed="#P" n="28"/>est euidens in lumine naturali deus est. Insuper: 
+          <lb ed="#P" n="29"/>quaero abs te quomodo communiter omnes gentiles philosophi assem 
+          <lb ed="#P" n="30"/>serunt huic / est vnum primum ens: et post vitam 
+          boni<lb ed="#P" n="31" break="no"/>sunt premiandi / et mali puniendi. non potest dari alia 
+          <lb ed="#P" n="32"/>ratio nisi illa apostoli ad Romanos: quia hoc habebant 
+          <lb ed="#P" n="33"/>scriptum in cordibus eor. Et psalmista argumentum 
+          impru<lb ed="#P" n="34" break="no"/>dentum tangens: quis ostendit nobis bona: respondit. 
+          <lb ed="#P" n="35"/>Signatum est super nos lumen vultis tui domine.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e409">
+          ¶ 
+          Ter<lb ed="#P" n="36" break="no"/>tia conclusio probatur. hec est euidens / supremum ens est 
+          <lb ed="#P" n="37"/>quod est deus / praemiatorbonorum / et punitor malorum / et 
+          <lb ed="#P" n="38"/>mundi rector: ergo intelligens ea que fiunt in 
+          inferio<lb ed="#P" n="39" break="no"/>ribus et superioribus. ergo illud ens est colendum: et cum 
+          <lb ed="#P" n="40"/>est ens summum et optimum et omnia regens: aliquo 
+          cultu<lb ed="#P" n="41" break="no"/>colendum est: et non nisi summo cultu: ergo hec 
+          condi<lb ed="#P" n="42" break="no"/>tionalis est euidens. Insuper: tam antecedens quam consequens sunt 
+          eui<lb ed="#P" n="43" break="no"/>dentia / et necessaria / et talia in lumine naturali 
+          co<lb ed="#P" n="44" break="no"/>gnita: ergo conditionalis est euidens. capio 
+          colen<lb ed="#P" n="45" break="no"/>da vt tantum valet sicut dignum coli: siue colatur siue non. 
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e433">
+          <lb ed="#P" n="46"/>¶ Quarta conclusio probatur currendo per singula 
+          prece<lb ed="#P" n="47" break="no"/>pta vno dempto. hec vnus deus est colendus / est de 
+          le<lb ed="#P" n="48" break="no"/>ge nature: et euidens in lumine naturali quod idem est ) 
+          <lb ed="#P" n="49"/>que infert has negatiuas / non sunt colendi plures 
+          <lb ed="#P" n="50"/>dii: nec iurandum est inuanum per deum. Sanctificationem 
+          <lb ed="#P" n="51"/>sabati relinquo: quia non est de lege nature. ecce 
+          praece<lb ed="#P" n="52" break="no"/>pta prime tabule.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e451">
+          ¶ Nuncpraecepta secunde tabule as 
+          <lb ed="#P" n="53"/>gredior ostensurus ea omnia esse de lege nature. 
+          Dere<lb ed="#P" n="54" break="no"/>uerendis parentibus patet: ab his habemus esse tam 
+          na<lb ed="#P" n="55" break="no"/>turale quam morale in moribus: ergo tenemur eos 
+          hono<lb ed="#P" n="56" break="no"/>rare secundum illud aristotelis. Diis parentibuse 
+          magi<lb ed="#P" n="57" break="no"/>stris neno potest satissacere ad condignum. Quo adalis 
+          <lb ed="#P" n="58"/>praecepta secunde tabule ad omnes proximos patet quod sint 
+          <lb ed="#P" n="59"/>de lege nature: illud est de lege nature / hoc facies 
+          <lb ed="#P" n="60"/>aliis quod velles tibi fieri: et non facies aliis quod nolis 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>rationabiliter tibi fieri. Ex illo principio in lumine 
+          <lb ed="#P" n="62"/>naturali pstent omnia praecepta alia in luine naturali dedu 
+          <lb ed="#P" n="63"/>ci. Non vis rationabiliter quod aliquis tibi noceat et 
+          iniu<lb ed="#P" n="64" break="no"/>riam inferat: ergo sic debes nolle respectu proximi: 
+          <lb ed="#P" n="65"/>sed eum occidere auctoritate priuata est ei iuriam facere 
+          <lb ed="#P" n="66"/>Simter res suas furto subtrahere est ei iniuriam 
+          face<lb ed="#P" n="67" break="no"/>re: et ita de aliis praeceptis quibuscumque demonstrati. vel 
+          <lb ed="#P" n="68"/>sic: capto hoc principio / nemo debet velle aliis 
+          no<lb ed="#P" n="69" break="no"/>cere / vel eis iniuriam facere. Uel sic. Nulla iniuria est 
+          fa<lb ed="#P" n="70" break="no"/>cienda cuicunque alteri: occidere sortem aucnte priuata 
+          <lb ed="#P" n="71"/>est ei iniuriam facere: ergo eum occidere non est 
+          faden<lb ed="#P" n="72" break="no"/>dum. Simimlitr potes subsumere quodcumque preceptim. 
+          <lb ed="#P" n="73"/>res sortis furto subtrahere est ei iniuriam facere: ergo 
+          <lb ed="#P" n="74"/>furtum non est faciendum. et ita vtrobique de quolibet 
+          <lb ed="#P" n="75"/>praecepto decalogi secunde tabule inferre potes: ita quod 
+          <lb ed="#P" n="76"/>quodlibet praeceptum sequitur ex duabus propositionibus in 
+          lu<lb ed="#P" n="77" break="no"/>mine naturali notis. hec est nota. Nulla iniuria est 
+          <lb ed="#P" n="78"/>proximo facienda: sed occidere sortem auctoritate 
+          pri<lb ed="#P" n="79" break="no"/>uata est ei iniuria: igitur. Iste due praemisse sunt euden 
+          <lb ed="#P" n="80"/>tes: et consequentia est euidens: ergo consequens est euidens: ergo prohibitio 
+          <lb ed="#P" n="81"/>preceptorum secunde tabule est de lege nature. et sic 
+          <lb ed="#P" n="82"/>est de honore aliquibus proximis exhibendo: ergo tota 
+          <lb ed="#P" n="83"/>conclusio vera.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e523">
+          ¶ Contra secundam conclusionem 
+          ar<lb ed="#P" n="84" break="no"/>guitur probando quod vnitas dei non est euidens: 
+          pri<lb ed="#P" n="85" break="no"/>mo per illud psalmiste psalmo. xiii. Dixit insipiens 
+          <lb ed="#P" n="86"/>in corde suo non est deus. et alibi. notus / in iudea deus: ergo 
+          <lb ed="#P" n="87"/>in aliis locis non erat sic notus: ergo non est de lege 
+          <lb ed="#P" n="88"/>nature.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e537">
+          ¶ Secundo arguitur cone eandem conclusionem: aliqui 
+          io<lb ed="#P" n="89" break="no"/>uem summum deum posuerunt: aliqui herculem: aliqui baal: 
+          <lb ed="#P" n="90"/>alii moloch. Perse: et ipse Plinius solem deum posueint: 
+          <lb ed="#P" n="91"/>alid multos posuerunt deos: vt poete eruditi 
+          viri<lb ed="#P" n="92" break="no"/>in lumine naturali intuentes. Une poeta opem superum 
+          <lb ed="#P" n="93"/>inuocans dicit. Dii deeque omnes. et Theodolus. 
+          Pneu<lb ed="#P" n="94" break="no"/>mina mille deum vatem defendite vestrum.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e553">
+          ¶ Ad 
+          pri<lb ed="#P" n="95" break="no"/>mum dico: possunt esse aliqui stulti qui cogitant non est deus: 
+          <lb ed="#P" n="96"/>sed pauci sunt tales. hoc non infert deum esse non esse 
+          <lb ed="#P" n="97"/>euidens: sed quod non est perse notum. modo esse euidens est 
+          <lb ed="#P" n="98"/>superius ad perse notum. Secundo exponitur ille psalmus 
+          pro<lb ed="#P" n="99" break="no"/>babiliter secundum rabi salomonem de nabuchodonosor 
+          <lb ed="#P" n="100"/>rege assyriorum qui negauit deum israel esse verum deum: 
+          <lb ed="#P" n="101"/>sed ipsemet putabat se habere verum deum: vt patet 
+          Da<lb ed="#P" n="102" break="no"/>nielis primo. probabilr estm exponitur de christo. insipiens 
+          iu<lb ed="#P" n="103" break="no"/>deus negauit christum esse deum: licet posuit eum ad alium 
+          <lb ed="#P" n="104"/>psalmum: notus in iudea deus: hoc est potentia veri 
+          dei<lb ed="#P" n="105" break="no"/>erat nota in iudea: omnes dii gentium sunt demonia 
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e579">
+          <lb ed="#P" n="106"/>¶ Ad secundum argumentum dico quod ipsum (si 
+          benepo<lb ed="#P" n="107" break="no"/>deretur) est pro conclusione. omnes conuenerunt quod est vnus 
+          <lb ed="#P" n="108"/>deus: hoc est praecipuus deus: quiahoc est de iure 
+          natu<lb ed="#P" n="109" break="no"/>re. sed quod iste / vel ille / sit deus: non est sic de iure natu 
+          <lb ed="#P" n="110"/>re. peccabant gentiles phoisi grauiter / iouem / herculem / 
+          <lb ed="#P" n="111"/>magog / baal / et huusmodi malos viros colentes 
+          pro<lb ed="#P" n="112" break="no"/>diis. notissimum dembat eis esse quod nullus homo mortal est 
+          <lb ed="#P" n="113"/>deus. et erat eis notum ex puris nanlibus quod deus est etnus et 
+          <lb ed="#P" n="114"/>necessarius: et hoc deus percreaturas dedit eis 
+          intelli<lb ed="#P" n="115" break="no"/>gere quam diu bene vsi sunt naturalibus. gratia illius 
+          socra<lb ed="#P" n="116" break="no"/>tes occisus est: et aristoteles accusatus a senatu 
+          athe<lb ed="#P" n="117" break="no"/>niensi. xii. methaphisice posuit solum vnum deum inquens: 
+          <lb ed="#P" n="118"/>pluralitas principum mala: entia nolunt male dispo 
+          <lb ed="#P" n="119"/>ni: ergo est vnus mundi princeps. sed aliqui poete et 
+          php<lb ed="#P" n="120" break="no"/>losophi principibus blanditi sunt: eos in superioru nffe¬ 
+          <pb ed="#P" n="126-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ro ponentes: quare grauiter deliquerunt: ita quod sunt in 
+          <lb ed="#P" n="2"/>excusabiles. ethoc eleganter tangit apostolus ad oma. i. 
+          <lb ed="#P" n="3"/>inquiens. quia cum cognouissent deum: non sicut deum 
+          glori<lb ed="#P" n="4" break="no"/>ficauerunt: aut gratias egerunt: sed euanuerunt in 
+          co<lb ed="#P" n="5" break="no"/>gitationibus suis: et obscuratum est insipiens coreorum. 
+          <lb ed="#P" n="6"/>hicentes en se ess sapientes / stulti facti sunt: vbi 
+          pul<lb ed="#P" n="7" break="no"/>chre glosa interlineal super littera appodians (in 
+          ver<lb ed="#P" n="8" break="no"/>bo cum cognouissent) dicit: per naturalem rationem et creatu 
+          <lb ed="#P" n="9"/>re reuelationem a deo vt vnuconfiterentur principium omnm. 
+          <lb ed="#P" n="10"/>sed cum isti philosophi rationem quarentes hoc didicerunt 
+          <lb ed="#P" n="11"/>ex creaturis: inflati / posuerunt opiniones nouas et 
+          <lb ed="#P" n="12"/>erroneas / principibus blandientes vel condescedentes 
+          vul<lb ed="#P" n="13" break="no"/>go admittentes modum loquendi quoreges et quidam 
+          ma<lb ed="#P" n="14" break="no"/>lierant dii in idolatriam descenderunt: in hoc poeolimi 
+          <lb ed="#P" n="15"/>facti sunt stulti. et hoc tangit apostolus in verbis 
+          prae<lb ed="#P" n="16" break="no"/>fatis: qui cum cognouissent deum c. Et paulopost. 
+          <lb ed="#P" n="17"/>Et mutauerunt gloriam incorruptibilis dei in similitu 
+          <lb ed="#P" n="18"/>dinem imaginis corruptibilis hominis et volucrum et 
+          qua<lb ed="#P" n="19" break="no"/>drupedum et serpentum. bouem colebant egyptii: 
+          etba<lb ed="#P" n="20" break="no"/>bilonii draconem. Danielis. xiiii. aliqui talpas et ve 
+          <lb ed="#P" n="21"/>spertiliones. Esaie. ii. clari philosophi sciebant quod de 
+          <lb ed="#P" n="22"/>us erat impartibilis: sicut Aristoteles probat de 
+          pri<lb ed="#P" n="23" break="no"/>mo motore quem deum ponebat sub alio vocabulo. 
+          <lb ed="#P" n="24"/>vulgus et rudiores solem et corpora pro deo posuerunt. 
+          <lb ed="#P" n="25"/>licet Aristoteles vnum primum motorem posuerit quem 
+          <lb ed="#P" n="26"/>deum intelligebat esse: cum hoc posuit in lumine natu 
+          <lb ed="#P" n="27"/>rali intelligentias celorum motrices quas 
+          aliquomo<lb ed="#P" n="28" break="no"/>do deos dicebat: sicut sacerdotes et probi vocantur 
+          <lb ed="#P" n="29"/>dii secundet illud psalmiste. Ego dixi diiestis: et filii ex 
+          <lb ed="#P" n="30"/>celsi omnes: etiam loquendum est vt plures. 
+          Theo<lb ed="#P" n="31" break="no"/>dolus puerorum erat fidelis: modo loquendi 
+          poeta<lb ed="#P" n="32" break="no"/>rum gentilium in inuocationibus vsus est. idem facit iste 
+          <lb ed="#P" n="33"/>baptista mantuanus. poetarum gentilium vena putatur 
+          <lb ed="#P" n="34"/>elegans: propterea fideles illa interdum in modo loquendi 
+          <lb ed="#P" n="35"/>vtuntur: quia iam nemo est qui non nouit iouem / 
+          hercu<lb ed="#P" n="36" break="no"/>lem / et huiusmodi fuisse caducos et mortales viros. idem 
+          <lb ed="#P" n="37"/>sciebat maro de augusto: libet vel iocando vel adulam 
+          <lb ed="#P" n="38"/>do aliter dicere visus est. sexto Eneidos. 
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e701">
+          <lb ed="#P" n="39"/>¶ Contra quartam conclusionem arguitur. omnia precepta secunde 
+          <lb ed="#P" n="40"/>tabule sunt de lege nature: t omnia vno dempto: ergo 
+          <lb ed="#P" n="41"/>deus non potest in talibus dispensare. Secundo arguitur: in extre 
+          <lb ed="#P" n="42"/>ma necessitate lebet capere alienum clanculum vbi 
+          aliter<lb ed="#P" n="43" break="no"/>haberi non potest: ergo furtum non est prohibitum de lege 
+          <lb ed="#P" n="44"/>nature.
+        </p>
+        <p xml:id="jm3cbb-e76318-d1e717">
+          ¶ Ad primum respondetur negando consequentiam. ad 
+          se<lb ed="#P" n="45" break="no"/>cundum concedo antecedens et nego consequentiam. in illo casu non est 
+          <lb ed="#P" n="46"/>furtum. et positiua particio bonorum non impedit 
+          <lb ed="#P" n="47"/>quin istud bonum fit illius egentis in illo casu: vt 
+          <lb ed="#P" n="48"/>sue nature succurratur. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

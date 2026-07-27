@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="74-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e45075"><!-- l3d30q2 -->
+        <head xml:id="jm3cbb-e45075-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e45075-Hd1e101" type="question-title">An dilectio inimici sit magis laudabilis et meritoria quam dilectio amici</head>
+        <p xml:id="jm3cbb-e45075-d1e104">
+          <lb ed="#P" n="35"/>¶ Questio secunda. 
+          <lb ed="#P" n="36"/>SEcundo circa eundem 
+          <lb ed="#P" n="37"/>distinctionem. xxx. quero: an 
+          di<lb ed="#P" n="38" break="no"/>ectio inimici sit magis 
+          lauda<lb ed="#P" n="39" break="no"/>bilis et meritoria / quam dilectio 
+          a<lb ed="#P" n="40" break="no"/>mici. non sto in appellationb 
+          ra<lb ed="#P" n="41" break="no"/>tionis: sicut nec in questione 
+          pre<lb ed="#P" n="42" break="no"/>cedenti / nisi in prima 
+          conclusi<lb ed="#P" n="43" break="no"/>one Loquor ergo de subam inimici: et non de actu in 
+          <lb ed="#P" n="44"/>imicicie. his presuppositis / ponuntur conclusiones 
+          <lb ed="#P" n="45"/>sequentes.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e130">
+          ¶ Quarum prima est: dilectio amici est 
+          <lb ed="#P" n="46"/>laudabilis et meritoria in habente gramm. duas partes 
+          <lb ed="#P" n="47"/>hec conclusio habet: quarum prior est: actus dictus est 
+          <lb ed="#P" n="48"/>laudabilis. et hoc probatur sic: ominis actus habens 
+          <lb ed="#P" n="49"/>obiectum et finem debitum cum ceteris circunstantiis 
+          <lb ed="#P" n="50"/>debitis est laudabilis: sed dilectio amici est huiusmodi: 
+          <lb ed="#P" n="51"/>igitur. consequentia tenet cum maiore: et minor patet. amicus est de 
+          <lb ed="#P" n="52"/>bitum obn actus amandi ex. viii. et. ix. ethicorum. deus 
+          <lb ed="#P" n="53"/>est finis actualis vel virtualis illius actus. nec est 
+          ali<lb ed="#P" n="54" break="no"/>qua circunstantia requisita deficiens: igitur. Secunda 
+          <lb ed="#P" n="55"/>pars patet: omnisfactus emanans a charitate est 
+          merito<lb ed="#P" n="56" break="no"/>rius: dilectio amici est huiusmodi: igitur. minor patet: 
+          sup<lb ed="#P" n="57" break="no"/>posito quod homo sit in charitate: omnis actus 
+          laudabi<lb ed="#P" n="58" break="no"/>lis in eon elicitur a charitate.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e161">
+          ¶ Secunda conclusio: 
+          <lb ed="#P" n="59"/>dilectio inimici est laudabilis. et meritoria. hec con¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>clusio ex questione praecedente: probatione conclusi 
+          <lb ed="#P" n="61"/>onis praecedentis habet euidentia
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e173">
+          ¶ Tertia 
+          conclu<lb ed="#P" n="62" break="no"/>sio: aliqua dilectio amici est magis meritoria quam hec 
+          <lb ed="#P" n="63"/>dilectio inimici: et contra / aliqua dilectio inimici est 
+          <lb ed="#P" n="64"/>magis. meritoria quam hec dilectio amici. probatio: 
+          ali<lb ed="#P" n="65" break="no"/>qua dilectio amici est multo intensior quam hec 
+          remis<lb ed="#P" n="66" break="no"/>sa dilectio inimici: ergo est magis meritoria. 
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e186">
+          <lb ed="#P" n="67"/>¶ Secundo arguitur ad idem: non quelibet dilectio 
+          <lb ed="#P" n="68"/>intmici excedit in bonitate quamlibet dilectionem 
+          <lb ed="#P" n="69"/>amici: ergo per crementum dilectionis ainici / et 
+          decremen<lb ed="#P" n="70" break="no"/>tum dilectionis inimici / dabitur equalitas  
+          exces<lb ed="#P" n="71" break="no"/>sus.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e199">
+          ¶ Quarta conclusio: Dilectio amici vt 
+          <lb ed="#P" n="72"/>quattuor est minus laudabilis et minus meritoria quam 
+          <lb ed="#P" n="73"/>dilectio inimicivt quattuor. hoc est dictu ceteris 
+          pa<lb ed="#P" n="74" break="no"/>ribus. et quia de hac conclusione principaliter 
+          ambi<lb ed="#P" n="75" break="no"/>gitur: probatur ipsa sic: omnis actus difficilior quam alter / 
+          <lb ed="#P" n="76"/>ceteris paribus est laudabilior: sed dilectio 
+          inimi<lb ed="#P" n="77" break="no"/>ci est difficilior quod dilectio amici: et obiecta sunt 
+          eius<lb ed="#P" n="78" break="no"/>dem rationis: ergo dilectio inimici est melior quam dilec 
+          <lb ed="#P" n="79"/>tio amici. quod dilectio inimici sit difficilior 
+          experien<lb ed="#P" n="80" break="no"/>tia comprobatur. quod difficultas augeat meritum: patet. ii. 
+          <lb ed="#P" n="81"/>ethicorum: virtus et ars sunt circa difficile. et glosa 
+          <lb ed="#P" n="82"/>mathei. v. dicit: perfectionis est cumulus diligere 
+          <lb ed="#P" n="83"/>inimicos: sed diligere amicos non est perfectionis 
+          <lb ed="#P" n="84"/>cumulus. ergo dilectio inimici est partectior quoad 
+          dile<lb ed="#P" n="85" break="no"/>ctio amici. patet conclusio per verba christi: si tantum 
+          diligi<lb ed="#P" n="86" break="no"/>tis illos qui vos diligunt / quam mercedem 
+          habebitis<lb ed="#P" n="87" break="no"/>quasi diceret: modicam comparatiue respectu 
+          dilecti<lb ed="#P" n="88" break="no"/>onis inimicorum.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e238">
+          ¶ Secundo arguitur: ille actus: cuius 
+          <lb ed="#P" n="89"/>tota radix dependet a charitate et a praecepto dei: est 
+          <lb ed="#P" n="90"/>melior quam actus ille qui non totaliter a deo et charita 
+          <lb ed="#P" n="91"/>te deriuatur. sed sic est de dilectione inimici 
+          respe<lb ed="#P" n="92" break="no"/>ctu dilectionis amici. quod amicus diligatur hoc est: quia 
+          <lb ed="#P" n="93"/>tibi consanguineus / afinis / vel alia familiaritate 
+          <lb ed="#P" n="94"/>tibi conuniunctus. ista non sunt cause in dilectione inimi 
+          <lb ed="#P" n="95"/>ci.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e256">
+          ¶ Tertio arguitur. bonitas actus dependeta volum 
+          <lb ed="#P" n="96"/>tatis conatu: et a gratia a qua elicitur. sed actus 
+          di<lb ed="#P" n="97" break="no"/>lectionis inimici vt quatuor requirit maiorem 
+          cona<lb ed="#P" n="98" break="no"/>tum voluntatis quam actus dilectionis vt quatuor circa 
+          a<lb ed="#P" n="99" break="no"/>micum: igitur.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e267">
+          ¶ Contra primam conclusionem arguitur 
+          au<lb ed="#P" n="100" break="no"/>ctoritate christi Matth. v. si diligitis eos qui diligunt 
+          <lb ed="#P" n="101"/>vos / quam mercedem habebitis: et Luce. vi. que est 
+          vo<lb ed="#P" n="102" break="no"/>bis gratia: ac si diceret nulla.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e277">
+          ¶ Secundo: 
+          precep<lb ed="#P" n="103" break="no"/>tum est diligere amicum: ergo non est meritum. consequentia 
+          te<lb ed="#P" n="104" break="no"/>net per apostolum prime Corinth. ix. si euangelizaue 
+          <lb ed="#P" n="105"/>ro / non est michi gloria: necessitas enim incumbit. 
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e286">
+          <lb ed="#P" n="106"/>¶ Respondetur: diligere amicum meum solum quia me 
+          dili<lb ed="#P" n="107" break="no"/>git: velex causa temperali: et non propter deum: non est 
+          <lb ed="#P" n="108"/>est meritum. sed diligere amicum propter deum / est 
+          me<lb ed="#P" n="109" break="no"/>ritum. Secundum argumentum improbaret idem de 
+          ini<lb ed="#P" n="110" break="no"/>mico: quemfin casu tenemur diligere. et si caperetur 
+          <lb ed="#P" n="111"/>argumentum vt iacet: probaret quod nullus actus 
+          prece<lb ed="#P" n="112" break="no"/>pti est meritorius: sicut aliqui male opinati sunt. sed 
+          <lb ed="#P" n="113"/>de hoc alibi prolixius.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e306">
+          ¶ Contra quartam conclusionem 
+          <lb ed="#P" n="114"/>arguitur: feruentius diligitur amicus quam inimicus: et 
+          hi<lb ed="#P" n="115" break="no"/>larius. ergo est maius meritum.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e313">
+          ¶ Secundo arguitur: 
+          eo<lb ed="#P" n="116" break="no"/>dem actu diligo amicum et inimicum. ille actus est 
+          me<lb ed="#P" n="117" break="no"/>lior aetu quo diligitur solum inimicus eque intense: et 
+          <lb ed="#P" n="118"/>est dilectio amici. ergo dilectio amici est melior quod 
+          <lb ed="#P" n="119"/>dilectio inimici. 
+          <pb ed="#P" n="74-v"/>
+          <cb ed="#P" n="a"/>
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e329">
+          <lb ed="#P" n="1"/>¶ Orimum argumentum nichil probat. si intensiore 
+          <lb ed="#P" n="2"/>actu diligatur amicus: hoc non est contra conclusionem: 
+          <lb ed="#P" n="3"/>sed protertia. lecitia mentis superueniens actui: vel 
+          concomi<lb ed="#P" n="4" break="no"/>tans: nihil facit ad meritum: quia si sic: sanguineus iuuenis 
+          <lb ed="#P" n="5"/>plus mereretur quam grandeuus melancolicus solitarius. 
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e342">
+          <lb ed="#P" n="6"/>¶ Ad secundum: dicitur quod est sermo de dilectione 
+          so<lb ed="#P" n="7" break="no"/>lius amici: et solius inimici. Etiam argumentum non 
+          <lb ed="#P" n="8"/>concludit quod dilectio amici est melior quam dilectio 
+          ini<lb ed="#P" n="9" break="no"/>mici: cum dilectio inimici distribuitur: et illa eadem est 
+          <lb ed="#P" n="10"/>dilectio inimici.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e356">
+          ¶ Tertio arguitur. si amicus meus: 
+          <lb ed="#P" n="11"/>pater: vel alius: cui multum deuincior: esset in simi 
+          <lb ed="#P" n="12"/>li necessitate constitutus cum inimico: et possum 
+          so<lb ed="#P" n="13" break="no"/>lum vni succurrere: tunc pecco succurrendo inimico: 
+          <lb ed="#P" n="14"/>amico relicto. ergo est magis meritorium amicum 
+          di<lb ed="#P" n="15" break="no"/>ligere.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e369">
+          ¶ Respondetur: in illo casu in effectu debeo 
+          suc<lb ed="#P" n="16" break="no"/>currere amico alio relicto. sed tamemn dilectio 
+          inte<lb ed="#P" n="17" break="no"/>rior in affectu est ita meritoria et magis erga inimi 
+          <lb ed="#P" n="18"/>cum sicut similis erga amicum.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e378">
+          ¶ Secundo: quicquid sit 
+          <lb ed="#P" n="19"/>de hoc casu: in alio tempore quado non est preceptum 
+          <lb ed="#P" n="20"/>vni illorum succurrere: sed consilium vni vel alteri 
+          succur<lb ed="#P" n="21" break="no"/>rere: est maius meritum michi inim:co succurrere. 
+          <lb ed="#P" n="22"/>etiam consequaentia est nulla. pecco non succurrens 
+          ami<lb ed="#P" n="23" break="no"/>co: et succurrendo inimico: in casu in quo non possum 
+          <lb ed="#P" n="24"/>vtrique succurrere. ergo est maius meritum succurrere 
+          a<lb ed="#P" n="25" break="no"/>mico quam inimico extra hunc casum. vel est maius 
+          me<lb ed="#P" n="26" break="no"/>ritum gradu vt quatuor diligere amicum quam inimicum. 
+          <lb ed="#P" n="27"/>patet de paruo opere precepti et magno opere consilii. 
+          <lb ed="#P" n="28"/>maius mereor dando centum scuta pauperibus: quando 
+          <lb ed="#P" n="29"/>do de consilio quam dicendo horas hodiernas quae sunt 
+          <lb ed="#P" n="30"/>michi de precepto: et tamen horas omittens pecco. 
+          <lb ed="#P" n="31"/>et non pecco omittens dationem illam elemosyne. 
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e409">
+          <lb ed="#P" n="32"/>¶ Quarto arguitur contra probationem conclusionis 
+          il<lb ed="#P" n="33" break="no"/>lius quarte: de difficultate: probando quod non 
+          semper<lb ed="#P" n="34" break="no"/>actus est melior: quia difficilior et hoc sic: sequitur ex 
+          <lb ed="#P" n="35"/>hoc quod continens abstinens ab illecebra: plus meretur 
+          <lb ed="#P" n="36"/>quam temperatus in gradu. consequens est falsum: quia si sic: 
+          he<lb ed="#P" n="37" break="no"/>remita quolibet die assuetus ieiunare: non tantum mere 
+          <lb ed="#P" n="38"/>bitur ieiunando quadragesimam: sicut intemperatus 
+          <lb ed="#P" n="39"/>cufialista. patet: continenti et curialiste: operatio est 
+          <lb ed="#P" n="40"/>difficilior
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e431">
+          ¶ Quinto arguitur: voluntas ita facile 
+          di<lb ed="#P" n="41" break="no"/>ligit inimicum sicut amicum. patet: si difficilius diligat b. 
+          <lb ed="#P" n="42"/>inimicum qui plus offendit quam a inimicum qui minus 
+          of<lb ed="#P" n="43" break="no"/>fendit: et difficilius diligat c. inimicum qui plus 
+          offen<lb ed="#P" n="44" break="no"/>dit quam b. etsic ascendendo: dabitur tandem vnus mimicus 
+          <lb ed="#P" n="45"/>qui tantum realiter: vel in apprehensione offensi / 
+          offen<lb ed="#P" n="46" break="no"/>dit quod offensus non poterit offendentem diligere. illud 
+          <lb ed="#P" n="47"/>consequens est falsum: ergo et antecedens. ergo redeundum 
+          <lb ed="#P" n="48"/>est ad hoc quod est ita facile voluntati diligere inimicum: 
+          <lb ed="#P" n="49"/>sicut amicum. et per consequens fundamentum probationis est 
+          <lb ed="#P" n="50"/>nullum.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e455">
+          ¶ Ad quartum nego sequelam. difficultas 
+          poue<lb ed="#P" n="51" break="no"/>niens a culpa operantis / non auget meritum. nec 
+          faci<lb ed="#P" n="52" break="no"/>litas proueniens ex habitu bono operantis diminuit 
+          <lb ed="#P" n="53"/>meritum. sed difficultas proueniens ex parte obiecti 
+          <lb ed="#P" n="54"/>vtrobique auget meritum ceteris paribus: sicut est in 
+          <lb ed="#P" n="55"/>proposito. habens magnam gratiam citius elicit actum 
+          <lb ed="#P" n="56"/>intensum vt quatuor quam habens paruam similem gradum 
+          <lb ed="#P" n="57"/>eliciat. et tamen non minus meretur: quia gratia est ei data 
+          ra<lb ed="#P" n="58" break="no"/>tione laudabilis vite sue praeterite: quemadmodum est 
+          <lb ed="#P" n="59"/>de habitu bono et malo. et licet male habituatus 
+          <lb ed="#P" n="60"/>peniteat de sua malavita: non oportet ppterea quod 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>plus mereatur quam antea cum simili conatu. perenitentia 
+          <lb ed="#P" n="62"/>bene facit vt actus suus malus ei non imputabitur. sed 
+          <lb ed="#P" n="63"/>nichil facit ad hoc quod plus mereatur.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e489">
+          ¶ Contra illud 
+          ra<lb ed="#P" n="64" break="no"/>guitur. ergo duo equaliter conabuntur: et inequaliter 
+          <lb ed="#P" n="65"/>merebuntur quod est inconueniens. consequentiam probo. 
+          sor<lb ed="#P" n="66" break="no"/>bene habituatus in aliqua materia / actum intensiorem 
+          <lb ed="#P" n="67"/>elicit circa illam materiam cum simili conatu quam parum 
+          ha<lb ed="#P" n="68" break="no"/>bituatus vel non habituatus. sed penes intensionem actus 
+          ha<lb ed="#P" n="69" break="no"/>bebit meritum: cum hoc habuit ex bono habitu suo. 
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e505">
+          <lb ed="#P" n="70"/>¶ Respondetur concedendo illatum. semper plus de 
+          conatu<lb ed="#P" n="71" break="no"/>plus meretur: nisi fuerit habitus bonus acquisitus: 
+          <lb ed="#P" n="72"/>vel aliquid huiusmodi ex bona vita iuuans ad 
+          facilitan<lb ed="#P" n="73" break="no"/>dum.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e516">
+          ¶ Sed tunc de gratia sacramentali: vt 
+          baptis<lb ed="#P" n="74" break="no"/>mi / confirmationis / ordinis / et huiusmodi / est 
+          difficul<lb ed="#P" n="75" break="no"/>tas. talis habet plus gratie quod solum baptizatus 
+          ce<lb ed="#P" n="76" break="no"/>teris paribus: et per consequens omnibus paribus / potest 
+          <lb ed="#P" n="77"/>cum simili conatu maiorem actum elicere. ergo si eliceant 
+          <lb ed="#P" n="78"/>cum equali conatu: plus gratie habens / intensiorem actum 
+          <lb ed="#P" n="79"/>habebit cum minore conatu. et si actus sunt equales: 
+          <lb ed="#P" n="80"/>equaliter merebuntur.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e534">
+          ¶ Respondetur: quando sunt duo in 
+          <lb ed="#P" n="81"/>naturalibus equales: equales actus / elicientes in intensione 
+          <lb ed="#P" n="82"/>circa similia obiecta / habentes impares gratas / 
+          e<lb ed="#P" n="83" break="no"/>qualiter merentur: licet conatus sunt inequales: et hoc 
+          <lb ed="#P" n="84"/>quando gratie dantur eis ratione actuum ipsorum: prout 
+          <lb ed="#P" n="85"/>nunc diximus. et probabile est hoc etiam in gratia 
+          <lb ed="#P" n="86"/>sacramentali: etiam quando sacramenta eis procurantur in iuuem 
+          <lb ed="#P" n="87"/>tute. est oppositum est probabile. de gratia sacramentorum: 
+          <lb ed="#P" n="88"/>quae quis sua sponte capit: idem censeo cum gratia acquisita 
+          <lb ed="#P" n="89"/>ex actibus.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e556">
+          ¶ Contra hoc arguitur: tunc rudis tantum 
+          <lb ed="#P" n="90"/>merebitur cum minore actu: sicut ingeniosus cum 
+          <lb ed="#P" n="91"/>maiore: posito quod equaliter conantur. sed hoc est 
+          <lb ed="#P" n="92"/>falsum. homo non tantum meretur sicut angelus: si 
+          eli<lb ed="#P" n="93" break="no"/>ceant ambo intensissimos actus quos elicere 
+          pos<lb ed="#P" n="94" break="no"/>sunt: et tamen equaliter conantur.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e569">
+          ¶ Preterea: 
+          fa<lb ed="#P" n="95" break="no"/>cilitas et difficultas intrinseca meritum attenuat 
+          <lb ed="#P" n="96"/>et auget. patet de male et bene nato ab influentia 
+          <lb ed="#P" n="97"/>bona vel malaceli: a castis progenitoribus et 
+          impu<lb ed="#P" n="98" break="no"/>dicis.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e581">
+          ¶ Conceditur quod rudis equaliter conans cum 
+          <lb ed="#P" n="99"/>ingenioso equaliter secum meretur. de homine et 
+          an<lb ed="#P" n="100" break="no"/>gelo: est etiam hoc probabile. sihomo eliceat actum 
+          <lb ed="#P" n="101"/>intensississimum quem potest vt. viii. quod tantum meretur 
+          si<lb ed="#P" n="102" break="no"/>cut angelus actum vt centum eliciens. oppositum 
+          <lb ed="#P" n="103"/>est michi probabilius: vt in secundo teneo. secus est 
+          <lb ed="#P" n="104"/>in indiuiduis eiusdem speciei.
+        </p>
+        <p xml:id="jm3cbb-e45075-d1e597">
+          ¶ Ad secundum concedo 
+          <lb ed="#P" n="105"/>quod facilitaset difficultas proueniens sine culpa: sed 
+          <lb ed="#P" n="106"/>mere naturalis: meritum auget et attenuat. et sic 
+          mu<lb ed="#P" n="107" break="no"/>lier male nata / continenter viuens / plus meretur quom alia 
+          <lb ed="#P" n="108"/>mulier bene nata: simili continentia viuens.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

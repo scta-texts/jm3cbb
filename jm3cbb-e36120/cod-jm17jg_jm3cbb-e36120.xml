@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="59-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e36120"><!-- l3d25q1 -->
+        <head xml:id="jm3cbb-e36120-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e36120-Hd1e101" type="question-title">An sit necessarium cuilibet adulto scire omnia explicite in fide
+    contenta</head>
+        <p xml:id="jm3cbb-e36120-d1e104">
+          <pb ed="#P" n="59-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>IN hac 
+          distinctio<lb ed="#P" n="2" break="no"/>ne. xxv. queram quinque. primo: 
+          <lb ed="#P" n="3"/>an sit necessarium ad salutem 
+          cui<lb ed="#P" n="4" break="no"/>libet credere omnia contenta 
+          <lb ed="#P" n="5"/>in fide explicite. Secundo de 
+          di<lb ed="#P" n="6" break="no"/>uisione articulorum in simbolo 
+          <lb ed="#P" n="7"/>Tertio de infidelitate et 
+          here<lb ed="#P" n="8" break="no"/>si loquar. Quarto de corruptione vel 
+          annichila<lb ed="#P" n="9" break="no"/>tione fidei. Quinto: an maiores theologie incum 
+          <lb ed="#P" n="10"/>bentes studio / acquirant aliquam noticiam maiorem 
+          fi<lb ed="#P" n="11" break="no"/>de. Pro expeditione primi queritur talis questio 
+          <lb ed="#P" n="12"/>nis titulus: an sit necessarium cuilibet adulto scire 
+          <lb ed="#P" n="13"/>omnia explicite in fide contenta.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e139">
+          ¶ Pro 
+          questio<lb ed="#P" n="14" break="no"/>ne soluenda explicabitur quid est credere 
+          explici<lb ed="#P" n="15" break="no"/>te et quid implicite. Scire aliquid explicite est 
+          ha<lb ed="#P" n="16" break="no"/>bere assensum particularem ad ipsum terminatum. 
+          <lb ed="#P" n="17"/>hoc modo scid explicite hanc / deus est trinus et 
+          <lb ed="#P" n="18"/>vnus: quando habeo assensum ad illa propositio 
+          <lb ed="#P" n="19"/>nem terminatum. Scire aliquid implicite est scire 
+          <lb ed="#P" n="20"/>illud in vniuersali: hoc est / habere noticiam 
+          alicu<lb ed="#P" n="21" break="no"/>ius vniuersalis que cum aliqua vera infert illam. hoc 
+          <lb ed="#P" n="22"/>modo bona vetula scit Thobiam iuniorem 
+          habuis<lb ed="#P" n="23" break="no"/>se vnum canem: de quo nunquam cogitauit. patet: 
+          ipsa<lb ed="#P" n="24" break="no"/>scit vnam vniuersalem que cum vna vera infert illam. 
+          <lb ed="#P" n="25"/>patet sic arguendo: omne contentum in sacro 
+          cano<lb ed="#P" n="26" break="no"/>ne est credendum: vel omne reuelatum a deo est verum 
+          <lb ed="#P" n="27"/>in sensu quo reuelatum est: vel omne quod ecclesia 
+          <lb ed="#P" n="28"/>credit est credendum. Thobias habuit vnum canem / 
+          <lb ed="#P" n="29"/>est huiusmodi: ergo illud est credendum. istorum trium 
+          sillo<lb ed="#P" n="30" break="no"/>gismorum ipsa assentit maioribus: potissimum 
+          vlti<lb ed="#P" n="31" break="no"/>mi: et hoc est scire illam / Thobias habuit vnum 
+          ca<lb ed="#P" n="32" break="no"/>fnem in vniuersali: sicut Aristo. loquitur primo po¬¬ 
+          <lb ed="#P" n="33"/>steriorum de scire in vniuersali et in particulari. 
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e185">
+          <lb ed="#P" n="34"/>¶ His premissis pono conclusiones. Quarum 
+          pri<lb ed="#P" n="35" break="no"/>ma est: semper ab orbe condito quilibet adultus 
+          ra<lb ed="#P" n="36" break="no"/>tione vtens tenebatur assentire explicite aliquibus 
+          <lb ed="#P" n="37"/>credibilibus. patet hec conclusio ad hebreos. xi. 
+          <lb ed="#P" n="38"/>Credere enin oportet accedentem ad deum quia est: 
+          <lb ed="#P" n="39"/>et inquirentibus se remunerator sit. quilibet 
+          adul<lb ed="#P" n="40" break="no"/>tus gentilis tenebatur ad minus assentire his 
+          dua<lb ed="#P" n="41" break="no"/>bus. he propositiones erant omnibus note. 
+          Philo<lb ed="#P" n="42" break="no"/>sophi sciebant quod deus esset. et sani iudicii viri 
+          as<lb ed="#P" n="43" break="no"/>sentiebant quod deus dedit premium pro bonis 
+          operi<lb ed="#P" n="44" break="no"/>bus et supplicium pro peccatis: et sapientes ista 
+          ali<lb ed="#P" n="45" break="no"/>is minus eruditis ostendebant. hanc conclusionem 
+          <lb ed="#P" n="46"/>tenet magister in littera inquiens. Est autem quedam 
+          <lb ed="#P" n="47"/>fidei mensura sine qua nunquam potuit esse salus: exem 
+          <lb ed="#P" n="48"/>plificans de his duobus preceptis.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e221">
+          ¶ Secunda 
+          <lb ed="#P" n="49"/>conclusio: gentiles non tenebantur communiter scire 
+          <lb ed="#P" n="50"/>explicite aduentum mediatoris inter homines et deum. 
+          <lb ed="#P" n="51"/>probatio: non tenebantur ad legem moysaicam ad 
+          <lb ed="#P" n="52"/>Romanos. ii. nec erat scriptum in cordibus etiam 
+          <lb ed="#P" n="53"/>sapientum: igitur. dixi communiter. erant aliqui deo 
+          <lb ed="#P" n="54"/>familiares: vt Noe / Abraham / et huiusmodi: quibus mi 
+          <lb ed="#P" n="55"/>sterium incarnationis reuelatum erat. tales 
+          explici<lb ed="#P" n="56" break="no"/>te tenebantur illud scire.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e241">
+          ¶ Tertia conclusio: in le 
+          <lb ed="#P" n="57"/>ge moysi multo magis explicite ad hoc 
+          teneban<lb ed="#P" n="58" break="no"/>tur. patet: tenebantur scire aduentum messie: et illi 
+          as<lb ed="#P" n="59" break="no"/>sentire in omnibus ab eo assertiue dictis. patet: ad 
+          <lb ed="#P" n="60"/>hoc erant edocti ab oraculis prophetarum et legis. 
+          <cb ed="#P" n="b"/>
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e254">
+          <lb ed="#P" n="61"/>¶ Quarta conclusio. omnes adulti 
+          ecclessetepo<lb ed="#P" n="62" break="no"/>re legis gratie tenentur scire explicite illa que 
+          pu<lb ed="#P" n="63" break="no"/>blicantur eis in ecclesia de articulis fidei: vt 
+          pote<lb ed="#P" n="64" break="no"/>hec communia de natiuitate christi / passione / 
+          resurre<lb ed="#P" n="65" break="no"/>ctione / ascensione / festo trinitatis / et corpore christi 
+          <lb ed="#P" n="66"/>in eucharistia contento. patet: illa publice in 
+          eccle<lb ed="#P" n="67" break="no"/>sia publicantur: ita quod neminem latere possunt nisi per 
+          <lb ed="#P" n="68"/>suam negligentiam stat: que non excusat.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e274">
+          ¶ Quinta 
+          <lb ed="#P" n="69"/>conclusio: non omnes adulti: hoc est vulgares: 
+          te<lb ed="#P" n="70" break="no"/>nentur scire omnia contenta in fide explicite: immo 
+          sim<lb ed="#P" n="71" break="no"/>plicibus sufficit scire illa que publicantur in 
+          eccle<lb ed="#P" n="72" break="no"/>sia in festis: quibus inter esse tenentur. patet: da 
+          op<lb ed="#P" n="73" break="no"/>positum: tenerentur ad aliquid eis impossibile. 
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e287">
+          <lb ed="#P" n="74"/>¶ Sexta conclusio: prelati ecclesie tenentur omnes 
+          <lb ed="#P" n="75"/>articulos fidei scire explicite: et oues subiectas 
+          <lb ed="#P" n="76"/>in fide et moribus docere: et eas a lupis desende 
+          <lb ed="#P" n="77"/>re: et populo poscenti in fide rationem dare pro 
+          lo<lb ed="#P" n="78" break="no"/>co et tempore. Probatur hec propositio. aliqui in 
+          <lb ed="#P" n="79"/>ecclesia ad hoc tenentur: alias policia 
+          ecclesiastica<lb ed="#P" n="80" break="no"/>fuisset insufficienter a christo instituta: quod est 
+          inconue<lb ed="#P" n="81" break="no"/>niens. et nulli ad hoc tenentur: si isti non teneantur: 
+          igi<lb ed="#P" n="82" break="no"/>tur.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e309">
+          ¶ Secundo arguitur ad eandem conclusionem. 
+          qui<lb ed="#P" n="83" break="no"/>libet tenetur scire illa que suo officio incumbunt: 
+          <lb ed="#P" n="84"/>quando libere prouinciam illius officii acceptat. sed 
+          offi<lb ed="#P" n="85" break="no"/>cium prelati est docere articulos fidei: et illa que 
+          vi<lb ed="#P" n="86" break="no"/>dentur necessaria pro fide et moribus in populo 
+          <lb ed="#P" n="87"/>subiecto: et non potest hoc facere nisi hoc sciat: 
+          igi<lb ed="#P" n="88" break="no"/>tur.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e326">
+          ¶ Tertio arguitur ad eandem conclusionem: 
+          pec<lb ed="#P" n="89" break="no"/>caret capiens officium archimandrite / si non ducat 
+          <lb ed="#P" n="90"/>oues brutales ad pascua ipsas pascendo: et eas a 
+          <lb ed="#P" n="91"/>lupis custodiendo: ergo a fortiori peccat pastor 
+          <lb ed="#P" n="92"/>capiens prouinciam ouium spiritualium / si non ducat 
+          <lb ed="#P" n="93"/>eas ad pascua spuitalia: et eas a lupis custodiat. per 
+          <lb ed="#P" n="94"/>lupos intelligo hereticos et hos qui oues vel in 
+          <lb ed="#P" n="95"/>fide vel aliis prauis moribus inficiunt.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e344">
+          ¶ Contra 
+          <lb ed="#P" n="96"/>primam conclusionem arguitur: multi gentiles 
+          phi<lb ed="#P" n="97" break="no"/>losophi non putauerunt esse resurrectionem: ergo non 
+          <lb ed="#P" n="98"/>tenebantur ad secundum istorum de remuneratione 
+          <lb ed="#P" n="99"/>bonorum: cum in hac vita multi non sunt remunerati. 
+          <lb ed="#P" n="100"/>Confirmatur hec ratio: saducei secta non 
+          igno<lb ed="#P" n="101" break="no"/>bilis inter iudeos non posuit resurrectionem: sicut 
+          <lb ed="#P" n="102"/>beatus Lucas recitat actuum. xxiii. ergosi hec 
+          se<lb ed="#P" n="103" break="no"/>cta legem moysi capiens non ponebat hoc: philoso 
+          <lb ed="#P" n="104"/>phi non tenebantur ad illud.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e366">
+          ¶ Secundo arguitur: 
+          <lb ed="#P" n="105"/>existentes in lege nature non tenebantur suscipere 
+          le<lb ed="#P" n="106" break="no"/>gem moysaicam tempore quo currebat: nec ad 
+          ali<lb ed="#P" n="107" break="no"/>ud / nisi ad illud quod sufficienter eis constabat in 
+          lu<lb ed="#P" n="108" break="no"/>mine naturali: sed ista duo non sufficienter 
+          consta<lb ed="#P" n="109" break="no"/>bant eis in lumine naturali: igitur.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e379">
+          ¶ Ad primum 
+          con<lb ed="#P" n="110" break="no"/>cedo antecedens ex eorum culpa: in lumine 
+          natura<lb ed="#P" n="111" break="no"/>li philosophi addidicerunt deum esse ex creaturis 
+          <lb ed="#P" n="112"/>ex lumine naturalis intellectus eis a deo 
+          conces<lb ed="#P" n="113" break="no"/>si. sed cum gratias deo non egerunt: nec bene 
+          vsi<lb ed="#P" n="114" break="no"/>sunt naturalibus: stulti facti sunt: et coluerunt vdo 
+          <lb ed="#P" n="115"/>la: et facti sunt in excusabiles. hoc patet ad 
+          Roma<lb ed="#P" n="116" break="no"/>nos. i. vbi dicit apostolus: inuisibilia enin ipsius a 
+          <lb ed="#P" n="117"/>creatura mundi per ea que facta sunt intellecta 
+          con<lb ed="#P" n="118" break="no"/>spiciuntur: sempiterna quoque virtus eius et 
+          diui<lb ed="#P" n="119" break="no"/>nitas: ita vt sint inexcusabiles. Quia cum 
+          cognouis<lb ed="#P" n="120" break="no"/>sent deum: non sicut deum glorificauerunt: aut gratias 
+          <lb ed="#P" n="121"/>egerunt: sed euanuerunt in cogitationibus suis: et 
+          <pb ed="#P" n="60-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>obscuratum est insipiens coreorum: et peccarunt 
+          <lb ed="#P" n="2"/>non putantes resurrectionem: multi sanius exstimam 
+          <lb ed="#P" n="3"/>tes posuerunt resurrectionem. tenebantur scire / erat 
+          <lb ed="#P" n="4"/>remunerator. sed an post mortem non est ita clarum: 
+          <lb ed="#P" n="5"/>sed puto quod sic: cum viderunt multos bonos non 
+          <lb ed="#P" n="6"/>sufficienter hic remuneratos.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e425">
+          ¶ Ad confirmationem: 
+          <lb ed="#P" n="7"/>dico quod saducei erant secta heretica in lege: hinc 
+          <lb ed="#P" n="8"/>aulus illam sectam abhominans / dicebat se 
+          phari<lb ed="#P" n="9" break="no"/>seum a progenitore.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e434">
+          ¶ Ad secundum: concedo quod gentiles 
+          <lb ed="#P" n="10"/>existentes tempore legis Moysi. non tenebantur 
+          <lb ed="#P" n="11"/>suscipere illam legem: sed tenebantur ad legem 
+          na<lb ed="#P" n="12" break="no"/>turalem: de qua lege erant hec duo: si non fuisset 
+          indi<lb ed="#P" n="13" break="no"/>spositio in eis.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e446">
+          ¶ Contra secundam conclusionem 
+          argui<lb ed="#P" n="14" break="no"/>tur per Augu. de correctione gratia: nemo 
+          liben<lb ed="#P" n="15" break="no"/>ratur a damnatione que per Adam facta est 
+          ni<lb ed="#P" n="16" break="no"/>si per fidem Iesu christi. idem dicit in libro de nuptiis 
+          <lb ed="#P" n="17"/>et concupiscentia.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e457">
+          ¶ Respondetur: gentiles valde 
+          <lb ed="#P" n="18"/>implicite incarnationem obligabantur scire. 
+          suffi<lb ed="#P" n="19" break="no"/>ciebat eis scire / deus est / et remunerator pro 
+          bo<lb ed="#P" n="20" break="no"/>nis / et punit malos pro demeritis / et regit iuste 
+          <lb ed="#P" n="21"/>mundum. de modo regendi in speciali non 
+          teneban<lb ed="#P" n="22" break="no"/>tur hoc cognoscere. multe istarum auctoritatum 
+          <lb ed="#P" n="23"/>quas magister introducit magis intelliguntur de 
+          <lb ed="#P" n="24"/>iudeis: pro quo facit auctoritas Gregorii 
+          super<lb ed="#P" n="25" break="no"/>Ezechielem quam magister introducit: que dicit: et 
+          <lb ed="#P" n="26"/>qui preibant / et qui sequebantur / clamabant 
+          dicen<lb ed="#P" n="27" break="no"/>tes / osanna filio Dauid: quia omnes electi qui in 
+          <lb ed="#P" n="28"/>iudea esse poterant: siue qui nunc in ecclesia sunt: 
+          <lb ed="#P" n="29"/>in mediatorem dei et hominum crediderunt et 
+          cre<lb ed="#P" n="30" break="no"/>dunt. signanter dixit Gregorius qui in iudea sunt 
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e488">
+          <lb ed="#P" n="31"/>¶ Contra quintam conclusionem arguitur: quilibet 
+          <lb ed="#P" n="32"/>tenetur cauere sub pena peccati ne assentiat 
+          here<lb ed="#P" n="33" break="no"/>si: et hoc non potest esse nisi omnia explicite sciat 
+          <lb ed="#P" n="34"/>que in fide continentur: quia non euitatur malum / 
+          nisi<lb ed="#P" n="35" break="no"/>cognitum.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e501">
+          ¶ Respondetr: licet altisiodorus et 
+          aliqui<lb ed="#P" n="36" break="no"/>dicant quod vetula peccat / si assentiat heresi predicate 
+          <lb ed="#P" n="37"/>a prelato: quia nimis leuiter credit: hoc est vnum 
+          <lb ed="#P" n="38"/>dictum sine ratione. probatio. cuilibet propositio 
+          <lb ed="#P" n="39"/>ni predicate a prelato putato viro sapienti et 
+          bo<lb ed="#P" n="40" break="no"/>no ( cuius oppositum non tenetur explicite scire) 
+          ve<lb ed="#P" n="41" break="no"/>tula ipsa potest assentire. a propositio est huiusmodi: 
+          pu<lb ed="#P" n="42" break="no"/>ta Thobias non habuit vnum canem. igitur. vetula 
+          <lb ed="#P" n="43"/>vel agricola potest conformare suum intellectum 
+          pre<lb ed="#P" n="44" break="no"/>missis istius sillogismi licite. ergoet conclusioni. vis 
+          <lb ed="#P" n="45"/>rationis in hoc stat: si est curatus / vel episus / puta 
+          <lb ed="#P" n="46"/>tus litteratus et probus in tota diocesi vel 
+          cura<lb ed="#P" n="47" break="no"/>predicans contrarium vnius propositionis de fide: 
+          <lb ed="#P" n="48"/>cuius oppositum non tenetur vetula scire 
+          explici<lb ed="#P" n="49" break="no"/>te: quod vetula non peccat. stat quod curatus ignorantia 
+          <lb ed="#P" n="50"/>vincibili vel inuincibili predicet oppositum 
+          propo<lb ed="#P" n="51" break="no"/>sitionis in fide. absit quod vetula propterea illi 
+          assen<lb ed="#P" n="52" break="no"/>tiens peccet: licet ipsa teneat heresim: ipsa non est 
+          <lb ed="#P" n="53"/>heretica: vt post hac dicetur. dictum aliorum est 
+          mi<lb ed="#P" n="54" break="no"/>chi inopinabile et explodendum.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e545">
+          ¶ Ad formam ergo 
+          <lb ed="#P" n="55"/>argumenti nego antecedens. sufficit homin tenere suam 
+          <lb ed="#P" n="56"/>adem isusam: et hoc est implicite credere: vel 
+          cre<lb ed="#P" n="57" break="no"/>dere omne illud verum quod ecclesia credit esse verum: 
+          <lb ed="#P" n="58"/>et non dissentire propositioni cuius oppositum 
+          tene<lb ed="#P" n="59" break="no"/>tur scire. modo si aliquis quereret a vetula / an 
+          ip<lb ed="#P" n="60" break="no"/>sa assentit huic / omne reuelatum a deo est verum: vel 
+          <lb ed="#P" n="61"/>omne quod ecclesia credit est verum: ipsa dicet quod sic: 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>et quod est parata omni propositioni tali ostense 
+          assen<lb ed="#P" n="63" break="no"/>tire. boues arabant: et asini pascebantur iuxta eos 
+          <lb ed="#P" n="64"/>Iob. i. sufficit arantibus bobus quod asini pasti 
+          cre<lb ed="#P" n="65" break="no"/>dant. modo rudes et simplices sunt asini: sufficitr 
+          <lb ed="#P" n="66"/>quod pascantur doctrina boum. ipsa implicite assentit 
+          <lb ed="#P" n="67"/>huic / Thobias habuit vnum canem:e explicite eidem 
+          <lb ed="#P" n="68"/>dissentit. nec vlla est repugnantia: quamadmodum Aristo. 
+          <lb ed="#P" n="69"/>diceret. i. posteriorum assentio in vniuersali huic / 
+          <lb ed="#P" n="70"/>hec mula est sterilis: et dissentio huic in particula 
+          <lb ed="#P" n="71"/>ri. ad veritatem illius sat est assentire huic / omnis 
+          <lb ed="#P" n="72"/>mula est sterilis: et dissentire huic / hec bestia cum 
+          <lb ed="#P" n="73"/>grosso ventre est fecunda: demonstrando bestiam 
+          <lb ed="#P" n="74"/>quam nescio esse mulam. sed sic est in casu vetule. igitur 
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e593">
+          <lb ed="#P" n="75"/>¶ Contra illud arguitur: Deuteronomii. xvii. scri 
+          <lb ed="#P" n="76"/>bitur: scribes super lapides omnia verba legis 
+          hu<lb ed="#P" n="77" break="no"/>ius plane et lucide: secundum glosam illic per illos 
+          lapi<lb ed="#P" n="78" break="no"/>des intelliguntur omnes qui credunt in christum. ergo 
+          <lb ed="#P" n="79"/>omnes tenentur totam legem scire lucide: et ex consquem 
+          <lb ed="#P" n="80"/>te explicite. et est glo. expressior Matthei. xxvii. 
+          <lb ed="#P" n="81"/>super hoc / velum templi scissum est inquiens. 
+          Ecce<lb ed="#P" n="82" break="no"/>velum templi scissum est: vt archa testamenti: et omnia 
+          <lb ed="#P" n="83"/>sacramenta legis que tegebatur appareant et ad 
+          om<lb ed="#P" n="84" break="no"/>nes transeant.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e618">
+          ¶ Respondetur primum est ad illos 
+          <lb ed="#P" n="85"/>qui populum habent docere. secunda glo dicit 
+          sacramen<lb ed="#P" n="86" break="no"/>ta legis transeunt ad omnes: sed inequaliter: secundum 
+          <lb ed="#P" n="87"/>statum superiorum et inferiorum transeunt.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e627">
+          ¶ 
+          Con<lb ed="#P" n="88" break="no"/>tra sextam conclusionem arguitur: prelati ecclesie non 
+          <lb ed="#P" n="89"/>obligarunt se ad scienda plura quam alii simplices. 
+          er<lb ed="#P" n="90" break="no"/>go non tenentur plura scire. consequentia liquere 
+          vi<lb ed="#P" n="91" break="no"/>detur. anecedens patet: querendo vbi et a quo erant 
+          <lb ed="#P" n="92"/>obligati.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e640">
+          ¶ Secundo arguitur: ex illo sequitur quod 
+          <lb ed="#P" n="93"/>multi ineruditi prelati in ecclesia essent in 
+          pericu<lb ed="#P" n="94" break="no"/>loso statu viuendi: quod non est dicendum.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e647">
+          ¶ Tertio 
+          <lb ed="#P" n="95"/>vel quilibet prelatus tenetur scire omnia contenta 
+          <lb ed="#P" n="96"/>in fide explicite: et hoc non / quia talis est fenix in 
+          <lb ed="#P" n="97"/>arabia felici: vel aliqua aliqua non: et queritur 
+          <lb ed="#P" n="98"/>quot et quot non: et respondere non potes.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e658">
+          ¶ 
+          Re<lb ed="#P" n="99" break="no"/>spodetur: prelatitacite et implicite obligarunt 
+          se<lb ed="#P" n="100" break="no"/>scire plura quam alii: postquam sponte acceperunt 
+          officium<lb ed="#P" n="101" break="no"/>quod hoc requirit. quemadmodum qui capcret curam 
+          <lb ed="#P" n="102"/>regere naui per pontum euxinum: et nichil diceret de 
+          <lb ed="#P" n="103"/>obligatione: est obligatus facere quod decet peritu 
+          <lb ed="#P" n="104"/>nauclerum. sed sic est de prelatis ecclesie. non 
+          suffi<lb ed="#P" n="105" break="no"/>cit quod prelati ecclesie habeant vicarios 
+          sufficien<lb ed="#P" n="106" break="no"/>tes loco sui: quia illo dato / subulcus habens 
+          pri<lb ed="#P" n="107" break="no"/>mam tonsuram posset capere sine peccato curam 
+          epi<lb ed="#P" n="108" break="no"/>scopalem: quod esse falsum liquet: vt latius in distin. 
+          <lb ed="#P" n="109"/>xxiiii. quarti senten. ostendimus.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e684">
+          ¶ Ad secundum 
+          conce<lb ed="#P" n="110" break="no"/>do illatum.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e690">
+          ¶ Ad tertium dicitur prelatus tenetur 
+          <lb ed="#P" n="111"/>scire facere et docere illa que suo officio incumbunt. 
+          <lb ed="#P" n="112"/>ad plura tenetur curatus quam vicarius: et ad plura 
+          <lb ed="#P" n="113"/>eprisus quam curatus: et abbas tenetur plura scire quam 
+          pri<lb ed="#P" n="114" break="no"/>or conuentualis teneatur scire. stat quod abbas sciat 
+          <lb ed="#P" n="115"/>illa que suo officio incumbunt. et prior sit eo 
+          do<lb ed="#P" n="116" break="no"/>ctior. et non solum hoc: sed etiam in gradibus: vt 
+          <lb ed="#P" n="117"/>doctor theologus tenetur plura et meliora scire 
+          <lb ed="#P" n="118"/>quam teneatur simplex magister scire. etiam inter 
+          lai<lb ed="#P" n="119" break="no"/>cos sunt gradus. habens clara naturalia plura 
+          <lb ed="#P" n="120"/>tenetur scire quam rudis: secundum illud Gregorii in 
+          ome<lb ed="#P" n="121" break="no"/>lia super illud Datthei. xxv. cum augentur dona: 
+          <lb ed="#P" n="122"/>ratones crescunt donorum. aliqui sunt rudes: qui 
+          <pb ed="#P" n="60-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cum improbo labore pauca eapere possunt: itti ad 
+          <lb ed="#P" n="2"/>pauca ten entur. deus non obligat / nec ad impossibile: 
+          <lb ed="#P" n="3"/>nec ad valde difficile. isti nec teuentur ad ordinem 
+          ar<lb ed="#P" n="4" break="no"/>ticulorum: nec ad bene pronunciandum latiue: quia cum litte 
+          <lb ed="#P" n="5"/>ras non didicerunt: sic proferre nesciunt. tenentur tamen 
+          <lb ed="#P" n="6"/>in suo vulgari intelligere: sicut possunt: et habere 
+          <lb ed="#P" n="7"/>illa latine memoriter vt proferre possunt: quatenus 
+          <lb ed="#P" n="8"/>hoc in templo super patriloquia pronuncient. Unus 
+          <lb ed="#P" n="9"/>ergo tenetur plura scire quam alter: sed non est vnus 
+          <lb ed="#P" n="10"/>limes cuilibet figendus. sufficit: quilibet prelatus 
+          <lb ed="#P" n="11"/>tenetur scire illa que sufficiunt sno officio: et 
+          inge<lb ed="#P" n="12" break="no"/>niosus et cui meliora naturalia deus dedit: 
+          tene<lb ed="#P" n="13" break="no"/>tur plura scire: etscientiam aliis applicare: ne 
+          in<lb ed="#P" n="14" break="no"/>gratus doni a deo dati inueniatur.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e753">
+          ¶ Dubitatur: 
+          <lb ed="#P" n="15"/>an sit eadem fides in specie specialissima antiquorum 
+          <lb ed="#P" n="16"/>et modernorum.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e760">
+          ¶ Respondetur per propositiones. 
+          <lb ed="#P" n="17"/>Prima est: alius est actus credendi et specie distin 
+          <lb ed="#P" n="18"/>ctus articulorum: quos crediderunt antiqui. ab 
+          ar<lb ed="#P" n="19" break="no"/>ticulis quos moderni credunt. patet: quia dubita 
+          <lb ed="#P" n="20"/>tio mouetur de articulis solum / quorum vnus est 
+          <lb ed="#P" n="21"/>de futuro: et alter est de preterito: vt christus 
+          incar<lb ed="#P" n="22" break="no"/>nabitur: christus morietur: christus incarnatus est: 
+          <lb ed="#P" n="23"/>christus mortuus est. patet: propositio de preterito 
+          <lb ed="#P" n="24"/>et futuro specie differunt. patet: sunt propositiones 
+          <lb ed="#P" n="25"/>non sinonime: ergo specie differunt.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e782">
+          ¶ Secundo 
+          argui<lb ed="#P" n="26" break="no"/>tur: homo est animal: et homo est risibilis: specie 
+          <lb ed="#P" n="27"/>differunt: quia predicata specie differunt. similiter hec 
+          <lb ed="#P" n="28"/>animal est homo: et substantia est homo: quia 
+          sub<lb ed="#P" n="29" break="no"/>iecta specie differunt. ergo per idem distinctio 
+          spe<lb ed="#P" n="30" break="no"/>cifica copularum facit distinctionem specificam 
+          propo<lb ed="#P" n="31" break="no"/>sitionum: sed copula de presenti et de preterito 
+          spe<lb ed="#P" n="32" break="no"/>cie differunt: ergo.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e800">
+          ¶ Tertio arguitur: a sinonimo 
+          <lb ed="#P" n="33"/>ad sinonimum est bona consequentiat formalis. sed 
+          <lb ed="#P" n="34"/>a propositione de preterito ad vnam de futuro 
+          conse<lb ed="#P" n="35" break="no"/>quentia est nulla: nec econuerso: ergo non sunt 
+          propo<lb ed="#P" n="36" break="no"/>sitiones sinonime: et per consequens non sunt eiusdem 
+          <lb ed="#P" n="37"/>speciei specialissime.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e813">
+          ¶ Quarto arguitur: iste 
+          due<lb ed="#P" n="38" break="no"/>propositiones: christus morietur: et christus morietur 
+          <lb ed="#P" n="39"/>differunt numero. sed plus differunt iste due: 
+          chri<lb ed="#P" n="40" break="no"/>stus morietur: et christus mortuus est. sed non est 
+          da<lb ed="#P" n="41" break="no"/>re gradus inter differre numero et differre specie 
+          <lb ed="#P" n="42"/>specialissima. igitur. Sed iste modus arguendi non 
+          <lb ed="#P" n="43"/>est efficax: sortes et plato plus differunt quam sortes 
+          <lb ed="#P" n="44"/>et manus eius. et tamen non differunt specie: sed 
+          <lb ed="#P" n="45"/>solum numero: sicut sortes et manus eius. tres 
+          pri<lb ed="#P" n="46" break="no"/>me probationes sufficienter concludunt propositionem 
+          <lb ed="#P" n="47"/>primam veram.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e838">
+          ¶ Secunda propositio vel conclusio: alius 
+          <lb ed="#P" n="48"/>est habitus specie quem habuerunt antiqui de hac 
+          <lb ed="#P" n="49"/>christus morietur ab habitu quem nos habemus 
+          <lb ed="#P" n="50"/>de hac / christus mortuus est. probatio: semper ad 
+          <lb ed="#P" n="51"/>distinctionem specificam actuum sequitur distinctio 
+          <lb ed="#P" n="52"/>specifica habituum. sed est distinctio actuum per 
+          pre<lb ed="#P" n="53" break="no"/>cedentem propositionem. ergo est distinctio habituum 
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e854">
+          <lb ed="#P" n="54"/>¶ Tertia propositio siue conclusio: eadem fides fuit 
+          <lb ed="#P" n="55"/>infusa in specie in antiquis de hac de futuro / 
+          chri<lb ed="#P" n="56" break="no"/>stus morietur: et in nobis de hac / et similibus / 
+          chri<lb ed="#P" n="57" break="no"/>stus mortuus est: etiam tenendo quod fides infusa 
+          imme<lb ed="#P" n="58" break="no"/>diate inclinat in quodlibet credibile: quod puto 
+          ve<lb ed="#P" n="59" break="no"/>rum. probatur hec propositio auctoritate Augu. 
+          <lb ed="#P" n="60"/>iiii. de trini. ca. ii. dicentis: quod factum nobis 
+          annum<lb ed="#P" n="61" break="no"/>ciatur / hoc fututum ostendebatur iustis antiquis: 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>vt per eandem fidem etiam ipsi humiliati et 
+          infirma<lb ed="#P" n="63" break="no"/>ti perficerentur. et Augu. in epistola ad optatum 
+          <lb ed="#P" n="64"/>dicit dei anti quis: quod eadem fides est et nostra et 
+          <lb ed="#P" n="65"/>illorum: quanduom illi cred iderunt futurum quod nos 
+          credi<lb ed="#P" n="66" break="no"/>mus factum. non loquitur in his auctoritatibus 
+          <lb ed="#P" n="67"/>de idemptitate numerali: quandom in variis subiectis 
+          <lb ed="#P" n="68"/>varie sunt fides. loquitur ergo de idemptitate 
+          <lb ed="#P" n="69"/>specifica. et non potest loqui de idemptitate 
+          spe<lb ed="#P" n="70" break="no"/>cifica fidei acquisite: vt patet per duas propositio 
+          <lb ed="#P" n="71"/>nes praecedentes: loquitur ergo de fide infusa.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e898">
+          ¶ 
+          Se<lb ed="#P" n="72" break="no"/>cundo arguitur ratione: fides infusa immediate 
+          in<lb ed="#P" n="73" break="no"/>clinat ad obiecta specie distincta: vt in distinc. xx 
+          <lb ed="#P" n="74"/>iii. diximus. ergo articulum de futuro et articulum de 
+          <lb ed="#P" n="75"/>preterito specie distingui: non arguit distinctionem 
+          <lb ed="#P" n="76"/>specificam fidei infuse.
+        </p>
+        <p xml:id="jm3cbb-e36120-d1e911">
+          ¶ Tertio arguitur: est ea 
+          <lb ed="#P" n="77"/>dem charitas in specie in nobis et in antiquis. 
+          er<lb ed="#P" n="78" break="no"/>go est eadem fides in specie. tenet consequentia: quia 
+          <lb ed="#P" n="79"/>non est danda ratio discriminis. Preterea 
+          argui<lb ed="#P" n="80" break="no"/>tur sic: charitas infusa inclinat in actus specie 
+          dii<lb ed="#P" n="81" break="no"/>ferentes: et inclinat successiue in actus contrarios. 
+          er<lb ed="#P" n="82" break="no"/>go et fides infusa: antecdencedens patet: charitas infusa 
+          <lb ed="#P" n="83"/>quondum inclinabat hebreum ad velle circuncide 
+          <lb ed="#P" n="84"/>re suum paruulum: nune autem charitas infusa inclinat 
+          <lb ed="#P" n="85"/>hebreum ad nolle circuncidere suum paruulum. ergo 
+          <lb ed="#P" n="86"/>per idem fides infusa inclinabat interdum ad 
+          as<lb ed="#P" n="87" break="no"/>sensum istius / christus morietur: nunc autem ad 
+          as<lb ed="#P" n="88" break="no"/>sensum istius / christus non morietur inclinat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

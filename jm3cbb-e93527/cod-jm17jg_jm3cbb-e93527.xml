@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="153-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e93527"><!-- l3d38q3 -->
+        <head xml:id="jm3cbb-e93527-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e93527-Hd1e101" type="question-title">An Deus potest dispensare quod mendacium bene fiat et possit decipere et fallere</head>
+        <p xml:id="jm3cbb-e93527-d1e104">
+          <lb ed="#P" n="72"/>TErtio circa hanc 
+          di<lb ed="#P" n="73" break="no"/>stinctionem queritur an deus potest 
+          di<lb ed="#P" n="74" break="no"/>spensare quod mendacium bene fiat / 
+          <lb ed="#P" n="75"/>et possit decipere / et fallere. et 
+          <lb ed="#P" n="76"/>hanc questionem intelligo 
+          insen<lb ed="#P" n="77" break="no"/>su totali significatiue loquendo 
+          <lb ed="#P" n="78"/>vel assertione. stat dicendo 
+          condi<lb ed="#P" n="79" break="no"/>tionalem veram dicere partes falsas: sed tota 
+          propo<lb ed="#P" n="80" break="no"/>sitio asserta erit vera. vnde christus Ioannis. vii de 
+          <lb ed="#P" n="81"/>patre loquens ait. Si dixero quia nescio eum ero similis 
+          <lb ed="#P" n="82"/>vobis mendax: vel dixit insipiens in corde suo non est deus 
+          <lb ed="#P" n="83"/>dicens hanc veram dicit partem eius falsam / non est deus. 
+          <lb ed="#P" n="84"/>dicitur etiam significatiue assertorie loquendo: quia notum 
+          <lb ed="#P" n="85"/>est: deus potest propositionem falsa proferre ironice 
+          significan<lb ed="#P" n="86" break="no"/>do et dando intelligere aliud. et patet de facto Gen. 
+          <lb ed="#P" n="87"/>iii. Ecce Adam quasi vnus ex nobis factus / est sciens bonum 
+          <lb ed="#P" n="88"/>et malum: vbi glo. interlinearis ironia.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e143">
+          ¶ Sensu 
+          quaestio<lb ed="#P" n="89" break="no"/>nis sic limitato scito. Hic varie sunt positiones vna tenet 
+          <lb ed="#P" n="90"/>quod mentiri / fallere / et decipere / quandoque important 
+          dif<lb ed="#P" n="91" break="no"/>formitatem iniusticiam: alio modo difformitatem 
+          exclu<lb ed="#P" n="92" break="no"/>dunt. Secundo modo deus potest fallere et decipere: non autem 
+          <lb ed="#P" n="93"/>primo modo. Secunda positio tenet quod deus de potentia 
+          ordi<lb ed="#P" n="94" break="no"/>nata deciperet fallere non potest: bene autem de potentia 
+          ab<lb ed="#P" n="95" break="no"/>soluta. prior positio tenet quod de facto deus plerosque etiam directe 
+          fe<lb ed="#P" n="96" break="no"/>fellit. tertia positio tenet partem negatiuam quaestionis.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e163">
+          ¶ Ut de 
+          <lb ed="#P" n="97"/>questione dicam quid censeam. pono conclusiones. quarum prima est: 
+          <lb ed="#P" n="98"/>ad deceptionem et mendacium partialiter deus potest concurrere 
+          <lb ed="#P" n="99"/>et de facto concurrit. Secunda coclusio: deus potest indirecte 
+          de<lb ed="#P" n="100" break="no"/>cipere et fallere: hoc est: potest dicere verum et rationabile  
+          <lb ed="#P" n="101"/>quod audiens non bene capit et a sua negligentia decipitur et 
+          <lb ed="#P" n="102"/>fallitur. Tertia conclusio: deus permittit deceptionem. 
+          Quar<lb ed="#P" n="103" break="no"/>ta conclusio: deus de nulla potentia potest se solo aliquem 
+          deci<lb ed="#P" n="104" break="no"/>pere: qualitercumque capitur deciperet et fallere: nec aliquem 
+          in<lb ed="#P" n="105" break="no"/>stigare ad decipiendum alium. Ab his conclusionibus secludo 
+          <lb ed="#P" n="106"/>reflexionem: vt assentiendo huic ego decipior vel omnis 
+          <lb ed="#P" n="107"/>homo decipitur: cui assentiendo homo decipitur. assentiendo 
+          prae<lb ed="#P" n="108" break="no"/>cise vero: et hoc non inconuenit in reflexiuis quae non 
+          obser<lb ed="#P" n="109" break="no"/>uant regulas communes aliorum locorum.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e195">
+          ¶ his vepribus / 
+          semo<lb ed="#P" n="110" break="no"/>tis probatur prima conclusio: ad omnem actum positiuum deus 
+          effecti<lb ed="#P" n="111" break="no"/>ue concurrit. deceptio est actus positiuus: qua ad 
+          deceptio<lb ed="#P" n="112" break="no"/>nem deus concurrit. consequentia patet in darii. minor patet deceptio 
+          <lb ed="#P" n="113"/>non alio est quam assensus falsi vel dissensus veri: ergo est res 
+          <lb ed="#P" n="114"/>positiua. maior est nota cuilibet fideli. et ad longum in secundo 
+          <lb ed="#P" n="115"/>in sua materia ostensa. quod aliqua deceptio fiat / 
+          suppo<lb ed="#P" n="116" break="no"/>no.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e213">
+          ¶ Secunda conclusio patet: deus dixit destruam templum hoc 
+          <lb ed="#P" n="117"/>et in triduo reedificabo illud Ioannis secundo. 
+          intelli<lb ed="#P" n="118" break="no"/>gens vere de suo corpore: et tamen iudei male 
+          in<lb ed="#P" n="119" break="no"/>telligentes hoc de secundo templo materiali. falle 
+          <pb ed="#P" n="154-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>bantur. Secundo probatur hoc idem: vir verax et iustus 
+          dicit<lb ed="#P" n="2" break="no"/>ore propositionem negatiuam veram: vbi audiens percipit 
+          <lb ed="#P" n="3"/>negationem in propositionis fronte positam: putat 
+          pro<lb ed="#P" n="4" break="no"/>ferentem dicere precise vnam affirmatiuam: et 
+          deci<lb ed="#P" n="5" break="no"/>pitur: vel non recte intelligit sensum propositionis. 
+          <lb ed="#P" n="6"/>exemplum primi: non est eadem insula trinacria et creta 
+          <lb ed="#P" n="7"/>exemplum secundi. Dico quod taprobana est aurea 
+          chero<lb ed="#P" n="8" break="no"/>nesus: tota illa secunda propositio est vera: extrema eius 
+          <lb ed="#P" n="9"/>supponunt pro eodem. male intelligens putat me velle 
+          <lb ed="#P" n="10"/>asserere hoc falsum / taprobana est aurea cheronesus. 
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e248">
+          <lb ed="#P" n="11"/>¶ Tertia conclusio patet: alioquin deceptio numquam 
+          fie<lb ed="#P" n="12" break="no"/>ret.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e255">
+          ¶ Quarta conclusio de qua contenditur probatur sic: per 
+          <lb ed="#P" n="13"/>illud Psal. Fidelis est dominus in omnibus verbis suis: et 
+          <lb ed="#P" n="14"/>sanctus in omnibus operibus suis.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e262">
+          ¶ Preterea: deus 
+          <lb ed="#P" n="15"/>non potest falli: ergo nec fallere. antecedens patet: quia tunc aliquid eum 
+          <lb ed="#P" n="16"/>lateret. et quod peius est erronee assentiret. consequentia tenet. quia 
+          <lb ed="#P" n="17"/>peius est fallere quam falli: quia falli est infirmitatis: fallere est 
+          <lb ed="#P" n="18"/>voluntatis. Unde August. lib. de symbolo: deus sicut  
+          <lb ed="#P" n="19"/>non potest falli ita nec fallere: non enim esset dignus 
+          <lb ed="#P" n="20"/>quod sit omnipotens. Secundo Aug. lib. octuaginta trium 
+          <lb ed="#P" n="21"/>questionum. q. quinquagesima tertia sic ait: summa 
+          <lb ed="#P" n="22"/>et perfecta virtus e neminem decipere. et paulo post: qua 
+          <lb ed="#P" n="23"/>propter deus neminem perseipsum decipit: est enim 
+          ve<lb ed="#P" n="24" break="no"/>ritas et pater veritatis. et postea subiungit: non itaque 
+          <lb ed="#P" n="25"/>deus deceptor est: quod credere nepharium et impium esse 
+          <lb ed="#P" n="26"/>quis non intelligit. sed meritorum et penarum 
+          iustissi<lb ed="#P" n="27" break="no"/>mus distributor. et quaestione. xiiii. eiusdem libri sic ait: 
+          <lb ed="#P" n="28"/>Si corpus christi fantasma fuit / fefellit christus: et si 
+          fefel<lb ed="#P" n="29" break="no"/>lit / christus veritas non est. sed sine dubio est veritas 
+          <lb ed="#P" n="30"/>christo: non igitur fantasma fuit corpus christi. et questione quin 
+          <lb ed="#P" n="31"/>tadecima sic inquit. deus per seipsum neminem decipit: 
+          <lb ed="#P" n="32"/>nec per angelum bonum neque per hominem bonum: cui non 
+          <lb ed="#P" n="33"/>conuenit persona fallacie. Uides ergo augustinum 
+          tene<lb ed="#P" n="34" break="no"/>re deum non posse fallere de quacumque potentia: et per 
+          <lb ed="#P" n="35"/>consequens illi qui leguntur decepti in scriptura non sunt 
+          dece<lb ed="#P" n="36" break="no"/>pti a deo: nec per angelos / nec per homines bonos. quod 
+          <lb ed="#P" n="37"/>Grego. ii. moralium tangens sic dicit: per spiritum 
+          falla<lb ed="#P" n="38" break="no"/>cem rex Achab suis meritis exigentibus 
+          decipi<lb ed="#P" n="39" break="no"/>tur: neque enim phas est credere bonum spiritum 
+          falla<lb ed="#P" n="40" break="no"/>cie discernere voluisse. et in articulis parisiensibus 
+          <lb ed="#P" n="41"/>posterioribus dicitur: quod possiblle est quod per volitionem 
+          crea<lb ed="#P" n="42" break="no"/>tam christus aliquid voluerit et nunquod sic debuit 
+          euenis<lb ed="#P" n="43" break="no"/>se / error. et alius articulus expressior dicit: quod christus 
+          po<lb ed="#P" n="44" break="no"/>tuit dixisse falsum et asseruisse assertione creata tam 
+          <lb ed="#P" n="45"/>vocale quod mentale / error. Et iterum alius articulus. 
+          <lb ed="#P" n="46"/>quod possibile est christum secundum voluntatem creatam 
+          er<lb ed="#P" n="47" break="no"/>rasse et forsitan secundum hominem mendacium 
+          protu<lb ed="#P" n="48" break="no"/>lisse / error. Finaliter: sic argumentor in lumine 
+          na<lb ed="#P" n="49" break="no"/>turali deceptio et fallere male sonant: et viris probis 
+          <lb ed="#P" n="50"/>non sunt attribuenda: quia inuolutam habent maliciam. 
+          <lb ed="#P" n="51"/>et si talia viris probis propter maliciam non sunt 
+          attri<lb ed="#P" n="52" break="no"/>buenda: a fortiori nec deo.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e347">
+          ¶ Contra hanc 
+          conclusio<lb ed="#P" n="53" break="no"/>nem arguitur si deus non potest fallere et mentiri immedia 
+          <lb ed="#P" n="54"/>te vel mediate per hominem vel angelum bonum: hoc 
+          <lb ed="#P" n="55"/>esset quia mentiri habet inuolutam maliciam: et queritur 
+          <lb ed="#P" n="56"/>de illa malicia. Forte dicis: et ita dicendum est. hoc 
+          <lb ed="#P" n="57"/>totum non potest bene fieri / quod aliquis dicat 
+          asser<lb ed="#P" n="58" break="no"/>torie aliquid esse / non assentiens illi immediate: nisi 
+          <lb ed="#P" n="59"/>proferat propositionem quam non intelligit 
+          mo<lb ed="#P" n="60" break="no"/>re sturni vel falsum scitum esse tale. est materia inde¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>bita locutionis in qua exprimitur ita esse.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e372">
+          ¶ Contra 
+          <lb ed="#P" n="62"/>hoc arguitur. Deus potest facere quod homicidium bene 
+          <lb ed="#P" n="63"/>fiat: et in hoc dispensare: et tamen homicidium et 
+          ma<lb ed="#P" n="64" break="no"/>ius peccatum quam deceptio vel mendacium: immo quod 
+          <lb ed="#P" n="65"/>periurium: vt in distinctione sequenti dicetur. Sed deus 
+          <lb ed="#P" n="66"/>potest dispensare in maiore: ergo potest etiam 
+          dispensa<lb ed="#P" n="67" break="no"/>re in minore.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e388">
+          ¶ Respondetur sufficienter inter 
+          arguen<lb ed="#P" n="68" break="no"/>dum ad vltimam obiectionem vsque. Ad quam dico 
+          <lb ed="#P" n="69"/>quod homicidium est maius peccatum quod mendacium: se 
+          <lb ed="#P" n="70"/>quia mendacium ex sua ratione formali: hoc est ipsum 
+          <lb ed="#P" n="71"/>sumptum cum connotatione non poterit bene fieri in 
+          sen<lb ed="#P" n="72" break="no"/>su composito: quia inuolutam habet maliciam: 
+          ho<lb ed="#P" n="73" break="no"/>micidium vero talem maliciam non inbibit: propterea in 
+          <lb ed="#P" n="74"/>vno potest dispensare deus: non autem in alio. aliqua 
+          <lb ed="#P" n="75"/>sunt que sunt per se mala: et quam primo nominata sunt 
+          in<lb ed="#P" n="76" break="no"/>natam habent maliciam. iii. ethicorum.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e410">
+          ¶ 
+          Se<lb ed="#P" n="77" break="no"/>cundo arguitur: deus partialiter deceptionem producit: ergo 
+          <lb ed="#P" n="78"/>deus decipit: et quocumque decipit est deceptor.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e417">
+          ¶ Tertio: 
+          <lb ed="#P" n="79"/>deus decipit indirecte: ergo deus decipit.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e422">
+          ¶ Ad secundum 
+          <lb ed="#P" n="80"/>nego consequentiam: quemadmodum non sequitur peccatum 
+          de<lb ed="#P" n="81" break="no"/>us facit: ergo deus / peccat: ille dicitur decipere qui falsum 
+          <lb ed="#P" n="82"/>scienter assertorie profert: quod deus non facit.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e431">
+          ¶ Ad 
+          <lb ed="#P" n="83"/>tertium negatur consequentia. Si ego dicam nullus homo est 
+          asi<lb ed="#P" n="84" break="no"/>nus: et tu existimes me dicere homines esse asinum: 
+          <lb ed="#P" n="85"/>non te decipio: sed teipsum decipis ex inaduertentia 
+          vul<lb ed="#P" n="86" break="no"/>go dicimus: malam rationem de auditis malus 
+          audi<lb ed="#P" n="87" break="no"/>tor facit.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e445">
+          ¶ Quarto arguitur: aliquis licite fallitur: 
+          <lb ed="#P" n="88"/>ergo aliquis licite falli. tenet consequentia: bene sequitur / 
+          sor<lb ed="#P" n="89" break="no"/>tes fallitur: ergo ab aliquo fallitur: antecedens est 
+          lici<lb ed="#P" n="90" break="no"/>tum: ergo et consequens.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e454">
+          ¶ Respondetur: consequentia est nulla. stat quod 
+          ali<lb ed="#P" n="91" break="no"/>quis fallatur et nemo fallat. solum directe fallere est 
+          <lb ed="#P" n="92"/>fallere in absoluto sermone. Secundo dico: hec 
+          con<lb ed="#P" n="93" break="no"/>sequentia est nulla / antecedens huius bone consequentie est 
+          lici<lb ed="#P" n="94" break="no"/>tum: ergo et consequens: patet instantia hic: sortes 
+          peni<lb ed="#P" n="95" break="no"/>tet ergo peccauit: in qua consequentia antecedens est licitum 
+          <lb ed="#P" n="96"/>consequens illicitum.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e470">
+          ¶ Quinto arguitur: quicquid 
+          <lb ed="#P" n="97"/>deus potest producere mediante ea secunda hoc deus  
+          <lb ed="#P" n="98"/>potest producere se solo: deceptionem deus potest 
+          <lb ed="#P" n="99"/>producere mediante causa secunda: ergo deceptionem 
+          <lb ed="#P" n="100"/>deus potest producere se solo. consequentia tenet in darii: 
+          nul<lb ed="#P" n="101" break="no"/>la est aliquorum solutio / consequentia non valet: quia sub signo 
+          <lb ed="#P" n="102"/>distributiuo praedicamenti substantie alterius 
+          praedicamen<lb ed="#P" n="103" break="no"/>menti terminus subsumitur: hoc est contra formalitatem 
+          <lb ed="#P" n="104"/>de darii: quod ex artibus theologus supponente debet. 
+          <lb ed="#P" n="105"/>Forte dicis: et sic dicendum est: conclusio est vera sicut 
+          pre<lb ed="#P" n="106" break="no"/>misse. ex quo non sequitur deceptionem deus causat se 
+          <lb ed="#P" n="107"/>solo. illa non est conclusionis de inesse. cum 
+          subie<lb ed="#P" n="108" break="no"/>ctum est terminus / connotatiuus: sua de inesse erit ista / 
+          <lb ed="#P" n="109"/>hanc rem deus producit se solo: demonstrando hoc 
+          <lb ed="#P" n="110"/>quod est deceptio: quod postea producetur extra 
+          <lb ed="#P" n="111"/>subiectum. modo nullibi est deceptio nisi in subiecto 
+          <lb ed="#P" n="112"/>vitaliter perceptiuo: quemadmodum sunt 
+          intelle<lb ed="#P" n="113" break="no"/>ctus / voluntas / et sensus
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e509">
+          ¶ Contra hoc arguitur. 
+          <lb ed="#P" n="114"/>hanorem deus producit se solo / demonstrando 
+          qua<lb ed="#P" n="115" break="no"/>litatem que est eiusdam speciei specialissime 
+          enti<lb ed="#P" n="116" break="no"/>tatiue cum deceptione fortis: et hanc rem potest 
+          <lb ed="#P" n="117"/>producere in intellectum sortis se solo: intellectu 
+          <lb ed="#P" n="118"/>sortis concurrente solum in genere cause 
+          mate<lb ed="#P" n="119" break="no"/>rialis. intellectus sortis illius qualitatis est 
+          susce<lb ed="#P" n="120" break="no"/>ptiuus: cum similem qualitatem in specie entitatiue re¬ 
+          <pb ed="#P" n="154-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cipiat. tunc illa qualitas est in subiecto vitaliter 
+          su<lb ed="#P" n="2" break="no"/>sceptiuo: ergo ipsa est deceptio: et a solo deo producta. 
+          <lb ed="#P" n="3"/>et tunc sic arguitur: hanc qualitatem deus producit se solo: et 
+          <lb ed="#P" n="4"/>hec quaelitas est deceptio: ergo deceptionem deus sesolo 
+          pro<lb ed="#P" n="5" break="no"/>ducit. consequentia est sillogismus expositorius: et antecedens verum: 
+          <lb ed="#P" n="6"/>ergo et conclusio: quae contradicit conclusioni contra quam 
+          <lb ed="#P" n="7"/>obiicimus.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e546">
+          ¶ Confirmatur hec ratio: deus potest 
+          conserua<lb ed="#P" n="8" break="no"/>re se solo deceptionem in intellectu sortis: ergoet potest eam 
+          <lb ed="#P" n="9"/>producere. tenet consequentia: conseruatio est productio. 
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e553">
+          <lb ed="#P" n="10"/>¶ Tertio argutur: sortes cum noticia intuitiua albedinis 
+          <lb ed="#P" n="11"/>habet iudicium quod paries est albus. sed deus potest obiectum 
+          ter<lb ed="#P" n="12" break="no"/>minatiuum illius noticie intuitiue destruere noticia 
+          <lb ed="#P" n="13"/>manente: prout comuniter dicitur: et manente noticia intuitiua 
+          <lb ed="#P" n="14"/>simplici / manebit iudicium. sed in illo casu deus 
+          deci<lb ed="#P" n="15" break="no"/>pit. igitur.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e570">
+          ¶ Quarto: ego possum propositionem falsam 
+          <lb ed="#P" n="16"/>producere: ergo et deus.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e575">
+          ¶ Ad primum interarguendum 
+          <lb ed="#P" n="17"/>sufficienter ad finem responsum est. et cum ponis in 
+          repli<lb ed="#P" n="18" break="no"/>ca / quod illam rem quae est non deceptio extra subiectum / 
+          po<lb ed="#P" n="19" break="no"/>nat deus in intellectum: se solo agente. multi dicerent: 
+          <lb ed="#P" n="20"/>tunc est deceptio actualis suapte natura si ponatur 
+          <lb ed="#P" n="21"/>in subiecto vitaliter perceptiuo: nec potest aliter 
+          <lb ed="#P" n="22"/>esse. tenendo hanc viam / nego quod sllam qualitatem 
+          <lb ed="#P" n="23"/>potest producere se solo in intellectu sortis. sed tenem 
+          <lb ed="#P" n="24"/>do quod illa qualitas potest poni in subiecto vitaliter 
+          per<lb ed="#P" n="25" break="no"/>ceptiuo: et cum hoc in tellectus / potest non tendere in 
+          ob<lb ed="#P" n="26" break="no"/>iectum cum illa qualitate: tunc esto quod illa qualitas 
+          <lb ed="#P" n="27"/>ponatur in subiecto / non erit deceptio. ad deceptio 
+          <lb ed="#P" n="28"/>nem requiritur quod actualiter intellectus vel sensus 
+          <lb ed="#P" n="29"/>erronee iudicet: quod non contingit. Secundum hanc viam 
+          <lb ed="#P" n="30"/>illa qualitas in animo erit non deceptio. alia est etiam 
+          dif<lb ed="#P" n="31" break="no"/>ficultas / an intellectus sibi relictus illa qualitate in 
+          <lb ed="#P" n="32"/>formatus potest tendere in obiectum vel non tendere. et se 
+          <lb ed="#P" n="33"/>cundum hoc consequer loquendo simile est de odio dei.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e614">
+          ¶ Ad 
+          <lb ed="#P" n="34"/>secundum nego quod deus potest conseruare se solo deceptio 
+          <lb ed="#P" n="35"/>nem in intellectu sortis: sicut non potest eam producere. 
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e621">
+          <lb ed="#P" n="36"/>¶ Tertium argumentum multiphariam impeditur. 
+          <lb ed="#P" n="37"/>aliqui dicunt quod existentia obiecti et noticia intuitiua 
+          <lb ed="#P" n="38"/>causant iudicium: et absentia habita / causabitur iudi 
+          <lb ed="#P" n="39"/>cium oppositum: secundem quos argumentum non habet locande. 
+          <lb ed="#P" n="40"/>sed credo illud esse falsum: propterea aliter dico. tum 
+          <lb ed="#P" n="41"/>primo: non sola noticia intuitiua et intellectus 
+          cau<lb ed="#P" n="42" break="no"/>sant iudicium: sed ipse obiectum immediate ad hoc 
+          concur<lb ed="#P" n="43" break="no"/>rit: ita quod sunt tres cause requisite ad productionem 
+          <lb ed="#P" n="44"/>illius iudicii: et due illarum non sufficiunt sine tertia. 
+          <lb ed="#P" n="45"/>et illud potest colorari: alioquin noticia intuitiua 
+          <lb ed="#P" n="46"/>causaretur ab intellectu et speibus in medio: et nullo 
+          <lb ed="#P" n="47"/>modo ab obiecto intuitiue cognito: et sic corrupto 
+          <lb ed="#P" n="48"/>obiecto non causatur iudicium: et ex consequenti nec error. 
+          Se<lb ed="#P" n="49" break="no"/>cundo tenendo quod iudicium causatur a noticia intuitiua 
+          <lb ed="#P" n="50"/>obiecti et ab intellectu cum concursu dei generali: et obie 
+          <lb ed="#P" n="51"/>ctum nullam causalitatem ad hoc habet nisi quia est cam 
+          cau<lb ed="#P" n="52" break="no"/>se: non sequitur illatum: cum deus se solo illam deceptio 
+          <lb ed="#P" n="53"/>nem non producit. sed notitia et intellectus creatus. quod 
+          <lb ed="#P" n="54"/>deus partialiter deceptionem causet / non est dubium. deus 
+          <lb ed="#P" n="55"/>non plus hic facit quam si obiecium esset existens: qua 
+          solo<lb ed="#P" n="56" break="no"/>modo dicit quod obiectum non concurrit immediate ad 
+          iudi<lb ed="#P" n="57" break="no"/>cium: sed intellectus noticia intuitiuae deus: modo deus 
+          <lb ed="#P" n="58"/>equaliter concurrit cum casis secundis / fiue obiectum 
+          exi<lb ed="#P" n="59" break="no"/>stit / siue non. et si deus possit supplere camilitatem effecti 
+          <lb ed="#P" n="60"/>aam noticie intuitiue concurrendo cum intellectu: vel 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>causalitatem effectiuam intellectus: relinquendo 
+          nori<lb ed="#P" n="62" break="no"/>ciam intuitiuam concurrere: non sequitur quod deus se solo de 
+          <lb ed="#P" n="63"/>ceptionem producat: cum causa secunda est adiuncta secum 
+          <lb ed="#P" n="64"/>in concursu. Contra illud arguitur. Ex illo sequitur quod deus potest 
+          ha<lb ed="#P" n="65" break="no"/>bitum deceptorium immediate in intellectum creatum 
+          <lb ed="#P" n="66"/>infundere: consequens est falsum. est habitus erroneus. ergo est error. 
+          <lb ed="#P" n="67"/>vel sic: est error habitualis: ergo est error: et quod sequatur patet: 
+          <lb ed="#P" n="68"/>non inconuenit deum errorem partialiter producere. sed habantus 
+          <lb ed="#P" n="69"/>ille non concurrit ad errorem actualem sine concursu 
+          in<lb ed="#P" n="70" break="no"/>tellectus. habitu vtimur cum volumus secundum commentato 
+          <lb ed="#P" n="71"/>rem tertio de anima. sed deum deceptionem partialiter 
+          pro<lb ed="#P" n="72" break="no"/>ducere non est inconueniens: igitur. Respondetur quando concederetur 
+          <lb ed="#P" n="73"/>illatum / non haberes quod deceptionem actualem deus 
+          <lb ed="#P" n="74"/>possit producere. et solum sequitur quod deus partialiter 
+          <lb ed="#P" n="75"/>deceptionem actualem producat. Secundo dico non 
+          <lb ed="#P" n="76"/>sequitur: et ratio est: error habitualis est error. modo deus qui est 
+          <lb ed="#P" n="77"/>summa veritas qui nec mentiri nec fallere potest / non 
+          <lb ed="#P" n="78"/>potest actualem deceptionem producere vel habitualem. 
+          noti<lb ed="#P" n="79" break="no"/>cia intuitiua est noticia simplex ad errorem non spectans 
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e721">
+          <lb ed="#P" n="80"/>¶ Ad quartum concedo consequentiam et consequens. sed nego quod deus potest 
+          ali<lb ed="#P" n="81" break="no"/>quid dicere cum intentone fallendi / siue assensum filnm 
+          canndi<lb ed="#P" n="82" break="no"/>siue volendi quod alter decipiatur: in eo repugnat 
+          duplici<lb ed="#P" n="83" break="no"/>tas. viros duplices detestamur omnes: et simplices ea 
+          <lb ed="#P" n="84"/>simplicitate laudamus. scriptura sacra vocat 
+          Iacob<lb ed="#P" n="85" break="no"/>virum simplicem: hoc est: sine plica et dolo / non simplex 
+          <lb ed="#P" n="86"/>more vulgi loquendo / pro idiota vel illitterato: ergo 
+          <lb ed="#P" n="87"/>a fortiori deus non est dicendus duplexicum viris 
+          pro<lb ed="#P" n="88" break="no"/>bis non demus duplicitatem: ergo a fortiore nec angelis 
+          <lb ed="#P" n="89"/>bonis: insolubiliter sequitur quod illud deo non est 
+          dam<lb ed="#P" n="90" break="no"/>dum.
+        </p>
+        <p xml:id="jm3cbb-e93527-d1e747">
+          ¶ Ex omnibus sequitur quod deus non potest fallere 
+          inne<lb ed="#P" n="91" break="no"/>diate nec instigare aliquem ad fallendum vel 
+          mentien<lb ed="#P" n="92" break="no"/>dum de quacumque potentia ordinata vel absoluta. nec 
+          <lb ed="#P" n="93"/>opatet distinguere de falsitate ordinata vel inordina 
+          <lb ed="#P" n="94"/>ta. omnis deceptio et omne mendacium inordinate fit: nec 
+          <lb ed="#P" n="95"/>aliter fieri potest. deceptionem tamen deus partialiter 
+          cau<lb ed="#P" n="96" break="no"/>sat: alioquin creatura nulla decipere otest. et libet 
+          conce<lb ed="#P" n="97" break="no"/>damus peccatii deus causat et non causet peccatum: possu 
+          <lb ed="#P" n="98"/>mus concedere quod deus partialiter deceptionem 
+          cau<lb ed="#P" n="99" break="no"/>sat: causat iudicium partialiter quod est deceptio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

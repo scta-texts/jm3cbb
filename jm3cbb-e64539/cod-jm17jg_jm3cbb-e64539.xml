@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="105-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e64539"><!-- l3d34q2 -->
+        <head xml:id="jm3cbb-e64539-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e64539-Hd1e101" type="question-title">An timor mundanus, servilis, initialis, et filialis inter se
+    distincte caritati contrarii sint</head>
+        <p xml:id="jm3cbb-e64539-d1e104">
+          <lb ed="#P" n="101"/>SEcundo circa hanc 
+          di<lb ed="#P" n="102" break="no"/>stnctionem xxxiiii. queritur: an
+          ti<lb ed="#P" n="103" break="no"/>mor mundanus / seruilis / initialis / 
+          <lb ed="#P" n="104"/>ot filialis / inter se distincte / 
+          cari<lb ed="#P" n="105" break="no"/>tati contrarientur. In hac questione 
+          <lb ed="#P" n="106"/>primo declarabuntur vocabula ipsa. 
+          <lb ed="#P" n="107"/>Secundo ad quaesitum respondebitur per conclusiones.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e122">
+          ¶ 
+          Ti<lb ed="#P" n="108" break="no"/>mor prima sui partitione triphariam accipitur Primo 
+          <lb ed="#P" n="109"/>modo pro passione appetitus sensitiui vel intellectiui 
+          <lb ed="#P" n="110"/>naturaliter sequente apprehensionem alicuius 
+          discon<lb ed="#P" n="111" break="no"/>uenientis vt possibiliter futuri. hoc modo enumeratur 
+          <lb ed="#P" n="112"/>in quatuor principales passiones a Boetio in de 
+          con<lb ed="#P" n="113" break="no"/>solatione libro primo metro. vii. hoc modo hic non 
+          <lb ed="#P" n="114"/>capitur. Alio modo capitur proactu elicito voluntatis: 
+          <lb ed="#P" n="115"/>scilicet: nolendi aut refugiendi huiusmodi inconueniens. 
+          <lb ed="#P" n="116"/>Tertio modo capitur pro habitu ex actu volunta 
+          <lb ed="#P" n="117"/>tis genito. his duobus vltimis modis capiendo 
+          ti<lb ed="#P" n="118" break="no"/>morem quadriphariam accipitur. Primum 
+          mem<lb ed="#P" n="119" break="no"/>brum est timor madanus: quiest acus quoquis ha¬ 
+          <pb ed="#P" n="106-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nolle facere preceptum dei ne inconueniens 
+          incur<lb ed="#P" n="2" break="no"/>rat in corpore / fama / vel erga alium temporalem 
+          vi<lb ed="#P" n="3" break="no"/>rum / vel est actus quo quis vult non facere 
+          prece<lb ed="#P" n="4" break="no"/>ptum dei affectione humana. Timor seruilis potest 
+          <lb ed="#P" n="5"/>biphariam capi. Uno modo vt includit 
+          difformita<lb ed="#P" n="6" break="no"/>tem seruitutis peccati. et sic est actus vel habitus 
+          <lb ed="#P" n="7"/>relinquendi mali culpe propter euasionem pene 
+          fu<lb ed="#P" n="8" break="no"/>ture: et si non esset huiusmodi pena: vellet iste talem 
+          <lb ed="#P" n="9"/>actum facere. Secundo modo capitur pro actu vel 
+          <lb ed="#P" n="10"/>habitu declinandi peccatum propter penam 
+          pecca<lb ed="#P" n="11" break="no"/>to debitam. Isto modo capiendo timorem / non 
+          in<lb ed="#P" n="12" break="no"/>cludit difformitatem: scilicet voluntatem 
+          peccan<lb ed="#P" n="13" break="no"/>di: si pena non sequatur.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e183">
+          ¶ Tertius timor est 
+          timor<lb ed="#P" n="14" break="no"/>castus filialis aut amicalis. metaphorice castus: qua 
+          <lb ed="#P" n="15"/>deus est sponsus anime nostre. et dicitur filialis: qua 
+          <lb ed="#P" n="16"/>talem timorem filius bonus habet erga patrem. 
+          <lb ed="#P" n="17"/>modo deus est pater noster. est amicalis: quia talem de 
+          <lb ed="#P" n="18"/>bet habere homo ad amicum suum. et est actus vel 
+          ha<lb ed="#P" n="19" break="no"/>bitus quo quis non vult peccare propter deum 
+          ama<lb ed="#P" n="20" break="no"/>tum: vel non vult separari ab eo sicut bonat casta 
+          <lb ed="#P" n="21"/>vxor timet separari a marito quem diligit.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e204">
+          ¶ 
+          Quar<lb ed="#P" n="22" break="no"/>tus est timorinitialis: de vtroque timore scilicet 
+          fi<lb ed="#P" n="23" break="no"/>liali et seruili participans: propterea in vltimo 
+          loco<lb ed="#P" n="24" break="no"/>hunc timorem posui: quia alios duos presuppouit: et 
+          <lb ed="#P" n="25"/>est actus vel habitus quo quis non vult peccare 
+          ti<lb ed="#P" n="26" break="no"/>more pene et etiam amore dei.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e217">
+          ¶ His 
+          preliba<lb ed="#P" n="27" break="no"/>tis pono conclusiones: Quarum prima est. timor 
+          actu<lb ed="#P" n="28" break="no"/>alis mundanus distinguitur specie ab aliis 
+          timori<lb ed="#P" n="29" break="no"/>bus sequentibus: et quilibet alius istorum graduum 
+          <lb ed="#P" n="30"/>timoris ab aliis. Probatur hec conclusio: omnes actus 
+          <lb ed="#P" n="31"/>habentes obiecta specie distincta / specie distinguum 
+          <lb ed="#P" n="32"/>tur. hec propositio est clara ex secundo de anima. sed 
+          <lb ed="#P" n="33"/>huusmodi timores sunt huiusmodi. igitur. semper est 
+          ob<lb ed="#P" n="34" break="no"/>iectum totale vel partiale vnius / alterius speciei ab 
+          <lb ed="#P" n="35"/>obiecto partiali vel totali alterius.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e239">
+          ¶ Secunda 
+          con<lb ed="#P" n="36" break="no"/>clusio ex hac sequens. habitus isti quattuor inter se 
+          <lb ed="#P" n="37"/>distinguuntur. probatur: vtrobique tanta est distinctio 
+          <lb ed="#P" n="38"/>habituum quanta est actuum. et ex his sequitur / nullus / isto 
+          <lb ed="#P" n="39"/>rum timorum potest esse alter: et patet hoc sic: si solo 
+          <lb ed="#P" n="40"/>numero differrent: nullus illorum potest esse alter. 
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e252">
+          <lb ed="#P" n="41"/>¶ Tertia conclusio. timormundanus est peccatum 
+          morta<lb ed="#P" n="42" break="no"/>le charitati incompossibile secunde legem. hec est de se 
+          sa<lb ed="#P" n="43" break="no"/>tis nota. contra hunc timorem loquitur christus Mathei. x. 
+          <lb ed="#P" n="44"/>inquiens: nolite timere eos qui occidut corpus. etc. 
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e263">
+          <lb ed="#P" n="45"/>¶ Quarta conclusio. timor seruilis primo modo captus est 
+          <lb ed="#P" n="46"/>pecatum et charitati contrarium. patet: ponit actum 
+          pecca<lb ed="#P" n="47" break="no"/>ti si non esset pena.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e272">
+          ¶ Secundo arguitur ad idem. 
+          <lb ed="#P" n="48"/>habeens illum actum non facit peccatum: sed non amore hone 
+          <lb ed="#P" n="49"/>sti: sed solo timore pene. sed talis actus reddit 
+          ho<lb ed="#P" n="50" break="no"/>minem malum: iuxta illud metriste. Oderunt 
+          peccare<lb ed="#P" n="51" break="no"/>mali formidine pene. Oderunt peccare boni 
+          virtu<lb ed="#P" n="52" break="no"/>tis amore.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e286">
+          ¶ Quinta conclusio. timor seruilis secundo 
+          <lb ed="#P" n="53"/>modo non est malus: nec charitati repugnans. patet: 
+          <lb ed="#P" n="54"/>habet obiectum licitum: nec circunstantiam malam aliquam 
+          inuol<lb ed="#P" n="55" break="no"/>uit in ratione obiecti. ergo actus ille timoris non est 
+          <lb ed="#P" n="56"/>malus. nolle peccare est actus bonus. simimlir licitum 
+          <lb ed="#P" n="57"/>est nolle peccare ne puniatur ratione peccati. ad timorem 
+          fi<lb ed="#P" n="58" break="no"/>lialem inducit: sicut seta viam filo aperit.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e302">
+          ¶ Sexta 
+          conclu<lb ed="#P" n="59" break="no"/>sio. timor initialis est bonus  charitati compossibilis. 
+          <lb ed="#P" n="60"/>hec conclusio est satis clara.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e309">
+          ¶ Septima conclusio pere 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>cta charitas expellit timorem initialeme imperfectum: 
+          <lb ed="#P" n="62"/>sed timorem castum non expellit. tota hec conclusio patet 
+          <lb ed="#P" n="63"/>auctoritate Ioannis. prime Ioannis. iiii. perfecta 
+          cha<lb ed="#P" n="64" break="no"/>ritas foras mittit timorem. et auctoritate Aug. in 
+          no<lb ed="#P" n="65" break="no"/>na epistola super Ioannem: et magister in littera 
+          intro<lb ed="#P" n="66" break="no"/>ducit. sic dicit Aug. cepit aliquis credere diem 
+          iudi<lb ed="#P" n="67" break="no"/>cii: si cepit credere. cepit et timere. Sed quia adhuc 
+          ti<lb ed="#P" n="68" break="no"/>met: nondum habet fiduciam in die iudicii: nondum est 
+          <lb ed="#P" n="69"/>in illo perfecta charitas. si perfecta in illo esset 
+          cha<lb ed="#P" n="70" break="no"/>ritas: non timeret. perfecta enim charitas faceret 
+          perfe<lb ed="#P" n="71" break="no"/>ctam iusticiam: et non haberet vnde timeret: immo 
+          ha<lb ed="#P" n="72" break="no"/>beret quare desideraret vt transeat iniquitas: et 
+          ve<lb ed="#P" n="73" break="no"/>niat regnum dei. perfecta inquit charitas foras mittit 
+          <lb ed="#P" n="74"/>timorem. Timorquisi locum praeparat charitati. cum 
+          au<lb ed="#P" n="75" break="no"/>tem ceperit charitas habitare: pellitur timor qui ei 
+          pre<lb ed="#P" n="76" break="no"/>parauit locum. quantum enim illa crescit: ille decrescit. et 
+          <lb ed="#P" n="77"/>quantum illa fit interior: timor pellitur foras. 
+          ma<lb ed="#P" n="78" break="no"/>ior charitas: minor timor: minor charitas: 
+          maior<lb ed="#P" n="79" break="no"/>timor.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e355">
+          ¶ Contra quintam conclusionem arguitur: 
+          <lb ed="#P" n="80"/>actus ille timoris non habet obiectum sufficiens / 
+          <lb ed="#P" n="81"/>t finem sufficientem ad hoc quod actus dicatur bonus: 
+          <lb ed="#P" n="82"/>cum solum non vult facere illum actum ratione 
+          pe<lb ed="#P" n="83" break="no"/>ne. Forte dicis: conclusio dicit non est actus malus. 
+          <lb ed="#P" n="84"/>potest saluari esse indifferens.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e368">
+          ¶ Contra: 
+          probabi<lb ed="#P" n="85" break="no"/>le est quod non est ponendus actus deliberatus 
+          indif<lb ed="#P" n="86" break="no"/>ferens: et si ponatur: actus iste non erit de 
+          nume<lb ed="#P" n="87" break="no"/>ro indifferentium.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e377">
+          ¶ Respondetur negando quod non 
+          <lb ed="#P" n="88"/>habeat obiectum sufficiens et finem sufficientem 
+          <lb ed="#P" n="89"/>ad actus bonitatem. licet habeat malum pene 
+          actu<lb ed="#P" n="90" break="no"/>aliter: et non deum vel honestum: virtualiter hec 
+          <lb ed="#P" n="91"/>habere potest: et hoc sufficit.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e389">
+          ¶ Contra vltimam 
+          <lb ed="#P" n="92"/>conclusionem arguitur sic. nulla est repugnantia 
+          <lb ed="#P" n="93"/>inter charitatem et timorem filialem. ergo sese 
+          con<lb ed="#P" n="94" break="no"/>patiuntur. consequentia est nota. probatur 
+          antece<lb ed="#P" n="95" break="no"/>dens de actibus eorum. modo quorumcumque 
+          habi<lb ed="#P" n="96" break="no"/>tuum actus sunt compossibiles: et habitus 
+          com<lb ed="#P" n="97" break="no"/>possibiles erunt.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e405">
+          ¶ Secundo Ecclesia. primo 
+          scri<lb ed="#P" n="98" break="no"/>bitur. Initium sapientie timor domini: ergo 
+          ti<lb ed="#P" n="99" break="no"/>mor non excluditur per charitatem. Et illud 
+          con<lb ed="#P" n="100" break="no"/>firmatur per illud quod scribitur psalmo 
+          decimo<lb ed="#P" n="101" break="no"/>octauo. Timor domini castus permanet in 
+          secu<lb ed="#P" n="102" break="no"/>lum seculi.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e418">
+          ¶ Tertio arguitur. sapientia non 
+          <lb ed="#P" n="103"/>euacuatur per charitatis aduentum: sed timor 
+          do<lb ed="#P" n="104" break="no"/>mini est sapientia: igitur. consequentia tet cum maiore: 
+          <lb ed="#P" n="105"/>probatur minor per illud quod scribitur Iob. xxviii 
+          <lb ed="#P" n="106"/>Timor domini ipse est sapientia
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e429">
+          ¶ Ad primum 
+          respon<lb ed="#P" n="107" break="no"/>detur: nulla est repugnantia inter charitatem et 
+          ti<lb ed="#P" n="108" break="no"/>morem filialem: propterea psalmista dicit: timor 
+          do<lb ed="#P" n="109" break="no"/>mini castus permanet in seculum seculi: signanter 
+          ca<lb ed="#P" n="110" break="no"/>stus. beatus Ioannes in canonica non addit ly 
+          ca<lb ed="#P" n="111" break="no"/>stus: dicit perfecta charitas foris mittit timorem: 
+          lo<lb ed="#P" n="112" break="no"/>quitur de timore seruili vel initiali: vel de 
+          timo<lb ed="#P" n="113" break="no"/>re passione quam quis habet quando apprehendit 
+          <lb ed="#P" n="114"/>aliquod malum futurum vt possibile. modo existens in 
+          <lb ed="#P" n="115"/>perfecta charitate (potissimum patrie) cogitatum 
+          <lb ed="#P" n="116"/>in dominio potissimum figit: et nichil habet vnde time 
+          <lb ed="#P" n="117"/>at: ita vult beatus Ioannes. patet: prime Ioannis. iiii. 
+          <lb ed="#P" n="118"/>scribitur / timor non est in charitate: sed perfecta 
+          cari<lb ed="#P" n="119" break="no"/>tas foras mittittimorem in verbo tiniorem ofcit aloss 
+          <pb ed="#P" n="106-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>interlinearis (quam plus inter omnes reliquas 
+          glo<lb ed="#P" n="2" break="no"/>sas pondero marginalem vel aliam) seruilem. 
+          post<lb ed="#P" n="3" break="no"/>ea dicit beatus Ioannes: quandum timor penam habet: 
+          <lb ed="#P" n="4"/>vbi glosa interlinearis sic exponit: quia torquet 
+          cor<lb ed="#P" n="5" break="no"/>conscientia peccatorum: cum nondum facta est iustificatio. Ex 
+          <lb ed="#P" n="6"/>bis patet solutio ad omnes obiectiones ad formam. 
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e477">
+          <lb ed="#P" n="7"/>¶ Dubitatur: an actus est melior qui fit timore pene 
+          <lb ed="#P" n="8"/>corporalis quam amore boni temporalis: puta: an 
+          me<lb ed="#P" n="9" break="no"/>lius facit scolasticus transiens audire rem diuinam 
+          <lb ed="#P" n="10"/>ne percutiatur: vel canonicus allectus ire audire 
+          similen<lb ed="#P" n="11" break="no"/>rem diuinam / amore pecunie in missa date.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e490">
+          ¶ 
+          Respon<lb ed="#P" n="12" break="no"/>detur: actus potest dici melior quia magis 
+          volunta<lb ed="#P" n="13" break="no"/>rius ex parte obiecti. aliquis potest velle ire ad ec 
+          <lb ed="#P" n="14"/>clesiam et ratione pecunie: et ratione rei diuine 
+          si<lb ed="#P" n="15" break="no"/>mulcopulatiue: de hoc non quaeritur: sed copulati vadit perper 
+          <lb ed="#P" n="16"/>illa duo: ita quod vnum non solum sufficit mouere virum ad 
+          <lb ed="#P" n="17"/>hoc quod eat ad ecclesiam: sed illa duo copulatin sufficiunt. 
+          <lb ed="#P" n="18"/>semper quando aliquis mouetur ex minore motiuo ad 
+          <lb ed="#P" n="19"/>bonum: tanto actus suus est magis voluntarius ad 
+          <lb ed="#P" n="20"/>illud bonum. pro quato aliquid est magis mobile a 
+          mi<lb ed="#P" n="21" break="no"/>nore motiuo mouetur. sed minus motiuum est 
+          ca<lb ed="#P" n="22" break="no"/>nonico opulento ire ad ecclesiam pro pecunia: 
+          potis<lb ed="#P" n="23" break="no"/>simum parua: timens nelillam paruam pecuniam 
+          amit<lb ed="#P" n="24" break="no"/>tat quam sit scolastico ire ad ecclesiam ne puniatur: ergo 
+          <lb ed="#P" n="25"/>actus canonici est magis voluntarius quam actus 
+          sco<lb ed="#P" n="26" break="no"/>lastici. nam verosimile est quod cum iste canonicus vadat 
+          <lb ed="#P" n="27"/>ad ecclesiamtimore ne amittat paruum album: 
+          ci<lb ed="#P" n="28" break="no"/>tius iret timore verberum quae expectat scolasticus. 
+          po<lb ed="#P" n="29" break="no"/>test tamen esse tanta pecunia quae plus mouet virum 
+          <lb ed="#P" n="30"/>adire ecclesiam quam verbera: ita quod si daretur viro optio 
+          <lb ed="#P" n="31"/>mallet percuti tali pena quam talem pecuniam amittere: 
+          <lb ed="#P" n="32"/>tunc ire ad ecclesiam timore ne talis pecunia a 
+          mit<lb ed="#P" n="33" break="no"/>tatur: non reddit actum magis spontaneum. Si 
+          autem<lb ed="#P" n="34" break="no"/>consideretur bonitas actus ex parte obiecti: 
+          triplici<lb ed="#P" n="35" break="no"/>ter potest aliquis se habere ad faciendum bonum opus 
+          <lb ed="#P" n="36"/>timore pene vel metu damni. Uno modo quod tale bonum 
+          <lb ed="#P" n="37"/>non faceret pro amissione rei temporalis: faceret tamen 
+          <lb ed="#P" n="38"/>ne verberetur. Secundo modo quod tale bonum non 
+          <lb ed="#P" n="39"/>faceret pro verberis vitatione: faceret tamen ne 
+          pe<lb ed="#P" n="40" break="no"/>cuniam perdat. Tertio modo ire ad ecclesiam non 
+          <lb ed="#P" n="41"/>placet ei aliquo modo secundum se: tamen pro quolibet 
+          isto<lb ed="#P" n="42" break="no"/>rum iret: ita quod quodlibet istorum accipit vt finem 
+          priencipali<lb ed="#P" n="43" break="no"/>ter volitum: sic scilicet: quod paratus esset ire ad ecclesiam: 
+          <lb ed="#P" n="44"/>et ne amitteret rem temporalem: et ne verberetur. tunc 
+          di<lb ed="#P" n="45" break="no"/>cunt aliqui: de istis tribus: primus est minus malus 
+          <lb ed="#P" n="46"/>quam secundus: quia primus praefert maius bonum minus 
+          <lb ed="#P" n="47"/>bono: scilicet bonum corporis bono rei temporalis: et 
+          pre<lb ed="#P" n="48" break="no"/>fert vitationem maioris mali: scilicet verberis: vitatio 
+          <lb ed="#P" n="49"/>m vvnoris mali scilicet pecunie. Secundus autem 
+          econ<lb ed="#P" n="50" break="no"/>uerso. vnde primus ex meliore fine mouetur quam secum 
+          <lb ed="#P" n="51"/>dus. nam primus comparatur ad secundum sicut timidus 
+          <lb ed="#P" n="52"/>ad auarum: vel sicut timidus timore humano ad 
+          <lb ed="#P" n="53"/>timidum timore mundano. timiditas autem qua 
+          ali<lb ed="#P" n="54" break="no"/>quis est inordinate subditus bono corporis / est 
+          mi<lb ed="#P" n="55" break="no"/>nus vicium quaom auaricia qua quis est subditus pecunie. 
+          <lb ed="#P" n="56"/>Primus et secundus etiam sunt minus mali quam tertius. 
+          <lb ed="#P" n="57"/>Primus habet vicium timiditatis tantm. Secundus 
+          vi<lb ed="#P" n="58" break="no"/>cium auaricie tamteum. Tertius vtrumque vicium.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e595">
+          ¶ Sed 
+          <lb ed="#P" n="59"/>contra istud arguitur: stat quod aliqua pecunia sit magis eli 
+          <lb ed="#P" n="60"/>genda: et carentia illius magis fugienda quam hec pe¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>na corporis: ergo non oportet quod iste praeferat bonum 
+          <lb ed="#P" n="62"/>minus magis bono.
+        </p>
+        <p xml:id="jm3cbb-e64539-d1e608">
+          ¶ Secundo: non quilibet 
+          pre<lb ed="#P" n="63" break="no"/>ferens minus bonum magis bono male agit: ergo 
+          <lb ed="#P" n="64"/>male arguit eorum maliciam. antecedens patet: non peccat 
+          <lb ed="#P" n="65"/>peligens stare in seculo / religione relicta: nec 
+          pec<lb ed="#P" n="66" break="no"/>cat / data optione de scuto et duodeno: duodenum 
+          <lb ed="#P" n="67"/>capiens et scuto relicto. ergo capiens minus 
+          bo<lb ed="#P" n="68" break="no"/>num vtile maiore relicto: vel minus bonum honestum 
+          <lb ed="#P" n="69"/>maiore relicto: non oportet quod peccet. Propterea 
+          <lb ed="#P" n="70"/>non oportet primum vel secundum esse malum ratione istius 
+          <lb ed="#P" n="71"/>casus. Tertius modus est malus: si homo transeat ad 
+          <lb ed="#P" n="72"/>ecclesiam precise pro pecunia et nullo modo pro deo 
+          <lb ed="#P" n="73"/>actualiter vel virtualiter. sed stat quod nollet ire si non 
+          <lb ed="#P" n="74"/>esset pecunia danda: et bene ageret: vt in. xxv. 
+          di<lb ed="#P" n="75" break="no"/>stinctione quarti diximus. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

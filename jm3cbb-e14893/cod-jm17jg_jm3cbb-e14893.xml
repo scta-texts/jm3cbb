@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="25-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e14893"><!-- l3d13q1 -->
+        <head xml:id="jm3cbb-e14893-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e14893-Hd1e101" type="question-title">De gratia animae Christi: an illa fuerit maxima. Opinio
+    prima, non datur maxima qualitas</head>
+        <p xml:id="jm3cbb-e14893-d1e104">
+          <lb ed="#P" n="42"/>CIrca distinctionem 
+          <lb ed="#P" n="43"/>tertiam decimam queram duo. 
+          <lb ed="#P" n="44"/>primum erit de gratia anime christi: et 
+          <lb ed="#P" n="45"/>hoc potissimum in hac 
+          distin<lb ed="#P" n="46" break="no"/>ctione quero. et illud in tres 
+          par<lb ed="#P" n="47" break="no"/>uas questiones tripartiar: secundum 
+          <lb ed="#P" n="48"/>positiones occurrentes de 
+          il<lb ed="#P" n="49" break="no"/>la materia. Secundo: gratia vltimi argumenti huius 
+          <lb ed="#P" n="50"/>questionis parua occasione data / releuando spandum a 
+          the<lb ed="#P" n="51" break="no"/>ologia: quaeram de illa commni pertitione phisica de maxio 
+          <lb ed="#P" n="52"/>quod sic / de minimo quod sic / de maximo quod non / de mini 
+          <lb ed="#P" n="53"/>mo quod non.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e133">
+          ¶ Circa primum multas scias esse 
+          opi<lb ed="#P" n="54" break="no"/>niones: quarum vna tenet quod non datur maxima 
+          qua<lb ed="#P" n="55" break="no"/>litas: sed datur maxima qualitas potens 
+          existe<lb ed="#P" n="56" break="no"/>re in tali subiecto. et sic dicunt anima christi habet 
+          <lb ed="#P" n="57"/>tantam gratiam quantam suscipere potest: sed an 
+          <lb ed="#P" n="58"/>gelus vel substantia superior maiorem gratiam 
+          <lb ed="#P" n="59"/>suscipere potest quam anima christi. sicut datur pinta 
+          po<lb ed="#P" n="60" break="no"/>tens pintam aque vel lactis recipere / et non am¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>plius: eo quod tota sua capacitas est repleta. et sic 
+          di<lb ed="#P" n="62" break="no"/>ceret hec positio / aliquos gradus gratie 
+          anima<lb ed="#P" n="63" break="no"/>potest recipere: et non plures. et consequenter 
+          concede<lb ed="#P" n="64" break="no"/>ret infinita gratia potest in subiecto recipi. sed in 
+          <lb ed="#P" n="65"/>nullo subiecto potest infinita gratia recipi.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e164">
+          ¶ 
+          Con<lb ed="#P" n="66" break="no"/>tra hanc positionem ponitur hec conclusio. infinitam 
+          <lb ed="#P" n="67"/>gratiam anima potest recipere: probatur hec 
+          conclu<lb ed="#P" n="68" break="no"/>sio. duos gradus gratie anima potest recipcre: et 
+          <lb ed="#P" n="69"/>gratia est saluset perfectio anime: ergo quoscumque 
+          <lb ed="#P" n="70"/>gradus gratie anima potest recipere et patet istud 
+          <lb ed="#P" n="71"/>aliunde: a qua non recipit quoscumque gradus caloris: 
+          <lb ed="#P" n="72"/>quia sunt virtualiter aque contrarii. nec aer recipitur 
+          <lb ed="#P" n="73"/>quoscumque gradus caloris: quia determinat ei 
+          ali<lb ed="#P" n="74" break="no"/>quos certos. ergo cum anima vel aliud subiectum 
+          <lb ed="#P" n="75"/>gratificabile non determinat sibi derterminatoon 
+          <lb ed="#P" n="76"/>gradus gratie: potest quoscumque recipere. Sed hic 
+          di<lb ed="#P" n="77" break="no"/>ceretur: ignis (qui optime disponitur per calorem ) 
+          <lb ed="#P" n="78"/>determinatos gradus caloris requirit. quod patet: 
+          <lb ed="#P" n="79"/>cum forma ignis determinatos gradus caloris 
+          <lb ed="#P" n="80"/>producit. hec non est causa: sed determinata 
+          actiui<lb ed="#P" n="81" break="no"/>tas forme substantialis ignis. si aliquod agens ex 
+          <lb ed="#P" n="82"/>trinsecum maiorem calorem in ignem produceret: non 
+          <lb ed="#P" n="83"/>peius disponeretur ignis. Secundo: et si ignis 
+          deter<lb ed="#P" n="84" break="no"/>minat sibi aliquos determinatos gradus / ita quod tot 
+          <lb ed="#P" n="85"/>sunt forme ignis naturales: et non plures: non 
+          po<lb ed="#P" n="86" break="no"/>tes sic dicere de gratia respectu anime: ergo 
+          semp<lb ed="#P" n="87" break="no"/>argumentum procedit.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e215">
+          ¶ Secundo arguitur: quicquid 
+          <lb ed="#P" n="88"/>sit de igne. materia prima quantum est de se potest 
+          <lb ed="#P" n="89"/>recipere quecumque accidentita secundum numerum in ea 
+          re<lb ed="#P" n="90" break="no"/>ceptibilia. quia si duos gradus recipere potest: 
+          in<lb ed="#P" n="91" break="no"/>finitos recipere poterit: sicut arguit Aristo quarto 
+          <lb ed="#P" n="92"/>phisicorum: si duo lapides possunt esse in eodem 
+          loco<lb ed="#P" n="93" break="no"/>infiniti possunt. sed sic est de gratia respectu 
+          ani<lb ed="#P" n="94" break="no"/>me. igitur.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e233">
+          ¶ Tertio arguitur: vel hoc est negandum 
+          <lb ed="#P" n="95"/>a subiecto quia argueret in ipso perfectionem: 
+          vel<lb ed="#P" n="96" break="no"/>propter incompossibilitatem graduum. non primum: quia 
+          <lb ed="#P" n="97"/>nullam perfectionem arguit posse in se aliquid 
+          recipe<lb ed="#P" n="98" break="no"/>re: immo imperfectionem. materia prima formam 
+          sub<lb ed="#P" n="99" break="no"/>stantialem in se recipit: et est subiectum inhesionis 
+          <lb ed="#P" n="100"/>omnium accidentium corperalium non vitalium: et tamen est valde 
+          <lb ed="#P" n="101"/>magne imperfectionis: igitur. secundum non valet: quia 
+          <lb ed="#P" n="102"/>si duo gradus sunt compossibiles: nulli habent 
+          re<lb ed="#P" n="103" break="no"/>pugnantiam mutuo. hoc est notum in qualitatibus 
+          <lb ed="#P" n="104"/>eiusdem speciei vtrobique. Ex his sequitur falsitas 
+          <lb ed="#P" n="105"/>illius propositionis / anima christi non potest suscipere tantum 
+          gra<lb ed="#P" n="106" break="no"/>tie sicut angelus quicumque.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e262">
+          ¶ Contra hanc 
+          conclu<lb ed="#P" n="107" break="no"/>sionem arguitur sic: pinta vini non potest recipere 
+          <lb ed="#P" n="108"/>vltra pintam aque simul: et hoc quia determinat 
+          ei<lb ed="#P" n="109" break="no"/>certam mensuram quam continere potest. ergo a simili anima 
+          <lb ed="#P" n="110"/>determinat sibi certos gradus gratie.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e273">
+          ¶ Secundo 
+          ar<lb ed="#P" n="111" break="no"/>guitur ad idem: entitas anime est finita: et eadem 
+          <lb ed="#P" n="112"/>entitas est sua capacitas. ergo capacitas anime 
+          <lb ed="#P" n="113"/>est finita.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e282">
+          ¶ Ad primum: concedo assumptum in 
+          corpo<lb ed="#P" n="114" break="no"/>ribus quorum penetratio est impossibil naturalitur. sed 
+          gra<lb ed="#P" n="115" break="no"/>dus formarum naturalitr sunt compossibiles.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e289">
+          ¶ Ad secundum 
+          <lb ed="#P" n="116"/>argumentum respondeo per propositiones. Quarum 
+          <lb ed="#P" n="117"/>prima est: capacitas anime passiua est infinita Oecuna 
+          <lb ed="#P" n="118"/>popolitio: campancitas pasiuam anime stue receptiua 
+          <lb ed="#P" n="119"/>est capacitas actiua. Tertia propositio. hec consequem 
+          <lb ed="#P" n="120"/>tia est nulla: hec anima est finita entitas:et ipsa est 
+          <lb ed="#P" n="121"/>capacitas realiter: ergo est finita capacitas. immo¬ 
+          <pb ed="#P" n="25-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tot graduum est capax quot deus in eam ponere 
+          <lb ed="#P" n="2"/>potest. et per consequens est infinita capacitas 
+          <lb ed="#P" n="3"/>passiua siue receptiua.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e316">
+          ¶ Tertio arguitur: ex his 
+          <lb ed="#P" n="4"/>sequitur quod tantum gratie recipere potest anima 
+          intel<lb ed="#P" n="5" break="no"/>lectiua sicut supremus angelus: hoc est 
+          inconueni<lb ed="#P" n="6" break="no"/>ens. est perfectibile perfectius: ergo maiorem potest in se 
+          <lb ed="#P" n="7"/>suscipere perfectionem.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e327">
+          ¶ Quarto arguitur: angelus 
+          po<lb ed="#P" n="8" break="no"/>test maiorem actum producere quam anima: ergo 
+          ca<lb ed="#P" n="9" break="no"/>pacitas angeli actiuae perceptiua est maior. vtro 
+          <lb ed="#P" n="10"/>bique in creaturis perfectior natura maiorem actum 
+          <lb ed="#P" n="11"/>producere potest.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e338">
+          ¶ Ad tertium concedo sequelam. 
+          <lb ed="#P" n="12"/>et non oportet perfectibile perfectius / posse 
+          maio<lb ed="#P" n="13" break="no"/>rem perfectionem in se suscipere.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e345">
+          ¶ Ad quartum 
+          argumen<lb ed="#P" n="14" break="no"/>tum: concedo quod angelus potest maiorem actum 
+          pro<lb ed="#P" n="15" break="no"/>ducere quam anima. ex illo solum concludit quod est 
+          ma<lb ed="#P" n="16" break="no"/>ioris capacitati actiue quam anima: quod est verum. et 
+          <lb ed="#P" n="17"/>etiam est maioris capacitatis perceptiue: cum actum 
+          <lb ed="#P" n="18"/>intensiorem producat: et perfectiorem respectu 
+          eius<lb ed="#P" n="19" break="no"/>dem obiecti quam anima. maiorem habet 
+          capacitatem<lb ed="#P" n="20" break="no"/>perceptiuam. ista capacitas perceptiua cognitiua 
+          <lb ed="#P" n="21"/>et volitiua est etiam actiua: licet posset dari vna 
+          <lb ed="#P" n="22"/>perceptiua ad quam potentia percipiens non 
+          concur<lb ed="#P" n="23" break="no"/>rit. vt in. iii. distinctione secundi et in. xlix. distinctione 
+          <lb ed="#P" n="24"/>quarti tetigimus. Etiam probabile est / quod cum eadem 
+          <lb ed="#P" n="25"/>noticia numero angelus perfectius intelligit aliquod 
+          <lb ed="#P" n="26"/>obiectum quam anima: cum est maioris acuciei 
+          intelligen<lb ed="#P" n="27" break="no"/>do. sicut per eandem visionem oculus / iuuenis melius 
+          <lb ed="#P" n="28"/>videt quam senis oculus. quod anima sit capax eiusdem 
+          <lb ed="#P" n="29"/>noticie vel volutionis cuius angelus est capax / non 
+          <lb ed="#P" n="30"/>debet verti in dubium: licet habeant actus specie 
+          di<lb ed="#P" n="31" break="no"/>stinctos respectu eiusdem obiecti. hec distinctio 
+          <lb ed="#P" n="32"/>ab actiuitate procedit: et non propterea quin 
+          queli<lb ed="#P" n="33" break="no"/>bet istarum potentiarum est susceptiua cuiuslibet 
+          ac<lb ed="#P" n="34" break="no"/>cidentis quam alia suscipere potest.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e393">
+          ¶ Quinto 
+          ar<lb ed="#P" n="35" break="no"/>guitur. licet anima recipiat tot gradus / in esse 
+          qua<lb ed="#P" n="36" break="no"/>litatis quot angelus: non tamen tot gradus / in esse 
+          <lb ed="#P" n="37"/>gratie: ergo male dictum est.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e402">
+          ¶ Respondetur cum 
+          ani<lb ed="#P" n="38" break="no"/>ma non concurrat ad suam gratiam: nec angelus de 
+          le<lb ed="#P" n="39" break="no"/>ge idem est in esse qualitatis: et charitatis. in quo 
+          <lb ed="#P" n="40"/>est maior qualitas gratie in illo est maior gratia 
+          <lb ed="#P" n="41"/>et contra. quantum est ergo de gratia in esse qualitatis 
+          <lb ed="#P" n="42"/>tantum est de ea in esse charitatis: et contra. potest 
+          <lb ed="#P" n="43"/>tamen deus aliter facere quod minorem charitatem 
+          ha<lb ed="#P" n="44" break="no"/>bens / magis sit deo charus: sed sic non facit de 
+          le<lb ed="#P" n="45" break="no"/>ge. semper maiorem gratiam et charitatem habens 
+          <lb ed="#P" n="46"/>est deo gratior et charior: et contra. et sic nichil est 
+          <lb ed="#P" n="47"/>quod aliqui dicunt: talis forma est maior in genere 
+          qua<lb ed="#P" n="48" break="no"/>litatis: et eadem est minor in genere charitatis. ad 
+          <lb ed="#P" n="49"/>charitatem anima nullam efficientiam habet: sed ipsa a 
+          <lb ed="#P" n="50"/>solo deo creatur. idem est ad magnitudinem eius / in 
+          <lb ed="#P" n="51"/>genere qualitatis et charitatis.
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e436">
+          ¶ Sed quo ad 
+          <lb ed="#P" n="52"/>actum vitalem: puta in actu voluntatis vel 
+          intel<lb ed="#P" n="53" break="no"/>lectus / potest aliquis actus esse maior in genere 
+          <lb ed="#P" n="54"/>qualitatis: et minor in genere notitie vel volitio 
+          <lb ed="#P" n="55"/>nis. patet exemplariter: si noticia vt. viii. sit 
+          inten<lb ed="#P" n="56" break="no"/>sissimus actus quem anima potest habere: vel quo 
+          ani<lb ed="#P" n="57" break="no"/>ma potest in obiectum cognitum tendere cum 
+          influ<lb ed="#P" n="58" break="no"/>entia dei generali: et dicatur actus ille. a. ponat deus 
+          <lb ed="#P" n="59"/>alios. viii. gradus eiusdem speciei specialissime 
+          <lb ed="#P" n="60"/>cum a: scilicet b. iam ex a et be constituetur vna 
+          forma<lb ed="#P" n="61" break="no"/>c intesa vt xvi. iam intellectus solum vitaliter per¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>cipit et cognoscit vt. viii. imaginando quod nichum ap 
+          <lb ed="#P" n="63"/>prehendit per b que non erit ei noticia: cum 
+          nichil<lb ed="#P" n="64" break="no"/>apprehendit per b in obiectum cognitum tendendo. 
+          <lb ed="#P" n="65"/>nec efficientiam vllam habet respectu b. tunc sic hec 
+          <lb ed="#P" n="66"/>qualitas puta c est maior in genere qualitatis quam 
+          <lb ed="#P" n="67"/>in genere notitie. quia est intensa precise vt. viii. 
+          <lb ed="#P" n="68"/>in genere noticie: et in duplo intensior in 
+          genere<lb ed="#P" n="69" break="no"/>qualitatis. ista imaginatio est probabilis. a est 
+          intem<lb ed="#P" n="70" break="no"/>sissimus actus quem intellectus / potest habere cum 
+          influ<lb ed="#P" n="71" break="no"/>entia dei generali: et deus similes gradus in 
+          spe<lb ed="#P" n="72" break="no"/>cie potest producere se solo / quorum anima est 
+          ca<lb ed="#P" n="73" break="no"/>pax: cum capiat similes gradus / in eadem specie: et 
+          po<lb ed="#P" n="74" break="no"/>test deus etiam non concurrere cum ipsa potentia 
+          qua<lb ed="#P" n="75" break="no"/>tenus / ipsa tendat in obiectum ipsum cognoscendo 
+          per<lb ed="#P" n="76" break="no"/>illos gradus. Insuper: angelus per eandem noticiam 
+          nu<lb ed="#P" n="77" break="no"/>mero limpidius obiectum cognoscitiquam anima: hoc est 
+          <lb ed="#P" n="78"/>probabile. ergo si talis noticia ponatur in 
+          lupre<lb ed="#P" n="79" break="no"/>mo angelo: talis erit intensior in genere noticie quam 
+          <lb ed="#P" n="80"/>in genere qualitatis: et in vno rude / illa posita erit 
+          <lb ed="#P" n="81"/>intensior in genere qualitatis quam in genere noticie. 
+          <lb ed="#P" n="82"/>nec super hoc mirabere. eadem res est quaelitas et si 
+          <lb ed="#P" n="83"/>militudo: et tamen potest remitti in esse similitudinis 
+          <lb ed="#P" n="84"/>et non in esse qualitatis. fortasse dicis mihi: 
+          ange<lb ed="#P" n="85" break="no"/>lus limpidius cognoscit albedinem quam anima 
+          intel<lb ed="#P" n="86" break="no"/>lectiua noscat eandem: quia angelus habet noticiam 
+          <lb ed="#P" n="87"/>altioris speciei quam anima. amnuo tecum in toto. et ara 
+          <lb ed="#P" n="88"/>guitur sic: si illa a noticia que est in angelo 
+          pone<lb ed="#P" n="89" break="no"/>retur in anima / tunc anima perfectius cognoscret qum 
+          <lb ed="#P" n="90"/>per proprlam noticiam anime: et hoc non nisi quia 
+          <lb ed="#P" n="91"/>habet perfectius instrumentum cognoscendi: sed 
+          po<lb ed="#P" n="92" break="no"/>tentia superior (quemadmodum est angelica ) est 
+          in<lb ed="#P" n="93" break="no"/>strumentum superius perfectius quam anima: ergo 
+          per<lb ed="#P" n="94" break="no"/>idem / si eadem noticia numero poneretur in 
+          ana<lb ed="#P" n="95" break="no"/>gelo et in anima: ipsa esset maior noticia in 
+          petsi<lb ed="#P" n="96" break="no"/>ctiori substantia. Finaliter arguitur: aliquam 
+          gra<lb ed="#P" n="97" break="no"/>tiam potest anima recipere: et non datur maxima 
+          <lb ed="#P" n="98"/>quam potest recipere per dicta / nec minima gratia 
+          <lb ed="#P" n="99"/>quam potest recipere / nec maxima gratia quam non 
+          <lb ed="#P" n="100"/>potest recipere: ergo datur minima gratia quam non 
+          <lb ed="#P" n="101"/>potest recipere: per illam famatam partitionem de 
+          <lb ed="#P" n="102"/>maximo et minimo: et si sic / aliquam gratiam non 
+          <lb ed="#P" n="103"/>potest recipere: et quamlibet minorem potest recipere¬ 
+        </p>
+        <p xml:id="jm3cbb-e14893-d1e553">
+          <lb ed="#P" n="104"/>¶ Ad hoc argumentum respondebitur in questione 
+          fina<lb ed="#P" n="105" break="no"/>li huius distinctionis. Ex tota questione pratet: 
+          <lb ed="#P" n="106"/>anima christi non determ: nat. sibi certos gradus 
+          <lb ed="#P" n="107"/>gratie quos ipsa potest suscipete: cum quoscumque 
+          <lb ed="#P" n="108"/>gradus quos deus potest creare: anima christi 
+          po<lb ed="#P" n="109" break="no"/>test suscipere. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

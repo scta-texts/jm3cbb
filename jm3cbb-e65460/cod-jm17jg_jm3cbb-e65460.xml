@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="107-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e65460"><!-- l3d35q2 -->
+        <head xml:id="jm3cbb-e65460-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e65460-Hd1e101" type="question-title">An vita contemplativa sit melior quam vita activa</head>
+        <p xml:id="jm3cbb-e65460-d1e104">
+          <lb ed="#P" n="98"/>SEcundo circa eandem 
+          <lb ed="#P" n="99"/>distinctionem xxxv. quaeritur: an vita 
+          <lb ed="#P" n="100"/>contemplatiua sit melior quam vita 
+          acti<lb ed="#P" n="101" break="no"/>ua.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e115">
+          ¶ Respondetur per hanc 
+          conclusio<lb ed="#P" n="102" break="no"/>nem. vita contemplatiua est melior: lauda 
+          <lb ed="#P" n="103"/>bilior / et securior / quam vita actiua. probatur hec 
+          conclu<lb ed="#P" n="104" break="no"/>sio auctoritate christi Luce. x. de maria loquentis. 
+          ma<lb ed="#P" n="105" break="no"/>ria optimam peartem elegit qua non auferetur ab ea. per mariam 
+          <lb ed="#P" n="106"/>autem significatur vita contemplatiua. adduci possunt 
+          pro<lb ed="#P" n="107" break="no"/>bationes Aristotelis ad hanc conclusionem. x. 
+          Ethico<lb ed="#P" n="108" break="no"/>rum: vita contemplatiua paucioribus / indiget: et est 
+          homi<lb ed="#P" n="109" break="no"/>ni magis sufficiens quam vita actiua. est quietior: in quae est 
+          ma<lb ed="#P" n="110" break="no"/>ior dulcedo quam in actiua: propterea lia lippa est 
+          ple<lb ed="#P" n="111" break="no"/>na curis. et Augustinus in libro de verbis 
+          domini<lb ed="#P" n="112" break="no"/>dicit quod Mhartha turbabatur: mharis eputabatur. 
+          <lb ed="#P" n="113"/>vita actiua ad aliud ordinatur. vita 
+          contemplati<lb ed="#P" n="114" break="no"/>ua propter se diligitur. cui quadrat illud 
+          psalmi<lb ed="#P" n="115" break="no"/>ste psalmo vicesimosexto. Unam petii a domino 
+          <lb ed="#P" n="116"/>hanc requiram: vt inhabitem in domo 
+          domini<lb ed="#P" n="117" break="no"/>omnibus diebus vite mee: vt videam voluntatem 
+          <lb ed="#P" n="118"/>domini. vita contemplatiua vie / maxime 
+          assimi<lb ed="#P" n="119" break="no"/>latur statui beatifico: sed ille status est optimus: praeterea: 
+          <pb ed="#P" n="107-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vitam contemplatiuam habet deus sed optimam 
+          vi<lb ed="#P" n="2" break="no"/>tam ipse habet: igitur. et Gregorius. vi. moralium: 
+          <lb ed="#P" n="3"/>Mhagna sunt actiue vite merita: sed contemplatiue 
+          <lb ed="#P" n="4"/>potiora: ergo vita contemplatiua est melior. quod sit 
+          se<lb ed="#P" n="5" break="no"/>curior / non est dubium. in fluctibus seculi et in vita 
+          <lb ed="#P" n="6"/>actiua homo citius labitur.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e174">
+          ¶ Contra hanc 
+          conclu<lb ed="#P" n="7" break="no"/>sionem arguitur. homo tenetur in casu relinquere 
+          <lb ed="#P" n="8"/>actus vite contemplatiue: et assumere curam de aliis 
+          <lb ed="#P" n="9"/>regendis. ergo vita actiua est contemplatiua melior. 
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e184">
+          <lb ed="#P" n="10"/>¶ Secundo. maioris est meriti predicare / confessio 
+          <lb ed="#P" n="11"/>ues audire / et quo ad laicos iusticiam ferre in 
+          repu<lb ed="#P" n="12" break="no"/>blica / et populum subiectum bene regere / quam 
+          contemplationi<lb ed="#P" n="13" break="no"/>vacare: secundum illud Tullii primo officiorum: non solum no 
+          <lb ed="#P" n="14"/>bis nati sumus: sed partem patria vendicat et 
+          ami<lb ed="#P" n="15" break="no"/>ci.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e200">
+          ¶ Ad primum: concedo quod homo in casu tenetur relinque 
+          <lb ed="#P" n="16"/>re actum vite contemplatiue: et vacare circa actus 
+          <lb ed="#P" n="17"/>vite actiue. sed ex isto non sequitur quod vita actiua sit 
+          <lb ed="#P" n="18"/>eligibilior et melior. sicut Aristo. dicit. iii. 
+          Thopi<lb ed="#P" n="19" break="no"/>cotum: philosophari est melius quam ditari: sed 
+          neces<lb ed="#P" n="20" break="no"/>sitatem patienti / melius est ditari. nemo est sane 
+          <lb ed="#P" n="21"/>mentis / cui daretur optio quod esset consummatus phos 
+          <lb ed="#P" n="22"/>vel opulentus: quin primum praeferret. tamen vbi 
+          homo<lb ed="#P" n="23" break="no"/>esset in magna indigentia: imprudenter ageret in 
+          <lb ed="#P" n="24"/>tendere speculationi: vita praetermissa.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e222">
+          ¶ Secundo: 
+          <lb ed="#P" n="25"/>licet hommo capiat beneficium: et tenetur in casu 
+          exer<lb ed="#P" n="26" break="no"/>cere opera vite actiue: non est necesse carere actibus 
+          <lb ed="#P" n="27"/>vite contemplatiue. bonus praelatus postquam fecit illa quae 
+          <lb ed="#P" n="28"/>suo officio incumbunt quo ad vitam actiuam: retra 
+          <lb ed="#P" n="29"/>hit se ad partem vt contemplationi vacet / deum 
+          <lb ed="#P" n="30"/>rogando / et eum diligendo / quod sine 
+          iutellectio<lb ed="#P" n="31" break="no"/>ne naturaliter fieri nequit.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e240">
+          ¶ Ad secundum dicitur: 
+          <lb ed="#P" n="32"/>aliqui sunt actus vite actiue meliores quam hii vel 
+          illi<lb ed="#P" n="33" break="no"/>actus vite contemplatiue. sed tota vita contemplatiua: 
+          <lb ed="#P" n="34"/>vel potiores actus eius: trascendunt potiores 
+          a<lb ed="#P" n="35" break="no"/>ctus vite actiue: vel totam vitam actiuam.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e251">
+          ¶ 
+          Ter<lb ed="#P" n="36" break="no"/>tio arguitur: secundum Gregorium in tertia omelia super 
+          Eze<lb ed="#P" n="37" break="no"/>chielem: actiua vita pror est quam contemplatiua / quia 
+          <lb ed="#P" n="38"/>ex bono opere tenditur ad contemplationem. 
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e260">
+          <lb ed="#P" n="39"/>¶ Quarto arguitur. Nlemo debet abstrahi a 
+          ma<lb ed="#P" n="40" break="no"/>ioribus vt minoribus applicetur. sed aliqui 
+          ab<lb ed="#P" n="41" break="no"/>strahuntur a statu vite contemplatiue: et 
+          occupan<lb ed="#P" n="42" break="no"/>tur circa vitam actiuam. igitur. consequentia tenet cum mino 
+          <lb ed="#P" n="43"/>re. maior patet ab apostolo prime ad Corinthi. 
+          xii<lb ed="#P" n="44" break="no"/>emulamini carismata meliora.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e277">
+          ¶ Ad tertium 
+          respon<lb ed="#P" n="45" break="no"/>detur distinguendo quod actiua vita sit prior 
+          contemplati<lb ed="#P" n="46" break="no"/>ua: vel via grenerationis: et sic conceditur: vel 
+          priorita<lb ed="#P" n="47" break="no"/>te perfectionis: et sic negatur. communiter que sunt priora 
+          <lb ed="#P" n="48"/>geseatione posteriora suut perfectione. ideo ignis 
+          <lb ed="#P" n="49"/>prius inducit siccitatem et calorem in passum 
+          ante<lb ed="#P" n="50" break="no"/>quam introducat formam substantialem que accidenti est 
+          <lb ed="#P" n="51"/>perfectior.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e295">
+          ¶ Ad quartum respondetur per illa quae dicta 
+          <lb ed="#P" n="52"/>sunt ad primum.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e300">
+          ¶ Quinto arguitur. exercens vitam 
+          <lb ed="#P" n="53"/>contemplatiuam sibi soli prodest: exercens vitam acti 
+          <lb ed="#P" n="54"/>uam sibi et aliis prodest: ergo vita actiua est melior. 
+          <lb ed="#P" n="55"/>tenet consequentia: melius est sibi proficere et aliis quom sibi 
+          so<lb ed="#P" n="56" break="no"/>li.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e311">
+          ¶ Sexto arguitur. multi exercent vitam 
+          contemplati<lb ed="#P" n="57" break="no"/>uam: et operam dant litteris: qui parum merentur 
+          exer<lb ed="#P" n="58" break="no"/>centes vitam actiuam. multi plurimum circa virtutes 
+          <lb ed="#P" n="59"/>laborant: igitur.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e320">
+          ¶ Septimo arguitur. vita actiua 
+          <lb ed="#P" n="60"/>est bona: et vita contemplatiua est bona sed aggre¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>gatum duorum bonorum est melius vno illorum solo. ergo 
+          <lb ed="#P" n="62"/>vita mixta est melior contemplatiua.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e331">
+          ¶ Ad quintum dicitur 
+          <lb ed="#P" n="63"/>multipliciter. Primo: quando ita esset: illud non est parum 
+          <lb ed="#P" n="64"/>Secundo: orat pro aliis: et ratione innocentie et 
+          bonita<lb ed="#P" n="65" break="no"/>tis eius deus malis percit. nunquid pro paucis pentapo 
+          <lb ed="#P" n="66"/>li parcere voluit. concedo quod melius est sibi proficere et 
+          <lb ed="#P" n="67"/>aliis ceteris paribus. sed multi credunt aliis proficere 
+          <lb ed="#P" n="68"/>et sibi: qui parum sibi prosunt vel aliis. sed concedo quod da 
+          <lb ed="#P" n="69"/>re potes realiter vnum actiue vite: qui pro maiore 
+          par<lb ed="#P" n="70" break="no"/>te insistat circa vitam actiuam: qui erit melior quam iste 
+          qui<lb ed="#P" n="71" break="no"/>insistit circa vitam contemplatiuam.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e354">
+          ¶ Ad sextum: concedo 
+          <lb ed="#P" n="72"/>quod multi dant operam litteris / qui non tantum merentur 
+          <lb ed="#P" n="73"/>sicut exercentes actus vite actiue. aliqui 
+          curiosita<lb ed="#P" n="74" break="no"/>te ducti / operam dant inanibus litteris. sed nos vo 
+          <lb ed="#P" n="75"/>camus vitam contemplatiuam illius qui multum circa 
+          veri<lb ed="#P" n="76" break="no"/>tates vtiles insistit: qui deum diligit: et se plurimum 
+          <lb ed="#P" n="77"/>circa illam materiam exercet. de pruo actu vite 
+          contempla<lb ed="#P" n="78" break="no"/>tiue non loquimur.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e372">
+          ¶ Ad septimum dicitur quod 
+          argumen<lb ed="#P" n="79" break="no"/>tum non concludit. si aggregatum duarum vitarum vtram 
+          <lb ed="#P" n="80"/>que includit: iam duo bona includit. sed si sola vita 
+          conten<lb ed="#P" n="81" break="no"/>platiua fuisset continuata ita diu sicut vtraque illarum 
+          <lb ed="#P" n="82"/>vitarum: non fuisset minus bona.
+        </p>
+        <p xml:id="jm3cbb-e65460-d1e383">
+          ¶ Concludendo dico: 
+          <lb ed="#P" n="83"/>possunt esse varie imaginationes et opposite in hac 
+          <lb ed="#P" n="84"/>materia. dico quod vita contemplatiua estvita actiua 
+          secu<lb ed="#P" n="85" break="no"/>rior coram deo: similior vite beatifice paucioribus 
+          <lb ed="#P" n="86"/>indigens: maiores habens leticias: et per consequens citius est 
+          <lb ed="#P" n="87"/>eligenda simpliciter quam vita actiua: licet in casu 
+          vi<lb ed="#P" n="88" break="no"/>ta actiua sit preferenda. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

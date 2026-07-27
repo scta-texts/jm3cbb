@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 12</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 12</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="57-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e34827"><!-- l3d23q12 -->
+        <head xml:id="jm3cbb-e34827-Hd1e99">Quaestio 12</head>
+        <head xml:id="jm3cbb-e34827-Hd1e101" type="question-title">An fidei confessio sit actus fidei et cadat semper sub praecepto</head>
+        <p xml:id="jm3cbb-e34827-d1e104">
+          <lb ed="#P" n="96"/>Duodecimo et pl 
+          <lb ed="#P" n="97"/>timo circa hanc distinctionem 
+          <lb ed="#P" n="98"/>vigesimam tertiam queritur: 
+          an<lb ed="#P" n="99" break="no"/>fidei confessio sit actus fidei: 
+          <lb ed="#P" n="100"/>et cadat semper sub precepto. 
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e117">
+          <lb ed="#P" n="101"/>¶ Pro questionis solutione 
+          <lb ed="#P" n="102"/>pono conclusiones. Quarum 
+          <lb ed="#P" n="103"/>prima est. Uelle confiteri fidem non est actus 
+          fi<lb ed="#P" n="104" break="no"/>dei. probatur hec conclusio. quilibet actus fidei 
+          <lb ed="#P" n="105"/>est actus intellectus. volitio confitendi fidem in 
+          pu<lb ed="#P" n="106" break="no"/>blico vel in occulto est actus voluntatis. ergo 
+          vo<lb ed="#P" n="107" break="no"/>litio confitendi fidem non est actus fidei. 
+          consequen<lb ed="#P" n="108" break="no"/>tia tenet in baroco. et premisse sunt clare.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e137">
+          ¶ 
+          Secun<lb ed="#P" n="109" break="no"/>da conclusio: non semper nec in quolibet loco 
+          ho<lb ed="#P" n="110" break="no"/>mo tenetur confiteri fidem: et velle eam ore tueri. 
+          <lb ed="#P" n="111"/>probatur hec conclusio. confiteri fidem est 
+          prece<lb ed="#P" n="112" break="no"/>ptum affirmatiuum: ergo non obligat pro 
+          quoli<lb ed="#P" n="113" break="no"/>bet tempore: consequentia est nota. Secundo 
+          ar<lb ed="#P" n="114" break="no"/>guitur: stat quod confiteri fidem in publico nichil bos 
+          <lb ed="#P" n="115"/>ni acquirat reipublice fidelium: sed irrisionem et 
+          <lb ed="#P" n="116"/>destructionem vnius boni membri ecclesie. sed in 
+          <lb ed="#P" n="117"/>tali casu non est patiendum: secundum illud Matthei. 
+          <lb ed="#P" n="118"/>vii. Nolite sanctum dare canibus: nec margaritas 
+          <lb ed="#P" n="119"/>proiciatis anteporcos. Tertio probatur ider 
+          <pb ed="#P" n="57-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ex facto Pauli: qui aufugit per sportam in 
+          Dama<lb ed="#P" n="2" break="no"/>sco Actuum. ix. et secunde Corin. xi.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e173">
+          ¶ Tertia 
+          con<lb ed="#P" n="3" break="no"/>clusio. confiteri fidem interdum est de precepto: ita quod 
+          <lb ed="#P" n="4"/>non sufficit ad salutem credere interius: sed 
+          requi<lb ed="#P" n="5" break="no"/>ritur quod homodo constanter fidem verbo et opere ad 
+          <lb ed="#P" n="6"/>mortem inclusiue tueatur. probatur hec conclusio 
+          <lb ed="#P" n="7"/>ad Romanos. xi. Corde enim creditur ad 
+          iusti<lb ed="#P" n="8" break="no"/>ciam: ore autem fit confessio ad salutem. Preterea 
+          <lb ed="#P" n="9"/>arguitur. deus est diligendus super omnia. ergo 
+          ho<lb ed="#P" n="10" break="no"/>nor deiet defensio sue fidei est praeponenda vite 
+          corpo<lb ed="#P" n="11" break="no"/>rali. opposito dato: peruertitur ordo charitatis 
+          <lb ed="#P" n="12"/>exemplo martyrum. et Matthei. v. Beati qui 
+          per<lb ed="#P" n="13" break="no"/>sequutionem patiuntur propter iusticiam: quoniam 
+          ip<lb ed="#P" n="14" break="no"/>sorum est regnum celorum. et Ioannis. xv. Maiorem 
+          di<lb ed="#P" n="15" break="no"/>lectionem nemo habet quam vt animam suam ponat quis 
+          <lb ed="#P" n="16"/>pro amicis suis. pati ergo mortem / est de precepto 
+          <lb ed="#P" n="17"/>pro confessione fidei: quando subtrahitur 
+          honor<lb ed="#P" n="18" break="no"/>deo: vel vtilitas spiritualis proximo: quam homo 
+          <lb ed="#P" n="19"/>tenetur illi dare: propterea fichodemus / 
+          Gama<lb ed="#P" n="20" break="no"/>liel / et multi principes synagoge peccabant: qui 
+          <lb ed="#P" n="21"/>non sunt confessi ore christum messiam in lege 
+          promis<lb ed="#P" n="22" break="no"/>sum: cum issud congnouerunt ex prophetarum 
+          oracu<lb ed="#P" n="23" break="no"/>lis: et illic agebatur de honore dei: et magis 
+          cura<lb ed="#P" n="24" break="no"/>bant de proprio suo honore: ne de dignitatibus 
+          <lb ed="#P" n="25"/>suis eiicerentur: secundum illud Ioannis. xii. 
+          Uerunta<lb ed="#P" n="26" break="no"/>men multi ex principibus crediderunt in eum: sed 
+          <lb ed="#P" n="27"/>propter phariseos non confitebantur: vt de 
+          syna<lb ed="#P" n="28" break="no"/>goga non eiicerentur. et postea subiunxit 
+          euange<lb ed="#P" n="29" break="no"/>lista causam proximam peccati eorum dicens: 
+          dilexe<lb ed="#P" n="30" break="no"/>runt enim gloriam hominum magis quam gloriam dei. 
+          <lb ed="#P" n="31"/>vbi glo. interlinearis: hic improbat credentes: etiam 
+          <lb ed="#P" n="32"/>tenebantur illuminare simplices in veritate. licet 
+          <lb ed="#P" n="33"/>isti erant postea boni: tamen in hoc peccabant: si 
+          <lb ed="#P" n="34"/>cut Petrus in negatione. si publice veritatem 
+          di<lb ed="#P" n="35" break="no"/>xissent: magnam vtilitatem in fide in populo 
+          induxis<lb ed="#P" n="36" break="no"/>sent. propterea tunc confiteri erat preceptum 
+          affir<lb ed="#P" n="37" break="no"/>matiuum: quod omiserant.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e251">
+          ¶ Quarta conclusio: 
+          li<lb ed="#P" n="38" break="no"/>cet confiteri fidem pro opere consilii: ex cuius 
+          con<lb ed="#P" n="39" break="no"/>fessione iudicat confitens quod occidetur. probatur. 
+          <lb ed="#P" n="40"/>consilia sunt de meliore bono. ergo licet seruare 
+          vi<lb ed="#P" n="41" break="no"/>tam / in illo casu sit bonum: constanter fidem tueri est 
+          ma<lb ed="#P" n="42" break="no"/>gis bonum. ergo ipsum est licitum. Item: milte sanctem 
+          virgi<lb ed="#P" n="43" break="no"/>nes poterant latitare sine peccato manentes fideles: et 
+          <lb ed="#P" n="44"/>tamen zelo dei ducte prodierunt in publicum: et 
+          nomen<lb ed="#P" n="45" break="no"/>christi confesse sunt: et noluerunt habere viros: quod 
+          <lb ed="#P" n="46"/>erat licitum: sed manere in sancta virginitate. idem 
+          <lb ed="#P" n="47"/>fecerunt alique minorice in principio 
+          fundatio<lb ed="#P" n="48" break="no"/>nis religionis eorum sub miromolmo in 
+          occiden<lb ed="#P" n="49" break="no"/>tali hesperia: quibus non erat preceptum 
+          adeundi<lb ed="#P" n="50" break="no"/>agarenos plusquam aliis hoc onus non 
+          accipienti<lb ed="#P" n="51" break="no"/>bus. igitur.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e284">
+          ¶ Contra secundam conclusionem 
+          ar<lb ed="#P" n="52" break="no"/>guitur. si quis vadat hierosolymam: et transeundo 
+          <lb ed="#P" n="53"/>ponatur in medio mahometistarum: debet citius 
+          <lb ed="#P" n="54"/>mortem pati quam nomen Iesu negare: licet videat 
+          su<lb ed="#P" n="55" break="no"/>am mortem non prodesse rei publice christiane. 
+          citi<lb ed="#P" n="56" break="no"/>us debet pati mortem quam turpe perpetrare.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e297">
+          ¶ 
+          Re<lb ed="#P" n="57" break="no"/>spondetur concedendo quod assumptum est. non 
+          po<lb ed="#P" n="58" break="no"/>test nomen Iesu negare sine peccato: licet 
+          interi<lb ed="#P" n="59" break="no"/>us consentiat. hoc est contrauenire precepto 
+          nega<lb ed="#P" n="60" break="no"/>tiuo: quod semper et pro semper obligat. scilicet: 
+          <lb ed="#P" n="61"/>non negare nomen Iesu: secundum illud saluatoris. Si¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>quis negauerit me coram homibus: negabo eum 
+          <lb ed="#P" n="63"/>coram patre meo qui in celis est. Aliud est 
+          silen<lb ed="#P" n="64" break="no"/>ter pertransire et nichil loquendo de hoc. non 
+          cui<lb ed="#P" n="65" break="no"/>libet interrogato est respondendum affirmatiue vel 
+          <lb ed="#P" n="66"/>negatiue. sed affirmatiue respondendum est / 
+          quan<lb ed="#P" n="67" break="no"/>do locus et tempus se offerunt. et si homo se 
+          offer<lb ed="#P" n="68" break="no"/>ret: existimans erronee multum aliis prodesse 
+          con<lb ed="#P" n="69" break="no"/>cedendo quod Iesus est deus: et machometus est dam 
+          <lb ed="#P" n="70"/>natus in inferno: adhuc non solum bene agit: sed 
+          <lb ed="#P" n="71"/>multum ardue. stat quod prosit propter suam 
+          constan<lb ed="#P" n="72" break="no"/>tiam. sufficit quod non oberit. ad actum bonum non 
+          <lb ed="#P" n="73"/>requiritur prudentia: sed sufficit opinio 
+          prtobabl<lb ed="#P" n="74" break="no"/>lis.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e341">
+          ¶ Contra tertiam conclusionem arguitur. si vos 
+          <lb ed="#P" n="75"/>persequuti fuerint in vna ciuitate / fugite in aliam 
+          <lb ed="#P" n="76"/>Mat. x. et illud potest confirmari exemplo 
+          Pau<lb ed="#P" n="77" break="no"/>li secunde ad Corinthi. x. Nuperrime allegati in 
+          <lb ed="#P" n="78"/>probatione conclusionis secunde. qui aufugit cum eum 
+          <lb ed="#P" n="79"/>persequuti sunt. dicit in fine tormentorum que 
+          pas<lb ed="#P" n="80" break="no"/>sus est damasci: prepositus gentis arethe regis 
+          <lb ed="#P" n="81"/>custodiebat ciuitatem damascenorum / vt 
+          mecom<lb ed="#P" n="82" break="no"/>prehenderet: et per fenestram in sporta dimissus sum 
+          <lb ed="#P" n="83"/>per murum: et sic aufugi manus eius.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e363">
+          ¶ 
+          Responde<lb ed="#P" n="84" break="no"/>tur: quando est persequutio personalis: puta queritum 
+          <lb ed="#P" n="85"/>prelatus vel vnus homo singularis: non quia fidelis 
+          <lb ed="#P" n="86"/>est: et tunc licet aufugere: et potissimum quando seruatur 
+          <lb ed="#P" n="87"/>ad maiora: sicut erat de Paulo. de quo christus 
+          di<lb ed="#P" n="88" break="no"/>cebat: ostendam illi quanta oportet eum pati pro 
+          me<lb ed="#P" n="89" break="no"/>Actuum. ix. hoc modo helyas tesbes aufugit a 
+          ie<lb ed="#P" n="90" break="no"/>sabele regina illa pessima: tertii Regum xix. quod 
+          per<lb ed="#P" n="91" break="no"/>sequutio erat personalis patet: quesiuerunt 
+          Pau<lb ed="#P" n="92" break="no"/>lum / aliis christianis relictis. quando 
+          persequu<lb ed="#P" n="93" break="no"/>tio est fidei primo: et ex consequenti persequntio 
+          <lb ed="#P" n="94"/>est indifferenter in hanc personam et in illam: tunc 
+          <lb ed="#P" n="95"/>nullo pacto est aufugiendum: potissimum si eius mors 
+          <lb ed="#P" n="96"/>verosimiliter plus proderit politie fidelium quam 
+          obe<lb ed="#P" n="97" break="no"/>rit: exemplum de milite in bello: si iudicet quod sua 
+          fu<lb ed="#P" n="98" break="no"/>ga est aliis in ruinam: et ei turpis: non est 
+          fugsen<lb ed="#P" n="99" break="no"/>dum: sed expectandum. si videat quod non noceat sue 
+          <lb ed="#P" n="100"/>politie sua fuga: sed multum proderit vt adhuc 
+          ser<lb ed="#P" n="101" break="no"/>uetur: debet aufugere. fuga est actus 
+          fsortitudi<lb ed="#P" n="102" break="no"/>nis pro loco et tempore.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e408">
+          ¶ Contra quartam 
+          con<lb ed="#P" n="103" break="no"/>clusionem arguitur: probando quod nunquam licet 
+          pati<lb ed="#P" n="104" break="no"/>mortem pro opere consilii: et hoc sic: quando sunt 
+          <lb ed="#P" n="105"/>duo: et vnum est de precepto: et aliud de consilio: 
+          <lb ed="#P" n="106"/>numquam consilium deobligat a precepto. sed preceptum 
+          <lb ed="#P" n="107"/>est seruare vitam: consilium vero pati mortem in 
+          ca<lb ed="#P" n="108" break="no"/>su quarte conclusionis: igitur.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e424">
+          ¶ Confirmatur 
+          <lb ed="#P" n="109"/>hec ratio. quandocumque sunt duo praecepta 
+          incompos<lb ed="#P" n="110" break="no"/>sibilia / maius / et minus preceptum: minus 
+          maiori<lb ed="#P" n="111" break="no"/>cedit: et desinit esse preceptum. ergo a fortiori. 
+          quam<lb ed="#P" n="112" break="no"/>documque concurrunt preceptum ab vna parte / et 
+          con<lb ed="#P" n="113" break="no"/>silium ex altera. consilium cedet precepto: quia 
+          impli<lb ed="#P" n="114" break="no"/>cat quod realiter consilium sit de a. et praeceptum de 
+          oppo<lb ed="#P" n="115" break="no"/>sito a. ad has rationes (licet aliquid coloris 
+          pri<lb ed="#P" n="116" break="no"/>ma fronte habeant) in. xlix. distinc. quarti respondi. 
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e444">
+          <lb ed="#P" n="117"/>¶ Dubitatur: an ratio inducta ad ea que sunt 
+          fi<lb ed="#P" n="118" break="no"/>dei minuat meritum. Respondetur: ratio adducta 
+          <lb ed="#P" n="119"/>pro fide non minuit meritum. patet. vel ratio est 
+          son<lb ed="#P" n="120" break="no"/>lum probabilis: et tunc non creditur vigore illius 
+          <lb ed="#P" n="121"/>rationis: vel crederetur sine illa ratione. si esset 
+          de<lb ed="#P" n="122" break="no"/>monstratio:yt ad hac cotus est necminuit meritom 
+          <pb ed="#P" n="58-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dum homo est paratus illi assentire siue habeat de 
+          <lb ed="#P" n="2"/>monstrationem siue non. quia dato quod non fuisset 
+          addu<lb ed="#P" n="3" break="no"/>cta demonstratio: nichilominus assensisset assensu 
+          <lb ed="#P" n="4"/>fidei. vt si libere pono me ad transeundum ad 
+          san<lb ed="#P" n="5" break="no"/>ctum Iacobum: licet aliquis me necessitet: igitur 
+          <lb ed="#P" n="6"/>dum modo equaliter me haberem ad transitum licet 
+          il<lb ed="#P" n="7" break="no"/>le non superueniet: non perditur meritum meum. si 
+          es<lb ed="#P" n="8" break="no"/>set ratio apparens et sophistica contra fidem: tunc 
+          <lb ed="#P" n="9"/>talis ratio auget meritum: si assensum ita intensum 
+          <lb ed="#P" n="10"/>continuo sicut ante illud sophisma. ratio: 
+          appono<lb ed="#P" n="11" break="no"/>plus de voluntario: et difficilius est assentire. 
+          Ul<lb ed="#P" n="12" break="no"/>terius dicitur: laudabiliter factum est acquirere 
+          ra<lb ed="#P" n="13" break="no"/>tiones et manuductiones pro fide: vt increduli 
+          pu<lb ed="#P" n="14" break="no"/>tantes nos credere inopinabilia ad fidem 
+          adducam<lb ed="#P" n="15" break="no"/>tur: et manuteneantur paruuli in ea: et solidentur 
+          <lb ed="#P" n="16"/>per rationes: secundum illud prime Petri. iii. 
+          Parati<lb ed="#P" n="17" break="no"/>semper ad satisfactionem omni poscenti vos 
+          redde<lb ed="#P" n="18" break="no"/>re rationem de ea que in vobis est fide et spe. Et 
+          <lb ed="#P" n="19"/>eccles. xxiiii. Qui elucidant me vitam eternam 
+          habe<lb ed="#P" n="20" break="no"/>bunt. valent etiam rationes ad perfectos in fide de 
+          <lb ed="#P" n="21"/>lectandos: et vt circa legem domni meditentur: et a 
+          flu<lb ed="#P" n="22" break="no"/>ctibus inutilibus seculi elongentur.
+        </p>
+        <p xml:id="jm3cbb-e34827-d1e512">
+          ¶ Uides quo 
+          <lb ed="#P" n="23"/>modo volitio fidem tueri / non est actus fidei: ad 
+          <lb ed="#P" n="24"/>fidem tamen et fortitudinem colligantiam habet: vt 
+          <lb ed="#P" n="25"/>patet ex dictis in disti. xlix. quarti: in materia de 
+          <lb ed="#P" n="26"/>martyrio. Ulterius patet non esse malum: sed bene 
+          <lb ed="#P" n="27"/>factum: pro opere consilii pati mortem antequam opus 
+          <lb ed="#P" n="28"/>deseratur: et zelus fidei plurimos strenuos 
+          mar<lb ed="#P" n="29" break="no"/>tyres ad hoc adduxit. Amplius dicitur: licet 
+          ac<lb ed="#P" n="30" break="no"/>quirere rationes et manuductiones pro fide 
+          de<lb ed="#P" n="31" break="no"/>fendenda: non vt firmius credat: sed vt credita 
+          me<lb ed="#P" n="32" break="no"/>lius intelligat: querendo similitudines: sicut in 
+          ma<lb ed="#P" n="33" break="no"/>teria ancipiti responsuri in sorbona factitant: etiam 
+          <lb ed="#P" n="34"/>sicut apes argumentosa / querit rationes vt 
+          infi<lb ed="#P" n="35" break="no"/>delibus fidem putantibus impossibile remoueatur 
+          <lb ed="#P" n="36"/>obex: et vt manuteneantur paruuli in fide 
+          manudu<lb ed="#P" n="37" break="no"/>ctionibus. quia non est possibile naturaliter quod 
+          cre<lb ed="#P" n="38" break="no"/>dant sine motiuo: cum sola voluntas non potest 
+          cau<lb ed="#P" n="39" break="no"/>sare actum credendi. et si paruuli dubitando in fide 
+          <lb ed="#P" n="40"/>vacillauerint et peccent: meritum est per 
+          manudu<lb ed="#P" n="41" break="no"/>ctiones pctam de eorum capitibus excutere: quamad 
+          <lb ed="#P" n="42"/>modum bene actum est / peccatores in aliis generibus 
+          <lb ed="#P" n="43"/>peccatorum inuolutos / a via mala ad bonum 
+          allice<lb ed="#P" n="44" break="no"/>re / attrahere / et impetu rapere: vt tandem bene 
+          habi<lb ed="#P" n="45" break="no"/>tuati pure libere maneant in bono. etiam 
+          manudu<lb ed="#P" n="46" break="no"/>ctiones eos non necessitant ad credendum / nisi 
+          li<lb ed="#P" n="47" break="no"/>bere illud volunt. ergo sic ratio naturalis 
+          adinuen<lb ed="#P" n="48" break="no"/>ta non tollit meritum: sed plura ponit merita. vult 
+          <lb ed="#P" n="49"/>sapiens credere siue habeat rationes siue non. 
+          vo<lb ed="#P" n="50" break="no"/>luntas iterum imperat intellectui ex charitate que 
+          <lb ed="#P" n="51"/>rere rationes et analogias fidei confirmatiuas ad 
+          <lb ed="#P" n="52"/>animarum lucrum: et dei gloriam. et sic plura habet 
+          <lb ed="#P" n="53"/>merita / siue rationem inueniat siue non: quia per eum 
+          <lb ed="#P" n="54"/>non stetit: inuenire aptas rationes est dei donum: et 
+          <lb ed="#P" n="55"/>gratia a deo gratis data. sed si quis querat ratio 
+          <lb ed="#P" n="56"/>nem intellectum conuincentem: non alas non crediturus: 
+          <lb ed="#P" n="57"/>nichil meretur: sed peccat. assentire conclusioni 
+          de<lb ed="#P" n="58" break="no"/>monstrate / non est actus liber: nec talis assentit 
+          <lb ed="#P" n="59"/>propter diiinam auctoritatem et reuelationem. sed 
+          <lb ed="#P" n="60"/>humanam rationem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

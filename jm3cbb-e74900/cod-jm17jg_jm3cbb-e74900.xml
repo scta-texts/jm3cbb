@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 9</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 9</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="122-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e74900"><!-- l3d37q9 -->
+        <head xml:id="jm3cbb-e74900-Hd1e99">Quaestio 9</head>
+        <head xml:id="jm3cbb-e74900-Hd1e101" type="question-title">An sit aliquis actus intrinsece bonus</head>
+        <p xml:id="jm3cbb-e74900-d1e104">
+          <lb ed="#P" n="81"/>NOno queritur: an sit 
+          ali<lb ed="#P" n="82" break="no"/>quis actus intrinsece bonus.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e111">
+          ¶ Ad 
+          quae<lb ed="#P" n="83" break="no"/>stionem respondetur. positio vna est ola: 
+          <lb ed="#P" n="84"/>quod est aliquis actus intrinsece bonus 
+          <lb ed="#P" n="85"/>qui habet ninem circunstantiase dictamen 
+          pruden<lb ed="#P" n="86" break="no"/>tiale pro obiecto. sed quid veritatis hec positio 
+          con<lb ed="#P" n="87" break="no"/>tineat: patebit per duas conclusiones.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e124">
+          ¶ Quarum 
+          pri<lb ed="#P" n="88" break="no"/>or est: aliquis est actus intrinsece bonus ad hunc 
+          <lb ed="#P" n="89"/>sensum quod eius bonitas non dependet ab aliqui 
+          actu<lb ed="#P" n="90" break="no"/>interiore voluntatis.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e134">
+          ¶ Secunda conclulio quocumque 
+          <lb ed="#P" n="91"/>actu bono dato in voluntate creata: ipsa manens 
+          <lb ed="#P" n="92"/>in illa voluntate potest effici non bonus: immo 
+          effici<lb ed="#P" n="93" break="no"/>malus.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e143">
+          ¶ Prior conclusio probatur: actus exterior est 
+          <lb ed="#P" n="94"/>bonus: et bonitatem habet ab aliquo alio actu 
+          in<lb ed="#P" n="95" break="no"/>teriore. vel ille interior est sic bonus quod nullam aliam 
+          <lb ed="#P" n="96"/>bonitatem praesupponit: et habetur conclusio. vel 
+          pre<lb ed="#P" n="97" break="no"/>supponit aliquem alium actum interiorem: et sic in abissum: 
+          <lb ed="#P" n="98"/>et hoc non: quia sic esset processus in infinitum. ergo 
+          stan<lb ed="#P" n="99" break="no"/>dum est in aliquo actu bono voluntatis. et qua 
+          ra<lb ed="#P" n="100" break="no"/>tione standum est in vno: standum est in quocumque 
+          actu<lb ed="#P" n="101" break="no"/>voluntatis.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e163">
+          ¶ Secunda conclusio probatur: si aliquis actus 
+          <lb ed="#P" n="102"/>voluntatis esset bonus / intrinsece maxime esset dilectio 
+          <lb ed="#P" n="103"/>dei super omnia: sed hoc non: ergo nullus est bonus / 
+          in<lb ed="#P" n="104" break="no"/>trinsece. consequentia tenet a tota conditionali cum destructione 
+          <lb ed="#P" n="105"/>consequentis ad antecedentis destructionem. 
+          proba<lb ed="#P" n="106" break="no"/>tio minoris: deus potest prohibere dilectionem 
+          dei<lb ed="#P" n="107" break="no"/>actualem: quod patet: sortes licite non diligit deum 
+          per<lb ed="#P" n="108" break="no"/>vnum determinatum tempus: deus ergo potest 
+          pro<lb ed="#P" n="109" break="no"/>hibere sorti ne eum diligat in illo tempere 
+          determi<lb ed="#P" n="110" break="no"/>nato. si illud est licitum: deus potest ei licite praecipere. et 
+          <lb ed="#P" n="111"/>qua ratione potest prohibere dilectionem eius per vnum 
+          <lb ed="#P" n="112"/>tempus peruum: eadem ratione potest hanc dilectionem 
+          pro<lb ed="#P" n="113" break="no"/>hibere in perpetuum: igitur.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e192">
+          ¶ Secundo arguitur ad idem: 
+          <lb ed="#P" n="114"/>sortes potest habere conscientiam erroneam quod deus non est 
+          <lb ed="#P" n="115"/>diligendus super omnia: immo quod male actum est sic deum 
+          <lb ed="#P" n="116"/>diligere: tunc sortes continuando sllam dilectionem 
+          pec<lb ed="#P" n="117" break="no"/>cat conueniendo sue conscientie. omne quod non fit ex fide 
+          <lb ed="#P" n="118"/>peccatum est: ad Romanos. xiiii.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e205">
+          ¶ Tertio arguitur: 
+          <lb ed="#P" n="119"/>sortes potest continuare dilectionem dei vel eam elice 
+          <pb ed="#P" n="123-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>re propter inanem gloriam: vtpote sicvolendo: ego 
+          <lb ed="#P" n="2"/>volo diligere deum perper inanem gliam: tunc sic:illa dile 
+          <lb ed="#P" n="3"/>ctio est peccatum. probatio: imperatur a peccato: ergo est peccatum. tenet 
+          <lb ed="#P" n="4"/>consequentia: non alias actus extior est peccatum: et quod volitio illius 
+          <lb ed="#P" n="5"/>actus / imperatiua sit peccatum: notum est. Sed hic dicis: implicat 
+          <lb ed="#P" n="6"/>quod diligam deum super omnia perper inanem gliam: quia si diligo 
+          <lb ed="#P" n="7"/>deum super omnia perper inanem gloriam: ergo illa volitio procedit 
+          <lb ed="#P" n="8"/>a vana glia sicut volitio medii a volitione finis. ergo 
+          <lb ed="#P" n="9"/>plus diligitur vana glia quam deus. perper vnumquodque tale et 
+          <lb ed="#P" n="10"/>illud magis.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e236">
+          ¶ Contra: in actu spei diligo deum propatur 
+          <lb ed="#P" n="11"/>me: et tamen plus appreciatiue diligo deum quam me: ergo potest deus 
+          <lb ed="#P" n="12"/>diligi ob inanem gliam e minus diligi inanis gloria. 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e244">
+          <lb ed="#P" n="13"/>¶ Quarto: dato quod sorts velit dare elemosinam 
+          pau<lb ed="#P" n="14" break="no"/>peri perper deum quia dictatum est a recta ratioe: iste actus non est 
+          <lb ed="#P" n="15"/>intrinsece bonus: ergo nullus est sic bonus. tenet consequentia. quia 
+          <lb ed="#P" n="16"/>nullus videtur actus magis intrinsece bonus quam ille. quod 
+          <lb ed="#P" n="17"/>ille actus non est intrinsece bonus patet: stat quod ille actus 
+          <lb ed="#P" n="18"/>prohibeatur a deo: qui facto: erit malus: igitur.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e260">
+          ¶ 
+          Quin<lb ed="#P" n="19" break="no"/>to: quocumque actu voluntatis dato ille potest esse totalitur 
+          <lb ed="#P" n="20"/>a deo: ergo tunc non erit bonus moralir: sed solum entitatine. 
+          <lb ed="#P" n="21"/>Sed dicis. positio intelligit quod non potest actus 
+          <lb ed="#P" n="22"/>esse a voluntate creata quin erit bonus moraliter: non 
+          <lb ed="#P" n="23"/>tamen negare habet quin potest esse extra 
+          subie<lb ed="#P" n="24" break="no"/>ctum: in voluntate a solo deo: et tunc non erit bonus 
+          <lb ed="#P" n="25"/>moraliter.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e278">
+          ¶ Contra hoc argutur: quocumque actu creato 
+          <lb ed="#P" n="26"/>dato: deus potest illum non acceptare: cum libere actum 
+          <lb ed="#P" n="27"/>acceptat.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e285">
+          ¶ Sexto arguitur: tali actu posito in voluntate 
+          <lb ed="#P" n="28"/>creata a voluntate creata qui dicatur a. potest deus 
+          preci<lb ed="#P" n="29" break="no"/>pere sorti elicere actum incompossibilem ipsi a. puta b. 
+          <lb ed="#P" n="30"/>secundum totum conatum: tunc si soricontinuet a. erit actus malus. 
+          <lb ed="#P" n="31"/>igitr.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e296">
+          ¶ Septio arguitur: deus potest facere quod dilectio 
+          <lb ed="#P" n="32"/>dei erit minus bona et magis bona per suam mino 
+          <lb ed="#P" n="33"/>rem acceptationm vel maiorem: ergo deus potest facere quod erit nen 
+          <lb ed="#P" n="34"/>bomia.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e305">
+          ¶ Octauo arguitur: sor. potest diligere deum ita intense quod 
+          <lb ed="#P" n="35"/>necessario habet omittere alium actum qui est ei de praecepto: 
+          <lb ed="#P" n="36"/>puta diligere deum tempere qui tenetur dormire vel aliud 
+          praece<lb ed="#P" n="37" break="no"/>ptum facere: quia omnis actus / impeditiuus praecepti est malus: dile 
+          <lb ed="#P" n="38"/>ctio dei intensissima est huiusmodi: igtur. notum est capacitas 
+          <lb ed="#P" n="39"/>actiua voluntatis totaliter potest impleri in 
+          actu<lb ed="#P" n="40" break="no"/>intenso quod illa intensione stante voluntas non 
+          po<lb ed="#P" n="41" break="no"/>test actum intensiorem elicere. dicis: hec dilectio 
+          <lb ed="#P" n="42"/>dei non est mala. sed omissio alterius actus qui est 
+          <lb ed="#P" n="43"/>praeceptum viro imputabitur.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e328">
+          ¶ Sed contra: non 
+          <lb ed="#P" n="44"/>est satisfactum illi propositioni que dicebat omnis 
+          <lb ed="#P" n="45"/>actus ad quem sequitur omissio precepti est malus: 
+          <lb ed="#P" n="46"/>videtur quod illa sit vera: patet: sortes male agit 
+          po<lb ed="#P" n="47" break="no"/>sitiue eundo dormitum vel ad tabernam 
+          tempore<lb ed="#P" n="48" break="no"/>quo tenetur adire matutinum officium vel lectionem: 
+          <lb ed="#P" n="49"/>puta eliciendo volitionem qua vult dormire vel 
+          <lb ed="#P" n="50"/>adire tabernam: et hoc non nisi quia elicit actum 
+          praecep<lb ed="#P" n="51" break="no"/>to incompossibilem. Dicis: tempore quo habet 
+          ac<lb ed="#P" n="52" break="no"/>tum intensissimum nullum alium actum elicere 
+          po<lb ed="#P" n="53" break="no"/>test: et sic non peccat de nouo: cum nemo obligetur 
+          <lb ed="#P" n="54"/>ad impossibile. sed impossibile est illo actu 
+          inten<lb ed="#P" n="55" break="no"/>sissimo stante / alium actum voluntatis elicere. 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e357">
+          <lb ed="#P" n="56"/>¶ Contra: tempore quo incipit illum actum 
+          eli<lb ed="#P" n="57" break="no"/>cere sciebat: vel poterat errare vincibiliter: quod actum 
+          <lb ed="#P" n="58"/>incipit elicere incompossibilem praecepto: igitur non 
+          <lb ed="#P" n="59"/>euitatur argumentum.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e368">
+          ¶ Contra priorem 
+          conclu<lb ed="#P" n="60" break="no"/>sionem arguitur sic: talis actus sine prudentia ac 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tuali non est bonus. ergo bonitatem eius capit ab alio. 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e377">
+          <lb ed="#P" n="62"/>¶ hespondetur concedendo ad hoc quod actus 
+          volum<lb ed="#P" n="63" break="no"/>tati debeat dici moraliter bonus quod requiratur 
+          pru<lb ed="#P" n="64" break="no"/>dentia actualis regulatiua talis actus voluntatis. 
+          <lb ed="#P" n="65"/>ille actus voluntatis capit bonitatem suam ab obie 
+          <lb ed="#P" n="66"/>cto siue prudentia et ceteris ad bonitatem actus 
+          <lb ed="#P" n="67"/>requisitis: sed non capit bonitatem suam ab alio 
+          <lb ed="#P" n="68"/>actu voluntatis intrinsece bono secum existenti: 
+          quae<lb ed="#P" n="69" break="no"/>cunque alio actu voluntatis secluso: ille est bonus. 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e397">
+          <lb ed="#P" n="70"/>¶ Contra hoc arguitur: si capiat bon itatem a 
+          pru<lb ed="#P" n="71" break="no"/>dentia: sequitur quod capit bonitatem ab aliquo 
+          natura<lb ed="#P" n="72" break="no"/>li quod non est in potestate homins: quod non est dicendum. 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e406">
+          <lb ed="#P" n="73"/>¶ Respondetur: prudentia est in potestate hominis:  
+          <lb ed="#P" n="74"/>eo modo quo prudentia est naturalis non est 
+          inconueni<lb ed="#P" n="75" break="no"/>ens quod ab ea actus voluntatis suam partialem 
+          boni<lb ed="#P" n="76" break="no"/>tatem capiat: nec requiritur vllo modo quod prudentia cadat 
+          <lb ed="#P" n="77"/>in ratione obiecti ad hoc quod actus voluntatis sit bonus: 
+          <lb ed="#P" n="78"/>sufficit quod sit in intellectu assistens: et actum 
+          volun<lb ed="#P" n="79" break="no"/>tatis dirigens.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e425">
+          ¶ Contra secundam conclusionem arguitur sic: 
+          <lb ed="#P" n="80"/>aliquis est actus intellectus de necessitate verus: ergo 
+          <lb ed="#P" n="81"/>est aliquis actus voluntatis de necessitate virtus. antecedens patet 
+          <lb ed="#P" n="82"/>de assensu propositionis necessarie qui est verus deno 
+          <lb ed="#P" n="83"/>minatione extrinseca: quia habet obiectum verum. 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e436">
+          <lb ed="#P" n="84"/>¶ Secundo arguitur: dabilis est aliquis habitus de necessita 
+          <lb ed="#P" n="85"/>te bonus. sic quod non potest esse malus: patet de habitu 
+          qui<lb ed="#P" n="86" break="no"/>est virtus qui non potest esse vicium. ergo pari ratione 
+          da<lb ed="#P" n="87" break="no"/>bilis est vnus actus sic bonus quod non potest esse malus 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e447">
+          <lb ed="#P" n="88"/>¶ Ad primum dicitur: antecedens est falsum: nulius 
+          <lb ed="#P" n="89"/>est assensus intellectui inherens de necessitate verus. 
+          <lb ed="#P" n="90"/>bene sequitur: assensus de uecessitate est verus: qra assem 
+          <lb ed="#P" n="91"/>sus de necessitate est. modo hoc est falsum de 
+          quocun<lb ed="#P" n="92" break="no"/>que assensu intellectui inherente. assensus intellectus 
+          <lb ed="#P" n="93"/>dinni de necessitate est verus: sed talis assensus non proprie 
+          <lb ed="#P" n="94"/>inheret intellectui: cum ydemptificetur cum ipso intellectu 
+          di<lb ed="#P" n="95" break="no"/>uimo. sed concedo antecedens ad hunc sensum: aliquis est assensus sicve 
+          <lb ed="#P" n="96"/>rus quod non potest esse falsus: sed non sequitur perperea quod sit aliquis 
+          <lb ed="#P" n="97"/>actus sic bonus quod non potest esse malus. assensus suam viritatem in 
+          <lb ed="#P" n="98"/>trinsecam habet ab obiso necessario. bomoitas voluntatest 
+          con<lb ed="#P" n="99" break="no"/>tingenter acceptaet bomdoia.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e476">
+          ¶ Ad secundum nego quod sit aliquis 
+          <lb ed="#P" n="100"/>habitus acquisitus de necessitate bonus: et superius hoc patuit 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e481">
+          <lb ed="#P" n="101"/>¶ Sed con hoc arguitur: secundum Aug. secundo de libero arbitrio 
+          <lb ed="#P" n="102"/>c. xxxi. virtutes vt iusticia prudentia fortitudo 
+          tperan<lb ed="#P" n="103" break="no"/>tia st summa bomda: nec istis aliquis male vtitur: quia rctam 
+          rai<lb ed="#P" n="104" break="no"/>ne nemo male vti potest. et. v. Ethi. virtutibus nemo male 
+          <lb ed="#P" n="105"/>vtitur. Concedo quod virtutibus nemo male vtitur 
+          eliciti<lb ed="#P" n="106" break="no"/>ue. sed si habitus qui erat virtus in malum actum inclinet: desinit 
+          <lb ed="#P" n="107"/>esse virtus. de charitate infusa e virtutibus / infusis non loquae. 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e499">
+          <lb ed="#P" n="108"/>¶ Tertio arguituir: ille actus / est intrinsece bonus / volo dare 
+          <lb ed="#P" n="109"/>elemosinam pauperi quia dictatum est a rctam ratie: ergo secunda 
+          con<lb ed="#P" n="110" break="no"/>cluso fla. consequentia est nota. probo antecedens: quia si actus esset malus: non 
+          <lb ed="#P" n="111"/>maneret rctam rati: sed variaretur. et per consequens variabitur 
+          obni<lb ed="#P" n="112" break="no"/>actus: et ita actus non stabit in voluntate: quia actus volunta 
+          <lb ed="#P" n="113"/>tis non potest esse sine suo oboto actuali in quod tendit.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e516">
+          ¶ 
+          Quar<lb ed="#P" n="114" break="no"/>to arguitur: deus non potest prohibeurs dilectionem dei: ergo pria 
+          pro<lb ed="#P" n="115" break="no"/>batio est nlla. antecedens patet: si eam prohiberet / dispensaret / in 
+          il<lb ed="#P" n="116" break="no"/>lo praecepto decalogi.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e525">
+          ¶ Quinto arguitur. iste actus mnen potest male 
+          <lb ed="#P" n="117"/>fieri volo obeditur dio in omnibus: igritur. antcedens patet: si dus 
+          prohibe<lb ed="#P" n="118" break="no"/>ret vl si consecia remurmuraret con illum actum: non esset qio 
+          <lb ed="#P" n="119"/>obedire
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e534">
+          ¶ Ad. et. nego antecedens. et ad probatonem nen manerm 
+          <lb ed="#P" n="120"/>ctam ro dico fie mancatrctanrsm siue errenea manet c 
+          <pb ed="#P" n="123-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dem onbium numero voluntatis. idem assensus potest primo 
+          <lb ed="#P" n="2"/>esse verus et postea falsus manens idem. sic de propotione. 
+          <lb ed="#P" n="3"/>tsi actus voluntatis heret propoaitionem vel assensum pro 
+          obio<lb ed="#P" n="4" break="no"/>idem actus maneret: licet obiectum variaretur de vero in 
+          <lb ed="#P" n="5"/>falsum: dum stat idem ens.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e554">
+          ¶ Ad quartum nego antecedens: et 
+          <lb ed="#P" n="6"/>ad probationem concedo quod deus potest dispensare in illo 
+          <lb ed="#P" n="7"/>praecepto. etiam possum habere conscientiam erroneam quod deus 
+          <lb ed="#P" n="8"/>non est diligendus: et tunc pecco eum diligendo. vl potest 
+          <lb ed="#P" n="9"/>eum non acceptare.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e565">
+          ¶ Ad quintum nego antecedens: et ad 
+          pro<lb ed="#P" n="10" break="no"/>bationem: licet tunc non esset deo obedire: tamen idem actus 
+          <lb ed="#P" n="11"/>in genere rei qui prius erat mediante qua voluntas vult 
+          <lb ed="#P" n="12"/>deo obedire potest esse malus. sed non est possible quod quis 
+          <lb ed="#P" n="13"/>deo obediat in sensu composito: et male agat. ille 
+          obe<lb ed="#P" n="14" break="no"/>dit deo qui suum praeceptum seruat eo modo quo ei praecipitur: 
+          <lb ed="#P" n="15"/>vt puta si prohibeatur ei diligere deum et non diligat. 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e581">
+          <lb ed="#P" n="16"/>¶ Sexto arguitur: dilectio dei est melior dilectione sortis: 
+          <lb ed="#P" n="17"/>vel ergo est melior ex natura rei quam dilectio sortis: et 
+          ha<lb ed="#P" n="18" break="no"/>beo intentum con conclusionem. vel solum est melior quia deo 
+          <lb ed="#P" n="19"/>plus placet: et si sic: leuare fabam potest esse 
+          melior<lb ed="#P" n="20" break="no"/>actus quam dilectio dei: et omnia bona essent equeliter 
+          <lb ed="#P" n="21"/>bomdia: cum ex natura reivnus actus voluntatis non est melior 
+          <lb ed="#P" n="22"/>alio.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e600">
+          ¶ Septimo arguitur: ponatur quod intensissimus actus quem 
+          <lb ed="#P" n="23"/>voluntas potest habere sine gratia est vt octo: habeat 
+          in<lb ed="#P" n="24" break="no"/>tensam gratiam: sic scilicet: quod actus / elicitus a gratia et a sum 
+          <lb ed="#P" n="25"/>mo conatu voluntatis erit vt decem: arguitur sic: iste actus 
+          <lb ed="#P" n="26"/>vt decem non potest male fieri: sed de necessitate bene 
+          <lb ed="#P" n="27"/>fiet: quia non potest esse quin eliciatur a gratia: quia gratia 
+          <lb ed="#P" n="28"/>substracta / non manebit totus ille actus: igitur. 
+          <lb ed="#P" n="29"/>¶Octauo arguitur: ad omnem actum moraliter bonum 
+          re<lb ed="#P" n="30" break="no"/>quiritur auxilium speciale dei: vt patet ex dictis in secundo: qua 
+          <lb ed="#P" n="31"/>dilectio dei non potest elici a voluntate creata nisi deus 
+          <lb ed="#P" n="32"/>specialiter concurrat. quia si solum generaliter concurrat / 
+          <lb ed="#P" n="33"/>non erit idem actus. et quandocumque deus specialiter 
+          concur<lb ed="#P" n="34" break="no"/>rit: actus erit bonus: igitur.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e629">
+          ¶ Nono arguitur: demonstro a 
+          <lb ed="#P" n="35"/>actum abrahe qui fuit bonus: arguitur sic: hec propositio est 
+          <lb ed="#P" n="36"/>de praeterito vera / hic actus a. demonstrando fuit bonus: 
+          <lb ed="#P" n="37"/>nec dependet ex vna de futuro contingenti: ergo est 
+          neces<lb ed="#P" n="38" break="no"/>saria. ergo a. necessario fuit bonus actus. Ad sextum: 
+          <lb ed="#P" n="39"/>respondetur concedendo quod dilectio dei est melior dilectio 
+          <lb ed="#P" n="40"/>ne sortis sed non ex natura rei: ymo stat dilectionem 
+          <lb ed="#P" n="41"/>sortis esse bonam: et dilectionem dei esse non bonam in casu. 
+          <lb ed="#P" n="42"/>sed cognoscimus / in lumine naturali quod dilectio dei est 
+          <lb ed="#P" n="43"/>melior quam dilectio sortis: quia vnus actus est alio melior 
+          <lb ed="#P" n="44"/>ex parte obiecti / circunstantiarum / t conatus 
+          volunm<lb ed="#P" n="45" break="no"/>tatis.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e655">
+          ¶ Ad septimum admitto id quod argumentum 
+          <lb ed="#P" n="46"/>assumit: nego quod ille actus vt decem non potest fieri 
+          ma<lb ed="#P" n="47" break="no"/>lus. ille actus potest ese ita intensus sicut est ab aliis 
+          cau<lb ed="#P" n="48" break="no"/>sis concursu gratie secluso: vt a noticia et 
+          concursu<lb ed="#P" n="49" break="no"/>dei. ad substantiam actus mali deus concurrit: et potest 
+          <lb ed="#P" n="50"/>(si vult magis et minus concurrere. de lege 
+          sci<lb ed="#P" n="51" break="no"/>mus quod gratia non concurrit ad actum malum. 
+          <lb ed="#P" n="52"/>de potentia dei forte potest esse aliter: sed hoc 
+          men<lb ed="#P" n="53" break="no"/>brum non attingo.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e675">
+          ¶ Ad octauum concedo quod ad 
+          <lb ed="#P" n="54"/>omnem actum moraliter bonum requiritur auxilium 
+          specia<lb ed="#P" n="55" break="no"/>le dei: sed idem actus numero qui est cum auxilio specia 
+          <lb ed="#P" n="56"/>li potest esse cum auxilio dei generali. et si actus 
+          mora<lb ed="#P" n="57" break="no"/>liter bonus a deo prohiberetur: ille idem actus potest 
+          <lb ed="#P" n="58"/>elici a voluntate creata cum solo concursu dei gene 
+          <lb ed="#P" n="59"/>rali.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e691">
+          ¶ Ad nonum dicitur: ille actus fuit bonus 
+          con<lb ed="#P" n="60" break="no"/>tingenter: patet per suam de inesse. propoto de preterito ve¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ra que habuit vnam de pestenti contingentem / nunquam 
+          essi<lb ed="#P" n="62" break="no"/>citur necessaria simpliciter: sed de per accidens. 
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e702">
+          <lb ed="#P" n="63"/>¶ Decimo arguitur: capio dilectionem in antnima christi 
+          <lb ed="#P" n="64"/>qua diligit deum: arguitur sic: iste actus non potest esse 
+          ma<lb ed="#P" n="65" break="no"/>lus: ergo male dictum est.
+        </p>
+        <p xml:id="jm3cbb-e74900-d1e712">
+          ¶ Respondetur 
+          humani<lb ed="#P" n="66" break="no"/>tas a verbo assumpta potuit non esse assumpta: et 
+          <lb ed="#P" n="67"/>sic argumentum non concludit. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

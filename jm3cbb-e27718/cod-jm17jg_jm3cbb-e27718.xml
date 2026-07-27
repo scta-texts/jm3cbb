@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="46-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e27718"><!-- l3d22q1 -->
+        <head xml:id="jm3cbb-e27718-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e27718-Hd1e101" type="question-title">An Christus in triduo fuit homo</head>
+        <p xml:id="jm3cbb-e27718-d1e104">
+          <pb ed="#P" n="46-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>CIrca. xxii. 
+          distin<lb ed="#P" n="2" break="no"/>ctionem quero tres questiones 
+          <lb ed="#P" n="3"/>Prima erit: vtrum christus in 
+          <lb ed="#P" n="4"/>triduo fuit homo. Secundo: 
+          <lb ed="#P" n="5"/>an christus descendit ad 
+          infe<lb ed="#P" n="6" break="no"/>ros. Tertio: an christus ad 
+          su<lb ed="#P" n="7" break="no"/>premam partem celi conscende 
+          <lb ed="#P" n="8"/>rit. Quantum ad primum queritur talis questionis 
+          <lb ed="#P" n="9"/>titulus: an christus in triduo fuit homo.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e130">
+          ¶ 
+          Pro<lb ed="#P" n="10" break="no"/>quaestionis solutione varie extant positiones. 
+          Qua<lb ed="#P" n="11" break="no"/>rum prima est hugonis de sancto victore li. ii. de 
+          <lb ed="#P" n="12"/>sacramentis parte prima ca. penultimo tenentis 
+          <lb ed="#P" n="13"/>quod christus erat homo in triduo. ratio eius est: quia 
+          <lb ed="#P" n="14"/>anima dicit totam essentiam homis. Preterea: dicit 
+          <lb ed="#P" n="15"/>animam esse per se suppositum: magister illud idem 
+          te<lb ed="#P" n="16" break="no"/>net in littera: alia tamen ratione motus: dicit quod 
+          so<lb ed="#P" n="17" break="no"/>la anima non sufficit ad essentiam hominis. sed 
+          requi<lb ed="#P" n="18" break="no"/>ritur tam anima quam corpus adesse hominem. et hoc 
+          <lb ed="#P" n="19"/>potest esse dupliciter. vno modo quando 
+          anima<lb ed="#P" n="20" break="no"/>corpus informat. alio modo quod vtraque illarum 
+          assu<lb ed="#P" n="21" break="no"/>matur ab alio: sed sic est in proposito: vt ex 
+          distin<lb ed="#P" n="22" break="no"/>cti one precedenti patuit. Alia est via communis: quod 
+          <lb ed="#P" n="23"/>christus non erat homo in triduo.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e163">
+          ¶ Pro istarum 
+          <lb ed="#P" n="24"/>po sitionum varietate declaranda / ponuntur 
+          conclu<lb ed="#P" n="25" break="no"/>siones sequentes. Quarum prima est: non sola anima 
+          <lb ed="#P" n="26"/>est homo. probatur hec conclusio: hommo est animal 
+          <lb ed="#P" n="27"/>rationale ex materia et forma compositus. 
+          Insup<lb ed="#P" n="28" break="no"/>per simbolum Athanasii: sicut ex anima rationaliet 
+          car<lb ed="#P" n="29" break="no"/>ne vnus est homo etc.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e180">
+          ¶ Secunda conclusio: adesse 
+          <lb ed="#P" n="30"/>hominem / non sufficit quod vtraque pars hominis / vel vtra 
+          <lb ed="#P" n="31"/>que pars que fuit / assumatur ab aliquo. probatur: 
+          <lb ed="#P" n="32"/>nichil est homo nisi materiam anima rationalis in 
+          <lb ed="#P" n="33"/>formet: vel talem assumat. nichil est ignis nisi 
+          habe<lb ed="#P" n="34" break="no"/>at formam ignis materiam informantem: et ita in aliis 
+          <lb ed="#P" n="35"/>inductiue: ergo sic est in proposito.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e196">
+          ¶ Tertia 
+          con<lb ed="#P" n="36" break="no"/>clusio: christus fuit homo in triduo. probatio: christus 
+          <lb ed="#P" n="37"/>fuit homo in tribus diebus post incarnationem: et 
+          <lb ed="#P" n="38"/>resurrectionem: ergo christus fuit homo in triduo. 
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e205">
+          <lb ed="#P" n="39"/>¶ Quarta conclusio: christus non fuit homo in 
+          tri<lb ed="#P" n="40" break="no"/>duo: intelligendo per triduum tres dies illos in qui 
+          <lb ed="#P" n="41"/>bus christus mortuus erat: hoc est intelligendo 
+          <lb ed="#P" n="42"/>partem diei veneris post horam nonam: et partem 
+          <lb ed="#P" n="43"/>diei dominice ante solis ortum: et integrum sabbatum: et 
+          <lb ed="#P" n="44"/>sic loquentes intelligunt. probatur hec conclusio: 
+          <lb ed="#P" n="45"/>christus fuit homo mortuus in triduo: ergo 
+          chri<lb ed="#P" n="46" break="no"/>stus non fuit homo in triduo. consequentia est nota 
+          <lb ed="#P" n="47"/>ex primo periarmenias. non sequitur: homerus 
+          vi<lb ed="#P" n="48" break="no"/>uit vt poeta: ergo homerus est. Secundo arguitur: 
+          <lb ed="#P" n="49"/>non fuit aliqua humanitas assumpta a verbo in 
+          <lb ed="#P" n="50"/>triduo: ergo christus non fuit homo in triduo. 
+          Ter<lb ed="#P" n="51" break="no"/>tio: de in esse illius de preterito erat falsa in triduo. 
+          <lb ed="#P" n="52"/>ergo ista de preterito hoc enuncians nunc est 
+          fal<lb ed="#P" n="53" break="no"/>sa.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e240">
+          ¶ Contra hanc vltimam conclusionem arguitur 
+          <lb ed="#P" n="54"/>sic: christus homo fuit in triduo: ergo christus fuit 
+          ho<lb ed="#P" n="55" break="no"/>mo in triduo. antecedens patet: hoc fuit in triduo 
+          <lb ed="#P" n="56"/>demonstrato verbo: hoc est vel fuit christus homo: 
+          <lb ed="#P" n="57"/>ergo christus homofuit in triduo. Insuper: ego 
+          <lb ed="#P" n="58"/>sum deus Abraham deus Isaac et deus Iacob. non 
+          <lb ed="#P" n="59"/>est deus mortuorum: ergo est deus viuorum. per 
+          con<lb ed="#P" n="60" break="no"/>sequens oportet dicere quod anima Abrahe est Abra¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ham. Et confirmatur istud a eommuni vsu hominim: 
+          <lb ed="#P" n="62"/>concedimus caput Ioannis baptiste esse 
+          ambia<lb ed="#P" n="63" break="no"/>nis. et corpus Iacobi maioris esse in compostella. 
+          <lb ed="#P" n="64"/>et iste propositiones concedi non possunt nisi 
+          ani<lb ed="#P" n="65" break="no"/>ma esset homo: ergo dictum hugonis verum.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e271">
+          ¶ Ad 
+          <lb ed="#P" n="66"/>primum respondetur per propositiones sequentes christus 
+          <lb ed="#P" n="67"/>homo fuit in triduo. christus homo fuit ante Adam 
+          <lb ed="#P" n="68"/>et ante Abraham: antequam Abraham fieret ego sum. 
+          <lb ed="#P" n="69"/>Ioannis. viii. aliquis homo est vbique. sed christus 
+          <lb ed="#P" n="70"/>non fuit homo in triduo. immo christus fuit non 
+          ho<lb ed="#P" n="71" break="no"/>mo in triduo: quia christus non fuit homo in 
+          tri<lb ed="#P" n="72" break="no"/>duo: et christus fuit in triduo: ergo christus fuit non 
+          <lb ed="#P" n="73"/>homo in triduo. consequentia est nota ex secundo 
+          <lb ed="#P" n="74"/>periarmenias: a negatiua ad affirmatiuam 
+          predi<lb ed="#P" n="75" break="no"/>cato variato penes finitum et infinitum.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e295">
+          ¶ Ad 
+          secun<lb ed="#P" n="76" break="no"/>dum argumentum et suam confirmationem simul 
+          re<lb ed="#P" n="77" break="no"/>spondetur. propositiones allate conceduntur 
+          per<lb ed="#P" n="78" break="no"/>suppositionem synodechicam: ita quod nomen partis pro 
+          <lb ed="#P" n="79"/>toto supponat: et vsus est tales admittere. et 
+          solu<lb ed="#P" n="80" break="no"/>in tali sensu. in suppositione propria sunt false: 
+          li<lb ed="#P" n="81" break="no"/>cet verum per eas intelligatur: vt pote caput quod 
+          <lb ed="#P" n="82"/>erat Ioannis baptiste est ambianis
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e314">
+          ¶ Tertio 
+          <lb ed="#P" n="83"/>arguitur: christus fuit christus in triduo: ergo 
+          chria<lb ed="#P" n="84" break="no"/>stus fuit homo in triduo. tenet consequentia: 
+          quan<lb ed="#P" n="85" break="no"/>documque christus est christus: christus est homo. 
+          antece<lb ed="#P" n="86" break="no"/>dens patet: quia praedicatur idem de eodem.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e325">
+          ¶ 
+          Quar<lb ed="#P" n="87" break="no"/>to arguitur: christus fuit in triduo deus: ergo deus 
+          <lb ed="#P" n="88"/>fuit in triduo christus: per conuersionem simplicem. 
+          Si<lb ed="#P" n="89" break="no"/>militer: in triduo verum erat dicere christus est christus 
+          <lb ed="#P" n="90"/>mortuus in triduo. ergo tuncverum erat dicere christus 
+          <lb ed="#P" n="91"/>est. a propositione de est tertio adiacente ad 
+          proposi<lb ed="#P" n="92" break="no"/>tionem de est secundo.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e341">
+          ¶ Ad tertium nego istam: christus 
+          fu<lb ed="#P" n="93" break="no"/>it christus in triduo: licet christus nichil aliud denotat 
+          <lb ed="#P" n="94"/>nisi vnctionem: et christus fuit inunctus in triduo. sed 
+          il<lb ed="#P" n="95" break="no"/>la non est comnunis acceptio vocabili. christus 
+          suppo<lb ed="#P" n="96" break="no"/>nit pro verbo connotando quod habeat humanitatem 
+          <lb ed="#P" n="97"/>assumptam. et quando illam habet est christus: et 
+          quan<lb ed="#P" n="98" break="no"/>do eam non habet: non est christus. vti oportet vocabu 
+          <lb ed="#P" n="99"/>lis secundum communem vsum. alioquin aperies michi 
+          mo<lb ed="#P" n="100" break="no"/>dum sustinende tam positionis hugonis quammagistri: 
+          <lb ed="#P" n="101"/>quia relicto communi modo loquendi possum exponere 
+          <lb ed="#P" n="102"/>illos ineptos modos loquendi: quod sapientes 
+          facere<lb ed="#P" n="103" break="no"/>non debent: nego ergo hanc christus fuit christus in 
+          tri<lb ed="#P" n="104" break="no"/>duo. et ad probationem qua dicis: predicatur ide 
+          <lb ed="#P" n="105"/>de eodem: ergo est propositio vera. consequentia est 
+          nul<lb ed="#P" n="106" break="no"/>la. dico has omnes falsas. Adam est Adam: loquendo de 
+          <lb ed="#P" n="107"/>prothoplasto. omnis homo omnis homo est. creans ne 
+          <lb ed="#P" n="108"/>cessario est creans. in proposito requiritur quod 
+          termi<lb ed="#P" n="109" break="no"/>ni supponant.
+        </p>
+        <p xml:id="jm3cbb-e27718-d1e380">
+          ¶ Ad quartum: non est bona conuersio. 
+          <lb ed="#P" n="110"/>nec secunda consequentia aliquid valet: vt iuuenes 
+          <lb ed="#P" n="111"/>logici norunt: et quia res est protrita: transeo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

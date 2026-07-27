@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="107-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e65764"><!-- l3d36q1 -->
+        <head xml:id="jm3cbb-e65764-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e65764-Hd1e101" type="question-title">An sint ponendae virtutes in voluntate</head>
+        <p xml:id="jm3cbb-e65764-d1e104">
+          <lb ed="#P" n="89"/>IN hac distinctione 
+          tri<lb ed="#P" n="90" break="no"/>cesimasexta magister loquitur de 
+          vir<lb ed="#P" n="91" break="no"/>tutum conexione. circa quam materiam 
+          <lb ed="#P" n="92"/>principaliter ista queram Primo de 
+          <lb ed="#P" n="93"/>virtutum appetiuarum subiecto: an sit 
+          <lb ed="#P" n="94"/>ponenda virtus in voluntate. 
+          Se<lb ed="#P" n="95" break="no"/>cundo: an sit ponenda virtus in appetitu sensitiuo. 
+          <lb ed="#P" n="96"/>Tertio: an virtutes morales connectantur 
+          pru<lb ed="#P" n="97" break="no"/>dentie. Quarto: an virtutes alie morales sint 
+          con<lb ed="#P" n="98" break="no"/>nexe inter se: et cum theologicis. et quia aliqui dicunt 
+          <lb ed="#P" n="99"/>connectuntur in gradu temperantie et heroico: et non 
+          <lb ed="#P" n="100"/>in gradu continentie. gratia illius queram. Quinto 
+          <lb ed="#P" n="101"/>de illis gradibus virtutum de quibus loquitur Aristo. 
+          <lb ed="#P" n="102"/>vii. Ethicorum. Sexto queritur de medio 
+          virtu<lb ed="#P" n="103" break="no"/>tis: quomodo est in medio: potissimum: an in medio 
+          rei<lb ed="#P" n="104" break="no"/>vel rationis. Septimo: an voluntas potest 
+          contrai<lb ed="#P" n="105" break="no"/>re cuicumque dictamini intellectus.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e143">
+          ¶ Circa primam 
+          <lb ed="#P" n="106"/>questionem queritur: an sint ponende virtutes in volum 
+          <lb ed="#P" n="107"/>tate. hic scito esse vnam positionem beati Thome in 
+          <lb ed="#P" n="108"/>prima secunde. q. lvi. tenentis quod iusticia sola inter morales 
+          <lb ed="#P" n="109"/>virtutes ponitur in voluntate. fortitudo et 
+          temperau<lb ed="#P" n="110" break="no"/>tia ponuntur in appetitu sensitiuo: et nullo modo in 
+          <lb ed="#P" n="111"/>voluntate. quod iusticia sit ponenda in voluntate: patet 
+          <lb ed="#P" n="112"/>ex Aristo. v. Ethi. primo.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e161">
+          ¶ Contra hanc positionem 
+          <lb ed="#P" n="113"/>sit hec conclusio. ponende sunt temperantia 
+          fortitu<lb ed="#P" n="114" break="no"/>do et iusticia virtutes in voluntate. probatur hec conclusio: 
+          <lb ed="#P" n="115"/>charitas et iusticia acquisita sunt in voluntate: ergo 
+          tempe<lb ed="#P" n="116" break="no"/>rantiae t fortitudo possunt esse: vel in voluntate 
+          gene<lb ed="#P" n="117" break="no"/>rari. sed hic negas consequentiam. voluntas determinatur 
+          suffici<lb ed="#P" n="118" break="no"/>enter ad proprium suum bonum in ordine ad se: hoc est: ad 
+          <lb ed="#P" n="119"/>suum bonum naturale. et cum temperantia et fortitudo sunt
+          <pb ed="#P" n="108-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>bona hominis in se: et in ordine ad seipsum: in 
+          vo<lb ed="#P" n="2" break="no"/>luntate non ponitur temperantia vel fortitudo: sed 
+          <lb ed="#P" n="3"/>eget determinatione ad bonum supernaturale vel ad 
+          <lb ed="#P" n="4"/>bonum naturale in ordine ad alterum. propterea in 
+          vo<lb ed="#P" n="5" break="no"/>luntate ponuntur charitas et iusticia: non autem 
+          tempe<lb ed="#P" n="6" break="no"/>rantia vel fortitudo. Contra hoc arguitur: intellectus 
+          <lb ed="#P" n="7"/>sufficienter determinatur ad verum: et non obstante in in 
+          <lb ed="#P" n="8"/>tellectu respectu talis veri generatur virtus 
+          intelle<lb ed="#P" n="9" break="no"/>ctualis: vt sapientia et prudentia. vi. ethicorum. Secum 
+          <lb ed="#P" n="10"/>do arguitur: licet intellectus osendat voluntati / tempera 
+          <lb ed="#P" n="11"/>te esse viuendum: voluntas potest ex libertate sua 
+          con<lb ed="#P" n="12" break="no"/>traire dictamini intellectus: ergo voluntas indiget 
+          ha<lb ed="#P" n="13" break="no"/>bitu determinanti ipsam voluntatem ad hoc quod est 
+          re<lb ed="#P" n="14" break="no"/>cte dictatum.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e214">
+          ¶ Confirmatur hec ratio: dabilis est 
+          ha<lb ed="#P" n="15" break="no"/>bitus virtus / in intellectu ad quem intellectus est sic 
+          <lb ed="#P" n="16"/>determinatus quod non potest ei dissentire: immo si 
+          ap<lb ed="#P" n="17" break="no"/>prehendit terminos: oportet quod illi assentiat. patet 
+          respe<lb ed="#P" n="18" break="no"/>ctu principii perse noti: ergo licet voluntas determinetur 
+          <lb ed="#P" n="19"/>ad suum bonum naturale ostensum ab intellectu: non 
+          <lb ed="#P" n="20"/>obstante in voluntate ponetur habitus et virtus.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e230">
+          ¶ 
+          Ter<lb ed="#P" n="21" break="no"/>tio sic arguitur. aliquis actus liber generat habitum in 
+          <lb ed="#P" n="22"/>voluntate: vt patet de actu iusticie: et non est maior 
+          ra<lb ed="#P" n="23" break="no"/>tio de vno actu libero quam altero: ergo quilibet actus 
+          <lb ed="#P" n="24"/>liber in voluntate generat habitum.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e241">
+          ¶ Respondet in. ii. ii. 
+          <lb ed="#P" n="25"/>qu. clv. articulo. iii. generabuntur tales habitus: sed 
+          <lb ed="#P" n="26"/>erunt continentia vel incontinentia: et non proprie virtus. 
+          <lb ed="#P" n="27"/>si actus vnus temperantie in voluntate generat 
+          habi<lb ed="#P" n="28" break="no"/>tum remissum: possunt multiplicari plures actus: 
+          <lb ed="#P" n="29"/>et generabitur habitus intensus: qui erit virtus 
+          simpli<lb ed="#P" n="30" break="no"/>citer.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e257">
+          ¶ Insuper: quemlibet pars virtutis est virtus. 
+          <lb ed="#P" n="31"/>Item: tali habitui cuicumque conuenit diffinitio virtu 
+          <lb ed="#P" n="32"/>tis. est habitus electiuuus in medietate consistens. 
+          <lb ed="#P" n="33"/>ergo est virtus.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e266">
+          ¶ Quarto sic arguitur. licet voluntas 
+          <lb ed="#P" n="34"/>sufficienter od bonum determinetur: non tamen sufficiem 
+          <lb ed="#P" n="35"/>ter determinatur ad prompte delectabiliter et ad in 
+          <lb ed="#P" n="36"/>tense velle tale bonum. ergo ad hoc faciendum indiget 
+          ha<lb ed="#P" n="37" break="no"/>bitu.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e277">
+          ¶ Quinto arguitur: possunt esse in voluntate 
+          pas<lb ed="#P" n="38" break="no"/>siones ipsam impedientes a persequutione boni: vt 
+          <lb ed="#P" n="39"/>tristicia / leticia / vel huismodi. ergo voluntas indiget 
+          ha<lb ed="#P" n="40" break="no"/>bitu bono ad hoc quod illas passiones moderetur. 
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e287">
+          <lb ed="#P" n="41"/>¶ Sexto arguitur: non est negandum a nobilissima 
+          <lb ed="#P" n="42"/>potentia (quod potentiis inferioribus conceditur) quod 
+          <lb ed="#P" n="43"/>ornat: et est perfectio ipsius potentie. sed 
+          temperan<lb ed="#P" n="44" break="no"/>tia et fortitudo ponuntur in appetitu sensitiuo: qui est 
+          <lb ed="#P" n="45"/>potentia inferior: ergo temperantiae fortitudo non sunt 
+          <lb ed="#P" n="46"/>negande a voluntate. Dicis: propter perfectionem 
+          potem<lb ed="#P" n="47" break="no"/>tie non eget habitu: et potentie inferiores egent. 
+          Con<lb ed="#P" n="48" break="no"/>tra: intellectus perte est perfectior voluntate: et tamen 
+          <lb ed="#P" n="49"/>in intellectu ponitur habitus: ergao perfectio potentie non 
+          <lb ed="#P" n="50"/>concludit habitum virtutem non ponendam in volunta 
+          <lb ed="#P" n="51"/>te. Item: iusticia est nobilior virtus quam tempenrantia 
+          <lb ed="#P" n="52"/>vel fortitudo: et tamen iusticia ponitur in nobili 
+          poten<lb ed="#P" n="53" break="no"/>tia: scilicet voluntate. ergo propter perfectionem habitus / vel 
+          po<lb ed="#P" n="54" break="no"/>tentie / non est negandus habitus virtutis 
+          temperan<lb ed="#P" n="55" break="no"/>tie a voluntate.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e322">
+          ¶ Septimo arguitur. actus temperam 
+          <lb ed="#P" n="56"/>tie generat habitum temperantie: et virtutem in appetitu 
+          <lb ed="#P" n="57"/>sensitiuo: ergo et actus temperantie in voluntate generat 
+          <lb ed="#P" n="58"/>habitum. tenet consequentia: actus voluntatis est perfectior actu 
+          <lb ed="#P" n="59"/>appetitus sensitiui: et voluntas est capax talis 
+          habi<lb ed="#P" n="60" break="no"/>tus: et cum non sit status in eius cremento: ad cremen¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tum actus in voluntate generabitur virtus 
+          tempen<lb ed="#P" n="62" break="no"/>rantie fortitudinis.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e342">
+          ¶ Contra hanc conclusionem 
+          <lb ed="#P" n="63"/>arguitur probando quod non sunt ponendi habitus virtutis 
+          <lb ed="#P" n="64"/>tperantiet fortitudinis in voluntate: et primo sic 
+          ar<lb ed="#P" n="65" break="no"/>guitur: voluntas est libera: ergo potest sufficionter se de 
+          <lb ed="#P" n="66"/>terminare ad bene agendum. ergo non indiget virtute de 
+          <lb ed="#P" n="67"/>terminante eam.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e355">
+          ¶ Secundo arguitur: voluntas est 
+          <lb ed="#P" n="68"/>agens liberum: ergo repugnat ei determinari ad 
+          <lb ed="#P" n="69"/>certam actionem per agens naturale. habitus virtu 
+          <lb ed="#P" n="70"/>tis est agens naturale: ad vnum inclinans suapte 
+          natu<lb ed="#P" n="71" break="no"/>ra: ergo repugnat quod sit in ea virtus.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e366">
+          ¶ Ad has 
+          ra<lb ed="#P" n="72" break="no"/>tiones respondere nulla est difficultas. concludunt 
+          <lb ed="#P" n="73"/>(si aliquid valeant quod in voluntate non est ponenda 
+          <lb ed="#P" n="74"/>iusticia. tamen respondetur in particulari. Ad priorem 
+          <lb ed="#P" n="75"/>rationem concedo quod voluntas est libera: et potest bene et 
+          <lb ed="#P" n="76"/>male agere: propterea eget habitu ad hoc quod 
+          deter<lb ed="#P" n="77" break="no"/>minetur ad bene agendum.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e382">
+          ¶ Ad secundum 
+          argumen<lb ed="#P" n="78" break="no"/>tum dico: si alii soluant argumentum de iusticia: 
+          so<lb ed="#P" n="79" break="no"/>lutionem habent de quocumque habitu: sed pro 
+          omni<lb ed="#P" n="80" break="no"/>bus dicitur quod habitus est agens naturale et 
+          partia<lb ed="#P" n="81" break="no"/>le. non potest necessitare voluntatem que est agens 
+          su<lb ed="#P" n="82" break="no"/>perius. vtens suo habitu quando vult.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e396">
+          ¶ Tertio 
+          ar<lb ed="#P" n="83" break="no"/>guitur. si in voluntate ponendus sit habitus virtutis: 
+          <lb ed="#P" n="84"/>sequitur eodem modo quod in angelo possunt poni 
+          vir<lb ed="#P" n="85" break="no"/>tutes. quod Aristote. x. ethicorum negat. Ad hoc 
+          argu<lb ed="#P" n="86" break="no"/>mentum: quero ab aliis an ponant iusticiam in 
+          ange<lb ed="#P" n="87" break="no"/>lis: et si sic: non debent negare habitum fortitudinis in 
+          <lb ed="#P" n="88"/>eis. Secundo: non video quare negandi sunt 
+          habi<lb ed="#P" n="89" break="no"/>tis in angelo et in quacumquem potentia in qua 
+          poni<lb ed="#P" n="90" break="no"/>tur actis: qua quidem potentia potest facilis exire in 
+          <lb ed="#P" n="91"/>suum actum post actuum frequentationem: in illa de 
+          <lb ed="#P" n="92"/>facto ponendus est habitus. Illud est argumentum 
+          <lb ed="#P" n="93"/>probandi habitus: cum in deo non est actus ab eo 
+          disti<lb ed="#P" n="94" break="no"/>ctus: in eo non generatur habitus. et si philosophus 
+          ali<lb ed="#P" n="95" break="no"/>quis ita sentiret de angelis: quod sua essentia est sua in 
+          <lb ed="#P" n="96"/>fellectio et volitio: debet conseqenuter ab illa negare 
+          <lb ed="#P" n="97"/>habitus.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e431">
+          ¶ Contra ista arguitur: et est quartum 
+          argumen<lb ed="#P" n="98" break="no"/>tum. sequitur quod anima separata potest habere 
+          habi<lb ed="#P" n="99" break="no"/>tum temperantie in sensu composito: consequens est 
+          fal<lb ed="#P" n="100" break="no"/>sum. non habet sensum gustus vel tactus: sed circa 
+          ta<lb ed="#P" n="101" break="no"/>les sensus est temperantia: secundum Aristotelem. iii. 
+          <lb ed="#P" n="102"/>ethicorum. et quod sequatur patet sic: possunt elicere actus 
+          <lb ed="#P" n="103"/>temperantie: et per me quaecumque potentia habens actum 
+          <lb ed="#P" n="104"/>alicuius virtutis potest habere habitum illius virtu 
+          <lb ed="#P" n="105"/>tis: et ipsam virtutem:
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e451">
+          ¶ Quinto arguitur. actus 
+          bea<lb ed="#P" n="106" break="no"/>tificus in voluntate in patria non generat habitum. 
+          <lb ed="#P" n="107"/>ergo nec actus temperantie in via. tenet 
+          consequen<lb ed="#P" n="108" break="no"/>tia: quia idem est: si vnus actus voluntatis pari 
+          ra<lb ed="#P" n="109" break="no"/>tione nullus. antecedens patet: da oppositum: cum potentia potest 
+          <lb ed="#P" n="110"/>elicere actum intensiorem adiuta ab habitu quam sine 
+          <lb ed="#P" n="111"/>habitu: sequitur quod beatus erit semper magis et 
+          ma<lb ed="#P" n="112" break="no"/>gis beatus: quod est falsum.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e469">
+          ¶ Respondetur: quero ab 
+          <lb ed="#P" n="113"/>aliis an anima separata potest acquirere habitum 
+          iu<lb ed="#P" n="114" break="no"/>sticie: et qualiter in illo respondent: sic eis responde 
+          <lb ed="#P" n="115"/>bitur. concedo quod animaseparata potest habere 
+          ta<lb ed="#P" n="116" break="no"/>les actus: vellem Ioannem temperate viuere: et ille 
+          <lb ed="#P" n="117"/>actus in anima generat habitum temperantie. et qua 
+          <lb ed="#P" n="118"/>ritur ab aduersario: an anima separata potest 
+          ta<lb ed="#P" n="119" break="no"/>lem actum elicere: volo temperanter viuere: et que 
+          <lb ed="#P" n="120"/>ritur ad quam virtutem spectat talis actus. eodem 
+          <pb ed="#P" n="108-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>modo respondeo de habitu: nec est maior 
+          difficul<lb ed="#P" n="2" break="no"/>tas in vno quam in alio. siue habitus dicatur 
+          temperan<lb ed="#P" n="3" break="no"/>tia vel ne parum refert: est de termino 
+          contende<lb ed="#P" n="4" break="no"/>re: sufficit: generabitur habitus. Aristoteles 
+          loqui<lb ed="#P" n="5" break="no"/>tur pro hoc statu in quo viuunt homines: et de 
+          homi<lb ed="#P" n="6" break="no"/>num virtutibus: et sic temperantia et 
+          intemperan<lb ed="#P" n="7" break="no"/>tia sunt circa sensum gustus vel tactus.
+        </p>
+        <p xml:id="jm3cbb-e65764-d1e508">
+          ¶ Ad quintum 
+          <lb ed="#P" n="8"/>dicitur: quando negaretur antecedens probatio 
+          conse<lb ed="#P" n="9" break="no"/>quentie est nulla: quod beatus erit semper magis et magis 
+          <lb ed="#P" n="10"/>beatus: et quod beatificabitur plusquod meritus est. et 
+          ratio<lb ed="#P" n="11" break="no"/>est: quia illud argumentumprobaret quod decedens cum 
+          <lb ed="#P" n="12"/>melioribus naturalibus plus beatificatur quod decedens cum 
+          <lb ed="#P" n="13"/>peioribus: posito quod equaliter meruerunt: quod non 
+          <lb ed="#P" n="14"/>est dicendum. deus supplet plus illum qui minora 
+          na<lb ed="#P" n="15" break="no"/>turalia habet: et minus illum qui meliora habet 
+          na<lb ed="#P" n="16" break="no"/>turalia: sic dicetur de illo cuius habitus beatificus 
+          <lb ed="#P" n="17"/>augebitur. secundum crementum habitus deus minus et 
+          <lb ed="#P" n="18"/>minus cooperabitur: et sic plus augebitur actus 
+          beati<lb ed="#P" n="19" break="no"/>ficus intentionaliter: cum concursus vnius cause 
+          <lb ed="#P" n="20"/>effectiue tantum proportionabiliter diminuitur sicut 
+          <lb ed="#P" n="21"/>est crementum alterius cause. Secundo: nego quod actus 
+          <lb ed="#P" n="22"/>beatificus generat habitum. ratio quare deus 
+          in<lb ed="#P" n="23" break="no"/>stituit quod actus producat habitum est: quia non possumus sper habtre 
+          <lb ed="#P" n="24"/>actum et sic non possemus menorari antece visorum: nec 
+          facili<lb ed="#P" n="25" break="no"/>tari ad bene operandum post operationes bonas: si non 
+          ma<lb ed="#P" n="26" break="no"/>neret habitus. propterea ponitur habitus. ergo cum actus beatificus 
+          <lb ed="#P" n="27"/>in patria est perpetuus et omnium bonorum operum est praemium: 
+          <lb ed="#P" n="28"/>non dabitur habitus ab illo productus. Secundo 
+          di<lb ed="#P" n="29" break="no"/>cetur: sicut noticia intuitiua non producit habitum: nec 
+          <lb ed="#P" n="30"/>dilectio beatifica quae ab intuitiua producitur / producit habitum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

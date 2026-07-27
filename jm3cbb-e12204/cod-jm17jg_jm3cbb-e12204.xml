@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="20-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e12204"><!-- l3d7q3 -->
+        <head xml:id="jm3cbb-e12204-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e12204-Hd1e101" type="question-title">An si Adam non peccasset Christus incarnatus fuisset</head>
+        <p xml:id="jm3cbb-e12204-d1e104">
+          <lb ed="#P" n="99"/>TErtio et vltimo
+          <lb ed="#P" n="100"/>circa hanc distinctionem 
+          septi<lb ed="#P" n="101" break="no"/>mam queritur: an si Adam non 
+          <lb ed="#P" n="102"/>peccasset christus incarnatus 
+          <lb ed="#P" n="103"/>fuisset. 
+        </p>
+        <p xml:id="jm3cbb-e12204-d1e117">
+          Respondetur hic sunt 
+          <lb ed="#P" n="104"/>due positiones opposite. partem 
+          <lb ed="#P" n="105"/>affirmatiuam tenet alexander 
+          <lb ed="#P" n="106"/>halenus in tertia parte questione secunda. et doctor 
+          <lb ed="#P" n="107"/>subtilis in hac distinctione. Positio illa tenet / 
+          chri<lb ed="#P" n="108" break="no"/>stus fuisset incarnatus: sed non passus fuisset. ita 
+          <lb ed="#P" n="109"/>ad auctoritates plures oppositum insinuantes 
+          re<lb ed="#P" n="110" break="no"/>spondetur. Alia est positio non minus communis / 
+          <lb ed="#P" n="111"/>tenens partem negatiuam. in hac parte non video 
+          argu<lb ed="#P" n="112" break="no"/>menta stringentia.
+        </p>
+        <p xml:id="jm3cbb-e12204-d1e139">
+          ¶ Pro solutione quaestionis 
+          pono<lb ed="#P" n="113" break="no"/>duas conclusiones. Quarum prior est. si Adam non 
+          pec<lb ed="#P" n="114" break="no"/>casset: nec aliquis alius: poterat deus incarnari 
+        </p>
+        <p xml:id="jm3cbb-e12204-d1e147">
+          <lb ed="#P" n="115"/>¶ Secunda conclusio. probleuma neutrum est titulus 
+          <lb ed="#P" n="116"/>questionis. prior patet: deum incarnari est 
+          contin<lb ed="#P" n="117" break="no"/>gens: et a sola voluntate diuina dependens: ergo 
+          <lb ed="#P" n="118"/>poterat incarnari dato quod nullus peccasset vnquam 
+          <lb ed="#P" n="119"/>Secunda conclusio non aliter probabitur quam rationes 
+          <lb ed="#P" n="120"/>thopicas hinc inde adducendo: et quidem paucas. 
+          <lb ed="#P" n="121"/>cum paucis verbis potest vtrique parti fieri responsio. 
+          <pb ed="#P" n="21-r"/>
+          <cb ed="#P" n="a"/>
+        </p>
+        <p xml:id="jm3cbb-e12204-d1e169">
+          <lb ed="#P" n="1"/>¶ Contra partem affirmatiuam arguitur sic: per 
+          il<lb ed="#P" n="2" break="no"/>lud beati Bernardi super illud Ione. ii. propter 
+          me<lb ed="#P" n="3" break="no"/>orta est tempestas: qui exponens illud de 
+          filio<lb ed="#P" n="4" break="no"/>dei dicit / lucifer preuidit rationalem creaturam 
+          assi<lb ed="#P" n="5" break="no"/>mendam in vnitatem persone filii dei: vidit et inuidit. 
+          <lb ed="#P" n="6"/>vnde inuidia fuit causa casus diaboli: et mouens 
+          <lb ed="#P" n="7"/>ipsum ad temptandum hominem: cuius felicitati 
+          in<lb ed="#P" n="8" break="no"/>uidebat: vt per peccatum demereretur humana 
+          natu<lb ed="#P" n="9" break="no"/>ra assumptionem et vnibilitatem ad deum. Ex quo 
+          pa<lb ed="#P" n="10" break="no"/>tet: quod lucifer intellexit vnionem humane nature: et 
+          <lb ed="#P" n="11"/>ipsum lapsum putabat impedimentum vnionis: 
+          pro<lb ed="#P" n="12" break="no"/>pter quod procurauit lapsum.
+        </p>
+        <p xml:id="jm3cbb-e12204-d1e198">
+          ¶ Secundo arguitur: vo 
+          <lb ed="#P" n="13"/>luntas ordinate volens prius vult illud quod est 
+          <lb ed="#P" n="14"/>fini propinquius. prius vult alicui gloriam quam gratiam. 
+          <lb ed="#P" n="15"/>ita inter praedestinatos quibus vult gloriam 
+          ordina<lb ed="#P" n="16" break="no"/>te. Prius videtur velle illi gloriam quem vult esse 
+          <lb ed="#P" n="17"/>proximum fini. et ita prius vult gloriam anime 
+          chri<lb ed="#P" n="18" break="no"/>sti quam alteri anime velit gloriam: et prius vult 
+          cuili<lb ed="#P" n="19" break="no"/>het alteri gloriam et gratiam quam preuideat aliquem opr 
+          <lb ed="#P" n="20"/>posita habiturum: ergo prius vult animam christi 
+          habe<lb ed="#P" n="21" break="no"/>re gloriam quam preuideat Adam casurum: ergo si Adam 
+          <lb ed="#P" n="22"/>non cecidisset / anima christi adhuc gloriam suam 
+          conse<lb ed="#P" n="23" break="no"/>quuta fuisset. et ita verbum incarnatum fuisset. quia 
+          <lb ed="#P" n="24"/>christus secundum hominem prius predestinatus fuit ad 
+          glo<lb ed="#P" n="25" break="no"/>riam quam preuideretur hominis lapsus.
+        </p>
+        <p xml:id="jm3cbb-e12204-d1e229">
+          ¶ Ad primum 
+          di<lb ed="#P" n="26" break="no"/>citur: dato quod demon intellexit futuram christi 
+          incarna<lb ed="#P" n="27" break="no"/>tionem: non oportuit eum intelligere eius causam: scilicet 
+          <lb ed="#P" n="28"/>hominis redemptionem.
+        </p>
+        <p xml:id="jm3cbb-e12204-d1e238">
+          ¶ Ad secundum dicitur quod deus 
+          ab<lb ed="#P" n="29" break="no"/>eter no predestinauit omnes quos praedestinauit: et 
+          ab<lb ed="#P" n="30" break="no"/>eterno reprobauit omnes quos reprobauit. ex istis 
+          <lb ed="#P" n="31"/>signis nature imaginatis raro habetur efficax 
+          ar<lb ed="#P" n="32" break="no"/>gumentum.
+        </p>
+        <p xml:id="jm3cbb-e12204-d1e249">
+          ¶ Contra aliam partem arguitur per illud quod 
+          <lb ed="#P" n="33"/>seribitur Mat. xviii. venit filius hominis querere et 
+          <lb ed="#P" n="34"/>saluum facere quod perierat super quo dicit Aug. in de 
+          <lb ed="#P" n="35"/>verbis apostlui / si homo non peccasset: filius hominis non 
+          <lb ed="#P" n="36"/>venisset. et. i. ad thimotheum i. christus iesus venit 
+          <lb ed="#P" n="37"/>in hunc mundum peccatores saluos facere: vhbi glosa 
+          <lb ed="#P" n="38"/>Augu. tolle vulnera tolle morbos et nulla est 
+          cau<lb ed="#P" n="39" break="no"/>sa medicine. nullam aliam ob causam venit nisi 
+          pee<lb ed="#P" n="40" break="no"/>catores saluos facere. Atem Gregorius in besendictio 
+          <lb ed="#P" n="41"/>ne cerei paschalis: deo nihil enin nasci profuit 
+          ni<lb ed="#P" n="42" break="no"/>si redimere potuisset. his auctoritatibus 
+          respon<lb ed="#P" n="43" break="no"/>sum est sufficienter recitando positionem oppositam. 
+          <lb ed="#P" n="44"/>in hac materia (in qua exitus in fundo haberi non 
+          <lb ed="#P" n="45"/>potest ) non est curiose inuigilandum. ideo pertranseundo
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

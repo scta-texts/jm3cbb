@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="110-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e67403"><!-- l3d36q4 -->
+        <head xml:id="jm3cbb-e67403-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e67403-Hd1e101" type="question-title">An virtutes morales sint connexae ad hunc sensum quod non
+    habetur una sine alia</head>
+        <p xml:id="jm3cbb-e67403-d1e104">
+          <lb ed="#P" n="17"/>Quarto circa hanc 
+          di<lb ed="#P" n="18" break="no"/>stinctionem. xxxvi. quaeritur: an 
+          vir<lb ed="#P" n="19" break="no"/>tutes morales sint connexe ad 
+          <lb ed="#P" n="20"/>hunc sensum: quod non habetur vna si 
+          <lb ed="#P" n="21"/>ne alia: ille est sensus de qua inter 
+          <lb ed="#P" n="22"/>philosophos contenditur: hec 
+          <lb ed="#P" n="23"/>dixerim propter aliquos 
+          distin<lb ed="#P" n="24" break="no"/>guentes multiplicem sensum inutiliter: et circa 
+          subur<lb ed="#P" n="25" break="no"/>bium /e impartinens / plus laborant quam circa vrbem ipsam 
+          <lb ed="#P" n="26"/>hespendam. In hac questione mirabilem varietatem 
+          di<lb ed="#P" n="27" break="no"/>cendi inuenio. et tamen non semper est varietas ad 
+          <lb ed="#P" n="28"/>rem. et ratio quare homines ita varie opinati sunt / est 
+          <lb ed="#P" n="29"/>hec: Aristoteles quem omnes in hac parte ducem in 
+          <lb ed="#P" n="30"/>sequuntur. vi. ethic. vltimo: videtur dicere quod sic: quem 
+          <lb ed="#P" n="31"/>Aug. grego. et sactin plurimi sequuti sunt: vt post hac 
+          <lb ed="#P" n="32"/>patebit.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e141">
+          ¶ In oppositum est argumentum commune 
+          <lb ed="#P" n="33"/>non floccipendendum dum modo perficiatur. aliquis potest 
+          <lb ed="#P" n="34"/>se exercitare circavnam materiam virtutis: vt pote 
+          <lb ed="#P" n="35"/>circa temperantiam: et non circa alias materias 
+          virtu<lb ed="#P" n="36" break="no"/>tum. modo fabricando fabri fimus: ergo tali 
+          quotidia<lb ed="#P" n="37" break="no"/>na exercitatione honesta circa materiam temperantie: 
+          <lb ed="#P" n="38"/>sine fortitudine et iusticia temperatus euadet. 
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e157">
+          <lb ed="#P" n="39"/>¶ At forte dicis: de ratione perfecte temperantie est / 
+          <lb ed="#P" n="40"/>quod eam habens prompte et delectabiliter circa eam 
+          ope<lb ed="#P" n="41" break="no"/>retur: et non succumbat pro quocumque flatu 
+          superuenien<lb ed="#P" n="42" break="no"/>te. modo si proponatur illi temperato materia mortis: hoc 
+          <lb ed="#P" n="43"/>est mater ia fortitudinis vel iusticie in qu a non est 
+          <lb ed="#P" n="44"/>exercitatus: facile succumbet: ergo non est perfecte 
+          tempe<lb ed="#P" n="45" break="no"/>ratus. ergo ad hoc quod habeatur perfecta temperantia 
+          requiri<lb ed="#P" n="46" break="no"/>tur fortitudo et iusticia.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e178">
+          ¶ Contra hoc arguitur: vel 
+          <lb ed="#P" n="47"/>requiritur exercitatio in qualibet materia 
+          forturitudi<lb ed="#P" n="48" break="no"/>nis et iusticie: vel sufficit aliqua. si primum: numquod dabitur 
+          <lb ed="#P" n="49"/>perfecte tperatus vl perfctem iustus: quia nulls exercitatur de 
+          commni<lb ed="#P" n="50" break="no"/>lege in quaelbet materia istarum virtutum. sub aliis verbis 
+          <lb ed="#P" n="51"/>sic duco argumentum:et redit in idem. vel ad hoc quod 
+          <lb ed="#P" n="52"/>quis temperatus dicatur requiritur quod quodlibet 
+          indi<lb ed="#P" n="53" break="no"/>uiduum fortitudinis vel iusticie in specie habeat 
+          <lb ed="#P" n="54"/>vel sufficiunt aliqui habitus certarum specierum 
+          forti<lb ed="#P" n="55" break="no"/>tudinis et iusticie. si primum: non inuenies vnquam 
+          tem<lb ed="#P" n="56" break="no"/>pratum. si secundum: ille quem temperatum ponis / succum 
+          <lb ed="#P" n="57"/>bet: vt pote si multum in temperantia fuerit exercita 
+          <lb ed="#P" n="58"/>tus: et habuerit a. iudicium iusticie solum: et b: 
+          iu<lb ed="#P" n="59" break="no"/>dicium fortitudinis solum: si proponatur eic. indi¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>uiduum iusticier do indiuiduum fortitudinis: qua in illa 
+          <lb ed="#P" n="61"/>materia nondum est exercitatus. ergo facile succumbet. 
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e215">
+          <lb ed="#P" n="62"/>¶ Ratione dubitationis in questione mota aliqurum 
+          <lb ed="#P" n="63"/>modos breuiter commemorare libebit. Stoici 
+          dixe<lb ed="#P" n="64" break="no"/>runt (sicut dicit beatus Augustinus de sententia 
+          Ia<lb ed="#P" n="65" break="no"/>cobi quod omnes virtutes acquisite connexe sunt: quia 
+          <lb ed="#P" n="66"/>estimabant virtutes non posse esse nisi in 
+          indiuisibi<lb ed="#P" n="67" break="no"/>li: qua per absentlam alicuius virtutis in homine est 
+          <lb ed="#P" n="68"/>in ipso vicium: et quolibet vicium impedit virtutem ne sum 
+          <lb ed="#P" n="69"/>mum attingat: quod attingit virtus attingendo 
+          pun<lb ed="#P" n="70" break="no"/>ctale medium: ideo dixerunt virtutem non posse 
+          <lb ed="#P" n="71"/>esse cum alterius carentia. hec positio stoicorum est 
+          <lb ed="#P" n="72"/>nulla. nullus hoc modo haberet virtutem. Secundo: 
+          <lb ed="#P" n="73"/>falsum est quod dicunt quod per absentiam alicuius 
+          virtu<lb ed="#P" n="74" break="no"/>tis in homine / necesse est esse in eo vicium. Alii 
+          <lb ed="#P" n="75"/>dicunt virtutes sunt inuicem connexe: quia connectuntur 
+          <lb ed="#P" n="76"/>cum prudentia: que est vna. ergo connectuntur inter se. Nec 
+          <lb ed="#P" n="77"/>hoc valet. non est vna prudentia numero vel 
+          specie<lb ed="#P" n="78" break="no"/>specialissima. sed tot sunt prudentie distincte quot 
+          <lb ed="#P" n="79"/>sunt obiecta materialia specie distincta. Alii dicunt 
+          <lb ed="#P" n="80"/>sunt connexe in gradu temperantie et in gradu 
+          he<lb ed="#P" n="81" break="no"/>roico. sed ostendetur questionem soluendo ad mentem 
+          <lb ed="#P" n="82"/>philosophi et sancatonrum non est necesse de his virtutum 
+          <lb ed="#P" n="83"/>gradibus loqui.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e265">
+          ¶ Insuper: quis potest habere 
+          virtu<lb ed="#P" n="84" break="no"/>tem aliquam in gradu temperantie sine aliis 
+          vtuti<lb ed="#P" n="85" break="no"/>buo: ergo hoc non soluit questionem. antecedens patet: 
+          da<lb ed="#P" n="86" break="no"/>tur vnus virgo in quae oms motus circa illecebram sunt 
+          <lb ed="#P" n="87"/>sedati: licet non fuerit exercitatus circa materiam 
+          <lb ed="#P" n="88"/>fortitudinis et iusticie.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e278">
+          ¶ pro questionis 
+          so<lb ed="#P" n="89" break="no"/>lutione pono sex conclusiones: Quarum 
+          prima<lb ed="#P" n="90" break="no"/>est. iste virtutes cardinales que in quotidiano 
+          vsu<lb ed="#P" n="91" break="no"/>eueniunt seinuicem protegunt more quattuor 
+          san<lb ed="#P" n="92" break="no"/>ctarum sororum. probatur hec conclusio exemplari 
+          <lb ed="#P" n="93"/>ter: si bertha fuerit temptata de castitate que in 
+          il<lb ed="#P" n="94" break="no"/>la virtute se longe exercuit: si non fuerit fortis 
+          <lb ed="#P" n="95"/>et in materia fortitudinis exercitata: castitas sua 
+          <lb ed="#P" n="96"/>exponitur periculo: dum tirannus ei mortem 
+          mi<lb ed="#P" n="97" break="no"/>natur nisi in eum consentiat. tunc in illo bello / hanc 
+          <lb ed="#P" n="98"/>plurimum iuuaret fortitudo. et si magna offerat 
+          <lb ed="#P" n="99"/>ei munera: vtpote cathenas aureas et 
+          huiusmo<lb ed="#P" n="100" break="no"/>di mundana oblectamenta quatenus ipsa 
+          consen<lb ed="#P" n="101" break="no"/>tiat: nisi habuerit iusticiam: erit ipsa multum 
+          in<lb ed="#P" n="102" break="no"/>uasa: quam pacificam iusticia protegeret nolens 
+          <lb ed="#P" n="103"/>hoc iniustum commercium. 
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e313">
+          <lb ed="#P" n="104"/>¶ Secunda conclusio. virtus vna multum iuuat ad 
+          <lb ed="#P" n="105"/>productionem alterius virtutis. patet de hac muliere 
+          <lb ed="#P" n="106"/>pfata. si ipsa fuerit casta: et in illa materia exercita 
+          <lb ed="#P" n="107"/>taet nondum exercitata in matia fortuudeins: cum tyrannus 
+          <lb ed="#P" n="108"/>ei mortem offert nisi ipsa in eum consenserit: tunc prudentia 
+          <lb ed="#P" n="109"/>et habitus castitatis facile producunt primum actum 
+          <lb ed="#P" n="110"/>fortitudinis. patet: quia castitas tunc non potest habere 
+          <lb ed="#P" n="111"/>suum actum elicitum nisi habuerit actum fortitudinis: 
+          er<lb ed="#P" n="112" break="no"/>go stante illa ypothesi quantum inclinat castitas ad actum 
+          <lb ed="#P" n="113"/>proprium intrinsecum: tantum inclinat mediante tali 
+          actu<lb ed="#P" n="114" break="no"/>proprio ad actum fortitudinis alterius virtutis. 
+          Si<lb ed="#P" n="115" break="no"/>hec mulier fuerit habituata in virtute generali: 
+          pu<lb ed="#P" n="116" break="no"/>ta nolo perpetrare aliquid inhonesti: et cum ipsa 
+          iu<lb ed="#P" n="117" break="no"/>dicat hoc inhonestum: facilime actum primum 
+          fortitudi<lb ed="#P" n="118" break="no"/>nis in particulari producet. ratio: ipsa habet habitum 
+          <lb ed="#P" n="119"/>generalem ad fortitudinem et ad alias virtutes: igit. 
+          <pb ed="#P" n="111-r"/>
+          <cb ed="#P" n="a"/>
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e355">
+          <lb ed="#P" n="1"/>¶ Tertia conclusio. in absoluto sermone nullus diti 
+          <lb ed="#P" n="2"/>prudens nisi qui multum exercitatus est in materiis 
+          <lb ed="#P" n="3"/>virtutum cardinalium: et in eis eius virtus relucet. hec. 
+          <lb ed="#P" n="4"/>conclusio probatur: si de aliquo iuuene fuerit semo bene 
+          <lb ed="#P" n="5"/>iudicante in vno agibilivel in duobus: si dicas eum 
+          pru<lb ed="#P" n="6" break="no"/>dentem: omnes vno oretibi contradicunt: dicentes quod non: 
+          <lb ed="#P" n="7"/>propter defectum experientie. et Aristo. tertio 
+          thopi<lb ed="#P" n="8" break="no"/>corum: nemo eligit iuuenes in duces: quam non constat 
+          <lb ed="#P" n="9"/>eos esse prudentes. et primno ethic. iii. capite. dicit 
+          <lb ed="#P" n="10"/>philosophus. Atque quisque bene iudicat ea qua cognoscit: 
+          <lb ed="#P" n="11"/>et ipsorum bonus est iudex. his ergo in vnaqueque re 
+          bene<lb ed="#P" n="12" break="no"/>iudicat qui in illa est eriditus: absolute autem: qui est 
+          <lb ed="#P" n="13"/>in omnibus eruditus. quapropter iuuenis ciuilis 
+          disci<lb ed="#P" n="14" break="no"/>pline non est ydoneus auditor est enim tudis 
+          ac<lb ed="#P" n="15" break="no"/>tuum vite: ex his autem et de his ipse raties efficium 
+          <lb ed="#P" n="16"/>tur. Cunc sic: ad virum esse eruditum simpoeclr: hoc est 
+          pru<lb ed="#P" n="17" break="no"/>dentem absolute: requiritur magna exercitatio actuum 
+          <lb ed="#P" n="18"/>vite: et eorum quae in vita contingunt. modo materie 
+          vir<lb ed="#P" n="19" break="no"/>tutum cardinalium maxime in vita humana contingunt 
+          <lb ed="#P" n="20"/>propterea cardinales dicuntur: ex dictis in 
+          distinctio<lb ed="#P" n="21" break="no"/>ne. xxxiii. huius. ergo nemo dicendus est prudens in 
+          abso<lb ed="#P" n="22" break="no"/>luto sesmuode / nisi miltum exercitatus / in mam virtutum 
+          cardi<lb ed="#P" n="23" break="no"/>nalium.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e408">
+          ¶ Quarta conclusio. nemo est dicendus 
+          absolu<lb ed="#P" n="24" break="no"/>te loquendo iustus / vel temperatus perfecte / nisi qui est 
+          prom<lb ed="#P" n="25" break="no"/>ptus ad bene agendum secundum materiam cardinalem 
+          to<lb ed="#P" n="26" break="no"/>tam: et ad resistendum temptationibus superuenientibus quae 
+          ho<lb ed="#P" n="27" break="no"/>minem impediunt a prosequutione virtutis. probatur 
+          <lb ed="#P" n="28"/>hec conclusio: somen potest esse prudens nisi talis 
+          <lb ed="#P" n="29"/>fuerit: ex questione precedenti et conclusione 
+          pre<lb ed="#P" n="30" break="no"/>cedenti. sed cum perfecta prudentia nullo modo stat 
+          <lb ed="#P" n="31"/>malicia: sed bonitas. malus enim creberrime in 
+          <lb ed="#P" n="32"/>agibilibus pessime iudicat: licet in aliquibus 
+          spe<lb ed="#P" n="33" break="no"/>culatiuis et paucis practicis bene iudicat. patet: iuue 
+          <lb ed="#P" n="34"/>nis male iudicat: primi. ethi. iii. eo quod sequitur 
+          partur<lb ed="#P" n="35" break="no"/>bationes. et subiungit philosophus eleganter: Interest 
+          <lb ed="#P" n="36"/>autem nichil iuuenis sit etate an moribus iuuenis 
+          <lb ed="#P" n="37"/>similis: non enim defectio est obistempus: sed quia 
+          <lb ed="#P" n="38"/>viuit et prosequitur singula cum perturbatione. 
+          <lb ed="#P" n="39"/>omnis malus est ignorans tertio ethicorum: et 
+          <lb ed="#P" n="40"/>malicia excecat intellectum. hoc est in multis 
+          ob<lb ed="#P" n="41" break="no"/>fuscat et obtenebrat. patet de intemperato in gradu. 
+          sep<lb ed="#P" n="42" break="no"/>timo ethi. et sapientie secundo. ex cecauit illos malicia 
+          <lb ed="#P" n="43"/>eorum. Probatur hec conclusio alitur: nemo est dicendus perfectus 
+          <lb ed="#P" n="44"/>logicus vel logicus simposltr (quod idem est) nisi sciens mita 
+          lo<lb ed="#P" n="45" break="no"/>gicalia memoriter / sciens passum cum passu secundum 
+          exigen<lb ed="#P" n="46" break="no"/>tiam materiarum mutuo tenere / et nouit errata in eadem 
+          <lb ed="#P" n="47"/>scientia. sic in theologia et in aliis artibus. ergo 
+          nemo<lb ed="#P" n="48" break="no"/>dicendus est in absoluto simone iustus vel temperatus nisi 
+          <lb ed="#P" n="49"/>habeat omnia illa per quae facile actum sue virtutis defendit: 
+          <lb ed="#P" n="50"/>et eleganter. consequentia tenet per simile. 
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e469">
+          <lb ed="#P" n="51"/>¶ Quinta conclusio: connexio est virtutum cardinalium ad 
+          <lb ed="#P" n="52"/>hoc quod aliquis dicatur in absoluto sermone preditus virtu 
+          <lb ed="#P" n="53"/>te vel studiosus. hec conclusio ex duabus praecedentibus 
+          se<lb ed="#P" n="54" break="no"/>quitur: et ille tres simul: et potissimum ista: 
+          expres<lb ed="#P" n="55" break="no"/>se patet ex aristotele. vi. Ethicorum vltimo: 
+          vbi<lb ed="#P" n="56" break="no"/>facit obiectionemhanc: aliquis est aptus ad 
+          vna<lb ed="#P" n="57" break="no"/>virtutem et bene natus ad eam: ergo similiter 
+          ali<lb ed="#P" n="58" break="no"/>quis habet vnam virtutem moralem non 
+          haben<lb ed="#P" n="59" break="no"/>do reliquas. Philosophus negat consequentiamt 
+          <lb ed="#P" n="60"/>et ponit oppositum consequentis (quod est nostra 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>quinta conclusio ) cum atecdencedente: et hoc ex industria 
+          <lb ed="#P" n="62"/>probat propatur connexionem quam virtutes habent ad 
+          <lb ed="#P" n="63"/>prudentiam. vnde sic ait apud argiropylum.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e502">
+          ¶ At enim 
+          <lb ed="#P" n="64"/>et ea ratio qua quispiam disseruerit separari 
+          vir<lb ed="#P" n="65" break="no"/>tutes: hinc solui potest. non enim idem ad omens 
+          <lb ed="#P" n="66"/>suscipiendas aptissimus est ingenio: quare aliam 
+          <lb ed="#P" n="67"/>iam accepit: aliam nondum accepit. hoc enim in 
+          natu<lb ed="#P" n="68" break="no"/>ralibus quidem virtutibus / fieri potest: at in his quibus abso 
+          <lb ed="#P" n="69"/>lute diti homo bonus fieri nequit Et eni cum prudentia ( quae est 
+          <lb ed="#P" n="70"/>vna simul ierunt vniuerse. istic Aristo. capit prudem 
+          <lb ed="#P" n="71"/>tia collectiue dicens: non em potest habere prudentiam 
+          <lb ed="#P" n="72"/>sufficientem denominare virum prudentem in absoluto 
+          ser<lb ed="#P" n="73" break="no"/>mone sine virtutibus moralibus: et potissimum cardima 
+          <lb ed="#P" n="74"/>libus. quo modo loquendi de cardinalibus non vtitur: sed de 
+          <lb ed="#P" n="75"/>eis intelligit. per absolutum modum loquendi: simpoectolr / 
+          <lb ed="#P" n="76"/>intelligit. sicut primo priorum dicit: simposoltr dico quod 
+          <lb ed="#P" n="77"/>sine addito dico. et antiqua traslatio. vi. Ethi. vltio. 
+          <lb ed="#P" n="78"/>loco de ly absolute / ponit simpoetlr. et eandem dubita 
+          <lb ed="#P" n="79"/>tionem (de qua est mentio nuperrime racta) sic interprs 
+          <lb ed="#P" n="80"/>tatur. Sed et ratio sic dissoluetur vtique: qua 
+          dis<lb ed="#P" n="81" break="no"/>putat quis: quoniam separantur abinuicem virtu 
+          <lb ed="#P" n="82"/>tes. non en idem optime natus ad omnes: quare hanc 
+          <lb ed="#P" n="83"/>quidam sciunt: hanc autem nequaquam assumens erit. 
+          <lb ed="#P" n="84"/>Et obiectioni illi respondens ait: hoc enim secundum 
+          <lb ed="#P" n="85"/>quidam naturales virtutes contingit: secundemt quas autem 
+          <lb ed="#P" n="86"/>simpertur dicitr bonus: non contingit. simul enim pruden 
+          <lb ed="#P" n="87"/>tie vni existenti: omnes inerunt. hunc modum 
+          loqueu<lb ed="#P" n="88" break="no"/>di aristotelis / sequitur tullius in tusculanis questio 
+          <lb ed="#P" n="89"/>nibus inquiens. si vnam virtutem confessus fueris te non 
+          <lb ed="#P" n="90"/>habere: nullum te habiturum necesse est. Et 
+          di<lb ed="#P" n="91" break="no"/>uus Aus. vi. de trinit. ca. iiii. dicit: virtutes qua sunt in 
+          <lb ed="#P" n="92"/>animo humano nullo modo seprantur abiuicem. Et Grego. 
+          <lb ed="#P" n="93"/>prino moralium super illud Iob: ne forte peccauerint 
+          fi<lb ed="#P" n="94" break="no"/>lii mei. ec. Neque enim vna vere virtus est: si mixta aliis 
+          <lb ed="#P" n="95"/>virtutibus non est. Et Bernardus / primo lib. de conside 
+          <lb ed="#P" n="96"/>ra. caps. vi. dicit: suauissimum esse contentum complexumque 
+          <lb ed="#P" n="97"/>virtutum: atque alteram ex altera pendere.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e578">
+          ¶ Ultia 
+          con<lb ed="#P" n="98" break="no"/>clusio: potest quis vnam virtutem imperfecte sine alia acquire 
+          <lb ed="#P" n="99"/>re: sic sclict: quod virtus illa no sufficit denominare virum 
+          <lb ed="#P" n="100"/>bonum simpliciter / aut prudentem simpoeclr. hec conclusio est 
+          <lb ed="#P" n="101"/>Aristotelis in pessu allegato: de illo qui est magis 
+          <lb ed="#P" n="102"/>natus ad vnam virtutem quam aliam: in quo 
+          generabi<lb ed="#P" n="103" break="no"/>tur virtus illa imperfecta citius quam alia: patet 
+          per<lb ed="#P" n="104" break="no"/>hec verba recitata: quare aliam iam accepit / aliam 
+          <lb ed="#P" n="105"/>iam non accepit.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e598">
+          ¶ Secundo arguitur. datur primus 
+          <lb ed="#P" n="106"/>actus generatiuus virtutis in sorte: et non est 
+          neces<lb ed="#P" n="107" break="no"/>se quod cum illo actu: vel in generatione illius 
+          virtu<lb ed="#P" n="108" break="no"/>tis: occurrat materia alterius viriutis ab illa: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e607">
+          <lb ed="#P" n="109"/>¶ Tertio: dabilis est prima propositio logica quam 
+          <lb ed="#P" n="110"/>sorte addiscit: et non est necesse aliam cum illa 
+          concur<lb ed="#P" n="111" break="no"/>rere. ergo simile est in proposito.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e617">
+          ¶ Contra tertiam conclusionem 
+          <lb ed="#P" n="112"/>et duas sequentes arguitur per argumentum in 
+          <lb ed="#P" n="113"/>fronte questionis positum post oppositum.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e624">
+          ¶ Secundo: 
+          <lb ed="#P" n="114"/>sortes potest habere rectum iudi cium de duobus 
+          agi<lb ed="#P" n="115" break="no"/>bilibus / in intellectu. ergo est absolute prudens. patet: habet 
+          <lb ed="#P" n="116"/>prudentiam in intellectu: ergo est prudens. tenet 
+          con<lb ed="#P" n="117" break="no"/>sequentia: quelibet res significata per abstractum 
+          <lb ed="#P" n="118"/>sufficit denominare suum obiectum concretiue: vt 
+          <lb ed="#P" n="119"/>logica logicum: et ita inductiue.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e640">
+          ¶ Ad illud 
+          argu<lb ed="#P" n="120" break="no"/>mentum inter arguendum sufficienter responsum 
+          <pb ed="#P" n="111-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>est ad calcem vsque. requiritur quod homohabeat tot indicia 
+          <lb ed="#P" n="2"/>virtutum cardinalium specie distincta / quausque facile 
+          <lb ed="#P" n="3"/>potest resistere flatibus eum a virtute pellentibus. quoam 
+          <lb ed="#P" n="4"/>admodum certum est in commni modo loquendi re quiruntur alique 
+          <lb ed="#P" n="5"/>noticie grammaticales ad hoc quod homo mereatur dici 
+          bo<lb ed="#P" n="6" break="no"/>nus grammaticus: vel grammaticus simpliciter: quod idem 
+          <lb ed="#P" n="7"/>est apiid communiter loquentes. quando comparamus duos 
+          <lb ed="#P" n="8"/>licentiandos in nostra sacra facltate parisien. dicimus 
+          <lb ed="#P" n="9"/>de vno: vltra theologiam / ipse est logicus: ille vero 
+          <lb ed="#P" n="10"/>rethor vel grammaticus: intelligimus ex modo loquendi: i 
+          <lb ed="#P" n="11"/>tali professione peritus. Si queras: quet indicia virtutum 
+          <lb ed="#P" n="12"/>cardinalium requiruntur ad hoc quod bene in absoluto 
+          <lb ed="#P" n="13"/>sermone debeat dici prudens vel temperatus. 
+          Eadem<lb ed="#P" n="14" break="no"/>est questio quem propositionum logicalium peritia 
+          requiri<lb ed="#P" n="15" break="no"/>tur ad hoc quod homo mereatur dici logicus simpliciter. de 
+          <lb ed="#P" n="16"/>aliquibus scimus est logicus simpitlur. de aliquibus scimus quod 
+          <lb ed="#P" n="17"/>non est logicus simplicitur: quando multum distant a termino 
+          <lb ed="#P" n="18"/>de aliquibus dubitamus. sic in proposito. crebriter 
+          ho<lb ed="#P" n="19" break="no"/>mo scit imninum alicubi esse: licet nesciat in quo 
+          peda<lb ed="#P" n="20" break="no"/>li vel pincto: vt ad aliquani distantiani ego possu 
+          <lb ed="#P" n="21"/>consecrare vel viderem: ad aliquam vero non. sed 
+          vbi<lb ed="#P" n="22" break="no"/>est limes precisus: me penitus iugit: nec hoc cadit 
+          <lb ed="#P" n="23"/>sub arte.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e699">
+          ¶ Ad secundum: concedo antecedens: et nego consequentiam. et 
+          <lb ed="#P" n="24"/>ad probationem: nego antecedens. intelligimus idem per hec 
+          <lb ed="#P" n="25"/>duo: sortes habet logicam et sortes est logicus: sortus habet 
+          <lb ed="#P" n="26"/>prudentiam et sortes est prudens. non sicut intelligimus 
+          per<lb ed="#P" n="27" break="no"/>hanc / sortes habet hanc prudentiam / vel prudentiam de 
+          <lb ed="#P" n="28"/>duobus vel tribus agibilibus. Secundo: consequentia nihil valet: ethi 
+          <lb ed="#P" n="29"/>ops habet albedinem: et tamen non est albus. non quaelibet albedo 
+          <lb ed="#P" n="30"/>suff.cit subiectum eius denominare: nec subiectum ade 
+          <lb ed="#P" n="31"/>quatum eius: puta dentem ethiopis: si dens fuerit melstum 
+          re<lb ed="#P" n="32" break="no"/>misse albus: siue dicatur coloratus siue non: pro nunc men insisto 
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e721">
+          <lb ed="#P" n="33"/>¶ Tertio arguitur. habeat sorts virtutem circa a. solim: 
+          <lb ed="#P" n="34"/>adhuc non habet virtutem. postea habeat virtutem circa b. 
+          <lb ed="#P" n="35"/>adhuc non habet virtutem: sed requiritur virtus circa plures 
+          <lb ed="#P" n="36"/>materias: gratia exempli circa tria vt finem 
+          argumen<lb ed="#P" n="37" break="no"/>to imponamas: quia perinde est ac si curreretur per centum 
+          <lb ed="#P" n="38"/>mille materias: tunc eliceat sortes actum bonum 
+          circa<lb ed="#P" n="39" break="no"/>c. tunc simpliciter sortes habet virtutem:et primo quilibbet 
+          <lb ed="#P" n="40"/>illorum actuum et habituum denominat alium in esse 
+          <lb ed="#P" n="41"/>virtutis: et sic se mutuo denominabunt in esse virtuti. 
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e743">
+          <lb ed="#P" n="42"/>¶ Rrspondetur: hoc non est inconueniens: licet non 
+          de<lb ed="#P" n="43" break="no"/>nominent se mutuo in esse qualitatis vl habitus: 
+          quan<lb ed="#P" n="44" break="no"/>nis realiter virtus sit habitus et qualitas. hoc in 
+          questio<lb ed="#P" n="45" break="no"/>ne praecedenti concessimus de prudentia et virtute 
+          mora<lb ed="#P" n="46" break="no"/>li.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e757">
+          ¶ Secundo patet quod argumentum non est ponderam 
+          <lb ed="#P" n="47"/>dum. ponamus gratia exempli quod requiratur noticia 
+          cen<lb ed="#P" n="48" break="no"/>tum mille propositionum ad hoc quod sortes dicatur 
+          logi<lb ed="#P" n="49" break="no"/>cus in absoluto modo loquendi: et sit noticia 
+          vlti<lb ed="#P" n="50" break="no"/>ma illarum pro ositionum F. tunc f. in virtute 
+          noticia<lb ed="#P" n="51" break="no"/>rum praecedentium et sui / denominat sortem primo logicum 
+          <lb ed="#P" n="52"/>et sortem habere logicam simpiscultr.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e773">
+          ¶ Quarto 
+          argui<lb ed="#P" n="53" break="no"/>tur. virginitas et viduitas sunt inter se 
+          incompossi<lb ed="#P" n="54" break="no"/>biles. ergo non requiritur omnium virtutum connexio. 
+          simi<lb ed="#P" n="55" break="no"/>liter de castitate coniugali et virginitate. 
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e782">
+          <lb ed="#P" n="56"/>¶ Quinto arguitur. virtutes non sunt omnes equales in homine. ego non 
+          <lb ed="#P" n="57"/>requiritur earum conexio. tenet conseqentia: vna potest esse remissior et 
+          <lb ed="#P" n="58"/>alia intensior: et tunc seperabuntur a seinuicem.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e791">
+          ¶ Ad quartum 
+          <lb ed="#P" n="59"/>respondetur: potissimum intelligunt conclusiones de actibus 
+          vitu<lb ed="#P" n="60" break="no"/>tum cardinalium: qui in quotidiano conflictu vite con¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tingunt et non de omnibus virtutibus consilii.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e802">
+          ¶ Seclo: 
+          <lb ed="#P" n="62"/>nego quod virginitas viduitati repugnet. stat quod sorts et 
+          <lb ed="#P" n="63"/>bertha contrahant virgines: et maneant virgines. post 
+          <lb ed="#P" n="64"/>mortem sortis bertha erit vidua: quia maritus eius est de 
+          <lb ed="#P" n="65"/>functus. Si dicas: nisi fuerit cognita: non est vidua: 
+          <lb ed="#P" n="66"/>quia nisi sic: cristifera virgo post mortem Ioseph fuisse 
+          <lb ed="#P" n="67"/>vidua quod non consueuimus concedere. tunc stas 
+          so<lb ed="#P" n="68" break="no"/>lum in terminis: concedimus diuam virginem fuisse 
+          conii<lb ed="#P" n="69" break="no"/>gem Ioseph: et ipsa erat casta castitate coniugali: ad 
+          <lb ed="#P" n="70"/>hunc sensum: quod non reddebat vsum sui corporis 
+          alicui<lb ed="#P" n="71" break="no"/>praeter ratiem: quia nulli reddidit: nec reddere tenebatur. non 
+          <lb ed="#P" n="72"/>est de ratione castitatis coniugalis / quod reddatur debitum 
+          <lb ed="#P" n="73"/>in aliquo tempore. quicquid sit de isto: est in termins 
+          <lb ed="#P" n="74"/>contendere. propterea non procedo in materia 
+          tali<lb ed="#P" n="75" break="no"/>caduca sine fundamento
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e835">
+          ¶ Ad quintum: videtur 
+          Au<lb ed="#P" n="76" break="no"/>gustinus. vi. de trinitate c. iiii. dicere quod sunt equales. 
+          <lb ed="#P" n="77"/>et glosa super illud apostoli: longitudo eius tanta est dicens 
+          <lb ed="#P" n="78"/>quantum quis credit tantum sperat: quantum sperat tantum diligit. 
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e845">
+          <lb ed="#P" n="79"/>¶ Respondetur. ipse loquitur de equalitate proportionis 
+          <lb ed="#P" n="80"/>sicut est de partibus magnise paruis in humano 
+          cor<lb ed="#P" n="81" break="no"/>pore: non de equalitate in gradu: quia nullo modo credo 
+          <lb ed="#P" n="82"/>hoc esse verum. sicut credibilius est michi quod non omnes 
+          <lb ed="#P" n="83"/>homines in regno quod numquam vidi sunt inequalis 
+          magni<lb ed="#P" n="84" break="no"/>tudinis quam equalis.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e861">
+          ¶ Sexto arguitur. vicia non 
+          <lb ed="#P" n="85"/>sunt omnia connexa. ergo neque virtutes. tenet 
+          con<lb ed="#P" n="86" break="no"/>sequentia: homines sunt proniores ad vicia quod virtutes 
+          <lb ed="#P" n="87"/>secundum illud Genesis. x. sensus et cogitatio bomis 
+          pro<lb ed="#P" n="88" break="no"/>na sunt ad malum ab adolescentia sua. antecedens patet per ex 
+          <lb ed="#P" n="89"/>perientiam: stat hominem esse vno peccato inuolutum 
+          <lb ed="#P" n="90"/>sine aliis.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e877">
+          ¶ Septimo arguitur: virtutes alie 
+          intel<lb ed="#P" n="91" break="no"/>lectus non sunt inter se connexe: ergo nec virtutes 
+          <lb ed="#P" n="92"/>cardinales. tenet consequentia conuenienti similitudine. 
+          an<lb ed="#P" n="93" break="no"/>tecedens patet: aliquis est peritus rethorsine logica: et 
+          <lb ed="#P" n="94"/>contra.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e888">
+          ¶ Ad sextum concedo antecedens. multa vicia in 
+          <lb ed="#P" n="95"/>ter se repugnant: vt prodig alitas e illiberalitas. et 
+          <lb ed="#P" n="96"/>malum si integrum sit) est importabile. iiii. ethicoru. 
+          <lb ed="#P" n="97"/>propterea deus dendit naturam illi qui facile frascitur: 
+          <lb ed="#P" n="98"/>quod in ira non perdurat. consequentia est nulla: cum antecedens est verum 
+          <lb ed="#P" n="99"/>iam ostensum et oppositum consequentis. nec valet 
+          proba<lb ed="#P" n="100" break="no"/>tio consequene: cum homo est pronior ad peccandum: potest 
+          <lb ed="#P" n="101"/>peccare vno peccato et non alio. plura requiruntur 
+          <lb ed="#P" n="102"/>ad denominationem boni quam mali.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e908">
+          ¶ Et si dicas: 
+          Ia<lb ed="#P" n="103" break="no"/>cobi. ii. qui in vno offenderit factus est omnim reus. 
+          di<lb ed="#P" n="104" break="no"/>stinguo illam: vel si per eam intelligis quod ille qui in 
+          <lb ed="#P" n="105"/>vno peccato offendit: in reliquis omnibus offendit: et 
+          <lb ed="#P" n="106"/>sic non intelligit beatus Iacobus. vel si quis in vno 
+          <lb ed="#P" n="107"/>offendit morta iter: non seruat omnia collectiue: etsie 
+          <lb ed="#P" n="108"/>concedo. hoc modo intelligit beatus Iacobus. 
+          loqui<lb ed="#P" n="109" break="no"/>tur contra phariseos qui dicebant: si homo haberet 
+          plu<lb ed="#P" n="110" break="no"/>ra merita quam peccata erat simpliciter bonus et 
+          legem<lb ed="#P" n="111" break="no"/>obsuat: quia pauciora sunt peccata quammerita: sicut 
+          so<lb ed="#P" n="112" break="no"/>lemus dicere de albedine et nigredine in 
+          denomi<lb ed="#P" n="113" break="no"/>natione mutua respectu eiusdem obiecti 
+          copulati<lb ed="#P" n="114" break="no"/>ue.
+        </p>
+        <p xml:id="jm3cbb-e67403-d1e937">
+          ¶ Ad septimum concedo antecedens: peritus 
+          <lb ed="#P" n="115"/>rethortuetur se per principia sue artis: si eam 
+          calle<lb ed="#P" n="116" break="no"/>at: sine alia facultate. licet nesciat probabiliter 
+          dis<lb ed="#P" n="117" break="no"/>putare scientifice in ea sine logica. et logicus 
+          logi<lb ed="#P" n="118" break="no"/>ce disputat. et se tuetur in logica ne inuadatur et 
+          cor<lb ed="#P" n="119" break="no"/>ruat in sua acultate per solam logicam. hoc non 
+          con<lb ed="#P" n="120" break="no"/>tingit in virtutibus cardinalibus. Ideo multiplico plu¬ 
+          <pb ed="#P" n="112-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ra argumenta. videndo mantem Aristotelis et sanctorum 
+          <lb ed="#P" n="2"/>qui suum modum loquendi et vulgarem vtuntur: non est 
+          <lb ed="#P" n="3"/>difficultas. alii ad nomen illud impugnant: quirum 
+          impu<lb ed="#P" n="4" break="no"/>gnationibus iam respondi. Cota questionis resolutio 
+          <lb ed="#P" n="5"/>iacet in hoc quod philosophus non vult negare 
+          mul<lb ed="#P" n="6" break="no"/>ta quae coneum adducuntur. vt pote quin paucas 
+          vir<lb ed="#P" n="7" break="no"/>tutes habecens / imperfecte et aliquo modo potest dici 
+          habe<lb ed="#P" n="8" break="no"/>re virtutes et virtutes cum diminutioneet imperfectio 
+          <lb ed="#P" n="9"/>ne. sed quia excellentia virtutibus moralibus in 
+          abso<lb ed="#P" n="10" break="no"/>luto semone attribuitur: non concedimus virum 
+          pau<lb ed="#P" n="11" break="no"/>cas virtutes habentem habere virtutes sine addito 
+          <lb ed="#P" n="12"/>vel esse prudentem / temperatum / fortem / aut iustum. de 
+          <lb ed="#P" n="13"/>connexione theologicarum inter se vel cum aliis 
+          vir<lb ed="#P" n="14" break="no"/>tutibus moralibus acquisitis: facile ex his et 
+          supe<lb ed="#P" n="15" break="no"/>rius dictis intelligerepotes. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

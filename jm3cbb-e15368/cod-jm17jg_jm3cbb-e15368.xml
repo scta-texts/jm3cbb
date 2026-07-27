@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="25-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e15368"><!-- l3d13q2 -->
+        <head xml:id="jm3cbb-e15368-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e15368-Hd1e101" type="question-title">Secunda positio tenet maximam formam possibiliem
+    creabilem a Deo</head>
+        <p xml:id="jm3cbb-e15368-d1e104">
+          <lb ed="#P" n="110"/>SEcunda positio 
+          <lb ed="#P" n="111"/>tenet maximam formam 
+          possibi<lb ed="#P" n="112" break="no"/>lem creabilem a deo: capiendo 
+          <lb ed="#P" n="113"/>maximum negatiue. dicit etiam 
+          <lb ed="#P" n="114"/>illam formam esse finitam. etiam 
+          ne<lb ed="#P" n="115" break="no"/>gat deum posse producere 
+          infsni<lb ed="#P" n="116" break="no"/>tum. consequenter dicit / 
+          maxi<lb ed="#P" n="117" break="no"/>mam charitatem creabilem extra subiectum vel in 
+          sub<lb ed="#P" n="118" break="no"/>iecto: deus / communicabat anime christi. quia quantam 
+          cha<lb ed="#P" n="119" break="no"/>ritatem in genere qualitatis potest deus creare ex 
+          <lb ed="#P" n="120"/>tra subiectum: tantam potest ponere in quodcumque 
+          sub<lb ed="#P" n="121" break="no"/>iectum aliquorum graduum receptiuum. hec positio 
+          <pb ed="#P" n="26-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quo ad aliqua placet: vt patet ex opinionis 
+          prece<lb ed="#P" n="2" break="no"/>dentis reprobatione. quo ad aliqua (hoc est quo 
+          <lb ed="#P" n="3"/>ad principale fundamentum ) eam reor esse falsam. 
+          propte<lb ed="#P" n="4" break="no"/>rea duo in hac questione faciam. primo illam opinio 
+          <lb ed="#P" n="5"/>nem reprobabo. secundo opinionis motiua soluam 
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e148">
+          <lb ed="#P" n="6"/>¶ Quo ad primum arguitur sic: capio maximam tuam: 
+          <lb ed="#P" n="7"/>tunc accipio quancumque quaelitatem possibilem / 
+          albedi<lb ed="#P" n="8" break="no"/>nem vel charitatem / que dicatur a. tunc sit a. 
+          forma<lb ed="#P" n="9" break="no"/>maxima producibilis: deus / potest similem formam 
+          <lb ed="#P" n="10"/>ipsi a. producere et ponere penetratiue cum a. sit 
+          se<lb ed="#P" n="11" break="no"/>cunda forma btunc erit aliqua forma intensior ex a 
+          <lb ed="#P" n="12"/>et bergo a non erat maxima forma possibilis. 
+          Di<lb ed="#P" n="13" break="no"/>cit opinans: bene verum est quod deus potest 
+          produce<lb ed="#P" n="14" break="no"/>re aliam formam ab a. eiusdem rationis secum: et 
+          pone<lb ed="#P" n="15" break="no"/>re penetratiue cum a. sed non erit vna forma ex his 
+          <lb ed="#P" n="16"/>intensa. cum vna est in summo: non potest ex ipsaet 
+          ali<lb ed="#P" n="17" break="no"/>qua alia forma esse forma intensior: quamadmodum ex 
+          <lb ed="#P" n="18"/>albedine et nigredine non potest esse vna forma. 
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e179">
+          <lb ed="#P" n="19"/>¶ Contra hoc arguitur albedo et nigredo sprise dif¬¬ 
+          <lb ed="#P" n="20"/>ferunt: nec se habent sicut actus et potentia: ergo 
+          <lb ed="#P" n="21"/>ex eis non potest constitui aliquod vnum. sint a. et b. 
+          <lb ed="#P" n="22"/>albedines penetratiue in pariete eiusdem 
+          ratio<lb ed="#P" n="23" break="no"/>nis omnino: voluntarium est dicere quod non potest 
+          <lb ed="#P" n="24"/>constitui ex eis aliqua forma. immo miraculum est quod 
+          <lb ed="#P" n="25"/>ex eis non conflaretur vna forma. dicit Aristo. v. 
+          <lb ed="#P" n="26"/>methaphisice: inpossibile est plura accidentia solo 
+          <lb ed="#P" n="27"/>numero differentia inherere eidem: quod opinans 
+          <lb ed="#P" n="28"/>( et recte ) intelligit / nisi constituant aliquod vnum. 
+          <lb ed="#P" n="29"/>ergo saltem deus / potest facere quod constituant aliquod 
+          <lb ed="#P" n="30"/>vnum.
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e209">
+          ¶ Secundo arguitur ad idem. due albedines 
+          <lb ed="#P" n="31"/>remisse constituunt aliquod vnum: et sunt mutuo 
+          vnibi<lb ed="#P" n="32" break="no"/>les intensiue: ergo et duo intensissime forme. tenet 
+          <lb ed="#P" n="33"/>consequentia: sunt eiusdem rationis.
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e218">
+          ¶ Tertio 
+          argui<lb ed="#P" n="34" break="no"/>tur: ratio tua precipua concludit falium quod tu ipse 
+          <lb ed="#P" n="35"/>reputas falsum: ergo propter ipsam non est ponendum 
+          <lb ed="#P" n="36"/>extraneum. antecedens patet: quia concludit maximum quantum 
+          <lb ed="#P" n="37"/>finitum possibile / et maximum numerum possibilem et 
+          fi<lb ed="#P" n="38" break="no"/>nitum: patet applicando rationem. ista sunt 
+          manife<lb ed="#P" n="39" break="no"/>ste falsa. quocumque quanto finito dato / deus potest 
+          pro<lb ed="#P" n="40" break="no"/>ducere pedale eiusdem rationis cum illo: et facere 
+          <lb ed="#P" n="41"/>vnum quantum maius: et hoc in abissum. similiter quocumque 
+          <lb ed="#P" n="42"/>numero finito dato / deus potest addere illi aliquid: et 
+          <lb ed="#P" n="43"/>resultabit numerus maior.
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e242">
+          ¶ Propter ista et 
+          si<lb ed="#P" n="44" break="no"/>milia quae fieri possunt: teneo conclusiue / non est dabilis 
+          <lb ed="#P" n="45"/>maxia forma possibilis finita: nec in subiecto nec 
+          <lb ed="#P" n="46"/>extra subiectum.
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e251">
+          ¶ Contra hanc conclusionem arguitur 
+          <lb ed="#P" n="47"/>argumentis quibus / iste doctor mouetur tenere 
+          con<lb ed="#P" n="48" break="no"/>trarium. Primum argumentum eius et precipuum est 
+          <lb ed="#P" n="49"/>hoc. accepta aliqua gratia determinata infima: 
+          <lb ed="#P" n="50"/>puta a. quero: ascendendo / aut est status ad aliquam 
+          <lb ed="#P" n="51"/>supremam: et si sic: habetur propositum. aut non: sed 
+          <lb ed="#P" n="52"/>potest procedi in infinitum. et tunc sequitur / quod quanto 
+          <lb ed="#P" n="53"/>aliqua magis excedit a. tanto est perfectior: 
+          per<lb ed="#P" n="54" break="no"/>consequens illa que in infinitum excedit a. est in 
+          infi<lb ed="#P" n="55" break="no"/>nitum perfectior: et ita in se erit intensiue infinita. 
+          <lb ed="#P" n="56"/>tunc cum ipsa videatur ab intellectu diuino: sicut vnum 
+          <lb ed="#P" n="57"/>creabile: potest vna creatione creari. et ita preter 
+          <lb ed="#P" n="58"/>hoc quod infertur impossibile. s quod gratia facta est 
+          infi<lb ed="#P" n="59" break="no"/>nita: habetur propositum. quia ista gratia a: posset 
+          <lb ed="#P" n="60"/>vnica creatione creari: sicut ab intellectu diuino 
+          <lb ed="#P" n="61"/>videtur vt vnum creabile.
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e286">
+          ¶ Huic argumento re¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>spondetur: quod ipsum concludit ipsa falsa assumpta 
+          <lb ed="#P" n="63"/>in reprobatione conclusionis sue: vt patet 
+          appli<lb ed="#P" n="64" break="no"/>canti. accipio a / quantum pedale: et quero an 
+          ascen<lb ed="#P" n="65" break="no"/>dendo est status vel non. et deducatur argumentum 
+          <lb ed="#P" n="66"/>sicut ipse deducit in forma:et inuenietur penitus idem. 
+          <lb ed="#P" n="67"/>et quaeliter ipse soluit istam formam: sic sua soluetur. 
+          dico<lb ed="#P" n="68" break="no"/>ergo ad formam admittendo secum et cum antiquis: deus 
+          <lb ed="#P" n="69"/>non potest producere infinitum: quod non est status / et 
+          con<lb ed="#P" n="70" break="no"/>cedo quanto aliqua forma magis excedit a / tanto est 
+          <lb ed="#P" n="71"/>perfectior. et quando infert: quod tunc illa forma 
+          que<lb ed="#P" n="72" break="no"/>in infinitum excedit a est infinita. nego consequentiam: 
+          <lb ed="#P" n="73"/>propter falsam implicationem. in consequente inuoluitur 
+          <lb ed="#P" n="74"/>quod aliqua forma in infinitum excedit a: quod est falsum. 
+          <lb ed="#P" n="75"/>sed bene verum est quod in infinitum aliqua forma potest 
+          <lb ed="#P" n="76"/>excedere a. miratus sum quomodo vir tam 
+          acri<lb ed="#P" n="77" break="no"/>ingenio in simili ratione confiderit. propterea me 
+          scri<lb ed="#P" n="78" break="no"/>bente sua reportata verti: existimans quod se 
+          expone<lb ed="#P" n="79" break="no"/>ret: vel confiteretur rationem nullam (sicut vere debuit ) 
+          <lb ed="#P" n="80"/>sed vidi quod mansit in ratione.
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e332">
+          ¶ Sed pro eo potest 
+          <lb ed="#P" n="81"/>sic replicari: supponendo quod deus non potest 
+          pro<lb ed="#P" n="82" break="no"/>ducere infinitum intensiue. deus videt gratiam vt 
+          <lb ed="#P" n="83"/>vnum / gratiam vt duo / gratiam vt tria / et sic 
+          con<lb ed="#P" n="84" break="no"/>sequenter. vel est status ascendendoi vel non. si tu dicas 
+          <lb ed="#P" n="85"/>secundem / quod non est status: ergo infinite intensam gratiam deus 
+          vi<lb ed="#P" n="86" break="no"/>det. si primum: intentum.
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e349">
+          ¶ Respondetur: admitto 
+          suppo<lb ed="#P" n="87" break="no"/>sitionem pro nunc. quid de ea censeam questio sequens 
+          <lb ed="#P" n="88"/>explicabit. dico quod replica equaliter applicatur ad 
+          <lb ed="#P" n="89"/>magnitudinem vel numerum. Et iterum applico nodum 
+          <lb ed="#P" n="90"/>argumenti in forma. pedalis magnitudinis corpus 
+          <lb ed="#P" n="91"/>deus videt: bipedale deus videt: et sic consequenter. 
+          <lb ed="#P" n="92"/>vel est dabile maximum corpus quod deus videt: vel 
+          <lb ed="#P" n="93"/>non. si primum dabile est maximum corpus a deo 
+          crea<lb ed="#P" n="94" break="no"/>bile: et illud erit finitum. si secundum: scilicet quod non datur 
+          <lb ed="#P" n="95"/>maximum corpus quod deus videt. Contra: quodcumqued 
+          <lb ed="#P" n="96"/>corpus quod deus potest creare deus videt. vellsunt 
+          <lb ed="#P" n="97"/>finita se excedentia in magnitudine: vel infinita. 
+          <lb ed="#P" n="98"/>si primum: habetur maximum corpus et finitum quod 
+          vi<lb ed="#P" n="99" break="no"/>det. si secundum: infinita corpora inequalia videt: 
+          sal<lb ed="#P" n="100" break="no"/>tem dabitur vnum infinite magnum: contra suppositum. 
+          <lb ed="#P" n="101"/>dico pro omnibus istis: infinita corpora deus 
+          vi<lb ed="#P" n="102" break="no"/>det equalia: infinita corpora deus videt 
+          inequa<lb ed="#P" n="103" break="no"/>lia: quorum b. est maius a et c maius b et dmaius c 
+          <lb ed="#P" n="104"/>et sic in abissum: et nullum est maximum corpus quod 
+          <lb ed="#P" n="105"/>videt. nec aliqua forma est intensissima quam videt. 
+          <lb ed="#P" n="106"/>infinite intensam formam deus videt: quia formam 
+          inten<lb ed="#P" n="107" break="no"/>sam vt vnum deus videt: formam intensam vt 
+          duo<lb ed="#P" n="108" break="no"/>deus videt: formam intensam vt tria deus videt: et sic 
+          <lb ed="#P" n="109"/>sine statu. sed nullam formam infinite intensam deus 
+          <lb ed="#P" n="110"/>videt. similiter: infinite magnum corpus deus videt. 
+          <lb ed="#P" n="111"/>pedale videt: bipedale deus videt: et sic sine 
+          statu<lb ed="#P" n="112" break="no"/>non est dabile maximum corpus quod videt: sicut non 
+          da<lb ed="#P" n="113" break="no"/>tur vltima pars proportionalis in continuo. 
+          simili<lb ed="#P" n="114" break="no"/>ter infinite plura corpora totalia deus videt. quia 
+          <lb ed="#P" n="115"/>duo corpora totalia deus videt: tria corpora 
+          to<lb ed="#P" n="116" break="no"/>talia deus videt: quattuor corpora totalia deus 
+          vi<lb ed="#P" n="117" break="no"/>det. Infinitum sinchategoreumatice non infert in 
+          <lb ed="#P" n="118"/>finitum cathegoreumatice cum verbo potest: nec cum 
+          verbo<lb ed="#P" n="119" break="no"/>adiectiuo. et si omnia corpora que deus videt ad 
+          <lb ed="#P" n="120"/>imaginationem essent producta: nullum esset infinite 
+          <lb ed="#P" n="121"/>magnum: nec eorum esset aliquod maximum. nec 
+          su<lb ed="#P" n="122" break="no"/>per hoc mirabere. infinite parua est aliqua pars 
+          <pb ed="#P" n="26-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>proportionalis continui: diuidendo continupm 
+          propor<lb ed="#P" n="2" break="no"/>tione dupla. et si quelibet pars proportionalis esset 
+          <lb ed="#P" n="3"/>ab alia separata: et omnes partes separate 
+          pone<lb ed="#P" n="4" break="no"/>rentur in cumulo: nullum illorum corporum esset 
+          infi<lb ed="#P" n="5" break="no"/>nite paruum: sed infinite paruum esset aliquod istorum 
+          <lb ed="#P" n="6"/>corporum.
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e447">
+          ¶ Secundo arguit ipse: quantam gratiam deus 
+          <lb ed="#P" n="7"/>potest creare / tantam / potest creare: ponatur in esse: 
+          <lb ed="#P" n="8"/>tunc tantam gratiam creat quantam potest creare: 
+          <lb ed="#P" n="9"/>et per consequens maiorem gratiam non potest creare 
+        </p>
+        <p xml:id="jm3cbb-e15368-d1e456">
+          <lb ed="#P" n="10"/>¶ Respondetur: hoc argumentum refellitur de 
+          magni<lb ed="#P" n="11" break="no"/>tudine et numero. quantum corpus vel quantum 
+          nu<lb ed="#P" n="12" break="no"/>merum deus potest creare tantum deus potest 
+          crea<lb ed="#P" n="13" break="no"/>re. ponatur hoc in esse. per quantum intelligit 
+          quan<lb ed="#P" n="14" break="no"/>tumcumque. ponitur in esse per hanc / quantam gratiam 
+          <lb ed="#P" n="15"/>creat tantam creat. Concludendo ergo dico non 
+          <lb ed="#P" n="16"/>est possibile quod anima christi habeat maximam 
+          gra<lb ed="#P" n="17" break="no"/>tiam possibilem et finitam. et hec de primis 
+          dua<lb ed="#P" n="18" break="no"/>bus positionihus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

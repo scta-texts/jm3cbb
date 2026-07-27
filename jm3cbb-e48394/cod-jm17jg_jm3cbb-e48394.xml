@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="79-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e48394"><!-- l3d33q6 -->
+        <head xml:id="jm3cbb-e48394-Hd1e99">Quaestio 6</head>
+        <head xml:id="jm3cbb-e48394-Hd1e101" type="question-title">An prudentia sit virtus melior quam sapientia</head>
+        <p xml:id="jm3cbb-e48394-d1e104">
+          <lb ed="#P" n="97"/>NUnc quinto circa hanc 
+          <lb ed="#P" n="98"/>materiam queritur: an 
+          pruden<lb ed="#P" n="99" break="no"/>tia sit virtus melior quod 
+          sapien<lb ed="#P" n="100" break="no"/>tia. hec questio vnum 
+          suprpo<lb ed="#P" n="101" break="no"/>nit: de bonitate sapientie: et quod 
+          <lb ed="#P" n="102"/>ipsa est virtus intellectualis. et 
+          <lb ed="#P" n="103"/>querit de comparatione eius 
+          <lb ed="#P" n="104"/>in bonitate ad prudentiam: vtra harum virtutum 
+          <lb ed="#P" n="105"/>alteri prestet. Circa entitatem sapientie varie 
+          ex<lb ed="#P" n="106" break="no"/>tant positiones: quarum vna tenet sapientiam esse 
+          <lb ed="#P" n="107"/>intellectumt scientiam collectiue. hec positio est 
+          nul<lb ed="#P" n="108" break="no"/>la. tunc non essent quinque habitus veredici / 
+          con<lb ed="#P" n="109" break="no"/>tra aristotelem: alii dicunt quod sapientia est noticia 
+          cau<lb ed="#P" n="110" break="no"/>sarum vniuersalium: vt dei / et intelligentiarum. 
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e137">
+          <lb ed="#P" n="111"/>¶ Sic pro questionis solutione tam quo ad 
+          praesup<lb ed="#P" n="112" break="no"/>positum / quod qui ad quesitum / ponuntur 
+          conclusio<lb ed="#P" n="113" break="no"/>nes sequentes. Quarum prima est: sapientia 
+          attri<lb ed="#P" n="114" break="no"/>buitur his que in arte aliqua exactissimi sunt. 
+          pro<lb ed="#P" n="115" break="no"/>batur hec conclusio per Aristotelem. vi. 
+          Ethico<lb ed="#P" n="116" break="no"/>rum septimo: dicentem: sapientiam autem in 
+          arti<lb ed="#P" n="117" break="no"/>bus. his tribuimus: qui in ipsis sunt exactissimi. 
+          phi<lb ed="#P" n="118" break="no"/>deam enim sapientem sculptorem lapidum / 
+          dici<lb ed="#P" n="119" break="no"/>mus et policletum statuarium identidem sapientem 
+          <pb ed="#P" n="79-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>atque hic per sapientiam nil aliud intelligimus quam ipsius 
+          <lb ed="#P" n="2"/>artis virtutem
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e168">
+          ¶ Secunda conclusio: sapientia est 
+          <lb ed="#P" n="3"/>intellectus et scientia: hec conclusio est aristo. in 
+          lo<lb ed="#P" n="4" break="no"/>co allegato dicentis sapientem ergo non solum ea 
+          sci<lb ed="#P" n="5" break="no"/>re quae ex principiis cognoscuntur: sed etiam circa 
+          prin<lb ed="#P" n="6" break="no"/>cipia dicere vera oportet: quare sapientia 
+          intelle<lb ed="#P" n="7" break="no"/>ctus est et scientia: et vt caput habens scientia eorum 
+          <lb ed="#P" n="8"/>quae honorabilissima sunt. et paulo post infert. patet 
+          <lb ed="#P" n="9"/>igitur ex his quae diximus sapientiam scientiam esse 
+          <lb ed="#P" n="10"/>intellectum eorum que honorabilissima sunt natura. 
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e189">
+          <lb ed="#P" n="11"/>¶ Tertia conclusio: sapientia proprie capiendo est 
+          <lb ed="#P" n="12"/>intellectus et scientia circa altissima: vt pote 
+          circa<lb ed="#P" n="13" break="no"/>diuinae substantias separatas. hec conclusio est 
+          Ari<lb ed="#P" n="14" break="no"/>stotelis post verba allegata inferentis: 
+          quapro<lb ed="#P" n="15" break="no"/>pter Anaxagoram et Thaletem et similes sapientes 
+          <lb ed="#P" n="16"/>quidem: at non prudentes inquiunt esse: cum vident 
+          <lb ed="#P" n="17"/>ipsos propria commoda ignorare: et superflua 
+          qui<lb ed="#P" n="18" break="no"/>dem: et admiranda / et difficilia cognitu / diuinaque / 
+          <lb ed="#P" n="19"/>scire ipsos: sed inutilia dicunt: quia non querunt 
+          bo<lb ed="#P" n="20" break="no"/>na humana.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e213">
+          ¶ Quarta conclusio: sapientia est 
+          ha<lb ed="#P" n="21" break="no"/>bitus simplex circa premissas et conclusionem. 
+          proba<lb ed="#P" n="22" break="no"/>tur hec conclusio: sapientia est circa premissas et 
+          <lb ed="#P" n="23"/>conclusionem simul: vt ex aristotele allegatum est: 
+          <lb ed="#P" n="24"/>et non est congeries duorum assensuum / quorum vnus 
+          <lb ed="#P" n="25"/>est intellectus / et alter scientia: ergo est habitus 
+          sim<lb ed="#P" n="26" break="no"/>plex. Secundo arguitur ad idem: si non esset habitus sim 
+          <lb ed="#P" n="27"/>plex: non essent quinque habitus veredici: contra Ari. 
+          <lb ed="#P" n="28"/>iste due rationes verba Aristotelis concludunt 
+          <lb ed="#P" n="29"/>hanc conclusionem quartam esse philosophi in littera. 
+          <lb ed="#P" n="30"/>Tertio arguitur: si aliquid prohiberet ne esset habitus 
+          <lb ed="#P" n="31"/>simplex e vnigeneus: hoc esset: quia non potest 
+          es<lb ed="#P" n="32" break="no"/>se vnus habitus vel actus circa premissaset 
+          con<lb ed="#P" n="33" break="no"/>clusionem simul. sed hoc non impedit. dabilis est vnus 
+          <lb ed="#P" n="34"/>assensus circa totam copulatiuam quo toti 
+          copu<lb ed="#P" n="35" break="no"/>latiue assentitur: et nulli parti eius. Sed forte 
+          di<lb ed="#P" n="36" break="no"/>cis quod non: immo sunt duo assensus duarum 
+          cathe<lb ed="#P" n="37" break="no"/>goricarum: sicut copulatiua nichil aliud est quam due 
+          <lb ed="#P" n="38"/>cathe. cum nota coniungente eas. Contra hoc 
+          argui<lb ed="#P" n="39" break="no"/>tur: datur vnus assenssus quo assentitur toti 
+          co<lb ed="#P" n="40" break="no"/>pulatiue / qui non componitur ex assensibus 
+          cathe<lb ed="#P" n="41" break="no"/>goricarum eius. patet: datur vnus assensus quo 
+          as<lb ed="#P" n="42" break="no"/>sentio toti isti disiunctiue / tanais labitur in 
+          meo<lb ed="#P" n="43" break="no"/>tidem paludem: vel iordanis in mare mortuum 
+          descen<lb ed="#P" n="44" break="no"/>dit: et ille assensus non est alicuius partis eius: quia 
+          <lb ed="#P" n="45"/>qua ratione est assensus vnius partis / eadem 
+          ratio<lb ed="#P" n="46" break="no"/>ne est assensus vtriusque partis: et sic idem assensus 
+          <lb ed="#P" n="47"/>esset assensus totius copulatiuee duarum partium 
+          <lb ed="#P" n="48"/>eius diuisiue: quod non est dicendum. Forte dicis: 
+          <lb ed="#P" n="49"/>cum hec disiunctiua est vera: a me scita vera: non 
+          <lb ed="#P" n="50"/>habeo alium assensum ab assensibus partium. 
+          Con<lb ed="#P" n="51" break="no"/>tra. assentio huic / omnia astra sunt paria: vel non 
+          <lb ed="#P" n="52"/>omnia astra sunt paria: collectiue capiendo omia: 
+          <lb ed="#P" n="53"/>aliquo assensu. et tamen ille assensus non est 
+          assen<lb ed="#P" n="54" break="no"/>sus alicuius partis illius disiunctiue. ergo eodem 
+          mo<lb ed="#P" n="55" break="no"/>do in disiunctiua cuius vtraque pars est michi 
+          no<lb ed="#P" n="56" break="no"/>ta vera: dabitur alius assensus totius disiunctiue 
+          <lb ed="#P" n="57"/>ab assensu alicuius partis: siue / simultempore assentiam 
+          <lb ed="#P" n="58"/>partibus: vel ne: non refert. ergo eodem modo in 
+          copu<lb ed="#P" n="59" break="no"/>latiua ex tribus cathegoricis conflata / dabitur vnus 
+          <lb ed="#P" n="60"/>assensus circa illas tres propositiones. Rursus: in¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tellectus est vnus habitus veredicus: secundum 
+          Ari<lb ed="#P" n="62" break="no"/>stotelem. vi. ethicorum: qui est circa premissas. sed 
+          il<lb ed="#P" n="63" break="no"/>le assensus est vnus / de tota copulatiua 
+          premissa<lb ed="#P" n="64" break="no"/>rum ab assensibus partium copulatiue causatus. 
+          <lb ed="#P" n="65"/>ergo pari modo potest dari vnus assensus totius sillo 
+          <lb ed="#P" n="66"/>logismi demonstratiui: capiendo sillogismum 
+          de<lb ed="#P" n="67" break="no"/>monstratiuum pro premissis et conclusione simul: qui 
+          <lb ed="#P" n="68"/>simul erit intellectus et scientia. Forte dicis: non 
+          <lb ed="#P" n="69"/>est idem. licet sit vnus assensus totius disiunctiue 
+          <lb ed="#P" n="70"/>et totius copulatiue: non datur vnus assensus quo 
+          <lb ed="#P" n="71"/>assentitur conclusioni propter premissas. Contra: 
+          <lb ed="#P" n="72"/>eodem actu diligo deumet creaturam / et 
+          creatu<lb ed="#P" n="73" break="no"/>ram propter deum: et si contingat eodem actu 
+          volun<lb ed="#P" n="74" break="no"/>tatis diligere creaturam propter deum: quare 
+          nega<lb ed="#P" n="75" break="no"/>bitur hoc posse fieri in actu intellectus: quod eodem 
+          actu<lb ed="#P" n="76" break="no"/>voluntatis contingit diligere creaturam propter deum 
+          <lb ed="#P" n="77"/>patet: deus diligit creaturas et non propter eas: quia tunc 
+          <lb ed="#P" n="78"/>vteretur se et frueretur creaturis: quod est flnm: ergo diligit 
+          <lb ed="#P" n="79"/>creaturas propter se: et hoc eodem actu: ergo hoc non est 
+          <lb ed="#P" n="80"/>negandum a creatura: et patet in actu intellectus 
+          <lb ed="#P" n="81"/>respectu dei. Deus assentit conclusioni t premissis 
+          <lb ed="#P" n="82"/>vnico actu. dicis: essentia diuina est ei obiectum 
+          pri<lb ed="#P" n="83" break="no"/>marium / et premisse et conclusio solum sunt obiecta 
+          <lb ed="#P" n="84"/>terminatiua. hoc non impedit propositum. 
+          ratio<lb ed="#P" n="85" break="no"/>nes iste conclusionem quartam assumptam suadent. 
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e359">
+          <lb ed="#P" n="86"/>¶ Quinta conclusio ad questionis titulum responsiua 
+          <lb ed="#P" n="87"/>est hec. sapientia est melior prudentia. in hac 
+          con<lb ed="#P" n="88" break="no"/>clusione comparo sapientiam et prudentiam pure 
+          na<lb ed="#P" n="89" break="no"/>turaliter acquisitas: prescindendo ab eis ommnemm 
+          <lb ed="#P" n="90"/>habitum infusum: et omnem illustrationem superna 
+          <lb ed="#P" n="91"/>turalem: ita quod metha. quae de primis causis entium 
+          consi<lb ed="#P" n="92" break="no"/>derat ea quae de ipsis possunt humana ratione 
+          habe<lb ed="#P" n="93" break="no"/>ri dicatur sapientia: et prudentia capiatur collectiue 
+          <lb ed="#P" n="94"/>pro iudiciis agibilium humanorum cum annexis ad 
+          <lb ed="#P" n="95"/>illa iudicia: etiam capiendo sapientiam collectiue: 
+          <lb ed="#P" n="96"/>vel capiendo vnum obiectum cum alio: vel aliqua 
+          <lb ed="#P" n="97"/>pauca paria in numero inter prudentiam et 
+          sapiem<lb ed="#P" n="98" break="no"/>tiam. hoc modo capiendo terminos probatur hec 
+          conclu<lb ed="#P" n="99" break="no"/>sio: sapientia habet longe nobilius obiectumet actus 
+          <lb ed="#P" n="100"/>quam prudentia. ergo sapientia est melior consequentia tenet ex 
+          pri<lb ed="#P" n="101" break="no"/>mo de anima. antecedens patet: sapientia est circa de 
+          <lb ed="#P" n="102"/>um et eius effectus vt in deum relucent: circa 
+          intelligen<lb ed="#P" n="103" break="no"/>tias earum motus orbium celestium. prudentia 
+          ve<lb ed="#P" n="104" break="no"/>ro est circa hominesiet eorum actus: ergo sapientia est 
+          <lb ed="#P" n="105"/>melior prudentia. hanc rationem innuit Arist. vi. ethi. 
+          <lb ed="#P" n="106"/>dicens: erit vtique sapientia inte llectus et scientia: et 
+          <lb ed="#P" n="107"/>quemadmodum caput habens scientia 
+          honorabilissi<lb ed="#P" n="108" break="no"/>morum: ac si argumentaretur omnis ille habitus est alio 
+          <lb ed="#P" n="109"/>melior qui est circa nobilius obiectum: sed sic est de 
+          sa<lb ed="#P" n="110" break="no"/>pientia respectu prudentie: igitur. Unde subdit pro 
+          pro<lb ed="#P" n="111" break="no"/>batione minoris: inconueniens vtique si quis scientiam 
+          <lb ed="#P" n="112"/>politicam vel prudentiam studiosissimam existimat esse: 
+          <lb ed="#P" n="113"/>si non optimum eorum que in mundo homo est. 
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e422">
+          <lb ed="#P" n="114"/>¶ Secundo ad hanc conclusionem arguitur sic: 
+          aristo<lb ed="#P" n="115" break="no"/>in fine. vi. sic dicit: sicut sanitas facit felicitatem cor¬¬ 
+          <lb ed="#P" n="116"/>poris: ita sapientia facit felicitatem anime: et sicut 
+          <lb ed="#P" n="117"/>ars medicinalis est ad sanitatem: ita prudentia est 
+          <lb ed="#P" n="118"/>ad felicitatem. ars autem medicinalis non 
+          princi<lb ed="#P" n="119" break="no"/>patur sanitati. non enim praecipit sanitati quid / aut quo 
+          <lb ed="#P" n="120"/>modo operetur: sed praecipit gratia sanitatis acquirende 
+          <pb ed="#P" n="80-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vel conseruande: tanquam ministra ipsi sanitati: et 
+          sa<lb ed="#P" n="2" break="no"/>nitas sic est finis eius. ergo similiter prudentia erit 
+          <lb ed="#P" n="3"/>ministra sapientie: et sapienti a finis eius: et hoc in 
+          <lb ed="#P" n="4"/>nuit philosophus inquiens: neque prudentia 
+          prin<lb ed="#P" n="5" break="no"/>cipalis est sapientie: quemadmodum neque sanitas 
+          me<lb ed="#P" n="6" break="no"/>dicinalis. non enim vtitur ipsa. sed videt qualiter fiat 
+          <lb ed="#P" n="7"/>illa: cuius gratia praecipit: sed non illi. dicit Arist. 
+          di<lb ed="#P" n="8" break="no"/>cere prudentiam principari sapientie / simile est ac si 
+          <lb ed="#P" n="9"/>diceremus politicam principari diis: ex eo quod 
+          preci<lb ed="#P" n="10" break="no"/>pit circa deorum templa et sacrificia: non tamen diis: 
+          <lb ed="#P" n="11"/>sed gratia deorum. et in fine magnorum moralium 
+          di<lb ed="#P" n="12" break="no"/>cit prudentiam se habere ad sapientiam sicut procura 
+          <lb ed="#P" n="13"/>tor in domo ad dominm qui omia disponit et pparat 
+          <lb ed="#P" n="14"/>dmni gratia: vt dominus a necessariis absolutus 
+          pos<lb ed="#P" n="15" break="no"/>set operari sibi congruentia. sic enim prudentia 
+          tan<lb ed="#P" n="16" break="no"/>quam ministra parat locum sapientie: et in prohemio 
+          me<lb ed="#P" n="17" break="no"/>tha. methaphisicam ceteris disciplis praefert: 
+          necessa<lb ed="#P" n="18" break="no"/>riores quidem omnes sunt ipsa: dignior vero nulla. 
+          <lb ed="#P" n="19"/>ergo studium thaletis et anaxagori / studio periclis est 
+          <lb ed="#P" n="20"/>preponendum.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e487">
+          ¶ Contra primam conclusionem et 
+          ter<lb ed="#P" n="21" break="no"/>tiam simul arguitur: phidias  appelles erant 
+          sapien<lb ed="#P" n="22" break="no"/>tes: et pauca admodum circa res altissimas nouere: 
+          <lb ed="#P" n="23"/>ergo tertia conclusio et quinta simul sunt false.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e496">
+          ¶ 
+          Re<lb ed="#P" n="24" break="no"/>spondetur. sapientia capitur tripliciter. vno modo 
+          la<lb ed="#P" n="25" break="no"/>te pro habitu excellenti in aliqua arte vel scientia. 
+          <lb ed="#P" n="26"/>secundo modo capitur pro habitu simplici circa 
+          prae<lb ed="#P" n="27" break="no"/>missas conclusionem simul: siue in inferioribus si 
+          <lb ed="#P" n="28"/>ue in superioribus: tertio modo capitur pro 
+          noti<lb ed="#P" n="29" break="no"/>tia circa substantias altissimas: et a sensu 
+          remotis<lb ed="#P" n="30" break="no"/>simas. et adhuc pro lvno simplici habitu: vel 
+          col<lb ed="#P" n="31" break="no"/>lectiue pro habitibus multis capi potest. primo modo 
+          <lb ed="#P" n="32"/>appelles est sapiens. secundo modo quilibet habitus 
+          con<lb ed="#P" n="33" break="no"/>clusionis et praemissarum demonstrationis est 
+          sapien<lb ed="#P" n="34" break="no"/>tia. tertio modo proprie capitur in tertia conclusione in. v. 
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e523">
+          <lb ed="#P" n="35"/>¶ Contra quartam conclusionem arguitur: intellectus 
+          <lb ed="#P" n="36"/>et scientia distinguuntur a sapientia. ergo sapientia non 
+          <lb ed="#P" n="37"/>est intellectus et scientia.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e532">
+          ¶ Aespondetur: intellectus 
+          <lb ed="#P" n="38"/>est notitia adhesiua premissarum: puta assensus vnus 
+          <lb ed="#P" n="39"/>totalis premissarum: vel assensus partiales 
+          praemissa<lb ed="#P" n="40" break="no"/>rum: et scientia simplex est noticia conclusionis: a no 
+          <lb ed="#P" n="41"/>ticia premissarum et bonitate consequene canta: sapientia est 
+          <lb ed="#P" n="42"/>noticia simplex causata a noticia premissarum / 
+          bo<lb ed="#P" n="43" break="no"/>nitatis consequentie et notitia scientifica conclusio 
+          <lb ed="#P" n="44"/>nis. simplex inquam in essendo. componitur ex 
+          parti<lb ed="#P" n="45" break="no"/>bus eiusdem rationis. per equiualentiam est scientia 
+          <lb ed="#P" n="46"/>et intellectus: quia est adhesio circa eadem circa quae 
+          <lb ed="#P" n="47"/>est intellectus scientia simplex. et sic sapientia est 
+          <lb ed="#P" n="48"/>composita per equiualentiam: et simplex in essendo 
+          <lb ed="#P" n="49"/>et qualitas in animo simplex: aggregatum vero in 
+          <lb ed="#P" n="50"/>tellectus ( qui est circa solas praemissas) et scientie 
+          cir<lb ed="#P" n="51" break="no"/>ca conclusionem / est congeries ex rebus diuersarum 
+          <lb ed="#P" n="52"/>rationum. sapientia supponit scientiam in intellectu 
+          <lb ed="#P" n="53"/>simpliciter: tanquam effectus naturalis suam causamu 
+          <lb ed="#P" n="54"/>et si non semper causetur sapientia in intellectu: quam 
+          <lb ed="#P" n="55"/>do habetur intellectus et scientia circa praemissas 
+          con<lb ed="#P" n="56" break="no"/>clusionem habetur quod ille non sunt cause 
+          sufficien<lb ed="#P" n="57" break="no"/>tes et ad equale productiue sapientie.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e578">
+          ¶ Contra 
+          il<lb ed="#P" n="58" break="no"/>lud arguitur: si potest dari vnus assensus circa 
+          premis<lb ed="#P" n="59" break="no"/>sas duas / t conclusionem simul: sequitur quod eadem no 
+          <lb ed="#P" n="60"/>ticia erit fides / opinio / et error: similiter euidentia 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>et ineuidentia: quod contradictionem claudit. patet 
+          ca<lb ed="#P" n="62" break="no"/>piendo praemissas duas cuius vnius habeatur in 
+          in<lb ed="#P" n="63" break="no"/>tellectu error: alterius opinio: et fides / de conclusio 
+          <lb ed="#P" n="64"/>ne: sed euidentia de bonitate consequentie: tunc 
+          assen<lb ed="#P" n="65" break="no"/>sus causatus ab illis omnibus tot sortietur 
+          nomi<lb ed="#P" n="66" break="no"/>na sicut illi assensus particulares: vel erit 
+          sapien<lb ed="#P" n="67" break="no"/>tia: non refert de nominibus.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e604">
+          ¶ Respondetur: non est 
+          <lb ed="#P" n="68"/>inconueniens quod idem assensus erit opinio in 
+          ordi<lb ed="#P" n="69" break="no"/>ne ad vnum obiectum: fides in ordine ad aliud 
+          ob<lb ed="#P" n="70" break="no"/>iectum: et error circa tertium. euidentia circa vnum 
+          <lb ed="#P" n="71"/>obiectum: et ineuidentia circa aliud. hec noticia est 
+          <lb ed="#P" n="72"/>multe noticie equiualenter: non est opus quod dicatur 
+          <lb ed="#P" n="73"/>sapientia: immo non debet vocari sapia: cum non continea 
+          <lb ed="#P" n="74"/>tur in vna acceptione premissa. Item: sapientia est 
+          ha<lb ed="#P" n="75" break="no"/>bitus vel actus veredicus. vi. ethicorum.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e624">
+          ¶ Secundo 
+          <lb ed="#P" n="76"/>arguitur contra illud quod dicebatur in probatione 
+          quar<lb ed="#P" n="77" break="no"/>te conclusionis. totum est sue partes solum: ergo 
+          assen<lb ed="#P" n="78" break="no"/>sus copulatiue non est nisi duo assensus partiales 
+          <lb ed="#P" n="79"/>partium eius.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e635">
+          ¶ Respondetur: consequentia est nulla. 
+          <lb ed="#P" n="80"/>dissentimus enim toti copulatiue: nulli parti 
+          dissen<lb ed="#P" n="81" break="no"/>tiendo: vt sortes currit et sortes non currit. era eodem 
+          <lb ed="#P" n="82"/>modo possumus habere vnum assensum in totam 
+          <lb ed="#P" n="83"/>copulatiuam latum: qui non fertur in vnam partem 
+          <lb ed="#P" n="84"/>eius. similiter assentimus disiunctiue crebriter / 
+          nul<lb ed="#P" n="85" break="no"/>li parti eius assentiendo. Sed facile dicetur: non est 
+          <lb ed="#P" n="86"/>simile. assensus disiunctiue non causatur ab 
+          assen<lb ed="#P" n="87" break="no"/>sibus partium eius: sed aliunde. est propositio inter 
+          <lb ed="#P" n="88"/>dum per se nota / et a sola noticia apprehensiua 
+          <lb ed="#P" n="89"/>terminorum causatur eius assensus. sicut aliqua 
+          co<lb ed="#P" n="90" break="no"/>puilatiua est perse nota in falsitate: vt sortes currit et 
+          <lb ed="#P" n="91"/>sortes non currit. numquam enim causatur assensus 
+          to<lb ed="#P" n="92" break="no"/>talis copulatiue sine assensibus partium. ergao non est 
+          <lb ed="#P" n="93"/>idem. et per consequens probationes nulle.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e669">
+          ¶ 
+          Fa<lb ed="#P" n="94" break="no"/>teor numquam causatur assensus totius copulatiue 
+          af<lb ed="#P" n="95" break="no"/>firmatiue / sine assensibus partium: nec 
+          naturali<lb ed="#P" n="96" break="no"/>liter potest aliter causari: tamen est vnus assensus 
+          <lb ed="#P" n="97"/>totius: et non partis: qui non potest esse sine 
+          assen<lb ed="#P" n="98" break="no"/>sibus partium. quod sit tertius assensus totius: patet si 
+          <lb ed="#P" n="99"/>cut de sapientia. Insuper: tota copulatiua est vnum 
+          <lb ed="#P" n="100"/>intelligibile et apprehensibile: et propositio. ergo 
+          <lb ed="#P" n="101"/>eius est iudicium primo quod non est respectu partium: 
+          <lb ed="#P" n="102"/>esto quod in intellectu simul sint iudicia 
+          cathegorica<lb ed="#P" n="103" break="no"/>rum quae partialiter hoc iudicium causant.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e693">
+          ¶ Contra 
+          <lb ed="#P" n="104"/>quintam conclusionem arguitur: illa virtus est 
+          me<lb ed="#P" n="105" break="no"/>lior / quae anime meliorem partem perficit. prudentia 
+          au<lb ed="#P" n="106" break="no"/>tem est huiusmodi. ergo prudentia est melior sapientia. 
+          <lb ed="#P" n="107"/>maior est Aristotelis decimo ethicorum de felicita 
+          <lb ed="#P" n="108"/>te: et expresse septimo politicorum. probatio mino 
+          <lb ed="#P" n="109"/>ris: illud est optimum hominis quod corrumpitur per 
+          <lb ed="#P" n="110"/>maliciam et extinguitur per bestialitatem: sed pars 
+          <lb ed="#P" n="111"/>anime perfectibilis per prudentiam est huiusmodi: et non pars 
+          <lb ed="#P" n="112"/>anime speculatiua. maior huius prosolligismi patet 
+          <lb ed="#P" n="113"/>per Aristotelem. vii. ethic. vbi vult quod optimum in 
+          ho<lb ed="#P" n="114" break="no"/>mine malo malicia humana / aliter corruptum est 
+          <lb ed="#P" n="115"/>quam in homine bestiali: quoniam in homine malo 
+          cor<lb ed="#P" n="116" break="no"/>ruptum est quia deprauatum: in homine vero bestia 
+          <lb ed="#P" n="117"/>li sic corruptum est quod non vtitur eo. minor autem 
+          <lb ed="#P" n="118"/>patet. vi. ethic. vbi philosophus dicit quod 
+          temperan<lb ed="#P" n="119" break="no"/>tia saluat prudentiam: et quod intemperantia 
+          corrum<lb ed="#P" n="120" break="no"/>pit eam: qua tamen non corrumpit neque peruertit 
+          <pb ed="#P" n="80-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>estimationem speculatiuam.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e739">
+          ¶ Respondetur 
+          conce<lb ed="#P" n="2" break="no"/>dendo maiorem: partes anime sunt eadem res. solum 
+          <lb ed="#P" n="3"/>est distinctio rationis. ergo illa pars anime quae 
+          respi<lb ed="#P" n="4" break="no"/>cit nobilius obiectum est melior: sed sic est de 
+          sapiem<lb ed="#P" n="5" break="no"/>tia: vt in conclusionis probatione patuit. in septimo 
+          <lb ed="#P" n="6"/>ethico. Arist. vocat optimum in homine totam 
+          partem<lb ed="#P" n="7" break="no"/>rationalem: distinguendo eam contra partem sensualem: ita 
+          <lb ed="#P" n="8"/>quod non intendit distinguere inter prudentiamet 
+          sapiem<lb ed="#P" n="9" break="no"/>tiam. illa autem tota pars rationalis per 
+          intemperan<lb ed="#P" n="10" break="no"/>tiam corrumpitur: primo et directe pars 
+          pruden<lb ed="#P" n="11" break="no"/>tialis: et ex consequenti pars sapientialis: quia 
+          praesup<lb ed="#P" n="12" break="no"/>ponit prudentialem.
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e765">
+          ¶ Secundo arguitur: illa virtus 
+          <lb ed="#P" n="13"/>est melior cuius principalis effectus et proprius est 
+          <lb ed="#P" n="14"/>melior: sed finalis effectus prudentie est melior quom 
+          <lb ed="#P" n="15"/>finalis effectus sapientie. finis scientie est scire 
+          so<lb ed="#P" n="16" break="no"/>lum: vt patet. ii. metha. et in prohemio eiusdem. finis 
+          <lb ed="#P" n="17"/>autem prudentie est bene viuere totum. hoc autem praestat 
+          <lb ed="#P" n="18"/>quam scire tantum. ergo methaphisica nen est melior prudentia 
+        </p>
+        <p xml:id="jm3cbb-e48394-d1e781">
+          <lb ed="#P" n="19"/>¶ Respondetur concedendo maiorem: sed negetur 
+          <lb ed="#P" n="20"/>minor. nemo potest ponere se ad methaphisicam. 
+          <lb ed="#P" n="21"/>hoc est ad istam speculationem profundamt continuam 
+          <lb ed="#P" n="22"/>celestium: quin sit abstractus a mundanise 
+          vani<lb ed="#P" n="23" break="no"/>tatibus: quae animum a vera methaphisica impediunt. 
+          <lb ed="#P" n="24"/>si sit maluset fluctibus seculi vel fedis corporis vo 
+          <lb ed="#P" n="25"/>luptatibus / inuolutus: nunquam profunde in 
+          methaphisica<lb ed="#P" n="26" break="no"/>speculabitur: et patet a signo de hominibus qui 
+          ve<lb ed="#P" n="27" break="no"/>re contemplationi se dederunt: vanitates seculi (in 
+          <lb ed="#P" n="28"/>quibus ambitiosi succumbunt) reliquarunt: et patet 
+          <lb ed="#P" n="29"/>illud auctoritate scripture: in maliuolam animam 
+          <lb ed="#P" n="30"/>non introibit sapientia: nec habitabit in corpere 
+          sub<lb ed="#P" n="31" break="no"/>dito peccatis. malicia excecat intellectum: et ponit 
+          <lb ed="#P" n="32"/>hominem in fines illicitos: et eos facit rimari 
+          me<lb ed="#P" n="33" break="no"/>dia illicita pro illorum finium consequutione:  si 
+          <lb ed="#P" n="34"/>quis fuerit immersus peccatis carnis: impossibile 
+          <lb ed="#P" n="35"/>est quod prosit in methaphisica: esto quod aliquas 
+          quis<lb ed="#P" n="36" break="no"/>quilias cognoscere potest. animalis homo non 
+          per<lb ed="#P" n="37" break="no"/>cipit ea que dei sunt: prime ad Corinth. ii. poete / 
+          <lb ed="#P" n="38"/>et multi tumultus aulicos sequentes: de deo non 
+          <lb ed="#P" n="39"/>ita scrutati sunt profunde: sicut philosophi qui vnam 
+          <lb ed="#P" n="40"/>primam causam intrepide posuerunt. de virtutibus 
+          <lb ed="#P" n="41"/>more chianorum loquuti sunt. digni erant quod a deo 
+          <lb ed="#P" n="42"/>illustrarentur: de talibus loquutus est philosophus: 
+          <lb ed="#P" n="43"/>qui vitam suam speculationi honeste circa 
+          metha<lb ed="#P" n="44" break="no"/>phisicam deuouerunt quos felices in decimo 
+          ethi<lb ed="#P" n="45" break="no"/>corum reputauit. prudentia coadiuuat vt homo si 
+          <lb ed="#P" n="46"/>bi prouideat de necessariis: vt sit in quiete: et in ocio 
+          <lb ed="#P" n="47"/>ad speculandum. omnes enim natura scire deside 
+          <lb ed="#P" n="48"/>rant: primo metha. et primo officiorum dicit 
+          tulli<lb ed="#P" n="49" break="no"/>us: omnes enim trahimur naturaliter et 
+          ducimur<lb ed="#P" n="50" break="no"/>ad cognitionis et scientie cupiditatem. prudentia 
+          po<lb ed="#P" n="51" break="no"/>test tollere impedimenta: et ministrare necessaria: 
+          <lb ed="#P" n="52"/>ne ab hoc sancto studio impediatur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

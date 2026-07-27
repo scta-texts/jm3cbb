@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 13</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 13</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="86-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e52688"><!-- l3d33q13 -->
+        <head xml:id="jm3cbb-e52688-Hd1e99">Quaestio 13</head>
+        <head xml:id="jm3cbb-e52688-Hd1e101" type="question-title">Quis actuum eius fortitudinis est ceteris perfectior, quis vero
+    imperfectior</head>
+        <p xml:id="jm3cbb-e52688-d1e104">
+          <lb ed="#P" n="16"/>Quarto circa materiam 
+          <lb ed="#P" n="17"/>fortitudinis de comparatione 
+          specie<lb ed="#P" n="18" break="no"/>rum fortitudinis quaeritur: quis actuum 
+          <lb ed="#P" n="19"/>eius est perfectior: quis vero 
+          im<lb ed="#P" n="20" break="no"/>perfectior.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e117">
+          ¶ Pro solutione 
+          quae<lb ed="#P" n="21" break="no"/>stionis species forti: udinis ex 
+          <lb ed="#P" n="22"/>plicabuntur. poste a conclusiue 
+          <lb ed="#P" n="23"/>ad quaestionem respondebitur. he sunt se ecies 
+          forti<lb ed="#P" n="24" break="no"/>tudinis. scilicet: fugere / expectare / sustinere / cunctari / 
+          <lb ed="#P" n="25"/>inferre / aggredi. expectare est aduersarium 
+          inua<lb ed="#P" n="26" break="no"/>dentem fortiter excipere. sustinere est pati dolores: 
+          <lb ed="#P" n="27"/>sic scilict: quod propter eos non deseratur acies. Cunctari 
+          <lb ed="#P" n="28"/>est hostem potentem prudenter sine pugna atterere: et 
+          <lb ed="#P" n="29"/>bellum porogare. sicut fecit maximus fabius: de quae 
+          <lb ed="#P" n="30"/>maro sexto aeneidos loquitur. Anus homo nobis 
+          cun<lb ed="#P" n="31" break="no"/>ctando restituit rem. Inferre est ferire siue in 
+          expe<lb ed="#P" n="32" break="no"/>ctante siue in insiliente. significationes aggressus 
+          <lb ed="#P" n="33"/>et fuge apud omnes sunt note.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e148">
+          ¶ His premissis 
+          po<lb ed="#P" n="34" break="no"/>no septem conclusiones. Quarum prima est. 
+          Fuge<lb ed="#P" n="35" break="no"/>re / hoc est velle efficaciter fugere / in casu est actus 
+          <lb ed="#P" n="36"/>fortitudinis. Probatur hec conclusio. Recta ratio 
+          <lb ed="#P" n="37"/>dictat viro forti quod fugiendum est: et non standum 
+          <lb ed="#P" n="38"/>in acie. Probatur. Stat quod iuueniat nouum 
+          exerci<lb ed="#P" n="39" break="no"/>tum hostium superuenientem: vel quod iuuenit 
+          prodi<lb ed="#P" n="40" break="no"/>tores in suo exercitu: vbi ratio dictat quod debet 
+          for<lb ed="#P" n="41" break="no"/>tis sesaluare ad feliciora tempora. Tunc fortis 
+          de<lb ed="#P" n="42" break="no"/>bet aufugere. patet: debet parere rationi. et hoc 
+          vo<lb ed="#P" n="43" break="no"/>liit Aristoteles inquiens. Fortis est pauidus vt 
+          ho<lb ed="#P" n="44" break="no"/>mo: hoc est quando dictatur a recta rationem quod 
+          fugicn<lb ed="#P" n="45" break="no"/>dum est: debet pedem retrahere. Secundo: velle 
+          au<lb ed="#P" n="46" break="no"/>fugere inlillo casu est actus deliberatiuus: et non 
+          in<lb ed="#P" n="47" break="no"/>differens: nec malus. ergo bonus. ergo ad aliquam 
+          vir<lb ed="#P" n="48" break="no"/>tutem pertinet: et non nisi ad fortitudinem. ergo iugere 
+          <lb ed="#P" n="49"/>est actus fortitudinis. Item: habet obiectum fortitu 
+          <lb ed="#P" n="50"/>dinis debitum: et crcunstantias bonas omnes. ergo est 
+          <lb ed="#P" n="51"/>actus fortitudinis
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e191">
+          ¶ Secunda conclusio: dabilio est 
+          <lb ed="#P" n="52"/>vna fuga actus fortitudins multum difficilis et 
+          laudabi<lb ed="#P" n="53" break="no"/>lis. probatur. potest vna acies ab alia aufugere incomposite 
+          <lb ed="#P" n="54"/>alia acie insequente in magnam ruinamet iacturam 
+          <lb ed="#P" n="55"/>aciei fugientis incomposite: et magnus impulsus 
+          ti<lb ed="#P" n="56" break="no"/>moris vt homines arma ahiiciant: vt pedum vel equo 
+          <lb ed="#P" n="57"/>rum celeritate sese protegant: reliquendo debiliores pro 
+          <lb ed="#P" n="58"/>sterni. ergo tunc expectare: et in globo sensim et 
+          or<lb ed="#P" n="59" break="no"/>dinate aciem reliquere: ponendo viros fortes in acie 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>recedentium: est actus multum difficilis:et 
+          perconse<lb ed="#P" n="61" break="no"/>quens multum laudabilis.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e217">
+          ¶ Tertia conclusio: talis 
+          <lb ed="#P" n="62"/>fuga non est pcstponenda inuasioni vel expectatio 
+          <lb ed="#P" n="63"/>ni tam in imperatore et duce exercitus quam in 
+          postre<lb ed="#P" n="64" break="no"/>mis militibus: qui non deiiciuntur animo: sed 
+          ordina<lb ed="#P" n="65" break="no"/>te et composite aufuigiunt: lente vel celeriter secundum exi 
+          <lb ed="#P" n="66"/>gen tiam insequetium.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e230">
+          ¶ Quarta conclusio: aliquando cun 
+          <lb ed="#P" n="67"/>ctari est potior actus iortitudinis quam inuadere vel 
+          <lb ed="#P" n="68"/>expectare hostem. probatur. recta ratio dictat quod 
+          <lb ed="#P" n="69"/>non est pugnandum: vtpote dum hostis potens habet 
+          <lb ed="#P" n="70"/>aciem paratam ad inuadendum: licet homo posset secum 
+          <lb ed="#P" n="71"/>pugnare marte ancipite iudicio prudentum: 
+          tamen<lb ed="#P" n="72" break="no"/>respublica iacitur ad aleam lucri vel perditionis: et 
+          <lb ed="#P" n="73"/>tamen tenendoiexercitum collectum prope 
+          hostem<lb ed="#P" n="74" break="no"/>in loco munito propinquo: nichil damni vel parum 
+          <lb ed="#P" n="75"/>hostis reipublice inferet. et tam cogetur ad thmsa 
+          dece<lb ed="#P" n="76" break="no"/>dere defectu pecunie vel commeatus: stultum esset 
+          inta<lb ed="#P" n="77" break="no"/>li casu pugnare. probatio. prudens dux exercitus 
+          ha<lb ed="#P" n="78" break="no"/>bens duas vias honestas ad succurrendum 
+          reipubli<lb ed="#P" n="79" break="no"/>ce / est imprudens si viam periculosam accipiat 
+          secu<lb ed="#P" n="80" break="no"/>riore relicta. sed stat a. regem habere vnum regnum 
+          <lb ed="#P" n="81"/>vel patriam in possessione iusta: et si deferat. cunctando 
+          <lb ed="#P" n="82"/>coget alium deserere turpitur: ita quod nichilhabeat 
+          ab<lb ed="#P" n="83" break="no"/>aduersario: vbi si pugnaret / fortasse dominium ibit 
+          <lb ed="#P" n="84"/>in manus hostis cum magna virorum fortium nece. 
+          <lb ed="#P" n="85"/>Ita sentiebat in re militari peritus Pompeius 
+          in<lb ed="#P" n="86" break="no"/>quiens: tam prospera rerum tradere fortune: vbi 
+          Ce<lb ed="#P" n="87" break="no"/>sarem atterere poterat. Sciebat enim peritus 
+          dux<lb ed="#P" n="88" break="no"/>euentum belli esse fortuitum. propterea bene 
+          egis<lb ed="#P" n="89" break="no"/>set sibi credendo: et non Ciceroni et togatis viris 
+          <lb ed="#P" n="90"/>in bello imperitis. hoc modo tmpere meo vidi aliquos 
+          <lb ed="#P" n="91"/>in pacetenere sua: et inuasores hostes sua 
+          spefru<lb ed="#P" n="92" break="no"/>stratos. hoc fecit fabius in quo tota romanorum 
+          <lb ed="#P" n="93"/>spes residebat. considerauit hannibalem in re 
+          mi<lb ed="#P" n="94" break="no"/>litari peritissimum pariter et strenuissium totiens 
+          <lb ed="#P" n="95"/>romanos vicisse: et ferme ad nichilum redigisse. 
+          ra<lb ed="#P" n="96" break="no"/>s est necessarium ad tempus cunctari: quo 
+          adexer<lb ed="#P" n="97" break="no"/>citum hannibalis instructissimmum sine ordine: 
+          <lb ed="#P" n="98"/>inueniret: vt oportunitate data eum inuaderet / 
+          <lb ed="#P" n="99"/>quod et fecit: quia cum valentissimus ille penus 
+          ali<lb ed="#P" n="100" break="no"/>quotiens collegas fabii fudere inceperit: in eum 
+          insi<lb ed="#P" n="101" break="no"/>liit collegis succurrendo: et magnam partem 
+          aciei<lb ed="#P" n="102" break="no"/>fundendo. iudicabat apparentissime fabius ex 
+          pre<lb ed="#P" n="103" break="no"/>teritis tot imperatoribus ab hamnnibale victis: si 
+          ipse<lb ed="#P" n="104" break="no"/>et sui college cum eo consererent manus in 
+          plana<lb ed="#P" n="105" break="no"/>acie: verosimillimum erat quod Penus victor 
+          euade<lb ed="#P" n="106" break="no"/>ret: et sic nichil salutis remaneret in republica: cum 
+          <lb ed="#P" n="107"/>ad nutum de omnibus disponere poterat Penus. 
+          <lb ed="#P" n="108"/>ergo prudentissime fecit non congrediendo.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e324">
+          ¶ Ex his patet 
+          <lb ed="#P" n="109"/>non potest dari vna regula qua cognoscitur omne cunctari 
+          <lb ed="#P" n="110"/>excedere fugam: et cunctationem esse inferiorem tribus reliquis 
+          <lb ed="#P" n="111"/>speciebus fortitudeins. Si dicas: oportet comparare 
+          opti<lb ed="#P" n="112" break="no"/>mum actum vnius / optimo actui alterius. Aspondeo: si des 
+          <lb ed="#P" n="113"/>optimum actum fuge: vel loqueris de optimo pessibili: et 
+          <lb ed="#P" n="114"/>talem non dabis. vel de valde excellentibus actibus: et tunc 
+          <lb ed="#P" n="115"/>dico quod est aliquis actus fuge non minus nobilis L actus 
+          <lb ed="#P" n="116"/>inuadendi. reliqua semper iudicio prudentum considerantium 
+          sin<lb ed="#P" n="117" break="no"/>gulas circunstantias occurrentes de medo inuadendi / 
+          su<lb ed="#P" n="118" break="no"/>giendi / vel cunctandi. Ex isto patet: quod falsum est qud ceniter 
+          <lb ed="#P" n="119"/>dir: quod fuga est actus minus principalis (et minus difficilis 
+          <pb ed="#P" n="87-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ceteris actibus) fortitudins. fortasse dicis: ipse et 
+          alii<lb ed="#P" n="2" break="no"/>loquntur quando est fuga repentina sine compugnatione. hoc 
+          <lb ed="#P" n="3"/>non sufficit. ipse et omnes loquuntur de actu bono: et de 
+          <lb ed="#P" n="4"/>actu fortitudinis. ergo oportet loqui de fuga sed rectam rationem. 
+          <lb ed="#P" n="5"/>post congressum fuga semper est repentina: et difficile in 
+          <lb ed="#P" n="6"/>uenire in illa medium sed rationem. interdum dux exercitus 
+          <lb ed="#P" n="7"/>aciem victam insequens est peremptus: proptur compositam militum 
+          <lb ed="#P" n="8"/>fugam. falsum est etiam quod dicit: quod cunctari est facilius 
+          <lb ed="#P" n="9"/>reliquis. licet hic possunt esse tergiuersationes: ego 
+          <lb ed="#P" n="10"/>discedo non loquens in geneorali de excessu vnius 
+          speciei<lb ed="#P" n="11" break="no"/>super aliam. sed quando bene tibi recitabuntur circunstantie de 
+          duo<lb ed="#P" n="12" break="no"/>bus indiuiduis quaerum vnum est fugere et aliud cunctari: 
+          bene<lb ed="#P" n="13" break="no"/>iudicare potes.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e383">
+          ¶ Quinta conclusio: sustinere est actus 
+          <lb ed="#P" n="14"/>difficilior quam inferre: patet. malum pati est difficilius quod 
+          ma<lb ed="#P" n="15" break="no"/>lum alteri infiigere.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e390">
+          ¶ Secundo: sustinere et pati vulnera 
+          <lb ed="#P" n="16"/>est dolorosum et molestum: inferre est delectabile et iocum 
+          <lb ed="#P" n="17"/>dum.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e398">
+          ¶ Tertio: percutere non habet difficultatem nisi propatur 
+          <lb ed="#P" n="18"/>sustinere. ergo inferre non est ita difficile sicut sustinere. 
+          <lb ed="#P" n="19"/>miles fortis non timet percutere: nisi quia timet 
+          reprcu<lb ed="#P" n="20" break="no"/>ti. Sed de inuadere et recipere sunt opiniones. Martinus 
+          <lb ed="#P" n="21"/>tenet quod difficilius est inuadere quam excipereet expectare. 
+          <lb ed="#P" n="22"/>multi tenent oppositum. neutrum opinor verum vniuersa 
+          <lb ed="#P" n="23"/>liter. propturea ponuntur due conclusiones sexta et 
+          septi<lb ed="#P" n="24" break="no"/>ma.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e416">
+          ¶ Sexta conclusio est hec: in casu in quo exercitus 
+          dimi<lb ed="#P" n="25" break="no"/>cat: inuadere est difficilius quam expectare. probatur: ad 
+          re<lb ed="#P" n="26" break="no"/>sistendum sufficit aliqua multitudo: quae non sufficit ad 
+          in<lb ed="#P" n="27" break="no"/>uadendum. ergo inuadere est difficilius quam inuadi. antecedens patet. 
+          inua<lb ed="#P" n="28" break="no"/>sus exercitus quietius et ordinatius stat. et per 
+          anna<lb ed="#P" n="29" break="no"/>les patet: minor exercitus ducem prudentem habens / stat 
+          <lb ed="#P" n="30"/>et exercitum potentiorem sinit inuadere. ergo iudicat 
+          dux<lb ed="#P" n="31" break="no"/>exercitus difficilius inuadere quam inuadi. Sed dicis: pers 
+          <lb ed="#P" n="32"/>minor non vult inuadere maiorem: sed pacem petit verbo 
+          <lb ed="#P" n="33"/>vel signo: et propaterea non inuadit: non quia existimat 
+          faci<lb ed="#P" n="34" break="no"/>lius resistere excipiendo hostem quam eum inuadendo.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e440">
+          ¶ 
+          Con<lb ed="#P" n="35" break="no"/>tra hoc arguitur: dato quod iudicet quod certandum est: non 
+          iua<lb ed="#P" n="36" break="no"/>dit: dato quod campus et locus vtrique parti fuerit equelis. 
+          <lb ed="#P" n="37"/>interdum locus dat oportunitatem inuadendi: non numquam dat 
+          <lb ed="#P" n="38"/>oportunitatem resistendi. interdum res est ceca et anceps. 
+          <lb ed="#P" n="39"/>qua ad boobardas et tormenta bellica prodest esse in 
+          loco<lb ed="#P" n="40" break="no"/>decliuiore: quia tormenta tendentia in altum quaetiunt exndetes 
+          <lb ed="#P" n="41"/>in summitate: non autem econuerso. opposito modo est cum 
+          <lb ed="#P" n="42"/>telis et ensibus pugnando comunius ad manum.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e460">
+          ¶ 
+          Septi<lb ed="#P" n="43" break="no"/>ma conclusio: maior actus fortitudinslem vni vnum 
+          exci<lb ed="#P" n="44" break="no"/>pere quam inuadere: et ita est quando aliqui pauci paucos 
+          <lb ed="#P" n="45"/>inuadunt: et illud est comunius quam in magno exercitu. ergo in 
+          ab<lb ed="#P" n="46" break="no"/>soluto modo loquendi citius debet dici quod difficilius est 
+          ex<lb ed="#P" n="47" break="no"/>cipere et resistere quam inuadere. hec conclusio (nisi 
+          fal<lb ed="#P" n="48" break="no"/>lar) est Aristo. iii. Ethi. viii. cuius probatio est hec. 
+          quam<lb ed="#P" n="49" break="no"/>obrem et magis fortis esse videtur subitis potius in terro 
+          <lb ed="#P" n="50"/>ribus interritum esse ac sine turbatione qua in praeuisis. est 
+          <lb ed="#P" n="51"/>em ab habitu magis aut minus ex apparatu. nam 
+          an<lb ed="#P" n="52" break="no"/>tea visa: cogitatione et ratione quispiam eliget: at ea quae 
+          re<lb ed="#P" n="53" break="no"/>pente veniunt habitu. hoc est: argumentum eius est hoc. vel 
+          <lb ed="#P" n="54"/>sic in forma argumentandi ipsum direxisset 
+          Aristote<lb ed="#P" n="55" break="no"/>les. ille est fortior qui est impauidus et imparturbatus in 
+          <lb ed="#P" n="56"/>repentinis periculis: quoad ille qui est impauidus in 
+          anteco<lb ed="#P" n="57" break="no"/>gitatis periculist syllogismo habito ante periculorum ag 
+          <lb ed="#P" n="58"/>gressionem: quia vnus ex maiore habitu agit quam alter: sed 
+          <lb ed="#P" n="59"/>raro quis inuadit nisi consideratione praeuia: et raro solet 
+          <lb ed="#P" n="60"/>ante significare illi quem inuadit. ergo si alter inpterritus 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>stat cum est inuasus repente: ex maiore habitu stat quom alt: 
+          <lb ed="#P" n="62"/>quia ex magno habitu fortitudins prompte exit in actum. 
+          <lb ed="#P" n="63"/>sicut cytharedus bonus sine premeditatione mox 
+          pul<lb ed="#P" n="64" break="no"/>sat cytharam. si ponas aliquem subito alium inuadere 
+          si<lb ed="#P" n="65" break="no"/>ne praemeditatione praeuia: nichil dicis. si hoc faciat 
+          pul<lb ed="#P" n="66" break="no"/>satus ira vel passione: non est actus vere fortitudins: alitur 
+          <lb ed="#P" n="67"/>non inuadit sine praemeditatione: aut rarissmum est vel 
+          num<lb ed="#P" n="68" break="no"/>quam.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e521">
+          ¶ Secundo arguitur ad idem: pericula sunt solum 
+          futu<lb ed="#P" n="69" break="no"/>ra in ordine ad inuadentem antequam inuadit: considerat 
+          <lb ed="#P" n="70"/>hinc inde pericula que possunt ei occurrere: sed 
+          so<lb ed="#P" n="71" break="no"/>lum sunt futura. cum quis est inuasus: iam 
+          pericu<lb ed="#P" n="72" break="no"/>lum est actu presens. sane ensis super caput 
+          descen<lb ed="#P" n="73" break="no"/>dens plus mouet quam decem in absentia.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e534">
+          ¶ Tertio: 
+          <lb ed="#P" n="74"/>inuasor iudicat se potentiorem et fortiorem illo quem 
+          <lb ed="#P" n="75"/>inuadit: saltem eo modo quo intendit eum inuade 
+          <lb ed="#P" n="76"/>te / inermemn / vel aliter / vel inuasum perterrefacere 
+          <lb ed="#P" n="77"/>ex terribili inuasione. si inuasus maneat in his 
+          im<lb ed="#P" n="78" break="no"/>perterritus: est alio fortior. audax potest sic 
+          inua<lb ed="#P" n="79" break="no"/>dere qui non perdurat in bello. et hoc innuit 
+          phi<lb ed="#P" n="80" break="no"/>losophus tertii Ethicorum septimo: inquiens. Et 
+          <lb ed="#P" n="81"/>audaces quidem precipites sunt ante ipsa pericula 
+          <lb ed="#P" n="82"/>et volunt ea: sed cum in ipsis sunt: tergiuersantur. sortes 
+          <lb ed="#P" n="83"/>autem in ipsis quidem operibus / feruidi sunt: ante ea 
+          <lb ed="#P" n="84"/>vero quieti. hinc est apud nostrates audagium. qui 
+          <lb ed="#P" n="85"/>recipit inuadentem vno ictu vel duobus 
+          repercu<lb ed="#P" n="86" break="no"/>tiendo: non retrahet pedem nisi mutiletur: nisi quis 
+          <lb ed="#P" n="87"/>alius in opem inuadentis occurrat.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e568">
+          ¶ Contra tres 
+          pri<lb ed="#P" n="88" break="no"/>mas conclusiones arguitur. fugere est extremum 
+          <lb ed="#P" n="89"/>fortitudinis: ergo est vicium. Et si dicas sicut 
+          dicem<lb ed="#P" n="90" break="no"/>dum est: hoc est verum quando fugitur contra 
+          di<lb ed="#P" n="91" break="no"/>ctamen recte rationis.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e579">
+          ¶ Contra: qualitercunque 
+          fi<lb ed="#P" n="92" break="no"/>at: fuga ipsa est similior extremo vicioso. ergo 
+          ip<lb ed="#P" n="93" break="no"/>sa est minus bona quam expectare vel inuadere.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e586">
+          ¶ 
+          Re<lb ed="#P" n="94" break="no"/>spondetur distinguendo quod sit similior extremo vicioso. 
+          <lb ed="#P" n="95"/>vel in denominatione generali fuge terga 
+          verten<lb ed="#P" n="96" break="no"/>do: et sic concedo. vel similior: hoc est magis 
+          di<lb ed="#P" n="97" break="no"/>stans ab optimo actu fortitudinis (quem 
+          imagi<lb ed="#P" n="98" break="no"/>naberis in centro fortitudinis) et sic nego. fugiens 
+          <lb ed="#P" n="99"/>fortis non semper vertit tergum: sed crebro faciem. 
+          <lb ed="#P" n="100"/>actus aiacis thalemonii fugiendo (si homero 
+          cre<lb ed="#P" n="101" break="no"/>ditur ) erat maior fugiendo quam cuiuscunque troiani 
+          <lb ed="#P" n="102"/>insequentis. cum greci erant victi et pedem 
+          ab<lb ed="#P" n="103" break="no"/>acie retraxerunt: aiax in medio duarum acierum 
+          <lb ed="#P" n="104"/>insequebatur nouissimus suos: sicut oues pastor: 
+          <lb ed="#P" n="105"/>impediens animosissimos inuadere fugientem 
+          ex<lb ed="#P" n="106" break="no"/>ercitum.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e617">
+          ¶ Contra illud arguitur: hec fuga non 
+          <lb ed="#P" n="107"/>habet bonitatem a fuga: sed ab inuasione et 
+          expe<lb ed="#P" n="108" break="no"/>ctatione: ergo bonum suum capit ab altero. ergo 
+          <lb ed="#P" n="109"/>aliud prestat.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e626">
+          ¶ Respondetur: percutere 
+          nichil<lb ed="#P" n="110" break="no"/>fortitudinis habet: nisi quia putatur repercutio: 
+          <lb ed="#P" n="111"/>et percutiens etiam repercutitur. sic est de 
+          fuga<lb ed="#P" n="112" break="no"/>fortitudine. fuga fortitudo non priuat omnem 
+          <lb ed="#P" n="113"/>actum pugnandi: quia si sic: non eslet actus 
+          forti<lb ed="#P" n="114" break="no"/>tudinis contra casum. actus fuge sunt tales in 
+          vi<lb ed="#P" n="115" break="no"/>ro forti: nolo congredi nec cunctari: sed volo 
+          pe<lb ed="#P" n="116" break="no"/>dem retrahere: quia hostis est fortior. sed secundum 
+          <lb ed="#P" n="117"/>exigentiam periculi celeriter vel lente pedem 
+          re<lb ed="#P" n="118" break="no"/>trahit. in casu mauult perdere vnum vel paucos 
+          <lb ed="#P" n="119"/>quam exponere totum exercitum fortune inapparenti. 
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e650">
+          <lb ed="#P" n="120"/>¶ Contra quintam conclusionem arguitur: virtutis est ma¬ 
+          <pb ed="#P" n="87-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>gis bene agere quam bene pati. patet primi ethicor 
+          pri<lb ed="#P" n="2" break="no"/>mo. Et beatius est dare quod accipere: sicut apluns dicit 
+          <lb ed="#P" n="3"/>saluatorem dixisse. sed inferre est bene agere: sustine 
+          <lb ed="#P" n="4"/>re est solum bene pati. ergo inferre est melius quam susti 
+          <lb ed="#P" n="5"/>nere.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e671">
+          ¶ Secundo arguitur: sequitur si duo vtpote sortes et 
+          <lb ed="#P" n="6"/>plato pugnant: et sortes ledat vel occidat platonem: 
+          <lb ed="#P" n="7"/>quod plus plato est laudandus quam sortes: cum post multos 
+          <lb ed="#P" n="8"/>duros ictus stetit imperterritus in bello durans. 
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e680">
+          <lb ed="#P" n="9"/>¶ Ad primum dicitur quod ratio ducitur in oppositum. 
+          ma<lb ed="#P" n="10" break="no"/>ioris virtutis est dare liberaliter aliquid boni quam 
+          il<lb ed="#P" n="11" break="no"/>lud idem recipere. ita per locum a contrario sensu: bene 
+          pa<lb ed="#P" n="12" break="no"/>ti malum pen e: est melius quam illudmalum inferre. sed 
+          <lb ed="#P" n="13"/>pati vulnera / est suscipere malum pene: non autem 
+          infer<lb ed="#P" n="14" break="no"/>ri / inquantum huiusmodi.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e696">
+          ¶ Ad secundum respondetur: dato quod 
+          <lb ed="#P" n="15"/>sortes et plato pares fuerint viribus et fortitudine: 
+          <lb ed="#P" n="16"/>stat platonem plus vulnerari vel occidi quod sortem: et tamen 
+          <lb ed="#P" n="17"/>minus esse laudandum apud sapientes. a casu stat 
+          vi<lb ed="#P" n="18" break="no"/>rum fortem ex minore inaduertentia ledi / vel cadere 
+          <lb ed="#P" n="19"/>precipitem / vel stat sua arma non esse paria ad resistem 
+          <lb ed="#P" n="20"/>dum vel feriendum. Uulgus hec non considerat. crebritur 
+          <lb ed="#P" n="21"/>minus laudandum effert: vtpote Alexandrum 
+          ma<lb ed="#P" n="22" break="no"/>gnum / Iulium cesarem / et tyrannos sanguinarios / qui 
+          <lb ed="#P" n="23"/>aliorum respublicas iuste possessas sine colore 
+          alicu<lb ed="#P" n="24" break="no"/>ius tituli inuaserest. phlii est hec reprobare.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e720">
+          ¶ 
+          Ter<lb ed="#P" n="25" break="no"/>tio arguitur: stat ictus recipientem nullum actum 
+          volun<lb ed="#P" n="26" break="no"/>tatis tempore pugne habere. ergo tempore quo 
+          pu<lb ed="#P" n="27" break="no"/>gnat nullum actum fortitudinis elicit: quia nullum actum 
+          bo<lb ed="#P" n="28" break="no"/>num moraliter elicit. ergo pugnando non est fortis. 
+          Il<lb ed="#P" n="29" break="no"/>lator vero potest actus voluntatis habere.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e733">
+          ¶ Quarto 
+          <lb ed="#P" n="30"/>arguitur. Illud est melius quod reipublice maiorem 
+          af<lb ed="#P" n="31" break="no"/>fert vtilitatem. sed percutere / et hostem trucidare / maio 
+          <lb ed="#P" n="32"/>rem vtilitatem affert reipublice quod expectare et ictus 
+          <lb ed="#P" n="33"/>suscipere.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e744">
+          ¶ Et confirmatur hec ratio. Sustinere 
+          <lb ed="#P" n="34"/>sine inferre nichil prodest: inferre autem siue 
+          susti<lb ed="#P" n="35" break="no"/>nere multum prodest: vt cum ad primuum insultum / 
+          ad<lb ed="#P" n="36" break="no"/>uersarii fugiunt: tunc per inferre habetur victoria. igitur 
+          <lb ed="#P" n="37"/>inferre prestat sustinere.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e756">
+          ¶ Ad tertium concedo antcedens et 
+          <lb ed="#P" n="38"/>consequens. tempore illo quo nullum actum elicit: 
+          <lb ed="#P" n="39"/>non bene moraliter agit actu interiore vel actu 
+          me<lb ed="#P" n="40" break="no"/>ritorio: bene autem actu exteriore imperato ab 
+          actu<lb ed="#P" n="41" break="no"/>fortitudinis elicito a principio. est fortis 
+          habituali<lb ed="#P" n="42" break="no"/>ter. sed tempore quo nullum actum habet in voluntate / 
+          <lb ed="#P" n="43"/>non meretur nouum praemium. Actus exterioris 
+          continua<lb ed="#P" n="44" break="no"/>tio (sine actu interiore) non auget mneritum et praemium. 
+          <lb ed="#P" n="45"/>expectans tamen / frequenter interpugnandum elicit actus 
+          <lb ed="#P" n="46"/>bonos fortitudinis: et socios verbo iuuat: et seipsum 
+          <lb ed="#P" n="47"/>in electione actuum. etiam stat inuadentem non 
+          habere<lb ed="#P" n="48" break="no"/>actum.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e782">
+          ¶ Ad quartum dico quod illud non est vtrobique 
+          <lb ed="#P" n="49"/>verum. Instat Guridanus in hoc argumento: de 
+          mul<lb ed="#P" n="50" break="no"/>ta pecunia quae plus vtilitatis affert reipublice quam 
+          pro<lb ed="#P" n="51" break="no"/>bus vir: et tamen non est melior. hanc solutionem 
+          <lb ed="#P" n="52"/>sufficienter reprobat Martinus: quia hicem simo de 
+          duo<lb ed="#P" n="53" break="no"/>bus actibus studiosis: ipse maiorem transire sinit veram: tamen 
+          <lb ed="#P" n="54"/>ipsa non est vsquequaque vera. occidens tyramnum iniuste / 
+          <lb ed="#P" n="55"/>non bene agit: et tamen vtilitatem reipublice affert de 
+          <lb ed="#P" n="56"/>per accidens. stat ergo quod percutere / maiorem vtilitatem 
+          <lb ed="#P" n="57"/>afferat reipublice quam suscipere: sed non sequitur quod sit 
+          <lb ed="#P" n="58"/>melior. Secundo: sustinere magnam et maiorem 
+          vti<lb ed="#P" n="59" break="no"/>litatem afferat reipublice: quando resistitur 
+          hosti<lb ed="#P" n="60" break="no"/>qu grauibus vulneribus diu: tandeni hostis qui 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>inuasit / aufugit. et sic sicut grauis isultus ab exordio 
+          <lb ed="#P" n="62"/>parat fugam turpem in hoste: qui sine bello decedit: et nan 
+          <lb ed="#P" n="63"/>honestam in victore. sic resistentia cum contrapugnatione 
+          <lb ed="#P" n="64"/>parit gloriosam victoriam. magnitudo victorie est 
+          men<lb ed="#P" n="65" break="no"/>suranda penes duriciam militis resistentis. aliqui nan 
+          <lb ed="#P" n="66"/>que sunt qui intrepide inuadunt: et interdum non 
+          persi<lb ed="#P" n="67" break="no"/>stunt cum hostem durum inueniunt. aliqui minus rigide 
+          <lb ed="#P" n="68"/>inuadunt: et perdurant. licet fortes in principio 
+          suns<lb ed="#P" n="69" break="no"/>quieti teste philosopho: stare et ictus recipere 
+          mo<lb ed="#P" n="70" break="no"/>re ouis: et non repercutere: extra martyrium in bello 
+          <lb ed="#P" n="71"/>communi / non est viri fortis. comunius qui plus sustinet 
+          pericil<lb ed="#P" n="72" break="no"/>losius ferit. aliqui tamen sunt talis nature: qui non 
+          <lb ed="#P" n="73"/>aufugiunt. et raro ledunt. isti non sunt optimi 
+          mili<lb ed="#P" n="74" break="no"/>tes. propterea in canticis nostris britannicis de 
+          Do<lb ed="#P" n="75" break="no"/>berto hudo dicitur. audax erat tam manu quam cordei 
+          <lb ed="#P" n="76"/>ac si dicere vellent: imperterritus erat in 
+          expecta<lb ed="#P" n="77" break="no"/>tione et periculosus repercussor. tamen sustinere est 
+          <lb ed="#P" n="78"/>difficilius quam inferre. et vulnera passi in expectando / 
+          <lb ed="#P" n="79"/>plurimum a sapientibus laudantur. herodes cum a 
+          ao<lb ed="#P" n="80" break="no"/>manis negligentieet perfidie argueretur. nudato 
+          pe<lb ed="#P" n="81" break="no"/>ctore cicatrices et vulnera (qua pro Bomanis partulit ) 
+          <lb ed="#P" n="82"/>ostendit. per hoc soluetur argumentum cum sua 
+          confir<lb ed="#P" n="83" break="no"/>matione: nec opus est amplius ad formam 
+          responde<lb ed="#P" n="84" break="no"/>re.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e865">
+          ¶ Contra septimam conclusionem arguitur argumentis 
+          <lb ed="#P" n="85"/>quibus Mhartinus nititur probare oppositum. qui inua 
+          <lb ed="#P" n="86"/>dit est in continuo motu: qui inuaditur est in 
+          quie<lb ed="#P" n="87" break="no"/>te: ergo facilius est expectare quam aggredi. nam 
+          qui<lb ed="#P" n="88" break="no"/>expectat / multas habet commoditates ad vincendum: 
+          <lb ed="#P" n="89"/>quas non habet aggressor.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e878">
+          ¶ Secundo arguitur: 
+          <lb ed="#P" n="90"/>actus audacie est difficilior quam actus timoris. ergo actus 
+          <lb ed="#P" n="91"/>fortitudinis audacie similior / est difficiliorqua actus 
+          <lb ed="#P" n="92"/>fortitudinis minus similis audacie. sed ( vt constat 
+          ag<lb ed="#P" n="93" break="no"/>gredi est similior actus audacie quam expectare. ergo 
+          ag<lb ed="#P" n="94" break="no"/>gredi est difficilior actus quam expectare.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e891">
+          ¶ Ad primum 
+          <lb ed="#P" n="95"/>transeat quod ille qui inuadit est in continuo motu: et in 
+          <lb ed="#P" n="96"/>uasus est in quiete. sed nego consequentiam. aliqui ex industria 
+          <lb ed="#P" n="97"/>continuo mouentur dum pugnant: vt minus ledantur. nescit 
+          <lb ed="#P" n="98"/>tunc percutiens figere ictum: propatrea celeritur motum / 
+          diffi<lb ed="#P" n="99" break="no"/>culter de muro percutit alter sagitta vel tormento 
+          bel<lb ed="#P" n="100" break="no"/>lico. dum quis stat quietus / in ipso optime figitur ictus. ne 
+          <lb ed="#P" n="101"/>go quod inuasus multas habeat commoditates quaes non habet 
+          <lb ed="#P" n="102"/>inuasor. Secundo dico: licet aliques peruas commoditates 
+          <lb ed="#P" n="103"/>haberet quaes non habet inuasor: non sequitur quod sit ei facilius: 
+          <lb ed="#P" n="104"/>vt patet per conclusionis probationem.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e915">
+          ¶ Ad secundum argumen 
+          <lb ed="#P" n="105"/>tum concedo antecedens. sed consequentia est nulla. immo oppositum consequentis 
+          <lb ed="#P" n="106"/>sequitur potius. aggredi assimilatur magis audacie: 
+          <lb ed="#P" n="107"/>hoc est vicio: quam expectare. et nego quod expectare 
+          ma<lb ed="#P" n="108" break="no"/>gis assimiletur timori quam aggredi. est difficillimus 
+          <lb ed="#P" n="109"/>ictus fortitudins: propaterea maxine elongatur a timore 
+          tamn<lb ed="#P" n="110" break="no"/>quam ab extremo inhonestiore.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e932">
+          ¶ Tertio potest 
+          argui<lb ed="#P" n="111" break="no"/>contra primam probationem huius septime 
+          cot<lb ed="#P" n="112" break="no"/>clusionis de repentina inuasione. fortis maxime 
+          <lb ed="#P" n="113"/>preuidet pericula futura: vt illis preuideat et 
+          re<lb ed="#P" n="114" break="no"/>medium oportunum pro illis ordinet: sicut 
+          Gre<lb ed="#P" n="115" break="no"/>gorius dicit in quadam omelia quam recitamus 
+          <lb ed="#P" n="116"/>in communi plurimorum martyrum. iacula que 
+          preui<lb ed="#P" n="117" break="no"/>dentur minus feriimt: ergo fortis elaborat ne 
+          pe<lb ed="#P" n="118" break="no"/>ricula repentina insurgant.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e952">
+          ¶ Resoondetur: 
+          repen<lb ed="#P" n="119" break="no"/>tiniim non est conditio actus quem intendit fortis 
+          <lb ed="#P" n="120"/>ponere in materiam suam. nullo modo intendit for¬ 
+          <pb ed="#P" n="88-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tis quod repentina pericula incidant cum operatur: 
+          <lb ed="#P" n="2"/>sed iaborat illa preuidere et eis resistere. sed si virum 
+          <lb ed="#P" n="3"/>fortem quis subito stricto mucrone inuadit: non est 
+          <lb ed="#P" n="4"/>perterritus timore: vt aufugiat more meticulosi: sed 
+          <lb ed="#P" n="5"/>ex habitu suo stat fixus. et hoc vult Aristo. et sic 
+          ca<lb ed="#P" n="6" break="no"/>pimus in probatione. Martinus hic 
+          quadruplicem<lb ed="#P" n="7" break="no"/>acceptionem ponit de repentino: et impugnat 
+          san<lb ed="#P" n="8" break="no"/>ctum Thoma: et male: quia de membro in quo 
+          Mar<lb ed="#P" n="9" break="no"/>tinus eum impugnat nichil dicit. Martinus dicit 
+          <lb ed="#P" n="10"/>periculum posse esse repentinum quamtum ad actum 
+          <lb ed="#P" n="11"/>elicitum: vt cum occurrit nouum periculum et 
+          inopina<lb ed="#P" n="12" break="no"/>tum: fortis elicit nouum actum. et Martinus nititur 
+          pro<lb ed="#P" n="13" break="no"/>lixe probare quod sic: dicit contra Tho. beatus 
+          Tho<lb ed="#P" n="14" break="no"/>mas non loquitur de actu elicito verbum. sed. q. 
+          <lb ed="#P" n="15"/>cxxxiii. articulo nono / dicit. Nemo eligit 
+          pericu<lb ed="#P" n="16" break="no"/>lum: et hoc concedit Martinus: nec aliud dicit 
+          Tho<lb ed="#P" n="17" break="no"/>mas. de actu elicito non loquitur: non tamen negat 
+          <lb ed="#P" n="18"/>quin fortis ex habitu potest elicere nouum actum in 
+          <lb ed="#P" n="19"/>presentia inopinati periculi.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e1004">
+          ¶ Secundo dico: etiam 
+          <lb ed="#P" n="20"/>non oportet. non sequitur: occurrit nouum periculum. 
+          <lb ed="#P" n="21"/>ergo oportet ponere actum de nouo. Unde si multum 
+          <lb ed="#P" n="22"/>habituatus pugnet cum alio: licet alter feriat de no 
+          <lb ed="#P" n="23"/>uo manu sinistra: vel nouo vtatur instrumento et 
+          <lb ed="#P" n="24"/>inopinato: non oportet fortem nouum actum 
+          eli<lb ed="#P" n="25" break="no"/>cere ad hoc quod expectet: sicut multos actus sustinet 
+          <lb ed="#P" n="26"/>ex suo habitu: non semper continuando actum: 
+          <lb ed="#P" n="27"/>vt in solntione ad tertium dixi: obiiciendo contra 
+          <lb ed="#P" n="28"/>quintam conclusionem.
+        </p>
+        <p xml:id="jm3cbb-e52688-d1e1026">
+          ¶ Ex his / species vere 
+          fortitu<lb ed="#P" n="29" break="no"/>dinis deprehendere potes: quarum difficillimam 
+          <lb ed="#P" n="30"/>dico esse expectationem et receptionem: et 
+          potissi<lb ed="#P" n="31" break="no"/>mum repentinam et inopinatam. similiter vir fortis in 
+          <lb ed="#P" n="32"/>casu fugit: et si non fugeret peccaret et esset in 
+          ex<lb ed="#P" n="33" break="no"/>tremo vicioso: scilicet audacie: inuadere etiam est actus 
+          <lb ed="#P" n="34"/>forritudinis: sed potest esse vafra inuasio et 
+          timidita<lb ed="#P" n="35" break="no"/>tis vt virum inermen ferire armis: vel eum a tergo 
+          fe<lb ed="#P" n="36" break="no"/>rire. idem est precipere ei quod se seruet et eum 
+          percu<lb ed="#P" n="37" break="no"/>tere antequam se muniat: et eum percutere nichil ei 
+          dicem<lb ed="#P" n="38" break="no"/>do: qnia pmo ictu habito faciem conuerteret sicut nunc 
+          <lb ed="#P" n="39"/>ouertit post denunciationem verbalem. de 
+          comparatio<lb ed="#P" n="40" break="no"/>ne specierum fortitudinis penes excessum in 
+          nobi<lb ed="#P" n="41" break="no"/>litate vix potest dari vna regula: sed indiuidua 
+          <lb ed="#P" n="42"/>actuum consideranda sunt. si cui placent nobilitatem 
+          <lb ed="#P" n="43"/>venari ex parte obiecti in se comparando optimum 
+          <lb ed="#P" n="44"/>optimo et determinare a genere: vt de furto et 
+          lu<lb ed="#P" n="45" break="no"/>xu: hunc non impedio. sed amplius in hac questione 
+          <lb ed="#P" n="46"/>immorari nolo. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

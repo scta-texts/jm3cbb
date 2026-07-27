@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 9</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 9</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="82-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e50113"><!-- l3d33q9 -->
+        <head xml:id="jm3cbb-e50113-Hd1e99">Quaestio 9</head>
+        <head xml:id="jm3cbb-e50113-Hd1e101" type="question-title">Utrum prudentia sit in intellectu practico an
+    speculativo, et per quid praxis a speculatione secernitur</head>
+        <p xml:id="jm3cbb-e50113-d1e104">
+          <lb ed="#P" n="78"/>¶ Questio <sic>nona</sic>. 
+          <lb ed="#P" n="79"/>OCtauo circa 
+          pruden<lb ed="#P" n="80" break="no"/>tiam queritur: an ipsa sit in 
+          in<lb ed="#P" n="81" break="no"/>tellectu practico vel 
+          speculati<lb ed="#P" n="82" break="no"/>uo: et per quid praxis a 
+          specu<lb ed="#P" n="83" break="no"/>latione secernitur. de hac 
+          que<lb ed="#P" n="84" break="no"/>stione viri plurimi discrepant. 
+          <lb ed="#P" n="85"/>aliqui dicunt solum actum 
+          vo<lb ed="#P" n="86" break="no"/>luntatis esse praxim. alii autem 
+          <lb ed="#P" n="87"/>omnem actum siue voluntatis siue alterius 
+          poten<lb ed="#P" n="88" break="no"/>tie nostra in potestate: praxim nuncupant. aliqui 
+          <lb ed="#P" n="89"/>pro inconueniente habent quod conclusio practica a 
+          <lb ed="#P" n="90"/>speculat iua aliquo modo deducatur: et solum actum 
+          <lb ed="#P" n="91"/>bonum praxim ponunt: et noticiam illius actus 
+          di<lb ed="#P" n="92" break="no"/>rectiuam praxim ponunt. communiter tamen 
+          om<lb ed="#P" n="93" break="no"/>nes tenent pro constanti / quod nulla noticia 
+          practi<lb ed="#P" n="94" break="no"/>ca est speculatiua. licet in aliquibus in his positio 
+          <lb ed="#P" n="95"/>nibus de nomine certetur: dicam que michi 
+          vide<lb ed="#P" n="96" break="no"/>buntur conformius dicenda ad mentem Aristote 
+          <lb ed="#P" n="97"/>lis. et modum hominum loquendi: primo praxim 
+          <lb ed="#P" n="98"/>et speculationem diffiniendo: a qua noticia 
+          dici<lb ed="#P" n="99" break="no"/>tur speculatiua vel practica.
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e156">
+          ¶ Praxis sic 
+          diffini<lb ed="#P" n="100" break="no"/>tur. praxis est actus alterius potentie ab 
+          intelle<lb ed="#P" n="101" break="no"/>ctu natus ab intellectus actu dirigi. vel sic: 
+          Pra<lb ed="#P" n="102" break="no"/>xis est actus elicitus voluntatis vel ab ea 
+          impera<lb ed="#P" n="103" break="no"/>tus. Ex isto patet: quod nullus actus intellectus est 
+          pra<lb ed="#P" n="104" break="no"/>xis. et patethoc correlarium: et diffinitio praxis. 
+          <lb ed="#P" n="105"/>sola illa operatio dicitur praxis ad quam intelle 
+          <lb ed="#P" n="106"/>ctus se extendendo sit practicus. sed intellectus non 
+          <lb ed="#P" n="107"/>extenditur ad aliquam eius operationem. igitur. 
+          <lb ed="#P" n="108"/>consequentia tenet cum minore: maior patet 
+          per<lb ed="#P" n="109" break="no"/>philosophum tertio de anima dicentem: 
+          intelle<lb ed="#P" n="110" break="no"/>ctus sola extensione fit practicus. modo 
+          extende<lb ed="#P" n="111" break="no"/>re est extra se tendere. ergo noticia vocatur 
+          practi<lb ed="#P" n="112" break="no"/>ca: quia extra se tendit. hoc correlarium cum 
+          diffi<lb ed="#P" n="113" break="no"/>nitione praxis patet: hac via saluatur ne logica sit 
+          <lb ed="#P" n="114"/>practica: et scientie rationales. et quod scientie 
+          repu<lb ed="#P" n="115" break="no"/>tate practice / maneant practice: tertio diffinitio 
+          <lb ed="#P" n="116"/>praxis cum correlario bene ponuntur. Ex isto sequiturquod 
+          <lb ed="#P" n="117"/>hec coneia est nulla. hic actus estim patante niaeluirisibi 
+          <pb ed="#P" n="82-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>lis ab actu intellectus. ergo est praxis. patet de actu 
+          <lb ed="#P" n="2"/>intellectus qui est in potestate nostra. et etiam vnus 
+          <lb ed="#P" n="3"/>actus intellectus dirigitur ab alio.
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e208">
+          ¶ Speculatio 
+          <lb ed="#P" n="4"/>est actus intellectus non tendens vltra intellectum 
+          <lb ed="#P" n="5"/>ii. methaphisice dicit philosophus: theorice finis 
+          <lb ed="#P" n="6"/>est veritas: practice vero noticia vocatur 
+          practica<lb ed="#P" n="7" break="no"/>quia est praxis regulatiua: alia noticia iudicatiua 
+          <lb ed="#P" n="8"/>vocatur speculatiua: vel sic clarius: noticia 
+          voca<lb ed="#P" n="9" break="no"/>tur practica: quia est iudicium circa aliquid extra in 
+          <lb ed="#P" n="10"/>tellectum faciendum vel omittendum.
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e227">
+          ¶ His notatis 
+          <lb ed="#P" n="11"/>pono septem conclusiones. Quarum prima est: sola 
+          noti<lb ed="#P" n="12" break="no"/>cia iudicatiua vocatur practica et speculatiua. 
+          Se<lb ed="#P" n="13" break="no"/>cunda conclusio: noticia iudicatiua vocatur 
+          practi<lb ed="#P" n="14" break="no"/>ca: quia est directiua praxis. Tertia conclusio: queli 
+          <lb ed="#P" n="15"/>bet noticia iudicatiua non regulatiua praxis / est 
+          <lb ed="#P" n="16"/>speculatiua. Quarta conclusio: aliqua noticia est 
+          <lb ed="#P" n="17"/>speculatiua practica. sed nulla simplex vnius 
+          pro<lb ed="#P" n="18" break="no"/>positionis est practica speculatiua simul. QQuinta 
+          <lb ed="#P" n="19"/>conclusio: sicut aliqua noticia practica est vera: 
+          ali<lb ed="#P" n="20" break="no"/>qua falsa: ita aliqua praxis est mala: aliqua vero 
+          bo<lb ed="#P" n="21" break="no"/>na. Sexta conclusio: noticia practica potest 
+          dedu<lb ed="#P" n="22" break="no"/>ci ex noticiis non practicis: et noticia speculatiua 
+          <lb ed="#P" n="23"/>ex noticia practica. Septima conclusio: aliqua est 
+          <lb ed="#P" n="24"/>scientia totalis practica: cuius multe sunt 
+          conclu<lb ed="#P" n="25" break="no"/>siones speculatiue.
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e262">
+          ¶ Prima conclusio probatur: si 
+          <lb ed="#P" n="26"/>noticia apprehensiua non iudicatiua diceretur 
+          pra<lb ed="#P" n="27" break="no"/>xis: tunc eadem noticia esset practica et speculatiua: 
+          <lb ed="#P" n="28"/>que non haberet obiectum practicum et 
+          speculati<lb ed="#P" n="29" break="no"/>uum.
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e273">
+          ¶ Secunda conclusio probatur: aliqua ratio 
+          <lb ed="#P" n="30"/>ne noticia vocatur practica: et non videtur alia ratio 
+          <lb ed="#P" n="31"/>danda quare dicatur practica.
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e280">
+          ¶ Tertia conclusio 
+          <lb ed="#P" n="32"/>patet: quelibet noticia simplex vel est de 
+          proposi<lb ed="#P" n="33" break="no"/>tione dictante de praxi: vel non. si primum: est no 
+          <lb ed="#P" n="34"/>ticia practica: si secundum: est noticia speculatiua. 
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e289">
+          <lb ed="#P" n="35"/>¶ Quarta conclusio probatur quo ad eius priorem 
+          <lb ed="#P" n="36"/>partem: dari potest vna propositio composita ex 
+          <lb ed="#P" n="37"/>dictamine practico et speculatiuo: vt pote: deus est 
+          <lb ed="#P" n="38"/>diligendust deus est terminus et vnus. illius 
+          co<lb ed="#P" n="39" break="no"/>pulatiue dantur duo iudicia / quorum vnum est 
+          no<lb ed="#P" n="40" break="no"/>ticia practica / aliud noticia speculatiua: ista duo 
+          iu<lb ed="#P" n="41" break="no"/>dicia possunt cum intellectu et voluntate causare 
+          <lb ed="#P" n="42"/>vnum tertium assensum distinctum ab illis duobus: 
+          <lb ed="#P" n="43"/>sicut superius diximus in hac distinctione 
+          questio<lb ed="#P" n="44" break="no"/>nequinta: et ille tertius assensus er it simul 
+          practi<lb ed="#P" n="45" break="no"/>cus et speculatiuus. patet: tum primo: equiualet 
+          <lb ed="#P" n="46"/>duabus noticiis: quarum altera est speculatiua: 
+          al<lb ed="#P" n="47" break="no"/>tera vero practica. tum secundo: ille tertius assensus 
+          <lb ed="#P" n="48"/>habet dictamen practicum et speculatiuum pro 
+          obie<lb ed="#P" n="49" break="no"/>cto. igitur. Secunda pars eiusdem conclusionis patet. 
+          <lb ed="#P" n="50"/>vel propositio ipsa quae est obiectum praxis importat 
+          for<lb ed="#P" n="51" break="no"/>maliter praxim: vt deus est diligendus: bene viuen 
+          <lb ed="#P" n="52"/>dum est: vel non importat. si primum: noticia eius est 
+          <lb ed="#P" n="53"/>solum practica. si secundum: noticia eius est 
+          speculati<lb ed="#P" n="54" break="no"/>ua.
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e335">
+          ¶ Quinta conclusio patet quo ad omnes eius 
+          <lb ed="#P" n="55"/>partes simul: volo male agere: nolo male agere: qui 
+          <lb ed="#P" n="56"/>libet istorum duorum actuum est praxis: et noticia 
+          <lb ed="#P" n="57"/>vtriusque regulatum est practica. dilectio sortis est 
+          pra<lb ed="#P" n="58" break="no"/>xis: et iudicium quo iudicatur sortes est diligendus est 
+          <lb ed="#P" n="59"/>noticia practica practica. et si deus prohiberet 
+          pla<lb ed="#P" n="60" break="no"/>toni diligerur sortem: adhuc iudicium quo iudicatur quod sor¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tes est diligendus est noticia practica: et tamen est falsa. et antede 
+          <lb ed="#P" n="62"/>prohibitionem erat iudicium verum: quia propositionis 
+          <lb ed="#P" n="63"/>vere: et tamen numquam secundum eos iudicium quod est 
+          practi<lb ed="#P" n="64" break="no"/>cum / speculatiuum efficitur: vel contra.
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e362">
+          ¶ Sexta 
+          con<lb ed="#P" n="65" break="no"/>clusio probatur: noticia huius conclusionis est 
+          practi<lb ed="#P" n="66" break="no"/>ca / deus est summe diligendus: et tamen deducitur ex 
+          dua<lb ed="#P" n="67" break="no"/>bus propositionibus: quarum altera est practica: alte 
+          <lb ed="#P" n="68"/>ra vero speculatiua. igitur consequentia tenet cum maio 
+          <lb ed="#P" n="69"/>re. probatur minor per hanc deductionem: omne summe 
+          <lb ed="#P" n="70"/>bonum est summe diligendum: deus est summe bonus: 
+          <lb ed="#P" n="71"/>ergo deus est suinme diligendus. minor istius discursus 
+          <lb ed="#P" n="72"/>est speculatiua. patet. non dictat formaliteret expresse 
+          <lb ed="#P" n="73"/>de aliquo agendo vel fugiendo: ergo non est practica. te 
+          <lb ed="#P" n="74"/>net consequaentia: quia hoc ad noticiam practicam requiritur. 
+          <lb ed="#P" n="75"/>forte dices: remote dirigit et virtualiter: cum dicat 
+          <lb ed="#P" n="76"/>deus est summe bonus. Contra hoc arguitur: illa via 
+          tos<lb ed="#P" n="77" break="no"/>litur omnis noticia speculatiua: si sufficiat positio vnius 
+          <lb ed="#P" n="78"/>termini in propositione quae aliquem aditum dat ad 
+          pra<lb ed="#P" n="79" break="no"/>xim. alia pars patet. capiendo conclusionem speculatiuam 
+          <lb ed="#P" n="80"/>deducendo eam ex maiore speculatiua et minore 
+          pra<lb ed="#P" n="81" break="no"/>ctica in prima figura.
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e401">
+          ¶ Sexta conclusio patet. tota 
+          <lb ed="#P" n="82"/>moralis scientia est practica: secundum 
+          Aristote<lb ed="#P" n="83" break="no"/>lem secundo etichorum. moralis philosophia non est 
+          con<lb ed="#P" n="84" break="no"/>templationis gatia. non enim vt sciamus quid est 
+          vir<lb ed="#P" n="85" break="no"/>tus scrutamur: sed vt boni efficiamur. et. viii. de 
+          ci<lb ed="#P" n="86" break="no"/>uitate dei dicit augustinus: quod plato commendatur: quia 
+          <lb ed="#P" n="87"/>omnem philosophiam diuisit in tres partes: scilicet in 
+          con<lb ed="#P" n="88" break="no"/>templatiuam quam naturalem vocant: in actiuam: quae ad 
+          <lb ed="#P" n="89"/>mores instruendos attinet: in rationalem / quae verum 
+          <lb ed="#P" n="90"/>a falso discernit. Ex hoc patet platonem et augustinum 
+          <lb ed="#P" n="91"/>dicere velle moralem philosophiam actiuam et 
+          practi<lb ed="#P" n="92" break="no"/>cam. tunc sic: tota moralis philosophia est 
+          practi<lb ed="#P" n="93" break="no"/>ca: et tamen ipsa continet multas noticias 
+          speculati<lb ed="#P" n="94" break="no"/>uas: vt pote: virtus mediat inter duo extrema: in 
+          <lb ed="#P" n="95"/>hoc dictamine nichil ad operationem ponitur: 
+          qua<lb ed="#P" n="96" break="no"/>re ipsa est pure speculatiua: et eius noticia specula 
+          <lb ed="#P" n="97"/>tiua. sed cum principaliter moralis philosophia 
+          <lb ed="#P" n="98"/>ad opus dirigit: tota est practica: et a 
+          principalio<lb ed="#P" n="99" break="no"/>re parte totam denominationem capit. Ex his 
+          conclu<lb ed="#P" n="100" break="no"/>sionibus patet quod prudentia est practica. Ex his 
+          liquae<lb ed="#P" n="101" break="no"/>re arbitror quomodo prudentia est in intellectu 
+          practi<lb ed="#P" n="102" break="no"/>coet actiuo: nulla noticia que est logica est 
+          practi<lb ed="#P" n="103" break="no"/>ca: licet dictat vna propositio logica quomodo procedendum 
+          <lb ed="#P" n="104"/>est in alia. licet bene vocamus quacunque 
+          proposi<lb ed="#P" n="105" break="no"/>tione in qua ponitur aliquod operandum est 
+          dicta<lb ed="#P" n="106" break="no"/>men prudentiale: vt sillogisandum est in barbara 
+          <lb ed="#P" n="107"/>ex vniuersalibus affirmatiuis. sic in proposito non 
+          <lb ed="#P" n="108"/>capio. sed triuiales scientias omnes speculatiuas 
+          <lb ed="#P" n="109"/>appello cum phisica / et mathematicis moralem 
+          <lb ed="#P" n="110"/>philosophiam et prudentiam noticias practicas. 
+        </p>
+        <p xml:id="jm3cbb-e50113-d1e466">
+          <lb ed="#P" n="111"/>¶ Dubitatur finaliter circa hanc materiam 
+          pru<lb ed="#P" n="112" break="no"/>dentie: an malus habeat prudentiam. 
+          Responde<lb ed="#P" n="113" break="no"/>tur. aliq uid est hic certum / quod malus potest habere 
+          <lb ed="#P" n="114"/>rectum iudicium in intellectu de agibilibus. sed 
+          an<lb ed="#P" n="115" break="no"/>debeat dici prudentia si male vtatur: est ad 
+          nomen<lb ed="#P" n="116" break="no"/>certare: non solemus vocare viciosos viros qui 
+          <lb ed="#P" n="117"/>aliis bene consulunt et aliis bene verbo predicant) 
+          pri<lb ed="#P" n="118" break="no"/>dentes. sed ingeniosos stultos et huiusmodi. et inue 
+          <lb ed="#P" n="119"/>nio Aristotelem ita loquentem. patet. vi. ethicorum: 
+          <lb ed="#P" n="120"/>duodecimo: in fine. sic dicit in noua translatione: 
+          <pb ed="#P" n="83-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>neque absque virtute sicut diximus: atque constat: 
+          ra<lb ed="#P" n="2" break="no"/>tiocinationes enim agendarum rerum principium hanent: 
+          <lb ed="#P" n="3"/>cum talis sit ipse finis: et ipsum optimum: quicquid tam 
+          <lb ed="#P" n="4"/>dem sit illud. sit enim (verbi gratria quicquid contige 
+          <lb ed="#P" n="5"/>rit: hoc autem non nisi bono viro videtur. 
+          pra<lb ed="#P" n="6" break="no"/>uitas enim peruertit facitque vt circa principia 
+          re<lb ed="#P" n="7" break="no"/>rum agendarum homo fallatur. quare patet 
+          pruden<lb ed="#P" n="8" break="no"/>tem neminem esse posse: nisi sit bonus. et preterea in 
+          <lb ed="#P" n="9"/>xiii. capite sexti tenet alias virtutes non posse 
+          ge<lb ed="#P" n="10" break="no"/>nerari sine prudentia. postquam philoso phus et vulga 
+          <lb ed="#P" n="11"/>res ita loquuntur: sic dicendum est. et intelligo dictum 
+          <lb ed="#P" n="12"/>philosophi non de quacumque malicia: non de veniali: 
+          <lb ed="#P" n="13"/>vel de peccaton raro mortali potissimum occulto: in quo 
+          <lb ed="#P" n="14"/>homo non diu persistit. alioquin: si requireretur omnis 
+          <lb ed="#P" n="15"/>malicie venialis et mortalis immanitas: nullus in 
+          <lb ed="#P" n="16"/>hac mortali vita diceretur prudens. ergo sic( vti 
+          dixi<lb ed="#P" n="17" break="no"/>mus) intelligendus est philosophus. et hec de 
+          pruden<lb ed="#P" n="18" break="no"/>tia pro nunc dixisse sufficiat. de eius connexione cum cete 
+          <lb ed="#P" n="19"/>ris virtutibus post hac in di. xxxvi. mentom habinturi sumus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

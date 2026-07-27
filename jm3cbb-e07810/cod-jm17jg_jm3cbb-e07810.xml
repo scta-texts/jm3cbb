@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="13-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e07810"><!-- l3d3q3 -->
+        <head xml:id="jm3cbb-e07810-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e07810-Hd1e101" type="question-title">An Christus fuit decimatus in Abraham sicut et Levi</head>
+        <p xml:id="jm3cbb-e07810-d1e104">
+          <lb ed="#P" n="41"/>Quia magister in 
+          <lb ed="#P" n="42"/>tertio ca. huius distinctionis 
+          <lb ed="#P" n="43"/>dicit quod Leui fuit decimatus / in 
+          <lb ed="#P" n="44"/>Abraham: et non christus. 
+          Iu<lb ed="#P" n="45" break="no"/>xta hoc queritur: an christus 
+          <lb ed="#P" n="46"/>fuit decimatus in Abraham sicut 
+          <lb ed="#P" n="47"/>Cet leui. Respondetur questio 
+          <lb ed="#P" n="48"/>non est difficilis. propterea eam paucissimis 
+          ample<lb ed="#P" n="49" break="no"/>cti propono: ponendo duas conclusiones.
+        </p>
+        <p xml:id="jm3cbb-e07810-d1e126">
+          ¶ 
+          Qua<lb ed="#P" n="50" break="no"/>rum prior est. christus non fuit decimatus / in 
+          Abra<lb ed="#P" n="51" break="no"/>ham: pro batio: aliquem decimari in abraham 
+          ni<lb ed="#P" n="52" break="no"/>chil aliud est quam Abraham pro illo ratione 
+          imper<lb ed="#P" n="53" break="no"/>fectionis soluere decimam quotam 
+          melchisedech<lb ed="#P" n="54" break="no"/>sacerdoti qui christum representat: sed nihil 
+          imper<lb ed="#P" n="55" break="no"/>fectionis habuit christus in Abraham: ergo 
+          chri<lb ed="#P" n="56" break="no"/>stus non fuit decimatus in Abraham. patet hec 
+          con<lb ed="#P" n="57" break="no"/>clusio ad hebreos. vii. vbi apostolus prefert 
+          sa<lb ed="#P" n="58" break="no"/>cerdotium christi sacerdotio) Aaron / per hoc quod 
+          he<lb ed="#P" n="59" break="no"/>ui( de cuius stirpe descendit Aaron ) fuit decima 
+          <lb ed="#P" n="60"/>tus in Abraham: christus autem non. Eadem 
+          con<lb ed="#P" n="61" break="no"/>
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>clusio patet auctoritate Augu. x. super Sene 
+          dicemn<lb ed="#P" n="63" break="no"/>tis christum non fuisse decimatum in lumbis Abrahe¬ 
+        </p>
+        <p xml:id="jm3cbb-e07810-d1e161">
+          <lb ed="#P" n="64"/>¶ Secunda conclusio: Leui fuit decimatus / in 
+          Abra<lb ed="#P" n="65" break="no"/>ha. hec conclusio patet ad Hebreos. vii. per 
+          Abraham<lb ed="#P" n="66" break="no"/>et L eui qui decimas accepit decimants est ad huc 
+          <lb ed="#P" n="67"/>in lumbis patris erat quando obuiauit ei 
+          melchsse<lb ed="#P" n="68" break="no"/>dech: hoc est erat adhiic in sua causa: hoc est esse 
+          <lb ed="#P" n="69"/>in lumbis in proposito. Etramque conclusio patet 
+          fi<lb ed="#P" n="70" break="no"/>guraliter: numerus denarius est numerorum limes 
+          <lb ed="#P" n="71"/>propterea dicit Aristo. in probleumatibus omnes 
+          re<lb ed="#P" n="72" break="no"/>plicant super decem. demptis tracensibus: propter 
+          tar<lb ed="#P" n="73" break="no"/>ditatem memorie. ante denarium replicant. et cum 
+          <lb ed="#P" n="74"/>denarius sic perfectionem importat: Abraham de 
+          <lb ed="#P" n="75"/>cimam quotam ipsi melchisedech in figura 
+          christi<lb ed="#P" n="76" break="no"/>obtulit: reseruans sibi et his qui secundum rationem semina 
+          <lb ed="#P" n="77"/>lem ab eo descendunt partem nouemnariam que 
+          inper<lb ed="#P" n="78" break="no"/>fectionem respectu denarii importat.
+        </p>
+        <p xml:id="jm3cbb-e07810-d1e197">
+          ¶ Contra ista 
+          <lb ed="#P" n="79"/>arguitur sic. beata vrgo fuit decimata in Abraham: 
+          er<lb ed="#P" n="80" break="no"/>go et christus. Secundo arguitur: leui accepit de 
+          <lb ed="#P" n="81"/>cimas a fratribus suis: et dare decimas est acius 
+          <lb ed="#P" n="82"/>personalis: ergo leui non fuit decimatus in 
+          Abra<lb ed="#P" n="83" break="no"/>ham.
+        </p>
+        <p xml:id="jm3cbb-e07810-d1e210">
+          ¶ Ad primum: concedo antecedens ipsa erat 
+          <lb ed="#P" n="84"/>concepta secundum rationem seminalem: hoc est per 
+          pro<lb ed="#P" n="85" break="no"/>pagationem seminum more ceterorum virorum et mulie 
+          <lb ed="#P" n="86"/>rum. Secundum argumentum non capit recte 
+          ter<lb ed="#P" n="87" break="no"/>minum: vt patuit ex priori conclusionis explicatione
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

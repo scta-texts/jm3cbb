@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 37</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 37</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="150-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e91583"><!-- l3d37q37 -->
+        <head xml:id="jm3cbb-e91583-Hd1e99">Quaestio 37</head>
+        <head xml:id="jm3cbb-e91583-Hd1e101" type="question-title">An decimae sunt solvendae de iure divino an humano</head>
+        <p xml:id="jm3cbb-e91583-d1e104">
+          <lb ed="#P" n="17"/>CUm hanc materiam 
+          <lb ed="#P" n="18"/>decimarum vtcumque percurrerim 
+          <lb ed="#P" n="19"/>de disputatione illa inter 
+          theo<lb ed="#P" n="20" break="no"/>logos et canonistas an decime 
+          <lb ed="#P" n="21"/>sunt soluende de iure dino vel 
+          hu<lb ed="#P" n="22" break="no"/>mano: postea incidit in manus 
+          <lb ed="#P" n="23"/>tractatulus cuiusdam canoniste 
+          pe<lb ed="#P" n="24" break="no"/>tri rauennatis in quo coae vnum theologum disputat: ne 
+          <lb ed="#P" n="25"/>scio de qua theologo loquatur. Uideo ntros tenere de 
+          <lb ed="#P" n="26"/>cimas soluendas solo iure humano post sufficientem 
+          <lb ed="#P" n="27"/>promulgationem euangelii: et rationabilitr quidem: et 
+          <lb ed="#P" n="28"/>hoc opinione mea in ista questione osedi. Sed dicta 
+          <lb ed="#P" n="29"/>istius petri paucis ( quae ad propositum faciunt) 
+          perstrin<lb ed="#P" n="30" break="no"/>gam. vult ipse sicut sui communter) quod quota decimarum est 
+          <lb ed="#P" n="31"/>soluenda iure diuino. Secundo dicit quod theologus / ille 
+          <lb ed="#P" n="32"/>contra quem scribit submittit tractatulum suum 
+          sedisapo<lb ed="#P" n="33" break="no"/>stolice correctioni et eorum quorum interest errantes 
+          ca<lb ed="#P" n="34" break="no"/>stigare: et sic ego hanc questionem sicut nostra alia / 
+          <lb ed="#P" n="35"/>vt ratio expostulat. Infert iste quod officium canonistarum 
+          <lb ed="#P" n="36"/>est corrigere errantes in materia decimarum: nec est opus 
+          <lb ed="#P" n="37"/>ire ad sedem apostolicam: quia ipsa iam determinauit. 
+          ca<lb ed="#P" n="38" break="no"/>noniste ergo habent corrigere illos qui nolunt sano modo 
+          <lb ed="#P" n="39"/>intelligere determinationem ecclesie.
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e156">
+          ¶ Adducit 
+          <lb ed="#P" n="40"/>anthonium de bu. in. c. tua. de deci. dicentem quod in his 
+          <lb ed="#P" n="41"/>que attinent ad praecepta diuina standum est potius 
+          decla<lb ed="#P" n="42" break="no"/>rationi canonistarum quam theologorum: quorum est 
+          conueni<lb ed="#P" n="43" break="no"/>entius scripturas sacras intrpretari.
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e167">
+          ¶ Dicere 
+          cano<lb ed="#P" n="44" break="no"/>nistam debere theologum in iure diuino castigare: et 
+          <lb ed="#P" n="45"/>melius posse ius diuinum interpretari quam theologum: 
+          <lb ed="#P" n="46"/>est idem ac si diceres: fabrum / calcificem in arte 
+          calcifi<lb ed="#P" n="47" break="no"/>cis posse erudire. quod medicorum est promittunt 
+          medici<lb ed="#P" n="48" break="no"/>tractant fabrilia fabri. cuilibet perito in sua arte 
+          cre<lb ed="#P" n="49" break="no"/>dendum est pauca iuris diuini comperatiue in scriptis 
+          ma<lb ed="#P" n="50" break="no"/>ximorum potetificum discussa habes. et de illis 
+          funda<lb ed="#P" n="51" break="no"/>mentum theologus habet: et ad suam professionem attinet. 
+          <lb ed="#P" n="52"/>adde: theologus est nemo bene institutus / vel in 
+          fa<lb ed="#P" n="53" break="no"/>mata vniuersitate graduatus / qui non sit apprime 
+          <lb ed="#P" n="54"/>in vtraque phoiia eruditus: alioquim a gradu prohiberetur. 
+          <lb ed="#P" n="55"/>relictis auctoribusuris pontificii quos pro se in 
+          me<lb ed="#P" n="56" break="no"/>dium citat) qui in hac materia testimonium non afferunt. 
+          <lb ed="#P" n="57"/>Ego humane vt decet illos superius excusandos 
+          <lb ed="#P" n="58"/>asserui: et danda est professioni eorum venia: cum 
+          ver<lb ed="#P" n="59" break="no"/>ba pontificia multum prose expressa habent: sed 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>non eius sententiam: nec ad eos et ad eorum artem 
+          <lb ed="#P" n="61"/>attinet super hoc amplius rimari: consultius tamen 
+          <lb ed="#P" n="62"/>agerent si theologis in hac materia fidem 
+          presta<lb ed="#P" n="63" break="no"/>rent: vt de fabro et calcifice superius recitauimus. 
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e216">
+          <lb ed="#P" n="64"/>¶ Primo dicit ita: quod domini de rota 
+          determina<lb ed="#P" n="65" break="no"/>runt quod quota denaria est de iure diuino hodierno 
+          <lb ed="#P" n="66"/>die.
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e225">
+          ¶ Respondeo: si sint theologi et in iure et in 
+          <lb ed="#P" n="67"/>theol ogia mixti: non credo asserenti. si sint pure 
+          <lb ed="#P" n="68"/>canoniste: iam responsum est. ego citius dico non 
+          <lb ed="#P" n="69"/>credendum huic viro quam temere iudicare de 
+          congres<lb ed="#P" n="70" break="no"/>su doctorum virorum.
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e236">
+          ¶ Secundo adducit dictum 
+          <lb ed="#P" n="71"/>gregorii in capi. quadragesima. de consecratione 
+          <lb ed="#P" n="72"/>distinctione. v. vbi in fine illius capitis habetur. 
+          <lb ed="#P" n="73"/>Iubemur autem et ab omnipotenti deo omnium 
+          <lb ed="#P" n="74"/>bonorum nostrorum decimas dare: dicit hunc tex 
+          <lb ed="#P" n="75"/>tum esse ineuitabilem pro verissima canonistarum 
+          <lb ed="#P" n="76"/>opinione. recitat aliquas solutiones illius 
+          theolo<lb ed="#P" n="77" break="no"/>gi quas dicit glosas violentas contra iura: adeo quod 
+          <lb ed="#P" n="78"/>si scirent loqui facerent ipsum citare in ius pro 
+          satis<lb ed="#P" n="79" break="no"/>factione violentie.
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e258">
+          ¶ Dico quod iste non capit 
+          inten<lb ed="#P" n="80" break="no"/>tionem illius capituli. Beatus Gregorius 
+          inten<lb ed="#P" n="81" break="no"/>dit in illo capite quod quadragesima est ieiunanda. 
+          <lb ed="#P" n="82"/>xxxvi. dies que faciunt sex ebdomadas integras 
+          <lb ed="#P" n="83"/>sunt decima pars anni: sunt ieiunande. et 
+          iubemur<lb ed="#P" n="84" break="no"/>ab omnipotenti deo dare decimam. non puto 
+          ieiu<lb ed="#P" n="85" break="no"/>nium quadragesimale esse de iure diuino. et ista 
+          <lb ed="#P" n="86"/>duo eodem iure obligant: quia tunc erat 
+          consuetu<lb ed="#P" n="87" break="no"/>do in diebus gregorianis soluere decimam et 
+          be<lb ed="#P" n="88" break="no"/>ne moralizauit suo more ad decimam partem 
+          an<lb ed="#P" n="89" break="no"/>ni ieiunabilem: et iubemur iure diuino parere 
+          su<lb ed="#P" n="90" break="no"/>perioribus nostris precipientibus solutionem de 
+          <lb ed="#P" n="91"/>cimarum et ieiu nium quadragesime: sicut superius 
+          <lb ed="#P" n="92"/>recitauimus ex Luce. x. pontifices vt ostenderent 
+          <lb ed="#P" n="93"/>quotam decimarum non onerosam introduxerunt 
+          <lb ed="#P" n="94"/>ius diuinum moysaicum ad hoc: non quod ius diuinum 
+          <lb ed="#P" n="95"/>moysaicum in diebus gregorii erat de precepto: 
+          <lb ed="#P" n="96"/>sed erat manuductio quod ratiabilis est illa quita sicut 
+          pas<lb ed="#P" n="97" break="no"/>chalis secundus ostendit quod clerici de dote ecclesie 
+          <lb ed="#P" n="98"/>non tenentur dare decimas: dicit quod nunquam hoc 
+          <lb ed="#P" n="99"/>auditum est in lege moysaica: patet de decimis caps. 
+          <lb ed="#P" n="100"/>nouum. vbi inquit pontifex: Nouum genus exac 
+          <lb ed="#P" n="101"/>tionis est vt clerici a clericis decimas exigant cum 
+          <lb ed="#P" n="102"/>nusquam in lege domini hoc legamus. non enim leuite 
+          <lb ed="#P" n="103"/>a leuitis decimas accepisse leguntur. Illi 
+          profec<lb ed="#P" n="104" break="no"/>to clerici qui a clericis spiritualium ministeriorum 
+          <lb ed="#P" n="105"/>labores accipiunt: decimas eis debent: vbi dicit 
+          ar<lb ed="#P" n="106" break="no"/>chidiaconum ad hoc introducere vetus 
+          testamen<lb ed="#P" n="107" break="no"/>tum exponendo capitulum quadragefima: hoc 
+          so<lb ed="#P" n="108" break="no"/>lum arguit ignorantiam archidiaconi: et non 
+          testi<lb ed="#P" n="109" break="no"/>monium ponderandum. nec mirabere canonista 
+          <lb ed="#P" n="110"/>quod demus glosas que tibi( solas cortices verborum 
+          <lb ed="#P" n="111"/>romani pontisicis ponderanti) videbuntur extra 
+          <lb ed="#P" n="112"/>nee: cum efficaciter constat quod iudicialia 
+          moysai<lb ed="#P" n="113" break="no"/>ca nunc non sunt de iure diuino. oportet 
+          expone<lb ed="#P" n="114" break="no"/>re dicta pontificum: et tenere ius diuinum 
+          slliba<lb ed="#P" n="115" break="no"/>tum e incontaminatum. 
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e339">
+          <lb ed="#P" n="116"/>¶ Argumentatur vlterius: ministri noui 
+          testamen<lb ed="#P" n="117" break="no"/>ti sunt maioris auctoritatis quam ministri veteris vt 
+          <lb ed="#P" n="118"/>probat apostolus secunde ad Corinthios. iii. ergo 
+          <lb ed="#P" n="119"/>preceptum de quota decime non est abrogabile per 
+          <pb ed="#P" n="151-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>consuetudinem contrariam. cum olim non erat 
+          abro<lb ed="#P" n="2" break="no"/>gabile. vtpote in lege moysaica.
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e359">
+          ¶ Alterius dicit 
+          <lb ed="#P" n="3"/>se probaturum quod lex humana non est abrogabilis 
+          <lb ed="#P" n="4"/>per contrariam consuetudinem in quodam 
+          opus<lb ed="#P" n="5" break="no"/>culo suo: in quo dicit se probaturum quod populi 
+          ciui<lb ed="#P" n="6" break="no"/>tatum possunt condere statutum inabrogabile. 
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e371">
+          <lb ed="#P" n="7"/>¶ Ad setundum argumentum sufficienter 
+          respon<lb ed="#P" n="8" break="no"/>sum est.
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e378">
+          ¶ Adtertium: ipsum peccat in materia et in 
+          <lb ed="#P" n="9"/>forma. quando ita esset sicut dicit se probaturum / quod 
+          <lb ed="#P" n="10"/>aliqua lex humana est inabrogabilis: ipse non habet 
+          <lb ed="#P" n="11"/>propositum quod soluere quotam denariam sit de iure 
+          <lb ed="#P" n="12"/>diuimo in lege noua.
+        </p>
+        <p xml:id="jm3cbb-e91583-d1e389">
+          ¶ Secundo: assumit aliquid probandum 
+          <lb ed="#P" n="13"/>quod non probabit hoc anno. par in parem ne habet imperium. 
+          <lb ed="#P" n="14"/>populus sequens potest reuocare statutum: ymo si 
+          <lb ed="#P" n="15"/>iureiurando esset sancitum: vt dicit abbas in capris. 
+          <lb ed="#P" n="16"/>dilecto. de preben. et glosa in caps. in his. vndecina 
+          <lb ed="#P" n="17"/>distinctione. sed quicquid sit de illo: si non posset / hoc 
+          <lb ed="#P" n="18"/>esset quia est contra ius diuinum nisi rationabilis 
+          <lb ed="#P" n="19"/>causa occurreret. Non respondeo ad alia que 
+          indu<lb ed="#P" n="20" break="no"/>cit: quia nullius sunt momenti. laudo tamen virum: eo quod 
+          la<lb ed="#P" n="21" break="no"/>boriose processit: et (vt reor) bono animo / pro 
+          defensio<lb ed="#P" n="22" break="no"/>ne suorum et veritatis vt existimat. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="118-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e72443"><!-- l3d37q3 -->
+        <head xml:id="jm3cbb-e72443-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e72443-Hd1e101" type="question-title">Per quid differant hae tres leges, scilicet naturalis, divina et
+    humana</head>
+        <p xml:id="jm3cbb-e72443-d1e104">
+          <lb ed="#P" n="109"/>TErtio circa hanc mate 
+          <lb ed="#P" n="110"/>riam quero: per quid differant 
+          he<lb ed="#P" n="111" break="no"/>tres leges: scilicet: naturalis / 
+          din<lb ed="#P" n="112" break="no"/>uina / et humana. et quero de eis 
+          <lb ed="#P" n="113"/>inquantum huiusmodi: hoc est inquantum 
+          <lb ed="#P" n="114"/>tales.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e120">
+          ¶ Respondetur per quattuor 
+          <lb ed="#P" n="115"/>conclusiones. Quarum prima est: lex naturalis est 
+          <lb ed="#P" n="116"/>vniuersalior antiquior et indispenfabilior aliis 
+          dua<lb ed="#P" n="117" break="no"/>bus legibus. Secunda conclusio. lex naturalis et 
+          <lb ed="#P" n="118"/>dina non dirimitur per consuetudinem in oppositum: necvin 
+          li<lb ed="#P" n="119" break="no"/>gandi perdit per cosuetudinem in oppositum lex vero humana 
+          <pb ed="#P" n="119-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>consuetudine regulatur. Tertia conclusio: legem 
+          <lb ed="#P" n="2"/>humanam lex nature et diuina exponit regulat. 
+          <lb ed="#P" n="3"/>Quarta conclusio: quando apparet in legibus contrarietas: in 
+          <lb ed="#P" n="4"/>lege dinna standum est tanquam in legum apice et ceterarum de 
+          <lb ed="#P" n="5"/>claratiua.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e149">
+          ¶ Prima conclusio probatur quo ad singlas 
+          pati<lb ed="#P" n="6" break="no"/>culas. lex nature in omni gente est eadem: lex positiua 
+          di<lb ed="#P" n="7" break="no"/>uina vel humana non semper est et fuit eadem: igitur: 
+          maior<lb ed="#P" n="8" break="no"/>patet: lex nature nichil aliud est quam peincipium practicum 
+          <lb ed="#P" n="9"/>euidens ex terminis: vel concio in euidenter deducta. 
+          <lb ed="#P" n="10"/>sed talibus omnes bona ratione vtentes assentiunt: nec 
+          con<lb ed="#P" n="11" break="no"/>trarie opinantur. quod sit antiquior patet: cum primum aliquis habet 
+          <lb ed="#P" n="12"/>rationem et est in annis discretionis: legem naturalem habet: 
+          <lb ed="#P" n="13"/>non sicund alis legibus positiuis. Tertia particla patet. xiii 
+          <lb ed="#P" n="14"/>distinctione. c. i. vbi Gratianus dicit. Item aduersus 
+          na<lb ed="#P" n="15" break="no"/>turale ius nulla dispensatio admittitur nisi forte 
+          duo<lb ed="#P" n="16" break="no"/>mala ita vrgeant vt alterum eorum necesse sit eligi. 
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e176">
+          <lb ed="#P" n="17"/>¶ Secunda conclusio probatur primo quo ad partem priorem. 
+          <lb ed="#P" n="18"/>consuetudo non plus ligaminis habet quam lex scripta ei 
+          <lb ed="#P" n="19"/>respondens: puta lex humana: sed lex humana non potest 
+          diri<lb ed="#P" n="20" break="no"/>mere legem nature vel legem dinnam positiuam: cum inferior 
+          <lb ed="#P" n="21"/>non potest tollere legem superioris: igitur. Secundo arguitur ad idem: 
+          <lb ed="#P" n="22"/>ex illo sequitur si omnes in mundo reliquarent legem dinnam quod 
+          <lb ed="#P" n="23"/>minus peccarent: et tandem non peccarent per non vsum. consequens 
+          <lb ed="#P" n="24"/>est flnim: ergo et antcedens: immo contra legem nature vel dinnam non est 
+          <lb ed="#P" n="25"/>consuetudo vlla: sed corruptela: nec oppositum ego 
+          di<lb ed="#P" n="26" break="no"/>xi in conclusione: cum negatiuam ex industria posui. ista 
+          conclusio<lb ed="#P" n="27" break="no"/>patet c. veritatem. viii. distinc. vbi dcir: nemo 
+          consuetudi<lb ed="#P" n="28" break="no"/>nem rationi et veritati praeponat. nam deus dixit: ego sum ve 
+          <lb ed="#P" n="29"/>ritas: non ego consuetudo: eadem distinctione. c. si 
+          con<lb ed="#P" n="30" break="no"/>suetudinem. Secunda pars patet. consuetudo habet vim legis. 
+          <lb ed="#P" n="31"/>modo lex posterior equalis legi praecedenti superueniens: 
+          <lb ed="#P" n="32"/>eam exponit et tollit. arguitur sic: quandocumque sunt due leges 
+          <lb ed="#P" n="33"/>incompossibiles equalis vigoris late: posterior sem 
+          <lb ed="#P" n="34"/>per tollit priorem. hoc patet vtrobique in legibus omnibus: 
+          <lb ed="#P" n="35"/>in legibus diuinis positiuis vbi iudicialia et cerimo 
+          <lb ed="#P" n="36"/>nialia legis Moysaice sunt sublata de medio: et in 
+          <lb ed="#P" n="37"/>principio nascentis ecclsie homines pluries in anno 
+          com<lb ed="#P" n="38" break="no"/>municarunt quam nunc: modo non est talis lex vrgens. pari 
+          for<lb ed="#P" n="39" break="no"/>ma in diebus beati Gregorii non poterant homines in 
+          se<lb ed="#P" n="40" break="no"/>ptimo gradu consanguineitatis contrahere: in diebus 
+          <lb ed="#P" n="41"/>innocentii tertii hoc homines facertu poterant. dixi 
+          equa<lb ed="#P" n="42" break="no"/>lis vigoris: puta late ab eodem vel a successore haesente 
+          <lb ed="#P" n="43"/>eandem patantem cum priore. sed sic est quod consuetudo est lex 
+          <lb ed="#P" n="44"/>humana non scripta et totius multitudinis quae ptanti huma 
+          <lb ed="#P" n="45"/>nitus institute dat robur leges condendi: ergo consuetu 
+          <lb ed="#P" n="46"/>do non est minoris ligaminis quam lex scripta sed lex 
+          scri<lb ed="#P" n="47" break="no"/>pta posterior legem equalem priorem ei incompossibilem 
+          <lb ed="#P" n="48"/>tollit: ergo consuetudo in oppositum legem praecedentem drogat / 
+          <lb ed="#P" n="49"/>eam exponit / et eam penitus / interdum euertit / et 
+          abro<lb ed="#P" n="50" break="no"/>gat. abrogare est in toto tollere: derogare solum in 
+          <lb ed="#P" n="51"/>parte. ff. de verbo. signi. l. derogare.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e254">
+          ¶ Tertia 
+          conclusio<lb ed="#P" n="52" break="no"/>patet: lex architectonica et infallibilis legem fallibilem 
+          <lb ed="#P" n="53"/>dirigit: et non econuerso. sed sic est de lege nature dinna 
+          <lb ed="#P" n="54"/>et humana: igtur.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e263">
+          ¶ Quarta conclusio eodem modo probari potest: 
+          <lb ed="#P" n="55"/>et adhuc arguitur ad idem: si deus vnum praeciperet et homines 
+          <lb ed="#P" n="56"/>oppositum deo acquiescendum est hominibus relictis. Actuum. v. 
+          <lb ed="#P" n="57"/>sed talis est proportio inter legem dei et legem humanam 
+          qua<lb ed="#P" n="58" break="no"/>lis est proportio inter deum et hominiem: igitur.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e274">
+          ¶ Contra 
+          pro<lb ed="#P" n="59" break="no"/>bationem prime conclusionis arguitur sic. vel lex nature 
+          ca<lb ed="#P" n="60" break="no"/>patur pro iudicio ipsius propotionis quaest de iure nature: vl pro¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ipsa propotione: quocumque istorum dato: non est eadem lex 
+          aponi<lb ed="#P" n="62" break="no"/>omnes. patet: non est eadem numero: nec oportet quod sit eadem spe. 
+          <lb ed="#P" n="63"/>multe sunt propotiones de iure nature distincte specie. 
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e290">
+          <lb ed="#P" n="64"/>¶ Respondetur: argumentum est sophisticum nec ad mente 
+          piri<lb ed="#P" n="65" break="no"/>gens. volo dicere: quicumque assentit vni illarum: alius etiam 
+          <lb ed="#P" n="66"/>assentit / et non dissentit / nec dubitat: etiam oblat 
+          fdua<lb ed="#P" n="67" break="no"/>bus propoationibus sinonimis de lege nature: earum 
+          assen<lb ed="#P" n="68" break="no"/>sus sunt eedem in spem spanlissima. propaterea ipsa ipsius 
+          assen<lb ed="#P" n="69" break="no"/>sus etiam est lex nature: sicut propositio et assensus / ipse est fides. 
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e306">
+          <lb ed="#P" n="70"/>¶ Contra secundam particulam secunde conclusionis arguitur sic: interdum 
+          <lb ed="#P" n="71"/>in lege humana ponitur: volumus hanc legem durare non 
+          <lb ed="#P" n="72"/>obstante consuetudine in oppositum: sed tali legi humane 
+          ni<lb ed="#P" n="73" break="no"/>hil facit consuetudo. Si dicas: hoc totum adhuc est de 
+          <lb ed="#P" n="74"/>lege humana: et per consequens hoc totum est abrogabile per consue 
+          <lb ed="#P" n="75"/>tudinem in oppositum. Contra: ergo superflue ponitur: cum si non 
+          <lb ed="#P" n="76"/>ponatur lex ipsa durat quousque consuetudine fuerit 
+          ab<lb ed="#P" n="77" break="no"/>rogata. et si illa particula ponatur: redit in idem. ergo 
+          ni<lb ed="#P" n="78" break="no"/>hil refert siue ponatur siue non ponatur.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e329">
+          ¶ Secundo arguitur: 
+          <lb ed="#P" n="79"/>primus actus contraueniendi legi humane scripte est peccatum: 
+          <lb ed="#P" n="80"/>secundus actus est peccatum: tertius actus est peccatum: ergo vicesimus 
+          <lb ed="#P" n="81"/>actus erit peccatu. tenet consequentia: quia illi actus sunt eiusdem rationis. 
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e338">
+          <lb ed="#P" n="82"/>¶ Aespendetur ad primum. non superflue ponitur siue sit 
+          abro<lb ed="#P" n="83" break="no"/>gabil tota illa lex siue non: quia lex illa osedit quod legis 
+          <lb ed="#P" n="84"/>conditor multum habet cordi illam legem: et per consequens facit 
+          ho<lb ed="#P" n="85" break="no"/>mines melius illam legem fuare. Secundo: quando tota illa lex 
+          <lb ed="#P" n="86"/>non tolleretur: conclusio est vera: quae intendit loqui de qualbet lege 
+          <lb ed="#P" n="87"/>humana: potissimum vbi illa particula non ponitur. 
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e354">
+          <lb ed="#P" n="88"/>¶ Ad secundum argumentum. stat primum actum esse peccatum / 
+          <lb ed="#P" n="89"/>secundum / et tertium / et non decimum vel vigesimum quia in. x. 
+          <lb ed="#P" n="90"/>actu vel vigesimo est consuetudo introducta: non autem 
+          <lb ed="#P" n="91"/>in. i. ii. et. iii. Exemplum de praescriptione et vsucapione. 
+          pro<lb ed="#P" n="92" break="no"/>pterea recte dir: consuetudo interpraetatur legem: supple 
+          hu<lb ed="#P" n="93" break="no"/>manam. Sed dicis: aliquam legem humanam consuetudo inten 
+          <lb ed="#P" n="94"/>pretatur / derogat illi / et non numquam eam abrogat: qua omnem: 
+          <lb ed="#P" n="95"/>quia equalis est ratio vtrobique. et tunc sic: omnem le 
+          <lb ed="#P" n="96"/>gem humanam exponit consuetudo hominum 
+          ho<lb ed="#P" n="97" break="no"/>nestorum: aliqua lex diuina est humana: ergo aliquam 
+          <lb ed="#P" n="98"/>legem diuinam exponit consuetudo: in darii. Respondetur: 
+          <lb ed="#P" n="99"/>hoc argumentum est nullum:  consulto in 
+          que<lb ed="#P" n="100" break="no"/>stionis fronte ipsum similia reieci.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e385">
+          ¶ Contra duas 
+          <lb ed="#P" n="101"/>vltimas conclusiones arguitur sic. dabiles sunt 
+          due<lb ed="#P" n="102" break="no"/>leges nullum commertium habentes cum lege 
+          na<lb ed="#P" n="103" break="no"/>ture et diuina: ergo lex diuina et naturalis non 
+          ex<lb ed="#P" n="104" break="no"/>ponit tales leges. antecedens patet de vsucapione 
+          <lb ed="#P" n="105"/>in triennio et prescriptione in de cennio. Insuper: 
+          <lb ed="#P" n="106"/>datur aliqua lex iusta quae aduersatur legi naturali: ergo 
+          <lb ed="#P" n="107"/>lex naturalis eam non exponit. antecedens patet 
+          <lb ed="#P" n="108"/>de legibus tyrannorum.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e405">
+          ¶ Secundo arguitur 
+          ap<lb ed="#P" n="109" break="no"/>parentius ad hoc: dantur due leges opposite inter 
+          <lb ed="#P" n="110"/>se: vtpote: mulier succedit in regno in britannia in 
+          <lb ed="#P" n="111"/>vtroque regno: et in castella / in franeia nulla 
+          mu<lb ed="#P" n="112" break="no"/>lier potest habere ius in regno: per legem salicam 
+          <lb ed="#P" n="113"/>vt aiunt. similiter in britannia magna parua 
+          pri<lb ed="#P" n="114" break="no"/>mogenitus nobilis succedit in toto in mobilibus: 
+          <lb ed="#P" n="115"/>non sic autem in aliis regnis: modo iste leges sunt 
+          <lb ed="#P" n="116"/>aduerse inter se. ergo etiam aduersantur vni tertie 
+          <lb ed="#P" n="117"/>legi: scilicet legi nature. Forte dicis: quelibet 
+          ista<lb ed="#P" n="118" break="no"/>rum legum stat cum lege nature: et nulla earum 
+          ei<lb ed="#P" n="119" break="no"/>repugnat. Contra: copulatiua istarum duarum legum est 
+          in<lb ed="#P" n="120" break="no"/>hotis opet rtam icompossibilitater ex cndicroiism cpo¬ 
+          <pb ed="#P" n="119-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sitam: et tota copulatiua est lex cum ex duabus legibus 
+          <lb ed="#P" n="2"/>confletur.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e442">
+          ¶ Respondetur: dantur due leges non impartinem 
+          <lb ed="#P" n="3"/>tes legi nature et diuine. sed nulla est lex contra 
+          le<lb ed="#P" n="4" break="no"/>gem nature et diuinam et ei repugnans: quia tunc non 
+          <lb ed="#P" n="5"/>esset lex: vt si tyrannus contra omnem rationem in 
+          <lb ed="#P" n="6"/>stitueret aliquid vocatam legem iniustam: illa non est 
+          <lb ed="#P" n="7"/>lex propter repugnantiam cum lege nature et diuina. non 
+          <lb ed="#P" n="8"/>sequitur vocatur lex ergo est lex.
+        </p>
+        <p xml:id="jm3cbb-e72443-d1e459">
+          ¶ Ad secundum dicitur: 
+          <lb ed="#P" n="9"/>iste due leges non contradicunt: nulla mulier potest 
+          <lb ed="#P" n="10"/>succedere in francia in regno: aliqua mulier potest 
+          suc<lb ed="#P" n="11" break="no"/>cedere in castella: vt notum est: et si aduersentur: sufficit: 
+          <lb ed="#P" n="12"/>earum legum vtraque est rationabilis. propter alia et alia 
+          <lb ed="#P" n="13"/>motiua vtraque lex est condita. in talibus legibus huma 
+          <lb ed="#P" n="14"/>nis positiuis sufficit quod lex habeat motiua prose: et non 
+          <lb ed="#P" n="15"/>nutriat iniquitatem in se: semper illa est rationabilior quae plus 
+          <lb ed="#P" n="16"/>legi naturali innititur: et que maiorem conuenientiam 
+          <lb ed="#P" n="17"/>habet cum illa: et illa deterior quae plus a ratione elongatur. 
+          <lb ed="#P" n="18"/>quemadmodum illud ens est nobilius quod magis a ccedit 
+          <lb ed="#P" n="19"/>ad ens perfectissimum. Insuper: stat capere copulatiuam 
+          <lb ed="#P" n="20"/>ex duabus / partibus licitis et tota copulatiua non erit 
+          <lb ed="#P" n="21"/>licita: sicut copulatiua ex duabus possibilibus 
+          cre<lb ed="#P" n="22" break="no"/>bro est impossibilis. Ecce legem diuinam immutabilem: 
+          <lb ed="#P" n="23"/>contra quam nunquam est consuetudo: sed semper corrupte 
+          <lb ed="#P" n="24"/>la: quae sic se habet ad legem humanam sicut deus ad purum 
+          ho<lb ed="#P" n="25" break="no"/>minem. lex nulla est humana quae legi diuine repugnat: in 
+          <lb ed="#P" n="26"/>iuste posita a tyrannis nullo modo sunt leges: nec 
+          co<lb ed="#P" n="27" break="no"/>gunt in foro anime supposito quod talia aperte 
+          cognoscam<lb ed="#P" n="28" break="no"/>tur: debet tamen citius homo soluere modicum de pecunia anteequam 
+          <lb ed="#P" n="29"/>scisma inutile in republica excitet in foro exteriore.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

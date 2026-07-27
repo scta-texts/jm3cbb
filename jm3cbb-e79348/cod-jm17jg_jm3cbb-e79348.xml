@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 16</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 16</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="130-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e79348"><!-- l3d37q16 -->
+        <head xml:id="jm3cbb-e79348-Hd1e99">Quaestio 16</head>
+        <head xml:id="jm3cbb-e79348-Hd1e101" type="question-title">
+    An lex humana obliget ad sui observationem in foro conscientiae
+   </head>
+        <p xml:id="jm3cbb-e79348-d1e104">
+          <lb ed="#P" n="54"/>¶ Questio. xvi. 
+          <lb ed="#P" n="55"/>QUeritur an lex humana 
+          ob<lb ed="#P" n="56" break="no"/>et ad sui obseruantiam in foro 
+          con<lb ed="#P" n="57" break="no"/>scientie.
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e115">
+          ¶ Pro questionis solutione 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>pono duas conclusiones: Quarum prorest. 
+          <lb ed="#P" n="59"/>Lex iniqua siue iniusta neminem obligat. in 
+          fo<lb ed="#P" n="60" break="no"/>ro conscientie contingit legem esse iniquam siue 
+          <lb ed="#P" n="61"/>iniustam dupficiter. Primo quia est contra legem 
+          di<lb ed="#P" n="62" break="no"/>uinam legum deam / et ceterarum legum 
+          archite<lb ed="#P" n="63" break="no"/>ctonicam / et directricem. si lex humana preciperet 
+          <lb ed="#P" n="64"/>quod deus prohibet: vel prohiberet quod deus precipit: 
+          ip<lb ed="#P" n="65" break="no"/>sa non est lex simpliciter: sed solum lex iniqua siue 
+          <lb ed="#P" n="66"/>iniusta: que non est plus lex quam homo pictus est 
+          ho<lb ed="#P" n="67" break="no"/>no. A ilo sequitur cum Iusiniaius concessit 
+          <lb ed="#P" n="68"/>causa religionis consummata matrimonia 
+          debe<lb ed="#P" n="69" break="no"/>re dissolui: vt pater. xxvii. qu. il. sunt qui dicunt. et per 
+          <lb ed="#P" n="70"/>glo. decie. d. c. lege impratorum: non condidit sege: 
+          <lb ed="#P" n="71"/>cum erat contra legem dei Mathei. xix. Quos de 
+          <lb ed="#P" n="72"/>us conniunxit homo non separet. Qu principes 
+          seculi<lb ed="#P" n="73" break="no"/>leges iniquas condere possunt: patet. Nonne 
+          vi<lb ed="#P" n="74" break="no"/>des de duobus matrimoniis per verba de 
+          presen<lb ed="#P" n="75" break="no"/>ti contractis (quorum posterius est carnali copula 
+          <lb ed="#P" n="76"/>consummatum) contraria a pontificibus 
+          diffini<lb ed="#P" n="77" break="no"/>ta: vt patet in. c. Licet. de sponsa. duo. et Celestinus 
+          <lb ed="#P" n="78"/>papa olim deciderat quod poterat esse absolute 
+          diuor<lb ed="#P" n="79" break="no"/>tium si alter fidelium labatur in heresim: et hoc 
+          <lb ed="#P" n="80"/>erat insertum interdum in. c. Laudabilem. de 
+          con<lb ed="#P" n="81" break="no"/>uersi. infide. in antiqua compilatione: vt in. c. 
+          quam<lb ed="#P" n="82" break="no"/>to. de diuor. recitat hostien. in verbo licet quidem 
+          <lb ed="#P" n="83"/>predecessor: ergo de secularibus et inferioribus non 
+          <lb ed="#P" n="84"/>est mirandum. sed quod ius pontificium quo nunc 
+          vti<lb ed="#P" n="85" break="no"/>mur non debet propterea esse suspectum / in 
+          quar<lb ed="#P" n="86" break="no"/>to declaraui: vbi de his materiis seriosius suis in 
+          <lb ed="#P" n="87"/>locis loquutus sum. 
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e185">
+          <lb ed="#P" n="88"/>¶ Secudo modo lexhumana est iniusta quia 
+          ipsa<lb ed="#P" n="89" break="no"/>est contra bonum hominum: et hoc triphariam: 
+          <lb ed="#P" n="90"/>vel propter defectum auctoritatis in legem condem 
+          <lb ed="#P" n="91"/>te: vel ex fine: quia ordinatur ad priuatum bonum 
+          <lb ed="#P" n="92"/>rectoris: et non ad bonum commune plebi cui 
+          pre<lb ed="#P" n="93" break="no"/>est: hoc est ad tirannidem more Aristotelis in 
+          po<lb ed="#P" n="94" break="no"/>liticis loquendo. tales tirannos vocat. vel tertio 
+          <lb ed="#P" n="95"/>ex forma: quia inequaliter geometrice imponuntur 
+          <lb ed="#P" n="96"/>talie subiectis. Per oppositum lex dicitur esse iusta 
+          <lb ed="#P" n="97"/>quando imponitur ab habente potestatem pro 
+          vti<lb ed="#P" n="98" break="no"/>litate communi: et lex imponitur secundum qualitatem 
+          <lb ed="#P" n="99"/>existentium in policia: vtpote quod ditior plus 
+          con<lb ed="#P" n="100" break="no"/>tribuat. sicut in corpore vero plus facit magnum 
+          <lb ed="#P" n="101"/>membrum quam paruum: sic debet esse in corpore 
+          my<lb ed="#P" n="102" break="no"/>stico.
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e221">
+          ¶ Hoc prelibato / probatur conclusio: illud 
+          <lb ed="#P" n="103"/>statutum irrationabile est de quo loquor / ergo non est lex: 
+          <lb ed="#P" n="104"/>ergo neminem obligat. vel sic: si homines 
+          ligaren<lb ed="#P" n="105" break="no"/>tur in foro conscientie ad solutionem impositi: hoc 
+          <lb ed="#P" n="106"/>esset virtute alicuius legis obligantis. sed hoc non: 
+          <lb ed="#P" n="107"/>cum non est lex: si sit contra ius diuinum. notum est / 
+          <lb ed="#P" n="108"/>oportet plus deo parere quam hominibus / Actuum 
+          <lb ed="#P" n="109"/>quinto. Idem patet si est contra bonum humanum. 
+          <lb ed="#P" n="110"/>si desit auctoritas / satis liquet. si sit ad priuatum 
+          <lb ed="#P" n="111"/>solum commodum / et contra commodum 
+          communi<lb ed="#P" n="112" break="no"/>tatis / patet conclusio: quia dato opposito / sequitur 
+          <lb ed="#P" n="113"/>si princeps impone ret legem subditis quod darent 
+          <lb ed="#P" n="114"/>tertiam partem bonorum medietatem eorundem / 
+          <lb ed="#P" n="115"/>vel omnia / vt ipse impleat archas auro: quod 
+          tenen<lb ed="#P" n="116" break="no"/>tur in foro anime ei soluere imposita: hoc est falsum: ergo 
+          <lb ed="#P" n="117"/>et antecedens. ergo non est soluendnm in foro ani¬ 
+          <pb ed="#P" n="130-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>me quando constat quod est contra bonum 
+          commu<lb ed="#P" n="2" break="no"/>ne: et solum pro comodo presidentis. 
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e265">
+          <lb ed="#P" n="3"/>¶ Secunda conclusio: quecunque lex humana 
+          iu<lb ed="#P" n="4" break="no"/>sta obligat in foro anime secundum dictamen recte 
+          ra<lb ed="#P" n="5" break="no"/>tionis. dixi quecunque: siue fuerit lata a 
+          spiritua<lb ed="#P" n="6" break="no"/>li viro / laico / siue a communitate hominum / 
+          <lb ed="#P" n="7"/>vel lex humana sine addito de virtute sermonis: 
+          <lb ed="#P" n="8"/>quia lex iniqua non est lex / vt diximus: et dicit 
+          <lb ed="#P" n="9"/>Augustinus primo de libero arbitrio. c. ix. 
+          Proba<lb ed="#P" n="10" break="no"/>tur hec conclusio: iure nature tenemur parentibus 
+          <lb ed="#P" n="11"/>parere in re familiari: et si non pareamus 
+          pecca<lb ed="#P" n="12" break="no"/>mus: ita regi / et aliis superioribus: in casu 
+          homo<lb ed="#P" n="13" break="no"/>regi parere tenetur / patre relicto: vtpote: rex 
+          filio<lb ed="#P" n="14" break="no"/>precipit induere arma et progredi ad bellum 
+          pro<lb ed="#P" n="15" break="no"/>r eipiiblice defensione: et pater precipit oppositum. 
+          <lb ed="#P" n="16"/>hec conclusio est apostoli ad Romanos 
+          decimoter<lb ed="#P" n="17" break="no"/>tio dicentis: necessitate subditi estote potestatibus 
+          <lb ed="#P" n="18"/>sublimioribus: non solum propter iram: sed etiam 
+          <lb ed="#P" n="19"/>propter conscientiam: ideo enim et tributa presta 
+          <lb ed="#P" n="20"/>tis. ministri enim dei sunt. et paulopost: reddite 
+          <lb ed="#P" n="21"/>ergo omnibus debita: cui tributum tributum: 
+          cui<lb ed="#P" n="22" break="no"/>vectigal vectigal: cui timorem timorem: cui hono 
+          <lb ed="#P" n="23"/>rem honorem. opposito conclusionis dato: 
+          come<lb ed="#P" n="24" break="no"/>dens carnes in quadragesima in occulto sine 
+          cau<lb ed="#P" n="25" break="no"/>sa non peccat: nec non soluens decimas vbi est 
+          con<lb ed="#P" n="26" break="no"/>suetudo soluendi: nec non soluens vectigalia 
+          iu<lb ed="#P" n="27" break="no"/>stissime imposita: illa sunt erronea: igitur. 
+          Adieci<lb ed="#P" n="28" break="no"/>secundum dictamen rationis: hoc est: secundum intentionem 
+          <lb ed="#P" n="29"/>legis et non verba. ratio non solum est anima 
+          le<lb ed="#P" n="30" break="no"/>gis sed lex ipsa. C. de legi. l. Non dubium. et. l. Cum patr. 
+          <lb ed="#P" n="31"/>s. Dulcissimis. non refert vtrum lex causam exprimat 
+          <lb ed="#P" n="32"/>vel ratione ratio legis colligi potest. ieiunium 
+          qua<lb ed="#P" n="33" break="no"/>dragesime recipit interpretationem: et sic lex dei: 
+          <lb ed="#P" n="34"/>ergo a fortiore lex humana.
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e337">
+          ¶ Contra secundam 
+          con<lb ed="#P" n="35" break="no"/>clusionem arguitur: aliqua lex humana non 
+          obli<lb ed="#P" n="36" break="no"/>gat sub pena peccati mortalis: e eadem est ratio 
+          <lb ed="#P" n="37"/>in omnibus: ergo nulla lex humaua obligat 
+          sub<lb ed="#P" n="38" break="no"/>pena peccati mortalis. antecedens est notum: alio 
+          <lb ed="#P" n="39"/>quin lex humana esset difficillima: et multum one 
+          <lb ed="#P" n="40"/>rosa.
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e353">
+          ¶ Respondetur concedendo quod aliqua lex 
+          hu<lb ed="#P" n="41" break="no"/>mana non obligat sub pena peccati mortalis: vt 
+          <lb ed="#P" n="42"/>patet de multis constitutionibus religiosorum: quae 
+          <lb ed="#P" n="43"/>ad solam penam temporalem obligant / si 
+          infera<lb ed="#P" n="44" break="no"/>tur. aliqua tamen lex humana obligat sub 
+          pena<lb ed="#P" n="45" break="no"/>peccati mortalis. et hoc habet deprehendi secundum 
+          <lb ed="#P" n="46"/>circunstantias casus occurrentis.
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e369">
+          ¶ Secundo: <name xml:id="jm3cbb-e79348-Nd1e371">Gerson</name> in 
+          <lb ed="#P" n="47"/>opere lectionum lectione quarta dicit: quod solus 
+          de<lb ed="#P" n="48" break="no"/>us potest dare precepta sub pena legis eterne: 
+          ob<lb ed="#P" n="49" break="no"/>duas causas. Prior est: solus illam infligere potest 
+          <lb ed="#P" n="50"/>Secundo: peccatum est dictum factum vel 
+          concu<lb ed="#P" n="51" break="no"/>pitum contra legem dei.
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e385">
+          ¶ Despondetur: non 
+          recipio<lb ed="#P" n="52" break="no"/>illud dictum <name xml:id="jm3cbb-e79348-Nd1e389">Ioannis gerson</name>: nec multa 
+          correla<lb ed="#P" n="53" break="no"/>ria que illic infert. aliquod est realiter statutum 
+          ab<lb ed="#P" n="54" break="no"/>homine / cui lex diuina non est coniuncta: contra 
+          <lb ed="#P" n="55"/>quod si homo attemptat / peccat. patet: contrahere 
+          <lb ed="#P" n="56"/>cum muliere prohibita in gradu de iure humano / 
+          <lb ed="#P" n="57"/>est peccatum: et nullum foret / iure humano 
+          remo<lb ed="#P" n="58" break="no"/>to.
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e406">
+          ¶ Ad secundum dicitur quod illa non est diffinitio 
+          <lb ed="#P" n="59"/>peccati in communi. circa hanc materiam alias 
+          <lb ed="#P" n="60"/>insteti: propterea transeo. 
+          <cb ed="#P" n="b"/>
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e415">
+          <lb ed="#P" n="61"/>¶ Sed hic dubitatur: quomodo debet illud 
+          com<lb ed="#P" n="62" break="no"/>mune intelligi: contemptus facit peccatum: quod 
+          ali<lb ed="#P" n="63" break="no"/>as non esset peccatum.
+        </p>
+        <p xml:id="jm3cbb-e79348-d1e424">
+          ¶ Respondetur: contemptus 
+          <lb ed="#P" n="64"/>triphariam solet accipi. Primo modo est rem minus 
+          iu<lb ed="#P" n="65" break="no"/>sto ponderare: hoc est: non tantum estimare rem sicut 
+          <lb ed="#P" n="66"/>valet in rei veritate. Secundo modo est rem 
+          ne<lb ed="#P" n="67" break="no"/>gligere et eam non curare. Tertio modo: idem est 
+          <lb ed="#P" n="68"/>quod aspernari: et rei indignari tanquam vili. Tertius 
+          il<lb ed="#P" n="69" break="no"/>le est potissimus: et deliberatus facit mortale. 
+          Pri<lb ed="#P" n="70" break="no"/>mi duo contemptus possunt esse interdum 
+          venia<lb ed="#P" n="71" break="no"/>les: nonnumquam mortales: secundum exigentiam materie 
+          oc<lb ed="#P" n="72" break="no"/>currentis. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

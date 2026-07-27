@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="117-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e71625"><!-- l3d37q1 -->
+        <head xml:id="jm3cbb-e71625-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e71625-Hd1e101" type="question-title">An omnis lex sit obligatoria</head>
+        <p xml:id="jm3cbb-e71625-d1e104">
+          <lb ed="#P" n="21"/>Circa distinctionem. xxxvii 
+          <lb ed="#P" n="22"/>in qua magister loquitur de praeceptis 
+          de<lb ed="#P" n="23" break="no"/>calogi duo principaliter quaram. 
+          Pri<lb ed="#P" n="24" break="no"/>mo in generali loquendo de lege: quia 
+          <lb ed="#P" n="25"/>idem est mandatum / praeceptum / et lex. 
+          pro<lb ed="#P" n="26" break="no"/>pterea sub quo illorum vocabulorum queritur: non refert. 
+          <lb ed="#P" n="27"/>de aliquibus / in generali legem concernentibus loquar. 
+          Se<lb ed="#P" n="28" break="no"/>cundo ad expotionem praeceptorum decalogi succincte 
+          proce<lb ed="#P" n="29" break="no"/>dam. Circa primum aliqua queram quae ex processu 
+          pate<lb ed="#P" n="30" break="no"/>bunt. Primo queritur: an omnis lex sit obligatoria. in 
+          pri<lb ed="#P" n="31" break="no"/>mis ponam diffinitionem legis. Secundo conclusiue responde 
+          <lb ed="#P" n="32"/>bo ad quetionem. Lex permnissoria et consultoria proprie non est 
+          <lb ed="#P" n="33"/>lex: de obligatoria solum loquar. per legem: tam praeceptum 
+          <lb ed="#P" n="34"/>quam pohibitionem intelligendo. lex est signum creature 
+          ratio<lb ed="#P" n="35" break="no"/>nali notificatum quatum est ex parte eius eam denotans liga 
+          <lb ed="#P" n="36"/>ri ad aliquid faciendum vel non faciendum. signum est 
+          ge<lb ed="#P" n="37" break="no"/>nus legis. omnis lex est signum: sed non couertitur: et lbet 
+          ali<lb ed="#P" n="38" break="no"/>qui contendant an voluntas diuina vel intellectus 
+          diui<lb ed="#P" n="39" break="no"/>nus sit prima lex obligatoria: nullum est ligamen quo 
+          <lb ed="#P" n="40"/>usque significatur quid agendum est: quid vero omittendum. 
+          <lb ed="#P" n="41"/>alia est questio an prima lex obligatoria hemat 
+          origi<lb ed="#P" n="42" break="no"/>nem a voluntate diuina vel ab eius intellectu. illud signum 
+          <lb ed="#P" n="43"/>est mentale / vocale / vel scriptum. his tribus modis vo 
+          <lb ed="#P" n="44"/>luntas legislatoris insinuatur: et non pluribus modis. 
+          in<lb ed="#P" n="45" break="no"/>pressio / et illa quae oculo corperali pstent apprshendi / per 
+          si<lb ed="#P" n="46" break="no"/>gnum scriptum intelliguntur: tanquam per principale quod ab 
+          <lb ed="#P" n="47"/>oculo percipitur: potissimum apud antiquos: impressio post 
+          <lb ed="#P" n="48"/>modum in vsu venit. relique particule loco differentie 
+          <lb ed="#P" n="49"/>ponuntur: ex limitatione legiset dictis patet hec 
+          <lb ed="#P" n="50"/>conclusio: quaelibet lex est obligatoria his quibus est lex. 
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e172">
+          <lb ed="#P" n="51"/>¶ Contra hanc conclusionem arguitur: ex ea sequitur quod 
+          con<lb ed="#P" n="52" break="no"/>scientia erronea esset lex. consequens est inconueniens. et 
+          <lb ed="#P" n="53"/>quod sequatur patet sic: ligat hominem non contrauenire illi: 
+          <lb ed="#P" n="54"/>immo ad conformiter agendum vel ad depositionem: 
+          <lb ed="#P" n="55"/>sed in casu non potest deponi: quia nullus assistit ad 
+          con<lb ed="#P" n="56" break="no"/>sulendum illi qui conscientiam errone am habet.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e188">
+          ¶ 
+          Se<lb ed="#P" n="57" break="no"/>cundo arguitur: alique leges obligant illos quibus 
+          <lb ed="#P" n="58"/>non sunt promulgate: ergo male ponitur in diffinitione 
+          <lb ed="#P" n="59"/>legis creature rationali notificatum quatum est parte 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>eius. antecedens patet tripliciter. tum primo de 
+          le<lb ed="#P" n="61" break="no"/>ge naturali que non est notificata hominibus. tum 
+          <lb ed="#P" n="62"/>secundo de lege baptismi: quia ad baptismum 
+          obli<lb ed="#P" n="63" break="no"/>gantur paruuli et dementes: quibus lex baptisini non 
+          <lb ed="#P" n="64"/>est sufficienter promulgata. Cum tertio: mahome 
+          <lb ed="#P" n="65"/>tiste et gentiles obligantur suscipere leg est christi: et tamen 
+          <lb ed="#P" n="66"/>non est eis omnibus notificata.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e215">
+          ¶ Ad primum dicitur 
+          <lb ed="#P" n="67"/>homo peccat contraueniens conscientie erronee. et 
+          <lb ed="#P" n="68"/>alicui licite potest se homo conformare: vt si 
+          con<lb ed="#P" n="69" break="no"/>scientia erronea dictat opus consilii esse de praecepto. 
+          <lb ed="#P" n="70"/>sed non proprie propterea adhuc conscientia erronea 
+          <lb ed="#P" n="71"/>obligat: quia potest quis eam excutere: et tunc non 
+          <lb ed="#P" n="72"/>obligat. et licet in casu obliget: non propterea 
+          voca<lb ed="#P" n="73" break="no"/>tur lex.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e233">
+          ¶ Ad alia tria argumenta. Ad primum 
+          di<lb ed="#P" n="74" break="no"/>co: lex naturalis est sculpta in hominum cordibus: et sic 
+          <lb ed="#P" n="75"/>est eis sufficienter notificata. Ad secundum dicitur quod 
+          <lb ed="#P" n="76"/>paruuli et dementes non obligantur sub pena 
+          pec<lb ed="#P" n="77" break="no"/>cati actualis suscipere baptismum: quia non est eis de 
+          <lb ed="#P" n="78"/>claratus: et propterea non est eis obligatoria. sed quia 
+          <lb ed="#P" n="79"/>statutum iusticie originalis non est in Adamet in sua 
+          <lb ed="#P" n="80"/>posteritate seruatum: paruuli in originali noxa 
+          con<lb ed="#P" n="81" break="no"/>cipiuntur: siue istud dicatur statutum / siue lex / non 
+          <lb ed="#P" n="82"/>refert de nominibus. speciale est in hoc vno: nec vnquam 
+          <lb ed="#P" n="83"/>extra hanc materiam simile contingit. fide de hoc 
+          do<lb ed="#P" n="84" break="no"/>cemur: vt in materia peccati originalis in secundo 
+          <lb ed="#P" n="85"/>dicitur. Ad tertium nego quod lex gratie non sit 
+          suffi<lb ed="#P" n="86" break="no"/>cienter promulgata gentilibus et mahometanis 
+          omni<lb ed="#P" n="87" break="no"/>bus: si per eos non stat.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e266">
+          ¶ Tertio principaliter arguitur: 
+          <lb ed="#P" n="88"/>ebrii dicere horas obligantur: et facere praecepta 
+          oc<lb ed="#P" n="89" break="no"/>currentiatempore ebrietatis: et tamen talis lex non 
+          suf<lb ed="#P" n="90" break="no"/>ficienter est notificata.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e275">
+          ¶ Quarto: dormientes in nocte 
+          <lb ed="#P" n="91"/>obligantur surgere ad matutinas: et tamen tempus 
+          matuti<lb ed="#P" n="92" break="no"/>narum non est sufficienter eis promulgatum cum dormiant: 
+          <lb ed="#P" n="93"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e284">
+          ¶ Quinto arguitur. lex carnis est lex: tamen non est 
+          obli<lb ed="#P" n="94" break="no"/>gatoria. quod sit lex: patet per apostolum: sentio aliam legem 
+          <lb ed="#P" n="95"/>in membris meis captiuantem me in lege peccati
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e291">
+          ¶ Ad 
+          <lb ed="#P" n="96"/>tertium principale dico: si in temulentiam vel amentiam 
+          <lb ed="#P" n="97"/>sine sua culpa inciderint: tempore temulentie vel 
+          amen<lb ed="#P" n="98" break="no"/>tie non obligantur ad aliquod praeceptum. si ex culpa sua 
+          <lb ed="#P" n="99"/>in hoc inciderint: multi ad idem dicerent: quod 
+          tamen<lb ed="#P" n="100" break="no"/>non sequor: quia pari ratione dormiens potest omittere opus 
+          <lb ed="#P" n="101"/>precepti in sensu composito: si iuerit ad dormiendum 
+          <lb ed="#P" n="102"/>quando tenebatur non dorm re. dico quod nullus peccat nec 
+          <lb ed="#P" n="103"/>est obligatus ad vllum praeceptum tmpore quo non vtitur ratione. 
+          <lb ed="#P" n="104"/>transiens dormitum tpere quo tenetur aliud facere: 
+          pec<lb ed="#P" n="105" break="no"/>cat volendo dormire: sed tpere quo dormit: nullo 
+          mod<lb ed="#P" n="106" break="no"/>omittit. nec valet quod aliqui dicunt de ebrio 
+          ma<lb ed="#P" n="107" break="no"/>le habituato circa aliqod peccatum: quod ipse peccat 
+          <lb ed="#P" n="108"/>talem actum exercendo in ebrietate: quia pari ratione 
+          <lb ed="#P" n="109"/>dormiens male habituatus surgens similem 
+          substan<lb ed="#P" n="110" break="no"/>tiam actus faciens deberet dici peccator nouo 
+          pec<lb ed="#P" n="111" break="no"/>cato: quod est falsum: cum nullo modo vtitur ratio 
+          <lb ed="#P" n="112"/>ne. et licet non surgens mane ad matutinas vel ad 
+          <lb ed="#P" n="113"/>lectionem percutiatur quia non surrexit: n ihil 
+          ma<lb ed="#P" n="114" break="no"/>li est. tum primo: non constat quod non erat excitatus. 
+          <lb ed="#P" n="115"/>tum secundo: aliquis percutitur modica pena sine 
+          cul<lb ed="#P" n="116" break="no"/>pa sed non sine causa: vt addiscat esse vigilantior: 
+          <lb ed="#P" n="117"/>et alloqui excitatorem quatenus eum excitet: vel vt 
+          in<lb ed="#P" n="118" break="no"/>primat in mentem desiderium mane surgendi si desit 
+          ei<lb ed="#P" n="119" break="no"/>excitator extrinsecus. experimur in nobis si ha¬ 
+          <pb ed="#P" n="118-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>beamus aliquid cordi excitauimus nos quaecumque 
+          hora<lb ed="#P" n="2" break="no"/>noctis per impssionem desiderii surgendi in tali vel 
+          tali<lb ed="#P" n="3" break="no"/>hora. mirabile tamen est de illo desiderio surgendi in 
+          me<lb ed="#P" n="4" break="no"/>dia nocte: quomodo causat quaelitatem motiuam viri a sompno: 
+          <lb ed="#P" n="5"/>an spuritalem imprimat solum in mentem / vel corperalem / vlotram 
+          <lb ed="#P" n="6"/>que: non perquiro pro nunc.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e364">
+          ¶ Ad quintum diu: non sequitur: 
+          <lb ed="#P" n="7"/>est lex menbrorum et appetitus sensualitatis ad 
+          illi<lb ed="#P" n="8" break="no"/>citum: ergo est lex. quia faciendum in proposito non capimus 
+          pro<lb ed="#P" n="9" break="no"/>illo quod erit: sed pro illo quod fieri debet: et sic 
+          omitten<lb ed="#P" n="10" break="no"/>dum vel non faciendum capimus.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e375">
+          ¶ Sexto arguitur: deus 
+          prae<lb ed="#P" n="11" break="no"/>cepit Abrahe occide re Isaac Gen. xxii. ergo illud 
+          prae<lb ed="#P" n="12" break="no"/>ceptum erat Abrahe lex: et tamen non erat obligatoria 
+          <lb ed="#P" n="13"/>Abrahe: cum non occidebat Isaac.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e384">
+          ¶ Septio: iusto 
+          <lb ed="#P" n="14"/>non est lex posita secundum apostolum: et tamen tota 
+          diffini<lb ed="#P" n="15" break="no"/>tio legisdate conuenit iusto: ergo diffinitio non conuertitur 
+          <lb ed="#P" n="16"/>cum diffinito.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e393">
+          ¶ Octauo. aliqui excomnicationem incurrunt 
+          <lb ed="#P" n="17"/>quibus mandatum non est notificatum. patet de 
+          percutien<lb ed="#P" n="18" break="no"/>te clericum qui nescit percussum esse clericum: vel nescit 
+          an<lb ed="#P" n="19" break="no"/>feratur excomicatio pro tali percussione.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e402">
+          ¶ Ad sextum dicitur. 
+          <lb ed="#P" n="20"/>deus numquam volebat quod Abraham occideret filium suum: 
+          <lb ed="#P" n="21"/>sed solum volebat quod Abraham obedientiam suam osnderet 
+          <lb ed="#P" n="22"/>de filio occidendo. sicut in vitis patrum legimus de 
+          <lb ed="#P" n="23"/>abbatibus praecipientibus subditis facere aliqua quao non 
+          <lb ed="#P" n="24"/>intendebant subditos facere: sed solum quod subditi se ad 
+          <lb ed="#P" n="25"/>hoc attingere pararent: vt proiicere filum in flumen. illa 
+          <lb ed="#P" n="26"/>est vera intentio praecipientis vt ille cui praecipitur faciat 
+          il<lb ed="#P" n="27" break="no"/>lud quod intenditur per praeceptum: et non declarat ei 
+          intentio<lb ed="#P" n="28" break="no"/>nem suam in principio: sed occultat vnum verum quod non ex 
+          <lb ed="#P" n="29"/>pedit dicere illi cui praecipitur: fallatur aliter 
+          existiman<lb ed="#P" n="30" break="no"/>do / siue non / hoc non refert. praecipiens non fallit nisi 
+          indi<lb ed="#P" n="31" break="no"/>recte: licite et prudenter praecipit: et alium in hoc falli non 
+          <lb ed="#P" n="32"/>est malum.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e433">
+          ¶ Ad septimum quae est auents apostoli. i. ad Cimo. 
+          <lb ed="#P" n="33"/>i. respondetur: lex coactiua non datur nisi pro sceleratis: et non 
+          <lb ed="#P" n="34"/>pro ipsis iustis qui bene viuunt virtutis amore.
+        </p>
+        <p xml:id="jm3cbb-e71625-d1e441">
+          ¶ Ad 
+          <lb ed="#P" n="35"/>octauum dcir: nullus est excomnicatus nifi prius mortalitur 
+          pec<lb ed="#P" n="36" break="no"/>cauerit. et per consequens si alicui sit ignorantia inuincibilis in 
+          <lb ed="#P" n="37"/>aliqua materia illicita: non est excomnicatus. scit eim 
+          pcuti<lb ed="#P" n="38" break="no"/>ens clericum quod male agit: et dat operam rei illicite ips¬o 
+          <lb ed="#P" n="39"/>scit: si parum percutiat / sic quod non peccat mortaliter / non 
+          <lb ed="#P" n="40"/>est exconicatus. quando ignorantia exconicationis excusat 
+          <lb ed="#P" n="41"/>del ne: dictum est in quarto. nec ad nos nunc spectat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

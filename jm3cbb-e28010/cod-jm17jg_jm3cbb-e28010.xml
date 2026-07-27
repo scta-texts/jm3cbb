@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="46-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e28010"><!-- l3d22q2 -->
+        <head xml:id="jm3cbb-e28010-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e28010-Hd1e101" type="question-title">An Christus descendit ad inferos</head>
+        <p xml:id="jm3cbb-e28010-d1e104">
+          <lb ed="#P" n="112"/>SEcundo 
+          queri<lb ed="#P" n="113" break="no"/>tur: an christus descenditad 
+          <lb ed="#P" n="114"/>inferos. Respondetur: hic 
+          du<lb ed="#P" n="115" break="no"/>randus dicit: anima christi non 
+          <lb ed="#P" n="116"/>descendit ad inferos realiter: 
+          <lb ed="#P" n="117"/>et sic christus non descendit ad 
+          <lb ed="#P" n="118"/>Minferos. sed anima christi 
+          de<lb ed="#P" n="119" break="no"/>scendit secundum effectus aliquos ad inferos. et duplex 
+          <lb ed="#P" n="120"/>effegtus in proposito ponitu ynus esectus eras 
+          <pb ed="#P" n="46-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>slluminare animas patrum que erant in inferno. ali 
+          <lb ed="#P" n="2"/>us effectus erat exhibitio visionis diumine qua 
+          ca<lb ed="#P" n="3" break="no"/>rebant existentes in inferno: ad quam se habuit 
+          pas<lb ed="#P" n="4" break="no"/>sio christi per modum meriti. ratio quare sic dicat 
+          <lb ed="#P" n="5"/>est hec. dicit cum anima separata non est corpus: 
+          <lb ed="#P" n="6"/>nec virtus in corpore: non potest dici quod anima 
+          chri<lb ed="#P" n="7" break="no"/>sti descendat ad inferos / eo genere motus vel de 
+          <lb ed="#P" n="8"/>scensus quo corpora mouentur. et rursus quod 
+          anima<lb ed="#P" n="9" break="no"/>moueatur eo genere motus quo angeli mouentur 
+          <lb ed="#P" n="10"/>non clare patet. angeli tantum dicuntur moueri de 
+          <lb ed="#P" n="11"/>loco ad locum: inquantum successiue operantur in 
+          di<lb ed="#P" n="12" break="no"/>uersis locis. anima autem separata non potest 
+          ha<lb ed="#P" n="13" break="no"/>bere aliquam operationem circa locum vel circa 
+          cor<lb ed="#P" n="14" break="no"/>pus existens in loco: quia cum ex natura sua sit 
+          de<lb ed="#P" n="15" break="no"/>terminata ad certum corpus: non potest mouere 
+          <lb ed="#P" n="16"/>nec agere in aliud: nisi mediante corpore proprio. 
+          <lb ed="#P" n="17"/>sed illo caret dum est separata. ergo non potest 
+          di<lb ed="#P" n="18" break="no"/>ci moueri de loco ad locum ratione operationis 
+          <lb ed="#P" n="19"/>quam habet circa locum: vel circa corpus existens in 
+          <lb ed="#P" n="20"/>loco. In fine tamen dicit: quanuis illud sit 
+          probabi<lb ed="#P" n="21" break="no"/>liter dictum: et satis videatur saluare articulum et 
+          <lb ed="#P" n="22"/>dictum scripture: tamen quia virtus diuina non 
+          con<lb ed="#P" n="23" break="no"/>prehenditur a ratione humana: ideo non est 
+          perti<lb ed="#P" n="24" break="no"/>naciter asserendum quin anima christi per alium modum 
+          <lb ed="#P" n="25"/>nobis ignotum potuerit descendere ad infernum. nec 
+          <lb ed="#P" n="26"/>nos negamus alium modum esse forsitan veriorem: 
+          <lb ed="#P" n="27"/>sed fatemur nos illum ignorare. Uideo quod positio 
+          <lb ed="#P" n="28"/>vel fantasia huius viri fecit Ioannem picum hanc 
+          <lb ed="#P" n="29"/>conclusionem inter suas ceteras tenere: que est hec. 
+          <lb ed="#P" n="30"/>Anima christ non descendit ad inferos: sicut dicit 
+          <lb ed="#P" n="31"/>Thomas et communiter loquentes. licet in 
+          apolo<lb ed="#P" n="32" break="no"/>gia nisus est se logice vel potius sophistice tueri. 
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e200">
+          <lb ed="#P" n="33"/>¶ Pro huius erroris reprobatione pono tres 
+          <lb ed="#P" n="34"/>conclusiones. Quarum prima est: anima separata 
+          <lb ed="#P" n="35"/>realiter est in loco. Secunda conclusio: anima 
+          sepa<lb ed="#P" n="36" break="no"/>rata potest se mouere subito vel successiue per 
+          quan<lb ed="#P" n="37" break="no"/>cunque distantiam. in sensu composito et sine 
+          sophisti<lb ed="#P" n="38" break="no"/>catione omnia intelligo. Tertia conclusio: 
+          anima<lb ed="#P" n="39" break="no"/>christi realiter descendit ad inferos: et non 
+          imagina<lb ed="#P" n="40" break="no"/>rie: sicut ille vir dicit per effectus.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e220">
+          ¶ Prima 
+          con<lb ed="#P" n="41" break="no"/>clusio probatur: angelus realiter est in loco: vt in 
+          <lb ed="#P" n="42"/>secunda distinctione secundi dictum est. ergo et 
+          anima<lb ed="#P" n="43" break="no"/>separata. tenet consequentia. vna est impartibilis 
+          <lb ed="#P" n="44"/>sicut et alia: et omnis ratio improbans animam 
+          es<lb ed="#P" n="45" break="no"/>se in loco: angelum probat non esse in loco.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e234">
+          ¶ 
+          Se<lb ed="#P" n="46" break="no"/>cunda conclusio probatur. anima hominis mouet 
+          to<lb ed="#P" n="47" break="no"/>tum corpus: ergo anima est sufficiens motrix: nec 
+          <lb ed="#P" n="48"/>est minoris actiuitatis separata in mouendo quam 
+          con<lb ed="#P" n="49" break="no"/>iuncta. corpus non dat ei principium mouendi. igitur 
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e245">
+          <lb ed="#P" n="50"/>¶ Tertia conclusio probatur. quod scilicet anima christi 
+          reali<lb ed="#P" n="51" break="no"/>ter descendit ad inferos. christus descendit ad 
+          in<lb ed="#P" n="52" break="no"/>ferna sicut dicit articulus fidei: et non ratione 
+          di<lb ed="#P" n="53" break="no"/>uinitatis: quia illa est vbique. nec secundum corpus quod 
+          <lb ed="#P" n="54"/>mansit in sepulchro. ergo secundum animam. hoc dicit 
+          Au<lb ed="#P" n="55" break="no"/>gustinus in epstola ad Dardanum sic inquiens: quod non 
+          <lb ed="#P" n="56"/>ipse / die quo dixit hodie mecum eris in paradiso in 
+          <lb ed="#P" n="57"/>celo erat futurus homo / christus Iesus: sed in in 
+          <lb ed="#P" n="58"/>ferno secundum animam: in sepulchro secundum carnem. 
+          articu<lb ed="#P" n="59" break="no"/>li fidei veri sunt prout recitantur. nec oportet 
+          tro<lb ed="#P" n="60" break="no"/>pice et cum ambage eos exponere. et potissimum 
+          <lb ed="#P" n="61"/>vbi veritas habetur in foribus: sicut hic. in proba¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>tionibus suis nichil apparentie est. quot 
+          proposs<lb ed="#P" n="63" break="no"/>tiones assumit: tot falsitates annectit. Dico anima 
+          <lb ed="#P" n="64"/>mouetur licet alio genere motus quam corpus: siue 
+          <lb ed="#P" n="65"/>teneatur mobile distinctum a motu locali. siue 
+          iden<lb ed="#P" n="66" break="no"/>ptificari: non refert. falsum est quod anime non 
+          mo<lb ed="#P" n="67" break="no"/>uentur sicut angeli. Tertio: falsum est quod 
+          angelipie<lb ed="#P" n="68" break="no"/>cise mouentur quia operantur circa corpora. 
+          fal<lb ed="#P" n="69" break="no"/>sum est etiam quod anima separata non potest 
+          opera<lb ed="#P" n="70" break="no"/>ri circa corpus: quando informat corpus mouet 
+          <lb ed="#P" n="71"/>se et corpus vbilibet. sic separata mouere potest 
+          <lb ed="#P" n="72"/>se et aliud corpus minoris resistentie quam anima sit 
+          <lb ed="#P" n="73"/>actiuitatis. nullam difficultatem video quin 
+          quili<lb ed="#P" n="74" break="no"/>bet facile capit quomodo anima separata posset 
+          <lb ed="#P" n="75"/>se mouere. Dico quod est articulus fidei: quod anima 
+          chri<lb ed="#P" n="76" break="no"/>sti realiter de scendit ad inferos: et quod christus 
+          prer<lb ed="#P" n="77" break="no"/>communicationem ydiomatum descendit ad inferos. 
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e310">
+          <lb ed="#P" n="78"/>¶ Contra ista arguitur: anima christi descendit 
+          <lb ed="#P" n="79"/>ad inferos et propterea christus dicitur 
+          descendis<lb ed="#P" n="80" break="no"/>se ad inferos. vel hoc erat subito vel successiue. 
+          con<lb ed="#P" n="81" break="no"/>sequens non est certum: cum sit disiunctiua cuius 
+          <lb ed="#P" n="82"/>vtraque pars est dubia. ergo non est in illo sensu 
+          ar<lb ed="#P" n="83" break="no"/>ticulus fidei: ergo nec antecedens est certum
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e326">
+          ¶ 
+          Se<lb ed="#P" n="84" break="no"/>cundo arguitur: si christus descendit ad inferos: 
+          <lb ed="#P" n="85"/>vel hoc erat ad infimum infernorum: vel solum ad 
+          pro<lb ed="#P" n="86" break="no"/>ximum. si primum: liberauit eos in quorum inferis erat: 
+          <lb ed="#P" n="87"/>et sic liberauit omnes: si secundum: non est maior 
+          ra<lb ed="#P" n="88" break="no"/>tio quod ad vnum infernum descenderit quam ad alium. 
+          <lb ed="#P" n="89"/>ergo si ad vnum descendit: ad quemlibet descendit. 
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e342">
+          <lb ed="#P" n="90"/>¶ Concedo hanc consequentiam cum consequente: 
+          <lb ed="#P" n="91"/>christus descendit ad inferos: ergo subito vel suc 
+          <lb ed="#P" n="92"/>cessiue. et nego quod consequens non sit certum. et 
+          pro<lb ed="#P" n="93" break="no"/>batio nulla est. vtraque pars illius disiunctiue est 
+          <lb ed="#P" n="94"/>michi dubia: ergo illa disiunctiua est michi 
+          du<lb ed="#P" n="95" break="no"/>bia. patet de disiunctiua ex contradictoriis 
+          dubi<lb ed="#P" n="96" break="no"/>tabilibus conflata: nec requiritur quod partes 
+          mu<lb ed="#P" n="97" break="no"/>tuo contradicant. hec est michi certa: sortes non 
+          <lb ed="#P" n="98"/>currit vel sortes mouetur: cum sciam 
+          contradicto<lb ed="#P" n="99" break="no"/>riam huius disiunctiue esse falsam. sic est in 
+          propo<lb ed="#P" n="100" break="no"/>sito. scio hanc esse falsam: christus non descendit 
+          <lb ed="#P" n="101"/>subito et christus non descendit successiue. 
+          anima<lb ed="#P" n="102" break="no"/>christi poterat subito descendere si voluisset ad 
+          in<lb ed="#P" n="103" break="no"/>fernum. ratio est: non habuit resistentiam 
+          extrinse<lb ed="#P" n="104" break="no"/>cam per medium: nec est resistentia intrinseca: si 
+          se<lb ed="#P" n="105" break="no"/>mutare voluisset subito. ergo poterat in 
+          instanti<lb ed="#P" n="106" break="no"/>descendere: ita quod primum instans non esse vite 
+          hu<lb ed="#P" n="107" break="no"/>manitatis christi: fuisse poterat primum instans esse 
+          <lb ed="#P" n="108"/>in inferno. etiam si voluisset poterat ( quantum est ex 
+          par<lb ed="#P" n="109" break="no"/>te anime ) successiue se mouere: cum erat potentia 
+          <lb ed="#P" n="110"/>libera realiter / ratione voluntatis. et apparet quod 
+          <lb ed="#P" n="111"/>successiue descenderit: et hoc patebit soluendo 
+          ter<lb ed="#P" n="112" break="no"/>tium argumentum.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e394">
+          ¶ Pro secundi argumenti 
+          solu<lb ed="#P" n="113" break="no"/>tione scito: quadruplex erat locus in terra siue in 
+          <lb ed="#P" n="114"/>fernus. Primus et locorum infimus erat et est 
+          in<lb ed="#P" n="115" break="no"/>fernus damnatorum / eorum qui cum mortali 
+          de<lb ed="#P" n="116" break="no"/>scenderant: super quos probabiliter ponitur lim 
+          <lb ed="#P" n="117"/>bus puerorum: locus eorum qui cum solo 
+          origina<lb ed="#P" n="118" break="no"/>li decesserunt. consequenter super illos ponuntur 
+          <lb ed="#P" n="119"/>anime que purgantur: quorum locus communis dicitur 
+          pur<lb ed="#P" n="120" break="no"/>gatorium. In loco enim illo commniter purgantur: quanuis 
+          <lb ed="#P" n="121"/>alique anime ex speciali causa alibi purgantur. 
+          super<lb ed="#P" n="122" break="no"/>hec tria loca erat limbus patrum: eorum qui non erant 
+          <pb ed="#P" n="47-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>debitores alicuius pene vel quia suam penam iam 
+          <lb ed="#P" n="2"/>in purgatorio impleuerant: vel nichil purgandum 
+          <lb ed="#P" n="3"/>habebant: sed quia precium seculi nondum erat solutum: 
+          <lb ed="#P" n="4"/>illic ad solutionem vsque erant perman suri. de loco 
+          in<lb ed="#P" n="5" break="no"/>fimo ad ei vicinum nullus accessit: nec contra. bene 
+          <lb ed="#P" n="6"/>autem erat transitus a tertio loco ad quartum: non 
+          au<lb ed="#P" n="7" break="no"/>tem econuerso. nunc autem nullus est in patrum limbo: 
+          <lb ed="#P" n="8"/>nec erat aliquis postquam christus animas illas liberauit. 
+          <lb ed="#P" n="9"/>anima christi ad patrum limbum descenderat quem purga 
+          <lb ed="#P" n="10"/>uit in toto. de purgatorio probabile est quod aliquas 
+          <lb ed="#P" n="11"/>animas ab ipso liberauit: eas videlicet que 
+          flagran<lb ed="#P" n="12" break="no"/>ti desiderio cius desiderabant aduentum. et non est 
+          <lb ed="#P" n="13"/>improbabile quod omnes a purgatorio eruit. secus nunc 
+          <lb ed="#P" n="14"/>est vel post passionem. pro primo in vrbem ingressu 
+          <lb ed="#P" n="15"/>rex liberare solet captiuos pro modica pena sine 
+          <lb ed="#P" n="16"/>aliorum iactura. et tunc anima christi ingressum fecit in 
+          <lb ed="#P" n="17"/>partibus illis: non tamen diu permam sura. De duobus 
+          vl<lb ed="#P" n="18" break="no"/>timis locis neminem liberauit. non erant coniuncti 
+          ca<lb ed="#P" n="19" break="no"/>piti per gratiam. et per consequens non erant eius 
+          propin<lb ed="#P" n="20" break="no"/>qua menbra: et liberationis capacia: secundum illud Esa. 
+          <lb ed="#P" n="21"/>vltimo. Ignis eorum non extinguetur: et in inferno 
+          <lb ed="#P" n="22"/>nulla est redemptio
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e471">
+          ¶ Sed contra illud arguitur. 
+          <lb ed="#P" n="23"/>psalmista dicit psal. lxxxv. Eruisti animam meam 
+          <lb ed="#P" n="24"/>ex inferno inferiori. similiter ascensus descensui 
+          re<lb ed="#P" n="25" break="no"/>spondet: sed christus ascendit super omnes: ergo descendit 
+          <lb ed="#P" n="26"/>ad infimum infernum.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e482">
+          ¶ Ad primum dicitur: limbus 
+          pa<lb ed="#P" n="27" break="no"/>trum dicitur infernus / inferior: non simpliciter: sed 
+          con<lb ed="#P" n="28" break="no"/>paratiue ad nostram habitationem secundum illuod Iob. 
+          xiii<lb ed="#P" n="29" break="no"/>in profundum inferni descenderunt ossa mea. Ad 
+          ali<lb ed="#P" n="30" break="no"/>ud dicitur: locus altissimus / conueniebat christo: quia 
+          <lb ed="#P" n="31"/>ipse erat suprismus: sed descendere non connueniebat 
+          ei<lb ed="#P" n="32" break="no"/>nisi pro nobis. et ideo tantum descendere conueniebat 
+          <lb ed="#P" n="33"/>quantum liberare debuit.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e500">
+          ¶ Tertio principaliter 
+          ar<lb ed="#P" n="34" break="no"/>guitur probando quod non descenderit in infernum. Augu. 
+          <lb ed="#P" n="35"/>in epstola ad Dardanum dicit: non facile alicubi in 
+          scri<lb ed="#P" n="36" break="no"/>ptura inferorum nomen positum inuenitur in bono: 
+          <lb ed="#P" n="37"/>sed christus non debuit descendere in locum nisi in bonum 
+          <lb ed="#P" n="38"/>sonantem: ergo christus non descendebat ad inferos. 
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e513">
+          <lb ed="#P" n="39"/>¶ Quarto: christus solum descendit ad limbum patrum: 
+          <lb ed="#P" n="40"/>ergo non ad inferna: sed solum ad infernum.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e520">
+          ¶ Quito: 
+          <lb ed="#P" n="41"/>christus non fuit simul secundum animam in paradiso: et in 
+          in<lb ed="#P" n="42" break="no"/>ferno. sed christus post mortem ascendit ad paradisum. 
+          <lb ed="#P" n="43"/>patet Lu. xxiii. dixit latroni penitenti: hodie 
+          me<lb ed="#P" n="44" break="no"/>cum eris in paradiso.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e531">
+          ¶ Ad tertium respondetur: quanuis 
+          no<lb ed="#P" n="45" break="no"/>mem inferni non capitur communiter in bonam partem: sed 
+          sup<lb ed="#P" n="46" break="no"/>plicium importat comunius: interdum tamen in bonam 
+          partem<lb ed="#P" n="47" break="no"/>capitur: vt quod anima christi illuc descenderit que 
+          ni<lb ed="#P" n="48" break="no"/>chil supplicii illic habuit. similiter multi angeli de 
+          <lb ed="#P" n="49"/>scensum eius praecesserunt ob reuerentiam christi: vt glo. 
+          <lb ed="#P" n="50"/>dicit super illo psal. xxiii. Attollite portas 
+          princi<lb ed="#P" n="51" break="no"/>pes vestras. et cum angeli descensum anime christi ad 
+          infe<lb ed="#P" n="52" break="no"/>ros precesserunt: patet quod non erat anima eius in 
+          limbo<lb ed="#P" n="53" break="no"/>in primo instanti non esse vite christi: nisi diceretur quod 
+          <lb ed="#P" n="54"/>angeli precesserunt illud instans: et tamen angeli (dato 
+          <lb ed="#P" n="55"/>quod illic erant ) nihil supplicii habebant. vel dicitur: 
+          da<lb ed="#P" n="56" break="no"/>to quod locus ille sit tenebrosus: et non secundum se bonus: 
+          <lb ed="#P" n="57"/>tamen tmpere quo erat illic anima christi: fuit illuminatus: secundum 
+          <lb ed="#P" n="58"/>illud Esa. ix. Habitantibus / in regione vmbre 
+          mor<lb ed="#P" n="59" break="no"/>tis lux orta est eis / spuialiter saltem: sicut anime erant 
+          <lb ed="#P" n="60"/>spuritales: et sic locus erat bonus dispensatiue ad tem 
+          <lb ed="#P" n="61"/>pus.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e571">
+          ¶ Ad quartum dicitur probabiliter descendit ad 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>duo loca: quod suadetur Actuum. ii. scribitur: 
+          descen<lb ed="#P" n="63" break="no"/>dit ad locum in quo erant dolores: sed illi non erant in 
+          <lb ed="#P" n="64"/>sinu Abrahe: cui Augu. in epstola ad Cuodium 
+          stipi<lb ed="#P" n="65" break="no"/>lari videtur. illud est probabilius. sed volenti tenere 
+          <lb ed="#P" n="66"/>oppositum consequentiam nihil valet. crebro 
+          scriptu<lb ed="#P" n="67" break="no"/>ra ponit plurale pro singulari et contta. psal. v. Qunuim 
+          <lb ed="#P" n="68"/>in iniquitatibus conceptus sum: et sermo solum est 
+          <lb ed="#P" n="69"/>de originali: quod est vnum.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e593">
+          ¶ Ad quintum dicitur: si 
+          pa<lb ed="#P" n="70" break="no"/>radisus nominet locum: transeat hoc. licet deus 
+          po<lb ed="#P" n="71" break="no"/>test ponere animam in limbo et in paradiso simul: 
+          <lb ed="#P" n="72"/>vt ex. x. distinctione quarti patuit. quando christus 
+          di<lb ed="#P" n="73" break="no"/>xit latroni: hodie mecum eris in paradiso: hoc est 
+          <lb ed="#P" n="74"/>in beatitudine in limbo: quam patres illic habebunt 
+          <lb ed="#P" n="75"/>sicut Augu. exponit in epsola ad Dardanum dicens: 
+          <lb ed="#P" n="76"/>in illo autem sinu vitam eternam habuerunt anime sancte / 
+          <lb ed="#P" n="77"/>quandiu ibifuerunt post mortem christi: quia ibi extunc 
+          cla<lb ed="#P" n="78" break="no"/>ram visionem dei habuerunt.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e615">
+          ¶ Dubitatur 
+          circa<lb ed="#P" n="79" break="no"/>hanc questionem: an anima christi stetit in inferno 
+          <lb ed="#P" n="80"/>ad diem resurrectionis vsque. Respondetur quod sic: 
+          <lb ed="#P" n="81"/>que responsio suadetur auctoritatibus. dicit 
+          Au<lb ed="#P" n="82" break="no"/>gu. de fide ad Petrum / quod anima christi de inferis ad 
+          <lb ed="#P" n="83"/>carnem tertia die reuertentem idem deus secundum 
+          car<lb ed="#P" n="84" break="no"/>nem qua in sepulchro iacuit de sepulchro resurre 
+          <lb ed="#P" n="85"/>xit. Idem. xviii. de ciuitate dei declarat per illud 
+          <lb ed="#P" n="86"/>Ione dicens: propheta in ventre ceti triduo fuit: 
+          <lb ed="#P" n="87"/>et tamen alium significauit in profundo inferni 
+          tri<lb ed="#P" n="88" break="no"/>duo futurum qui domins est omnium prophetarum. hoc 
+          <lb ed="#P" n="89"/>innuit ecclesia in collecta in die resurrectionis 
+          di<lb ed="#P" n="90" break="no"/>cens. Deus qui hodierna die per vnigenitum tuum 
+          <lb ed="#P" n="91"/>eternitatis nobis aditum deuicta morte reserasti: 
+          <lb ed="#P" n="92"/>ordinauit deus quod nulla anima alia ab anima 
+          chri<lb ed="#P" n="93" break="no"/>sti deum videret: permanenter saltem: quousque 
+          chri<lb ed="#P" n="94" break="no"/>stus diabolum moriendo vicisset: quod alii de loco 
+          cor<lb ed="#P" n="95" break="no"/>porali inferni non educerentur quousque christus 
+          <lb ed="#P" n="96"/>victurus erat mortem corporalem resurgendo. 
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e657">
+          <lb ed="#P" n="97"/>¶ Sed contra illud arguitur. non decet magnum 
+          <lb ed="#P" n="98"/>principem habitare in loco vili: sed quilibet locus 
+          <lb ed="#P" n="99"/>inferni vilis est. igitur non decuit christum ita 
+          diu<lb ed="#P" n="100" break="no"/>illic manere secundum animam.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e668">
+          ¶ Respondetur. nullus 
+          <lb ed="#P" n="101"/>locus anime separate vel angelo est 
+          disconueni<lb ed="#P" n="102" break="no"/>ens a natura rei: vt latius in distinctione. xliiii. 
+          <lb ed="#P" n="103"/>quarti sententiarum dictum est.
+        </p>
+        <p xml:id="jm3cbb-e28010-d1e677">
+          ¶ Secundo magnus 
+          <lb ed="#P" n="104"/>princeps stat ad rempus in loco abiectiori vt 
+          con<lb ed="#P" n="105" break="no"/>descendat suis. Si petas: quid animabus illis 
+          bea<lb ed="#P" n="106" break="no"/>tis contigerit toto tempore quo christus non 
+          ascen<lb ed="#P" n="107" break="no"/>dit. dicitur: erant cum christo: et in locis in quibus 
+          <lb ed="#P" n="108"/>erat christus secundum humanitatem: que a viatoribus 
+          <lb ed="#P" n="109"/>videri non poterant: quia pro hoc statu necesse est 
+          <lb ed="#P" n="110"/>intelligentem fantasmata speculari. et nichil 
+          infelli<lb ed="#P" n="111" break="no"/>gitur quod non prius (natura saltem) sentitur: 
+          po<lb ed="#P" n="112" break="no"/>tissimum extra nos. modo spiritus non cadunt 
+          sub<lb ed="#P" n="113" break="no"/>obiecto sensus: et per consequens non sub obiecto 
+          <lb ed="#P" n="114"/>intellectus nostri. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

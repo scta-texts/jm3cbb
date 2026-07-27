@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="6-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e03540"><!-- l3d1q5 -->
+        <head xml:id="jm3cbb-e03540-Hd1e99">Quaestio 5</head>
+        <head xml:id="jm3cbb-e03540-Hd1e101" type="question-title">
+    An unum suppositum creatum posset alterius suppositi creati
+    dependentiam sustentare
+   </head>
+        <p xml:id="jm3cbb-e03540-d1e104">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>QUinto et 
+          finali<lb ed="#P" n="63" break="no"/>ter circa hanc distinctionem 
+          <lb ed="#P" n="64"/>queritur: an vnum suppositum 
+          cre<lb ed="#P" n="65" break="no"/>atum posset alterius 
+          suppositi<lb ed="#P" n="66" break="no"/>creati dependentiam sustentare 
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e120">
+          <lb ed="#P" n="67"/>¶ Pro solutione quaestionis 
+          no<lb ed="#P" n="68" break="no"/>tate quod questio potest 
+          biphars<lb ed="#P" n="69" break="no"/>am intelligi. vno modo quod suppositum creatum suapte 
+          <lb ed="#P" n="70"/>natura causet effectiue vnionem nature 
+          extrin<lb ed="#P" n="71" break="no"/>sece ad ipsam. Alio modo quod vna creatura 
+          termi<lb ed="#P" n="72" break="no"/>net dependentiam alterius creature 
+          substantia<lb ed="#P" n="73" break="no"/>lis: deo specialiter ad hoc cooperante: hoc 
+          dupli<lb ed="#P" n="74" break="no"/>ci sensu praemisso.
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e140">
+          ¶ Ad questionem per duas 
+          conclu<lb ed="#P" n="75" break="no"/>siones respondeo. Quarum prior erit: natura 
+          crea<lb ed="#P" n="76" break="no"/>ta non potest sustentare primo modo naturam 
+          crea<lb ed="#P" n="77" break="no"/>tam suppositabilem in proprio supposito.
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e150">
+          ¶ 
+          Secun<lb ed="#P" n="78" break="no"/>da conclusio: natura creata potest sustentare natu 
+          <lb ed="#P" n="79"/>ram creatam secundo modo. Prior conclusio probatur: 
+          <lb ed="#P" n="80"/>quaelibet natura suppositabilis propinque: actualiter 
+          <lb ed="#P" n="81"/>est suppositum: dempta humanitate assumpta a 
+          verbor<lb ed="#P" n="82" break="no"/>ergo nulla aliam suppositat: et non est visimile quin si 
+          <lb ed="#P" n="83"/>suppositare posset aliqua esset suppositata. causa 
+          <lb ed="#P" n="84"/>naturalis naturaliter suppositaret: et causa libera 
+          <lb ed="#P" n="85"/>velle potest suppositare: et sic interdum naturaliter 
+          <lb ed="#P" n="86"/>contigisset. Secundo arguitur ad idem: accidens 
+          <lb ed="#P" n="87"/>separatum nunquam actualiter dependere potest 
+          natu<lb ed="#P" n="88" break="no"/>raliter ab aliquo subiecto ( vt experimur) alio a 
+          <lb ed="#P" n="89"/>suo proprio subiecto. et si suum subiectum 
+          reprodu<lb ed="#P" n="90" break="no"/>ceretur fortasse non reunietur naturaliter: ergo a 
+          for<lb ed="#P" n="91" break="no"/>tiore substantia. Secunda conclusio probatur: deus 
+          <lb ed="#P" n="92"/>potest producere vnionem respectum in a creatura 
+          <lb ed="#P" n="93"/>cuius terminus erit b creatura: ergo a. potest 
+          assu<lb ed="#P" n="94" break="no"/>mi a b creatura. vtor modo aduersariorum de relatios 
+          <lb ed="#P" n="95"/>nibus vt clarius propositum ostendam. et tunc sic: vbicumqe 
+          <lb ed="#P" n="96"/>potest esse vnio per hanc vnionem respectum: potest esse vnio 
+          <lb ed="#P" n="97"/>sine illo respectu superaddito: igitur.
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e196">
+          ¶ Secundo 
+          <lb ed="#P" n="98"/>arguitur ad idem: non implicat vnam creaturam termina 
+          <lb ed="#P" n="99"/>re dependentiam suppositalem alterius: eurga deus potest illu 
+          <lb ed="#P" n="100"/>facere: consequentia liquet. antecedens patet: illud non 
+          po<lb ed="#P" n="101" break="no"/>nit illimitationem et infinitatem in creatura: vt patet 
+          <lb ed="#P" n="102"/>de subiecto sustentante accidens.
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e209">
+          ¶ Contra secundam 
+          <lb ed="#P" n="103"/>conclusionem arguitur natura creata suppositum 
+          crea<lb ed="#P" n="104" break="no"/>tum sunt adequate proportionabilia: igitur neutrum 
+          <lb ed="#P" n="105"/>excedit alterum: igitur sicut natura non potest esse eadem 
+          <lb ed="#P" n="106"/>plurium suppositorum: sic nec econuerso.
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e220">
+          ¶ Secundo 
+          <lb ed="#P" n="107"/>arguitur: due nature non sunt vnibiles mutuo 
+          nisi<lb ed="#P" n="108" break="no"/>sint actus et potentia: et tunc non remanet vtraque in 
+          <lb ed="#P" n="109"/>se inconfusa cum reliqua: quod tamen pertinet ad illam 
+          <lb ed="#P" n="110"/>vnionem.
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e231">
+          ¶ Tertio: suppositum assumens debet esse 
+          <lb ed="#P" n="111"/>independens simpliciter: modo quaelibet creatura a 
+          <lb ed="#P" n="112"/>deo dependet.
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e238">
+          ¶ Ad primum: tram seat maior: licet 
+          na<lb ed="#P" n="113" break="no"/>tura / sit persona comunior: sed ex superioribus 
+          pa<lb ed="#P" n="114" break="no"/>tuit quomodo eadem natura potest assumi a 
+          pluri<lb ed="#P" n="115" break="no"/>bus suppositis increatis: sic hic: eadem natura 
+          po<lb ed="#P" n="116" break="no"/>test assumi ab vna natura creata: et multe nature 
+          <lb ed="#P" n="117"/>simul assumi possuntab vna creata.
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e252">
+          ¶ Ad secundum 
+          <lb ed="#P" n="118"/>negetur maior: patet instantia de humanitate a 
+          <lb ed="#P" n="119"/>verbo assumpta.
+        </p>
+        <p xml:id="jm3cbb-e03540-d1e259">
+          ¶ Ad tertium negetur maior: licet 
+          <lb ed="#P" n="120"/>ita sit de facto: de possibili ipsa est neganda.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

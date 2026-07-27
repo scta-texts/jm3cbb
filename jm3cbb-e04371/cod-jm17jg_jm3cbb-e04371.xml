@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="8-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e04371"><!-- l3d2q2 -->
+        <head xml:id="jm3cbb-e04371-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e04371-Hd1e101" type="question-title">An Deus potest assumere naturam rationalem non fruentem
+    Deo</head>
+        <p xml:id="jm3cbb-e04371-d1e104">
+          <lb ed="#P" n="9"/>SEcundo circa 
+          eam<lb ed="#P" n="10" break="no"/>dem distinctionem queritur: an 
+          <lb ed="#P" n="11"/>deus potest assumere naturam 
+          <lb ed="#P" n="12"/>rationalem non fruentem deo. Dec 
+          <lb ed="#P" n="13"/>quaestio mota est non tanquam 
+          difficul<lb ed="#P" n="14" break="no"/>tatem habens: sed propter 
+          hen<lb ed="#P" n="15" break="no"/>ricum gandensem et aliquos 
+          ali<lb ed="#P" n="16" break="no"/>os sinistre opinantes in hac parte.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e124">
+          ¶ Pro 
+          que<lb ed="#P" n="17" break="no"/>stionis solutione ponuntur conclusiones sequentes 
+          <lb ed="#P" n="18"/>Quarum prima est: deus potest assumere naturam 
+          <lb ed="#P" n="19"/>non fruentem deo: hec sequitur ex questione 
+          prece<lb ed="#P" n="20" break="no"/>denti.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e135">
+          ¶ Secunda conclusio: deus potest assumere 
+          <lb ed="#P" n="21"/>naturam rationalem non fruentendeo. probatur hec 
+          con<lb ed="#P" n="22" break="no"/>clusio: deus potest assumere paruulum in 
+          cunabu<lb ed="#P" n="23" break="no"/>lis rationis incapacem in potentia propinqua. talis 
+          <lb ed="#P" n="24"/>natura assumpta non fruitur deo: patet: ipsa non 
+          co<lb ed="#P" n="25" break="no"/>gnoscit deum: modo voluntas non fertur in 
+          incogni<lb ed="#P" n="26" break="no"/>tum.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e152">
+          ¶ Tertia conclusio: deus potest capere 
+          ho<lb ed="#P" n="27" break="no"/>minem adultum rationis capacem in potentia 
+          propin<lb ed="#P" n="28" break="no"/>qua absque hoc quod fruatur deo. probatio huius 
+          con<lb ed="#P" n="29" break="no"/>clusionis: deus potest facere prius sine 
+          posterio<lb ed="#P" n="30" break="no"/>re: potissimum accidentaliter coniungibili: sed 
+          frui<lb ed="#P" n="31" break="no"/>tio est posterior tempore vel natura voluntate 
+          ad<lb ed="#P" n="32" break="no"/>ulte: ergo potest producere prius non producendo 
+          <lb ed="#P" n="33"/>posterius. et ex hac probatione sequitur
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e170">
+          ¶ 
+          Quar<lb ed="#P" n="34" break="no"/>ta conclusio. quod aliquis assumptus potest intuitiue 
+          <lb ed="#P" n="35"/>vel abstractiue cognoscere absque hoc quod fruatur 
+          <lb ed="#P" n="36"/>deo: probatio est ex dictis. fruitio est posterior 
+          no<lb ed="#P" n="37" break="no"/>ticia: nec essentialitur dependet a noticia: ergo deus 
+          <lb ed="#P" n="38"/>potest concurrere sua inflentia generali ad produ 
+          <lb ed="#P" n="39"/>ctionem noticie absque hoc quod concurrat ad 
+          produ<lb ed="#P" n="40" break="no"/>ctionem fruitionis.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e188">
+          ¶ Quinta conclusio: deus potest 
+          <lb ed="#P" n="41"/>assumere creaturam rationalem sine gratia. hec 
+          con<lb ed="#P" n="42" break="no"/>clusio probatur sicut praecedentes: et ex eodem contextu 
+          <lb ed="#P" n="43"/>sequitur.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e197">
+          ¶ Contra secundam conclusionemet duas sequem 
+          <lb ed="#P" n="44"/>tes arguitur sic: per vnionem nature rationalis ad 
+          <lb ed="#P" n="45"/>verbum deus est paesens: ergo immutat potentiam.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e204">
+          ¶ 
+          Re<lb ed="#P" n="46" break="no"/>spondetur nullus est color in hoc argumento. licet 
+          <lb ed="#P" n="47"/>deus sit presens entitatiue: non autem obiectiue. 
+          con<lb ed="#P" n="48" break="no"/>tingenter agit ad extra: ergo potest esse presens en 
+          <lb ed="#P" n="49"/>titatiue: sicut de facto est presens cuilibet rei: et 
+          ta<lb ed="#P" n="50" break="no"/>men non oportet quod agat ad posterius: ergo potest 
+          <lb ed="#P" n="51"/>non agere ad noticiam dei: et dato quod agat ad 
+          noti<lb ed="#P" n="52" break="no"/>ciam dei. potest non agere ad fruitionem dei. sic etiam 
+          <lb ed="#P" n="53"/>potest influere ad fruitionem dei: absque hoc quod 
+          influ<lb ed="#P" n="54" break="no"/>at ad noticiam dei. quod est posterius secundum legem 
+          <lb ed="#P" n="55"/>communem: non est necesse esse posterius si deus 
+          <lb ed="#P" n="56"/>voluerit oppositum.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e230">
+          ¶ Secundo contra easdem 
+          argui<lb ed="#P" n="57" break="no"/>tur: minor est vnio dei ad mentem rationalem per 
+          ha<lb ed="#P" n="58" break="no"/>bitum glorie: quam secundum vnionem ad suppositum: sed 
+          inpos<lb ed="#P" n="59" break="no"/>sibile est quod deus vniatur menti secundum habitum glorie 
+          <lb ed="#P" n="60"/>et mens rationalis non fruatur eo: quia impossibi¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>le est quod quis sit beatus et non fruatur deo
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e247">
+          ¶ 
+          Ter<lb ed="#P" n="62" break="no"/>tio: quod assumitur ad actum primum essendi alicuius 
+          <lb ed="#P" n="63"/>suppositi diuini assumitur ad actum secundum fruendi: quia 
+          <lb ed="#P" n="64"/>frui et esse idem sunt in deo: sed natura rationalis 
+          <lb ed="#P" n="65"/>vnita deo assumitur ad actum primum essendi 
+          diuini<lb ed="#P" n="66" break="no"/>suppositit igitur.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e260">
+          ¶ Quarto: si mens rationalis 
+          <lb ed="#P" n="67"/>assumpta a deo non necesfario frueretur ipso: sed 
+          <lb ed="#P" n="68"/>posset non frui: sequeretur quod idem suppositum 
+          diui<lb ed="#P" n="69" break="no"/>num frueretur et non frueretur: frueretur quia 
+          diui<lb ed="#P" n="70" break="no"/>num: non frueretur quia humanum.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e271">
+          ¶ Secundum 
+          argu<lb ed="#P" n="71" break="no"/>mentum tangit: quod eorum sit acceptabilius: assumi a 
+          ver<lb ed="#P" n="72" break="no"/>bo et numquam frui: vel esse beatum et non esse assumptum. 
+          <lb ed="#P" n="73"/>ego pro me secundum eligerem: sed vtrumque simul 
+          pre<lb ed="#P" n="74" break="no"/>stat alteri. Ex illo patet quod maior est neganda. Ad 
+          <lb ed="#P" n="75"/>minorem dico: anima potest esse beata per noticiam 
+          <lb ed="#P" n="76"/>intuitiuam dei que est beatitudo sine fruitione. sed 
+          <lb ed="#P" n="77"/>non potest esse complete beata sine fruitione: sed ex 
+          <lb ed="#P" n="78"/>illo nullo modo concluditur quod necesse est creaturam 
+          <lb ed="#P" n="79"/>rationalem a verbo assumptam actualitur frui.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e293">
+          ¶ 
+          Ter<lb ed="#P" n="80" break="no"/>tium argumentum concludit quod impossibile est quod 
+          chri<lb ed="#P" n="81" break="no"/>stus non fruatur secundum naturam diuini suppositi: 
+          frui<lb ed="#P" n="82" break="no"/>tio increata verbi est necessaria: et licet nature a s 
+          <lb ed="#P" n="83"/>sumpte communicetur per communicationem idiomatum esse do 
+          <lb ed="#P" n="84"/>um: non est necesse quod esse secundum scilicet fruitio ei 
+          communi<lb ed="#P" n="85" break="no"/>cetur.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e309">
+          ¶ Ad vltimum dico. est bene possibile quod 
+          cri<lb ed="#P" n="86" break="no"/>stus de necessitate fruatur deo secundum esse diuinum: 
+          <lb ed="#P" n="87"/>et secundum esse humanum contingenter fruatur deo. 
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e316">
+          <lb ed="#P" n="88"/>¶ Contra quintam conclusionem arguitur: 
+          impossi<lb ed="#P" n="89" break="no"/>bile est quod deus assumat naturam que non sit 
+          accep<lb ed="#P" n="90" break="no"/>ta: sicut impossibile est diuinum suppositum non esse 
+          <lb ed="#P" n="91"/>dilectum a deo: sed impossibile est quod natura sii 
+          gra<lb ed="#P" n="92" break="no"/>ta et a deo accepta sine gratia.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e330">
+          ¶ Secundo: 
+          gra<lb ed="#P" n="93" break="no"/>tiae culpa priuatiue opponuntur circa naturam 
+          ra<lb ed="#P" n="94" break="no"/>tionalem: et per consequens vno non inexistente 
+          neces<lb ed="#P" n="95" break="no"/>sario alterum inest: sicut oculo inest necessario visus 
+          <lb ed="#P" n="96"/>vel cecitas: sed deus non potest assumere 
+          rationa<lb ed="#P" n="97" break="no"/>lem creaturam cum culpa ex questione precedenti 
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e343">
+          <lb ed="#P" n="98"/>¶ Ad primum dicitur: natura potest assumi et non 
+          <lb ed="#P" n="99"/>esse deo grata: patet de creatura irrationali ex 
+          quae<lb ed="#P" n="100" break="no"/>stione precedenti. Secundo ad minorem dicitur: 
+          <lb ed="#P" n="101"/>natura potest esse accepta a deo sine gratia ei 
+          in<lb ed="#P" n="102" break="no"/>herente.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e356">
+          ¶ Ad secundum dicitur: gratia et 
+          culpa<lb ed="#P" n="103" break="no"/>non opponuntur priuatiue. potest dari homo in 
+          pu<lb ed="#P" n="104" break="no"/>ris naturalibus sine gratia et culpa: licet non 
+          de<lb ed="#P" n="105" break="no"/>tur de facto aliquis homo sine gratia vel culpa: 
+          <lb ed="#P" n="106"/>deus potest remittere nunc culpam mortalem in 
+          sor<lb ed="#P" n="107" break="no"/>te non infundendo gratiam. concedo tamen quod deus non 
+          <lb ed="#P" n="108"/>potest capere creaturam cum culpa: quecumque fuerit 
+          il<lb ed="#P" n="109" break="no"/>la: originalis vel venialis: potest tamen capere 
+          ho<lb ed="#P" n="110" break="no"/>minem remittendo ei suam culpam.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e376">
+          ¶ Contra illud 
+          ar<lb ed="#P" n="111" break="no"/>guitur. eliceat sortes vnum actum quem de 
+          necessita<lb ed="#P" n="112" break="no"/>te continuat per tempus: deus potest remittere 
+          sor<lb ed="#P" n="113" break="no"/>ti illam culpam vel illum actum in ratione culpe: et cum 
+          <lb ed="#P" n="114"/>hoc assumere sortem illum actum continuantem. 
+          Con<lb ed="#P" n="115" break="no"/>firmatur hec ratio: deus potest assumere 
+          platonem<lb ed="#P" n="116" break="no"/>habentem illud velle: volo caperem hoc clanculum: de 
+          <lb ed="#P" n="117"/>monstrando tunicam vicini sui: patet: deus potest 
+          da<lb ed="#P" n="118" break="no"/>re platoni dominium illius tunice.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e396">
+          ¶ Respondetur: 
+          il<lb ed="#P" n="119" break="no"/>le rationes nihil concludunt. non nego quin deus potest 
+          <lb ed="#P" n="120"/>assumere hominem sine culpa. et quando facit quod ac 
+          <lb ed="#P" n="121"/>tus assumendi non erit culpa: tunc illum assumere 
+          <pb ed="#P" n="8-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>potest: et non aliter. sed quia aliqui incircuncisis 
+          <lb ed="#P" n="2"/>labiis concedunt quod deus peccatorem potest assumere in 
+          <lb ed="#P" n="3"/>sensu composito et deus potest peccare propterea 
+          pau<lb ed="#P" n="4" break="no"/>lulum insisto. Et ad huc arguitur pro illo: deus 
+          <lb ed="#P" n="5"/>potest in hoc instanti assumere sortem: sit 
+          hocvlti<lb ed="#P" n="6" break="no"/>mum instans non esse peccati in sorte: et non est necesse 
+          <lb ed="#P" n="7"/>quod deus desinat assumere immediate post hoc sortem: 
+          <lb ed="#P" n="8"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e427">
+          ¶ Respondetur: negando minorem et 
+          con<lb ed="#P" n="9" break="no"/>sequenter concedo quod homo assumptus non potest 
+          <lb ed="#P" n="10"/>omittere culpabilitur: nec falli: nec aliquod tale 
+          con<lb ed="#P" n="11" break="no"/>cedo quod est culpa et culpe vestigium: quamadmodum est 
+          <lb ed="#P" n="12"/>falli et decipi: vel saltem in deo est deordinatum: se 
+          <lb ed="#P" n="13"/>cus est de mori quod est conditio nature.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e441">
+          ¶ Tertio 
+          <lb ed="#P" n="14"/>arguitur minor est vnio persone ad naturam in 
+          glo<lb ed="#P" n="15" break="no"/>ria quam in dersona: sed non potest vniri in glorta si 
+          <lb ed="#P" n="16"/>ne gratia.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e450">
+          ¶ Quarto: impossibile est quod aliquae forma sit 
+          <lb ed="#P" n="17"/>in subiecto sine dispositione preuia vel medio 
+          di<lb ed="#P" n="18" break="no"/>sposito: sed gratia est medium dispositum nature ad 
+          <lb ed="#P" n="19"/>vnionem: quia vnio est summa gratia secundum Aug. xiii. 
+          <lb ed="#P" n="20"/>de trini. c. xix. et superius allegauimus.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e461">
+          ¶ Ad 
+          ter<lb ed="#P" n="21" break="no"/>tium dico: aliquis potest esse beatus sine gratia de 
+          <lb ed="#P" n="22"/>potentia dei: siue beatus actiue concurrit ad suam 
+          bea<lb ed="#P" n="23" break="no"/>titatem vel ne: non refert. deus potest supplere 
+          can<lb ed="#P" n="24" break="no"/>litatem gratie et tantum iuuare naturam ad 
+          coope<lb ed="#P" n="25" break="no"/>randum sicut gratia iuuat.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e474">
+          ¶ Ad quartum: dico quod 
+          <lb ed="#P" n="26"/>maior est falsa: deus potest facere formam 
+          substan<lb ed="#P" n="27" break="no"/>tialem vel accidentalem informare suum 
+          subie<lb ed="#P" n="28" break="no"/>ctum vel perfectibile sine dispositione preuia. si 
+          <lb ed="#P" n="29"/>forma ignis informet potentiam calidam: deus 
+          po<lb ed="#P" n="30" break="no"/>test calorem tollere relinquendo actum in 
+          poten<lb ed="#P" n="31" break="no"/>tia. Ulterius dico: gratia non est medium ad vnio 
+          <lb ed="#P" n="32"/>nem requisitum. illa auctoritas Augu. non intelligit 
+          <lb ed="#P" n="33"/>de gratia gratum faciente: sed intelligitur in 
+          ma<lb ed="#P" n="34" break="no"/>xima gratia: quia gratissime ex liberalitate dei et 
+          <lb ed="#P" n="35"/>eius charitate humano generi comunicata.
+        </p>
+        <p xml:id="jm3cbb-e04371-d1e498">
+          ¶ Ex istis 
+          <lb ed="#P" n="36"/>patet quod verbum potest rationalem creaturam non 
+          <lb ed="#P" n="37"/>fruentem deo nec habentem gratiam assumere. aliqui se 
+          <lb ed="#P" n="38"/>fatigant de triplici gratia in christo. dicunt enim 
+          <lb ed="#P" n="39"/>quod quedam est grat ia singularis persone: que est 
+          <lb ed="#P" n="40"/>gratia gratum faciens: de qua post hac. xiii distin 
+          <lb ed="#P" n="41"/>ctione loquimur: secunda est gratia capitis: quia est 
+          <lb ed="#P" n="42"/>caput ecclesie secundum illud ad epheseos primo: ipsum 
+          <lb ed="#P" n="43"/>dedit caput supra omnem ecclesiam: quod est corpus 
+          <lb ed="#P" n="44"/>eius. et Augustinus ad dardanum: in christo 
+          habi<lb ed="#P" n="45" break="no"/>tat omnis plenitudo gratie sicut in capite omnis 
+          <lb ed="#P" n="46"/>sensus. Tertiam ponunt gratiam vnionis: que 
+          di<lb ed="#P" n="47" break="no"/>sponit ad hanc vnionem ex parte vnitatis secundum 
+          ale<lb ed="#P" n="48" break="no"/>xandrum questione. xii. partis tertie. ista gratia non 
+          <lb ed="#P" n="49"/>est abs quam dei formitas vel diuina assimulatio: quod 
+          <lb ed="#P" n="50"/>iste gabriel dicit est relatio siue vnio qua vnitur 
+          <lb ed="#P" n="51"/>humanitas verbo: non pono talem relationem vt 
+          <lb ed="#P" n="52"/>patet ex distinctione precedenti: nec oportet 
+          intel<lb ed="#P" n="53" break="no"/>ligere gratiam vnionis vt isti viri intelligunt: sed 
+          <lb ed="#P" n="54"/>solum de gratuita charitate dei vt supra diximus 
+          <lb ed="#P" n="55"/>ad auctoritatem Augustini. xiii. de trinita. ca. ii.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

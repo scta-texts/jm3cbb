@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="71-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e43591"><!-- l3d29q2 -->
+        <head xml:id="jm3cbb-e43591-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e43591-Hd1e101" type="question-title">An omnes proximi sunt aequaliter diligendi</head>
+        <p xml:id="jm3cbb-e43591-d1e104">
+          <lb ed="#P" n="52"/>¶ Questio secunda. 
+          <lb ed="#P" n="53"/>Une secundo circa hanc 
+          <lb ed="#P" n="54"/>distinctionem. xxix. quaero: an omnes 
+          <lb ed="#P" n="55"/>proximi sunt equaliter 
+          diligen<lb ed="#P" n="56" break="no"/>di.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e117">
+          ¶ Respondetur per duas 
+          con<lb ed="#P" n="57" break="no"/>clusiones. Quarum prior est. 
+          <lb ed="#P" n="58"/>vbi est maior vnio ad aliquem 
+          <lb ed="#P" n="59"/>ibi est maior amor. Secunda 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>conclusio ex hac sequens est: non omnes 
+          proxi<lb ed="#P" n="61" break="no"/>mi sunt equaliter diligendi. Iste due conclusiones 
+          <lb ed="#P" n="62"/>vnico contextu probantur: cum secunda ad priorem 
+          <lb ed="#P" n="63"/>sequatur. Aliqui sunt nobis proximi: contra quos 
+          <lb ed="#P" n="64"/>grauius peccamus eos offendendo quam reliquos. 
+          er<lb ed="#P" n="65" break="no"/>go tenemur tales plus diligere quam reliquos. 
+          antece<lb ed="#P" n="66" break="no"/>dens patet: leuitici. xx. precipitur: qui maledixerit 
+          <lb ed="#P" n="67"/>patri aut matri morte moriatur. et Exodi. xx. 
+          spe<lb ed="#P" n="68" break="no"/>cialiter precipitur honor parentum. et apostolus 
+          <lb ed="#P" n="69"/>prime ad Cimoth. v. Si quis suorum et maxime 
+          <lb ed="#P" n="70"/>domesticorum curam non habet: fidem non habct: 
+          <lb ed="#P" n="71"/>et est infideli deterior.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e154">
+          ¶ Insuper: tenemur plus his 
+          <lb ed="#P" n="72"/>a quibus plura beneficia accipimus: gratiarum tem 
+          <lb ed="#P" n="73"/>plum in media vrbe veteres locarunt: quinto 
+          Ethi<lb ed="#P" n="74" break="no"/>corum: sed ab aliquibus plura beneficia accipimus: 
+          igi<lb ed="#P" n="75" break="no"/>tur. consequentia est nota / cum maiore. probatur minor: 
+          <lb ed="#P" n="76"/>a parentibus / praeceptoribus / et huiusmodi. parentes 
+          de<lb ed="#P" n="77" break="no"/>derunt nobis esse: et in moribus erudierunt: vel nos 
+          <lb ed="#P" n="78"/>erudire fecerunt. dicit phoists. ix. Ethicorum: diis 
+          pa<lb ed="#P" n="79" break="no"/>rentibus / et magistris / nemo potest regratiare ad 
+          <lb ed="#P" n="80"/>condignum.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e177">
+          ¶ Contra hanc conclusione argu tur. sit 
+          <lb ed="#P" n="81"/>aliquis princeps habens pingue ius patronatum 
+          con<lb ed="#P" n="82" break="no"/>ferendum: offerantur ei duo: sortes filius eius minus 
+          <lb ed="#P" n="83"/>idoneus pro illo beneficio: vel inidoneus: et plato 
+          ido<lb ed="#P" n="84" break="no"/>neus: arguitur sic: princeps iste tenetur beneficium 
+          da<lb ed="#P" n="85" break="no"/>re platoni: vel praesentare idoneum epsto: et non 
+          conferre<lb ed="#P" n="86" break="no"/>beneficium sorti: ergo conclusiones false.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e193">
+          ¶ Secundo 
+          <lb ed="#P" n="87"/>arguitur: pono regem esse in periculo: et patrem. et non 
+          <lb ed="#P" n="88"/>possum succurrere vtrique. sed vni tantum: sunt inuasi 
+          ab<lb ed="#P" n="89" break="no"/>hostibus: vel in domo incinerata: vel in tali artitu 
+          <lb ed="#P" n="90"/>dine positi: et pono quod rex sit bonus et toti 
+          reipu<lb ed="#P" n="91" break="no"/>blice vtilissimus: ita quod merito dici debeat pater 
+          pa<lb ed="#P" n="92" break="no"/>trie: et pater meus non sit multum reipublice vtilis. hoc 
+          <lb ed="#P" n="93"/>supposito arguitur sic: teneor succurrere regi et non 
+          <lb ed="#P" n="94"/>pateri: quia debeo hatre maiorem obtuitum ad reipublice vti 
+          <lb ed="#P" n="95"/>litatem quam ad mortem naturalem patris.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e215">
+          ¶ Ad primum 
+          conce<lb ed="#P" n="96" break="no"/>do quod iste princeps tenetur praesentare platonem epso: et non 
+          <lb ed="#P" n="97"/>suum filium. beneficium non est eius: sed cultui diuino deputatum. 
+          <lb ed="#P" n="98"/>propaterea secundum leges diuinas ecanonicas conferri debet 
+          ido<lb ed="#P" n="99" break="no"/>neo: inidoneo neglecto. vel magis idoneo: minus 
+          <lb ed="#P" n="100"/>idoneo praetermisso. secus est de bonis propriis eius: illa 
+          <lb ed="#P" n="101"/>ministrabit sorti. heres est magis idoneus respectu 
+          <lb ed="#P" n="102"/>hereditatis habsponde quam plato: con respectu beneficii / 
+          pla<lb ed="#P" n="103" break="no"/>to.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e235">
+          ¶ Ad secundem dico in illo casu succurram regi 
+          praetermis<lb ed="#P" n="104" break="no"/>so patre. magis debeo curare de salute totius 
+          reipu<lb ed="#P" n="105" break="no"/>blice / quam vita corperali patris. si ceta omnia essent paria: 
+          <lb ed="#P" n="106"/>hoc dempto quod vnus esset extraneus et alteur patur: vel vnus 
+          ma<lb ed="#P" n="107" break="no"/>gis propinquus quam altur: patri et propinquiori citius succurram quadm al 
+          <lb ed="#P" n="108"/>teri ratione vnionis et propiquitatis. potest esse tanta vtilitas in 
+          <lb ed="#P" n="109"/>republica ad succurrendum extraneo: quod ratio dictat in 
+          ca<lb ed="#P" n="110" break="no"/>su quod debeo extraneum praeferre: tunc ceta sunt imparia. 
+          <lb ed="#P" n="111"/>potest intnrdum esse ita peruus excessus extranei in vtilitate 
+          <lb ed="#P" n="112"/>reipublice super patrem: quod patri est succurrendum: tali 
+          re<lb ed="#P" n="113" break="no"/>licto: quia vnio sanguinis / et beneficia a patre 
+          ac<lb ed="#P" n="114" break="no"/>cepta / illi excessui vtilitatis sunt preferenda. 
+          inter<lb ed="#P" n="115" break="no"/>dum propter magnum excessum in vtilitate 
+          reipu<lb ed="#P" n="116" break="no"/>blice / pater est postponendus. interdum est casus 
+          <lb ed="#P" n="117"/>viro ambiguus: sic quod potest capere optionem: 
+          in<lb ed="#P" n="118" break="no"/>ter causas et motiua equalia contraria: ita quod tot 
+          <lb ed="#P" n="119"/>apparentie sunt ad succurrendum patri / quot ad 
+          <pb ed="#P" n="72-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>succurrendum alteri: et contra: et tanti ponderis 
+          <lb ed="#P" n="2"/>apud me.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e281">
+          ¶ Tertio arguitur: debeo ergo propinquiori suc 
+          <lb ed="#P" n="3"/>currere ceteris paribus. contra: ergo citius homo debet 
+          <lb ed="#P" n="4"/>succurrere pateri quod filio: si essent ambo in necessitate 
+          <lb ed="#P" n="5"/>qua homo non potest vtrique succurrere: vtpote vnus 
+          <lb ed="#P" n="6"/>occidetur / incinerabitur / vel morietur inedia / nisi suc 
+          <lb ed="#P" n="7"/>curratur ei per frustrum panis: qui solivnisufficit. quod 
+          <lb ed="#P" n="8"/>citius patet: substantiam et esse accepit ex parentibus: 
+          <lb ed="#P" n="9"/>talem non accepit a filio. ergo est maior vnio 
+          viri<lb ed="#P" n="10" break="no"/>ad parentes quam viri ad filios: cum esse naturale: in 
+          <lb ed="#P" n="11"/>moribus / et in vita / educationem a patre accepit: 
+          <lb ed="#P" n="12"/>non tamen accepit a filio: sedeem filio 
+          communica<lb ed="#P" n="13" break="no"/>uit: et eum aluit. quod si concedas propter ratones 
+          <lb ed="#P" n="14"/>adductas debeomaiore affectu et effectu succurre 
+          <lb ed="#P" n="15"/>re patri quam filio.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e312">
+          ¶ Contra hoc arguitur: per 
+          aposto<lb ed="#P" n="16" break="no"/>lum secunde ad Corinthios. xii. non debent filii 
+          the<lb ed="#P" n="17" break="no"/>saurizare parentibus: sed parentesfiliis: ergo 
+          filii<lb ed="#P" n="18" break="no"/>sunt magis diligendi quam parentes: quia illum magis 
+          <lb ed="#P" n="19"/>debemus diligere / cui debemus magis 
+          beneface<lb ed="#P" n="20" break="no"/>re.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e326">
+          ¶ Confirmatur hec auctoritas apostoli ratione: 
+          <lb ed="#P" n="21"/>naturam gratia perficit: et nature non contrahit. 
+          <lb ed="#P" n="22"/>sed parentes plus naturaliter diligunt filios quam 
+          pa<lb ed="#P" n="23" break="no"/>rentes: teste Aristotele. viii. Ethicorum: et 
+          quoti<lb ed="#P" n="24" break="no"/>diana experientia rerum magistra
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e337">
+          ¶ Respondetur: 
+          <lb ed="#P" n="25"/>homo magis debet diligere parentes quam filios: hoc 
+          <lb ed="#P" n="26"/>est maiore effectu. de actu elicito: potest filios quam in 
+          <lb ed="#P" n="27"/>tense voluerit diligere: et parentes remissius. 
+          pro<lb ed="#P" n="28" break="no"/>pterea de affectu non debet esse contentio: esto quod 
+          <lb ed="#P" n="29"/>aliqui hoc probare satagunt: et minus erudite 
+          opi<lb ed="#P" n="30" break="no"/>nione mea. rationes ad partem illam inducte hoc 
+          <lb ed="#P" n="31"/>sufficienter probant: et hoc dicit Ambrosius primo 
+          <lb ed="#P" n="32"/>libro officiorum inquiens: primo deus est diligendus. 
+          <lb ed="#P" n="33"/>secundo parentes: inde filii: post domestici. 
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e359">
+          <lb ed="#P" n="34"/>¶ Ad rationes ad aliam partem respondetur 
+          con<lb ed="#P" n="35" break="no"/>cedendo quod parentes opes liberis ministrant: et non 
+          <lb ed="#P" n="36"/>econuerso: quia communiter pauciora habent: et 
+          diu<lb ed="#P" n="37" break="no"/>tius sunt victuri. sed vbi parentes egerent: et 
+          filii<lb ed="#P" n="38" break="no"/>bomdoa haberent: tenentur iure naturali et diuino 
+          neces<lb ed="#P" n="39" break="no"/>saria parentibus suppeditare.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e375">
+          ¶ Ad secundum 
+          ar<lb ed="#P" n="40" break="no"/>gumentum concodoquod inclinamur plus succurrere 
+          <lb ed="#P" n="41"/>filiis quam parentibus. sunt enim effectus nostri: et 
+          ip<lb ed="#P" n="42" break="no"/>sis viuimus tanquam in nostris operibus. sicut sua 
+          po<lb ed="#P" n="43" break="no"/>emata plus diligunt poete / quam multos homines. 
+          <lb ed="#P" n="44"/>propterea naturaliter inclinatur homo plus 
+          dili<lb ed="#P" n="45" break="no"/>gere eum cui benefacit / quom contra: vt recte dicit 
+          phi<lb ed="#P" n="46" break="no"/>losophus. Sed quo ad illud tactum in argumento / 
+          <lb ed="#P" n="47"/>naturam gratia perficit: Respondetur: naturam in 
+          <lb ed="#P" n="48"/>terdum perficit. hoc est concurrit cum inclinatione 
+          <lb ed="#P" n="49"/>naturali: vt ad erudiendos filios: et ad eis 
+          benefa<lb ed="#P" n="50" break="no"/>ciendum / spuimaliter / vel temporaliter / secundum 
+          prece<lb ed="#P" n="51" break="no"/>ptum dei. nonnunquam appetitus naturalis inclinat 
+          <lb ed="#P" n="52"/>ad illicitum: et tunc gratia quo ad talem concursum 
+          <lb ed="#P" n="53"/>non perficit naturam: sed ipsi reluctatur. sed illa 
+          intel<lb ed="#P" n="54" break="no"/>ligo ceteris paribus: hoc est inquantum pater et 
+          fili<lb ed="#P" n="55" break="no"/>us. si autem filius benefaceret patri in vita / et in via 
+          <lb ed="#P" n="56"/>morum: et pater nichil boni / vel parum boni fecit 
+          <lb ed="#P" n="57"/>filio: in tali casu plus esset diligendus filius quam patur. 
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e417">
+          <lb ed="#P" n="58"/>¶ Si fat questio inter pratrem et matrem / quem 
+          eorum<lb ed="#P" n="59" break="no"/>debet proles plus diligere. Respondetur: patrem. 
+          <lb ed="#P" n="60"/>habet nobilius principium ad generationem filii quod 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>mater: et plus comnius laborat pro conscruationevi 
+          e<lb ed="#P" n="62" break="no"/>filii tam in naturalibus quod in moribus quam mater. 
+          cr<lb ed="#P" n="63" break="no"/>go est plus diligendus quod mater.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e435">
+          ¶ Sed contra hoc 
+          <lb ed="#P" n="64"/>arguitur: mater plus diligit filium quam pater secundum 
+          ari<lb ed="#P" n="65" break="no"/>stotelem. ix. Ethicorum: ergo filius magisdebet 
+          dili<lb ed="#P" n="66" break="no"/>gere matrem quam patrem. Respondetur: consequentia 
+          <lb ed="#P" n="67"/>est nulla. argumentum probaret quod plus debeam amicum 
+          <lb ed="#P" n="68"/>meum diligere quam patrem. forte amicus meus 
+          intem<lb ed="#P" n="69" break="no"/>sius diligit me quod pater. Si loquaris ad maius 
+          bo<lb ed="#P" n="70" break="no"/>num / vel citius obiret mortem prome. dico quod hac 
+          <lb ed="#P" n="71"/>via pater tantum diligit filium vel magis quam mater. 
+          <lb ed="#P" n="72"/>quod mater plus diligit filium quam pater / id ratiois est. 
+          se<lb ed="#P" n="73" break="no"/>cundum philosophum. ix. Ethicorum: est certior quod est 
+          fe<lb ed="#P" n="74" break="no"/>tus eius quam pater: diu stetit in iuuentute cum filio: 
+          <lb ed="#P" n="75"/>eum amando:  per consequens est intensus habitus 
+          <lb ed="#P" n="76"/>amandi in ea genitus circa filium amandum: et magnis 
+          <lb ed="#P" n="77"/>doloribus filium enixa est / et enutriuit.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e469">
+          ¶ Contra ista 
+          <lb ed="#P" n="78"/>arguitur: ergo homo ceteris paribus citius debet 
+          <lb ed="#P" n="79"/>succurrere parentibus quam proprie vxori. consequens 
+          <lb ed="#P" n="80"/>est falsum: vt patet per illud quod scribitur Genesis 
+          <lb ed="#P" n="81"/>ii. propter vxorem relinquet homo 
+          patremematren<lb ed="#P" n="82" break="no"/>e erunt duo in carne vna. quod sequatur patet sic: plura 
+          <lb ed="#P" n="83"/>bonaa parentibus accepit.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e485">
+          ¶ Respondetur: 
+          homo<lb ed="#P" n="84" break="no"/>tenetur relinquere matrem coherere cum vxore ad 
+          <lb ed="#P" n="85"/>carnalem copulam. citius tamen iudico quod vir tenetur 
+          <lb ed="#P" n="86"/>succurrere parentibus / vel alteri eorum / quod vxori. sunt 
+          <lb ed="#P" n="87"/>duo in carne vna: hoc est / ordinantur propter vnam 
+          <lb ed="#P" n="88"/>carnem generandam.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e498">
+          ¶ Quarto arguitur: sequitur 
+          <lb ed="#P" n="89"/>ex conclusione quod homo citius tenetur succurrere 
+          sor<lb ed="#P" n="90" break="no"/>ti existenti in gratia quam platoni existenti in mortali. 
+          <lb ed="#P" n="91"/>patet: cum sorte est maior vnitas. non est solum 
+          haben<lb ed="#P" n="92" break="no"/>dus oculus ad vnionem sanguinis: sed in eadem 
+          mi<lb ed="#P" n="93" break="no"/>litia: quare milites eiusdem exercitus / plus se diligunt 
+          <lb ed="#P" n="94"/>quam milites alterius exercitus / ad eandem ciuitatem / 
+          <lb ed="#P" n="95"/>ad eandem licentiam in theologia / adidem collegi 
+          <lb ed="#P" n="96"/>um / ad eandem charitatem. sortes existit in gratia / 
+          <lb ed="#P" n="97"/>vel est bonus: et constat quod est talis: et sic plato est in 
+          mor<lb ed="#P" n="98" break="no"/>tali: et putatur ita esse: sunt ambo in extrema 
+          necessi<lb ed="#P" n="99" break="no"/>tate. cicero potest tantum vni succurrere: sequitur 
+          quodci<lb ed="#P" n="100" break="no"/>tius tenetur succurrere sorti quam platoni: conequens est falsum 
+          <lb ed="#P" n="101"/>conseqentia patet per fundamentum maioris vnionis. falsitas 
+          <lb ed="#P" n="102"/>cosequentis patet: si non succurratur sorti solum moritur corpere: et 
+          <lb ed="#P" n="103"/>euolabit: et plato damnabitur. modo mors peccatorum 
+          pessi<lb ed="#P" n="104" break="no"/>ma.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e535">
+          ¶ Respondetur: est color quod citius debeam succurrere 
+          <lb ed="#P" n="105"/>malo perper argumentum factum. sed concedo quod citius de 
+          <lb ed="#P" n="106"/>beo succurrere sorti quam platoni. plato potest dispone 
+          <lb ed="#P" n="107"/>re seipsum et habtere gratiam et gloriam: et si non faciat: ei 
+          impu<lb ed="#P" n="108" break="no"/>tabitur. bonitas sortis non debet ei nocere. non debeo eum 
+          <lb ed="#P" n="109"/>negligere / vt succurram sorti: licet damnetur plato: est 
+          ex<lb ed="#P" n="110" break="no"/>culpa sua: et mihi non imputabitur. Concedo illud quod 
+          <lb ed="#P" n="111"/>est in argumento assumptum. semper vbi sunt plures 
+          <lb ed="#P" n="112"/>raes vnitatis: ibi debet esse maior amor: vt plus 
+          viri<lb ed="#P" n="113" break="no"/>ntre facultatis mutuo inter se debent conuenire quam alii: 
+          <lb ed="#P" n="114"/>plus illi de eadem licentia quam alii de eaos facultate: 
+          pl<lb ed="#P" n="115" break="no"/>illi quorum altr erat regens alteri quam altur.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e561">
+          ¶ Quinto et 
+          fi<lb ed="#P" n="116" break="no"/>naliter arguitur. sint pater meus et plato (qui 
+          me<lb ed="#P" n="117" break="no"/>am vitam tuebatur inter latrones cum discrimine 
+          <lb ed="#P" n="118"/>vite sue magno ) ambo in extrema necessitate: sic sclicet: quod 
+          <lb ed="#P" n="119"/>non possum vtrique succurrere. tunc sic: teneor platoni 
+          <lb ed="#P" n="120"/>citius succurrere quam patri. patet: fuauit michi vitam per actum 
+          <pb ed="#P" n="72-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>difficilem: et pater dedit michi vitam eo modo 
+          <lb ed="#P" n="2"/>quocausa secunda potest vitam dare / per actum non ita 
+          <lb ed="#P" n="3"/>difficilem: et non minor est virtus quam querere parta 
+          <lb ed="#P" n="4"/>tueri: ergo conclusio nulla.
+        </p>
+        <p xml:id="jm3cbb-e43591-d1e587">
+          ¶ Respondetur: non 
+          <lb ed="#P" n="5"/>video inconueniens dicere quod possum platoni suc 
+          <lb ed="#P" n="6"/>currere / patre derelicto: potissimum si patur non erat 
+          <lb ed="#P" n="7"/>multum sollicitus de bono spirituali meo: et iste 
+          pla<lb ed="#P" n="8" break="no"/>to tantum fecit circa meam nutritionem 
+          corpora<lb ed="#P" n="9" break="no"/>lem sicut pater. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

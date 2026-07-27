@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="27-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e16242"><!-- l3d13q4 -->
+        <head xml:id="jm3cbb-e16242-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e16242-Hd1e101" type="question-title">Quomodo terminatur potentia passiva animae in receptione
+    gratiae vel alterius formae</head>
+        <p xml:id="jm3cbb-e16242-d1e104">
+          <lb ed="#P" n="98"/>QUarto et 
+          finali<lb ed="#P" n="99" break="no"/>ter vt soluatur finale argumentum 
+          <lb ed="#P" n="100"/>quaestionis prime huius 
+          distinctio<lb ed="#P" n="101" break="no"/>nis quaeritur: quomodo terminatur 
+          potem<lb ed="#P" n="102" break="no"/>tia passiua anime in receptione 
+          gra<lb ed="#P" n="103" break="no"/>tie vel alterius forme. et 
+          contempla<lb ed="#P" n="104" break="no"/>tione illius quomodo terminatur 
+          poten<lb ed="#P" n="105" break="no"/>tia actiua in sufeffectus productione. materias 
+          hu<lb ed="#P" n="106" break="no"/>ius negocii alibitango crebriter interarguendum. nunc 
+          <lb ed="#P" n="107"/>autem non nihil de es loqui propono raptsssime: tamen quia 
+          ma<lb ed="#P" n="108" break="no"/>teria est phisica
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e130">
+          ¶ Pro quaestionis solutione scito: 
+          <lb ed="#P" n="109"/>propositiones in quibus ponuntur huiusmodi superlatiui sunt 
+          <lb ed="#P" n="110"/>exponibiles. et si nulle ponantur negationes / non 
+          <lb ed="#P" n="111"/>est opus alia expositione ab aliis superlatiuis a. est 
+          <lb ed="#P" n="112"/>maxima gratiia quam anima potest suscipere: a. est magna 
+          gratia<lb ed="#P" n="113" break="no"/>quam anima potest suscipere: et nullam maiorem gratiam anima 
+          <lb ed="#P" n="114"/>potest suscipere. vel cathegoreumatice sic: inter 
+          <lb ed="#P" n="115"/>omnes gratias quas anima potest suscipere a est 
+          maxi<lb ed="#P" n="116" break="no"/>ma. vel a. excedit omnes gratias quas anila potest 
+          susci<lb ed="#P" n="117" break="no"/>pere. nec inconuenit superlatiuum ponere in 
+          exponen<lb ed="#P" n="118" break="no"/>te superlatiui: dummon tota exponens lucidius 
+          dete<lb ed="#P" n="119" break="no"/>gat naturam exponibilis: non requiritur aliud. a est 
+          <lb ed="#P" n="120"/>minima gratia quam anima potest suscipere: inter omnes 
+          <lb ed="#P" n="121"/>gatas quas anima potest suscipere a est minor. ipotheti 
+          <pb ed="#P" n="27-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cesic: a est parua gratia quam anima potest suscipere 
+          <lb ed="#P" n="2"/>et nullam minorem a. anima potest suscipere. a est 
+          mini<lb ed="#P" n="3" break="no"/>mum pondus quod sortes non potest portare: a potedus 
+          <lb ed="#P" n="4"/>sortes non potest portare: nec tantum. et quocunqe 
+          <lb ed="#P" n="5"/>minore poedere dato / datur maius infra a quod 
+          sor<lb ed="#P" n="6" break="no"/>tes potest portare. aliqui sic exponunt: a est paruum 
+          <lb ed="#P" n="7"/>potedus quod sortes non potest portare: et 
+          quodli<lb ed="#P" n="8" break="no"/>bet minus sortes potest portare. a. est maximum 
+          visi<lb ed="#P" n="9" break="no"/>bile quod sortes non potest videre: sic exponitur. 
+          <lb ed="#P" n="10"/>a visibile sortes non potest videre: nec tantum: et quo 
+          <lb ed="#P" n="11"/>cumque maiore dato datur minus super a quod 
+          sor<lb ed="#P" n="12" break="no"/>tes potest videre. alii aliter exponunt. sed cum 
+          diffi<lb ed="#P" n="13" break="no"/>cultas est verbalis: nunc hoc modo vtar: nunc alio in 
+          <lb ed="#P" n="14"/>ter loquendum: iste tamen modus exponendi plura 
+          inclu<lb ed="#P" n="15" break="no"/>dit sine addito: quia signata latitudine forme a. 
+          <lb ed="#P" n="16"/>gradu vt quattuor ad gradum vt sex exclusiue: 
+          <lb ed="#P" n="17"/>gradus vt sex est remississimus qui non est in a. 
+          la<lb ed="#P" n="18" break="no"/>titudine: et tamen non quelibet remissior illo est in a 
+          la<lb ed="#P" n="19" break="no"/>titudine: quia nullus infra gradum vt quattuor. 
+          Si<lb ed="#P" n="20" break="no"/>militer gradus vt quattuor est intensissimus qui 
+          <lb ed="#P" n="21"/>non est in eadem latitudine: et tamen non quelibet intensior 
+          <lb ed="#P" n="22"/>illo est in eadest latitudine: cum non sit gradus 
+          intensi<lb ed="#P" n="23" break="no"/>or. gradu vt sex. Alii dicerent gradus vt sex est 
+          re<lb ed="#P" n="24" break="no"/>mississimus qui non est in latitudine supra quattu 
+          <lb ed="#P" n="25"/>or similiter dicerent / licet b. non sit minimum spacium 
+          <lb ed="#P" n="26"/>per quod a visibile non potest videri: tamen est minimum 
+          <lb ed="#P" n="27"/>spacium per quod a visibile non potest videri / ob distantie 
+          <lb ed="#P" n="28"/>magnitudinem: vel elongationem a potentia visiua et 
+          <lb ed="#P" n="29"/>conuinci non possunt: quia de quid nominis certatur. 
+          Quo<lb ed="#P" n="30" break="no"/>fit: secundum omnem modum prior exponens est preiacens / 
+          <lb ed="#P" n="31"/>capiendo positiuum superlatiui: et secunda exponens est 
+          <lb ed="#P" n="32"/>opposite qualitatis ad exponibilem.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e234">
+          ¶ His 
+          sup<lb ed="#P" n="33" break="no"/>positis aduerte ad inferendam diuisionem de 
+          maxi<lb ed="#P" n="34" break="no"/>mo et minimo affirmatiueet negatiue oportet 
+          du<lb ed="#P" n="35" break="no"/>as subcontrarias esse veras: quarum si affirmatiua 
+          <lb ed="#P" n="36"/>verificatur pro maiore quam negatiua / sequitur 
+          maxi<lb ed="#P" n="37" break="no"/>mum quod non: vel minimum quod sic. vnde bene sequitur: aliquod 
+          <lb ed="#P" n="38"/>visibiletu potes videre: et aliquod tu non potes 
+          <lb ed="#P" n="39"/>videre: nec tantum. igitur est dabile maximum 
+          visibi<lb ed="#P" n="40" break="no"/>le quod tu non potes videre: vel minimum quod tu potes 
+          <lb ed="#P" n="41"/>videre. si affirmatiua verificetur pro minore quam 
+          nega<lb ed="#P" n="42" break="no"/>tiua: sequitur disiunctiua per maximum quod sic: vel mini 
+          <lb ed="#P" n="43"/>mum quod non: vt aliquod potedus sortes potest portare: 
+          <lb ed="#P" n="44"/>et aliquod pondus non potest portare. igitur est dare 
+          <lb ed="#P" n="45"/>maximum potedus quod sortes potest portare: vel 
+          mini<lb ed="#P" n="46" break="no"/>mum quod non potest portare. Si vero affirmatiua 
+          veri<lb ed="#P" n="47" break="no"/>ficetur pro equali illi pro quo negatiua verificatur. 
+          <lb ed="#P" n="48"/>non sequitur aliqua disiunctiua per negationem vel 
+          affir<lb ed="#P" n="49" break="no"/>mationem istorum membrorum. vt non sequitur: aliqua 
+          <lb ed="#P" n="50"/>pars a corporis est alba:et aliqua non est alba: igitur 
+          <lb ed="#P" n="51"/>est dare maximam partem albam: vel minimam non 
+          albam<lb ed="#P" n="52" break="no"/>vel maximam non albam: vel minimam albam. quia posito quod 
+          <lb ed="#P" n="53"/>medietas a. esset totaliter alba:et reliqua totaliter 
+          <lb ed="#P" n="54"/>nigra: anteecedens esset verum / et disiunctiua ex omnibus 
+          <lb ed="#P" n="55"/>menbris conflata falsa. quo fit: si non sit subcontrariarum 
+          <lb ed="#P" n="56"/>vificatio: non est necesse hanc partitionem admittere. 
+          <lb ed="#P" n="57"/>et quia illa copulatiua non est vera: aliquam gratiam anima 
+          <lb ed="#P" n="58"/>potest recipere. et aliquam non potest recipere. vel aliquam 
+          <lb ed="#P" n="59"/>gratiam deus potest creare: et aliquam gratiam non potest 
+          crea<lb ed="#P" n="60" break="no"/>re: on sequitur disiunctiua. licet interdum gratia materie 
+          <lb ed="#P" n="61"/>sequatur. Addi solet quod vna pars non verificetur pro 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>infinito. propterea per aliquod tempus anticprisus 
+          po<lb ed="#P" n="63" break="no"/>test esse futurns: et per aliquod tempus antichristus 
+          <lb ed="#P" n="64"/>non potest esse futurus ( quia per tempus 
+          infini<lb ed="#P" n="65" break="no"/>tum) et tamen non sequitur: ergo est dabile maximum 
+          <lb ed="#P" n="66"/>tempus per quod antichristus potest esse futurus: 
+          <lb ed="#P" n="67"/>vel maximum tempus per quod anticpristus non 
+          po<lb ed="#P" n="68" break="no"/>test esse futurus: et sic de aliis duobus membris. 
+          <lb ed="#P" n="69"/>si detur aliquod membrum: maxime erit hoc: minimum 
+          <lb ed="#P" n="70"/>tempus per quod anticpristus non potest esse 
+          futu<lb ed="#P" n="71" break="no"/>rus: conando verificare pro tempore infinito: sed 
+          <lb ed="#P" n="72"/>hoc non: quia illud tempus non est paruum. licet per 
+          <lb ed="#P" n="73"/>totum illud tempus non potest esse futurus: etiam 
+          <lb ed="#P" n="74"/>non per quodlibet minus tempus potest esse 
+          fu<lb ed="#P" n="75" break="no"/>turus: tenendo vnum infinitum minus alio.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e333">
+          ¶ 
+          Con<lb ed="#P" n="76" break="no"/>tra illud arguitur: non sequitur: aliquod pondus 
+          <lb ed="#P" n="77"/>sortes potest portare: et aliquod pondus sortes non 
+          <lb ed="#P" n="78"/>potest portare: ergo datur maximum pondus quod 
+          sor<lb ed="#P" n="79" break="no"/>tes potest portare: vel minimum pondus quod 
+          sor<lb ed="#P" n="80" break="no"/>tes non potest portare. Sed dicis sicut dicendum 
+          <lb ed="#P" n="81"/>est: datur minimum pondus quod sortes non potest 
+          <lb ed="#P" n="82"/>portare: puta pondus equalis resistentie cum 
+          poten<lb ed="#P" n="83" break="no"/>tia portatiua sortis: quia illud pondus sortes non 
+          <lb ed="#P" n="84"/>potest portare in potentia propinqua: nec aliquod 
+          <lb ed="#P" n="85"/>equalis resistentie cum illo: et quodlibet minus 
+          po<lb ed="#P" n="86" break="no"/>test portare quantum est ex parte etus. (hoc addo lice 
+          <lb ed="#P" n="87"/>pondus minus resistens in centro terre portare 
+          <lb ed="#P" n="88"/>non poterit: tamen non est desectus exparie sortis ) 
+          <lb ed="#P" n="89"/>sit illud pondus actiuitatis descendendo vt quat 
+          <lb ed="#P" n="90"/>tuor. et sortes potentie motiue vt quattuor. 
+          gra<lb ed="#P" n="91" break="no"/>tia exempli. quod quodlibet minus potest portare 
+          pa<lb ed="#P" n="92" break="no"/>tet. per regulam philosophi. vii. phisicorum. ab 
+          omni<lb ed="#P" n="93" break="no"/>proportione inequalitatis maioris fit actio: hoc 
+          <lb ed="#P" n="94"/>est quandocumque potentia motiua excedit 
+          resisten<lb ed="#P" n="95" break="no"/>tiam passi prouenit vel prouenire poterit actio. 
+          pio<lb ed="#P" n="96" break="no"/>uenit in agente naturali: et in agente libero potest 
+          <lb ed="#P" n="97"/>prouenire actio.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e383">
+          ¶ Contra hoc arguitur: sit a. illud 
+          <lb ed="#P" n="98"/>potedus minimum quod sortes non potest portare: ar¬¬ 
+          <lb ed="#P" n="99"/>guitur sic: illud pondus sortes potest portare: ergo 
+          <lb ed="#P" n="100"/>datur maximum potedus resistens quod sortes potest 
+          por<lb ed="#P" n="101" break="no"/>tare. quod sortes potest portare a. potedus patet primo: 
+          <lb ed="#P" n="102"/>quamlibet partem a. ponderis sortes in potentia 
+          pro<lb ed="#P" n="103" break="no"/>pinqua potest portare: quia cuiuslibet partis 
+          resisten<lb ed="#P" n="104" break="no"/>tiam exuperat potentia motiua sortis. ponatur 
+          ines<lb ed="#P" n="105" break="no"/>se: quod quamlibet partem a potederis sortes portat: tunc 
+          <lb ed="#P" n="106"/>portat a pondus. Tum secundo: potest iuuare 
+          plato<lb ed="#P" n="107" break="no"/>nem ad portandum a pondus: partialiter causare est 
+          <lb ed="#P" n="108"/>causare: ergo partialiter portare est portare. Tum 
+          <lb ed="#P" n="109"/>tertio: si ponatur in pluribus locis / potest se solo a 
+          <lb ed="#P" n="110"/>portare. Tum quarto: auferatur centestam pars 
+          grani<lb ed="#P" n="111" break="no"/>millii ab a pondere: iam a potedus sortes potest por¬¬ 
+          <lb ed="#P" n="112"/>tare: et centesima pars grani millii non potest 
+          impe<lb ed="#P" n="113" break="no"/>dire sortem vel gigantem ne portet potedus. Tum quin 
+          <lb ed="#P" n="114"/>to: lanam in duplo maiorem potest portare: ergo 
+          poto<lb ed="#P" n="115" break="no"/>dus maius: ergo a potedus potest portare. Tum sexto 
+          <lb ed="#P" n="116"/>ponatur a potedus super caput sortis in hoc instana 
+          <lb ed="#P" n="117"/>ti: vel in hoc instanti a descendit: et tunc a 
+          proportio<lb ed="#P" n="118" break="no"/>ne equalitatis fiet actio. si non descendit: tunc sortes 
+          <lb ed="#P" n="119"/>superfert a pondus: et per consequens ipsum portat. 
+          <lb ed="#P" n="120"/>si dicas sicut dicendum est non potest mouere a 
+          pon<lb ed="#P" n="121" break="no"/>dus de loco in quo ponitur: nec potest se mouere 
+          <lb ed="#P" n="122"/>de loco in quo est stante a potedere.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e440">
+          ¶ Contra: sicut 
+          <pb ed="#P" n="28-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>stat in illo instanti sub poedere / ita potest mouere 
+          <lb ed="#P" n="2"/>vnum pedem: et postea alium. Item: superfert ipsum 
+          pon<lb ed="#P" n="3" break="no"/>dus: ergo a proportione equalitatis fit actio. Tum 
+          <lb ed="#P" n="4"/>septimo: augeatur potentia sortis immediate post 
+          <lb ed="#P" n="5"/>hoc instans: resistentia a ponderis inuariata: et 
+          si<lb ed="#P" n="6" break="no"/>mus nos semper in instanti initiatiuo illius temporis 
+          <lb ed="#P" n="7"/>virtutis sortis aucte: tunc a est maximum pondus 
+          <lb ed="#P" n="8"/>quod sortes immediate post hoc poterit portare: 
+          <lb ed="#P" n="9"/>quia immediate post hoc poterit portare a. et nullum 
+          <lb ed="#P" n="10"/>maius immediate post hoc poterit portare.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e469">
+          ¶ 
+          Re<lb ed="#P" n="11" break="no"/>spoedetur: negando quod sortes potest portare a in 
+          po<lb ed="#P" n="12" break="no"/>tentia propinqua. si augeatur potentia actiua 
+          sor<lb ed="#P" n="13" break="no"/>tis resistentia poederis non aucta: nichil ad nos. quia 
+          <lb ed="#P" n="14"/>hoc non est in potentia propinqua. concedo quod quam 
+          li<lb ed="#P" n="15" break="no"/>bet partem a potederis sortes potest portare: sed non est 
+          <lb ed="#P" n="16"/>possibile quod quamlibet partem a ponderis portet. illa 
+          <lb ed="#P" n="17"/>modalis diuisa male ponitur inesse per vniuersalem: 
+          <lb ed="#P" n="18"/>vt pratet de veritate illius / quilibet homo 
+          mundi<lb ed="#P" n="19" break="no"/>potest stare in bibliotheca mea.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e491">
+          ¶ Ad secundum: 
+          tran<lb ed="#P" n="20" break="no"/>seat quod partialiter portare sit portare simpliciter. 
+          <lb ed="#P" n="21"/>intelligitur sine ope. aliqua est causa suum effectum 
+          <lb ed="#P" n="22"/>producens / que non potest illum effectum producere 
+          <lb ed="#P" n="23"/>sine ope alterius cause secunde naturaliter: et adhuc 
+          <lb ed="#P" n="24"/>dicitur effectum illum causare: patet de a igne calorem 
+          <lb ed="#P" n="25"/>producente extra se in aliquod passum: non est 
+          pos<lb ed="#P" n="26" break="no"/>sibile signare calorem productum ab a igne: quin 
+          <lb ed="#P" n="27"/>pars propinquior effectus producti iuuet suum agens 
+          <lb ed="#P" n="28"/>ad producendum: et tamen non obstante ignis dicitur 
+          <lb ed="#P" n="29"/>illum calorem producere.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e515">
+          ¶ Ad tertium: intelligimus 
+          na<lb ed="#P" n="30" break="no"/>turaliter miraculo non praesupposito. non opinor cum 
+          <lb ed="#P" n="31"/>eis quod eadem res in variis locis non potest plus 
+          age<lb ed="#P" n="32" break="no"/>re quam in vno loco: vel non plus resistere vel aliter va 
+          <lb ed="#P" n="33"/>lere.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e527">
+          ¶ Ad quartum: dicitur si illa pars parua 
+          aufe<lb ed="#P" n="34" break="no"/>ratur: sortes reliquam partem potest ferre. sed 
+          insensi<lb ed="#P" n="35" break="no"/>biliter potest leuare: sicut insensibile est ablatum 
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e534">
+          <lb ed="#P" n="36"/>¶ Quintum argumentum non est ponderandum: postquamnon 
+          <lb ed="#P" n="37"/>datur potedus maioris resistentie quam a. sed solum 
+          ma<lb ed="#P" n="38" break="no"/>ius quantitatiue.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e543">
+          ¶ Ad sextum: dicitur quod sortes resistit 
+          <lb ed="#P" n="39"/>illi poederi in illo instanti: non quin descensus et a 
+          scem<lb ed="#P" n="40" break="no"/>sus potest fieri in instanti. modo resistere non est 
+          <lb ed="#P" n="41"/>agere. Facilius est sustinere quam portare. nam sustine 
+          <lb ed="#P" n="42"/>re est impedire potedus ne cadat. sed ad 
+          portatio<lb ed="#P" n="43" break="no"/>nem requiritur quod feratur de loco vero vel imagina 
+          <lb ed="#P" n="44"/>rio ad locum. virtus sustentiua in hoc instanti non 
+          su<lb ed="#P" n="45" break="no"/>peratur a potentia motiua lapidis. si duo 
+          equali<lb ed="#P" n="46" break="no"/>ter fortes baculum ad se trahant: neuter alium ad se 
+          <lb ed="#P" n="47"/>trahet: si equaliter vires suas applicent. Nego quod 
+          <lb ed="#P" n="48"/>sortes potest suum pedem mouere de loco. hoc 
+          mul<lb ed="#P" n="49" break="no"/>to magis est quam sub potedere stare. leuato pede / 
+          pe<lb ed="#P" n="50" break="no"/>ins disponitur sortes ad resistendum: quia vno 
+          pe<lb ed="#P" n="51" break="no"/>de leuato stat super alterum solum. hoc experimur per 
+          <lb ed="#P" n="52"/>mulierculas graue pondus humidarum vestium in 
+          <lb ed="#P" n="53"/>capite ferentes / querunt parietem vel sustenta culum quando 
+          <lb ed="#P" n="54"/>progredi incipiunt: sed cum sortes est potentia 
+          debi<lb ed="#P" n="55" break="no"/>litabilis: quia habet virtutem animalem fatigabilem: 
+          <lb ed="#P" n="56"/>et virtus lapidis non diminuitur: immediate post 
+          <lb ed="#P" n="57"/>hoc erit debilior sortes: et magis atque magis 
+          de<lb ed="#P" n="58" break="no"/>hilitabitur: lapis immediate post hoc descendet 
+          <lb ed="#P" n="59"/>velocius et velocius. ponatur quod semper maneat 
+          di<lb ed="#P" n="60" break="no"/>recte super caput sortis. si fuisset angelus vel 
+          po<lb ed="#P" n="61" break="no"/>tentia non debilitabilis: supartulisset continuo illud 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>pondus: non est sic de sornte vel animali: et quia in princt 
+          <lb ed="#P" n="63"/>pio descensus est maior resistentia sortis quam 
+          prope<lb ed="#P" n="64" break="no"/>finem: velocius et velocius descendet.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e604">
+          ¶ Ex quo 
+          se<lb ed="#P" n="65" break="no"/>quuntur hee propositiones in illo ca su.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e609">
+          ¶ 
+          Prima<lb ed="#P" n="66" break="no"/>propositio: immediate post hoc a corpus descendet. 
+          <lb ed="#P" n="67"/>patet: immediate post hoc instans potentia 
+          moti<lb ed="#P" n="68" break="no"/>ua lapidis excedet resistentiam sortis
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e618">
+          ¶ Secunda 
+          pro<lb ed="#P" n="69" break="no"/>positio: in infinitum tarde illud corpus descendet. 
+          <lb ed="#P" n="70"/>patet: quocumque instanti dato illius descensus / 
+          da<lb ed="#P" n="71" break="no"/>tur instans precedens in quo verum est dicere 
+          tardi<lb ed="#P" n="72" break="no"/>us descendebat: cum minor erat excessus potentie 
+          <lb ed="#P" n="73"/>motiue lapidis super resistentiam sortis.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e632">
+          ¶ Tertia 
+          <lb ed="#P" n="74"/>propositio: nullum corpus potest tardius descendere quam 
+          <lb ed="#P" n="75"/>hoc potedus descendet. patet: si aliquod aliud 
+          cor<lb ed="#P" n="76" break="no"/>pus potest tardius descendere quam a. vel illud est 
+          gra<lb ed="#P" n="77" break="no"/>uius a. minus graue quam a: vel equaliter graue cum 
+          <lb ed="#P" n="78"/>a. si secundum: tunc non descendet: quia sortes potest ipsum 
+          per<lb ed="#P" n="79" break="no"/>tempus superferre. si primum: velocius deprimeret 
+          <lb ed="#P" n="80"/>sortem: et per consequens citius descenderet. si sit 
+          equa<lb ed="#P" n="81" break="no"/>le a. non descendet velocius nec tardius quam a.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e652">
+          ¶ 
+          Quar<lb ed="#P" n="82" break="no"/>ta propositio: illud pondus descendet tardius quam de 
+          <lb ed="#P" n="83"/>scendet in aliquo instanti. patet: quocumque instanti 
+          da<lb ed="#P" n="84" break="no"/>to post illud instans in quo non descendet: inter illud 
+          <lb ed="#P" n="85"/>instans et hoc instans mediat tempus in quo 
+          resistem<lb ed="#P" n="86" break="no"/>tia sortis erat maior: et per consequens prius 
+          tardi<lb ed="#P" n="87" break="no"/>us descendebat.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e668">
+          ¶ Quinta propositio: illud potedus 
+          <lb ed="#P" n="88"/>mouebitur tardius quam mouebitur in aliquo 
+          instam<lb ed="#P" n="89" break="no"/>ti: et tamen in nullo instanti tardius mouebitur quam 
+          mo<lb ed="#P" n="90" break="no"/>uebitur in aliquo instanti.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e677">
+          ¶ Ad septimum: concedo quod 
+          <lb ed="#P" n="91"/>detur maximum potedus quod sortes immediate post 
+          <lb ed="#P" n="92"/>hoc instans potest portare. patet de a. quia immedia 
+          <lb ed="#P" n="93"/>te post hoc instans sortes potest portare a. et nullum 
+          <lb ed="#P" n="94"/>maius a. potest sortes portare immediate post hoc in 
+          <lb ed="#P" n="95"/>stans: quia quocumque maiore pondere dato requiritur 
+          <lb ed="#P" n="96"/>potentia maior potentia sortis / et quam sit resistentia 
+          il<lb ed="#P" n="97" break="no"/>lius poederis: quam non subito acquiret sortes. Cum 
+          <lb ed="#P" n="98"/>hoc tamen stat: quod detur maximum potedus quod sortes 
+          <lb ed="#P" n="99"/>potest portare: capiendo portare pro resistere: quia 
+          sor<lb ed="#P" n="100" break="no"/>tes per instans resistit ponderi equalis 
+          actiuita<lb ed="#P" n="101" break="no"/>tis motiue cum sua resistentia. et si esset angelus 
+          po<lb ed="#P" n="102" break="no"/>tentia indebilitabilis (equaliter fortis cum sorte ) 
+          <lb ed="#P" n="103"/>semper resisteret: sed mouere non potest lapidem de 
+          <lb ed="#P" n="104"/>loco. cum hoc tamen stat: si b. equale nunc ipsi a 
+          successi<lb ed="#P" n="105" break="no"/>ue augeatur in resistendo immediate post hoc instans: 
+          <lb ed="#P" n="106"/>tardius tamen vel remissius quam potentia portatiua 
+          sor<lb ed="#P" n="107" break="no"/>tis: vt pote si in fine hore / b potedus erit resistentie 
+          <lb ed="#P" n="108"/>vt vndecim: et sortes potentie motiue vt duodecin: 
+          <lb ed="#P" n="109"/>b. etiam est maximum pondus quod immediate sortes 
+          <lb ed="#P" n="110"/>potest portare. et sic. equalis resistentie nunc cum a. et b. 
+          <lb ed="#P" n="111"/>velocius augeatur in resistendo quam b. puta in fins 
+          <lb ed="#P" n="112"/>hore resistet vt vndecin cum dimidio: potentia tamen 
+          sor<lb ed="#P" n="113" break="no"/>tis erit vt duodecim in fine hore:c. etiam est 
+          maxi<lb ed="#P" n="114" break="no"/>mum poteodus quod sortes immediate post hoc potest 
+          por<lb ed="#P" n="115" break="no"/>tare: et b. erit immediate post hoc maius a. et c. erit 
+          <lb ed="#P" n="116"/>maius b. immediate post hoc. quo fit hec consequentia 
+          <lb ed="#P" n="117"/>est nulla: immediate post b sortes potest portare c. et 
+          <lb ed="#P" n="118"/>immediate post hoc c. erit maius a. vel b. ergo a non 
+          <lb ed="#P" n="119"/>est maximum pondus quod sortes immediate post hoc 
+          <lb ed="#P" n="120"/>potest portare: quia adhuc non datur vnum pondus / quod 
+          <lb ed="#P" n="121"/>sit maioris resistentie quam b. quod immediate post hoc 
+          <lb ed="#P" n="122"/>pontportare sortes CCotraiste argutm: Tristo¬ 
+          <pb ed="#P" n="28-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>teles primo de celo et mundo dicit / quod potentia 
+          ac<lb ed="#P" n="2" break="no"/>tiua terminatur in maximum in quod potest.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e758">
+          ¶ 
+          Se<lb ed="#P" n="3" break="no"/>cundo arguitur: nisi suum dictum esset verum sequitur 
+          <lb ed="#P" n="4"/>quod infinitum potedus sortes potest portare: quod est 
+          in<lb ed="#P" n="5" break="no"/>conueniens.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e767">
+          ¶ Tertio arguitur: capiatur 
+          state<lb ed="#P" n="6" break="no"/>ra: et pondera equalia. ponatur b. pondus 
+          remo<lb ed="#P" n="7" break="no"/>tius a lingua statere quam a pondus ex altera parte. 
+          <lb ed="#P" n="8"/>b pondus est equale a. et b. pondus trahet ad 
+          ter<lb ed="#P" n="9" break="no"/>ram a.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e779">
+          ¶ Quarto: vna pars statere eleuata ad 
+          se<lb ed="#P" n="10" break="no"/>trahit aliam: et facit eam ascendere: et tamen est 
+          equa<lb ed="#P" n="11" break="no"/>lis virtutis motiue secum.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e786">
+          ¶ Quinto arguitur: 
+          om<lb ed="#P" n="12" break="no"/>ne agens in agendo repatitur / primo de 
+          genera<lb ed="#P" n="13" break="no"/>tione: ergo quando a. calidum maius actiuum agit 
+          <lb ed="#P" n="14"/>in b. frigidum: b frigidum reagit in a. et est virtus 
+          mi<lb ed="#P" n="15" break="no"/>nor: ergo si minus reagat in maius: a fortiore 
+          equa<lb ed="#P" n="16" break="no"/>le agit in equale.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e799">
+          ¶ Sexto: datur intensissimus 
+          <lb ed="#P" n="17"/>actus voluntatis quem voluntas potest habere. 
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e804">
+          <lb ed="#P" n="18"/>¶ Septimo arguitur: minimum pondus quod sortes 
+          <lb ed="#P" n="19"/>non potest portare / est maximum potedus quod quili 
+          <lb ed="#P" n="20"/>bet fortior sorte potest portare. patet per 
+          exponemn<lb ed="#P" n="21" break="no"/>tes.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e815">
+          ¶ Otauo arguitur: sortes potest ferre 
+          pon<lb ed="#P" n="22" break="no"/>dus equalis resistentie cum potentia motiua eius. 
+          <lb ed="#P" n="23"/>patet: ferat a magnetem cui applicetur fertum 
+          equa<lb ed="#P" n="24" break="no"/>lis resistentie cum potentia portatiua sortis: iam 
+          sor<lb ed="#P" n="25" break="no"/>tes portat ferrum: igitur.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e826">
+          ¶ Ad ista respondetur. ad 
+          <lb ed="#P" n="26"/>primum: Aristo. intelligit potentia actiua termina 
+          <lb ed="#P" n="27"/>tur in maximum effectum quem potest producere cum 
+          <lb ed="#P" n="28"/>tali resistentia / in tali tempore / et tali medio: datur 
+          <lb ed="#P" n="29"/>maxima velocitas qua mouere potest graue 
+          per<lb ed="#P" n="30" break="no"/>tale medium. vel maximum spacium quod mobile 
+          po<lb ed="#P" n="31" break="no"/>test pertransire in tali tempore / cum tali resistentia 
+          <lb ed="#P" n="32"/>medii. et hoc est: quia est agens naturale secundum ext 
+          re<lb ed="#P" n="33" break="no"/>mum sue potentie agens. sed non datur maximum 
+          poto<lb ed="#P" n="34" break="no"/>dus quod sortes potest portare simpliciter. et ratio 
+          <lb ed="#P" n="35"/>est: potentia motiua sortis resistentiam poederis ex 
+          <lb ed="#P" n="36"/>cedit: et non indiuisibiliter: nullus est talis 
+          exces<lb ed="#P" n="37" break="no"/>sus. diuidatur excessus in duas partes: a. et in b. 
+          <lb ed="#P" n="38"/>si potentia motiua haberet solum excessum a 
+          super<lb ed="#P" n="39" break="no"/>re istentiam poederis / ipsum portaret motiue: quia 
+          <lb ed="#P" n="40"/>ab omni proportione maioris inequalitatis fit 
+          ac<lb ed="#P" n="41" break="no"/>tio: non tamen sequitur quod omnis potentia que potest 
+          <lb ed="#P" n="42"/>motum continuare / possit motum inchoare. 
+          difficili<lb ed="#P" n="43" break="no"/>us est primo campanam pulsare quam continuare pulsum 
+          <lb ed="#P" n="44"/>ad tempus. stat quod impetus in principio motus 
+          pro<lb ed="#P" n="45" break="no"/>ductus ad motum localem iuuet. et sic cetera sunt 
+          <lb ed="#P" n="46"/>imparia.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e875">
+          ¶ Secundo: Aristo. intelligit sine fractio 
+          <lb ed="#P" n="47"/>ne numeri vulgaris. stat sortem posse mouere quat 
+          <lb ed="#P" n="48"/>tuor libras: et non vltra: hoc est: non potest plures 
+          <lb ed="#P" n="49"/>portare libras: sed in libris est status: et in mensu 
+          <lb ed="#P" n="50"/>ris grossis et vulgaribus: licet millesimam partem 
+          <lb ed="#P" n="51"/>vnius vncie amplius potest portare. capiatur ad 
+          <lb ed="#P" n="52"/>imaginationem vnum pondus graue quod sortes 
+          <lb ed="#P" n="53"/>non potest portare: dim nuatur per vnum tempus 
+          <lb ed="#P" n="54"/>gratia exempli quod in duas partes diuidatur: in 
+          <lb ed="#P" n="55"/>cuius priore parte pondus datum non potest porta 
+          <lb ed="#P" n="56"/>re: in posteriore vero potest ipsum portare: ista 
+          duo<lb ed="#P" n="57" break="no"/>tempora continuantur ad vnum instans medium. tunc 
+          <lb ed="#P" n="58"/>sic: vel in isto instanti possum potedus datum 
+          porta<lb ed="#P" n="59" break="no"/>re: et sic habeo maximum pondus quod possum 
+          por<lb ed="#P" n="60" break="no"/>tare. et tunc possum portare pondus equalis 
+          resi<lb ed="#P" n="61" break="no"/>stentie cum potentia motiua mea: quod est inconue¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>niens. si in hoc instanti non possum pondus illud 
+          <lb ed="#P" n="63"/>portare. sed immediate post hoc possum pondus 
+          <lb ed="#P" n="64"/>illud portare: tunc illud est minimum pondus quod 
+          <lb ed="#P" n="65"/>non possum portare in illo instanti.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e921">
+          ¶ Ad secundum: 
+          <lb ed="#P" n="66"/>concedo quod infinitum pondus possum portare: si 
+          ex<lb ed="#P" n="67" break="no"/>ponatur sinchategoreumatice per ly non tantum 
+          <lb ed="#P" n="68"/>quin maius: hoc est: quocumqe potedere dato quod 
+          <lb ed="#P" n="69"/>possum portare: adhuc maius possum portare. si 
+          <lb ed="#P" n="70"/>infinitum tantum valet sicut quantumlibet maius: sic 
+          ne<lb ed="#P" n="71" break="no"/>go. non vt quantumlibet tantum valeat sicut quantumli 
+          <lb ed="#P" n="72"/>bet / vel placet: sed tantum valet sicut quantolibet 
+          pon<lb ed="#P" n="73" break="no"/>dere dato ad huc maius ego possum portare.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e941">
+          ¶ Ad 
+          <lb ed="#P" n="74"/>tertium: dicitur quod pondus plus distans a lingua 
+          <lb ed="#P" n="75"/>balancis plus ponderat quam potedus equale 
+          prope<lb ed="#P" n="76" break="no"/>linguam eiusdem: experimur hoc in mensuratione au 
+          <lb ed="#P" n="77"/>ri vel alterius metalli: et hoc est ex natura rei. idem 
+          <lb ed="#P" n="78"/>potedus in infinitum potest poederare per hoc quod magis 
+          <lb ed="#P" n="79"/>et magis distat a lingua statere. et si ymaginatio 
+          <lb ed="#P" n="80"/>aliquorum esset vera: qui tenent infinitum 
+          longitudi<lb ed="#P" n="81" break="no"/>ne posse includi inter duo puncta: darentur due 
+          li<lb ed="#P" n="82" break="no"/>bre equales a et b. et tamen b. potest tantum elongari 
+          <lb ed="#P" n="83"/>a linga statere / quod infinite poederaret. sed illam 
+          ima<lb ed="#P" n="84" break="no"/>ginationem credo falsam. loco illius dico / quod 
+          libra<lb ed="#P" n="85" break="no"/>b. potest tantum sic elongari a lingua balancis quod 
+          tan<lb ed="#P" n="86" break="no"/>tum ponderet sicut sphera terre extra suum locum: et 
+          <lb ed="#P" n="87"/>quando vna pars statere leuatur in altum 
+          acqui<lb ed="#P" n="88" break="no"/>rit impetum: et cum a centro plus distet quam alia pars 
+          <lb ed="#P" n="89"/>statere: plus appetit esse deorsum. et cum esset in equa 
+          <lb ed="#P" n="90"/>li distantia cum b. quiescet: si non esset impetus. sed 
+          <lb ed="#P" n="91"/>impetu corrupto: quiescit et non attrahit aliud ex 
+          <lb ed="#P" n="92"/>tremum a suo loco. et sic soluitur etiam quarta ratio. 
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e985">
+          <lb ed="#P" n="93"/>¶ Ad quintum: dicitur concedendo quod omne agens 
+          <lb ed="#P" n="94"/>repatitur. b. frigidum si reagat in a. calidum est maio 
+          <lb ed="#P" n="95"/>ris actiuitatis quam a sit resistentie. stat a. calidum 
+          es<lb ed="#P" n="96" break="no"/>se maioris actiuitatis quam b. frigidum sit: et minoria 
+          <lb ed="#P" n="97"/>resistentie: esto quod actiuitas et resistentia sit eadem 
+          <lb ed="#P" n="98"/>res: tamen vna res est maior in latitudine 
+          actini<lb ed="#P" n="99" break="no"/>tatis quam resistentie: et econuerso: idem homo potest 
+          <lb ed="#P" n="100"/>esse maior ianitor: et minor coquus. modo 
+          quali<lb ed="#P" n="101" break="no"/>tates prime magis actiue / sunt minus resistiue. de 
+          <lb ed="#P" n="102"/>us non dedit vni rei create omnem perfectionem. non 
+          <lb ed="#P" n="103"/>ne vides in sorbona vnus respondens melius respondit: 
+          <lb ed="#P" n="104"/>alter melius arguit.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e1014">
+          ¶ Ad sextum dicitur: actus 
+          vo<lb ed="#P" n="105" break="no"/>luntatis producitur in suum passum sine ressstentia. 
+          <lb ed="#P" n="106"/>in talibus datur maximus effectus producibilis. 
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e1021">
+          <lb ed="#P" n="107"/>¶ Ad septimum: conceditur illud: supposito quod sint 
+          <lb ed="#P" n="108"/>infiniti se excedentes in fortitudine: quorum 
+          quili<lb ed="#P" n="109" break="no"/>bet est fortior sorte. sed cuiuslibet virtus excedit 
+          <lb ed="#P" n="110"/>resistentiam istius ponderis. sed caue ascensum 
+          <lb ed="#P" n="111"/>vel descensum sub termino distributo / quousque 
+          <lb ed="#P" n="112"/>superlatiuum abstuleris.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e1038">
+          ¶ Ad octauum dico: sor tes 
+          <lb ed="#P" n="113"/>non fert illud ferrum: sed magnes. non plus poide 
+          <lb ed="#P" n="114"/>rat ferrum cum magnete respectu sortis / quam sollus 
+          <lb ed="#P" n="115"/>magnes.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e1047">
+          ¶ Tertio principaliter arguitur: pe 
+          dli<lb ed="#P" n="116" break="no"/>quam distantiam sortes potest videre illud 
+          vnisi<lb ed="#P" n="117" break="no"/>bile: et per aliquam distantiam illud visibile sorties 
+          <lb ed="#P" n="118"/>non potest videre: hic est verificatio subcontrarlia 
+          <lb ed="#P" n="119"/>rum: et tamen non sequitur disiunctiua ex quattu 
+          so<lb ed="#P" n="120" break="no"/>membris: igitur.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e1060">
+          ¶ Respondetur: verificatio sub 
+          heod<lb ed="#P" n="121" break="no"/>trariarum non sufficit ad hoc quod sequatur hec 
+          disiuncllu<lb ed="#P" n="122" break="no"/>ua: sed reqiritur ouod ex eo o affirmatina verific iui 
+          <pb ed="#P" n="29-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>pro aliquo / pro quolibet minori potest verificari: 
+          <lb ed="#P" n="2"/>et ex eo quod negatiua verificatur pro aliquo / posset 
+          <lb ed="#P" n="3"/>etiam pro quolibet maiori verificari: vel contra: vt 
+          <lb ed="#P" n="4"/>patet exemplariter: aliquod pondus sortes potest 
+          <lb ed="#P" n="5"/>portare: et aliquod potedus sortes non potest 
+          por<lb ed="#P" n="6" break="no"/>tare: igitur datur maximum quod sic: vel minimum 
+          <lb ed="#P" n="7"/>quod non. primo illic sunt due subcontrarie vere: et 
+          <lb ed="#P" n="8"/>nulla earum pro in finito verificatur: et ex eo quod 
+          af<lb ed="#P" n="9" break="no"/>firmatiua verificatur pro aliquo: pro quolibet mi 
+          <lb ed="#P" n="10"/>nore verificatur: quia si aliquod pondus sortes 
+          po<lb ed="#P" n="11" break="no"/>test portare: quodlibet minus illo sufficit 
+          porta<lb ed="#P" n="12" break="no"/>re: etiam negatiua sic se habet quod ex eo quod pro 
+          ali<lb ed="#P" n="13" break="no"/>quo verificatur: pro quolibet maiori verificari 
+          po<lb ed="#P" n="14" break="no"/>test: quia si aliquod potedus sortes non potest 
+          por<lb ed="#P" n="15" break="no"/>tare: nullum maius illo potest portare. Similiter: si 
+          <lb ed="#P" n="16"/>ab aliquo agente illud passum potest pati: et 
+          ab<lb ed="#P" n="17" break="no"/>aliquo non potest pati: igitur datur minimum agens 
+          <lb ed="#P" n="18"/>a quo potest pati: vel maximum a quo non potest 
+          pa<lb ed="#P" n="19" break="no"/>ti. quia si ab aliquo agente potest pati: a quolibet 
+          <lb ed="#P" n="20"/>maiore potest pati. et si ab aliquo agente non 
+          po<lb ed="#P" n="21" break="no"/>test pati: a nullo minore potest pati. modo non est 
+          <lb ed="#P" n="22"/>sic in proposito. si sortes potest b. visibile videre per 
+          <lb ed="#P" n="23"/>aliquam distantiam: non oportet quod potest per 
+          quamli<lb ed="#P" n="24" break="no"/>het minorem videre: accedendo ad sensum euanescit 
+          <lb ed="#P" n="25"/>visio: cum sensibile positum supra sensum: vel valde 
+          <lb ed="#P" n="26"/>propinque: non causat sensationem. membra possunt 
+          <lb ed="#P" n="27"/>exproni: vel circunstantie addi tales secundum quancunque 
+          <lb ed="#P" n="28"/>expositionem: quod sequatur disiunctiua. vt pote: 
+          da<lb ed="#P" n="29" break="no"/>tur maxima distantia per quam sortes non potest 
+          vi<lb ed="#P" n="30" break="no"/>dere illud visibile propter propinquitatem ad 
+          ocu<lb ed="#P" n="31" break="no"/>lum suum: et si illud visibile poneretur in putcto 
+          ter<lb ed="#P" n="32" break="no"/>minatiuo illius distantie in qua non videtur: 
+          pro<lb ed="#P" n="33" break="no"/>pter propinquitatem non videbitur. et si inciperet 
+          re<lb ed="#P" n="34" break="no"/>cedere ab oculo sortis: inciperet videri per remo 
+          <lb ed="#P" n="35"/>tionem de presenti. et datur minima distantia 
+          per<lb ed="#P" n="36" break="no"/>quam illud visibile non potest videri propter elon 
+          <lb ed="#P" n="37"/>gationem: ita quod si visibile poneretur in puncto 
+          ter<lb ed="#P" n="38" break="no"/>minatiuo illis distantie (sit illud punctum a. ) ipsum 
+          <lb ed="#P" n="39"/>non videretur: et quocumque alio dato inter a. et 
+          po<lb ed="#P" n="40" break="no"/>tentiam vltra illud et citra a. ipsum videretur. et sic 
+          <lb ed="#P" n="41"/>dabitur maxima distantia in qua vel per quam 
+          in<lb ed="#P" n="42" break="no"/>trinseca: supra maximam distantiam in qua non 
+          po<lb ed="#P" n="43" break="no"/>test videre illud visibile sortes. sed punctum termi 
+          <lb ed="#P" n="44"/>natiuum illius spacii cum spacio intercepto est 
+          mini<lb ed="#P" n="45" break="no"/>ma distantia in qua illud visibile non potest 
+          vide<lb ed="#P" n="46" break="no"/>ri. Eodem modo datur minimum spacium per quod 
+          <lb ed="#P" n="47"/>sortes non potest viuere. sortes habet certam perio 
+          <lb ed="#P" n="48"/>dum sue vite: ita quod morte naturali morietur. 
+          capio<lb ed="#P" n="49" break="no"/>tempus in cuius quolibet instanti intrinseco 
+          sor<lb ed="#P" n="50" break="no"/>tes potest viuere / cum a instanti terminatiuo 
+          illi<lb ed="#P" n="51" break="no"/>us temporis: tunc per totum illud ( per ly illud 
+          de<lb ed="#P" n="52" break="no"/>monstrando instans terminatiuum et tempus ) sortes 
+          <lb ed="#P" n="53"/>non potest viuere: et ad quodlibet instans intrinse 
+          <lb ed="#P" n="54"/>cum illius temporis sortes potest viuere.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e1188">
+          ¶ 
+          Quar<lb ed="#P" n="55" break="no"/>to arguitur: aliquam partem huius medii a. graue vt 
+          <lb ed="#P" n="56"/>octo potest diuidere: et aliquam partem non po¬¬ 
+          <lb ed="#P" n="57"/>test diuidere: et tamen non datur aliquod illorum 
+          <lb ed="#P" n="58"/>membrorum: igitur. assumptum patet: ponendo vnum 
+          <lb ed="#P" n="59"/>medium vniformiter difformis resistentie a non 
+          gra<lb ed="#P" n="60" break="no"/>dn resistentie ad octo vsque: et incipiat a. suum 
+          mo<lb ed="#P" n="61" break="no"/>tum a non gradu resistentie. tunc sic: quamlibet par¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>tem intrinsecam medii pertransibit a. ergo nulla pars 
+          <lb ed="#P" n="63"/>disiunctiue datur. Si concedas totum medium pertram 
+          <lb ed="#P" n="64"/>sibit. ergo a proportione equalitatis fiet actio. non 
+          <lb ed="#P" n="65"/>potes dicere quod totum illud medium resistet praecise vt 
+          <lb ed="#P" n="66"/>quattuor. quia latitudo vniformiter difformis a non 
+          <lb ed="#P" n="67"/>gradu ad certum gradum: non respondet gradui medio 
+          es<lb ed="#P" n="68" break="no"/>fectiue vel intensiue. illud argumentum poterat etiam 
+          <lb ed="#P" n="69"/>applicari cum septem obiectionibus in fine 
+          argumenti<lb ed="#P" n="70" break="no"/>primi.
+        </p>
+        <p xml:id="jm3cbb-e16242-d1e1227">
+          ¶ Respondetur: siue latitudo vniformier 
+          dif<lb ed="#P" n="71" break="no"/>formis a non gradu ad certum gradum: terminetur in 
+          <lb ed="#P" n="72"/>illo gradu inclusiue vel exclusiue alibi dicium est: si 
+          <lb ed="#P" n="73"/>deus conseruaret illud mobile et medium semper 
+          con<lb ed="#P" n="74" break="no"/>tinuo mouebitur per tempus infinitum illud 
+          mobile<lb ed="#P" n="75" break="no"/>et in nullo instanti vel tempore finito pertransibit 
+          <lb ed="#P" n="76"/>totum medium. patet: suppono totum medium 
+          extensio<lb ed="#P" n="77" break="no"/>nis octo pedum. Arguitur sic: infinitum tempus 
+          requi<lb ed="#P" n="78" break="no"/>rit a. ad pertramseundum medietatem magis 
+          resisten<lb ed="#P" n="79" break="no"/>tem illius medii: ergo et ad pertranseundum totum. 
+          <lb ed="#P" n="80"/>atecdencedens patet: sit b illa medietas quattuor pedum 
+          <lb ed="#P" n="81"/>per quam extenditur resistentia a quattuor ad octo: 
+          <lb ed="#P" n="82"/>vt oportet ex casu. tunc capio aliud medium c. etiam 
+          <lb ed="#P" n="83"/>quattuor pedum. et vtriusque illorum signo partes 
+          <lb ed="#P" n="84"/>proportionabiles proportione dupla: in b. minoribus 
+          <lb ed="#P" n="85"/>versus extremum magis resistens. volo vlterius quod 
+          <lb ed="#P" n="86"/>quelibet pars proportionalis c. ponatur resistentie 
+          <lb ed="#P" n="87"/>vniformis: illius scilbet gradus a quo in extremo 
+          <lb ed="#P" n="88"/>minus resistente incipit resistentia partis proportio 
+          <lb ed="#P" n="89"/>nalis in b ei respondentis. Et patet quod prima pars c. 
+          <lb ed="#P" n="90"/>erit vniformiter resistens vt. iiii. secunda vt. vi. 
+          ter<lb ed="#P" n="91" break="no"/>tia vt. vii. quarta vt septem cum dimidio: et sic conse 
+          <lb ed="#P" n="92"/>quenter. Tunc arguitur sic: infinitum tempus requiritur 
+          <lb ed="#P" n="93"/>vt a potentia pertranseat c. ergo etiam vt pertranseat b. 
+          <lb ed="#P" n="94"/>consequentia est clara: patet antecedens: quibuscum 
+          <lb ed="#P" n="95"/>que duabus partibus proportionabilibus c. 
+          sibiin<lb ed="#P" n="96" break="no"/>uicem immediatis datis: tantum temporis requirit a. 
+          <lb ed="#P" n="97"/>potentia ad pertranseundum sequentem sicut requirit 
+          <lb ed="#P" n="98"/>ad pertranseundum precedentem: vel magis: postquam 
+          <lb ed="#P" n="99"/>sequens erit sub duple extensionis ad immediate 
+          pre<lb ed="#P" n="100" break="no"/>cedentem: et plusquam in duplo tardius mouebitur per 
+          <lb ed="#P" n="101"/>sequentem quam per precedentem: ergo ad 
+          pertranseun<lb ed="#P" n="102" break="no"/>dum omnes partes c. requirit tempus infinitum. totum 
+          an<lb ed="#P" n="103" break="no"/>tecedens ex principiis et regulis 
+          mathematicali<lb ed="#P" n="104" break="no"/>bus demonstrari potest. potentia / resistentia partis 
+          <lb ed="#P" n="105"/>sequentis / et resistentia partis precedentis / sunt tres 
+          <lb ed="#P" n="106"/>termini continue proportionales arismethice ex 
+          <lb ed="#P" n="107"/>casu: ergo proportio medii ad minimum est 
+          maior<lb ed="#P" n="108" break="no"/>proportione maioris ad medium: et per consequens 
+          <lb ed="#P" n="109"/>proportio extremorum: scilicet potentie ad resistentiam 
+          <lb ed="#P" n="110"/>partis precedentis (quia componitur ex illis duabus ) 
+          <lb ed="#P" n="111"/>est maior quam dupla ad minorem illarum: que est 
+          potemn<lb ed="#P" n="112" break="no"/>tie ad resistentiam partis sequentis: et proportio ve 
+          <lb ed="#P" n="113"/>tocitatum in motibus attendi habet penes 
+          propor<lb ed="#P" n="114" break="no"/>tionem proportionum potentiarum motiuarum ad suas 
+          <lb ed="#P" n="115"/>resistentias: igitur etem. quo fit: si medium sic 
+          conserue<lb ed="#P" n="116" break="no"/>tur et a maneat grauitatis vniformis: quodlibet 
+          <lb ed="#P" n="117"/>punctum intrinsecum medii pertransibit: sed in nullo 
+          <lb ed="#P" n="118"/>instanti verum erit dicere quodlibet punctum est 
+          <lb ed="#P" n="119"/>pertransitum. quamlibet partem spacii dati non 
+          termi<lb ed="#P" n="120" break="no"/>natam ad extremum magis resistens in tempore 
+          fi<lb ed="#P" n="121" break="no"/>nito pertransibit. Quia materia est phisica non 
+          <lb ed="#P" n="122"/>appono plura argumenta.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

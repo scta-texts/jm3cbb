@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 18</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 18</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="131-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e79979"><!-- l3d37q18 -->
+        <head xml:id="jm3cbb-e79979-Hd1e99">Quaestio 18</head>
+        <head xml:id="jm3cbb-e79979-Hd1e101" type="question-title">De sufficientia praeceptorum, et quomodo in generali intelligi habeant.</head>
+        <p xml:id="jm3cbb-e79979-d1e104">
+          <lb ed="#P" n="58"/>¶ Questio. xviii. 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>SUperius locuti sumus 
+          <lb ed="#P" n="60"/>de aliquibus precepta 
+          tangen<lb ed="#P" n="61" break="no"/>tibus: nunc superest de 
+          aliqui<lb ed="#P" n="62" break="no"/>bus preceptis in speciali loqui: 
+          <lb ed="#P" n="63"/>dum tamen prius in generali 
+          teti<lb ed="#P" n="64" break="no"/>gerimus sufficientiam precepto 
+          <lb ed="#P" n="65"/>rum: et quomodo in 
+          generali<lb ed="#P" n="66" break="no"/>intelligi habeant. Precepta decalogi Exodi. xx. 
+          <lb ed="#P" n="67"/>t Deuteronomii. iiii. recitata / sufficienter ordinant 
+          <lb ed="#P" n="68"/>hominem ad deum: hoc est: ad supremum principem 
+          po<lb ed="#P" n="69" break="no"/>licie: et in ordine ad proximum. ad hoc enim quod 
+          ali<lb ed="#P" n="70" break="no"/>quis bene in aliqua communitate commoretur / duplex ordo 
+          <lb ed="#P" n="71"/>requiritur et sufficit. Prior est: vt quis bene se habeat 
+          <lb ed="#P" n="72"/>in ordine ad illum qui preest in illa commnitate. 
+          Secun<lb ed="#P" n="73" break="no"/>dus ordo est: vt bene se habeat in ordine ad conso 
+          <lb ed="#P" n="74"/>cios comunitatis. Isti ordines bini in preceptis 
+          deca<lb ed="#P" n="75" break="no"/>logi inueniuntur. tria / subditi principi communitatis 
+          de<lb ed="#P" n="76" break="no"/>bent: scilicet fidelitatem / reuerentiam: famulatum. 
+          Fi<lb ed="#P" n="77" break="no"/>delitas in hoc consistit vt honor principatus ad alium 
+          <lb ed="#P" n="78"/>non transferatur: et quantum ad hoc datur primum 
+          pre<lb ed="#P" n="79" break="no"/>ceptum / non habebis deos alienos coram me: non 
+          <lb ed="#P" n="80"/>facies tibi sculptile / neque omnem similitudinem: 
+          <lb ed="#P" n="81"/>quae est in celo desuper / et quae in terra deorsum / nec 
+          eo<lb ed="#P" n="82" break="no"/>rum que sunt in aquis sub terra. Reuerentia autem 
+          <lb ed="#P" n="83"/>ad principem in hoc consistit: vt nichil iniuriosum 
+          <lb ed="#P" n="84"/>contra principem committatur: et quamtum ad hoc 
+          da<lb ed="#P" n="85" break="no"/>tur secundum preceptum: quod est: non assumes 
+          no<lb ed="#P" n="86" break="no"/>men dei inuanum. Famulatus autem debetur principi in 
+          <lb ed="#P" n="87"/>recompensatione beneficiorum suorum que 
+          percipi<lb ed="#P" n="88" break="no"/>unt subditi a principe: et ad hoc tertium preceptum per 
+          p<lb ed="#P" n="89" break="no"/>tinet de sanctificatione sabbati in recognitionem 
+          <lb ed="#P" n="90"/>beneficii creationis. illud preceptum quantum ad 
+          <lb ed="#P" n="91"/>aliquid fuit morale: quantum ad aliud cerimoniale et v 
+          <lb ed="#P" n="92"/>figurale. morale / quantum ad reuerentiam que deo 
+          ex<lb ed="#P" n="93" break="no"/>hibetur: et secundum hoc omni tempore manet. Sed 
+          <lb ed="#P" n="94"/>cerimoniale siue figurale fuit / quantum ad 
+          determi<lb ed="#P" n="95" break="no"/>nationem diei respectu futurorum: scilicet requie 
+          corpo<lb ed="#P" n="96" break="no"/>ris christi in sepulchro et sanctorum in gloria: et quantum 
+          <lb ed="#P" n="97"/>ad illud immutatum est sicut cetera cerimonialia. 
+          <lb ed="#P" n="98"/>Ex his habetur quod tria sunt praecepta per que 
+          homo<lb ed="#P" n="99" break="no"/>sufficienter ordinatur ad deum: que sunt prime 
+          tabu<lb ed="#P" n="100" break="no"/>le / pro eo quod in ea insculpebantur. Ad proximum 
+          <lb ed="#P" n="101"/>autem vt ad conciuem ordinatur homo dupliciter. 
+          <lb ed="#P" n="102"/>vno modo specialiter: alio modo generaliter. 
+          Spe<lb ed="#P" n="103" break="no"/>cialiter quidem ad eos quibus est debitor vt eis 
+          de<lb ed="#P" n="104" break="no"/>bitum reddat. et quantum ad hoc datur quartum 
+          pre<lb ed="#P" n="105" break="no"/>ceptum: honora patrem et matrem. Generaliter 
+          <lb ed="#P" n="106"/>autem ad omnes vt nulli nocumentum inferatur / 
+          <lb ed="#P" n="107"/>nec corde / nec ore / nec opere. Opere autem 
+          pro<lb ed="#P" n="108" break="no"/>ximo infertur nocumentum triphariam. Ano 
+          mo<lb ed="#P" n="109" break="no"/>do quatum ad esse proprie persone per homicidium: 
+          <lb ed="#P" n="110"/>et contra hoc datur vnum preceptum / Non 
+          occi<lb ed="#P" n="111" break="no"/>des. Alio modo in personam coniunctam 
+          quan<lb ed="#P" n="112" break="no"/>tum ad prolis propagationem: et contra hoc 
+          da<lb ed="#P" n="113" break="no"/>tur preceptum / non mechaberis. Tertio modo infertur 
+          <lb ed="#P" n="114"/>nocumentum in rem possessam: et hoc prohibetur 
+          <lb ed="#P" n="115"/>per illud preceptum / Non furtum facies. 
+          Nlocu<lb ed="#P" n="116" break="no"/>mentum autem quod infertur ore / prohibetur 
+          per<lb ed="#P" n="117" break="no"/>illud preceptum / Non falsum testimonium dices. 
+          <pb ed="#P" n="131-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Nocumentum autem cordis prohibetur cum dicitur / 
+          <lb ed="#P" n="2"/>Non concupisces vxorem proximi tui.et per aliud 
+          <lb ed="#P" n="3"/>concupiscentia oculorum: cum dicitur / Non 
+          concu<lb ed="#P" n="4" break="no"/>pisces rem proximi tui / non agnum / non ancillam: 
+          <lb ed="#P" n="5"/>illic prohibetur concupiscentia ancille: non ad 
+          concu<lb ed="#P" n="6" break="no"/>bitum: quia coincideret in aliud per quod prohibetur 
+          concu<lb ed="#P" n="7" break="no"/>piscentia carnis: sed ad manualem vsum est 
+          prohibi<lb ed="#P" n="8" break="no"/>tio. Ex his liquet sufficientia praeceptorum decalogi. 
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e260">
+          <lb ed="#P" n="9"/>¶ Iam paucis obiicitur probando quod illa est 
+          insuffici<lb ed="#P" n="10" break="no"/>ens. praecepta decalogi sunt de lege nature: vt 
+          supra<lb ed="#P" n="11" break="no"/>dictum est: ergo sunt scripta in corde hominis. ergo inane 
+          <lb ed="#P" n="12"/>erat dare preceptum in tabula vel papiro.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e271">
+          ¶ 
+          Se<lb ed="#P" n="13" break="no"/>cundo: multa sunt alia praeceptae erant seruanda in 
+          <lb ed="#P" n="14"/>lege ab istis: vt fornicatio simplex / verberatio 
+          in<lb ed="#P" n="15" break="no"/>iusta. ergo vel omnia precepta erant ponenda vel 
+          nul<lb ed="#P" n="16" break="no"/>la: et per consequens numerus / ille denarius preceptorum 
+          <lb ed="#P" n="17"/>decalogi est insufficiens.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e285">
+          ¶ Ad primum respondetur. 
+          <lb ed="#P" n="18"/>licet sint de iure nature pro maiore parte: hoc est vno 
+          <lb ed="#P" n="19"/>demptotamen ppter rudes in naturalibus non 
+          expe<lb ed="#P" n="20" break="no"/>ditos / data sunt. et etiam cum verbaliter a deo 
+          pren<lb ed="#P" n="21" break="no"/>cipiuntur et prohibentur: in maiore habentur honore. 
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e296">
+          <lb ed="#P" n="22"/>¶ Ad secundum concedo quod multa erant alia 
+          prece<lb ed="#P" n="23" break="no"/>pta ab istis in lege mosaica: sed ista erant facilia 
+          co<lb ed="#P" n="24" break="no"/>gnitu: et tamquam magis necessaria: ideo succincte 
+          mu<lb ed="#P" n="25" break="no"/>tuo collecta sunt. sicut dantur praecepta pauca eloquem 
+          <lb ed="#P" n="26"/>tie in epithomate: in quo non ponuntur omina quae ad 
+          re<lb ed="#P" n="27" break="no"/>thorem consummatum spectant: sed aliqua 
+          neces<lb ed="#P" n="28" break="no"/>saria quibus omnes inniti debent tanquam basi.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e314">
+          ¶ 
+          Ter<lb ed="#P" n="29" break="no"/>tio argnitur: qui proximum diligit legem adimpleuit: 
+          <lb ed="#P" n="30"/>Roma. xiii. sed intentio legissatoris est vt in omnibus 
+          <lb ed="#P" n="31"/>lex impleatur. ergo sufficiebat illud vnum preceptum 
+          <lb ed="#P" n="32"/>dare de dilectione proximi.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e325">
+          ¶ Quarto arguitur: sicut 
+          <lb ed="#P" n="33"/>ad cultum dei partinebat obseruatio sabbati: ita et 
+          <lb ed="#P" n="34"/>obfuatio aliarum solempnitatum in lege: vt neomenia / 
+          <lb ed="#P" n="35"/>phase / pentecoste / festum clangor / festum 
+          expia<lb ed="#P" n="36" break="no"/>tionis / scenophegia. sed inter precepta decalogi est 
+          <lb ed="#P" n="37"/>vnum praeceptum de sanctificatione sabbati. ergo 
+          de<lb ed="#P" n="38" break="no"/>buerunt esse alia de aliis solempnitatibus. vel sic: non 
+          <lb ed="#P" n="39"/>est mentio de aliis solempnitatibus. ergo nec debet 
+          <lb ed="#P" n="40"/>esse de sabbato.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e345">
+          ¶ Quinto arguitur: sicut contingit 
+          <lb ed="#P" n="41"/>peccare in deum et in proximum: ita et in seipsum. sed 
+          <lb ed="#P" n="42"/>aliqua precepta dantur de peccatis in deum et in 
+          pro<lb ed="#P" n="43" break="no"/>ximum. ergo debent dari aliqua circa peccata in 
+          <lb ed="#P" n="44"/>seipsum.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e356">
+          ¶ Sexto arguitur: in quolibet grenede 
+          pecca<lb ed="#P" n="45" break="no"/>ti contingit peccare corde et opere: hoc est: actu 
+          eli<lb ed="#P" n="46" break="no"/>cito interiore et exteriore imperato. sed in furto et 
+          <lb ed="#P" n="47"/>adulterio per aliud preceptum prohibetur peccatum 
+          ope<lb ed="#P" n="48" break="no"/>ris: et per aliud cordis. patet: cum dicitur / 
+          Non<lb ed="#P" n="49" break="no"/>mechaberis / non furtum facies / non concupisces 
+          <lb ed="#P" n="50"/>rem proximi tui / non concupisces vxorem proximi tui. 
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e373">
+          <lb ed="#P" n="51"/>¶ Ad tertium dicitur: qui proximum diligit adimplet 
+          legem<lb ed="#P" n="52" break="no"/>pr magna parte. septem praecepta decalogi ad hoc 
+          dan<lb ed="#P" n="53" break="no"/>tur illud vnum preceptum in generali non sufficiebat: 
+          <lb ed="#P" n="54"/>quia per illud solum homo non coguisset ita determina 
+          <lb ed="#P" n="55"/>te quid erga proximum faciendum est.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e386">
+          ¶ Ad quartum 
+          <lb ed="#P" n="56"/>concedo quod alie solempnitates etiam praecipiebantur in aliis 
+          <lb ed="#P" n="57"/>locis: sed non in hoc epithomate praeceptorum. 
+          sabba<lb ed="#P" n="58" break="no"/>tum crebrius occurrit: et omnia alia festa excessit: quia 
+          <lb ed="#P" n="59"/>nec poterant in eo parare cibaria: vt incedere 
+          vl<lb ed="#P" n="60" break="no"/>tra mille passus: cuius oppositum poterant in aliis 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>solempnitatibus.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e404">
+          ¶ eid quintum concedo quod quis potest 
+          <lb ed="#P" n="62"/>peccare in seipsum. sed quia dilectione naturali 
+          ho<lb ed="#P" n="63" break="no"/>mines seipsos satis diligunt: non eratr opuam. 
+          tamH<lb ed="#P" n="64" break="no"/>ciali praecepto de dilectone ad se sicut ad alios.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e413">
+          ¶ Ad 
+          <lb ed="#P" n="65"/>sextum dicitur: homines sunt multum propensi ad 
+          <lb ed="#P" n="66"/>transgrediendum in his prohibitionibus: propter 
+          <lb ed="#P" n="67"/>ea speciales prohibitiones dantur. et aliqui 
+          hebre<lb ed="#P" n="68" break="no"/>orum putabant actum interiorem non esse 
+          pec<lb ed="#P" n="69" break="no"/>catum: sic putabat Iosephus. xii. antiquitatum: qui 
+          <lb ed="#P" n="70"/>reprobat polibium persarum historiographum 
+          <lb ed="#P" n="71"/>in hoc quod dicebat quod Anthiocus illustris 
+          miserabili<lb ed="#P" n="72" break="no"/>ter mortuus est eo quod voluit spoliare templum 
+          Dia<lb ed="#P" n="73" break="no"/>ne.
+        </p>
+        <p xml:id="jm3cbb-e79979-d1e435">
+          ¶ Contra hoc obiicit Iosephus dicens: cum non 
+          <lb ed="#P" n="74"/>egit peccatum: sed tantum voluit illud facere: non 
+          pec<lb ed="#P" n="75" break="no"/>cauit. ergo proptera non est mortuus miserabilitur: 
+          <lb ed="#P" n="76"/>sed propter peccata que hierosolimis fecit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

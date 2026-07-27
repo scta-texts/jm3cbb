@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="37-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e22189"><!-- l3d15q3 -->
+        <head xml:id="jm3cbb-e22189-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e22189-Hd1e101" type="question-title">An poena et cruciatus Christi instante passione fuit maximus</head>
+        <p xml:id="jm3cbb-e22189-d1e104">
+          <lb ed="#P" n="32"/>TErtio circa hanc 
+          <lb ed="#P" n="33"/>decimam quintam distinctionem 
+          <lb ed="#P" n="34"/>queritur: an pena et cruciatus 
+          <lb ed="#P" n="35"/>christi instante passione fuit 
+          ma<lb ed="#P" n="36" break="no"/>ximus. ex industria terminum 
+          cru<lb ed="#P" n="37" break="no"/>ciatus pono: vt capiatur aliquid 
+          <lb ed="#P" n="38"/>superius et ad dolorem et ad 
+          tri<lb ed="#P" n="39" break="no"/>sticiam.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e124">
+          ¶ Respondetur ad questionem per 
+          conclu<lb ed="#P" n="40" break="no"/>siones sequentes.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e129">
+          ¶ Quarum prima est: pena quam 
+          <lb ed="#P" n="41"/>passus est christus tempore passionis non fuit 
+          maior<lb ed="#P" n="42" break="no"/>pena damnatoru. probatur: in inferno deus 
+          pu<lb ed="#P" n="43" break="no"/>nit in furore suo. hec autem pena est correptiua eor 
+          <lb ed="#P" n="44"/>qui peccant: vel est pro aliorum purgatione. ¶. 
+          Se<lb ed="#P" n="45" break="no"/>cundo arguitur ad idem. gaudium beatorum excedit 
+          <lb ed="#P" n="46"/>omne gaudium huius mundi. ergo pena damnatorum quem 
+          <lb ed="#P" n="47"/>cunque cruciatum in hoc mundo exuperat.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e148">
+          ¶ Secunda 
+          <lb ed="#P" n="48"/>conclusio: mirabiliter magnus erat dolor in 
+          corpo<lb ed="#P" n="49" break="no"/>re christi. probatur hec conclusio: dolor vehemens 
+          mul<lb ed="#P" n="50" break="no"/>tipliciter alicui contingit: et in teneritudine 
+          corpo<lb ed="#P" n="51" break="no"/>ris / et bona complexione eius / ab etate florida in 
+          <lb ed="#P" n="52"/>qua quis solet esse vigorosior: et affligitur in 
+          par<lb ed="#P" n="53" break="no"/>tibus neruosis: sed omnia ista contigerunt in christo. 
+          <lb ed="#P" n="54"/>corpus tenerrimum habebat ex purissimo saguinem 
+          <lb ed="#P" n="55"/>virginis bene complexionate plasmatum. ergo 
+          ma<lb ed="#P" n="56" break="no"/>teria corporis sui erat optime disposita. et istud 
+          <lb ed="#P" n="57"/>patet per psalmistam psalmo. xliiii. de corpore christi 
+          di<lb ed="#P" n="58" break="no"/>centem: speciosus forma pre filiis hominum. modo 
+          si<lb ed="#P" n="59" break="no"/>duo quorum vnus est tenere et delicate complexio 
+          <lb ed="#P" n="60"/>nis: et alter rudis: similia lesiua intrinseca vel ex¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>trinseca patiantur: incomparabiliter plus leditur 
+          te<lb ed="#P" n="62" break="no"/>nerior. videmus experimento aliquos seminudos 
+          <lb ed="#P" n="63"/>rudes in frigoribus viuere: in quibus teneri 
+          tabe<lb ed="#P" n="64" break="no"/>scerent. In etateflorida passus est: vtpote: xxxiii 
+          <lb ed="#P" n="65"/>anno cum dimidio etat / sue secundum carnem: in qua hoines 
+          <lb ed="#P" n="66"/>robustiores esse solent: et per consequens afflictio 
+          <lb ed="#P" n="67"/>et mors erat acerbior. Senes leniter dormiunt in 
+          <lb ed="#P" n="68"/>domino sine dolore magno. In loci neruosis 
+          pas<lb ed="#P" n="69" break="no"/>sus est. et tribus ( vel vt aliis placet quattuor ) 
+          cla<lb ed="#P" n="70" break="no"/>uis grossis quibus proforabatur caro in locis 
+          ner<lb ed="#P" n="71" break="no"/>uosis: vt in manibus et pedibus: ad cuius 
+          diuisio<lb ed="#P" n="72" break="no"/>nem magnus sequebatur dolor. et sentibus 
+          coro<lb ed="#P" n="73" break="no"/>ne spinee in capite caro tenera minutatim diuide 
+          <lb ed="#P" n="74"/>batur: corpus bone magnitudinis grauitat / 
+          in<lb ed="#P" n="75" break="no"/>tribus clauis pendebat. per totum corpus 
+          flagel<lb ed="#P" n="76" break="no"/>labatur: ita quod a planta pedis vsque ad verticem 
+          ca<lb ed="#P" n="77" break="no"/>pitis non erat in eo sanitas. sputis et collaphis 
+          ce<lb ed="#P" n="78" break="no"/>sus est. felle amaro et aceto potatus: ergo in 
+          sensu<lb ed="#P" n="79" break="no"/>gustus passus est. inter corpora fetentia mortuo 
+          <lb ed="#P" n="80"/>rum in monte caluarie: et per consequens in sensu / 
+          <lb ed="#P" n="81"/>olfactus. penam pertulit secundum auditum blasphemiis 
+          <lb ed="#P" n="82"/>irridentium. cruci affixus et longo tempore sua 
+          pa<lb ed="#P" n="83" break="no"/>sio durauit: post vltimam cenam ad horam nonam 
+          die<lb ed="#P" n="84" break="no"/>vsque sequenntis: que hore tertie nostre 
+          pomeridia<lb ed="#P" n="85" break="no"/>ne respondet: vt euangeliste testantur: more 
+          hebreo<lb ed="#P" n="86" break="no"/>rum ab ortu solis horas supputantes.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e237">
+          ¶ Tertia 
+          <lb ed="#P" n="87"/>conclusio: tristiciam magnam habuit in anima. hec 
+          <lb ed="#P" n="88"/>patet ex duabus questionibus / precedentibus: et am 
+          <lb ed="#P" n="89"/>plius adhuc patet: contemplatus est tristitiam 
+          ma<lb ed="#P" n="90" break="no"/>tris presentis et amicorum: et sic in visu passus est: 
+          <lb ed="#P" n="91"/>negationem petri / fluctuationem apostolorum in fide 
+          <lb ed="#P" n="92"/>Iudeorum ingratitudinem / reproborum peccata / et 
+          <lb ed="#P" n="93"/>tot malorum hominum quibus sua passio applica 
+          <lb ed="#P" n="94"/>ta non profuit obeorum culpam. verus deus et 
+          ho<lb ed="#P" n="95" break="no"/>mo erat: qui cultu latrie debebat ab omnibus 
+          co<lb ed="#P" n="96" break="no"/>li: et tamen tamquam vilis et legis transgressor ducebatur igno 
+          <lb ed="#P" n="97"/>miniose in regia vrbe / coram populo innumero ad 
+          <lb ed="#P" n="98"/>pascha sacrum veniente: et omnia ista erant spiritus 
+          <lb ed="#P" n="99"/>eius vehementer afflictiua.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e268">
+          ¶ Ultima conclusio. 
+          <lb ed="#P" n="100"/>sanctorum nullus ab orbe condito tot cruciatus 
+          pas<lb ed="#P" n="101" break="no"/>sus est sicut christus: hec conclusio quodam modo de 
+          <lb ed="#P" n="102"/>pendet ex precedentibus: et adhuc probatur 
+          ali<lb ed="#P" n="103" break="no"/>ter: sanctorum plurimi erant specialiter adiuti a deo: 
+          <lb ed="#P" n="104"/>vt in sanctorum vitis pluries legimus. et tamen deus 
+          <lb ed="#P" n="105"/>reliquit causas naturales habere suam actionem in 
+          <lb ed="#P" n="106"/>proprio filio: secundum illud psalmiste psalmo. xxi. deus 
+          <lb ed="#P" n="107"/>deus meus quare dereliquisti me.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e288">
+          ¶ Secundo 
+          proba<lb ed="#P" n="108" break="no"/>tur eadem conclusio secundum illud Trenorum. iii. O vos 
+          <lb ed="#P" n="109"/>omnes qui transitis per viam attendite et videte si est do 
+          <lb ed="#P" n="110"/>lorsicutr dolor meus. ac si diceret: non est similis 
+          <lb ed="#P" n="111"/>dolor dolori christi. Insuper: copio sa apud eum 
+          re<lb ed="#P" n="112" break="no"/>demptio. et Psal. lxxxvii. malis repleta est anima 
+          <lb ed="#P" n="113"/>mea. et omnes fluctus tuos induxisti super me. hec 
+          <lb ed="#P" n="114"/>omnia in orto preuidens / sanguineos emisit 
+          su<lb ed="#P" n="115" break="no"/>dores. an merenaturaliter: vel partim miraculo 
+          <lb ed="#P" n="116"/>se: non refert.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e310">
+          ¶ Contra ista arguitur: ignis est 
+          ma<lb ed="#P" n="117" break="no"/>gis afflictiuus quam erant claui et flagella: et 
+          tamen<lb ed="#P" n="118" break="no"/>Laurentius et Uincentius ad igne passi sunt: ergo 
+          <lb ed="#P" n="119"/>cruciatus eorum erat maior. similiter Dartholomeus 
+          <lb ed="#P" n="120"/>excoriatus vel pre prato nouiter defalcato 
+          tra<lb ed="#P" n="121" break="no"/>ctus est: illa pena erat maior.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e323">
+          ¶ Secundo arguitur: 
+          <pb ed="#P" n="37-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>fi christus omnia hec apprehendens afligebatur: vt 
+          <lb ed="#P" n="2"/>in orto iam diximus tempore qua sanguineos sudores 
+          <lb ed="#P" n="3"/>emisit: sequitur quod a primo instanti quo anima eius 
+          <lb ed="#P" n="4"/>erat in rerum natura pati debuerat: cum omnia hec 
+          <lb ed="#P" n="5"/>clare apprehendebat in primo instanti quo erat in 
+          <lb ed="#P" n="6"/>rerum natura.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e344">
+          ¶ Ad primum respondetur. 
+          argumen<lb ed="#P" n="7" break="no"/>tum probat folum quod ratione vnius pena laurentii vel 
+          <lb ed="#P" n="8"/>Uincentii erat maior quam pena quam passus est christus. 
+          <lb ed="#P" n="9"/>non tamemn probat quod pena eorum sit absolute maior: 
+          <lb ed="#P" n="10"/>quia capiendo omnia que erant in christo: illa 
+          penam<lb ed="#P" n="11" break="no"/>fecerunt maiorem quam erat pena Laurentiana vel 
+          di<lb ed="#P" n="12" break="no"/>centiana.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e360">
+          ¶ Ad secundum: concedo quod anima christi 
+          appre<lb ed="#P" n="13" break="no"/>hendebat et in verbo nouit hec omnia sibi 
+          futu<lb ed="#P" n="14" break="no"/>ra: sed gaudium anime eius tunc non patiebatur 
+          <lb ed="#P" n="15"/>eausas tristicie productiuas / tristiciam vllam produ 
+          <lb ed="#P" n="16"/>cere. immo si in tristiciam que fuit in anima christi 
+          tem<lb ed="#P" n="17" break="no"/>pore passionis gaudium passus fuisset agere: ipsam 
+          <lb ed="#P" n="18"/>subito extinxisset: quia erat infinitum gaudium. 
+          tem<lb ed="#P" n="19" break="no"/>pore passionis deus impediebat gaudium ne 
+          age<lb ed="#P" n="20" break="no"/>ret ad corruptionem tristicie. nec permisit gaudium 
+          <lb ed="#P" n="21"/>impedire tristicie generationem tempore passionis. 
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e382">
+          <lb ed="#P" n="22"/>¶ Tertio. si anima christi sit tristata tempore 
+          passi<lb ed="#P" n="23" break="no"/>onis: et non videtur a quo illa tristicia corrupta sit: se 
+          <lb ed="#P" n="24"/>quitur quod illa tristicia abhuc in anima christi durat. 
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e391">
+          <lb ed="#P" n="25"/>¶ Quarto arguitur: in his que christi sunt / nihil erat 
+          <lb ed="#P" n="26"/>superflui: sed parua tristicia vel paruus dolor 
+          sur<lb ed="#P" n="27" break="no"/>fecisset pro generis humani redemptione: ergo 
+          ex<lb ed="#P" n="28" break="no"/>cessus illius parue pene erat superflua: ergo non 
+          <lb ed="#P" n="29"/>est ponenda
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e404">
+          ¶ Respondetur: a tempore quo passio christi inchoata 
+          <lb ed="#P" n="30"/>est siue per dolorem siue per tristitiam durauit ad 
+          mor<lb ed="#P" n="31" break="no"/>tem vsque: secundum illud Matthei. xxvi. tristis est anima mea 
+          <lb ed="#P" n="32"/>vsque ad mortem. forte erat ita intensa quod hominem 
+          <lb ed="#P" n="33"/>interemisset si impedimentum gaudii ablatum 
+          fuis<lb ed="#P" n="34" break="no"/>set. spiritus tristis desiccat ossa prouerb. xvii. Et 
+          ra<lb ed="#P" n="35" break="no"/>tione hoc probo: tristicia vite nocet. ergo maior 
+          <lb ed="#P" n="36"/>tristicia magis nocet: et vitam abbreuiat. ergo 
+          tam<lb ed="#P" n="37" break="no"/>ta potest esse tristicia ) quod cum illa non potest stare vita. 
+          <lb ed="#P" n="38"/>et licet ponam gaudium beatitudinis anime christi 
+          es<lb ed="#P" n="39" break="no"/>se infinitum in gradu: sicut eius amorem fruitiuum et 
+          <lb ed="#P" n="40"/>charitatem: tristiciam pono finitam: et ita in 
+          ma<lb ed="#P" n="41" break="no"/>lis pene secundum concursum causarum naturalium. Alio 
+          <lb ed="#P" n="42"/>modo exponitur exclusiue prepositio vsque: puta 
+          tri<lb ed="#P" n="43" break="no"/>stitia mea durabit ad mortem exclusiue. 
+          Anima<lb ed="#P" n="44" break="no"/>christi desinebat informare corpus successiue: tunc 
+          <lb ed="#P" n="45"/>in primo instanti non esse vite christi non erat tristitia 
+          <lb ed="#P" n="46"/>non erat dolor cum anima non informabat corperus: 
+          <lb ed="#P" n="47"/>nec tristicia in anima aliis modis. de modo quo 
+          cau<lb ed="#P" n="48" break="no"/>lsatur a dolore notum est. in mortis puncto deus / 
+          per<lb ed="#P" n="49" break="no"/>lmisit gaudium agere: hoc est: gaudium tristiciam 
+          <lb ed="#P" n="50"/>extinxit in primo instanti non esse vite christi. non est 
+          <lb ed="#P" n="51"/>ratio quod illa tristitia debuit esse plus / in instanti 
+          mor<lb ed="#P" n="52" break="no"/>tis quam in aliquo instanti mortem sequenti. Alio 
+          mo<lb ed="#P" n="53" break="no"/>do exponitur illud assumptum / tristis est anima mea 
+          <lb ed="#P" n="54"/>vsque and mortem: hoc est propter mortem.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e461">
+          ¶ Ad 
+          quar<lb ed="#P" n="55" break="no"/>tum concedo maiorem. et concedo etiam minorem: si deus 
+          <lb ed="#P" n="56"/>voluisset. sed si debuerat satisfacere de congruo: de 
+          <lb ed="#P" n="57"/>cens erat quod magnam penam sufferret: quia erat 
+          pro<lb ed="#P" n="58" break="no"/>totius generis humani redemptione: et vt 
+          amo<lb ed="#P" n="59" break="no"/>rem suum erga nos ostenderet.
+        </p>
+        <p xml:id="jm3cbb-e22189-d1e475">
+          ¶ Dubitatur an 
+          con<lb ed="#P" n="60" break="no"/>ueniens erat quod christus naturam humanam assumeret 
+          <lb ed="#P" n="61"/>cum eius defectibus. s fespendetur multiplices sunt 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>defectus: quidam indiuiduales: vt cecitas / surditas 
+          <lb ed="#P" n="63"/>infirmitas / et huiusmodi tales non assumpsit. corpus 
+          <lb ed="#P" n="64"/>optime dispositum habuli: et temperantiam in 
+          me<lb ed="#P" n="65" break="no"/>dio mathematico tenuit. nunquam de ipso legimus quod 
+          <lb ed="#P" n="66"/>morbo laborauerit. Alii sunt defectus consequentes 
+          <lb ed="#P" n="67"/>totam naturam: vt sunt fames sitis / et husmondi:tales 
+          <lb ed="#P" n="68"/>defectus assumpsit culpas et ad culpa promouen 
+          <lb ed="#P" n="69"/>tia non accepit: propterea ignorantiam vel habitis 
+          <lb ed="#P" n="70"/>malos non accepit. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 21</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 21</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="95-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e58116"><!-- l3d33q21 -->
+        <head xml:id="jm3cbb-e58116-Hd1e99">Quaestio 21</head>
+        <head xml:id="jm3cbb-e58116-Hd1e101" type="question-title">An patientia sit pars fortitudinis et praeclara virtus</head>
+        <p xml:id="jm3cbb-e58116-d1e104">
+          <lb ed="#P" n="18"/>DUodecimo et ultimo 
+          <lb ed="#P" n="19"/>queritur an patientia sit pars 
+          for<lb ed="#P" n="20" break="no"/>titudinis et preclara virtus. 
+          In<lb ed="#P" n="21" break="no"/>hac quaestione ponetur ratio 
+          termi<lb ed="#P" n="22" break="no"/>fni: postea conclusiue respondebitur. 
+          <lb ed="#P" n="23"/>patientia secundum Gregorium super illo 
+          <lb ed="#P" n="24"/>uce. xxi. In patientia vatia 
+          pos<lb ed="#P" n="25" break="no"/>ssidebitis animas vtias: est 
+          equani<lb ed="#P" n="26" break="no"/>mis malorum tolerantia. Dicit Gre. illic. Patientia est 
+          <lb ed="#P" n="27"/>omnia mala equanimiter ferre: et contra eum qui in 
+          <lb ed="#P" n="28"/>fert nullo dolore moueri. Ecce actum patientie (
+          per<lb ed="#P" n="29" break="no"/>hoc eius habitum cognosces) equaminiter feram has 
+          <lb ed="#P" n="30"/>aduersitates michi illatas.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e135">
+          ¶ Hoc prenotato 
+          po<lb ed="#P" n="31" break="no"/>no conclusiones: Quarum prima est. quaelibet patientia est 
+          <lb ed="#P" n="32"/>pars potentialis fortitudinis: probatur: fortitudo 
+          vir<lb ed="#P" n="33" break="no"/>tus cardinalis est circa pericula belli: non est sic de 
+          <lb ed="#P" n="34"/>qualibet potentia: cum circa quaelibet infortuita est 
+          pa<lb ed="#P" n="35" break="no"/>tientia. et tamen quelibet (cum est circa aduersa) 
+          ha<lb ed="#P" n="36" break="no"/>bet conuenientiam cum fortitudine. igitur.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e151">
+          ¶ 
+          Se<lb ed="#P" n="37" break="no"/>cunda conclusio: non est de ratione patientie quod 
+          ho<lb ed="#P" n="38" break="no"/>mo non potest euadere mortem: vel damnum 
+          ei<lb ed="#P" n="39" break="no"/>illatum. probatur: circa quodcumque infortuitum est 
+          pa<lb ed="#P" n="40" break="no"/>tientia. aliquod infortuitum non est in potestate ntia. 
+          <lb ed="#P" n="41"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e165">
+          ¶ Tertia conclusio: aliquae tristitia in materia 
+          <lb ed="#P" n="42"/>patientie est in potestate nostra: vt patet in martyrio. 
+          <lb ed="#P" n="43"/>requiritur ad martyrium quod libere possumus resilire 
+          <lb ed="#P" n="44"/>sine morte: tunc stando: estmartyriumet patientia. 
+          <lb ed="#P" n="45"/>et quia non est de ratione patientie in communi quod 
+          tribu<lb ed="#P" n="46" break="no"/>latio sit in potestate patientis: hinc solent homines 
+          <lb ed="#P" n="47"/>ponere discrimen intr martyrium et patientiam: tanquam 
+          <lb ed="#P" n="48"/>intur inferius et superius.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e183">
+          ¶ Quarta conclusio: non 
+          quae<lb ed="#P" n="49" break="no"/>libet patientia est cum quaelibet alia eiusdem speciei 
+          <lb ed="#P" n="50"/>specialissime. patet: multe patientie habent obiecta 
+          <lb ed="#P" n="51"/>specie distincta.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e192">
+          ¶ Quinta conclusio: patientia est 
+          pre<lb ed="#P" n="52" break="no"/>clara virtus. probatur hec conclusio: ob tristitias 
+          euitan<lb ed="#P" n="53" break="no"/>das plerique multa mala perpetrant: vt animo sint deie 
+          <lb ed="#P" n="54"/>cti bona negligunt: quorum aliqui sibiipsis morten 
+          con<lb ed="#P" n="55" break="no"/>sciscunt: vt Catho / hannibal et similes. ergo illa est 
+          <lb ed="#P" n="56"/>clara virtus qua tristiciam mitigat ne gratia illius aliquod 
+          <lb ed="#P" n="57"/>turpe perpetretur.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e208">
+          ¶ Sexta conclusio: per tribulationem 
+          <lb ed="#P" n="58"/>optime emicat et cognoscitur patientie virtus. 
+          pro<lb ed="#P" n="59" break="no"/>batur: vesica vel dolium vacuum personum cognoscitur: 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>ca mala pecunia purgata per ignem. sic perillatas 
+          iniu<lb ed="#P" n="61" break="no"/>rias cognoscitur an sis patiens: secundum illud 
+          Grego<lb ed="#P" n="62" break="no"/>rii: quilis vnusquisque apud se lateat illata contumelia pro 
+          <lb ed="#P" n="63"/>bat. numquid vitrum videtur esse res solidissima: nec 
+          fia<lb ed="#P" n="64" break="no"/>gile esse cognoscitur si cum lana vel palea feriatur. sed 
+          <lb ed="#P" n="65"/>mox fragile censetur: si duro aliqui corpere contingatur sic et 
+          <lb ed="#P" n="66"/>patientia: vtrum sit vera vel falsa: non lenibus scitur: 
+          <lb ed="#P" n="67"/>sed asperis: non prosperis: sed aduersis. et ratio 
+          natu<lb ed="#P" n="68" break="no"/>ralis est: omnis res ad presentiam sui conrii excitatur. et 
+          for<lb ed="#P" n="69" break="no"/>tius agit. hoc nouit faber aquam peruam in ignem 
+          proiici<lb ed="#P" n="70" break="no"/>ens vt vigoretur ignis ad liqueractonnem ferri 
+          impo<lb ed="#P" n="71" break="no"/>siti. et si in hyeme tmpere glaciei aqua calida cum 
+          frigi<lb ed="#P" n="72" break="no"/>da in vico proiiciatur: citius calida in glaciem 
+          conuer<lb ed="#P" n="73" break="no"/>titur quam frigida: propter frigus in calidam fortius 
+          im<lb ed="#P" n="74" break="no"/>pingens. sic est in proposito patientia in aduersis 
+          tam<lb ed="#P" n="75" break="no"/>quam in conriis excitatur.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e252">
+          ¶ Sexta conclusio: 
+          tribulatio<lb ed="#P" n="76" break="no"/>nes et mala pene multo solidius et frequentius 
+          ho<lb ed="#P" n="77" break="no"/>mines a peccatis conseruant et ad viam veritatis 
+          dedu<lb ed="#P" n="78" break="no"/>cunt quam prosperitates. probatur hec conclusio. de 
+          pluri<lb ed="#P" n="79" break="no"/>mis legimus quod tmpere prosparitatis male se habuerunt: et tem 
+          <lb ed="#P" n="80"/>pore tribulationis bene. similiter de multis variis 
+          <lb ed="#P" n="81"/>legimus quod per tribulationes in via virtutis stetert: alii in 
+          <lb ed="#P" n="82"/>prosperitatibus: virtute relicta: in vicia inciderunt. 
+          <lb ed="#P" n="83"/>Illud exemplariter videmus ad oculum toto die de 
+          re<lb ed="#P" n="84" break="no"/>gibus / principibus / episuis / abbatibus  et potentibus 
+          se<lb ed="#P" n="85" break="no"/>culi: qui multo magis peccant quom hi qui non habent has 
+          <lb ed="#P" n="86"/>proprietates mundi. Dauid tpere prosequutionis 
+          Saul<lb ed="#P" n="87" break="no"/>et Absolonis optime se habuit: tempore 
+          prosperita<lb ed="#P" n="88" break="no"/>tis male: vt patet erga Bersabeam / Uriam / et 
+          populi<lb ed="#P" n="89" break="no"/>murmurationem Simile legimus tempore iudicum de 
+          <lb ed="#P" n="90"/>filiis israel quando erant oppressi clamartest ad 
+          domi<lb ed="#P" n="91" break="no"/>num. et psalmista: Multiplicate sunt infirmitates 
+          <lb ed="#P" n="92"/>eorum: postea accelerauerunt. et idem. Imple facies 
+          eo<lb ed="#P" n="93" break="no"/>rum ignominia: et quaerent nomen tuum domine. Et Esaie 
+          <lb ed="#P" n="94"/>xxvii. Domine in angustia requisierunt te. Sicut 
+          <lb ed="#P" n="95"/>asinus percussus cogitur redire celerius: et ad viam 
+          re<lb ed="#P" n="96" break="no"/>ctam redire: sic est de corpere nostro.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e300">
+          ¶ Arguitur sic 
+          <lb ed="#P" n="97"/>ratione. Quilibet prudens laborans morbo 
+          corpo<lb ed="#P" n="98" break="no"/>ris consilio medici capit potionem amaram: vt 
+          corpo<lb ed="#P" n="99" break="no"/>ris sanitatem acquirat. ergo a fortiore quilibet prudens 
+          <lb ed="#P" n="100"/>debet patienter capere potionem amaram anime: quatenus 
+          <lb ed="#P" n="101"/>ipsa seruetur et curetur a spuitali morbo: scilicet culpa. sed 
+          <lb ed="#P" n="102"/>hoc fit per tribulationes: vt patet per dicta: et 
+          pa<lb ed="#P" n="103" break="no"/>tet per apostolum. Cum infirmor fortior sum. hoc est: 
+          <lb ed="#P" n="104"/>cum infirmor corpore: fortior sum mente. stimulus 
+          car<lb ed="#P" n="105" break="no"/>nis tempore morbi est pessundatus. nec in magna 
+          fe<lb ed="#P" n="106" break="no"/>bri vel graui morbo nunquam est erectio membri 
+          pudi<lb ed="#P" n="107" break="no"/>bundi: vt iuuenes laborantes nouerunt. ergo carnem 
+          <lb ed="#P" n="108"/>domari libidinem extinguit. Hinc patres in 
+          egy<lb ed="#P" n="109" break="no"/>pto carnem domarunt / vt insultum nullum anime 
+          <lb ed="#P" n="110"/>daret: Mpartha creberrime et diu morbo 
+          labo<lb ed="#P" n="111" break="no"/>rauit: et Magdalena sana. vna virginitatem 
+          ser<lb ed="#P" n="112" break="no"/>uauauit: quam alia ignominiose amisit. 
+          Petronil<lb ed="#P" n="113" break="no"/>lam virginem et filiam pucherrimam noluit a 
+          fe<lb ed="#P" n="114" break="no"/>bribus curare Petrus: cum multas alias curauit. 
+          <lb ed="#P" n="115"/>Legimus de quodam iuuene monacho in 
+          egy<lb ed="#P" n="116" break="no"/>pto ardenti in carnis stimulo curari non poterat: 
+          <lb ed="#P" n="117"/>quod abbas cognoscens iussit illum vexari ab vno 
+          <lb ed="#P" n="118"/>prudente patre: qui iuuenem verbis contumeliosis 
+          la<lb ed="#P" n="119" break="no"/>cessiuit quaelibet die: et eum tanquam criminosum cum te¬ 
+          <pb ed="#P" n="96-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>stibus coram abbate dietim adduxit: et ab omnibus 
+          <lb ed="#P" n="2"/>in domo vexabatur: nisi a solo abbate: qui pro 
+          eo<lb ed="#P" n="3" break="no"/>stabat ne desperaret. et cum hoc per annum factum est: 
+          ab<lb ed="#P" n="4" break="no"/>bas in fine anni iuuenem aduocans quaesiuit ab eo: 
+          quo<lb ed="#P" n="5" break="no"/>modo de carnis tentatione ageret. cui iuuenis: non 
+          <lb ed="#P" n="6"/>possum inter monachos viuere: quodo carnis 
+          vicio<lb ed="#P" n="7" break="no"/>intendere possem. cumque abbas nouisset iuuenem 
+          per<lb ed="#P" n="8" break="no"/>tribulationem curatum: iussit omnes quiescere: et non 
+          am<lb ed="#P" n="9" break="no"/>plius ei maledicere. Tota hec conclusio patet 
+          psal<lb ed="#P" n="10" break="no"/>mo. xc. Cadent a latere tuo mille: et a dextris tuis 
+          <lb ed="#P" n="11"/>decem milia. per latus tribulatio intelligitur: vt glosa 
+          mar<lb ed="#P" n="12" break="no"/>ginalis aug. exponit. per dexteram intelligitur prosparitas. 
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e384">
+          <lb ed="#P" n="13"/>¶ Septima conclusio (et ex praecedenti sequitur) est hec. 
+          <lb ed="#P" n="14"/>quando occurrit nobis aliqua tribulatio: vtpote 
+          nephe<lb ed="#P" n="15" break="no"/>sis / colica / iliaca / vel aliud infortunium nobis: 
+          debe<lb ed="#P" n="16" break="no"/>mus gratanter illud acceptare: et iudicare quod est no 
+          <lb ed="#P" n="17"/>bis immissum ad profectum natre anime: et armare nos 
+          pa<lb ed="#P" n="18" break="no"/>tientia. patet: creberrime iste tribulationes conseruant 
+          <lb ed="#P" n="19"/>nos in virtute. vel si extra latitudinem virtutis 
+          fueri<lb ed="#P" n="20" break="no"/>mus: nos ad viam virtutis reuocant. ergo nobis sunt 
+          ma<lb ed="#P" n="21" break="no"/>teria profectus salutaris. quod talia sint nobis a deo 
+          in<lb ed="#P" n="22" break="no"/>missa ratione iam dicta patet. Ego quos amo 
+          ar<lb ed="#P" n="23" break="no"/>guo et castigo. Apocalipsis. iii. non est signum odii: 
+          <lb ed="#P" n="24"/>sed amoris: filium virga percutere. Prouerbiorum. xiii. 
+          <lb ed="#P" n="25"/>Qui parcit virge odit filium. qui autem diligit: instam 
+          <lb ed="#P" n="26"/>ter erudit illum. et Ecclesiastici. iii. scribitur: qui 
+          dili<lb ed="#P" n="27" break="no"/>git filium: assiduat illi flagella: et in eo letetur in no 
+          <lb ed="#P" n="28"/>uissimo. quando corporis morbi tibi occurrunt: dicas cum 
+          <lb ed="#P" n="29"/>apostolo: libenter gloriabor in infirmitatibus meis: 
+          <lb ed="#P" n="30"/>vt inhabitet in me vittus christi. et non solum equanimi 
+          <lb ed="#P" n="31"/>ter feras: sed gaudeas: secundum illud Iacobi in 
+          cano<lb ed="#P" n="32" break="no"/>nica sua dicentis. Oen gaudium existimate fratres si 
+          <lb ed="#P" n="33"/>in tentationes varias incideritis / militia est vita 
+          <lb ed="#P" n="34"/>hominis super terram: teste Iob. Et nemo coronabitur secundem 
+          <lb ed="#P" n="35"/>apostolum nisi qui legitime certauerit. Nemo potest 
+          <lb ed="#P" n="36"/>terminum attingere: nisi iuerit per viam. modo christus est 
+          <lb ed="#P" n="37"/>via et veritas qui penas passus est. oportet secum pati: sed 
+          <lb ed="#P" n="38"/>illud apostoli: Si socii passionum estis: ita et resur 
+          <lb ed="#P" n="39"/>rectionis eritis. si tolerabimus et congregabimus. Et 
+          <lb ed="#P" n="40"/>Actuum. xiii. per multas tribulationes oportet nos 
+          <lb ed="#P" n="41"/>introire in regnum dei. et iterum euangelista. 
+          Dea<lb ed="#P" n="42" break="no"/>ti qui lugent: quand ipsi consolabuutur: hoc est qui 
+          ha<lb ed="#P" n="43" break="no"/>bent materiam luctus.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e454">
+          ¶ Contra tertiam et secundam 
+          <lb ed="#P" n="44"/>conclusionem arguitur sic. Tristicia non est in 
+          pote<lb ed="#P" n="45" break="no"/>state nostra: cum est passio naturaliter suam causam 
+          <lb ed="#P" n="46"/>sequens: ex dictis in distinctione. xv. huius. ergo 
+          <lb ed="#P" n="47"/>per patientiam non possumus eam tollere.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e465">
+          ¶ 
+          Secun<lb ed="#P" n="48" break="no"/>do: multi erant patientes tristes: patet de christo 
+          <lb ed="#P" n="49"/>tempore passionis: et ita de multis aliis. ergo patiem 
+          <lb ed="#P" n="50"/>tia non tollit tristiciam.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e474">
+          ¶ Respondetur: possumus tollere 
+          <lb ed="#P" n="51"/>causam tristicie generatiuam. Secundo per patientiam 
+          <lb ed="#P" n="52"/>possumus nos habitualiter firmare quod tristicia non 
+          <lb ed="#P" n="53"/>generabitur a sua causa.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e483">
+          ¶ Ad secundum dci: non est de 
+          <lb ed="#P" n="54"/>ratione patientie quod omnem tristiciam tollat. sic est quod non 
+          <lb ed="#P" n="55"/>patiatur eam aliquid agere vel omittere contra rationem 
+          <lb ed="#P" n="56"/>in illo qui tristiciam habet: vt necem de ratione tristicie 
+          habe<lb ed="#P" n="57" break="no"/>re tristiciam in illo qui patientie actum vel habitum habet. 
+          <lb ed="#P" n="58"/>Sufficit ad patientiam quod materia circa quam est: est 
+          <lb ed="#P" n="59"/>apta nata generare tristiciam: si non ponatur obex 
+          ip<lb ed="#P" n="60" break="no"/>sius generationi.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e501">
+          ¶ Contra quartam conclusionem argui¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tur. Ex ea sequitur quod quis simul esse potest patiens 
+          impa<lb ed="#P" n="62" break="no"/>tiens: patiens circa amissionem bonorum fortune: et 
+          <lb ed="#P" n="63"/>impatiens circa infortunia corporis: quemadmodum 
+          <lb ed="#P" n="64"/>est morbus.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e515">
+          ¶ Secundo sequitur quod patiens torquaebitur 
+          ex<lb ed="#P" n="65" break="no"/>cessiue a materia patientie superueniente in qua 
+          pa<lb ed="#P" n="66" break="no"/>tiens non est habituatus.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e522">
+          ¶ Despondetur: non inconuenit 
+          <lb ed="#P" n="67"/>quod quis sit patiens circa vnam materiam: et impatiens 
+          circa<lb ed="#P" n="68" break="no"/>aliam: nec in hoc est vlla conrietas: sed inter patientiam et 
+          <lb ed="#P" n="69"/>impatientiam actualem circa eandem materiam est contrarietas 
+          <lb ed="#P" n="70"/>et sic in habituali.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e533">
+          ¶ Ad sed conceditur illatum: et hoc si 
+          <lb ed="#P" n="71"/>fuerit patiens circa materiam aliquam in particulari. 
+          <lb ed="#P" n="72"/>Pro cuius / intelligentia vlteriore scito. aliquis 
+          po<lb ed="#P" n="73" break="no"/>tens esse patiens in vniuersali actualiter vel 
+          habi<lb ed="#P" n="74" break="no"/>tualiter. Exemplum: vt volo equanimiter ferre 
+          om<lb ed="#P" n="75" break="no"/>nia aduersa: vel non ero deiecti animi contra 
+          ra<lb ed="#P" n="76" break="no"/>tionem pro quacunque tribulatione occurrente. 
+          ta<lb ed="#P" n="77" break="no"/>lis habitualiter patiens in vniuersali exibit facile 
+          <lb ed="#P" n="78"/>in suum actum elicitum: et si habuerit talem actum efficacem / 
+          <lb ed="#P" n="79"/>omnem tribulationem aduenientem equanimiter feret: 
+          <lb ed="#P" n="80"/>et mortem equi sui nunc superuenientem iudicet 
+          <lb ed="#P" n="81"/>tribulationem: volet pati mortem equi 
+          equani<lb ed="#P" n="82" break="no"/>miter. sic fortis et temperatus potest habere actus 
+          vni<lb ed="#P" n="83" break="no"/>uersales: vt fortis sic: volo fortiter agere in 
+          quacum<lb ed="#P" n="84" break="no"/>que materia: vel peccare contra materiam fortitudins 
+          <lb ed="#P" n="85"/>nolo in vlla materia. talis facile in materiam 
+          par<lb ed="#P" n="86" break="no"/>ticularem occurrentem exibit. Similiter in 
+          tempe<lb ed="#P" n="87" break="no"/>rantia: vt volo in omni materia temperantie tene 
+          <lb ed="#P" n="88"/>re medium rationis: vel nolo descendere a latitudine 
+          <lb ed="#P" n="89"/>medii temperantie in aliqua materia. talis facile in 
+          <lb ed="#P" n="90"/>materia particulari occurrenti temperantie exibit 
+          <lb ed="#P" n="91"/>in actum temperantie.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e581">
+          ¶ At dicis: talis actus 
+          vni<lb ed="#P" n="92" break="no"/>uersalis erit temperantia virtus cardinalis. simili 
+          <lb ed="#P" n="93"/>terin fortitudine. et nullus actus habens particula 
+          <lb ed="#P" n="94"/>rem materiam temperantie vel fortitudinis: et sic 
+          <lb ed="#P" n="95"/>erit vna fortitudo virtus cardinalis: et vna 
+          tempe<lb ed="#P" n="96" break="no"/>rantia virtus cardinalis secundum speciem.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e594">
+          ¶ 
+          Respon<lb ed="#P" n="97" break="no"/>detur: potes sic loqui: si libeat. nomina significant 
+          <lb ed="#P" n="98"/>ad placitum: sed quia istorum duorum actuum volo 
+          tem<lb ed="#P" n="99" break="no"/>perate viuere: nolo intemperate agere: obiecta 
+          dif<lb ed="#P" n="100" break="no"/>ferunt specie. adhuc dabis varias temperantias 
+          <lb ed="#P" n="101"/>specie distinctas quarum quelibet est virtus 
+          cardia<lb ed="#P" n="102" break="no"/>lis. et ita dare potes plures actus volitiuos specie 
+          <lb ed="#P" n="103"/>distinctos: vt volo temperanter viuere in omni mate 
+          <lb ed="#P" n="104"/>ria temperantie. volo temperanter agere in 
+          omni<lb ed="#P" n="105" break="no"/>materia gustus et tactus. sic semper dabis plureo 
+          <lb ed="#P" n="106"/>temperantias specie distinctas: quarum quelibet est 
+          <lb ed="#P" n="107"/>virtus cardinalis: ergo pari ratonne dicere potes: 
+          <lb ed="#P" n="108"/>quilibet actus habens particularem materiam 
+          tem<lb ed="#P" n="109" break="no"/>perantie est virtus cardinalis. in hoc modo loquem 
+          <lb ed="#P" n="110"/>di vel illo non est magna vis: elige quod voles. 
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e627">
+          <lb ed="#P" n="111"/>¶ Contra sextam septimam conclusiones arguitur 
+          <lb ed="#P" n="112"/>sic: eadem est materia patientie et impatientie. ergo illa 
+          <lb ed="#P" n="113"/>materia est multis causa impatientie: ergo non est 
+          ex<lb ed="#P" n="114" break="no"/>petenda vt vtilis.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e639">
+          ¶ Confirmatur hec ratio: 
+          multi<lb ed="#P" n="115" break="no"/>per impatientiam succubuere: qui in prosperis bene 
+          <lb ed="#P" n="116"/>se habuerunt: igitur.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e646">
+          ¶ Conceditur quod eadem est 
+          ma<lb ed="#P" n="117" break="no"/>teria patientie et impatientie. et in vno: scilicet 
+          pruden<lb ed="#P" n="118" break="no"/>ti: genitus est actus patientie: et in alio actus 
+          impati<lb ed="#P" n="119" break="no"/>entie. sicut idem ignis numero lutum indurat: et 
+          ce<lb ed="#P" n="120" break="no"/>ram liquefacit. lignum denigrat: et os dealbat. de¬ 
+          <pb ed="#P" n="96-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>fectus est ex parte imprudentum non bene vtentium 
+          <lb ed="#P" n="2"/>fagellis que deus solet inferre in penam 
+          pecca<lb ed="#P" n="3" break="no"/>torum preteritorum: vt homines mitius in hoc mundo 
+          pu<lb ed="#P" n="4" break="no"/>niantur: et minus in futuro torqueantur. vel quatenus 
+          <lb ed="#P" n="5"/>a peccati preseruentur. vel vt eorum virtus emineat et 
+          <lb ed="#P" n="6"/>cognoscatur: vt in iob. vel vt gloria dei 
+          magnifice<lb ed="#P" n="7" break="no"/>tur: vt in ceco nato.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e677">
+          ¶ forte dicis: ex 
+          intempe<lb ed="#P" n="8" break="no"/>rantia / morbi generantur. ergo ex culpa morbum 
+          ha<lb ed="#P" n="9" break="no"/>bentis: ergo deus illum morbum non immittit.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e684">
+          ¶ 
+          Re<lb ed="#P" n="10" break="no"/>spondetur: interdum deus se solo morbum immittit: 
+          <lb ed="#P" n="11"/>vt in paulum stimulum carnis: vt non superbiret. 
+          in<lb ed="#P" n="12" break="no"/>terdum per causam secundam: sicut in intemperato: 
+          <lb ed="#P" n="13"/>cuius morbus est vtilis. licet deus non concurrat 
+          <lb ed="#P" n="14"/>ad malum culpe: tamen concurrit ad malum pene: fed 
+          <lb ed="#P" n="15"/>illud Ecclesi. xi. bona / et mala / mors /et vita / 
+          pau<lb ed="#P" n="16" break="no"/>pertas / et honestas / a deo sunt. et propheta: no est 
+          <lb ed="#P" n="17"/>malum in ciuitate quod non fecit domis. morbus ille 
+          <lb ed="#P" n="18"/>prudenti viro est vtilis. et si imprudenti e 
+          impatiem<lb ed="#P" n="19" break="no"/>ti est inutilis: hoc est de per accidens: e ex sua 
+          stulti<lb ed="#P" n="20" break="no"/>tia. sicut verbera inflicta a regente ad bonum finem: aliqui 
+          <lb ed="#P" n="21"/>bus prauis a malicia nocet: bonis et prudentibus 
+          <lb ed="#P" n="22"/>prodest.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e715">
+          ¶ Ad secundum argumentum concedo quod 
+          va<lb ed="#P" n="23" break="no"/>rii per impatientiam franguntur et peccant: qui 
+          in<lb ed="#P" n="24" break="no"/>medietate prosperitatum stetissent. sed multoplures 
+          <lb ed="#P" n="25"/>in prosperibus cadunt. sicut multoplures iuuenes 
+          <lb ed="#P" n="26"/>a viciis cohibentur per virgam quam male se habeant 
+          <lb ed="#P" n="27"/>per eam: dummod percutiens recte virga vtitur. quam 
+          <lb ed="#P" n="28"/>do morbus vel aliud infortunium tibi occurrit: de ne 
+          <lb ed="#P" n="29"/>cessitate fac virtutem: non quod actus virtutis de 
+          neces<lb ed="#P" n="30" break="no"/>sitate eliciatur: sed sic circa obiectum necessarium secundum 
+          <lb ed="#P" n="31"/>quid: puta morbum: elicias actum spontaneum virtu 
+          <lb ed="#P" n="32"/>tis: puta volendo equanimiter ferre: et iudica quod 
+          do<lb ed="#P" n="33" break="no"/>minus tibi pro meliori hunc morbum totaliter vel 
+          <lb ed="#P" n="34"/>partialiter dedit.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e744">
+          ¶ hoc summe notabis: si 
+          impa<lb ed="#P" n="35" break="no"/>tienter morbum feras: morbum morbo superaddis: 
+          <lb ed="#P" n="36"/>puta morbum spumalem tristicie et impatientie / 
+          mor<lb ed="#P" n="37" break="no"/>bo corporali. si impatientiam indueris vehementem: 
+          <lb ed="#P" n="38"/>penam morbi quo ad perceptibilitatem: licet non quo 
+          <lb ed="#P" n="39"/>ad essentiam: mitigabis. vel te conuertas ad penas 
+          <lb ed="#P" n="40"/>purgatorii cogitans quodlibenter hic hunc morbum 
+          <lb ed="#P" n="41"/>pateres: vt miorem alibi habeas: et tunc minus 
+          pro<lb ed="#P" n="42" break="no"/>pter distractionem tuum morbum percipies. sicut 
+          lu<lb ed="#P" n="43" break="no"/>dus / morbi vigorem in parte alleuiat: vel morbus 
+          <lb ed="#P" n="44"/>in pede morbum in capite. vides ergo cum 
+          infortu<lb ed="#P" n="45" break="no"/>nium habes occurrens: stultum esse te nouo morbo 
+          tor<lb ed="#P" n="46" break="no"/>quere per impatientiam. patientiam aggrediaris: et 
+          <lb ed="#P" n="47"/>fortifica eam per actus patientie.
+        </p>
+        <p xml:id="jm3cbb-e58116-d1e776">
+          ¶ Ex his 
+          intueri<lb ed="#P" n="48" break="no"/>potes patientiam virtutem claram et summe viro 
+          ne<lb ed="#P" n="49" break="no"/>cessariam: cum tot tribulationes quotidie nobis oc 
+          <lb ed="#P" n="50"/>currant. si patientiam non habuerimus: actum est de 
+          <lb ed="#P" n="51"/>nobis. nec crede tibi inutile quod interdum afficiaris 
+          pro<lb ed="#P" n="52" break="no"/>bro et contumeliis: modo patientiam perhoc 
+          addis<lb ed="#P" n="53" break="no"/>cas: more socratis iniuria lacessiti ab vxore: nil 
+          ali<lb ed="#P" n="54" break="no"/>ud dicebat: nisi quod addidicit domi quod foris 
+          pati<lb ed="#P" n="55" break="no"/>debuerit. et quidam philosophus magna dedit 
+          sti<lb ed="#P" n="56" break="no"/>pendia vt eum probriiset contumeliis afficerent: 
+          <lb ed="#P" n="57"/>quatenus patientiam addisceret. cum in fine 
+          prre<lb ed="#P" n="58" break="no"/>xit athenas gratia plurium litterarum habendarum: 
+          <lb ed="#P" n="59"/>irridebatur in ianua (prout moris tunc erat 
+          athe<lb ed="#P" n="60" break="no"/>nis) continuo risit. et cum quereretur: cur probro ai 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>fectus risit. perbelle respondit: alias pecuniam 
+          dedi<lb ed="#P" n="62" break="no"/>michi exprobrantibus: vos vero sine pecunia vlla 
+          <lb ed="#P" n="63"/>michi conuicia dicitis: qui ingredi sine mora 
+          me<lb ed="#P" n="64" break="no"/>ruit. tu ergo scolastice patientiam addiscito: que 
+          ti<lb ed="#P" n="65" break="no"/>bi longe plus proderitur quam scire an sit pars 
+          subiecti<lb ed="#P" n="66" break="no"/>ua vel potentialis fortitudinis: quare primum 
+          raptin<lb ed="#P" n="67" break="no"/>transeunter dixi: secundum pauio longius: tanquam 
+          <lb ed="#P" n="68"/>vtilius. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

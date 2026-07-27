@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 25</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 25</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="137-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e83575"><!-- l3d37q25 -->
+        <head xml:id="jm3cbb-e83575-Hd1e99">Quaestio 25</head>
+        <head xml:id="jm3cbb-e83575-Hd1e101" type="question-title">An sit aliquis sanguis Christi realiter in terra extra
+    eucharistiam, et qua adoratione adorandus venit</head>
+        <p xml:id="jm3cbb-e83575-d1e104">
+          <lb ed="#P" n="46"/>QUarto a ultimo circa 
+          san<lb ed="#P" n="47" break="no"/>ctificationem sabbati queritur: an sit 
+          ali<lb ed="#P" n="48" break="no"/>quis sanguis christi realiter: et qua adoratione 
+          <lb ed="#P" n="49"/>adorandus venit. Pro quaestionis solutioue sermo erit 
+          <lb ed="#P" n="50"/>de sanguine tam effuso tempere passionis / quam de alio 
+          san<lb ed="#P" n="51" break="no"/>guine. et circa hoc pono conclusiones.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e120">
+          ¶ Quarum 
+          prima<lb ed="#P" n="52" break="no"/>est: magna pars sanguinis christi effusa est tmpere passionis. 
+          <lb ed="#P" n="53"/>probatur hec conclusio: copiosa apotio eum redemptio. 
+          Secundo<lb ed="#P" n="54" break="no"/>christus perforabatur in locis maxime neruosis: vt in 
+          pe<lb ed="#P" n="55" break="no"/>dibus et manibus: et extendebatur ad longum in cruce: et 
+          <lb ed="#P" n="56"/>latus eius miles lancea aperuit: et in toto corpere percussus 
+          <lb ed="#P" n="57"/>est: vt superius: distin. xv. diximus.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e136">
+          ¶ Circa secundam conclusionem 
+          <lb ed="#P" n="58"/>sunt due vie opposite: sed ponitur hec conclusio: sanguis 
+          <lb ed="#P" n="59"/>assumendus a christo in resurrectione nnousm fiit a diuinita 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>te dimissus. probatur hec conclusio: ille sanguis totus fuit 
+          <lb ed="#P" n="61"/>semel a verbo assumptus quamdiu fuit in corpere christi: nec 
+          <lb ed="#P" n="62"/>videtur quid vtilitatis sequaretur ad eius dimissionem a verbot 
+          <lb ed="#P" n="63"/>ergo non fuit a verbo derelictus in triduo.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e155">
+          ¶ Secundo arguitur: 
+          <lb ed="#P" n="64"/>verbum numquam dereliquit corpus vel animam: licet erant sepera 
+          <lb ed="#P" n="65"/>te in triduo: ex disti. xxii. et cam erat: quia ille partes erat 
+          <lb ed="#P" n="66"/>reassumende. Sed sic est de sanguine christi effuso reassu 
+          <lb ed="#P" n="67"/>mendo. igitur.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e166">
+          ¶ Tertio: constat nobis quod sanguis 
+          effu<lb ed="#P" n="68" break="no"/>sus interdum erat assumptus: patet: ante morte. et non 
+          con<lb ed="#P" n="69" break="no"/>stat quod dimittebatur a verbo: nec verbum sanguinem 
+          de<lb ed="#P" n="70" break="no"/>serere decuit: ergo non debemus asserere quod verbum 
+          <lb ed="#P" n="71"/>sanguinem dereliquit. Pretea: tpere Clementis sexti dcir: 
+          <lb ed="#P" n="72"/>quidam contionator berchinone oppositum asserens 
+          coa<lb ed="#P" n="73" break="no"/>ctus est suam assertionem reuocare praecipiente potetifice: 
+          <lb ed="#P" n="74"/>vt brixie est videre de processu illo. et si ita sit: via 
+          <lb ed="#P" n="75"/>opposita pessum it.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e186">
+          ¶ Tertia conclusio: aliquis est 
+          san<lb ed="#P" n="76" break="no"/>guis christi realitur in terris. hoc in pima questioe distin. xi. 
+          <lb ed="#P" n="77"/>quarti diximus: de quo sanguie illa quaestio potissimum 
+          in<lb ed="#P" n="78" break="no"/>telligitur: et vltra illa addo aliam probationm ex pio 
+          se<lb ed="#P" n="79" break="no"/>cundo sic dicente. Pius episus seruus seruorum dei 
+          dile<lb ed="#P" n="80" break="no"/>ctis filiis abbati modasterii sanctem marie Tantonen. 
+          <lb ed="#P" n="81"/>diocesis et cantori eccline Tantonen. ac priori prioratus 
+          <lb ed="#P" n="82"/>sancti Eutropii extra muros Tantonen. s. et apostoli. be. 
+          <lb ed="#P" n="83"/>et infra. ¶petitio exhibita continebat quod lbet tanto 
+          tpre<lb ed="#P" n="84" break="no"/>(cuius menoria non extitit )in eccclia dicte domus (vt pie 
+          <lb ed="#P" n="85"/>creditur) quadam portiuncula praeciosissimi sanguins domini 
+          no<lb ed="#P" n="86" break="no"/>stri iesu christi in ligno crucis pro redemptione humani 
+          ge<lb ed="#P" n="87" break="no"/>neris salubritur effusi: et infra. Nos igitur qui de praedictis 
+          <lb ed="#P" n="88"/>certam noticiam habemus attendentes quod veritati fidei 
+          <lb ed="#P" n="89"/>nullatenus repugnat affirmare redemptorem nostrum de 
+          <lb ed="#P" n="90"/>sanguine prefato ob ipsius passionis meoriam aliquam 
+          <lb ed="#P" n="91"/>partem in terris reliquisse: ac propterea deuotionem 
+          ipso<lb ed="#P" n="92" break="no"/>rum fidelium plurimum conseruari: et infra. Datum 
+          Dome<lb ed="#P" n="93" break="no"/>apud sanctum Petrum anno incarnationis dominice 
+          millesi<lb ed="#P" n="94" break="no"/>mo. cccclxi. ¶Adem patet apud sanctum maximianum: in lo¬¬ 
+          <lb ed="#P" n="95"/>co penitentie quam fecit Magdalena ostenditur 
+          am<lb ed="#P" n="96" break="no"/>pulla vitrea terra plens habsens colorem medium inim rube. 
+          <lb ed="#P" n="97"/>um et nigrum quam in parascheue beatam mpagdalena 
+          sub<lb ed="#P" n="98" break="no"/>cruce collegit: in signum cuius omnes vicini et illic 
+          habi<lb ed="#P" n="99" break="no"/>tantes asserunt singulis annis in die perascheues perle 
+          <lb ed="#P" n="100"/>cta passione clare ebullit: ac si ibi sanguis ebullire 
+          vi<lb ed="#P" n="101" break="no"/>deatur.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e245">
+          ¶ Contra secundam conclusionem arguitur. 
+          Da<lb ed="#P" n="102" break="no"/>mascenus lib. iii. c. xxviii. dicit quod in morte christi non fuit 
+          <lb ed="#P" n="103"/>diuintas seperata a corpere et anima. sed de sanguine nullam 
+          <lb ed="#P" n="104"/>mentionem facit. ergo videtur dicere quod seperabatur a 
+          sangui<lb ed="#P" n="105" break="no"/>ne / etiam reassumendo.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e256">
+          ¶ Secundo: sanguis non est pers 
+          <lb ed="#P" n="106"/>humane nature: ergo seperabatur a sanguine.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e261">
+          ¶ 
+          Ter<lb ed="#P" n="107" break="no"/>tio: diuinitas vngues / capillos / et partes resolutas 
+          <lb ed="#P" n="108"/>ab humanitate dereliquit: ergo et sanguinem. tenet consequentia: 
+          equae<lb ed="#P" n="109" break="no"/>lis est ratio
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e271">
+          ¶ Quarto arguitur: gutte illius sanguins erant 
+          <lb ed="#P" n="110"/>plurime / et diuise: ergo si diuinitas erat coniuncta 
+          cui<lb ed="#P" n="111" break="no"/>libet partisangumins reassumendi: vniebatur multis: et 
+          <lb ed="#P" n="112"/>sic multe erant vniones.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e280">
+          ¶ Ad primum dici: locus a conrio sem 
+          <lb ed="#P" n="113"/>su parum soliditatis habet: cum damascenus dicit diuinitas 
+          <lb ed="#P" n="114"/>non reliquit corpus vel animam: quia in resurrectione reassum 
+          <lb ed="#P" n="115"/>psit illas partes: sic sanguinem reassumpsit. ergo est 
+          ea<lb ed="#P" n="116" break="no"/>dem ratio quod sanguis non dimittebatur a verbo.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e291">
+          ¶ Ad 
+          <lb ed="#P" n="117"/>secundum apud aliquos est dubium an sanguis sit pers 
+          ho<lb ed="#P" n="118" break="no"/>minis. Dicunt aliqui sanguis est animatus. sed coneo hoc arguitur: 
+          <lb ed="#P" n="119"/>e sangnis inhoneestanets amarommaiip Ins essba¬ 
+          <pb ed="#P" n="137-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>rationalis / et homo / quod est inconueniens.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e307">
+          ¶ Secundo: semen / 
+          <lb ed="#P" n="2"/>colera / flegma / et melancolia / non sunt partes homis: 
+          er<lb ed="#P" n="3" break="no"/>go nec sanguis: libet cetis humoribus sit purior. teneo 
+          <lb ed="#P" n="4"/>quod sanguis non est animatus in animali: libet animal naturaliter non 
+          <lb ed="#P" n="5"/>potest esse sine sanguine. Sanguis dcir sedes vite: non quod 
+          <lb ed="#P" n="6"/>anima informet sanguinem: sed quia homo et animalia perfecta non 
+          <lb ed="#P" n="7"/>viuunt sine sanguine. sed concesso antecedente: consequentia 
+          <lb ed="#P" n="8"/>est nulla.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e325">
+          ¶ Ad tertium dicir consuia est nulla. ille partes non 
+          <lb ed="#P" n="9"/>erant assumende: secus est de sangumine.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e330">
+          ¶ Ad quartum 
+          <lb ed="#P" n="10"/>transeat quod multe erant gutte seperate sanguins: et verbum 
+          <lb ed="#P" n="11"/>illis pluribus vniebatur: sicut vniebatur pluribus partibus 
+          <lb ed="#P" n="12"/>corperis. de vnione ponenda / superius loquuti sumus in 
+          <lb ed="#P" n="13"/>prima distinctione.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e342">
+          ¶ Arguitur quod ille due secunde 
+          conclu<lb ed="#P" n="14" break="no"/>siones vltime sibi repugnant: aliquis sanguis corporis 
+          <lb ed="#P" n="15"/>christi est in terra: vt Mantue in abbatia sancati Bespondicti in 
+          <lb ed="#P" n="16"/>ecclia sancti Andree: quem dicunt Longeus ibi quiescens 
+          <lb ed="#P" n="17"/>attulit: et Tantone. et sanguis ille non est a verbo 
+          as<lb ed="#P" n="18" break="no"/>sumptus: ergo sanguis effusus in triduo fuit assum 
+          <lb ed="#P" n="19"/>ptus a diuinitate.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e358">
+          ¶ Si dicas sanguis 
+          nutrimen<lb ed="#P" n="20" break="no"/>talis manet in terris: et non erat necessarius pro 
+          corpe<lb ed="#P" n="21" break="no"/>glorioso quod non augetur per conuersionem sanguins in 
+          sub<lb ed="#P" n="22" break="no"/>stantiam aliti: et ille non est verbo vnitus.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e367">
+          ¶ Contra hoc 
+          ar<lb ed="#P" n="23" break="no"/>guitur: sanguis ille constituebat aliquod vnum cum aliquo 
+          <lb ed="#P" n="24"/>sanguine assumendo: sed vnus / istorum non fuit vnitus 
+          ver<lb ed="#P" n="25" break="no"/>bo: ergo nec alter.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e376">
+          ¶ Respondetur: viator eget maio 
+          <lb ed="#P" n="26"/>re sanguine quam comprehensor. in viatore est resolutio 
+          <lb ed="#P" n="27"/>a corpere facta per calorem naturalem: et restauratio de 
+          <lb ed="#P" n="28"/>perditi per conuersionem sangumins et humorum roris 
+          can<lb ed="#P" n="29" break="no"/>bii et glutinis in corpus. Ista vero non contingunt in 
+          <lb ed="#P" n="30"/>corpere glorioso:sed ipsum manet inalteratum toto euo. 
+          <lb ed="#P" n="31"/>poterat enim deus sanguinem nutrimentalem talem 
+          con<lb ed="#P" n="32" break="no"/>seruare: et ei vniri ad mortem vsque: et in instanti mortis 
+          <lb ed="#P" n="33"/>illum sanguinem dereliquere (quia non est assumendus ) 
+          reli<lb ed="#P" n="34" break="no"/>quam partem assumendam numquam derelinquendo: vel semper 
+          vni<lb ed="#P" n="35" break="no"/>ri illi sanguini nutrimentali et assumendo ad instans 
+          <lb ed="#P" n="36"/>vsque resurrectionis: et tunc sanguinem nutrimentalem 
+          <lb ed="#P" n="37"/>relinquere pro reliquia praeciosa in terris: et ita putatur 
+          <lb ed="#P" n="38"/>factum. sic est sanguis qui realiter erat christi in terra: 
+          <lb ed="#P" n="39"/>vt patet Mantue Tantonen. in francia idem putatur 
+          <lb ed="#P" n="40"/>esse in terra quam Magdalena sub cruce collegit: in 
+          <lb ed="#P" n="41"/>qua substantia sanguinis christi habetur. vix 
+          sufficien<lb ed="#P" n="42" break="no"/>ter docetur an ille sanguis fuerit a verbo dimissus: 
+          <lb ed="#P" n="43"/>licet communius putetur quod sic. argumentum / hoc non 
+          impu<lb ed="#P" n="44" break="no"/>gnat. Potest enim esse idem continuum ex duabus 
+          por<lb ed="#P" n="45" break="no"/>tionibus sanguinis: et vna portio numquam erat a 
+          ver<lb ed="#P" n="46" break="no"/>bo derelicta ( quia reassumenda) reliqua vero 
+          de<lb ed="#P" n="47" break="no"/>relicta.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e426">
+          ¶ Ee si dicas: sanguis iste in terra colitur 
+          cul<lb ed="#P" n="48" break="no"/>tu latrie. Sed sanguis a verbo derelictus non est 
+          co<lb ed="#P" n="49" break="no"/>lendus cultu latrie.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e433">
+          ¶ Aeer: multi sunt gradus in 
+          cul<lb ed="#P" n="50" break="no"/>tu latrie. Primo modo / deus colitur cultu latrie: et 
+          <lb ed="#P" n="51"/>est obiectum per se et primo cultus latrie. In secundo 
+          <lb ed="#P" n="52"/>gradu est humanitas christi et illa quae deo sunt coniuncta: vt 
+          <lb ed="#P" n="53"/>sanguis et reliqua nunc in eo vel quae fuerint in eo 
+          tem<lb ed="#P" n="54" break="no"/>pore quo erant in eo. In tertio gradu: quia erat aliquid 
+          <lb ed="#P" n="55"/>eius vel tetigit ipsum tamquam aliquid eius: vt pili / sanguis 
+          <lb ed="#P" n="56"/>ille in terris / licet non sit assumptus / vestis quae putatur 
+          <lb ed="#P" n="57"/>esse Argentolii apud Parisium / corona sprinea / 
+          lam<lb ed="#P" n="58" break="no"/>cea / crux in qua pependit. signanter aliquid eius. 
+          <lb ed="#P" n="59"/>manus crucifigentium eum tetigerunt quae non sunt ado 
+          <lb ed="#P" n="60"/>rande latria. Quarto predictorius imagines latria 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>adorantur: sicut cruces communes iu templis vel 
+          <lb ed="#P" n="62"/>alibi.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e467">
+          ¶ Sed dicis: quomodo sanguis nutrimenta 
+          <lb ed="#P" n="63"/>lis sit ita magnus qui putatur esse in variis locis. in 
+          <lb ed="#P" n="64"/>quarto et hic tria loca signamus: et putatur esse in 
+          <lb ed="#P" n="65"/>aliis locis in hostiarum sacrarum percussione.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e476">
+          ¶ 
+          Re<lb ed="#P" n="66" break="no"/>spondetur: diceretur ille sanguis erat in magna 
+          quanti<lb ed="#P" n="67" break="no"/>tate reseruatus pro fidelium deuotione. Secundo 
+          di<lb ed="#P" n="68" break="no"/>co: idem sanguis numero potest esse in duobus locis 
+          cir<lb ed="#P" n="69" break="no"/>cunscriptiuem. Modus beati Thome et aliorum 
+          oppo<lb ed="#P" n="70" break="no"/>situs est michi inopinabilis. hoc modo omnia melius 
+          <lb ed="#P" n="71"/>saluantur. Preterea dico: non implicat quod deus 
+          po<lb ed="#P" n="72" break="no"/>nat eundem sanguinem in duobus locis: quem in 
+          <lb ed="#P" n="73"/>vno loco assumit et non in alio. etiam fortasse ita est. 
+          <lb ed="#P" n="74"/>et sic idem sanguis numero erit assumptus in 
+          celo<lb ed="#P" n="75" break="no"/>et non assumptus / in coldebecco.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e500">
+          ¶ Sed contra hoc 
+          <lb ed="#P" n="76"/>arguitur: hic sanguis in celo vel in eucharistia est 
+          <lb ed="#P" n="77"/>assumptus a verbo: hic sanguis in celo est hic 
+          san<lb ed="#P" n="78" break="no"/>guis Mantue: ergo hic sanguis Mantue est assum 
+          <lb ed="#P" n="79"/>ptus a verbo: expositorie. antecedens est concedem 
+          <lb ed="#P" n="80"/>dum: ergo et consequens: quod contradicit huic / hic 
+          <lb ed="#P" n="81"/>sanguis non est assumptus Mantue.
+        </p>
+        <p xml:id="jm3cbb-e83575-d1e516">
+          ¶ Responde 
+          <lb ed="#P" n="82"/>tur concedendo syllogismum / antecedens / et 
+          cou<lb ed="#P" n="83" break="no"/>sequens. hrc est concedenda eo in casu / hic sanguis 
+          <lb ed="#P" n="84"/>Mantue est a verbo assumptus: sed hic sanguis non 
+          <lb ed="#P" n="85"/>est assumptus Mantue a verbo. Secunda priorem in 
+          <lb ed="#P" n="86"/>fert et non econuerso. hic sanguis non est 
+          assum<lb ed="#P" n="87" break="no"/>ptus MPantue / non conedicit huic / hic sanguis 
+          Man<lb ed="#P" n="88" break="no"/>tue assumptus est: non sunt eadem extrema: nec ea 
+          <lb ed="#P" n="89"/>dem appellatio. et a posteriore patet: sunt ambe 
+          ve<lb ed="#P" n="90" break="no"/>re. quemadmodum loquentes habent concedere / hoc 
+          <lb ed="#P" n="91"/>corpus christi in eucharistia videt celum: sed hoc 
+          <lb ed="#P" n="92"/>corpus christi non videt celum in eucharistia: vel 
+          <lb ed="#P" n="93"/>prout est in eucharistia: sad quia aliqui eorum 
+          pu<lb ed="#P" n="94" break="no"/>tant implicare contradictionem quod idem accidens 
+          <lb ed="#P" n="95"/>absolutum sit in aliquo subiecto in vno loco et non 
+          <lb ed="#P" n="96"/>sit in eodem subiecto in alio loco: dato quod subie ¬ 
+          <lb ed="#P" n="97"/>ctum sit in alio loco. licet istud falsum existimem: 
+          <lb ed="#P" n="98"/>nec esse maius inconueniens quam in relationibus 
+          su<lb ed="#P" n="99" break="no"/>is: sic verto argumentum: hoc corpus christi in 
+          ce<lb ed="#P" n="100" break="no"/>lo primo videt partem celi: hoc corpus christi in 
+          <lb ed="#P" n="101"/>celo / est hoc corpus christi in eucharistia: ergo hoc 
+          <lb ed="#P" n="102"/>corpus christi in eucharistia / primo videt partem 
+          <lb ed="#P" n="103"/>celi. consequentia ista est infallibilis: et antecedens 
+          <lb ed="#P" n="104"/>ab eis concedendum: et cum simus extra insolubilia: 
+          <lb ed="#P" n="105"/>consequens est etiam concedendum: sed hanc 
+          nega<lb ed="#P" n="106" break="no"/>gare habent / hoc corpus christi videt in 
+          euchari<lb ed="#P" n="107" break="no"/>stia primo celum: sed solum concomitanter: sic in 
+          <lb ed="#P" n="108"/>alia / intelligenti logicam cum fundamento / 
+          om<lb ed="#P" n="109" break="no"/>nia suut lucidissima. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

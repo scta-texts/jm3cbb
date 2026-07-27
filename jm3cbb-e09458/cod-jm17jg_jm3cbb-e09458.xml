@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="16-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e09458"><!-- l3d4q4 -->
+        <head xml:id="jm3cbb-e09458-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e09458-Hd1e101" type="question-title">An Christus potest dici filius Spiritus Sancti</head>
+        <p xml:id="jm3cbb-e09458-d1e104">
+          <lb ed="#P" n="99"/>Quarto queritur: 
+          <lb ed="#P" n="100"/>an christus potest dici filius 
+          <lb ed="#P" n="101"/>spiritus sancti. Respondetur: 
+          spi<lb ed="#P" n="102" break="no"/>ritus sanctus non est pater christi. 
+          <lb ed="#P" n="103"/>probetio: solus ille est 
+          filiup<lb ed="#P" n="104" break="no"/>qui educitur de substantia 
+          al<lb ed="#P" n="105" break="no"/>terius vel de superfluo tertie 
+          <lb ed="#P" n="106"/>digestionis alterius per modum nature: christus 
+          <lb ed="#P" n="107"/>non sic descendit a spi sanncnto: ergom spiissanctus 
+          <lb ed="#P" n="108"/>non est pater christi: et per consequens christus non 
+          <lb ed="#P" n="109"/>est filius spiritus sancti: hec conclusio patet 
+          auctorita<lb ed="#P" n="110" break="no"/>te Augustini. ii. de. trini. cap. x. dicentis / christus 
+          <lb ed="#P" n="111"/>nese sui neque spiritus sancti filius credi aut 
+          intel<lb ed="#P" n="112" break="no"/>ligi potest.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e137">
+          ¶ Contra hanc conclusionem arguitur: 
+          <lb ed="#P" n="113"/>per illud quod scribitur Matt. i. quod in ea natum 
+          <lb ed="#P" n="114"/>est: de spriritu fancto est. Et in simbolo dicitur qui 
+          <lb ed="#P" n="115"/>conceptus est de spiritu sancto. Respondetur: ille 
+          au<lb ed="#P" n="116" break="no"/>ctoritates nolunt habere quod spiritus sanctus sit pater 
+          <lb ed="#P" n="117"/>christ: sed appropriatum spitus sancti maxime refulsit 
+          <lb ed="#P" n="118"/>in illa operatione. dicitur de spu fancto 
+          conceptu<lb ed="#P" n="119" break="no"/>ehristus: quia bonitas / gratiam et dilectio sunt spiritui 
+          <lb ed="#P" n="120"/>sancto appropriata: que maxime relucent in hoc qu 
+          <lb ed="#P" n="121"/>filus vesbumans csmen ossipsit sin iiua Ioan¬ 
+          <pb ed="#P" n="16-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nis. x. sic deus dilexit mundum vt filium suum vnige 
+          <lb ed="#P" n="2"/>nitum daret. et quanto opus meritum excellit / tanto est 
+          <lb ed="#P" n="3"/>magis gratuitum. modo incarnatio filii dei maxime 
+          <lb ed="#P" n="4"/>omne meritum transcendebat / secundum illud Aug. xiii. de 
+          <lb ed="#P" n="5"/>trini. ca. xix. superius allegatum: in rebus per 
+          tem<lb ed="#P" n="6" break="no"/>pus ortis illa summa gratia est quod homo in vnita 
+          <lb ed="#P" n="7"/>te persone deo coniunctus est.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e179">
+          ¶ Secundo arguitur 
+          <lb ed="#P" n="8"/>substantia pateris non ingreditur compositionem fetus: 
+          <lb ed="#P" n="9"/>vt in secundo dictum est: sed quia semen paternum 
+          se<lb ed="#P" n="10" break="no"/>men matris disponit: vt in hac distinctione 
+          dixi<lb ed="#P" n="11" break="no"/>mus: et hec est mens philosophi xv. de animalibus. 
+          <lb ed="#P" n="12"/>sed spiritus sanctus materiam disposuit: igitur.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e193">
+          ¶ 
+          Ter<lb ed="#P" n="13" break="no"/>tio arguitur: per illud quod ad Romanos. viii. 
+          scri<lb ed="#P" n="14" break="no"/>bitur: christus primogenitus in multis fratribus: sed 
+          fra<lb ed="#P" n="15" break="no"/>tres non habet nisi inquantum homo: nec habet 
+          fra<lb ed="#P" n="16" break="no"/>tres ratione matris: quia ipsa nullum filium peperit 
+          <lb ed="#P" n="17"/>nisi christum: sed non habuit alium patrem a spurit 
+          san<lb ed="#P" n="18" break="no"/>cto: igitur.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e209">
+          ¶ Quarto arguitur: deus est pater per 
+          crea<lb ed="#P" n="19" break="no"/>tionem humanitatis assumpte.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e214">
+          ¶ Ad secundum diir: 
+          pro<lb ed="#P" n="20" break="no"/>babilior est pars illa / quod aliqua pars seminis 
+          pa<lb ed="#P" n="21" break="no"/>terni ingreditur compositionem fetus: non solum ali 
+          <lb ed="#P" n="22"/>qua pars materialis: sed pars spirituosa. sic 
+          aui<lb ed="#P" n="23" break="no"/>cemnna Aristotelem intelligit. vnde Auicenna. ix. de 
+          <lb ed="#P" n="24"/>animalibus sic dicit / putant homines quod Aristoteles 
+          pu<lb ed="#P" n="25" break="no"/>tauerat quod semen viri non esset pars pueri: neque 
+          im<lb ed="#P" n="26" break="no"/>mixtum cum materia pueri: ed hoc non fuit eius 
+          con<lb ed="#P" n="27" break="no"/>silium: sed eius consilium fuit / quod inuoluatur cum 
+          ma<lb ed="#P" n="28" break="no"/>trice: et profundatur in materia: et sit operator 
+          men<lb ed="#P" n="29" break="no"/>brorum: et ducat idoneam materiam ad membra: et erit 
+          <lb ed="#P" n="30"/>illud sperma materia spiritus in creatura: quia 
+          effi<lb ed="#P" n="31" break="no"/>citur multum subtile et habile vt tram seat in spiritum. 
+          <lb ed="#P" n="32"/>Secundo: ista formatio est libera et non naturalis. eti 
+          <lb ed="#P" n="33"/>am christus secundum humanitatem non est similis spiritui 
+          sancton<lb ed="#P" n="34" break="no"/>in natura: quod ad filiationem et patrnitatem requiritur. 
+          <lb ed="#P" n="35"/>Ad quartum dicitur: quicquid sit de illo non probatur 
+          <lb ed="#P" n="36"/>quod spritus sanctus sit pater naturalis christi.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e253">
+          ¶ 
+          Circa<lb ed="#P" n="37" break="no"/>hanc questionem dubitatur. an si pater assumat corpus 
+          <lb ed="#P" n="38"/>et spiritus sanctus animam: pater vel spiritus sanctus est homo. 
+          <lb ed="#P" n="39"/>et eodem modo dubitatur: si pater assumat corpus: et 
+          <lb ed="#P" n="40"/>filius animam. Respondetur per propositiones. 
+          Quarum<lb ed="#P" n="41" break="no"/>prima est: pater non est homo in illo casu: nec spiritus 
+          <lb ed="#P" n="42"/>sanctuns vel filius: patet propositio: pater nullam humanita 
+          <lb ed="#P" n="43"/>tem assumpsit: ergo non est homo. tenet consequentia 
+          as<lb ed="#P" n="44" break="no"/>sumptio humanitatis concretiue denominat suppositum 
+          as<lb ed="#P" n="45" break="no"/>sumens hominem. Eodem modo concluditur quod spiritus sanctus 
+          <lb ed="#P" n="46"/>non est homo vel filius. Secunda propositio: pater et filius 
+          <lb ed="#P" n="47"/>copulatim non sunt homo: patet: da oppositum: pater 
+          <lb ed="#P" n="48"/>et filius sunt homo: ergo iste homo vel ille 
+          homo<lb ed="#P" n="49" break="no"/>posita constantia: consequens est disiunctiua cuius 
+          nul<lb ed="#P" n="50" break="no"/>la pars est vera. Tertia propositio: pater et spiritus 
+          <lb ed="#P" n="51"/>sanctuns non sunt homines: quia quaeritur qui homines et 
+          illosaffi<lb ed="#P" n="52" break="no"/>gnare non potes.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e290">
+          ¶ Sed contra illud arguitur: hic 
+          bi<lb ed="#P" n="53" break="no"/>narius est assumptus: hic binarius est homo: ergo 
+          ho<lb ed="#P" n="54" break="no"/>mo est assumptus a patre et spurit sancato. Respondetur: si anima 
+          <lb ed="#P" n="55"/>non informat corpus minor est falsa. et si materiam 
+          <lb ed="#P" n="56"/>informat in alio loco: iam maior et minor sunt 
+          ve<lb ed="#P" n="57" break="no"/>re. sed stant iste propositiones: humanitas non est 
+          <lb ed="#P" n="58"/>assumpta a persona diuina: homo est assumptus 
+          bina<lb ed="#P" n="59" break="no"/>rius ab illis personis diuinis. illa propositio sequitur ex 
+          <lb ed="#P" n="60"/>illis duabus assumptis. quaelibet pars essentialis sortis 
+          <lb ed="#P" n="61"/>est assumpta: et sortes non est assumptus. Alia propositio 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>dubia: an sortes personarr personalitate propria 
+          quili<lb ed="#P" n="63" break="no"/>bet pars eius est assumpta: et tertia entitas est 
+          bina<lb ed="#P" n="64" break="no"/>rius assumptus. potest dici quod sortes vel 
+          humani<lb ed="#P" n="65" break="no"/>tas sortis non est persona: cum ipsa sit sustentata a 
+          plu<lb ed="#P" n="66" break="no"/>ribus personis diuinis: vel est sustentatus 
+          binari<lb ed="#P" n="67" break="no"/>us qui est sortes
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e327">
+          ¶ Secundo dubitatur: si tres 
+          per<lb ed="#P" n="68" break="no"/>sone in diuinis eandem naturam humanam assumerent 
+          <lb ed="#P" n="69"/>an essent fratres. Distinguo illud: vel assumunt 
+          ea<lb ed="#P" n="70" break="no"/>dem naturam in vtero mulieris / in primo 
+          instanti<lb ed="#P" n="71" break="no"/>quo humanitas est in rerum natura: et tunc sunt 
+          fra<lb ed="#P" n="72" break="no"/>tres: ex parte matris: et tres homines: vnica 
+          gene<lb ed="#P" n="73" break="no"/>ratione geniti / cum sola vna anima et vnico 
+          corpo<lb ed="#P" n="74" break="no"/>re. si assumerent eandem humanitatem extra vterum 
+          <lb ed="#P" n="75"/>vel duorum fratrum humanitates: tunc non essent 
+          fra<lb ed="#P" n="76" break="no"/>tres: non ex parte patris notum est: nec ex parte 
+          ma<lb ed="#P" n="77" break="no"/>tris quia non sunt geniti ex eadem matre: vt si 
+          mu<lb ed="#P" n="78" break="no"/>lier corpus sine anima intellectiua emitteret: et 
+          post<lb ed="#P" n="79" break="no"/>ea deus animam intellectivam produceret que 
+          infor<lb ed="#P" n="80" break="no"/>maret illud corpus: talis homo non esset filius 
+          ta<lb ed="#P" n="81" break="no"/>lis mulieris.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e361">
+          ¶ Dubitatur finaliter circa hanc 
+          que<lb ed="#P" n="82" break="no"/>stionem: an propter aliquod meritum fllius dei 
+          natu<lb ed="#P" n="83" break="no"/>ram humanam assempsit.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e368">
+          ¶ Respondetur: incarnatio 
+          fl<lb ed="#P" n="84" break="no"/>lii dei potest dupliciter considerari: vel quantum ad 
+          <lb ed="#P" n="85"/>essentiam: vel quantum ad circunstantiam: secundum hoc 
+          po<lb ed="#P" n="86" break="no"/>no tres conclusiones. quarum.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e377">
+          ¶ Prima est: si 
+          primo<lb ed="#P" n="87" break="no"/>modo consideretur: nullo modo precessit meritum 
+          <lb ed="#P" n="88"/>quod erat caula icarnationis. Probatut hec 
+          con<lb ed="#P" n="89" break="no"/>clusio: fundamentum omnis meriti non cadit sub 
+          me<lb ed="#P" n="90" break="no"/>rito: sed incarnatio filii dei est fundamentum omnis 
+          <lb ed="#P" n="91"/>meriti post lapsum nature humane: sine fide eius 
+          <lb ed="#P" n="92"/>implicita vel explicita nemo poterat mereri vitam 
+          <lb ed="#P" n="93"/>eternam secundum Aug. in enchiridion. ca penultimo: 
+          di<lb ed="#P" n="94" break="no"/>centem quod nec antiquorum quicunqe iustorum preter 
+          <lb ed="#P" n="95"/>christi fidem salutem potuit inuenire Illud potest 
+          <lb ed="#P" n="96"/>vallari per illam vulgatam auctoritatem eiusdem. xiii. 
+          <lb ed="#P" n="97"/>de trinita. ca. xix. in rebus per tempus ortis. et 
+          pa<lb ed="#P" n="98" break="no"/>tet hec conclusio per apostolum ad thimotheum. iii. 
+          <lb ed="#P" n="99"/>benignitas et humanitas apparuit saluatoris 
+          no<lb ed="#P" n="100" break="no"/>stri dei non ex operibus iusticie que fecimus nos: 
+          <lb ed="#P" n="101"/>sed secundum misericordiam suam saluos nos fecit. sed quo 
+          <lb ed="#P" n="102"/>ad circunstantiam illa in proposito est duplex: scilicet 
+          <lb ed="#P" n="103"/>circunstantia temporis vt tempus incarnationis 
+          <lb ed="#P" n="104"/>abbreuiaretur: vel quo ad circunstantiam persone: vt 
+          <lb ed="#P" n="105"/>pote quod diua virgo esset mater christi. secundum priorem 
+          cir<lb ed="#P" n="106" break="no"/>cunstantiam.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e423">
+          ¶ Pono secundam conclusionem quae est hec 
+          <lb ed="#P" n="107"/>superposita grosa christi incarnatione ex 
+          liberali<lb ed="#P" n="108" break="no"/>tate dei sine nostris meritis sancti meriti sunt 
+          abe<lb ed="#P" n="109" break="no"/>breuiationem temporis incarnationis: probatur hec 
+          <lb ed="#P" n="110"/>conclusio per illud quam scribitur Esaye. xxxiiii 
+          vti<lb ed="#P" n="111" break="no"/>nam disrumpores celos et descenderes: et psal 
+          Ex<lb ed="#P" n="112" break="no"/>cita potentiam domine et veni. et glosa super illud 
+          psal<lb ed="#P" n="113" break="no"/>mi: propter miseriam inopurit et gemitum pauperum 
+          <lb ed="#P" n="114"/>nunc exurgam dicit domins: id est mittam filium propter mi 
+          <lb ed="#P" n="115"/>seriam inopum tollendam: id est mortalitatem et 
+          passibili<lb ed="#P" n="116" break="no"/>tatem: et hoc faciam propter gemitum pauperum qui de 
+          ma<lb ed="#P" n="117" break="no"/>lis gemunt / et pro peccatins conteruntur: nam aliter non 
+          es<lb ed="#P" n="118" break="no"/>sent auxilio digna.
+        </p>
+        <p xml:id="jm3cbb-e09458-d1e452">
+          ¶ Quo ad tertiam circunstane 
+          <lb ed="#P" n="119"/>tiam ponitur hec conclusio: supposita filli dei 
+          incar<lb ed="#P" n="120" break="no"/>natione fututa beata virgo saltem merito 
+          congrui<lb ed="#P" n="121" break="no"/>et decentie merita est esse manter dei probatur hec 
+          <lb ed="#P" n="122"/>conclusio / per illud quod in fine pastus interdicendum 
+          <pb ed="#P" n="17-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>gratias dicimus: beata viscera marie virginis que 
+          <lb ed="#P" n="2"/>meruerunt portare dominm christum: cui glosa 
+          margi<lb ed="#P" n="3" break="no"/>nalis Luce. i. super illa propositione: beata que 
+          <lb ed="#P" n="4"/>credidisti: dicit: apparet mariam non dubitasse: sed 
+          <lb ed="#P" n="5"/>credidisse: et ideo fructum consequutam esse. Insuper 
+          <lb ed="#P" n="6"/>inter omnes puros homines ipsa feruentius ( vt pie 
+          <lb ed="#P" n="7"/>greditur ) desiderabat incarnationem. et cum erat: 
+          san<lb ed="#P" n="8" break="no"/>ctissima: hoc meruit merito decentie et congrui.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

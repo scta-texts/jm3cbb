@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 10</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 10</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="83-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e50555"><!-- l3d33q10 -->
+        <head xml:id="jm3cbb-e50555-Hd1e99">Quaestio 10</head>
+        <head xml:id="jm3cbb-e50555-Hd1e101" type="question-title">An fortitudo sit virtus cardinalis</head>
+        <p xml:id="jm3cbb-e50555-d1e104">
+          <lb ed="#P" n="20"/>Superius de 
+          pruden<lb ed="#P" n="21" break="no"/>tia prima virtute cardinali 
+          lo<lb ed="#P" n="22" break="no"/>quuti sumus: nunc vero de vna 
+          <lb ed="#P" n="23"/>alia. scilicet fortitudine: habendus est 
+          <lb ed="#P" n="24"/>sermo. Circa quam materiam quaram 
+          <lb ed="#P" n="25"/>questiones vndecim. Pria: an 
+          <lb ed="#P" n="26"/>MEC fortitudo sit virtuc cardinalis. 
+          <lb ed="#P" n="27"/>Secunda erit de speciebus fortitudinis 
+          similitudi<lb ed="#P" n="28" break="no"/>narie. Tertia: an ira est a viro forti assumenda. 
+          Quar<lb ed="#P" n="29" break="no"/>ta de speciebus fortitudinis: et an expectare sit 
+          dif<lb ed="#P" n="30" break="no"/>ficilius quam inuadere. Quinta: an ille qui potest se 
+          salua<lb ed="#P" n="31" break="no"/>re per fugam / citius debet aufugere quam stare. Sexta: 
+          <lb ed="#P" n="32"/>an liceat seipsum in casu occidere. Septima erit de 
+          <lb ed="#P" n="33"/>viciis fortitudini oppositis. Octaua an martyrium 
+          <lb ed="#P" n="34"/>sit pars fortitudinis. Nona de partibus 
+          potentiali<lb ed="#P" n="35" break="no"/>bus fortitudinis: et primo de magnanimitate. De 
+          <lb ed="#P" n="36"/>cima de honore exhibendo: an in illo potest esse 
+          <lb ed="#P" n="37"/>defectus et peccatu. Undecima de humilitate: sub qua 
+          <lb ed="#P" n="38"/>virtute contineatur: et eius vtilitate: et quomodo genere 
+          <lb ed="#P" n="39"/>tur.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e150">
+          ¶ Pro prima ergo expeditione maneat titulus 
+          quae<lb ed="#P" n="40" break="no"/>stionis propositus: an fortitudo sit virtus 
+          cardina<lb ed="#P" n="41" break="no"/>lis. quare aliqua virtus dicatur cardinalis in 
+          ma<lb ed="#P" n="42" break="no"/>teria praecedenti diximus: nunc ergo solum ponende sunt 
+          <lb ed="#P" n="43"/>acceptiones fortitudinis. postea ad questionem 
+          con<lb ed="#P" n="44" break="no"/>clusiue responsuri. Primo modo capitur fortitudo 
+          pro<lb ed="#P" n="45" break="no"/>corporis robore: et sic vulgus vocabulo vtitur. hoc 
+          <lb ed="#P" n="46"/>modo non est virtus nec vicium: quia consistit solum 
+          <lb ed="#P" n="47"/>in neruorum ossium robore: quod natura dedit. 
+          ro<lb ed="#P" n="48" break="no"/>bur est potentia mouendi alterum vt vult: primo 
+          re<lb ed="#P" n="49" break="no"/>thorice. Secundo modo accipitur fortitudo pro 
+          fir<lb ed="#P" n="50" break="no"/>mitate animi in quocumque bono difficultatem 
+          ha<lb ed="#P" n="51" break="no"/>bente: hoc modo est virtus specialis: sed cuilibet 
+          vir<lb ed="#P" n="52" break="no"/>tuti si difficultatem habeat est communis. ii. ethicorum: ad 
+          <lb ed="#P" n="53"/>virtutem requiritur firmiter et immobiliter 
+          opera<lb ed="#P" n="54" break="no"/>ri. Tertio mond capitur pro firmitate mentis 
+          circa<lb ed="#P" n="55" break="no"/>mortem in bello: siue sit contrapugnatio: siue non. 
+          <lb ed="#P" n="56"/>hoc modo Aristoteles capit. iii. ethico. licet 
+          ma<lb ed="#P" n="57" break="no"/>gis loquatur de bello vbi est contrapugnatio. 
+          mar<lb ed="#P" n="58" break="no"/>tinus magister aliam acceptionem effigit: vt 
+          magna<lb ed="#P" n="59" break="no"/>nimitatem / patientiam / et huiusmodi / sub fortitudine 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>includat tanquam partes subiectiuas. partes potentiales 
+          <lb ed="#P" n="61"/>quas antiqui morales ponunt / inanes reputat. ego 
+          <lb ed="#P" n="62"/>autem illam acceptionem ne pono: sed partes potentiales 
+          po<lb ed="#P" n="63" break="no"/>no de quibus futurus est simuo.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e207">
+          ¶ His pmissis ponuntur aliquae 
+          <lb ed="#P" n="64"/>conclusiones. Quarum prima est: fortitudo est 
+          circa<lb ed="#P" n="65" break="no"/>mala toleranda. sed non quocumque: sed circa mortem: non 
+          <lb ed="#P" n="66"/>quamlibet: sed in bello. hec conclusio est 
+          Aristote<lb ed="#P" n="67" break="no"/>telis. iii. ethi. vi. cap. vbi dicit: fortis versatur 
+          circa<lb ed="#P" n="68" break="no"/>maxima terribilia: vt circa mortem: sed non 
+          circa<lb ed="#P" n="69" break="no"/>omne genus mortis. non enim circa mortem eam quae fit 
+          <lb ed="#P" n="70"/>in mari: aut euenit morbis. et paulopost dicit. Is 
+          <lb ed="#P" n="71"/>igitur homo fortis proprie dicitur: qui circa 
+          hone<lb ed="#P" n="72" break="no"/>stam mortem: et ea omia que repente eueniunt atque 
+          <lb ed="#P" n="73"/>afferunt ipsam / interitus est. huiusmodi vero sunt ea qua in 
+          <lb ed="#P" n="74"/>bello contingunt.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e234">
+          ¶ Secunda conclusio: fortitudo 
+          bel<lb ed="#P" n="75" break="no"/>li cum contrapugnatione est virtus. volo dicere: 
+          <lb ed="#P" n="76"/>actus voluntatis quo quis vult pugnare in bello 
+          <lb ed="#P" n="77"/>in quo est contrapugnat io secundum dictamen recte 
+          <lb ed="#P" n="78"/>rationis / est actus bonus: virtutis fortitudinis 
+          <lb ed="#P" n="79"/>generatiuus.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e247">
+          ¶ Tertia conclusio: fortitudo hoc modo 
+          <lb ed="#P" n="80"/>capiendo non est virtus cardinalis: sed pars 
+          subie<lb ed="#P" n="81" break="no"/>ctiua eius: de qua etiam Aristotelesloquitur. 
+          proba<lb ed="#P" n="82" break="no"/>tur. Aristoteles dicit fortitudinem esse circa 
+          difficilli<lb ed="#P" n="83" break="no"/>ma: vt pote mortem repentem in bello illatam. sed sic 
+          <lb ed="#P" n="84"/>est quod socrates pro causa honesta mortem violentam ab 
+          <lb ed="#P" n="85"/>hoste appositam nolens aufugere / sed nult 
+          desere<lb ed="#P" n="86" break="no"/>re actum honestum non obstante conditione mortis 
+          ap<lb ed="#P" n="87" break="no"/>posita: licet non contrapugnet: habet illam 
+          difficul<lb ed="#P" n="88" break="no"/>tatem circa mortem: ergo ipse socrates est fortis 
+          fortitu<lb ed="#P" n="89" break="no"/>dine bellicaet cardinali: de qua loquitur Aristote 
+          <lb ed="#P" n="90"/>les.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e273">
+          ¶ Confirmatur: omminis actus quo quis amore 
+          ho<lb ed="#P" n="91" break="no"/>nesti secundum dictamen recte rationis contempnit 
+          <lb ed="#P" n="92"/>mortem in bello in quo est contrapugnatio est actus 
+          <lb ed="#P" n="93"/>fortitudinis: et fortitudinis virtutis cardinalis: 
+          <lb ed="#P" n="94"/>de qua loquitur Aristoteles. et quanto sustinere est 
+          dif<lb ed="#P" n="95" break="no"/>ficilius secundum rectam rationem: tanto fortitudo est 
+          ma<lb ed="#P" n="96" break="no"/>ior. sed sic est sustinendo mortem sine 
+          contrapugna<lb ed="#P" n="97" break="no"/>tione in corporis viribus: quod est multo difficilius quam 
+          <lb ed="#P" n="98"/>contrapugnando. ergo talis non contrapugnans est 
+          for<lb ed="#P" n="99" break="no"/>tis: capiendo fortitudinem sicut capit Aristoteles. 
+          <lb ed="#P" n="100"/>Preterea arguitur: nichil aliud impedit quin sit 
+          for<lb ed="#P" n="101" break="no"/>tudo sicut Aristo. loquitur: nisi quia dicis non est bellum: 
+          <lb ed="#P" n="102"/>quia ad bellum requiritur contrapugnatio in corperis 
+          viri<lb ed="#P" n="103" break="no"/>bus. sed hoc est fim ad bellum (vt in proposito capitur ) 
+          <lb ed="#P" n="104"/>non requiritur contrapugnatio. quod patet ad hebreos. xi. 
+          <lb ed="#P" n="105"/>vbi apostolus de martyribus loquensdicit: fortes 
+          facti<lb ed="#P" n="106" break="no"/>sunt in bello. Item: est bellum inter sensumet rationem. ratio 
+          pu<lb ed="#P" n="107" break="no"/>gnat pro expectatione: ne actus virtutis deseratur. 
+          <lb ed="#P" n="108"/>sensualitas fugam petit: quatenus vita saluetur:t in 
+          <lb ed="#P" n="109"/>telligo semper in illo qui aufugere potest. vbi homo non potest 
+          <lb ed="#P" n="110"/>cuadere: tunc non est actus fortitudinis: sed 
+          patien<lb ed="#P" n="111" break="no"/>tie. Insuper: Aristotelesdicit fortitudi nen esse 
+          cir<lb ed="#P" n="112" break="no"/>ca maxime terribilia: vt pote circa mortem: que est 
+          <lb ed="#P" n="113"/>omnium terribilissima. iii. ethicorum. sexto. sic inquit. 
+          <lb ed="#P" n="114"/>Circa que igitur terribilia vir fortis versatur: 
+          an<lb ed="#P" n="115" break="no"/>circa ea que sunt maxima: etenim nemo est toleram 
+          <lb ed="#P" n="116"/>tior malorum homine forti. mors autem maxima 
+          <lb ed="#P" n="117"/>omnium. est terribile: est enim vltimum vite. sed vbi quis 
+          <lb ed="#P" n="118"/>stat constans in opere iusticie: nolens ipsum 
+          dese<lb ed="#P" n="119" break="no"/>rere: non obstante quocunque genere mortis il¬ 
+          <pb ed="#P" n="83-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>lata: licet non contrapugnet: est terribilissimumt 
+          cir<lb ed="#P" n="2" break="no"/>ca mortem. ergo talis est fortis sicut Arist. fortitudinem 
+          <lb ed="#P" n="3"/>capit.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e349">
+          ¶ Quarta conclusio: habitus quo quis 
+          mor<lb ed="#P" n="4" break="no"/>tem prompte sustinet pro opere honesto siue cum 
+          con<lb ed="#P" n="5" break="no"/>trapugnatione siue sine contrapugnatione est 
+          vir<lb ed="#P" n="6" break="no"/>tus cardinalise fortitudo bellica: cuius species est 
+          <lb ed="#P" n="7"/>fortitudo bellica cumm contrapugnatione: vt patet per 
+          <lb ed="#P" n="8"/>connotationem inferiorem et suppositionem termini. 
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e362">
+          <lb ed="#P" n="9"/>¶ Quinta conclusio: excellentior est fortitudo / 
+          pro<lb ed="#P" n="10" break="no"/>iusticie defensione mortem perpeti sine 
+          contrapu<lb ed="#P" n="11" break="no"/>gnatione quam cum contrapugnatione. probatur hec 
+          con<lb ed="#P" n="12" break="no"/>clusio. martyres ita fecerunt: et tamen ipsi fuerunt 
+          <lb ed="#P" n="13"/>heroice fortes: igitur. Secundo arguitur ad idem. 
+          vir<lb ed="#P" n="14" break="no"/>tus et ars sunt circa difficile. ii. ethicorum. sed multo 
+          <lb ed="#P" n="15"/>difficilius est non deserere iusticiam sine 
+          contrapu<lb ed="#P" n="16" break="no"/>gnatione quam cum contrapugnatione: quando est 
+          con<lb ed="#P" n="17" break="no"/>trapugnatio confidit pugnans esse victor: et putat 
+          <lb ed="#P" n="18"/>euadere. sed paruam vel nullam fiduciam habet non 
+          <lb ed="#P" n="19"/>contrapugnans de euadendo. igitur. Tertio: calefit / cum 
+          <lb ed="#P" n="20"/>commouetur contrapugnans. ergo fit animosior: et 
+          mi<lb ed="#P" n="21" break="no"/>nus percipit ictus illatos quam non contrapugnans. non 
+          <lb ed="#P" n="22"/>alias libicus leo cauda terram ferit in belli 
+          exor<lb ed="#P" n="23" break="no"/>dio: et taurus terram cauat / aerem cornibus 
+          impe<lb ed="#P" n="24" break="no"/>tendo. hinc pugnans minus timet quam assistens et 
+          cre<lb ed="#P" n="25" break="no"/>briter homo leditur notabilitur: et non percipit. vbi tamen est quie 
+          <lb ed="#P" n="26"/>tus: dolorem illati vulneris deprehendit. mortem 
+          pa<lb ed="#P" n="27" break="no"/>tiens et non contrapugnans non habet hanc calefactionem: sed 
+          <lb ed="#P" n="28"/>stat frigidus et quetus / mortem diram suscipiens: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e408">
+          <lb ed="#P" n="29"/>¶ Sexta conclusio. fortitudo tertio modo accepta 
+          <lb ed="#P" n="30"/>est spemalis virtus. patet. est vna de virtutibus 
+          cardinali<lb ed="#P" n="31" break="no"/>bus. igitur. Secundo: habet spemalem materiam et spemalem finem / 
+          <lb ed="#P" n="32"/>distinctum a fine et materia aliarum virtutum quae non sunt 
+          <lb ed="#P" n="33"/>fortitudines: igitur. Tertio: habet extrema 
+          specia<lb ed="#P" n="34" break="no"/>lia inter quae mediat: ergo est specialis virtus. antecedens patet. 
+          ha<lb ed="#P" n="35" break="no"/>bet excessum in expectando: et defectum in expectam 
+          <lb ed="#P" n="36"/>do. aliquis potest expectare vbi non opatet. vt si vnus ex 
+          <lb ed="#P" n="37"/>pectaret decem: quorum quilibet est notus ei equalis. 
+          <lb ed="#P" n="38"/>potest etiam esse defectus: vbi quis contra dictamem 
+          re<lb ed="#P" n="39" break="no"/>cte rationis effugit: ergo stat dare medium: expectando 
+          <lb ed="#P" n="40"/>quando ocet vbi ort etquaelit ott.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e438">
+          ¶ Arguitur contra primam 
+          acce<lb ed="#P" n="41" break="no"/>ptationem vocabulie vltimam: ex eis sequitur quod debilis potest 
+          <lb ed="#P" n="42"/>esse ita fortis moralitur sicut milo vel robustissimus 
+          quis<lb ed="#P" n="43" break="no"/>que. consequens est falsum:et contra modum loquendi. et 
+          conse<lb ed="#P" n="44" break="no"/>quentia patet: potest habere habitum ita intensum 
+          fortitu<lb ed="#P" n="45" break="no"/>dinis ex actibus / fortitudinis genitum. immo sequitur quod 
+          <lb ed="#P" n="46"/>veteranus et miles immeritus / qui fixit arma ad 
+          po<lb ed="#P" n="47" break="no"/>stem herculis / esset ita fortis vel fortior quam ipsemet 
+          <lb ed="#P" n="48"/>sn florida etate: contra modum loquendi.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e458">
+          ¶ 
+          Respon<lb ed="#P" n="49" break="no"/>detur concedendo quod debilis corpore potest habere 
+          for<lb ed="#P" n="50" break="no"/>titudinem moralem ita intensam et magnam sicut 
+          robu<lb ed="#P" n="51" break="no"/>stus corpore: et in fenio plus fortitudinis quam ipemet 
+          <lb ed="#P" n="52"/>in florida etate. sed ininus fortis fortitudine 
+          mo<lb ed="#P" n="53" break="no"/>rali: dummodo habet plus virium corporis: potest 
+          <lb ed="#P" n="54"/>esse ita fortis in bello sicut iste. fortitudo corporis 
+          <lb ed="#P" n="55"/>potest plus iuuare interdum in bello quam debilitas 
+          <lb ed="#P" n="56"/>corporis: fortitudo mentis feriendo hostes: ethoc 
+          <lb ed="#P" n="57"/>ponit philosophus tertio ethicorum inquiens: 
+          ni<lb ed="#P" n="58" break="no"/>chil autem fortasse vetat non eos qui tales sunt 
+          sup<lb ed="#P" n="59" break="no"/>ple fortes prestantissimos milites esse: hi namque 
+          <lb ed="#P" n="60"/>parati sunt sese periculis obiectare: vitamque pro par¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>uo emolumento perdunt. et fortis et felix iudicat 
+          se<lb ed="#P" n="62" break="no"/>dignum vita: et quod bene aget viuendo: et proptered 
+          vi<lb ed="#P" n="63" break="no"/>tam suam bene conseruat. aliqui inutiles suam vitam 
+          <lb ed="#P" n="64"/>negligunt: quare sunt periculosi milites. sed vbi de 
+          <lb ed="#P" n="65"/>bilior viribus facit quod in se est: non minus 
+          laudabili<lb ed="#P" n="66" break="no"/>ter facit: non minus erat laudandus nestor vel vlixes 
+          <lb ed="#P" n="67"/>faciendo secundum suas vires / quam torrentissimus aiax 
+          <lb ed="#P" n="68"/>thalemonius. non tamen nego in casu quin fortitudo 
+          <lb ed="#P" n="69"/>moralis prudentia sit praeferenda viribus corporia 
+          <lb ed="#P" n="70"/>sicut tertio methamorphoseos bene deducit vlisses 
+          <lb ed="#P" n="71"/>contra aiacem. et primo officiorum tullius: parum valens 
+          <lb ed="#P" n="72"/>arma foris: nisi togati bene domi consulant. et 
+          ce<lb ed="#P" n="73" break="no"/>dunt arma toge
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e517">
+          ¶ Sed dicis: debilis corpere et senex 
+          <lb ed="#P" n="74"/>tantum facit secundum vires suas sicut iuuenis robustus 
+          <lb ed="#P" n="75"/>secundum suas. ergo tot stipendia in bello meret.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e524">
+          ¶ 
+          Re<lb ed="#P" n="76" break="no"/>spondetur negando consequentiam: loquendo de 
+          stipen<lb ed="#P" n="77" break="no"/>diis humanis. loquaendo de stipendiis dei: puta equa 
+          <lb ed="#P" n="78"/>liter merentur coram deo: sic concedo.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e533">
+          ¶ Contra 
+          <lb ed="#P" n="79"/>secundam conclusionem et tres sequentes arguitur: si 
+          for<lb ed="#P" n="80" break="no"/>titudo bellica esset virtus cardinalis: sequitur quod 
+          ma<lb ed="#P" n="81" break="no"/>gnanimitas non esset pars fortitudinis. consequens 
+          <lb ed="#P" n="82"/>est contra tullium primo officiorum.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e544">
+          ¶ Secundo 
+          <lb ed="#P" n="83"/>sequitur quod patientia et humilitas non essent speciea 
+          <lb ed="#P" n="84"/>fortitudinis: et sic multi boni heremicole / et 
+          ceno<lb ed="#P" n="85" break="no"/>bite / sacerdotes / vna virtute cardimali carerent 
+          se<lb ed="#P" n="86" break="no"/>cundum omnes suas speies: et per consequens 
+          fortitu<lb ed="#P" n="87" break="no"/>do non est virtus cardinalis: cum in ea vita 
+          huma<lb ed="#P" n="88" break="no"/>na non vertatur sicut in cardine: cum plurimi bene 
+          vi<lb ed="#P" n="89" break="no"/>uant sine ea.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e563">
+          ¶ Ad primum: concedo quod 
+          magnanimi<lb ed="#P" n="90" break="no"/>tas non est species fortitudinis virtutis cardinalis 
+          <lb ed="#P" n="91"/>nec humilitas: nec patientia: sed est pars 
+          potentia<lb ed="#P" n="92" break="no"/>lis eius. pars potentialis apud antiquos morales: 
+          <lb ed="#P" n="93"/>vocatur virtus magnam vicinitatem cum alia habens: 
+          <lb ed="#P" n="94"/>non tantum expansa sicut alia. quia fortitudo est 
+          cir<lb ed="#P" n="95" break="no"/>ca pericula mortis in bello: quod est arduissimum 
+          <lb ed="#P" n="96"/>et magnamitas est circa arduas administrationes: 
+          <lb ed="#P" n="97"/>etiam aliquam conuenientiam habet cum fortitudiue: 
+          pro<lb ed="#P" n="98" break="no"/>pterea pars potentialis eius reputatur. et sic de 
+          pa<lb ed="#P" n="99" break="no"/>tientia: vbi homo non potest euadere: si 
+          equanimi<lb ed="#P" n="100" break="no"/>ter fert molestiam illatam: nec de partibus potentia 
+          <lb ed="#P" n="101"/>libus multum est contendendum. aliqui auctores vnam 
+          <lb ed="#P" n="102"/>virtutem vocant potentialem respectu alterius virtu 
+          <lb ed="#P" n="103"/>tis / propter vnam conuenientiam quam secum habet. 
+          aliis<lb ed="#P" n="104" break="no"/>reducunt eam ad aliam / propter aliam 
+          conuenien<lb ed="#P" n="105" break="no"/>tiam: ad quam magis oculum mentis ipsi 
+          defixe<lb ed="#P" n="106" break="no"/>runt. quemadmodum si essent quattuor reges 
+          princi<lb ed="#P" n="107" break="no"/>pales in europa: et alii inferiores principes 
+          habe<lb ed="#P" n="108" break="no"/>rent cum aliquibus eorum conuenientias: sed cum 
+          <lb ed="#P" n="109"/>aliquibus maiores: si b. haberet filiam a. regis in 
+          <lb ed="#P" n="110"/>vxorem: diceretur et merito) quod b. partes a. imitatur. 
+          <lb ed="#P" n="111"/>alii apparenter dicerent imitaretur partes c. 
+          re<lb ed="#P" n="112" break="no"/>gis: quia b. est nepos c. quem vnice diligit. sic est 
+          <lb ed="#P" n="113"/>de partibus potentialibus.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e618">
+          ¶ Ad secundum 
+          ar<lb ed="#P" n="114" break="no"/>gumentum quo dicis: multi viri boni in mundo 
+          va<lb ed="#P" n="115" break="no"/>cabunt tota fortitudine cardinali secundum hanc 
+          <lb ed="#P" n="116"/>acceptionem quam Aristoteles ponit: et hoc 
+          ims<lb ed="#P" n="117" break="no"/>tatus sum: ego concedo. sufficit eis habere alias: 
+          <lb ed="#P" n="118"/>et quod fecurius viuant. et quando dicis: iste virtutes 
+          <lb ed="#P" n="119"/>vocantur cardinales / et cetera: verum est in tota 
+          <lb ed="#P" n="120"/>multitudine. aliqua sunt virtutes necessarie toti mul¬ 
+          <pb ed="#P" n="84-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>titudini: et commnes: vt fortitudo: et non comunes cuilibbet 
+          sup<lb ed="#P" n="2" break="no"/>posito multitudinis. et propterea vocantur he 
+          vir<lb ed="#P" n="3" break="no"/>tutes cardinales. temperantia est cuilibet in 
+          mul<lb ed="#P" n="4" break="no"/>titudine necessaria: cuius materia qutidiano est in 
+          <lb ed="#P" n="5"/>vsu. et sic prudentia et iusticia pluries quam fortitudo. 
+          <lb ed="#P" n="6"/>sed fortitudo est communis in tota republica. raro vides 
+          <lb ed="#P" n="7"/>magna regna sine bello: vel preparatione ad 
+          bel<lb ed="#P" n="8" break="no"/>lum: et timore de eo inferendo.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e657">
+          ¶ Tertio arguitur: 
+          <lb ed="#P" n="9"/>Aristo. non loquitur de martyrio: sed semper 
+          exem<lb ed="#P" n="10" break="no"/>plificat de bello. ergo resistendo / et non 
+          contrapu<lb ed="#P" n="11" break="no"/>gnando / sustinendo mortem: non debet dici bellum: nec 
+          <lb ed="#P" n="12"/>fortitudo: de qua Aristo. loquebatur.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e668">
+          ¶ Responde 
+          <lb ed="#P" n="13"/>tur: martyrium perrarum erat et satis incognitum apud 
+          <lb ed="#P" n="14"/>gentiles: propterea parum de hoc loquitur 
+          Philo<lb ed="#P" n="15" break="no"/>sophus. laudasset tamen: vel laudare debuit: 
+          socra<lb ed="#P" n="16" break="no"/>tem vel philosophorum alium mortem patientem antequam 
+          <lb ed="#P" n="17"/>hanc negasset / vnus est deus. martyrium apud fide 
+          <lb ed="#P" n="18"/>les erat in maiori vsu.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e684">
+          ¶ Et si dicas iudea in 
+          occiden<lb ed="#P" n="19" break="no"/>tali parte asie parum distabat a grecia parte orienta 
+          <lb ed="#P" n="20"/>tali europe: ergo audiuit de eorum martyribus loqui: 
+          <lb ed="#P" n="21"/>cum erat eis vicinus.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e693">
+          ¶ Respondetur: adhuc rari erant 
+          <lb ed="#P" n="22"/>martyres in lege moysaica respectu martyrum le 
+          <lb ed="#P" n="23"/>gis gratie.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e701">
+          ¶ Secundo: parum virsabatur Aristo. in 
+          he<lb ed="#P" n="24" break="no"/>breorm legibus: soleo mirari cum tot locorum policias 
+          <lb ed="#P" n="25"/>in libris Politicorum recitat: quare numquam de 
+          hebreo<lb ed="#P" n="26" break="no"/>rum legibus loquutus est: viso quod mare mediterra 
+          <lb ed="#P" n="27"/>neum latitudinis pue inter greciam et hebreos est 
+          <lb ed="#P" n="28"/>intersticium. loquutus est ergo de bello: quia fortitudo 
+          <lb ed="#P" n="29"/>comnius est in beno. vel bellum extenditur ad certamen 
+          <lb ed="#P" n="30"/>in quo est reluctatio sensualitatis et rationis in 
+          <lb ed="#P" n="31"/>presentia mortis: quam homo libere potest euadere. 
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e721">
+          <lb ed="#P" n="32"/>¶ Contra quintam conclusionem arguitur: 
+          mili<lb ed="#P" n="33" break="no"/>tes in bello pugnantes resisterunt: et hostes 
+          pere<lb ed="#P" n="34" break="no"/>merunt: ergo eorum fortitudo erat maior et ecclesie 
+          <lb ed="#P" n="35"/>vtilior.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e732">
+          ¶ Respondetur negando consequentiam. 
+          <lb ed="#P" n="36"/>interdum hostis vincit: quia fidelis miles sibiipsi 
+          glo<lb ed="#P" n="37" break="no"/>riam (et non deo) attribuit. vel est in peccatis quem 
+          <lb ed="#P" n="38"/>deus permittit occidi: et tunc victor hostis suo ydo 
+          <lb ed="#P" n="39"/>lo laudem tribuit. vel victoriam negligentie suorum vel 
+          <lb ed="#P" n="40"/>fortune victus attribuit. nec sic a deo auditur: sicut 
+          <lb ed="#P" n="41"/>deuotus martyrium patiens: cuius actus multo est 
+          dif<lb ed="#P" n="42" break="no"/>ficilior et vtilior quam actus militis fidelis in bello 
+          con<lb ed="#P" n="43" break="no"/>trapugnantis.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e752">
+          ¶ Contra sextam conclusionem arguitur. 
+          <lb ed="#P" n="44"/>Gregorius septimo moralium exponens illud 
+          Iob<lb ed="#P" n="45" break="no"/>sexto: que est enim fortitudo mea dicit: fortitudo est 
+          <lb ed="#P" n="46"/>carnem vincere: propriis voluptatibus contraire: 
+          <lb ed="#P" n="47"/>delectationem vite presentis extinguere. huius 
+          mundi<lb ed="#P" n="48" break="no"/>aspera pro eternis praemiis amare: prosperitatis 
+          blan<lb ed="#P" n="49" break="no"/>dimenta contennere: aduersitatis metum in corde 
+          su<lb ed="#P" n="50" break="no"/>perare. sed hic enumerantur actus ad temperantiam 
+          <lb ed="#P" n="51"/>partinentes:et aliqui ad fortitudinem partinentes. 
+          ergo<lb ed="#P" n="52" break="no"/>fortitudo non est specialis virtus.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e774">
+          ¶ Secundo arguitur: 
+          <lb ed="#P" n="53"/>pono quod sortes nolit deserere actum iusticie non 
+          ob<lb ed="#P" n="54" break="no"/>stante conditione mortis: iste actus est actus 
+          vir<lb ed="#P" n="55" break="no"/>tutis iusticie: cum iusticiam habeat pro fine. ergo 
+          <lb ed="#P" n="56"/>non est actus fortitudinis. tenet consequentia: nullus 
+          <lb ed="#P" n="57"/>vnus actus simplex ad duas virtutes cardinales 
+          <lb ed="#P" n="58"/>spectat.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e790">
+          ¶ Tertio arguitur: pono platonem nullum 
+          <lb ed="#P" n="59"/>actum fortitudinis habentem: nec actum oppositum: 
+          <lb ed="#P" n="60"/>et eliceat vnum actum fortitudinis in instanti: se¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>quitur quod talis summam virtutem habebit in 
+          inslan<lb ed="#P" n="62" break="no"/>ti: cum actus est agens naturale / agens in passum 
+          dis<lb ed="#P" n="63" break="no"/>positum: et per consequens subito agit. secundum phloiomdum. iiii: 
+          <lb ed="#P" n="64"/>Phisicorum. consequens est falsum. nemo iepente fit 
+          <lb ed="#P" n="65"/>summus.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e811">
+          ¶ Ad primum respondetur: beatus Grego 
+          <lb ed="#P" n="66"/>rius capit fortitudinem secundo modo.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e816">
+          ¶ Ad 
+          secun<lb ed="#P" n="67" break="no"/>dum concedo quod actus de qua est mentio est actus 
+          iusti<lb ed="#P" n="68" break="no"/>cie. sed nego consequentiam: quod propterea non est actus 
+          <lb ed="#P" n="69"/>fortitudinis. idem actus simplex in essendo spectat 
+          <lb ed="#P" n="70"/>ad duas virtutes cardinales: et patet de actu 
+          ha<lb ed="#P" n="71" break="no"/>bente duas virtutes cardinales pro fine.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e829">
+          ¶ Sed 
+          <lb ed="#P" n="72"/>contra hoc arguitur: mechus propter pecuniam est aua 
+          <lb ed="#P" n="73"/>rus: et non luxuriosus. v. Ethicorum. et hoc non nisi quia 
+          <lb ed="#P" n="74"/>auaricia est finis actus mechie. ergo actus denominatur a 
+          <lb ed="#P" n="75"/>fine.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e840">
+          ¶ Respondetur: Aristo. vult habtere quod ille actus 
+          <lb ed="#P" n="76"/>magis est denominandus a fine quam a medio. vel a 
+          prin<lb ed="#P" n="77" break="no"/>cipali intento magis denominabitur suus actus quod a 
+          <lb ed="#P" n="78"/>minus principali. sed tamen ille idem actus spectat ad 
+          lu<lb ed="#P" n="79" break="no"/>xuriamt auariciam. habet materiam illecebrem pro partiali 
+          ob<lb ed="#P" n="80" break="no"/>iecto: et non fertur in illam materiam caste: ergo 
+          impu<lb ed="#P" n="81" break="no"/>dice: et contrario modo ad castitatem: ec cumest ei 
+          con<lb ed="#P" n="82" break="no"/>iuncta: erit mechia. quemadmodum dilectio qua 
+          dili<lb ed="#P" n="83" break="no"/>go sortem propter deum non est fruitio solum: nec 
+          <lb ed="#P" n="84"/>a solo fine denominatur: sed a fine et medio. sed 
+          prin<lb ed="#P" n="85" break="no"/>eipalius ad fruitionem quod ad vsum spectat.
+        </p>
+        <p xml:id="jm3cbb-e50555-d1e864">
+          ¶ Ad 
+          <lb ed="#P" n="86"/>tertium concedo quod ille actus in instanti elicitus / potest 
+          <lb ed="#P" n="87"/>fortitudinem producere secundum extremum sue potentie: 
+          <lb ed="#P" n="88"/>sed intensior actus potest intensiorem habitum producere: 
+          <lb ed="#P" n="89"/>et plures actus possunt plures habitus producere. 
+          <lb ed="#P" n="90"/>et sic iste non est summus intensiue nec extensiue. sic 
+          <lb ed="#P" n="91"/>debet dici: et non sicut martinus dicit: negando quod 
+          <lb ed="#P" n="92"/>aliquis actus potest subito produci: vel habitus 
+          subi<lb ed="#P" n="93" break="no"/>to produci. et dicit quod illud quod tangit Aristoteles. iiii. 
+          <lb ed="#P" n="94"/>Phisicorum capit solum contra antiquos. omnia illa 
+          re<lb ed="#P" n="95" break="no"/>putans falsa: sed quia sunt michi impertinentia: 
+          <lb ed="#P" n="96"/>pertranseo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

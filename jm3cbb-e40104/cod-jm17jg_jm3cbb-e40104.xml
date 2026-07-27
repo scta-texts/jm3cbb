@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="66-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e40104"><!-- l3d26q3 -->
+        <head xml:id="jm3cbb-e40104-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e40104-Hd1e101" type="question-title">
+    Posito quod Deus alicui revelaret ipsius damnationem, an talis
+    habeat sperare?
+   </head>
+        <p xml:id="jm3cbb-e40104-d1e104">
+          <lb ed="#P" n="9"/>TErtio 
+          queri<lb ed="#P" n="10" break="no"/>tur: posito quod deus alicui reue 
+          <lb ed="#P" n="11"/>laret suam damnationem: an 
+          ta<lb ed="#P" n="12" break="no"/>lis habeat sperare: intelligo 
+          si<lb ed="#P" n="13" break="no"/>ne reuelatione exteriore: per 
+          si<lb ed="#P" n="14" break="no"/>gnum sensibile causata: vel 
+          re<lb ed="#P" n="15" break="no"/>uelatione interiore: causando 
+          <lb ed="#P" n="16"/>se solo assensum in intellectu viatoris istius: ego 
+          dam<lb ed="#P" n="17" break="no"/>nabor. Multi negabant deum posse cathegorice et 
+          <lb ed="#P" n="18"/>finaliter alicui suam damnationem reuelare. Sed pro 
+          <lb ed="#P" n="19"/>hoc ad questionis solutionem pono septem 
+          conclusio<lb ed="#P" n="20" break="no"/>nes sequentes.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e133">
+          ¶ Quarum prima est: deus potest 
+          ali<lb ed="#P" n="21" break="no"/>cui existenti in gratia vel extra gratiam reuelare suum 
+          <lb ed="#P" n="22"/>peccatum mortale futurum. patet: deus reuelauit 
+          Pe<lb ed="#P" n="23" break="no"/>tro existenti in gratia quod antequam gallus cantaret ter christum 
+          <lb ed="#P" n="24"/>negaret. Mathei. xxvi. et tamen in illa negatione 
+          <lb ed="#P" n="25"/>Petrus mortaliter peccauit. Similiter dixit aliis 
+          <lb ed="#P" n="26"/>apostolis: hac nocte vos omnes scandalum 
+          patie<lb ed="#P" n="27" break="no"/>mini in me. et ita est de illo qui existit extra gratiam: 
+          <lb ed="#P" n="28"/>quemadmodum erat de multis iudeis: quibus christus 
+          di<lb ed="#P" n="29" break="no"/>xit: in peccatis vestris moremini Ioannis. viii. 
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e155">
+          <lb ed="#P" n="30"/>¶ Secunda conclusio de casu ambiguo inter multos 
+          <lb ed="#P" n="31"/>est hec. deus potest reuelare alicui cathegorice 
+          su<lb ed="#P" n="32" break="no"/>am finalem damnationem: saltem de potentia dei absoluta 
+          <lb ed="#P" n="33"/>probatur hec conclusio: christus de facto dixit iudeis in 
+          <lb ed="#P" n="34"/>peccatis vestris moriemini. Secundo arguitur de 
+          possi<lb ed="#P" n="35" break="no"/>bili: deus potest omne illud quod non includit 
+          contradi<lb ed="#P" n="36" break="no"/>ctionem. sed illud reuelare: non includit 
+          contradictio<lb ed="#P" n="37" break="no"/>nem. ergo deus potest illud reuelare. consequentia tenet cum 
+          <lb ed="#P" n="38"/>maiore. minor patet: deus / potest se solo causare 
+          as<lb ed="#P" n="39" break="no"/>sensum huius: ego sortes damnabor: in intellectu 
+          sor<lb ed="#P" n="40" break="no"/>tis. quo facto sortes non potest non assentire huic: ego damnabor 
+          <lb ed="#P" n="41"/>quod hoc posset se solo patet: hoc potest cum intellectu sortis: et 
+          <lb ed="#P" n="42"/>potest supplere causalitatem quam habet intellectus 
+          sor<lb ed="#P" n="43" break="no"/>tis in productione effectiua illius assensus: 
+          intelle<lb ed="#P" n="44" break="no"/>ctu sortis pure passiue se habente. igitur. Preterea 
+          <lb ed="#P" n="45"/>deus se solo assensum propheticum causat in intellectu 
+          <lb ed="#P" n="46"/>prophete: sicut cum Nathan primo deceptus 
+          huma<lb ed="#P" n="47" break="no"/>no iudicio: dicebat templum edificari a Dauide: 
+          post<lb ed="#P" n="48" break="no"/>ea illuminationem veram accepit a deo: ipsum 
+          edifican<lb ed="#P" n="49" break="no"/>dum a Salomone. forte dices michi: illud 
+          argumen<lb ed="#P" n="50" break="no"/>tum probaret deum posse decipere directe et se solo: 
+          <lb ed="#P" n="51"/>quod tamen nego constanter in distinctione. xxxviii. 
+          <lb ed="#P" n="52"/>huius.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e208">
+          ¶ Contra: illud includit contradictionem 
+          impossi<lb ed="#P" n="53" break="no"/>bile est quod mendacium totaliter bene fiat a deo in 
+          intel<lb ed="#P" n="54" break="no"/>lectu creato propter inseparabilitatem malicie: quam 
+          <lb ed="#P" n="55"/>deceptio importat. hoc autem non importat 
+          iudi<lb ed="#P" n="56" break="no"/>cium istius: ego damnabor. et hoc probatur: deus de 
+          <lb ed="#P" n="57"/>quolibet prescito cognoscit cathegorice an est 
+          pre<lb ed="#P" n="58" break="no"/>scitus. sed quilibet praescitus decedit finaliter in 
+          mor<lb ed="#P" n="59" break="no"/>tali et damnabitur. ergo deus potest illud cathegorice 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>reuelare reuelatione interiori causando assensum 
+          <lb ed="#P" n="61"/>se solo: quod is prescitus damnabitur: vel reuelatione 
+          <lb ed="#P" n="62"/>exteriore per voces: vel scripturam: per angelum: vel 
+          <lb ed="#P" n="63"/>hominem.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e237">
+          ¶ Tertia conclusio: stante hoc iudicio 
+          ca<lb ed="#P" n="64" break="no"/>thegorico in intellectu viatoris: ego damnabor: 
+          in<lb ed="#P" n="65" break="no"/>tellectus non potest assentire huic: ego habebo 
+          be<lb ed="#P" n="66" break="no"/>atitudinem: vel beatitudo est michi possibilis de 
+          <lb ed="#P" n="67"/>lege. probatur hec conclusio: bene sequitur ego 
+          damna<lb ed="#P" n="68" break="no"/>bor: ergo non saluabor. et ex consequenti: ergo non 
+          habe<lb ed="#P" n="69" break="no"/>bo beatitudinem. sortes primo assentit antecedenti: 
+          <lb ed="#P" n="70"/>et scit consequentias esse bonas: ergo assentit vltimo 
+          con<lb ed="#P" n="71" break="no"/>sequenti. Insuper vno contrariorum producto in passo 
+          <lb ed="#P" n="72"/>creatura non potest aliud contrarium producere illo 
+          stan<lb ed="#P" n="73" break="no"/>te et conseruato a causa fortiore. ergo iudicio illo 
+          stan<lb ed="#P" n="74" break="no"/>te: ego damnabor: et conseruato a deo: iudicium habens 
+          <lb ed="#P" n="75"/>non potest producere contrarium illi.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e266">
+          ¶ Quarta 
+          conclu<lb ed="#P" n="76" break="no"/>sio: sortes casu stante non potest habere actum spei 
+          <lb ed="#P" n="77"/>probatur hec conclusio: non potest habere velle 
+          effi<lb ed="#P" n="78" break="no"/>cax respectu beatitudinis: sed desiderium efficax 
+          <lb ed="#P" n="79"/>habende beatitudinis requiritur ad actum spei: igitur 
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e277">
+          <lb ed="#P" n="80"/>¶ Quinta conclusio: stante casu non est necesse sorti 
+          <lb ed="#P" n="81"/>habere actum desperationis: probatur hec conclusio: 
+          <lb ed="#P" n="82"/>desperatio est nolle habere beatitudinem ex 
+          me<lb ed="#P" n="83" break="no"/>ritis et gratia. modo illud nolle est actus liber 
+          volun<lb ed="#P" n="84" break="no"/>tatis: quem non est necesse elicere stante iudicio 
+          in<lb ed="#P" n="85" break="no"/>compossibili actui spei.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e293">
+          ¶ Sexta conclusio: si sit 
+          reuela<lb ed="#P" n="86" break="no"/>tio exterior talis et similium: sortes damnabitur: 
+          sor<lb ed="#P" n="87" break="no"/>tes non debet credere quod sit reuelatio cathegorica: 
+          <lb ed="#P" n="88"/>sed solum comminatoria: vel ad cautelam patet: deus 
+          <lb ed="#P" n="89"/>non solet huiusmodi reuelare cathegorice et fixe illa quae 
+          <lb ed="#P" n="90"/>possunt esse materia accidie et desperationis. illud 
+          pro<lb ed="#P" n="91" break="no"/>batur per argumentum Anselmi de casu diaboli. c. 
+          <lb ed="#P" n="92"/>xxi. quo probat primum angelum non potuisse 
+          <lb ed="#P" n="93"/>casum suum futurum prescire. vide per magistrum 
+          di<lb ed="#P" n="94" break="no"/>iiii. c. i. secundi. istud patet. cum christus dixit petro. antequam 
+          <lb ed="#P" n="95"/>gallus causatet ter me negabis. Math. xxvi petrus 
+          pu<lb ed="#P" n="96" break="no"/>tabat adhuc ab illo cauere: inquiens: et si omnes 
+          scan<lb ed="#P" n="97" break="no"/>dalisati fuerint in te: ego non scandalizabor.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e322">
+          ¶ 
+          Pre<lb ed="#P" n="98" break="no"/>terea arguitur ad idem. si teneatur sortes 
+          cathegori<lb ed="#P" n="99" break="no"/>ce et fixe assentire illi proportioni de futuro secundum quod 
+          ver<lb ed="#P" n="100" break="no"/>ba pretendunt: hoc esset propter verba dei prolata vel 
+          <lb ed="#P" n="101"/>aliquod aliud signum exterius: sed hoc non. patet de 
+          io<lb ed="#P" n="102" break="no"/>na qui habebat reuelare niniuitis quod quadraginta 
+          <lb ed="#P" n="103"/>essent dies et niniue subuerteretur. et Ionas 
+          dubita<lb ed="#P" n="104" break="no"/>uit in quo sensu hoc debuit verificari. patet Ione. 
+          <lb ed="#P" n="105"/>iiii. Similiter nesciuit Esayas: an Ezechias esset 
+          <lb ed="#P" n="106"/>sanitatem per orationem impetraturus.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e345">
+          ¶ Septima 
+          con<lb ed="#P" n="107" break="no"/>clusio: in casu reuelationis interioris sorti de 
+          damnati<lb ed="#P" n="108" break="no"/>one: sortes debet rogare deum: et nichil omittere de 
+          <lb ed="#P" n="109"/>praeceptis dei. probatur: per illam reuelationem non est 
+          de<lb ed="#P" n="110" break="no"/>obligatus a praeceptis dei: vt deum laudet. et ita de aliis 
+          <lb ed="#P" n="111"/>praeceptis affirmatiuis: spe dempta. ergo debet 
+          studiosi<lb ed="#P" n="112" break="no"/>us quam alter circa praecepta dei vigilare. et nec negativis 
+          <lb ed="#P" n="113"/>praeceptis contraire. non sequitur: assentit huic: ego 
+          damna<lb ed="#P" n="114" break="no"/>bor. ergo est deobligatus ab omnibus preceptis. stat 
+          <lb ed="#P" n="115"/>ergo oppositum consequentis cum antecedente. et si non est 
+          de<lb ed="#P" n="116" break="no"/>obligatus ab omnibus: a nullis est deobligatus 
+          compos<lb ed="#P" n="117" break="no"/>sibilibus illi iudicio.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e371">
+          ¶ Secundo arguitur ad idem. 
+          <lb ed="#P" n="118"/>si deus reuelet platoni quod est de numero electorum: 
+          ad<lb ed="#P" n="119" break="no"/>huc plato tenetur facere opera praecepta: et studere ne ca¬ 
+          <pb ed="#P" n="66-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dat: quia stat libertas et potentia ad oppositum. igitur 
+          si<lb ed="#P" n="2" break="no"/>militer in proposito nostro.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e387">
+          ¶ Tertio. quilibet sapiens 
+          <lb ed="#P" n="3"/>scit quod deus certitudinaliter nouit de quolibet: an 
+          <lb ed="#P" n="4"/>est prescitus vel predestinatus: et tamen ex hac scientia 
+          <lb ed="#P" n="5"/>viator non debet desperare nec presumere: sed 
+          studi<lb ed="#P" n="6" break="no"/>ose implere legem dei. ergo eodem modo si viator 
+          determi<lb ed="#P" n="7" break="no"/>nate alteram partem veram nouit: non debet minus 
+          labora<lb ed="#P" n="8" break="no"/>re vt legem dei impleat.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e403">
+          ¶ Quarto. ecclesia scit 
+          ali<lb ed="#P" n="9" break="no"/>quos esse reprobos: immo multos. secundum illud. multi 
+          <lb ed="#P" n="10"/>sunt vocati: pauci vero electi. et tamen ecclesia docet 
+          <lb ed="#P" n="11"/>orare pro omnibus indistincte: tam fidelibus quam 
+          infideli<lb ed="#P" n="12" break="no"/>bus quamdiu sunt in hac mortali vita.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e414">
+          ¶ Ex hac 
+          septi<lb ed="#P" n="13" break="no"/>ma: conclusione et eius probatione sequitur quod a fortiori 
+          <lb ed="#P" n="14"/>debet homo (cui facta est reuelatio exterior) pro se orare 
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e421">
+          <lb ed="#P" n="15"/>¶ Contra primam conclusionem arguitur. christus dixit 
+          Pe<lb ed="#P" n="16" break="no"/>tro. antequam gallus cantet ter me negabis. vel petrus 
+          <lb ed="#P" n="17"/>tenebatur assentire illi vel non. Si primum: non 
+          de<lb ed="#P" n="18" break="no"/>bebat niti ad oppositum: sed implere illud quod 
+          e<lb ed="#P" n="19" break="no"/>rat predictum a deo: et ab ipso volitum. Si secundum: 
+          <lb ed="#P" n="20"/>non assensisset deum fuisse omniscientem et cognouisse 
+          de<lb ed="#P" n="21" break="no"/>terminate verum.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e440">
+          ¶ Respondetur. Petrus et quilibet 
+          <lb ed="#P" n="22"/>sapiens scit quod deus determinate cognoscit omne 
+          futu<lb ed="#P" n="23" break="no"/>rum eo modo quo est futurum: et potest illud etiam 
+          reue<lb ed="#P" n="24" break="no"/>lare: sed non oportet quod sciat an deus dicat comminatorie:  
+          <lb ed="#P" n="25"/>vel in quo sensu intelligit vel quo modo vult illud 
+          di<lb ed="#P" n="26" break="no"/>ctum verificare. tamen scit quod erit verum in sensu a deo 
+          pre<lb ed="#P" n="27" break="no"/>tenso. hoc declaro in simili. sortes dicit michi quod est 
+          <lb ed="#P" n="28"/>facturus a. et habet multos modos faciendi: non 
+          decla<lb ed="#P" n="29" break="no"/>rat michi quomodo vult facere a. iam assentio quod sortes est 
+          <lb ed="#P" n="30"/>facturus a. sed per quod medium: me fugit
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e462">
+          ¶ Idem patet 
+          <lb ed="#P" n="31"/>de deliberato ire romam: et latet me qua via iturus est. 
+          <lb ed="#P" n="32"/>sciuit etiam petrus et quilibet sapiens post dictum christi 
+          <lb ed="#P" n="33"/>erat adhuc contingens petro christum negare: nec vlla 
+          <lb ed="#P" n="34"/>fuit necessitas negare christum propter illam assertionem 
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e473">
+          <lb ed="#P" n="35"/>¶ Contra conclusionem secundam et duas sequentes 
+          ar<lb ed="#P" n="36" break="no"/>guitur sic. sequitur quod sortes numquam tenebitur sperare. 
+          con<lb ed="#P" n="37" break="no"/>sequens est inconueniens: ergo et antecedens patet: sortes non potest 
+          <lb ed="#P" n="38"/>sperare stante illo iudicio in intellectu: quod ipse 
+          damna<lb ed="#P" n="39" break="no"/>bitur. et assensus ille potest permanere semper in intellectu 
+          <lb ed="#P" n="40"/>sortis. ergo talis nunquam sperabit: ergo desperabit.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e489">
+          ¶ 
+          Responde<lb ed="#P" n="41" break="no"/>tur concedendo quod sortes non potest sperare stante 
+          il<lb ed="#P" n="42" break="no"/>lo iudicio: quod damnabitur. tunc est deobligatus ab actu 
+          <lb ed="#P" n="43"/>spei quamdiu durat ille assensus: deus neminem obligat 
+          <lb ed="#P" n="44"/>ad incompossibilia: sed non sequitur propterea quod talis 
+          <lb ed="#P" n="45"/>desperet: proprie capiendo desperationem. voluntas 
+          li<lb ed="#P" n="46" break="no"/>bere concurrit ad quemlibet actum suum. modo 
+          despera<lb ed="#P" n="47" break="no"/>tio est actus voluntatis: de communi lege. iudicium 
+          cathego<lb ed="#P" n="48" break="no"/>ricum quod sortes damnabitur finaliter. non potest esse in 
+          sor<lb ed="#P" n="49" break="no"/>te sine peccato. secus est in casu nostro qui est vltra 
+          le<lb ed="#P" n="50" break="no"/>gem: et nulli vnquam contingit: nec forte continget. 
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e513">
+          <lb ed="#P" n="51"/>¶ Secundo arguitur: probando quod he conclusiones cum 
+          <lb ed="#P" n="52"/>septima pugnant. patet: sortes firmiter assentit 
+          hu<lb ed="#P" n="53" break="no"/>ic. ego damnabor. ergo incassum orat pro sua salute et 
+          <lb ed="#P" n="54"/>seruat precepta dei. nullus enim facit 
+          rationabi<lb ed="#P" n="55" break="no"/>liter petitionem quam credit esse vanam et 
+          frustratori<lb ed="#P" n="56" break="no"/>am et deficientem ab intento. et patet in proposito ex 
+          <lb ed="#P" n="57"/>Augustino. xxi. de ciuitate dei. c. xxiiii. si ecclesia 
+          <lb ed="#P" n="58"/>sciret certitudinaliter qui sunt reprobi et damnandi: 
+          <lb ed="#P" n="59"/>non plus pro illis oraret quod pro diabolo.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e535">
+          ¶ Tertio: 
+          <lb ed="#P" n="60"/>vel iste sortes potest velle saluari: vel non si primum: 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ergo potest se difformare voluntati diuine in 
+          parti<lb ed="#P" n="62" break="no"/>culari cognite: quod est inconueniens. amicorum est idem 
+          <lb ed="#P" n="63"/>velle. viii. et ix. Ethicor. Si secundum: contra: non habet 
+          <lb ed="#P" n="64"/>preceptum quod velit se damnari: et nemo tenetur se 
+          con<lb ed="#P" n="65" break="no"/>formare voluntati diuine non praeceptiue vel 
+          prohibiti<lb ed="#P" n="66" break="no"/>ue.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e556">
+          ¶ Ad secundum: nego quod he conclusiones pugnant cum 
+          <lb ed="#P" n="67"/>septima. et ad probationem incassum orat ille qui scit quod 
+          <lb ed="#P" n="68"/>non audietur in oratione sua. dico hoc esse falsum 
+          <lb ed="#P" n="69"/>patuit superius in oratione christi ad patrem: pater si 
+          possi<lb ed="#P" n="70" break="no"/>bile sit transeat a me calix iste. sortes scit orationem 
+          <lb ed="#P" n="71"/>esse deo acceptibilem: et exercitationem sanctam in via 
+          <lb ed="#P" n="72"/>et preceptam in generali omnibus viatoribus ratione 
+          vten<lb ed="#P" n="73" break="no"/>tibus: et scire debet nullum erit meritum non bene 
+          remu<lb ed="#P" n="74" break="no"/>neratum a deo. deus scit qui sunt reprobi: et tamen 
+          <lb ed="#P" n="75"/>non iudicat quod orationes electorum sunt pro eis vane. 
+          <lb ed="#P" n="76"/>ad Aug. dicitur. ipse intelligit si essent 
+          irreuocabi<lb ed="#P" n="77" break="no"/>liter et ineuitabiliter mali: sicut diabolus: et cum 
+          im<lb ed="#P" n="78" break="no"/>possibilitate ad penitentiam: et hoc est verum: sed illud 
+          <lb ed="#P" n="79"/>in via non continget.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e587">
+          ¶ Ad tertium dicitur quod 
+          solu<lb ed="#P" n="80" break="no"/>tio eius et aliquarum aliarum rationum pendentium 
+          <lb ed="#P" n="81"/>ex vno problemate de conformitate voluntatis 
+          crea<lb ed="#P" n="82" break="no"/>te ad voluntatem diuinam dependet an teneamur 
+          <lb ed="#P" n="83"/>nos conformare voluntati diuine in particulari 
+          cogni<lb ed="#P" n="84" break="no"/>te in via. et dicitur quod nos solum tenemur velle 
+          qua<lb ed="#P" n="85" break="no"/>liter deus vult nos velle: et nolle quod deus vult nos 
+          <lb ed="#P" n="86"/>nolle. hoc est tenemur nos conformare voluntati 
+          di<lb ed="#P" n="87" break="no"/>uine praeceptiue prohibitiue. licet sortes assentiat 
+          hu<lb ed="#P" n="88" break="no"/>ic: ipse damnabitur: non tamen est praeceptum quod illud velit. si 
+          <lb ed="#P" n="89"/>ei illud praeciperetur: tunc deberet velle. Sed dicis: 
+          <lb ed="#P" n="90"/>ad damnationem sequitur separatio perpetuo a deo: odium 
+          <lb ed="#P" n="91"/>dei: blasphemia. sed non potest velle talia. ergo non potest 
+          <lb ed="#P" n="92"/>velle damnari.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e618">
+          ¶ Respondetur: licet talia sequantur 
+          <lb ed="#P" n="93"/>ad damnationem seundum legem: aliquis potest velle antecedens non 
+          vo<lb ed="#P" n="94" break="no"/>lendo consequens. secundo est sermo de pena: scilicet 
+          tri<lb ed="#P" n="95" break="no"/>stitia. et non intelligo de actibus difformibus 
+          reuolu<lb ed="#P" n="96" break="no"/>tis: quia dico deus non potest se solo illos causare.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e629">
+          ¶ 
+          Con<lb ed="#P" n="97" break="no"/>tra sextam conclusionem arguitur: sequitur quod diua 
+          vir<lb ed="#P" n="98" break="no"/>go non tenebatur assentire angelo annunciationes 
+          <lb ed="#P" n="99"/>ei aperienti. consequens est falsum. Elizabeth ei dixit: 
+          be<lb ed="#P" n="100" break="no"/>ata es quia credidisti cum eam visitauit in partu: vt patet 
+          <lb ed="#P" n="101"/>Luce. i. ergo si non assensisset male fecisset. et patet consequentia: 
+          <lb ed="#P" n="102"/>non est necesse credere exteriori reuelationi vni: et 
+          <lb ed="#P" n="103"/>eadem est ratio in omnibus: igitur.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e647">
+          ¶ Respondetur: 
+          <lb ed="#P" n="104"/>prima fronte virgo dubitauit: et obiectionem fecit: et non in 
+          <lb ed="#P" n="105"/>merito: viso quod ipsa mentaliter virginitatem perpetuam 
+          <lb ed="#P" n="106"/>vouerat: cui cum angelus respondit cum manu 
+          du<lb ed="#P" n="107" break="no"/>ctione de anu sterili concipienti: credidit. noticiam 
+          suf<lb ed="#P" n="108" break="no"/>ficientem habebat. sciebat per prophetarum oracula quod 
+          <lb ed="#P" n="109"/>messias veniret de tribu Iuda: de domo et filia 
+          Da<lb ed="#P" n="110" break="no"/>uid: et quod tempus messie iam instabat: licet nesciret in 
+          parti<lb ed="#P" n="111" break="no"/>culari an generaretur ex virgine: vt patet per eius 
+          op<lb ed="#P" n="112" break="no"/>positionem: quomodo fiet istud quam virum non cognosco 
+          <lb ed="#P" n="113"/>et ipsa erat illustrata a deo: propterea adhesit: et 
+          li<lb ed="#P" n="114" break="no"/>bere adhesit. in omibus reuelatis post sufficientem 
+          <lb ed="#P" n="115"/>promulgationem: quod sunt a deo: credendum est: ab 
+          il<lb ed="#P" n="116" break="no"/>lo cui est reuelatum sufficienter. sed in aliquibus 
+          fa<lb ed="#P" n="117" break="no"/>cilius est assentiendum: in aliquibus difficilius. in 
+          a<lb ed="#P" n="118" break="no"/>liquibus dictis non est credendum. In illis autem 
+          <lb ed="#P" n="119"/>qua tangunt honorem dei: et salutem illius cui reuelatur: 
+          <lb ed="#P" n="120"/>vel proximi cum modico motiuo est credendum. et 
+          <pb ed="#P" n="67-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>in illo possunt dari gradus secundum quod res est ardua multum: 
+          <lb ed="#P" n="2"/>vt in casu virginis. tunc maior requritur ostensio 
+          <lb ed="#P" n="3"/>veritatis illius quod reuelatur: in aliquibus minus 
+          <lb ed="#P" n="4"/>sufficit: in aliquibus deus non potest dispensare: vt in 
+          <lb ed="#P" n="5"/>odio dei: mendacio: periurio. si aliquis aliquid tale 
+          prae<lb ed="#P" n="6" break="no"/>ciperet ex parte dei: non est illi parendum. in aliquibus 
+          <lb ed="#P" n="7"/>ex scriptura constat quod nunquam reuelabitur oppositum: 
+          <lb ed="#P" n="8"/>esto quod sunt contingentia: nullo modo talibus est 
+          dan<lb ed="#P" n="9" break="no"/>da fides: vt dicenti oppositum eorum qua sunt in lege 
+          <lb ed="#P" n="10"/>gratie: que est lex noui et eterni testamenti: secundum illud 
+          <lb ed="#P" n="11"/>apostoli ad Galathas primo. Etiam si nos aut 
+          ange<lb ed="#P" n="12" break="no"/>lus de celo euangelis et vobis praeter quam id quod nos 
+          euan<lb ed="#P" n="13" break="no"/>gelisamus vobis: anathema sit.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e719">
+          ¶ Quando reuelatur 
+          ali<lb ed="#P" n="14" break="no"/>quid contra legem nature late acceptam: in qua deus 
+          po<lb ed="#P" n="15" break="no"/>test dispensare: non est credendum opposito: nec illi 
+          <lb ed="#P" n="16"/>parendum quousque sufficienter constat de opposito. si 
+          <lb ed="#P" n="17"/>sufficienter doceatur de opposito: non parere est 
+          pec<lb ed="#P" n="18" break="no"/>catum. Abraham si non tentasset occidere Isaac: male 
+          <lb ed="#P" n="19"/>egisset. oportet dicere quod sufficienter erat instructus a 
+          <lb ed="#P" n="20"/>deo: vt illud ageret. vt occidere innocentem ab 
+          au<lb ed="#P" n="21" break="no"/>ctore deo qui est actor vite et mortis. Idem contingit 
+          <lb ed="#P" n="22"/>de casu. iii. regum. xx. recitato. vbi propheta dicit ad 
+          <lb ed="#P" n="23"/>socium suum in sermone domni. Percutite me. at ille 
+          no<lb ed="#P" n="24" break="no"/>luit percutere: cui ait: quia noluisti audire sermonem domini 
+          <lb ed="#P" n="25"/>ecce recedes a me: et percutiet te leo. Cumque 
+          recessis<lb ed="#P" n="26" break="no"/>set paululum ab eo: inuenit eum leo atque percussit. Licet 
+          <lb ed="#P" n="27"/>iste propheta praecepit vnum quod erat contra legem dei de 
+          <lb ed="#P" n="28"/>non percutiendo. sed quia ille cui reuelabatur: tenebatur 
+          cre<lb ed="#P" n="29" break="no"/>dere quod hoc a deo habebat: quia sciuit eum esse 
+          prophe<lb ed="#P" n="30" break="no"/>tam: quia erat socius eius: et quia non assensit ei 
+          pa<lb ed="#P" n="31" break="no"/>ruit: male egit discredendo et non parendo: propterea 
+          <lb ed="#P" n="32"/>punitus est: vbi vnus alius: cui non constetisset de hoc 
+          <lb ed="#P" n="33"/>quod erat propheta: non tenebatur ei assentire nec 
+          pare<lb ed="#P" n="34" break="no"/>re. Sic zacharias peccauit non credens angelo de 
+          <lb ed="#P" n="35"/>ortu Iohannis filii sui: cum apparuit in loco sacro 
+          za<lb ed="#P" n="36" break="no"/>charie existenti in ministerio diuino: reuelans illud 
+          <lb ed="#P" n="37"/>quod erat ad dei gloriam: debebat (singulis 
+          circun<lb ed="#P" n="38" break="no"/>stantiis consideratis) assentire quod erat bonus 
+          ange<lb ed="#P" n="39" break="no"/>lus. et per consquens quod ei erat credendum. sic sara peccauit non 
+          <lb ed="#P" n="40"/>credens de natiuitate Isaac. sic iudei peccabant non 
+          <lb ed="#P" n="41"/>assentientes christo propter auctoritatem scripture et 
+          mi<lb ed="#P" n="42" break="no"/>racula quae coram eis fecit: secundum illud Io. xv. Si non 
+          ve<lb ed="#P" n="43" break="no"/>nissem et locutus eis fuissem: peccatum non haberent. 
+          <lb ed="#P" n="44"/>nunc autem excusationem non habent de peccato suo. si 
+          <lb ed="#P" n="45"/>opera non fecissem in eis que nemo alius fecit: peccatum 
+          <lb ed="#P" n="46"/>non haberent
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e794">
+          ¶ Ad formam ergo argumenti: non est idem 
+          <lb ed="#P" n="47"/>de diua virgine et de reuelatis in sacra scriptura 
+          re<lb ed="#P" n="48" break="no"/>uelatione exteriori. et de hac assertione exteriori: ego 
+          <lb ed="#P" n="49"/>damnabor finaliter: quod homo teneatur assentire illi in 
+          sen<lb ed="#P" n="50" break="no"/>su quem facit de communi acceptione terminorum
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e805">
+          ¶ Ex his 
+          <lb ed="#P" n="51"/>patet quis est actus spei: qui est actus appetitus de 
+          ob<lb ed="#P" n="52" break="no"/>iecto remoto: de necessitate nature a iudicio 
+          intel<lb ed="#P" n="53" break="no"/>lectus dependens: quo iudicatur beatitudo speranti 
+          <lb ed="#P" n="54"/>possibilis de lege. quo fit: nec in celo: nec in 
+          infer<lb ed="#P" n="55" break="no"/>no: habetur actus sperandi: bene autem in purgatorio. 
+          <lb ed="#P" n="56"/>praesumptio est actus voluntatis actui sperandi 
+          op<lb ed="#P" n="57" break="no"/>positus a iudicio erroneo intellectus dependens: 
+          <lb ed="#P" n="58"/>quo iudicatur quod habebit beatitudinem sine meritis 
+          <lb ed="#P" n="59"/>vel cum meritis sine gratia dei. desperatio pari forma est 
+          <lb ed="#P" n="60"/>actus voluntatis: sed a iudicio intellectus dependens: 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>quo iudicatur quod non habebit beatitudinem: dato quod 
+          <lb ed="#P" n="62"/>faciat quod in se est. vel non potest facere actus 
+          suffi<lb ed="#P" n="63" break="no"/>cientes pro habenda beatitudine: diffidendo de dei 
+          mi<lb ed="#P" n="64" break="no"/>sicordia: iudicando eum crudelem immitem. inter hec 
+          <lb ed="#P" n="65"/>duo spes tenet medium.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e842">
+          ¶ Sed dubitas circa hec 
+          <lb ed="#P" n="66"/>dicta inter epilogandum de spe: an maneat in patria 
+          <lb ed="#P" n="67"/>et videtur quod sic: christus fuit beatus secundum animam a primo 
+          in<lb ed="#P" n="68" break="no"/>stanti sue conceptionis: et tamen psalmista in persona 
+          <lb ed="#P" n="69"/>eius dicit: in te domine speraui.
+        </p>
+        <p xml:id="jm3cbb-e40104-d1e853">
+          ¶ Respondetur spes est 
+          so<lb ed="#P" n="70" break="no"/>lum de illo quod non habetur. patet per apostolum ad 
+          Ro<lb ed="#P" n="71" break="no"/>manos. viii. quod videt quis: quid sperat. Augu. 
+          <lb ed="#P" n="72"/>primo de doctrina christiana: spei succedit beatitudo 
+          <lb ed="#P" n="73"/>ipsa ad quam venturi sumus. spes est respectu 
+          beati<lb ed="#P" n="74" break="no"/>tudinis anime: et de obiecto beatifico absente proprie 
+          <lb ed="#P" n="75"/>capiendo sicut capimus. late tamen vocabulum 
+          capi<lb ed="#P" n="76" break="no"/>tur pro expectatione dotium corporis. vel alicuius 
+          pre<lb ed="#P" n="77" break="no"/>mii. accidentalis: hoc modo fuit in christo: animabus beatis: 
+          <lb ed="#P" n="78"/>in angelis. de christo patet. non habuit beatitudinem 
+          <lb ed="#P" n="79"/>corporis tempore quo erat viator. et per hoc soluitur 
+          aucto<lb ed="#P" n="80" break="no"/>ritas psalmiste inducta. et glosa super illud Apocal. 
+          <lb ed="#P" n="81"/>vi. Anime beate expectabunt gloriam corporis que 
+          di<lb ed="#P" n="82" break="no"/>citur stola secunda.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

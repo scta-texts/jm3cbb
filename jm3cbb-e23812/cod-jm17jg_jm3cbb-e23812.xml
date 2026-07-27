@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="39-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e23812"><!-- l3d17q2 -->
+        <head xml:id="jm3cbb-e23812-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e23812-Hd1e101" type="question-title">An Christus in sua oratione exaudiebatur</head>
+        <p xml:id="jm3cbb-e23812-d1e104">
+          <lb ed="#P" n="71"/>SEcundo 
+          queri<lb ed="#P" n="72" break="no"/>tur: an christus in sua 
+          oratio<lb ed="#P" n="73" break="no"/>ne exaudiebatur. 
+          Responde<lb ed="#P" n="74" break="no"/>tur primo explicando quid no 
+          <lb ed="#P" n="75"/>minis orionis. deinde ad 
+          que<lb ed="#P" n="76" break="no"/>stionem conclusiue respondebitut 
+          <lb ed="#P" n="77"/>Orare siue oratio nichil aliud 
+          <lb ed="#P" n="78"/>est nisi aliquo signo velle impetrare aliquid ab alio 
+          <lb ed="#P" n="79"/>pro se: vel alio. in oratione volumus deum 
+          suprple<lb ed="#P" n="80" break="no"/>re indigentiam quam nosipsi supplere nequimus. 
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e128">
+          <lb ed="#P" n="81"/>¶ His notatis ponuntur quattuor conclusiones 
+          <lb ed="#P" n="82"/>Quarum prima est: christus frequenter orauit. 
+          pa<lb ed="#P" n="83" break="no"/>tet Matthei. xxvi. Luce. xx. Luce. vi.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e137">
+          ¶ 
+          Secun<lb ed="#P" n="84" break="no"/>da propositio: christus secundum diuinitatem non orauit. 
+          <lb ed="#P" n="85"/>patet: oratio fiebat apud deum: vt iolleretur 
+          indi<lb ed="#P" n="86" break="no"/>gentia quamm rogans auferre non potest secundum natua 
+          <lb ed="#P" n="87"/>ram secundum quam rogat. sed christus secundum naturam 
+          di<lb ed="#P" n="88" break="no"/>ninam auferre poterat omnem indigentiam: pro illo 
+          pro<lb ed="#P" n="89" break="no"/>quo rogauit. Insuper: inferioris est rogare supe¬¬ 
+          <lb ed="#P" n="90"/>riorem vel alium a se essentialiter distinctum. 
+          il<lb ed="#P" n="91" break="no"/>la christo non competebant secundum naturam diuinam 
+          <lb ed="#P" n="92"/>hreteres: illi conuenit orare: cuius voluntas non 
+          <lb ed="#P" n="93"/>est efficax ad implenda omnia que vult: sed illud 
+          <lb ed="#P" n="94"/>non conuenit christo secundum diuinstatem: igil.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e164">
+          ¶ 
+          Ter<lb ed="#P" n="95" break="no"/>tia conclusio: christus orauit deum secundum naturam 
+          hu<lb ed="#P" n="96" break="no"/>manam. probatur hec conclusio: christus orauit 
+          pa<lb ed="#P" n="97" break="no"/>trem: et non secundum naturam diuinam: ergo secundum naturam 
+          <lb ed="#P" n="98"/>humanam. Secundo arguitur assumpta maiore in 
+          <lb ed="#P" n="99"/>argumento precedenti: puta: illi conuenit orare etes 
+          <lb ed="#P" n="100"/>addatur minor: voluntas creata anime christi est 
+          <lb ed="#P" n="101"/>husmodi: igitur illi conuenit orare. Tertio: cuius est 
+          <lb ed="#P" n="102"/>gratias agere de acceptis: eius est orare pro 
+          ac<lb ed="#P" n="103" break="no"/>cipiendis. sed christus egit gratias pro acceptis. 
+          <lb ed="#P" n="104"/>Iohannis. xi. pater gratias ago tibi quoniam 
+          au<lb ed="#P" n="105" break="no"/>disti me: ergo eius fuit orare pro accipiendis secundum 
+          <lb ed="#P" n="106"/>naturam humanam.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e193">
+          ¶ Quarta conclusio: christus 
+          <lb ed="#P" n="107"/>auditus est in sua oratione in omniillo quod 
+          volun<lb ed="#P" n="108" break="no"/>tate deliberata voluit: sed non in illo pro quo 
+          con<lb ed="#P" n="109" break="no"/>ditionallter orauit: aut voluntate vt natura 
+          pri<lb ed="#P" n="110" break="no"/>or pars patet per apostolum ad hebreos. v. 
+          dicen<lb ed="#P" n="111" break="no"/>tem: qui in diebus carnis sue preces supplicatio 
+          <lb ed="#P" n="112"/>nesque ad eum qui posset eum saluum facere a 
+          mor<lb ed="#P" n="113" break="no"/>te cum clamore valido: et lachrymis offerens 
+          ex<lb ed="#P" n="114" break="no"/>auditus est pro sua reuerentia. et Ioannis vndo/ 
+          <lb ed="#P" n="115"/>cimo. ego autem sciebam: quia semper me audis. 
+          <lb ed="#P" n="116"/>Alia pars patet: orauit multa pro se et suis 
+          mem<lb ed="#P" n="117" break="no"/>bris: que non voluit efficaciter: sed sub 
+          conditio<lb ed="#P" n="118" break="no"/>ne: vt pater si possibile sit transeat a me calix iste. 
+          <lb ed="#P" n="119"/>pater dimitte illis quia nesciunt quid faciunt. in¬ 
+          <pb ed="#P" n="40-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tellexit: si penitentiam fecerint. similiter psalmista: 
+          <lb ed="#P" n="2"/>clamabo per diem et non exaudies.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e232">
+          ¶ Contra 
+          <lb ed="#P" n="3"/>quid nominis orationis et presupposita in 
+          conclu<lb ed="#P" n="4" break="no"/>sionibus arguitur sic. oratio spectat ad intellectum: 
+          <lb ed="#P" n="5"/>ergo non est actus voluntatis. consequentia est 
+          no<lb ed="#P" n="6" break="no"/>ta. probatur antecedens per Damascenum lib. iii. 
+          <lb ed="#P" n="7"/>ca. xxi. dicent est: oratio est ascensus intellectus ad 
+          <lb ed="#P" n="8"/>deum.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e248">
+          ¶ Respondetur: illud dictum non est quid 
+          <lb ed="#P" n="9"/>nomins orationis. probatio: quia da oppositum: 
+          sequi<lb ed="#P" n="10" break="no"/>tur quod noticia intuitiua dei: similiter abstractiua: 
+          <lb ed="#P" n="11"/>similiter noticia termini spiritus / vel entis / esset 
+          ora<lb ed="#P" n="12" break="no"/>tio: quod diceret nemo. sed vult dicere: in 
+          omni<lb ed="#P" n="13" break="no"/>oratione mens ascendit e eleuatur ad deum vlti 
+          <lb ed="#P" n="14"/>mate. si virginem rogemus: hoc est quod pro nobis de 
+          <lb ed="#P" n="15"/>um intercedat. et cum voluntas non fertur in 
+          inco<lb ed="#P" n="16" break="no"/>gnitum: non potest esse actus voluntatis qui est 
+          om<lb ed="#P" n="17" break="no"/>nino sine actu intellectus preuio / tempore 
+          instan<lb ed="#P" n="18" break="no"/>ti vel natura.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e272">
+          ¶ Secundo arguitur contra primam 
+          <lb ed="#P" n="19"/>conclusionem. christus orauit: ergo pro se vel 
+          pro<lb ed="#P" n="20" break="no"/>aliis. non pro se. pro beatis non est orandum: 
+          pro<lb ed="#P" n="21" break="no"/>sanctorum nemine canit ecclesia missam de requiem. 
+          <lb ed="#P" n="22"/>sed christus fuit beatus a primo instanti sue 
+          pas<lb ed="#P" n="23" break="no"/>sionis. nec pro aliis: tunc omnes alii fuissent 
+          exau<lb ed="#P" n="24" break="no"/>diti: et decederent in gratia: cum ipse erat 
+          exaudi<lb ed="#P" n="25" break="no"/>tus.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e290">
+          ¶ Respondetur: orauit tam pro se quam pro 
+          ali<lb ed="#P" n="26" break="no"/>is pro se / iam patuit: pater si possibile sit transeat 
+          <lb ed="#P" n="27"/>a me caiix iste. pro aliis / recitauimus. sed aliter pro 
+          <lb ed="#P" n="28"/>fe: aliter pro aliis orauit. Unde oratio est ad 
+          ex<lb ed="#P" n="29" break="no"/>cludendum aliquem defectum ab illo pro quo oratur. 
+          <lb ed="#P" n="30"/>Duplex autem est defectus. vnus culpabilis: et cum 
+          <lb ed="#P" n="31"/>nullus talis erat in eo: sed in nobis: hoc modo pro 
+          <lb ed="#P" n="32"/>se non orauit: sed pro aliis. Alius est defectus: sclcet 
+          <lb ed="#P" n="33"/>pena. pro illa remouenda a suo corpore rogauit. 
+          <lb ed="#P" n="34"/>secus est de aliis beatis: quoniam nullus alius est 
+          <lb ed="#P" n="35"/>beatus et passibilis: modo ehristus cum hoc quod erat 
+          <lb ed="#P" n="36"/>beatus: erat viator secundum corpus. pro aliis dicitur 
+          <lb ed="#P" n="37"/>orauit. pro praedestinatis efficaciter: et pro illis erat 
+          <lb ed="#P" n="38"/>exauditus.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e322">
+          ¶ Sed contra hoc arguitur. vel 
+          volun<lb ed="#P" n="39" break="no"/>tas deliberatiua orauit: vel sensualitas. non 
+          pri<lb ed="#P" n="40" break="no"/>mum: quia illa conformabat se voluntati diuine: cuius 
+          <lb ed="#P" n="41"/>mentem cognonit in omnibus in particulari. non secundum: 
+          <lb ed="#P" n="42"/>quia sen sualitas non potest erigi in deum. potentia 
+          <lb ed="#P" n="43"/>sensitiua nullum actum potest habere in deum: nec 
+          <lb ed="#P" n="44"/>in aliquod obiectum non extensum. ergo deus non 
+          <lb ed="#P" n="45"/>cadit sub obiecto eius: ergo non erigitur ad deum: 
+          <lb ed="#P" n="46"/>nec sensualitas tendit in aliquod obiectum non 
+          sen<lb ed="#P" n="47" break="no"/>satum.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e344">
+          ¶ forte dicis (et sic dicendum est ) 
+          sensuali<lb ed="#P" n="48" break="no"/>tas nichil de deo apprehendit: nec rogauit deum: 
+          <lb ed="#P" n="49"/>sed intellectus anime christi: et voluntas circa de 
+          <lb ed="#P" n="50"/>um negociabantur: et voluntas deliberatiua erat 
+          <lb ed="#P" n="51"/>aduocata pro sensualitate apud deum: 
+          interpellan<lb ed="#P" n="52" break="no"/>do pro ea cum rogare nequibat: sicut nesciens 
+          vl<lb ed="#P" n="53" break="no"/>lo modo habere colloquium cum rege: per aliquem 
+          <lb ed="#P" n="54"/>mediatorem hoc procurat.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e362">
+          ¶ Contra hoc arguitur. 
+          <lb ed="#P" n="55"/>ergo sen sualitas rogauit voluntatem liberam quate 
+          <lb ed="#P" n="56"/>nus pro ea intercideret apud deum: et sic sen su 
+          ali<lb ed="#P" n="57" break="no"/>tas habuit noticiam rei spiritualis.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e371">
+          ¶ Secundo 
+          volun<lb ed="#P" n="58" break="no"/>tas deliberata anime christi certo sciebat quod non 
+          <lb ed="#P" n="59"/>impetra ret illud pro quo rogabat: hoc est 
+          intelle<lb ed="#P" n="60" break="no"/>ctus sciebat: ergo incassum rogabat. quis 
+          iudica<lb ed="#P" n="61" break="no"/>ret virum prudentem qui intercederet apud regem¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>pro sorte: et tamen ille certitudinaliter 
+          cognosce<lb ed="#P" n="63" break="no"/>ret quod nichil impetraret: et citius apud deum 
+          infle<lb ed="#P" n="64" break="no"/>xibilem quam apud regem qui crebriter flectitur.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e391">
+          ¶ Ad 
+          <lb ed="#P" n="65"/>primum: negatur quod sensualitas rogauit 
+          voluntatem<lb ed="#P" n="66" break="no"/>vt pro sensualitate intercederet ad deum: quia 
+          ni<lb ed="#P" n="67" break="no"/>chil vult sensualitas circa obiecta impartibilia. 
+          <lb ed="#P" n="68"/>sed voluntas ipsa libere nemine rogante / pro ea 
+          <lb ed="#P" n="69"/>intercessit. quamadmodum aliqui liberales 
+          patroni<lb ed="#P" n="70" break="no"/>succurrunt his qui sibi succurrere nequiunt. Si 
+          di<lb ed="#P" n="71" break="no"/>cas: intellectus et voluntas habent actus 
+          tenden<lb ed="#P" n="72" break="no"/>tes in deum: ergo sensus et sensualitas. ponendo 
+          so<lb ed="#P" n="73" break="no"/>lam animam intellectiuam formam corporis 
+          huma<lb ed="#P" n="74" break="no"/>ni (sicut pono in secundo ) sensualitas includit 
+          animan<lb ed="#P" n="75" break="no"/>et aliquid aliud. idem est obiectum. potentia est 
+          per<lb ed="#P" n="76" break="no"/>fectior entitatiue: ergo tendit in obiectum ita no 
+          <lb ed="#P" n="77"/>bile sicut intellectus vel voluntas.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e422">
+          ¶ 
+          Responde<lb ed="#P" n="78" break="no"/>tur: consequentia est nulla. transeat quod sensualitas 
+          <lb ed="#P" n="79"/>est perfectior entitatiue anima que est pars eiue: 
+          <lb ed="#P" n="80"/>sed non est nobilior potentia. solum est susceptiua 
+          <lb ed="#P" n="81"/>operatiua respectu obiectorum materialium 
+          sub<lb ed="#P" n="82" break="no"/>sensu cadentium.
+        </p>
+        <p xml:id="jm3cbb-e23812-d1e436">
+          ¶ Ad secundum argumentum: 
+          conee<lb ed="#P" n="83" break="no"/>do quod intellectus anime christi sciuit quod non 
+          exau<lb ed="#P" n="84" break="no"/>diretur: vel de virtute sermonis: voluntas anime 
+          <lb ed="#P" n="85"/>christi hoc sciebat: sed non sequitur quod frustra 
+          ora<lb ed="#P" n="86" break="no"/>uit et ficte: cum pro sensualitate orauerit: vertur in 
+          eo<lb ed="#P" n="87" break="no"/>ostenderet veram humanitatem: et ad deum homo 
+          <lb ed="#P" n="88"/>constitutus in periculo confugeret. et quod ipsa secundum 
+          <lb ed="#P" n="89"/>voluntatem deliberatiuam in omnibus deo 
+          pare<lb ed="#P" n="90" break="no"/>bat: dato quod sensualitas mortem abhorreret: 
+          inqui<lb ed="#P" n="91" break="no"/>ens: veruntamen non sicut ego volo: hoc est: 
+          sen<lb ed="#P" n="92" break="no"/>sualitas mea vult. vel ego nomine sensualitatis 
+          pe<lb ed="#P" n="93" break="no"/>tens volo: sed sicut tu vis. sapientissimus 
+          aduoca<lb ed="#P" n="94" break="no"/>tus suam voluntatem iudici infallibili subiiciens. 
+          <lb ed="#P" n="95"/>et sic non erat imprudentia in orando: sed 
+          pruden<lb ed="#P" n="96" break="no"/>tia. crebro prudens vnus / pro alio petit aliquid: 
+          <lb ed="#P" n="97"/>et videt quod non audietur. sed compassionem casus 
+          <lb ed="#P" n="98"/>ostendit sciens quod non deberet audiri: cui quadrat 
+          <lb ed="#P" n="99"/>psalmista psal. xxi. Domine deus meus respice in 
+          <lb ed="#P" n="100"/>me: quare me dereliquisti: hoc est pati secundum 
+          huma<lb ed="#P" n="101" break="no"/>nitatem. et versieulo sequenti: deus meus 
+          clama<lb ed="#P" n="102" break="no"/>bo per diem et non exaudies et nocte: et non ad 
+          in<lb ed="#P" n="103" break="no"/>sipientiam michi. clamauit hora nona diei: Matt. 
+          <lb ed="#P" n="104"/>xxvii. Heli heli lamazabathani. et in nocte 
+          prece<lb ed="#P" n="105" break="no"/>denti: pater / si possibile sit transeat a me calix iste. 
+          <lb ed="#P" n="106"/>et licet non sim exauditus: propterea non sum in 
+          <lb ed="#P" n="107"/>sipiens orando: vt homines non timeant mortem. 
+          <lb ed="#P" n="108"/>nec putent homines se peccare: licet sensualitas 
+          <lb ed="#P" n="109"/>mortem abhorreat et natura. dummodo voluntas 
+          <lb ed="#P" n="110"/>deliberatiua se conformat voluntati dei: et hoc 
+          <lb ed="#P" n="111"/>est nobis dare pulchram doctrinam sapientie. ergo 
+          <lb ed="#P" n="112"/>non est insipientia.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

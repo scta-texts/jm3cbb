@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="60-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e36965"><!-- l3d25q2 -->
+        <head xml:id="jm3cbb-e36965-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e36965-Hd1e101" type="question-title">
+    An omnes articuli explicite credendi in Apostolorum symbolo
+    ponantur</head>
+        <p xml:id="jm3cbb-e36965-d1e104">
+          <lb ed="#P" n="89"/>SEcundo circa hanc 
+          <lb ed="#P" n="90"/>distinctionem. xxv. queritur: an 
+          <lb ed="#P" n="91"/>omnes articuli explicite 
+          cre<lb ed="#P" n="92" break="no"/>dendi / in apostolorum 
+          simbo<lb ed="#P" n="93" break="no"/>lo ponantur.
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e117">
+          ¶ Pro 
+          questio<lb ed="#P" n="94" break="no"/>nis solutione scito Articulus 
+          <lb ed="#P" n="95"/>(sicut dicit Richardus) 
+          nihil<lb ed="#P" n="96" break="no"/>aliud est quam aliquid omnes communiter artans ad 
+          cre<lb ed="#P" n="97" break="no"/>dendum. et dicitur simbolum a sin quod est con. et bolus 
+          <lb ed="#P" n="98"/>morsellus: quia quilibet. xii. apostolorum apposuit 
+          <lb ed="#P" n="99"/>vnum morsellum de istis articulis: quorum collectio 
+          <lb ed="#P" n="100"/>dicitur simbolum apostolorum. sed de eorum numero 
+          <lb ed="#P" n="101"/>penes quid distinguntur / est difficultas. aliqui 
+          po<lb ed="#P" n="102" break="no"/>nunt. xii. articulos: quia duodecim apostolol illos 
+          con<lb ed="#P" n="103" break="no"/>posuerunt. sed melior est articulorum partitio 
+          per<lb ed="#P" n="104" break="no"/>ipsa credibilia. tum primo: propter ordinem circa 
+          ipsa<lb ed="#P" n="105" break="no"/>credibilia: potest quis facilius illa memorie 
+          com<lb ed="#P" n="106" break="no"/>mendare. tum secundo: non omnes conueniunt de 
+          ordi<lb ed="#P" n="107" break="no"/>ne apostolorum in compositione articulorum: et est quaestio 
+          <lb ed="#P" n="108"/>facti in fide non contenti. propterea de ordine 
+          apo<lb ed="#P" n="109" break="no"/>stolorum / quis apostolus hanc particulam adiecit: e 
+          <lb ed="#P" n="110"/>quis illam: non est certum: nec curandum: cum erant 
+          <lb ed="#P" n="111"/>edocti omnes a spiritu sancto: et eius erant 
+          orga<lb ed="#P" n="112" break="no"/>na et scribe in simboli compositione.
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e161">
+          ¶ Capiendo 
+          <lb ed="#P" n="113"/>ergo ordinem penes credenda: dicitur quod sunt 
+          septem<lb ed="#P" n="114" break="no"/>articuli circa diuinitatem secundum se consideratam. et 
+          septen<lb ed="#P" n="115" break="no"/>de humanitate christi. circa deum in se consideratum: 
+          <lb ed="#P" n="116"/>consideramus naturam / personam / operationem deo 
+          <lb ed="#P" n="117"/>propriam. In natura est vnitas: in personis trinitas: 
+          <lb ed="#P" n="118"/>in effectibus quos solus deus in creaturis 
+          opera<lb ed="#P" n="119" break="no"/>tur est bonorum participatorum triplicitas. secundum ista 
+          <lb ed="#P" n="120"/>sunt septem articuli: quorum quattuor deum respiciunt 
+          <lb ed="#P" n="121"/>quantum ad intrinseca: hoc est sine vllo respectu ad crea¬ 
+          <pb ed="#P" n="61-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>turas. Primus articulus respicit nature 
+          vnita<lb ed="#P" n="2" break="no"/>tem: qui est credo in vnum deum: non in plures. 
+          <lb ed="#P" n="3"/>ita quod sensus est: credo quod est vnus deus et non plures. 
+          <lb ed="#P" n="4"/>reliqui tres articuli circa intrinseca dei sequuntur: quo 
+          <lb ed="#P" n="5"/>rum primus / e secundus est in ordine / ad diuinitatem in se: 
+          <lb ed="#P" n="6"/>patrem omnipotentem. tertius: et in dominum Iesum 
+          <lb ed="#P" n="7"/>christum filium eius vnicum dominum nostrum. Quartus 
+          ar<lb ed="#P" n="8" break="no"/>ticulus est: credo in spiritum sanctum. seruatur 
+          or<lb ed="#P" n="9" break="no"/>do originis inter personas diuinas. tres alii 
+          ar<lb ed="#P" n="10" break="no"/>ticuli de deo pro quanto creaturas respicit: 
+          expri<lb ed="#P" n="11" break="no"/>munt triplicem operationem deo propriam: quantum 
+          <lb ed="#P" n="12"/>ad tres effectus in creaturis: qui sunt hi: creare / 
+          <lb ed="#P" n="13"/>iustificare / beatificare / que operationes soli deo 
+          <lb ed="#P" n="14"/>conueniunt. solus deus creat: licet aliqui (sine 
+          pro<lb ed="#P" n="15" break="no"/>batione sufficienti) creationem in rebus minutis 
+          crea<lb ed="#P" n="16" break="no"/>turis dent: vt in prima distinctione quarti dictum 
+          <lb ed="#P" n="17"/>est. solus etiam deus / iustificat / peccata remittendo. 
+          <lb ed="#P" n="18"/>solus etiam beatificat / vitam eternam tribuendo. 
+          li<lb ed="#P" n="19" break="no"/>cet beatus ad suam beatitatem concurrat: hoc non 
+          <lb ed="#P" n="20"/>sufficit ad se beatificare: cum deus hoc 
+          principa<lb ed="#P" n="21" break="no"/>liter facit: et se libere creature communicat: et ei 
+          lumen<lb ed="#P" n="22" break="no"/>gle infundit: sine qui beatus nequit deum videre. 
+          Pri<lb ed="#P" n="23" break="no"/>mam harum operationum exprimit articulus / ille / 
+          crea<lb ed="#P" n="24" break="no"/>torem celie terre. secundam operationem ille articulus / 
+          <lb ed="#P" n="25"/>sanctam ecclesiam catholicam sanctorum commnionem 
+          remis<lb ed="#P" n="26" break="no"/>sionem peccatorum: cuius sensus est: deus 
+          sanctifi<lb ed="#P" n="27" break="no"/>cat ecclesiam catholicam in qua est communio 
+          san<lb ed="#P" n="28" break="no"/>ctorum et remissio peccatorum. tria hec concurrunt 
+          <lb ed="#P" n="29"/>in iustificatione impii: peccatorum remissio / gratie 
+          <lb ed="#P" n="30"/>infusio / et communio sanctorum: quo peccator 
+          iusti<lb ed="#P" n="31" break="no"/>ficatus participat omnia bona sanctorum omnium: 
+          <lb ed="#P" n="32"/>iuxta illud prophete: particeps ego sum 
+          timen<lb ed="#P" n="33" break="no"/>tium te / et custodientium mandata tua. charitas 
+          <lb ed="#P" n="34"/>autem non querit que sua sunt: i. ad corintios. xiii. sed 
+          <lb ed="#P" n="35"/>facit omnia communia. tertiam operationem: 
+          <lb ed="#P" n="36"/>scilicet beatificationem: exprimit ille articulus / 
+          car<lb ed="#P" n="37" break="no"/>nis resurrectionem vitam eternam amen: ita quod sit 
+          <lb ed="#P" n="38"/>sensus: deus resuscitabit nos et dabit nobis vitam eter 
+          <lb ed="#P" n="39"/>nam pro bonis operibus. Sic ergo patet distinctio 
+          <lb ed="#P" n="40"/>septem articulorum deum secundum se concernentium: quorum 
+          <lb ed="#P" n="41"/>quattuor ad dei intrinseca: et tres ad extrinseca: 
+          <lb ed="#P" n="42"/>pertinent.
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e279">
+          ¶ Rursus septem articuli respiciunt christum 
+          <lb ed="#P" n="43"/>quantum ad naturam assumptam. quorum primus tangit 
+          <lb ed="#P" n="44"/>verbi incarnationem: qui tangitur in simbolo / cum 
+          di<lb ed="#P" n="45" break="no"/>citur: qui conceptus est de spiritu sancto. secundus eius 
+          <lb ed="#P" n="46"/>de virgine natiuitatem: et tangitur cum dicitur: 
+          na<lb ed="#P" n="47" break="no"/>tus ex maria virgine. tertius passionem tam git: qui 
+          <lb ed="#P" n="48"/>comprehendit crucifixionem / mortem / et 
+          sepultu<lb ed="#P" n="49" break="no"/>ram: ideo hoc totum passus sub pontio pilato 
+          cru<lb ed="#P" n="50" break="no"/>cifixus mortuus et sepultus / ad vnum articulum 
+          per<lb ed="#P" n="51" break="no"/>tinet. quartus articulus descensum ad inferos tangit: 
+          <lb ed="#P" n="52"/>in propositione / descendit ad inferna. Quintus 
+          articu<lb ed="#P" n="53" break="no"/>lus resurrectionem tangit hic / tertia die resurrexit 
+          <lb ed="#P" n="54"/>a mortuis. Sextus: ad celum a scensionem: 
+          scili<lb ed="#P" n="55" break="no"/>cet iste: ascendit ad celos sedet ad dexteram dei 
+          pa<lb ed="#P" n="56" break="no"/>tris omnipotentis. Septimus aduentum christi ad 
+          <lb ed="#P" n="57"/>iudicium explicat hic / qui venturus est iudicare 
+          vi<lb ed="#P" n="58" break="no"/>uos et mortuos.
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e316">
+          ¶ Hunc tamen ordinem apostoli consulto 
+          <lb ed="#P" n="59"/>non seruarunt: propter faciliorem simplicium 
+          intelle<lb ed="#P" n="60" break="no"/>ctum et memoriam tenatiorem habendam. considerarunt 
+          <lb ed="#P" n="61"/>primo ordinem nature et personarum: quia vnitas: pu¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>ta essentia diuina est in tribus: ab illa exorsi sunt. 
+          <lb ed="#P" n="63"/>postea posuerunt personas diuinas secundum ordinem 
+          <lb ed="#P" n="64"/>originis cum suis appropriatis. posuerunt pratrem 
+          <lb ed="#P" n="65"/>et adiecerunt omnipotentem. postea creationem. 
+          crea<lb ed="#P" n="66" break="no"/>tio omnipotentiam respicit. deinde inceperunt 
+          <lb ed="#P" n="67"/>ab articulis secunde persone. primo ab articulo 
+          con<lb ed="#P" n="68" break="no"/>cernente naturam diuinam in eo: deinde posuerunt 
+          <lb ed="#P" n="69"/>articulos concernentes naturam ab eo assumptam: 
+          <lb ed="#P" n="70"/>quorum vltimus / est aduentus ad iudicium: quia in 
+          <lb ed="#P" n="71"/>forma humana iudicabit: secundum illud actuum primo: 
+          <lb ed="#P" n="72"/>quamadmodum vidistis eum ascendentem sic veniet. postea 
+          <lb ed="#P" n="73"/>articuli concernentes spatndum sancatum cum suo appropria 
+          <lb ed="#P" n="74"/>to: credo in spiritum sanctum: deinde ponuntur ara 
+          <lb ed="#P" n="75"/>ticuli duas operationes trinitati exprimentes: que 
+          <lb ed="#P" n="76"/>spiritui sancto appropriantur: scilicet impii 
+          iustifi<lb ed="#P" n="77" break="no"/>catio / et glorificatio: quorum principium est diuina 
+          <lb ed="#P" n="78"/>bonitas: que spiritui sancto appropriatur Etiam 
+          pro<lb ed="#P" n="79" break="no"/>pter memoriam faciliorem seruarunt ordinem 
+          tempo<lb ed="#P" n="80" break="no"/>ris. quod patet post articulum eternitatis diuine 
+          na<lb ed="#P" n="81" break="no"/>ture et prime persone / additur articulus 
+          creatio<lb ed="#P" n="82" break="no"/>nis: que est opus primum in tempore: iuxta illud 
+          Ge<lb ed="#P" n="83" break="no"/>neseos. i. In principio creauit deus celum terram. 
+          <lb ed="#P" n="84"/>in tempore sequitur incarnatio secunde persone in 
+          di<lb ed="#P" n="85" break="no"/>uinis / et acta et passa in carne secundum ordinem 
+          tempo<lb ed="#P" n="86" break="no"/>ris. hinc de tertia persona cum suis appropriati 
+          lo<lb ed="#P" n="87" break="no"/>quuti sunt: que terminantur in retributione finalis 
+          <lb ed="#P" n="88"/>glorie. De ordine apostolorum in particulis adden 
+          <lb ed="#P" n="89"/>dis fide non constat: nec aliunde sufficienter. satius 
+          <lb ed="#P" n="90"/>iudico de illo dubitare / quam dubium pro certo 
+          scribe<lb ed="#P" n="91" break="no"/>re: hoc est vero simile / quod tenuerunt ordinem in dignita 
+          <lb ed="#P" n="92"/>te inter se: quia ex familiaritate cum christo praerogatiuis 
+          <lb ed="#P" n="93"/>eis concessis cognoscimus quattuor fuisse praecipuos: 
+          sci<lb ed="#P" n="94" break="no"/>licet duos fratres de Dethsaida: et filios 
+          Tebe<lb ed="#P" n="95" break="no"/>dei: quorum praecipuus fuit simon Petrus. ordinem 
+          di<lb ed="#P" n="96" break="no"/>gnitatis inter se de aliis octo non possumus ita 
+          <lb ed="#P" n="97"/>bene communiecturare ex scriptura sacra. de hoc nobis 
+          <lb ed="#P" n="98"/>dubitandum est. dignitatem inter se: et ex consequentim 
+          <lb ed="#P" n="99"/>ordinem: cognouerunt. a Petro ergo primo 
+          inchos<lb ed="#P" n="100" break="no"/>tum est: postea ad tres istos alios nominatos: 
+          po<lb ed="#P" n="101" break="no"/>stea ad alios per ordinem. hec est michi nota: 
+          hi<lb ed="#P" n="102" break="no"/>duodecim composuerunt simbolum hoc fidei. et hec 
+          <lb ed="#P" n="103"/>dubia: hanc particulam adequate composuit iste: et 
+          <lb ed="#P" n="104"/>illam particulam / ille. vt si quilibet duodecim viro 
+          <lb ed="#P" n="105"/>rum poneret lapidem vnum in cumulum: et michi 
+          re<lb ed="#P" n="106" break="no"/>uelaretur: et non quis posuit hunc lapidem vel 
+          il<lb ed="#P" n="107" break="no"/>lum: tunc essem certus quod hi duodecim homines 
+          <lb ed="#P" n="108"/>fecerunt hunc lapidum cumulum: sed nescirem quis 
+          deter<lb ed="#P" n="109" break="no"/>minate posuit aliquem determinatum lapidem. 
+          Pau<lb ed="#P" n="110" break="no"/>lus et Darnabas non erant de hoc sacro 
+          duode<lb ed="#P" n="111" break="no"/>nario apostoloru numero: sed apostoli ad partem. 
+          <lb ed="#P" n="112"/>propterea nihil posuerunt in simbolo. simbolum 
+          apo<lb ed="#P" n="113" break="no"/>stolorum dicitur maius / quia ab apostolis 
+          condi<lb ed="#P" n="114" break="no"/>tum erat: qui erant ecclesie bases. et subinissa voce 
+          <lb ed="#P" n="115"/>canitur quiam ecclesia tempore compositionis eius 
+          <lb ed="#P" n="116"/>latuit. simbolum Nicenum et Athanasii erant 
+          postea<lb ed="#P" n="117" break="no"/>conditi contra hereticos insurgentes suo tempore.  
+          <lb ed="#P" n="118"/>propterea contra illas hereses insistunt: et exponuntis 
+          <lb ed="#P" n="119"/>apostolorum simbolum: et ipsum particularius expli et 
+          <lb ed="#P" n="120"/>cant in his que contingunt illas hereses: et quia  
+          <lb ed="#P" n="121"/>erat iam publica ecclesia / et in aperto procedens / 
+          <lb ed="#P" n="122"/>publice canitur post euangelium: quia de euangelistis 
+          <pb ed="#P" n="61-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>trahuntur simbola. sed quia non quilibet poterat. 
+          <lb ed="#P" n="2"/>legere totam sacram scripturam: magis 
+          necessa<lb ed="#P" n="3" break="no"/>ri a collecta sunt in vnum ex diuersis scripture 
+          lo<lb ed="#P" n="4" break="no"/>cis: vt quilibet articulos in manibus haberet. 
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e472">
+          <lb ed="#P" n="5"/>¶ his premissis. Respondetur ad questionem: 
+          <lb ed="#P" n="6"/>multa sunt a variis credenda que non continenter in 
+          <lb ed="#P" n="7"/>apostolorum simbolo. patet: prelati et qui aliis 
+          pre<lb ed="#P" n="8" break="no"/>sunt in spurimalibus tenentur plura alia scire. 
+          simbo<lb ed="#P" n="9" break="no"/>lum autem datur pro communi plebe.
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e485">
+          ¶ Secunda 
+          con<lb ed="#P" n="10" break="no"/>clusio: multa sunt alia a simplicibus credenda ex 
+          <lb ed="#P" n="11"/>plicite que non continentur formaliter in apostolorum 
+          <lb ed="#P" n="12"/>simbolo. patet de existentia corporis christi in 
+          eucha<lb ed="#P" n="13" break="no"/>ristia: et quod baptismus est sacramentum fidei necessa 
+          <lb ed="#P" n="14"/>rium ad salutem. patet hec conclusio: de summa trinit. 
+          <lb ed="#P" n="15"/>et fi. catho. ca. firmiter. idem patet de processione 
+          <lb ed="#P" n="16"/>spiritus sancti a patre et filio: ex determinatione 
+          <lb ed="#P" n="17"/>concilii niceni.
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e505">
+          ¶ Contra secundam conclusionem 
+          argui<lb ed="#P" n="18" break="no"/>tur: si corpus christi esse in eucharistia / est de fide: et 
+          <lb ed="#P" n="19"/>quod spiritus sanctus est a patre et filio / est de fide: 
+          se<lb ed="#P" n="20" break="no"/>quitur quod ecclesia potest condere articulum fidei. 
+          con<lb ed="#P" n="21" break="no"/>sequens est falsum: ergo et antecedens. quod sequatur 
+          <lb ed="#P" n="22"/>patet: homo poterat dubitare de his ante 
+          deter<lb ed="#P" n="23" break="no"/>minationem ecclesie: non autem post ecclesie determi 
+          <lb ed="#P" n="24"/>nationem: ergo ecclesia condidit articulum fidei. 
+          <lb ed="#P" n="25"/>Q consequens sit falsum arguitursic: aut veritas 
+          <lb ed="#P" n="26"/>dicenda est catholica: quia est diuinitus reuelata. 
+          <lb ed="#P" n="27"/>aut in scriptura diuina contenta: aut quia ab 
+          eccle<lb ed="#P" n="28" break="no"/>sia recepta et approbata: aut quiam ex aliquo 
+          pre<lb ed="#P" n="29" break="no"/>dictorum in bonam consequentia sequitur. si duo prima: 
+          <lb ed="#P" n="30"/>reuelatio dei / aut contineri in sacra scriptura non 
+          <lb ed="#P" n="31"/>dependet a voluntate hominm: ergo est articulus sine 
+          <lb ed="#P" n="32"/>approbatione eccilsie: siue capiatur ecclsia 
+          vniuersa<lb ed="#P" n="33" break="no"/>lis: siue caput ecclesie. si tertium / quia ab ecclesia 
+          <lb ed="#P" n="34"/>receptaet approbata: queritur quare ecclesia 
+          ta<lb ed="#P" n="35" break="no"/>lem articulum recepit: aut quia sibi diuinitus est 
+          <lb ed="#P" n="36"/>reuelatus: et tunc absque receptione et 
+          approbatio<lb ed="#P" n="37" break="no"/>ne esset veritas catholica: quia est veritas 
+          diuini<lb ed="#P" n="38" break="no"/>tus reuelata et inspirata. aut ecclesia eam 
+          rece<lb ed="#P" n="39" break="no"/>pit / quia in scriptura diuina eam inuenit: et tunc 
+          <lb ed="#P" n="40"/>iterum absque tali receptione et approbatione esset 
+          <lb ed="#P" n="41"/>catholica: eo quod in scriptura diuina continetur. aut 
+          <lb ed="#P" n="42"/>ecclesia recepit articulum / quia ei placet: tunc 
+          eccle<lb ed="#P" n="43" break="no"/>sia faciendo veritatem catholicam inniteretu 
+          huma<lb ed="#P" n="44" break="no"/>ne voluntati tantum: et ita fides nostra esset in 
+          volun<lb ed="#P" n="45" break="no"/>tate hominum: contra illud prime corin. ii. 
+          sermo<lb ed="#P" n="46" break="no"/>meus predicatio mea non in persuasibilibus 
+          hu<lb ed="#P" n="47" break="no"/>mane scientie verbis: ergo multofortius non in 
+          vo<lb ed="#P" n="48" break="no"/>luntatibus humanis.
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e575">
+          ¶ Respondetur: in primis / 
+          <lb ed="#P" n="49"/>ecclesia facit quod propositio que erat tenta dubia et 
+          <lb ed="#P" n="50"/>probabilis ad vtranqe partem licite ante 
+          determi<lb ed="#P" n="51" break="no"/>nationem: post determinationem non teneatur 
+          ampli<lb ed="#P" n="52" break="no"/>us dubia: sed inconcussa et certa. et sic artat nos ad 
+          <lb ed="#P" n="53"/>(credendum et non discredendum: vbi licite poteramus 
+          <lb ed="#P" n="54"/>ante discredere: ecclesia tamen non mutat 
+          propo<lb ed="#P" n="55" break="no"/>sitionem falsam in veram: propositio illa que 
+          teneba<lb ed="#P" n="56" break="no"/>tur probleumatice ante determinationem ecclsie non 
+          <lb ed="#P" n="57"/>erat falsa: sed semper vera: si fuisset formata. 
+          eccle<lb ed="#P" n="58" break="no"/>sia innititur in determinatione sua quantum potest 
+          sacre<lb ed="#P" n="59" break="no"/>seri pture: et deum rogat vt eam illuminet de 
+          ve<lb ed="#P" n="60" break="no"/>lritate illius. modo deus hoc facit in talibus. eodem 
+          <lb ed="#P" n="61"/>spiritu scriptura exposita est / quo reuelata est quad 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>non deficit fides ab ecclia. dico quod ecclsia non 
+          appio<lb ed="#P" n="63" break="no"/>bat propositionem vel reprobat eam in sensu quo 
+          appro<lb ed="#P" n="64" break="no"/>banda vel reprobanda est / qula sibi placet: sic quod 
+          sun<lb ed="#P" n="65" break="no"/>velle sit causa. sed causa est: quia deus non deest 
+          <lb ed="#P" n="66"/>ecclesie in materia fidei: sed eam illuminat in 
+          sen<lb ed="#P" n="67" break="no"/>su scripture / qui sensus est catholicus et hoc 
+          intel<lb ed="#P" n="68" break="no"/>ligo in ecclesia indubitata vniuersali: pro quathri 
+          <lb ed="#P" n="69"/>stus rogauit ne deficeret fides eius Reuelatio 
+          spi<lb ed="#P" n="70" break="no"/>ritus sancti ecclesie de veritate illius propositionis 
+          <lb ed="#P" n="71"/>est causa quare est articulus: et non voluntas 
+          ho<lb ed="#P" n="72" break="no"/>minum. sic deus homines illuminat vt veritatem 
+          expli<lb ed="#P" n="73" break="no"/>cent: quam si explanauerint: non est amplius 
+          dubitan<lb ed="#P" n="74" break="no"/>dum: ex his patet an ecclesia faciat articulum. 
+          In<lb ed="#P" n="75" break="no"/>summa dicimus: ecclesia facit et ecclesie 
+          determina<lb ed="#P" n="76" break="no"/>tio: quod propositio que tenebatur licite probleumatice / 
+          <lb ed="#P" n="77"/>non amplius teneatur talis: sed hoc non venit a 
+          <lb ed="#P" n="78"/>voluntate hominum ecclesie: fed a deo inspirante 
+          ve<lb ed="#P" n="79" break="no"/>ritatem ecclesie: et quia veritas illius 
+          propositio<lb ed="#P" n="80" break="no"/>nis est a deo inspirata ecclesie: illa propositio est 
+          ar<lb ed="#P" n="81" break="no"/>ticulus: et ecclesia non facit hoc.
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e652">
+          ¶ Contra hoc 
+          ar<lb ed="#P" n="82" break="no"/>guitur: quando vniuersale concilium est rite 
+          congre<lb ed="#P" n="83" break="no"/>gatum: primum quod regulariter faciunt / est determi 
+          <lb ed="#P" n="84"/>nare quod illud concilium est in spiritu sancto legitime 
+          <lb ed="#P" n="85"/>congregatum. tunc sic: hec propositio / hoc 
+          conclliu<lb ed="#P" n="86" break="no"/>est in spiritu sancto legitime congregatum / est 
+          arti<lb ed="#P" n="87" break="no"/>culus fidei. et si sic: ecclesia facit nouum articulum. 
+          <lb ed="#P" n="88"/>si non est articulus fidei: ergo licet discredere post 
+          <lb ed="#P" n="89"/>illam solennem determinationem: et assentire huic: 
+          <lb ed="#P" n="90"/>hoc concilium non est in spiritu sancto legitime 
+          con<lb ed="#P" n="91" break="no"/>gregatum. Dicis: multa non sunt dubitabilia que 
+          <lb ed="#P" n="92"/>non sunt de fide: vt ego ero saluatus. Secundo 
+          dico<lb ed="#P" n="93" break="no"/>si indubitatum concilium sit legitime congregatum 
+          <lb ed="#P" n="94"/>pro extirpandis viciis et inserendis moribus: 
+          il<lb ed="#P" n="95" break="no"/>la propositio est de fide: et nego quod homines illum 
+          articulum<lb ed="#P" n="96" break="no"/>condunt: sed deus illam veritatem hominibus 
+          re<lb ed="#P" n="97" break="no"/>uelat: quatenus consequenter bene procedat: et eis 
+          <lb ed="#P" n="98"/>credatur: quia post determinationem illam non licet 
+          <lb ed="#P" n="99"/>amplius dubitare de determinatis in fide a concilio. 
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e694">
+          <lb ed="#P" n="100"/>¶ Circa dicta dubitatur: hec propositio deus est 
+          <lb ed="#P" n="101"/>potest in lumine naturali sciri. ergonon est data 
+          <lb ed="#P" n="102"/>tanquam credenda: cum in alio lumine sciri potest. 
+        </p>
+        <p xml:id="jm3cbb-e36965-d1e703">
+          <lb ed="#P" n="103"/>¶ Respondetur non potest sciri a rudibus et a 
+          to<lb ed="#P" n="104" break="no"/>ta multitudine: propterea traditur tanquam 
+          articu<lb ed="#P" n="105" break="no"/>lus primus. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

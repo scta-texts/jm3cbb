@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="11-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e06351"><!-- l3d3q1 -->
+        <head xml:id="jm3cbb-e06351-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e06351-Hd1e101" type="question-title">An christifera virgo fuerit in peccato originali concepta, an114
+    nata in rerum natura sancta</head>
+        <p xml:id="jm3cbb-e06351-d1e104">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>IN hac distinctio 
+          <lb ed="#P" n="63"/>ne tertia magister loquitur de 
+          <lb ed="#P" n="64"/>virginis sanctificatione: in 
+          <lb ed="#P" n="65"/>ca. iii. dicit quod christus non fuit 
+          <lb ed="#P" n="66"/>decimatus in abraham sicut 
+          le<lb ed="#P" n="67" break="no"/>ui.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e122">
+          ¶ Circa hanc materiam 
+          pro<lb ed="#P" n="68" break="no"/>portionabiliter tria inquiram. 
+          <lb ed="#P" n="69"/>Primo: an christifera virgo fuerit in peccato 
+          ori<lb ed="#P" n="70" break="no"/>ginali concepts: vel nata in rerum natura 
+          sancta<lb ed="#P" n="71" break="no"/>Secundo inquiram ( licet ipsa non fuerit in 
+          ori<lb ed="#P" n="72" break="no"/>ginali noxa concepta ) an ipsa poterat in ea 
+          stetis<lb ed="#P" n="73" break="no"/>se per vnum precise instans. Tertio circa corpus 
+          <lb ed="#P" n="74"/>christi et eius decimationem inquiram.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e140">
+          ¶ 
+          Pri<lb ed="#P" n="75" break="no"/>mo ergo quero: an christifera virgo concepta 
+          fue<lb ed="#P" n="76" break="no"/>rit sancta. Explicabo duos terminos in 
+          questfio<lb ed="#P" n="77" break="no"/>ne positos: postea conclusiue responsurus ad 
+          questio<lb ed="#P" n="78" break="no"/>nem. Duplex est conceptio: quedam carnis: que fit 
+          <lb ed="#P" n="79"/>in seminum commixtione: que dicitur conceptio 
+          semi<lb ed="#P" n="80" break="no"/>nis / que animationem precedit tempore / ex 
+          questio<lb ed="#P" n="81" break="no"/>ne precedenti. Alia est conceptio in fetus animatio 
+          <lb ed="#P" n="82"/>ne: que est conceptio hominis vel natiuitatis in 
+          <lb ed="#P" n="83"/>rerum natura: secundum illud Mat. i. quod natum estin ea de 
+          <lb ed="#P" n="84"/>spiritu sancto est. Alia est natiuitas extra vterum in 
+          <lb ed="#P" n="85"/>auram: et est vocata natiuitas apud vulgus.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e167">
+          ¶ 
+          San<lb ed="#P" n="86" break="no"/>ctitas multiphariam accipitur. vno modo pro 
+          <lb ed="#P" n="87"/>omni illo quod a prophanis separatur et cultui 
+          diui<lb ed="#P" n="88" break="no"/>no mancipatur siue fuerit animatum siue 
+          inanima<lb ed="#P" n="89" break="no"/>tum: vt Exodi. iiii. assumpto vnctionis oleo 
+          vn<lb ed="#P" n="90" break="no"/>ges tabernaculum cum vasis suis vt sanctificentur 
+          <lb ed="#P" n="91"/>altare olocausti et omnia vasa eius / labrum cum base 
+          <lb ed="#P" n="92"/>sua: omnia vnctionis oleo consecrabis: vt sint sancta 
+          <lb ed="#P" n="93"/>sanctorum.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e187">
+          ¶ Secundo modo accipitur 
+          sanctitas<lb ed="#P" n="94" break="no"/>pro illo qui est peccati expers et potest peccare: 
+          <lb ed="#P" n="95"/>et sic capitur. i. ad thess. iiii. non vocauit nos domins in 
+          <lb ed="#P" n="96"/>immundiciam: sed in sacatificatione.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e196">
+          ¶ Sanctitas 
+          ter<lb ed="#P" n="97" break="no"/>tio modo capitur pro abstinentia a veneriis: 
+          quia<lb ed="#P" n="98" break="no"/>hoc reddit homies sanctos primo modo: sic capitur 
+          <lb ed="#P" n="99"/>exodi. xix. vbi praecipitur moysi sanctificare 
+          popu<lb ed="#P" n="100" break="no"/>lum: vade inquit sanctifica populum hodie et cras / 
+          <lb ed="#P" n="101"/>et lauent vestimenta: vbi glosa dicit quod 
+          sanctifica<lb ed="#P" n="102" break="no"/>tio illa erat abstinentia a mulieribus. Simile 
+          pri<lb ed="#P" n="103" break="no"/>mi Reg. xxi. legimus: vbi cum quereretur a 
+          Daui<lb ed="#P" n="104" break="no"/>de si mundi sunt pueri / maxime a mulieribus: 
+          re<lb ed="#P" n="105" break="no"/>spondit Dauid. Et si de mulieribus agitur / 
+          conti<lb ed="#P" n="106" break="no"/>nuimus ab heri et nudiustertius: et sunt vasa 
+          pue<lb ed="#P" n="107" break="no"/>rorum sancta.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e222">
+          ¶ Quarto modo accipitur 
+          sancti<lb ed="#P" n="108" break="no"/>tas pro confirmatione in bono: et sic dicitur 
+          san<lb ed="#P" n="109" break="no"/>ctum / quia firmum: secundum illud plal. Quis requiescet in 
+          <lb ed="#P" n="110"/>monte sancto tuo: innocens manibus etcur. Sermo 
+          <lb ed="#P" n="111"/>est potissimum de sanctitate secundo modo: et 
+          loqui<lb ed="#P" n="112" break="no"/>mur de conceptione secundo modo.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e235">
+          ¶ Dis terminis 
+          <lb ed="#P" n="113"/>explicatis pono quinque conclusiones questioni re 
+          <lb ed="#P" n="114"/>sponsiuas. Prima est: deus poterat preseruare / 
+          <lb ed="#P" n="115"/>beatam virginem ne vnquam fuisset concepta in culpa: et 
+          <lb ed="#P" n="116"/>eam preseruare vt fuisset concepta sancta. Secunda 
+          con<lb ed="#P" n="117" break="no"/>clio: diua virgo nata est sancta extra vterum. 
+          <lb ed="#P" n="118"/>Tertia conclusio: decuit deum preseruasse 
+          cristiferam<lb ed="#P" n="119" break="no"/>virginem ne vnquam fuisset per vnum instans in 
+          origi<lb ed="#P" n="120" break="no"/>nali peccato. Quarta conclusio: ita factum est 
+          quod<lb ed="#P" n="121" break="no"/>nna virso no est in oisinalipeto concenta: sed¬ 
+          <pb ed="#P" n="11-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          <lb ed="#P" n="2"/>numquam peccauit venialiter.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e266">
+          ¶ Prima conclusio 
+          pro<lb ed="#P" n="3" break="no"/>batur: beata virgo semel fuit in vita sctam:et quali 
+          <lb ed="#P" n="4"/>tercunqe fuerat in vita deus poterat fecisse eam 
+          <lb ed="#P" n="5"/>tota vita sua: igitur. Secundo arguitur ad idem adam 
+          <lb ed="#P" n="6"/>non est conceptus in peccato nec eua: ergo batam virgo 
+          <lb ed="#P" n="7"/>poterat concipi sine peccato.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e280">
+          ¶ Secunda conclusio 
+          <lb ed="#P" n="8"/>probatur: ecclesia celebrat natiuitatem diue 
+          virgi<lb ed="#P" n="9" break="no"/>nis: ergo ipsa est nata sancta. Preterea: ita erat 
+          <lb ed="#P" n="10"/>de Ioanne et hieremia: vt patet hieremie. i. et 
+          <lb ed="#P" n="11"/>Luce. i. ergo a fortiore ita est de virgine.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e291">
+          ¶ 
+          Ter<lb ed="#P" n="12" break="no"/>tia conclusio probatur: adam est productus sine 
+          pec<lb ed="#P" n="13" break="no"/>cato: et similitereua: sed non decuit euam primam 
+          ma<lb ed="#P" n="14" break="no"/>trem concipi et produci sine peccato / et virginem 
+          con<lb ed="#P" n="15" break="no"/>cipi in peccato. Secundo arguitur: diua virgo est 
+          <lb ed="#P" n="16"/>regina celi et imperatrix orbis: ergo nec decuit 
+          <lb ed="#P" n="17"/>virginem in peccato nasci: cum imperatrix augusta 
+          <lb ed="#P" n="18"/>est absoluta a legibus comunibus penalibus: vt assue 
+          <lb ed="#P" n="19"/>rus fecit in hester.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e311">
+          ¶ Quarta conclusio probatur 
+          <lb ed="#P" n="20"/>auctoritate Aug. in libro de natura et gratia. ca. 
+          <lb ed="#P" n="21"/>viii. excepta sctam virgine Maria de qua popter 
+          ho<lb ed="#P" n="22" break="no"/>norem domni nullam prorsus cum de peccatis agitur 
+          ha<lb ed="#P" n="23" break="no"/>beri volo quastionem. Non valet responsio Gregorii 
+          ari<lb ed="#P" n="24" break="no"/>minenss dicentis illic esse sermonem de actuali 
+          pec<lb ed="#P" n="25" break="no"/>cato: cum vniuersaliter loquatur Augustinus: et 
+          nomina<lb ed="#P" n="26" break="no"/>tim de virgine. Si mille auctoritates 
+          vniuersa<lb ed="#P" n="27" break="no"/>les oppositum dicere videantur / hec vna 
+          specia<lb ed="#P" n="28" break="no"/>lis omnes specificat et exponit: sicut in materia 
+          <lb ed="#P" n="29"/>rescriptorum / generali speciale derogat: et in 
+          mo<lb ed="#P" n="30" break="no"/>do loquendi et expositorum hec est regula 
+          commu<lb ed="#P" n="31" break="no"/>nis. Idem tenuit noster Richardus in quodam 
+          ser<lb ed="#P" n="32" break="no"/>mone de hac materia habito: hoc est de 
+          conceptio<lb ed="#P" n="33" break="no"/>ne: quem alter conterraneus sequutus est in hac 
+          di<lb ed="#P" n="34" break="no"/>stinctione: sed Ioannes de neapoli dicit non est 
+          cre<lb ed="#P" n="35" break="no"/>dendum ei quando contradicit sanctis. hoc conclusum 
+          <lb ed="#P" n="36"/>est in concilio basiliensi. Sed dicit Anthoninus 
+          con<lb ed="#P" n="37" break="no"/>cilium basiliense peperit basiliscum. hoc non valet: 
+          <lb ed="#P" n="38"/>iste Anthoninus fuit ordinis predicatorum: qui a 
+          <lb ed="#P" n="39"/>paucis annis retroactis multum solent resistere 
+          il<lb ed="#P" n="40" break="no"/>li determinationi concilii. propterea putatur ab 
+          <lb ed="#P" n="41"/>aliis / vt hanc determinationem attenuaret illud de 
+          <lb ed="#P" n="42"/>concilio asserebat. Ulterius: celebratur festum 
+          <lb ed="#P" n="43"/>conceptionis diue virginis tam rome solenuiter 
+          <lb ed="#P" n="44"/>quam in aliis locis. glosa dicit in capi. pronunciandum 
+          <lb ed="#P" n="45"/>de conse. distinc. iii. in multis locis / et maxime in 
+          <lb ed="#P" n="46"/>anglia non celebratur. falsum est. in anglia 
+          vbili<lb ed="#P" n="47" break="no"/>bet celebratur. et Sixtus quartus historiam ordina 
+          <lb ed="#P" n="48"/>uit od ipsa non est in peccato originali concepta: et si 
+          <lb ed="#P" n="49"/>ipsa non fuisset sctam in conceptione: sed concepta in 
+          <lb ed="#P" n="50"/>pecato originali / minime deberet obseruari. 
+          Insu<lb ed="#P" n="51" break="no"/>per. in mari northmannico variis miraculis 
+          osten<lb ed="#P" n="52" break="no"/>sum est illud festum debere coli tanquam sanctum: hinc 
+          <lb ed="#P" n="53"/>est illud festum nationis northmamnice parisii: et 
+          <lb ed="#P" n="54"/>quilibet bacchalariandus et admittendus ad 
+          fa<lb ed="#P" n="55" break="no"/>cultatem nostram cum est doctor theologus iurat 
+          do<lb ed="#P" n="56" break="no"/>cere et defendere quod christifera virgo sit concepta 
+          sine<lb ed="#P" n="57" break="no"/>originali. fasciculus temporum recitat quendam 
+          pre<lb ed="#P" n="58" break="no"/>dicasse cracouie quod beata virgo fuit concepta in 
+          pec<lb ed="#P" n="59" break="no"/>cato originali: qui diem clausit extremum 
+          sermo<lb ed="#P" n="60" break="no"/>ne nondum finito. In tempore nostro vidimus 
+          op<lb ed="#P" n="61" break="no"/>probria varia his contingere qui ausu temerario 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>batur multis mediis quibus probata est 
+          conclu<lb ed="#P" n="63" break="no"/>sio precedens: vt patet de auctoritate 
+          augustini<lb ed="#P" n="64" break="no"/>in libro de natura et gratia: et per 
+          determinatio<lb ed="#P" n="65" break="no"/>en nem concilii basiliensis in sessione. xxvi. conclusum 
+          <lb ed="#P" n="66"/>est quod numquam fuit virgo subiecta originali vel actua 
+          <lb ed="#P" n="67"/>li: de qua ecclesia canit / tota pulchra es et 
+          macu<lb ed="#P" n="68" break="no"/>la non est in te: si peccasset venialiter / non fuisset 
+          <lb ed="#P" n="69"/>tota pulchra. Ulterius: de Ioanne baptista 
+          ec<lb ed="#P" n="70" break="no"/>clesia canit quod non peccauit venialiter in 
+          heremo<lb ed="#P" n="71" break="no"/>canens / neleui saltem maculare vitam famine 
+          pos<lb ed="#P" n="72" break="no"/>set. Sed dicis: hoc non concludit quod nunquam 
+          pecca<lb ed="#P" n="73" break="no"/>uit venialiter Ioannes: sed solum sequitur quod ad 
+          an<lb ed="#P" n="74" break="no"/>tra deserti teneris sub annis ciuium turmas etem. ne 
+          <lb ed="#P" n="75"/>peccaret venialiter: hoc est euitauit occasiones 
+          <lb ed="#P" n="76"/>venialium. De beatam virgine dicit Dernardus / in epstla 
+          <lb ed="#P" n="77"/>ad lugd. puto quod copiosius munus gratie in eam 
+          <lb ed="#P" n="78"/>descenderet / que non solum eius sanctificaret ortum: 
+          <lb ed="#P" n="79"/>sed etiam deinceps ab omni peccato custodiret 
+          im<lb ed="#P" n="80" break="no"/>munem.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e448">
+          ¶ Contra quartam conclusionem arguitur: 
+          <lb ed="#P" n="81"/>per illud quod scribitur Romanorum. v. in adam omnes 
+          <lb ed="#P" n="82"/>peccauerunt: et ad Romanos. iii. omnes peccauerunt 
+          <lb ed="#P" n="83"/>et egent gratia dei: vbi glosa interlinearis 
+          pec<lb ed="#P" n="84" break="no"/>cauerunt in se vel in adam: multas alias 
+          auctori<lb ed="#P" n="85" break="no"/>tates Gregorius ariminenss ad partem 
+          oppositam<lb ed="#P" n="86" break="no"/>introducit / quibus omnibus vnum verbum sufficit: quod 
+          <lb ed="#P" n="87"/>ille sunt vninersales vere vniuersalitate 
+          loquendi<lb ed="#P" n="88" break="no"/>et non vnluersalitate longica. nunquid est modus 
+          sa<lb ed="#P" n="89" break="no"/>cre scripture dicere quod omnes mortui sunt in deser 
+          <lb ed="#P" n="90"/>to qui egressi sunt egyptum: et tamen Iosue et 
+          Caleph<lb ed="#P" n="91" break="no"/>teste cadem scriptura non sunt mortui in deserto: cum 
+          <lb ed="#P" n="92"/>omnes singulares erunt vere demptis duabus: scriptu 
+          <lb ed="#P" n="93"/>ra loquitur vniuersaliter quia pauce sunt due 
+          singula<lb ed="#P" n="94" break="no"/>res comparatiue ad omnes. in proposito est nisi vna in 
+          <lb ed="#P" n="95"/>stantia respectu innumerabilium plurium singularium 
+          <lb ed="#P" n="96"/>verarum. de humanitate christi numquam reuocabatur 
+          <lb ed="#P" n="97"/>in dubium: cum illa fuit diuinitus formata / et non per 
+          <lb ed="#P" n="98"/>coniunctionem seminum. ergo post peccatum ade et eue 
+          <lb ed="#P" n="99"/>solum inter omnes homines est vna singularis falsa: quid 
+          <lb ed="#P" n="100"/>ergo mirum quod scriptura et sancti vniuersaliter 
+          lo<lb ed="#P" n="101" break="no"/>quuntur. Insuper: si dicerem aliquid indefinite 
+          <lb ed="#P" n="102"/>vel vniuersaliter non loquens in particulari de 
+          <lb ed="#P" n="103"/>aliqua materia / cum deuenio ad particulare 
+          expo<lb ed="#P" n="104" break="no"/>no quomodo illud intelligo: illud dictum omnia vniuersalia 
+          <lb ed="#P" n="105"/>dicta exponit sicut inter arguendum diximus. etiam 
+          <lb ed="#P" n="106"/>ipsa fuisset in originali peccaton (sicut ceteri) si non 
+          fuis<lb ed="#P" n="107" break="no"/>set preseruata
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e509">
+          ¶ Secundo arguitur: beatus 
+          Ber<lb ed="#P" n="108" break="no"/>nardus in epistola ad canonicos lugdunenses 
+          di<lb ed="#P" n="109" break="no"/>xit oppositum Alexander halens beatus 
+          Tho<lb ed="#P" n="110" break="no"/>mas et honauentura: ergo ipsi male 
+          oppinati<lb ed="#P" n="111" break="no"/>sunt / vel conclusio est suspecta. Concedo 
+          ante<lb ed="#P" n="112" break="no"/>cedens: et nego consequentiam et consequens 
+          pro<lb ed="#P" n="113" break="no"/>vtraque parte illius disiunctiue. pro tempore 
+          suo<lb ed="#P" n="114" break="no"/>probabiliter loquuti sunt. quia non constabat 
+          veri<lb ed="#P" n="115" break="no"/>tas istius conclusionis sicut modo constat: vt patet 
+          <lb ed="#P" n="116"/>per concilii Sixti quarti / et vniuersitatum determi 
+          <lb ed="#P" n="117"/>nationem: et crebra miracula super illa conceptione 
+          <lb ed="#P" n="118"/>facta. nec eratfestum conceptionis in tanta 
+          celebri<lb ed="#P" n="119" break="no"/>tate celebratum tunc sicut modo. Sed dices: Sixtus 
+          <lb ed="#P" n="120"/>Equartus imposuit silentium vtriqe parti sub perena 
+          <lb ed="#P" n="121"/>excomunicationis in extrauagante / graue nimis 
+          <pb ed="#P" n="12-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ne seinuicem hereticos appellarent vel scisma 
+          ex<lb ed="#P" n="2" break="no"/>citarent.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e551">
+          ¶ Respondetur: fecit fieri seruitium de 
+          san<lb ed="#P" n="3" break="no"/>cta verginis conceptione et ratus est illud esse 
+          veris<lb ed="#P" n="4" break="no"/>simum. non obstante pro pace inter religiosos 
+          ha<lb ed="#P" n="5" break="no"/>benda et alios / sub pena excommunicationis id 
+          <lb ed="#P" n="6"/>vetuit ne se hereticos vocarent.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e563">
+          ¶ Tertio 
+          argui<lb ed="#P" n="7" break="no"/>tur: ergo christus non redemit matrem sicut alios. Quarto 
+          <lb ed="#P" n="8"/>non decuit virginem proli equari sed ipsa fuisset 
+          proli<lb ed="#P" n="9" break="no"/>equata si fuisset sine originali peccato concepta. 
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e572">
+          <lb ed="#P" n="10"/>¶ Ad tertium: cum preseruauit eam / eam honestius 
+          <lb ed="#P" n="11"/>redemit quam alios. si haberem duas ancillas:et volo 
+          <lb ed="#P" n="12"/>quod filius vnius non nascatur seruus: libero eum 
+          me<lb ed="#P" n="13" break="no"/>lius quam donando eum libertati post natiuitatem.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e583">
+          ¶ Ad 
+          <lb ed="#P" n="14"/>quartum: licet virgo fuit similis humanitati christi qui ad 
+          <lb ed="#P" n="15"/>hoc / sic erat Adam / et Eua: ad multa ipsa erat 
+          dis<lb ed="#P" n="16" break="no"/>similis. corpus eius subito fuit formatum sine 
+          viri<lb ed="#P" n="17" break="no"/>semine: secus est de corpore virginis. Concludem 
+          <lb ed="#P" n="18"/>do dico / inutiliter multi virorum illustrium auctori 
+          <lb ed="#P" n="19"/>tates colligunt ac si in multitudine populi staret 
+          <lb ed="#P" n="20"/>victoria belli ad probandum quod diua virgo fuit 
+          <lb ed="#P" n="21"/>in peccato originaliconcepta: cum successu tempori 
+          <lb ed="#P" n="22"/>pontificis sacri concilii / et notabilium vniuersitatum 
+          <lb ed="#P" n="23"/>determinatione / cum miraculis (que nemo nisi 
+          in<lb ed="#P" n="24" break="no"/>sipiens negabit) illud est vallatum.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e609">
+          ¶ Dubitatur: 
+          an<lb ed="#P" n="25" break="no"/>fomes fuit ligatus in diua virgine / vel extinctus 
+          <lb ed="#P" n="26"/>Aliqui dicunt erat ligatus in prima 
+          sanctificatio<lb ed="#P" n="27" break="no"/>ne: hoc est quando ipsa erat sanctificata in vtero 
+          ma<lb ed="#P" n="28" break="no"/>terno. in secunda sanctificatione erat extinctus: quand 
+          <lb ed="#P" n="29"/>dicebatur ei Aue gratia plena / et de spiritusancto 
+          <lb ed="#P" n="30"/>concepit. sed de essentia fomits multi superficialitur 
+          <lb ed="#P" n="31"/>loquuntur: propterea de eius entitate prius loquar 
+          <lb ed="#P" n="32"/>postea ad dubitationem respondebo.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e629">
+          ¶ Ponitur 
+          <lb ed="#P" n="33"/>hec conclusio: fomes nihil aliud est quam appetitus 
+          <lb ed="#P" n="34"/>sensitiuus: hoc est aggregatum ex corpore et anima 
+          <lb ed="#P" n="35"/>intellectiua in homine. vt in secundo diximus. cum est 
+          ali<lb ed="#P" n="36" break="no"/>quid oportet quod sit substantia vel accidens. et si 
+          sub<lb ed="#P" n="37" break="no"/>stantia non inuenietur alia a dicta / si recte in. xvi. 
+          <lb ed="#P" n="38"/>distinctione diximus. non est accidens: quolibet 
+          <lb ed="#P" n="39"/>tali secluso / siue in anima / siue in corpore: si 
+          homo<lb ed="#P" n="40" break="no"/>producatur in puris naturalibus / adhuc prosequetur 
+          <lb ed="#P" n="41"/>obiectum dilectabile preter imperium rationis: 
+          <lb ed="#P" n="42"/>et ille est effectus fomitis.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e653">
+          ¶ Secunda 
+          conclusio<lb ed="#P" n="43" break="no"/>appetitus sensitiuus fuit substantia eiusdem speciei 
+          <lb ed="#P" n="44"/>specialissime in diua virgine cum fomite platonis. 
+          <lb ed="#P" n="45"/>patet. non fuit orbata in partibus substantialibus 
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e663">
+          <lb ed="#P" n="46"/>¶ Contra istud arguitur: non erit fomes in 
+          bea<lb ed="#P" n="47" break="no"/>tis post resurrectionem: ergo fomes non est de essentia 
+          <lb ed="#P" n="48"/>hominis.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e672">
+          ¶ Secundo arguitur: aliqui magis inclinantur 
+          <lb ed="#P" n="49"/>ad illicitum quam alii. ergo in eis est maior fomes: sed 
+          <lb ed="#P" n="50"/>substantia non suscipit magis neque minus ex vna 
+          <lb ed="#P" n="51"/>proprietate eius.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e681">
+          ¶ Ad primum: dico quod fomes 
+          <lb ed="#P" n="52"/>erit in beatis post resurrectionem: et tamemn non erit 
+          <lb ed="#P" n="53"/>fomes post resurrectionem in beatis. fomes est 
+          ter<lb ed="#P" n="54" break="no"/>minus connotatiuus supponens pro appetitu 
+          sensi<lb ed="#P" n="55" break="no"/>tiuo connotando quod effrenate tendat in illicitum praeter 
+          <lb ed="#P" n="56"/>rationem. sic loquentes vocabulum accipiunt. modo in 
+          <lb ed="#P" n="57"/>patria res que nunc est fomes non incliabit in illicitum 
+          <lb ed="#P" n="58"/>nudus beatus nullam concupiscet actualitur.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e699">
+          ¶ Sed 
+          <lb ed="#P" n="59"/>contra hoc arguitur: ista inclinatio est naturalis 
+          <lb ed="#P" n="60"/>appetitus sensitui / ferri in suum obiectum 
+          apprehen<lb ed="#P" n="61" break="no"/>sum a sensu: et non datur obex quare non exit in¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>suum actum: immo si detur violente impedietur a 
+          <lb ed="#P" n="63"/>sua actione.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e715">
+          ¶ Respondetur concedendo maiorem 
+          <lb ed="#P" n="64"/>saltem pro hoc statu communi et statu vie. alius erit 
+          <lb ed="#P" n="65"/>status patrie: puta / quod nullum tale obiectum 
+          appe<lb ed="#P" n="66" break="no"/>tit: penetratio corporum de predicamento 
+          sustan<lb ed="#P" n="67" break="no"/>tie est impossibilis pro lege communi vie: et 
+          possibi<lb ed="#P" n="68" break="no"/>lis pro lege patrie.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e728">
+          ¶ Secundo dico: minor est 
+          fal<lb ed="#P" n="69" break="no"/>sa: datur obex scilicet non concursus dei. si causa prima 
+          <lb ed="#P" n="70"/>non concurrat ad aliquam operationeur / omnes 
+          cau<lb ed="#P" n="71" break="no"/>se secunde collecte non possunt illam producere: quantum 
+          <lb ed="#P" n="72"/>cumquam parua sit operatio. modo deus non concurritur 
+          <lb ed="#P" n="73"/>cum sensualitate in patria: et illud rationabile est. 
+          <lb ed="#P" n="74"/>pro tempore vie generatio pro viatoribus continuam 
+          <lb ed="#P" n="75"/>dis expedit. in patria autem nulla est: quare inutilis 
+          <lb ed="#P" n="76"/>illic esset.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e749">
+          ¶ Ad aliud argumentum concedo quod est 
+          ma<lb ed="#P" n="77" break="no"/>ior fomes in vno quam alio: licet fomes non sit res 
+          <lb ed="#P" n="78"/>maior in vno quam in alio: vt patet de paruo magis 
+          <lb ed="#P" n="79"/>propenso ad illicita quam magno. quia stat quod fomes 
+          au<lb ed="#P" n="80" break="no"/>geatur in latitudine fomitis per malas 
+          qualita<lb ed="#P" n="81" break="no"/>tes corporeas: vel mentis: vt pote a progenitoribus 
+          <lb ed="#P" n="82"/>impudicis / influentia celesti quo ad corpus / et 
+          ali<lb ed="#P" n="83" break="no"/>quibus cibis et potibus / et a malis habitibus mentis. 
+          <lb ed="#P" n="84"/>in quo est maior impulsus naturalis ad illicita / in 
+          <lb ed="#P" n="85"/>illo est maior fomes in ratione fomitis. potest 
+          co<lb ed="#P" n="86" break="no"/>hibere fomitem per habitum infusum vel 
+          acquisi<lb ed="#P" n="87" break="no"/>tum. per infusum / vt patuit in adam / qui iusticia 
+          ori<lb ed="#P" n="88" break="no"/>ginali redimitus est: que passiones insultantes 
+          co<lb ed="#P" n="89" break="no"/>hibebat secundum rationis imperium. de diua virgine 
+          <lb ed="#P" n="90"/>dico quod in primo instanti in quo nata in rerum 
+          na<lb ed="#P" n="91" break="no"/>tura erat: erat sctificata per gratiam: et quam primum ve 
+          <lb ed="#P" n="92"/>nit ad annum rationis: libere exercitauit se in 
+          sco<lb ed="#P" n="93" break="no"/>la virtutum honos actus eliciendo: que speciosio 
+          <lb ed="#P" n="94"/>res filias quam helenam reliquerunt vt pote virtutes 
+          <lb ed="#P" n="95"/>a castissimis progenitoribus prognataa. animam 
+          <lb ed="#P" n="96"/>sortita est bonam: hoc est inclinationem corporis 
+          <lb ed="#P" n="97"/>nobilem. nimirum deus qui influentias celis dedit ex ea 
+          <lb ed="#P" n="98"/>corpus humanum accepturus erat. ergo facile erat 
+          virgun<lb ed="#P" n="99" break="no"/>cule a peccati abstinere cum soladei influentia 
+          gene<lb ed="#P" n="100" break="no"/>rali. nonne de aliquibus sacris virginibus legimus 
+          <lb ed="#P" n="101"/>que tanquam luminaria splenduerunt in mundo / virorum 
+          <lb ed="#P" n="102"/>consortium recusantes: et ista vt notum est ex 
+          euange<lb ed="#P" n="103" break="no"/>lio virginitatis votum emiserat. et cum mulierum 
+          nul<lb ed="#P" n="104" break="no"/>la ab orbe condito sortita est tale corpus: et talem 
+          <lb ed="#P" n="105"/>solicitudinem a parentibus vt bene educaretur 
+          in<lb ed="#P" n="106" break="no"/>moribus / in iumenta: quid mirum si ipsa cum simili auxilio / 
+          <lb ed="#P" n="107"/>quaele alie optine virgines habebant / optime se praeserua 
+          <lb ed="#P" n="108"/>bat. adde etiam quod staret aliques sacras virgines aliques 
+          <lb ed="#P" n="109"/>carnis titillationes sentire: deus tamen non concurrebat ad 
+          <lb ed="#P" n="110"/>aliquam actualem impulsum cum christifera virgine. 
+          <lb ed="#P" n="111"/>reliquerat tamen eam cum influentia eius generali: en 
+          <lb ed="#P" n="112"/>interdum ministrando ei auxilium speciale sicut aliis 
+          <lb ed="#P" n="113"/>quibus ipsa melius quam aliquis purus homo vsa est 
+          <lb ed="#P" n="114"/>decreuit tamen ei succurrere si in aliquo deficeret 
+          con<lb ed="#P" n="115" break="no"/>mittendo vel omittendo. sicut celebrans horas 
+          <lb ed="#P" n="116"/>memoriter cum alio librum habente permittitur 
+          <lb ed="#P" n="117"/>memoriter celebrare quandiu recte dicit. si interea 
+          <lb ed="#P" n="118"/>intercelebrandum deficiat / librum in manu tenens / 
+          <lb ed="#P" n="119"/>preueniet dicentem ne male dicat: et pone 
+          haben<lb ed="#P" n="120" break="no"/>tem librum ante preuidere ante quam memoriter 
+          <lb ed="#P" n="121"/>celebrans deficit. Ineun virgine gloriosa extinctus 
+          <lb ed="#P" n="122"/>est fomes totaliter in prims instanti qus anima 
+          <pb ed="#P" n="12-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>suum corpus informauit. patet: nunquam sensualitas 
+          <lb ed="#P" n="2"/>eius impellebat eam ad aliquid quod esset preter 
+          ra<lb ed="#P" n="3" break="no"/>tionem. ergo in ea nunquam fuit fomes peccati: sed ex 
+          <lb ed="#P" n="4"/>tinctus est fomes a causis multi in ea. a bono corpe / 
+          <lb ed="#P" n="5"/>bonis habitibus acquisitis et infusis / et a specia 
+          <lb ed="#P" n="6"/>lissima manutenentia dei / vbiopus erat. et qua 
+          re<lb ed="#P" n="7" break="no"/>linquebatur libera ( vt exemplificauimus de 
+          celebram<lb ed="#P" n="8" break="no"/>te memoriter ) et optime donis nature et dei vsa 
+          <lb ed="#P" n="9"/>est / plurimum merebatur. et sic ipsa in primo 
+          instanti<lb ed="#P" n="10" break="no"/>quo anima informabat corpus facta est 
+          impecca<lb ed="#P" n="11" break="no"/>bilis per gratiam infusam: et gratiam gratis datam: 
+          <lb ed="#P" n="12"/>et in gratia erat confirmata. et cum nunquam peccauit: 
+          <lb ed="#P" n="13"/>et secundum vnam positionem nulli sunt actus deliberati: 
+          <lb ed="#P" n="14"/>indifferentes: vel secundum positionem aliam: non erant aliqui 
+          <lb ed="#P" n="15"/>vel pauci in ea quin actualiter referebat / et diu 
+          vi<lb ed="#P" n="16" break="no"/>xit: ergo maxime merebatur: immo erat in 
+          maxima<lb ed="#P" n="17" break="no"/>gratia viatorum quando angelus ei apparuit 
+          in<lb ed="#P" n="18" break="no"/>quiens aue plena gratia. Quo fit: aliquis homo 
+          <lb ed="#P" n="19"/>est inpeccabilis per naturam: vt deus: nec 
+          humani<lb ed="#P" n="20" break="no"/>tas assumpta potest peccare in sensu composito: et 
+          <lb ed="#P" n="21"/>cum non erat secundum legem communem genita non est 
+          du<lb ed="#P" n="22" break="no"/>bium quin concipiebatur sine originali peccato 
+          <lb ed="#P" n="23"/>aliquis est ipeccabilis per gratiam: vt 
+          christife<lb ed="#P" n="24" break="no"/>ra virgo et in gratia confirmata / aliter quam aposto 
+          <lb ed="#P" n="25"/>li: qui forte peccarunt venialiter post illum diem 
+          so<lb ed="#P" n="26" break="no"/>ennem penthecostes. a comprehensoribus deferebat: 
+          <lb ed="#P" n="27"/>ipsa dormiebat: nec intuitiue deum in se vidit in 
+          <lb ed="#P" n="28"/>via: nec sem per de deo cogitabat: patet quando dormie 
+          <lb ed="#P" n="29"/>bat.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e918">
+          ¶ Dubitatur: an btam maria semper mansit virgo. 
+          <lb ed="#P" n="30"/>dicitur quod sic. patet Esaie. vii. Ecce virgo concipiet 
+          <lb ed="#P" n="31"/>et pariet: intelligit concipiet virgo / et pariet 
+          vir<lb ed="#P" n="32" break="no"/>go / alas nihilfuturum predixisset. et si non talis 
+          to<lb ed="#P" n="33" break="no"/>ta vita sua permansisset / fuisset ingrata: quod nullo 
+          <lb ed="#P" n="34"/>modo est concedendum de tam preciosa domina 
+          <lb ed="#P" n="35"/>sactissima / habitaculo dei.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e934">
+          ¶ Contra istud 
+          ar<lb ed="#P" n="36" break="no"/>guitur: per illud quod scribitur Luce. ii. Implete sunt 
+          <lb ed="#P" n="37"/>dies purgationis marie secundum legem moysi: ipsa non 
+          <lb ed="#P" n="38"/>ingressa est templum antede septimum diem: sed non 
+          fuis<lb ed="#P" n="39" break="no"/>set ei vetandus / ingressus si ex semine viri non 
+          con<lb ed="#P" n="40" break="no"/>cepisset: patet leuitici. xii. mulier que suscepto 
+          se<lb ed="#P" n="41" break="no"/>mine peperit masculum: munda erit. vii. diebus. 
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e950">
+          <lb ed="#P" n="42"/>¶ Secundo: scribitur Luce. ii. erant pater eius et 
+          <lb ed="#P" n="43"/>mater mirantes super his que dicebatur de illo. 
+          <lb ed="#P" n="44"/>et paulo post virgo dixit Ecce enin ego et pater 
+          <lb ed="#P" n="45"/>tuus dolentes querebamus te.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e961">
+          ¶ Ad primn dicitur 
+          <lb ed="#P" n="46"/>cum virgo ex semine non concepit/ non erat obliga 
+          <lb ed="#P" n="47"/>ta ad hanc ceremoniam legis: voluit tamen 
+          humi<lb ed="#P" n="48" break="no"/>litatisigratia legem seruare: sicut postea fecit filius 
+          <lb ed="#P" n="49"/>et vt non scandalizaret iudeos (qui facile murmu 
+          <lb ed="#P" n="50"/>rassent) si hoc non seruasset.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e974">
+          ¶ Ad secundum dicitur: euam 
+          <lb ed="#P" n="51"/>geliste vtuntur modo loquendi quo alii vsi sunt in 
+          <lb ed="#P" n="52"/>loquendo: sicet beata virgo. Ioseph vocabatur 
+          <lb ed="#P" n="53"/>a vulgo pater christi: ita vulgus putabat: et ita 
+          lo<lb ed="#P" n="54" break="no"/>quutam est ipsa: loquendum est vt plures. ii. de 
+          ce<lb ed="#P" n="55" break="no"/>lo. sciebat ipsa tamen oppositum. exemplum: si 
+          ali<lb ed="#P" n="56" break="no"/>quis scotus veniens in vrbem parisiam ad me 
+          vo<lb ed="#P" n="57" break="no"/>caretur ab omnibus mihi frater: sine mendacio 
+          inqui<lb ed="#P" n="58" break="no"/>rerem fratrem / sic loquendo vt alii: sciens 
+          tamen<lb ed="#P" n="59" break="no"/>quod non esset mihi frater Lucas tamen. iii. ca. exponit 
+          <lb ed="#P" n="60"/>dictum suum proprium et modum loquendi virginis 
+          <lb ed="#P" n="61"/>inquiens: vt putabatur filius Ioseph.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e1001">
+          ¶ Tertio 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>
+          <lb ed="#P" n="63"/>arguitur: Ioannis. ii. scribitur: post hoc 
+          descena<lb ed="#P" n="64" break="no"/>dit capharnaum ipse / scilicet christus / mater eius 
+          <lb ed="#P" n="65"/>et fratres eius. Respondetur: modus scripture est 
+          <lb ed="#P" n="66"/>consanguineos vocare fratres. Ioseph non habuit 
+          <lb ed="#P" n="67"/>aliam vxorem: vt hieronimus dicit contra eluidum 
+          <lb ed="#P" n="68"/>propterea non potest dici quod erant fratres / quia 
+          <lb ed="#P" n="69"/>filii Ioseph: non legitur quod Ioseph aliam 
+          habue<lb ed="#P" n="70" break="no"/>rit coniugem a virgine: et est inopinabile de 
+          tali<lb ed="#P" n="71" break="no"/>viro.
+        </p>
+        <p xml:id="jm3cbb-e06351-d1e1027">
+          ¶ Concludendo dicimus: ipsa semper mansit 
+          <lb ed="#P" n="72"/>virgo secundum illud Ezechielis. chtt porta hec clausa 
+          <lb ed="#P" n="73"/>erit et non aperietur: et vir non transiet per eam: quando 
+          <lb ed="#P" n="74"/>deus istael ingressus est per eam: quod Aus. in quo 
+          <lb ed="#P" n="75"/>dam sermone exponens dicit / quid est porta in 
+          <lb ed="#P" n="76"/>domo domini clausa nisi quod maria semper erit intacta: 
+          <lb ed="#P" n="77"/>et quid est homo non transibit peream nisi quod 
+          Ao<lb ed="#P" n="78" break="no"/>seph non cognoscet eam: quid est domins solus 
+          egre<lb ed="#P" n="79" break="no"/>ditur et ingreditur per eam: nisi quod spiritussanctus 
+          <lb ed="#P" n="80"/>impregnat eam: et angelorum domns nascitur per eam: 
+          <lb ed="#P" n="81"/>et quid est clausa erit ineternum nisi quod maria / vrgo est 
+          <lb ed="#P" n="82"/>ante partum/ et virgo in partu / et virgo post partum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="105-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e64147"><!-- l3d34q1 -->
+        <head xml:id="jm3cbb-e64147-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e64147-Hd1e101" type="question-title">An virtus distinguatur a donis beatitudinibus et fructibus</head>
+        <p xml:id="jm3cbb-e64147-d1e104">
+          <lb ed="#P" n="65"/>In hac distinctione 
+          tri<lb ed="#P" n="66" break="no"/>cesimaquarta magister 
+          principa<lb ed="#P" n="67" break="no"/>liter loquitur de duobus: scilicet donis: 
+          <lb ed="#P" n="68"/>et de dono timore.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e115">
+          ¶ 
+          Confor<lb ed="#P" n="69" break="no"/>miter ad hoc quaero duas questio 
+          <lb ed="#P" n="70"/>nes. Prima erit: an virtus 
+          distin<lb ed="#P" n="71" break="no"/>guatur a donis / beatitudinibus / et 
+          <lb ed="#P" n="72"/>fructibus. Secundo antimor mundanus et seruilis: 
+          initia<lb ed="#P" n="73" break="no"/>lis et filialis: inter se distinguantur: et charitatem 
+          compa<lb ed="#P" n="74" break="no"/>tiantur.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e131">
+          ¶ Circa primam questionem scito quod partita est 
+          <lb ed="#P" n="75"/>positio. placet michi pars negatiua. propterea 
+          poni<lb ed="#P" n="76" break="no"/>tur hec conclusio. Dona / beatitudines / et fructus / 
+          rea<lb ed="#P" n="77" break="no"/>liter ydemptificantur cum virtutibus. probatur hec 
+          conclu<lb ed="#P" n="78" break="no"/>sio: omnia pstent saluari ponendo idemptitatem mutuam istorum 
+          <lb ed="#P" n="79"/>cum virtutibus. ergo inane est ponere reale 
+          discrimen<lb ed="#P" n="80" break="no"/>inter hec.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e148">
+          ¶ Secundo arguitur ad idem. anima quo ad deum 
+          <lb ed="#P" n="81"/>satis bene disponitur per virtutes theologicas / fidem / 
+          <lb ed="#P" n="82"/>spem / et charitatem. ad proximum potentia appetitiua 
+          <lb ed="#P" n="83"/>satis bene disponitur per temperantiam / fortitudinem / et 
+          iu<lb ed="#P" n="84" break="no"/>sticiam / et reliquas partes potentiales harum virtutum. 
+          <lb ed="#P" n="85"/>intellectus practicus per prudentiam: speculatiuus per 
+          sapien<lb ed="#P" n="86" break="no"/>tiam / scientiam / e intellectum.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e164">
+          ¶ Tertio arguitur. alique 
+          <lb ed="#P" n="87"/>beatitudines realiter idemptificantur cum virtutibus. 
+          er<lb ed="#P" n="88" break="no"/>go omnes. quia non est maior ratio de vna quam alia. et si sic: 
+          <lb ed="#P" n="89"/>idem dicere debes de fructibus et donis. antecedens 
+          pa<lb ed="#P" n="90" break="no"/>tet. octo beatitudines scribuntur matthei. v. patet: 
+          <lb ed="#P" n="91"/>beati pauperes spuit: quandum ipsorum est regnum celorum: vbi 
+          glo<lb ed="#P" n="92" break="no"/>sa interlinealis dicit: humiles deum timentes. sed 
+          hu<lb ed="#P" n="93" break="no"/>militas (vt notum est ) ponitur ab omnibus inter virtutes. eodem 
+          <lb ed="#P" n="94"/>modo exponit illum passum glose marginalis: 
+          Au<lb ed="#P" n="95" break="no"/>gustinus in seiumone domni in mondte. sic Chriso. tam in home 
+          <lb ed="#P" n="96"/>lia quam super Mhatheum. Secunda beatitudo: beati mites 
+          spi<lb ed="#P" n="97" break="no"/>ritu. Un Augu. mites sunt / qui cedunt improbitatibus et 
+          <lb ed="#P" n="98"/>non resistunt in malo: sed vincut in bono malum. 
+          Bea<lb ed="#P" n="99" break="no"/>ti qui lugent: quanum ipsi consolabuntur. Ambrosius super 
+          Lucam<lb ed="#P" n="100" break="no"/>Cum hoc feceris: vt sis pauper: et mitis: memento quia 
+          <lb ed="#P" n="101"/>pcator es: lugeto peccata tua. Beati qui esuriunt 
+          si<lb ed="#P" n="102" break="no"/>tiunt iusticiam: quandum ipsi saturabuntur. beati qui esuriunt 
+          <lb ed="#P" n="103"/>iusticiam: hoc est: feruenter iusticiam appetunt. 
+          Beati<lb ed="#P" n="104" break="no"/>misericordes: quando ipsi misericordiam consequentur. 
+          <lb ed="#P" n="105"/>quod Remigius exponens dicit: misericors: quasi mise 
+          <lb ed="#P" n="106"/>rum cor habens. quia alterius miseriam / quasi suam reputat: 
+          <lb ed="#P" n="107"/>et de malo alterius / quasi de suo dolet. immediate 
+          <lb ed="#P" n="108"/>post iusticiam ponitur misericordia: dicit glosa: vt 
+          <lb ed="#P" n="109"/>altera ab altera temperetur. iusticia enim sine 
+          mi<lb ed="#P" n="110" break="no"/>sericordia crudelitas est: misericordia sine iusticia 
+          <lb ed="#P" n="111"/>dissolutio. Beati mundo corde: glosa interlinealis: 
+          <lb ed="#P" n="112"/>quos non arguit conscientia peccatorum. Geati 
+          pacifi<lb ed="#P" n="113" break="no"/>ci: quoniam filii dei vocabuntur. pacifici autem dicuntur 
+          <lb ed="#P" n="114"/>beati: qui primum in corde suo: deinde et inter 
+          fra<lb ed="#P" n="115" break="no"/>tres dissidentes faciunt pacem. Quid enim prodest 
+          <lb ed="#P" n="116"/>alios perte pacare: cum in tua anima sint viciorum 
+          <lb ed="#P" n="117"/>bella. Beati qui persecutionem patiuntur propter 
+          <lb ed="#P" n="118"/>iusticiam. sicut martyres / boni predicatores / quos 
+          <pb ed="#P" n="105-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ni: que boni faciunt. beati estis cum maledixerint vobi 
+          <lb ed="#P" n="2"/>homines: et persecuti vos fuerint: et dixerint omnme malum 
+          <lb ed="#P" n="3"/>aduersus vos mentientes propter me. Superiores 
+          sen<lb ed="#P" n="4" break="no"/>tentias generaliter dirigebat: iam praesentibus loquitur / 
+          prae<lb ed="#P" n="5" break="no"/>dicens eis persequutiones quas pro nomine eius passuri erant. 
+          <lb ed="#P" n="6"/>maledixerint post dorsum: dixerint malum in 
+          praesen<lb ed="#P" n="7" break="no"/>tia: et persequuti vos fuerint: hoc est vim inferentes. 
+          <lb ed="#P" n="8"/>Ecce octo beatitudines: qua omnes virtutes sunt: vt patet 
+          <lb ed="#P" n="9"/>ex earum expositione.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e260">
+          ¶ Preterea. xii. sunt fructus: 
+          <lb ed="#P" n="10"/>quos numerat apostolus ad Galatas. v. qui sunt 
+          cari<lb ed="#P" n="11" break="no"/>tas / gaudium / pax / patientia / longanimitas / bonitas 
+          <lb ed="#P" n="12"/>benignitas / mansuetudo / fides / modestia / continen 
+          <lb ed="#P" n="13"/>tia / castitas. Caritas est nota. Gaudium spuitale non 
+          <lb ed="#P" n="14"/>est cum impiis: vt patet Esaie. xlviii. Pax: quando 
+          homo<lb ed="#P" n="15" break="no"/>nec se nec alios inquietat. Patientia: aduersorum dicit 
+          <lb ed="#P" n="16"/>glosa interlinealis. Longanimitas: hoc est 
+          expectan<lb ed="#P" n="17" break="no"/>do diuina promissa: hoc est perseuerantes. perseuerantia et 
+          <lb ed="#P" n="18"/>longanimitas sunt idem: licet Martinus inmpugnet sacatum 
+          <lb ed="#P" n="19"/>Thomam quod perseuerantia non facit specialem virtutem: 
+          inu<lb ed="#P" n="20" break="no"/>liter laborat. experimur in nobis: interdum tedet nos 
+          <lb ed="#P" n="21"/>vite natre: et cupimus dissolui e esse cum christo. et efficimur 
+          <lb ed="#P" n="22"/>(si non animaduertamus) ex diuturnitate vite tristes. 
+          <lb ed="#P" n="23"/>actus iste est bonus / volo perseuerare et constanter manere 
+          <lb ed="#P" n="24"/>in bono quamdiu deus vitam concesserit: et quamto diutius viuo: 
+          <lb ed="#P" n="25"/>bene viuendo maiora habebo merita. et ex consequenti 
+          ma<lb ed="#P" n="26" break="no"/>iorem beatitudinem. ex illo actut similibus generatur 
+          habi<lb ed="#P" n="27" break="no"/>tus: qui speciali nomine potest vocari longanimitas / perseur 
+          <lb ed="#P" n="28"/>rantia / vel constantia. non tamen est negandum quin aliqua tem 
+          <lb ed="#P" n="29"/>perantia vel iusticia realiter est actus perseuerantie: vt 
+          vo<lb ed="#P" n="30" break="no"/>lo continuare istum actum iusticie quamdiu recta ratio dictat: et 
+          <lb ed="#P" n="31"/>sic de temperantia. in meipso experior / michi prodest 
+          <lb ed="#P" n="32"/>actus longanimitatis elicere: potissimum quandocumque 
+          te<lb ed="#P" n="33" break="no"/>dium viuendi occurrit. Dicis: ergo ex parte aliarum 
+          <lb ed="#P" n="34"/>circunstantiarum loci / et tmperis / pstent poni virtutes 
+          specia<lb ed="#P" n="35" break="no"/>les: vt Martinus contra Thomam infert.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e319">
+          ¶ Respondetur: 
+          <lb ed="#P" n="36"/>non est inconueniens. ex quolibbet actu bono generatur 
+          <lb ed="#P" n="37"/>virtus. quis potest capere locum vel tempus ex parte 
+          obie<lb ed="#P" n="38" break="no"/>cti respectu actus boni: vt verbi causa: volo hora quarta 
+          <lb ed="#P" n="39"/>surgere quolibet die: si sanus sim: et dicere horas 
+          <lb ed="#P" n="40"/>in tali tpere. Sequuntur alii fructus: bonitas: 
+          dulce<lb ed="#P" n="41" break="no"/>do animi dicit interlinealis. benignitas: 
+          interlinea<lb ed="#P" n="42" break="no"/>lis: rerum largitas: hoc est: impendere bona 
+          proxi<lb ed="#P" n="43" break="no"/>mis. alia sunt nota coincidere cum virtutibus. 
+          Ecce<lb ed="#P" n="44" break="no"/>fructus et beatintudines coincidentes cum virtutibus.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e341">
+          ¶ 
+          Se<lb ed="#P" n="45" break="no"/>quuntur septem dona spiritussancti: que 
+          numeran<lb ed="#P" n="46" break="no"/>tur Esaie. xi. Spiritus sapientie et intellectus: 
+          spiri<lb ed="#P" n="47" break="no"/>tus consiliit fortitudinis: spiritus scientie et pieta 
+          <lb ed="#P" n="48"/>tis: et spiritus timoris domini. omnia ista idemptificantur cum 
+          <lb ed="#P" n="49"/>virtutibus.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e354">
+          ¶ Contra ista arguitur. ex dictis sequitur quod 
+          <lb ed="#P" n="50"/>dona sunt fructus: quod est inconueniens. quod sequatur 
+          <lb ed="#P" n="51"/>patet sic: bene sequitur: he virtutes sunt fructus: 
+          he<lb ed="#P" n="52" break="no"/>virtutes sunt dona: ergo dona sunt fructus.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e364">
+          ¶ 
+          Se<lb ed="#P" n="53" break="no"/>cundo arguitur. ex conclusione  eius probatione 
+          <lb ed="#P" n="54"/>soquitur quod. xiii. sunt fructus. patet. xiii. sunt 
+          virtu<lb ed="#P" n="55" break="no"/>tes.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e373">
+          ¶ Ad primum concedo quod fructus sunt dona. 
+          <lb ed="#P" n="56"/>sed alia est ratio quare aliquis habitus est fructus: 
+          <lb ed="#P" n="57"/>et alia quare donum.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e380">
+          ¶ Ad secundum nego seque 
+          <lb ed="#P" n="58"/>lam. non omnes virtutes sunt dona: nec beatitudines. sed 
+          <lb ed="#P" n="59"/>alique virtutes sunt beatitudines: puta ille quae numeram 
+          <lb ed="#P" n="60"/>tur. Mathei. v. Christus / illic incepit primo publice do 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>cere: dicit euangelista ex industria: aperiens os suum: 
+          <lb ed="#P" n="62"/>ac si multa doceret: et legis euangelice iaceret 
+          fun<lb ed="#P" n="63" break="no"/>damenta. Dicebat in principio sue doctrine quod ille 
+          <lb ed="#P" n="64"/>octo virtutes erant beatitudines: non quod essent 
+          bea<lb ed="#P" n="65" break="no"/>titudines formales patrie vel obiectiue. sed 
+          magne<lb ed="#P" n="66" break="no"/>dispositiones ad beatitudinem: et a beatitudinibus 
+          <lb ed="#P" n="67"/>initium loquendi incepit. nichil est perfectius in hac 
+          <lb ed="#P" n="68"/>vita: sicut psalmographus regius psal. primo. 
+          Bea<lb ed="#P" n="69" break="no"/>tus vir qui non abiit in concilio impiorum ec. et 
+          Ari<lb ed="#P" n="70" break="no"/>stoteles in primo Ethicorum illam quesiuit: et illam 
+          <lb ed="#P" n="71"/>tanquam precipuam in decimo specialius perstrinxit. ista 
+          <lb ed="#P" n="72"/>dona sunt dona quae data sunt christo. secundum omnes cap. vnde 
+          <lb ed="#P" n="73"/>cimum Esaie: exponuntur de messia in lege: vbi 
+          prophe<lb ed="#P" n="74" break="no"/>ta loquitur solum de donis christo datis.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e422">
+          ¶ Tertio 
+          ar<lb ed="#P" n="75" break="no"/>guitur: virtutes manebunt in patria: vt in 
+          distinctio<lb ed="#P" n="76" break="no"/>ne precedenti diximus. dona autem non manebunt in 
+          <lb ed="#P" n="77"/>patria. spiritus pietatis non habebit suum obiectum 
+          <lb ed="#P" n="78"/>in patria.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e433">
+          ¶ Respondetur concedendo maiorem: 
+          <lb ed="#P" n="79"/>et negando minorem vt magister negat in littera. 
+          <lb ed="#P" n="80"/>et cum christus hec dona habuit in via: qui erat perfecte 
+          <lb ed="#P" n="81"/>beatus secundum animam: ergo manebunt in patria. secundum 
+          <lb ed="#P" n="82"/>habitum non est difficultas: et etiam secundum puriores 
+          <lb ed="#P" n="83"/>actus quam in via: vt in distinctione precedenti 
+          loquu<lb ed="#P" n="84" break="no"/>tus sum.
+        </p>
+        <p xml:id="jm3cbb-e64147-d1e449">
+          ¶ Ecce dona omnia / fructus omnes / et 
+          beatini<lb ed="#P" n="85" break="no"/>dines omnes sunt virtutes: et non contra vniuersaliter. 
+          <lb ed="#P" n="86"/>virtus est superius denominatiuum vel quidditatium ( non 
+          <lb ed="#P" n="87"/>refert) respectu aliarum trium. Octo vocantur 
+          bea<lb ed="#P" n="88" break="no"/>titudines: licet alie virtutes ad beatitudinem 
+          mul<lb ed="#P" n="89" break="no"/>tum disponant: non sic appropriate beatitudines 
+          vo<lb ed="#P" n="90" break="no"/>cantur. cum christus has virtutes sub nomine beatitudinis 
+          <lb ed="#P" n="91"/>baptisauit: vocantur ille appropriate beatitudines: 
+          <lb ed="#P" n="92"/>et non alie. nec alia querenda est ratio. et cumscriptu 
+          <lb ed="#P" n="93"/>ra aliquas virtutes fructus anthonomatice 
+          appel<lb ed="#P" n="94" break="no"/>lauit. illi soli fructus appellandi sunt more 
+          scriptu<lb ed="#P" n="95" break="no"/>re ad Galatas. v. et Apocalipsis vltio: licet in 
+          spe<lb ed="#P" n="96" break="no"/>ciali beatus Iohannes illos fructus non prosequa 
+          <lb ed="#P" n="97"/>tur. illa dona dicuntur: quia messie in lege ( hoc est 
+          <lb ed="#P" n="98"/>christo) dantur. et propterea tales rationes essent 
+          <lb ed="#P" n="99"/>friuole: quare alique virtutes citius vocantur 
+          fru<lb ed="#P" n="100" break="no"/>ctus / aut beatitudies / aut dona / quam alie.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

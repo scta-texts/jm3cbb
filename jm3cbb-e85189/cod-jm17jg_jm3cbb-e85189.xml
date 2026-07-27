@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 29</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 29</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="139-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e85189"><!-- l3d37q29 -->
+        <head xml:id="jm3cbb-e85189-Hd1e99">Quaestio 29</head>
+        <head xml:id="jm3cbb-e85189-Hd1e101" type="question-title">An rectores reipublicae peccent non punientes meretricia
+    publica et contraveniant prohibitioni de mechia</head>
+        <p xml:id="jm3cbb-e85189-d1e104">
+          <lb ed="#P" n="75"/>QUeritur circa sextum 
+          <lb ed="#P" n="76"/>preceptum de Mpechia an 
+          re<lb ed="#P" n="77" break="no"/>ctores reipublice peccent non 
+          <lb ed="#P" n="78"/>punientes meretritia publica: 
+          <lb ed="#P" n="79"/>et contraueniant 
+          prohibitioni<lb ed="#P" n="80" break="no"/>de Mechia.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e120">
+          ¶ Respondetur per 
+          <lb ed="#P" n="81"/>conclusiones: quarum prima e. 
+          <lb ed="#P" n="82"/>her mechiam vit sufficienter concluditur quod pohibeatur 
+          <lb ed="#P" n="83"/>simplex fornicatio.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e129">
+          ¶ Secunda conclusio. fornicatio 
+          sim<lb ed="#P" n="84" break="no"/>hlexerat prohibita in lege moyrsaica.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e135">
+          ¶ Certia conclusio: 
+          <lb ed="#P" n="85"/>sornicatio simplex est contra ius nature.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e140">
+          ¶ Quarta 
+          <lb ed="#P" n="86"/>conclusio: rectores rerum publicarum consulto interdum reli 
+          <lb ed="#P" n="87"/>quunt meretrices publicas et eas non puniunt in 
+          foro<lb ed="#P" n="88" break="no"/>humano.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e149">
+          ¶ Prima conclusio probatur: per mechiam adulte 
+          <lb ed="#P" n="89"/>rium intelligitur vt glo. marginalis Augu. Exodi. xx. 
+          <lb ed="#P" n="90"/>deducit. illic Aug. inquit: non occurrit mihi in scriptii 
+          <lb ed="#P" n="91"/>fa vbi per mechiam simplex fornicatio prohibeatur. post 
+          <lb ed="#P" n="92"/>ea mouens hanc difficultatem / an per mechia fornicatio 
+          <lb ed="#P" n="93"/>simplex prohibeatur. sed non sequitur: prohibetur maius: ergo pro 
+          <lb ed="#P" n="94"/>hibetur minus: et potissimum non inclusum in maiore. 
+          Se<lb ed="#P" n="95" break="no"/>cundo arguitur ad idem. si necessarium sit dicere quod prohibeatur 
+          <lb ed="#P" n="96"/>fornicatio sub nomine mechie: hoc est propterea: quia omnia 
+          <lb ed="#P" n="97"/>prohibentur vel praecipiuntur per decem praecepta decalogi. sed 
+          <lb ed="#P" n="98"/>hoc non. multe sunt alie prohibitioneset praecepta in 
+          le<lb ed="#P" n="99" break="no"/>ge Moysaica quae non clare prohibentur vel praecipiuntur in 
+          prae<lb ed="#P" n="100" break="no"/>ceptis decalogi.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e178">
+          ¶ Secunda concluio probatur Deute. xxiii. n 
+          <lb ed="#P" n="101"/>erit meretrix de filiabus israel neque scortator de 
+          fi<lb ed="#P" n="102" break="no"/>liis israel.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e185">
+          ¶ Tertiam conclusionem difficilius est probare. et agui 
+          <lb ed="#P" n="103"/>primo sic. fornicatio simplex est contra bonum prolis ne 
+          <lb ed="#P" n="104"/>proles religiose educetur: ergo sequitur quod ipsa est illicita. sed 
+          <lb ed="#P" n="105"/>ssla probatio non vbet in muliere sterili a complexione quando est 
+          <lb ed="#P" n="106"/>talis cognita: vel in muliere confecta senio: vel 
+          da<lb ed="#P" n="107" break="no"/>to quod conuenirent inter se quod proles religiose educaretur: 
+          <lb ed="#P" n="108"/>siquae gemita fuerit: ponendo pecuniam in manutertia ad 
+          pro<lb ed="#P" n="109" break="no"/>lis educationem. alitr ergo arguitur. perpetuitas matimonii est 
+          <lb ed="#P" n="110"/>de iure nature hac ex quarto reliquo probatam. sed 
+          <lb ed="#P" n="111"/>si fornicatio simplex eset licita poeretur obex mtrimo 
+          <lb ed="#P" n="112"/>nio et cius perpetuitati igrtiest illicita Unde sic arguitur. omne illu et 
+          <lb ed="#P" n="113"/>contra legem nature quod impedit vnum contractum de lege 
+          <lb ed="#P" n="114"/>nature reipublice vtilissimum. sed matrimonium et eius 
+          <lb ed="#P" n="115"/>bpetuitas est de lege nature: et reipublice huane 
+          vti<lb ed="#P" n="116" break="no"/>lissimum: cui fornicatio simplex magnum daret 
+          impedi<lb ed="#P" n="117" break="no"/>mentum. multi non potentes caste viuere in virginitate / 
+          <lb ed="#P" n="118"/>contrahunt. si fornicatio simplex esset licita: non tot 
+          pro<lb ed="#P" n="119" break="no"/>magna parte contraherent: sed mulieres mutarent. Secundo 
+          <lb ed="#P" n="120"/>arguitur ad idem. si fornicatio simplex esset licita: esset 
+          <pb ed="#P" n="140-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>excessiua multiplicatio luxus / et copula cum variis / 
+          <lb ed="#P" n="2"/>rixe / eundo ad nouam antiqua relicta: tunc essent 
+          li<lb ed="#P" n="3" break="no"/>tes inter parentes mulierum virum: inter mulie 
+          <lb ed="#P" n="4"/>res et earum perentes: et totaliter policia 
+          confundere<lb ed="#P" n="5" break="no"/>tur. Insuper: nesciretur regulariter quis esset pater 
+          <lb ed="#P" n="6"/>prol is: et per consequens nulla esset eius cura. et lbet 
+          <lb ed="#P" n="7"/>vnus solutus non numquam teneret vnam solutam et euita 
+          <lb ed="#P" n="8"/>retur illa prolis incertitudo: tamen crebriter immo 
+          cre<lb ed="#P" n="9" break="no"/>berrime (si fornicatio simplex esset licita ) esset 
+          con<lb ed="#P" n="10" break="no"/>iunctio vaga. modo lex bonarespicit ad illud quod 
+          con<lb ed="#P" n="11" break="no"/>mun iter euenit: et propter talia / aliqua apparentiam 
+          <lb ed="#P" n="12"/>liciti prima fronte habenentia / prohibet. et fic intelligendo 
+          <lb ed="#P" n="13"/>primam rationem repudiatam: ipsa potest aliquo 
+          mo<lb ed="#P" n="14" break="no"/>do admitti: quod fornicatio simplex esset communiter 
+          <lb ed="#P" n="15"/>contra bonum prolis.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e263">
+          ¶ Qu arta conclusio probatur 
+          au<lb ed="#P" n="16" break="no"/>ctoritate Aug. ii. lib. de ordine inter principium et 
+          me<lb ed="#P" n="17" break="no"/>dium dicentis: aufer meretrices de rebus humanis 
+          <lb ed="#P" n="18"/>turbaueris omnia libidinibus. constitue matronaru 
+          <lb ed="#P" n="19"/>loco labe et dedecore dehoestaueris. et idem Aus. i. 
+          <lb ed="#P" n="20"/>de libe. arbi. lex humana / aliqua recte permittit quae 
+          <lb ed="#P" n="21"/>iuste lege diuina puniuntur: ergo aliqua vicia 
+          permit<lb ed="#P" n="22" break="no"/>tit. lex humana non potest omnia vicia cohibere. grauio 
+          <lb ed="#P" n="23"/>ra punit. et illa potissimum que pacem in 
+          republica<lb ed="#P" n="24" break="no"/>perturbat: quemadmodii suut homicidia apine / 
+          <lb ed="#P" n="25"/>furta / et huiusmodi: et a quibus maior pars 
+          multi<lb ed="#P" n="26" break="no"/>tudinis cauere potest. modo a fornicatione difficulter 
+          <lb ed="#P" n="27"/>tota multitudo abstinet. etcum hoc si fornicationem 
+          <lb ed="#P" n="28"/>simplicem prohiberet. deteriora peccata 
+          continge<lb ed="#P" n="29" break="no"/>rent: visa (hominum procliuitate ad peccandum). 
+          <lb ed="#P" n="30"/>C Contra primam conclusionem: glo. interlinearis Exo. 
+          <lb ed="#P" n="31"/>xx. dicit super illo verbo non mechaberis. i. ne 
+          cui<lb ed="#P" n="32" break="no"/>libet miscearis excepto federe matrimonii: per partem 
+          <lb ed="#P" n="33"/>enim vult totum intelligi: ergo fornicatio simplex 
+          pro<lb ed="#P" n="34" break="no"/>hibetur persextum praeceptum.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e308">
+          ¶ Respondetur 
+          conce<lb ed="#P" n="35" break="no"/>dendo quod glosa illa ita dicat: sed probatio vix 
+          suffi<lb ed="#P" n="36" break="no"/>cit. Propterea Aug. in glosa marginali in hoc 
+          insi<lb ed="#P" n="37" break="no"/>stit similem sententiam cum interlineari glosa 
+          conclu<lb ed="#P" n="38" break="no"/>dens: potest dici non sufficientur fornicatio simplex 
+          pro<lb ed="#P" n="39" break="no"/>hibetur in decalogo: sed in alio loco legis 
+          prohibe<lb ed="#P" n="40" break="no"/>tur: quod sufficit. multe sunt prohibitiones et precepta 
+          <lb ed="#P" n="41"/>aliorum passuum a praeceptis decalogi: qui vult 
+          glo<lb ed="#P" n="42" break="no"/>sas allegatas imitari / poterit.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e328">
+          ¶ Contra quartam 
+          <lb ed="#P" n="43"/>conclusionem arguitur de sen. excommu. quante. 
+          facien<lb ed="#P" n="44" break="no"/>tes et consentientes pari pena plectendos 
+          catholi<lb ed="#P" n="45" break="no"/>ca condempnat auctoritas: eos delinquentibus fauere 
+          <lb ed="#P" n="46"/>aterpretans: qui(cum possint) manifesto facinori 
+          de<lb ed="#P" n="47" break="no"/>sinunt obuiare: ergo cum reipublice rectores possunt 
+          <lb ed="#P" n="48"/>scorta impedire et non impedientes: delinquunt.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e344">
+          ¶ 
+          Se<lb ed="#P" n="49" break="no"/>cundo arguitur: licitum est meretrices fugare de hoc 
+          <lb ed="#P" n="50"/>vico magne vrbis /et illo / et sic de quolibet: ergo 
+          bene<lb ed="#P" n="51" break="no"/>factum est eiicere eas de tota vrbe.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e353">
+          ¶ Ad primum 
+          <lb ed="#P" n="52"/>respondetur: illa decretalis intelligitur de 
+          rectori<lb ed="#P" n="53" break="no"/>bus reipublice qui tenentur crimini obuiare et non 
+          <lb ed="#P" n="54"/>obuiant. modo non tenentur huic facinori obuiare 
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e362">
+          <lb ed="#P" n="55"/>¶ Ad secundum nego consequentiam. modus 
+          arguen<lb ed="#P" n="56" break="no"/>di est nullus. eiiciende tamen sunt de locis publicis 
+          <lb ed="#P" n="57"/>ad loca abiectissima sordidissima.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e371">
+          ¶ Tertio arguitur: 
+          <lb ed="#P" n="58"/>bene factum est meretrices eiicere de hoc paruo 
+          vi<lb ed="#P" n="59" break="no"/>co siue pago: ergo de magna vrbe.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e379">
+          ¶ Quarto 
+          sequi<lb ed="#P" n="60" break="no"/>tur quod esset licitum eis locare domus / in quibus sua peccatam 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>exercent: et per consequens licitum est 
+          cooperaripec<lb ed="#P" n="62" break="no"/>catis earum.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e390">
+          ¶ Quinto. bonus verbi dei 
+          declama<lb ed="#P" n="63" break="no"/>tor ftudet omnes ad castitatem vidualem 
+          conuerte<lb ed="#P" n="64" break="no"/>re: ergo rector reipublice per violentiam potest ad hoc 
+          la<lb ed="#P" n="65" break="no"/>borare.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e399">
+          ¶ Sexto: quilibet vxoratus potest caste 
+          vi<lb ed="#P" n="66" break="no"/>uere castitate coniugali cum propria vxore contra. 
+          <lb ed="#P" n="67"/>et quilibet non vxoratus potest pari forma caste 
+          vi<lb ed="#P" n="68" break="no"/>uere per temperantiam virtutem: ergo possunt omnes 
+          <lb ed="#P" n="69"/>prohiberi.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e410">
+          ¶ Ad tertium concedo antecedens. ruri in peruis 
+          <lb ed="#P" n="70"/>vicis homines sunt circa vineas vel agros intenti: 
+          <lb ed="#P" n="71"/> regulariter temperate viuunt: ergo a talibus vicis 
+          <lb ed="#P" n="72"/>eiiciende sunt meretrices: secus est de magnis 
+          vrbi<lb ed="#P" n="73" break="no"/>bus. Nonne vides perua multitudo abstinet ab esu 
+          <lb ed="#P" n="74"/>carnium perpetuo: et tamen tota multitudo non faceret 
+          <lb ed="#P" n="75"/>illud.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e426">
+          ¶ Ad quartum: quicquid sit de antecedente / 
+          <lb ed="#P" n="76"/>nego consequentiam. viri tamen honesti nunquam 
+          so<lb ed="#P" n="77" break="no"/>lent eis locare domus.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e433">
+          ¶ Ad quintum concedo 
+          an<lb ed="#P" n="78" break="no"/>tecedens: et nego consequaentiam.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e439">
+          ¶ Ad sextum duo 
+          di<lb ed="#P" n="79" break="no"/>co. primo: consequens non est impossibile quod tota 
+          mul<lb ed="#P" n="80" break="no"/>titudo caste viuat. Secundo: considerando 
+          fragili<lb ed="#P" n="81" break="no"/>tatem humanam /  intemperantiam qua homines 
+          vtun<lb ed="#P" n="82" break="no"/>tur / nego consequentiam: sicut non sequitur: quilibet 
+          ho<lb ed="#P" n="83" break="no"/>mo est vnus solus homo: ergo tota multitudo est vnus 
+          so<lb ed="#P" n="84" break="no"/>lus homo: quodlibet foramen in naui sortes potest obstrue 
+          <lb ed="#P" n="85"/>re: et stat quod non totam multitudinem foraminum. 
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e457">
+          <lb ed="#P" n="86"/>¶ Cum dictum est licite rector reipublice meretri 
+          <lb ed="#P" n="87"/>ces permittit in republica: et minora peccata 
+          ad<lb ed="#P" n="88" break="no"/>mittit ne deteriora contingant. Iuxta hoc dubita 
+          <lb ed="#P" n="89"/>tuir. An licitum est aperire viro viam nouam 
+          pec<lb ed="#P" n="90" break="no"/>cati minoris / quatenus malora derelinquar.
+        </p>
+        <p xml:id="jm3cbb-e85189-d1e470">
+          ¶ 
+          Te<lb ed="#P" n="91" break="no"/>spondetur quod sic: quando est alter deliberatus alias maius 
+          <lb ed="#P" n="92"/>peccatum perpetrare: patet exemplariter: video / 
+          <lb ed="#P" n="93"/>sortes me occidet: aperio ei viam de capienda mea 
+          <lb ed="#P" n="94"/>pecunia iniuste (cuius pecunie dominium non 
+          acqui<lb ed="#P" n="95" break="no"/>rit) quatenus ab homicidio cesset. et illud patet. xxxiii. 
+          <lb ed="#P" n="96"/>q. ii. c. Si quidem verius. et. xxvi. q. ii. Ii qui. et. xxvi. 
+          <lb ed="#P" n="97"/>q. prima: Considera. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

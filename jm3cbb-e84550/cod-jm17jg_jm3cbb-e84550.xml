@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 27</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 27</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="138-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e84550"><!-- l3d37q27 -->
+        <head xml:id="jm3cbb-e84550-Hd1e99">Quaestio 27</head>
+        <head xml:id="jm3cbb-e84550-Hd1e101" type="question-title">An quis potest hominem occidere licite in sui defensione,
+    sic scilicet quo non potest aliter evadere quin occidat</head>
+        <p xml:id="jm3cbb-e84550-d1e104">
+          <lb ed="#P" n="71"/>CIrca quintum preceptum 
+          <lb ed="#P" n="72"/>decalogi quaeritur: an quis potest hominem occide 
+          <lb ed="#P" n="73"/>re licite in sui defensione: sic scilicet: quod non 
+          <lb ed="#P" n="74"/>potest aliter euadere quin occidat.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e115">
+          ¶ 
+          Pro<lb ed="#P" n="75" break="no"/>questionis solutione pono duas conclusiones: quarum prior est. 
+          <lb ed="#P" n="76"/>male facit ille qui hominem occidit qui iuste illum occidit 
+          <lb ed="#P" n="77"/>vel occidere facit. patet conclusio: sit sortes iuste dampnatus 
+          <lb ed="#P" n="78"/>ad mortem: sit lictor vel iudex plato: tunc dico sortes 
+          <lb ed="#P" n="79"/>male agit occidendo platonem vt suam vitam protegat. 
+          <lb ed="#P" n="80"/>probatur hec conclusio: sortes est iuste dampnatus ad mortem: 
+          <lb ed="#P" n="81"/>tam iudex quam lictor iuste procedunt ministrantes 
+          iusti<lb ed="#P" n="82" break="no"/>ciam sorti. ergo sortes facit iniuriam alterum eorum 
+          occidemn<lb ed="#P" n="83" break="no"/>do: quatenus se a morte liberet. idem est de custode 
+          <lb ed="#P" n="84"/>carceris et ceterorum. clientum ad mortem sortis iuste 
+          <lb ed="#P" n="85"/>cooperantium.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e141">
+          ¶ Secunda conclusio: sortes occidens. 
+          inua<lb ed="#P" n="86" break="no"/>dentem se iniuste qui non potest aliter euadere quin occidat / non 
+          <lb ed="#P" n="87"/>peccat in occidendo inuasorem. probatur hec conclusio. c. ad. l 
+          <lb ed="#P" n="88"/>corne. de sicca. l. ii. Is qui aggressorem vel quemcumque 
+          <lb ed="#P" n="89"/>alium in dubio vite discrimine constitutus occide 
+          <lb ed="#P" n="90"/>rit: nullam ob id falsam calumpniam metuere debet. et. l. 
+          se<lb ed="#P" n="91" break="no"/>quenti. Si quis percussorem ad se venientem 
+          ferro<lb ed="#P" n="92" break="no"/>depulerit: non teneatur homicidii. quia defensor 
+          proprii<lb ed="#P" n="93" break="no"/>salutis videtur in nullo peccasse. et iste leges funda 
+          <lb ed="#P" n="94"/>te sunt a prudentibus / in lumine naturali. ex iure 
+          pon<lb ed="#P" n="95" break="no"/>tificio patet eadem conclusio: de homicidio. c. significasti. 
+          <lb ed="#P" n="96"/>vim vi repellere omnes leges et omnia iura permittunt: 
+          <lb ed="#P" n="97"/>tamen illud debet fieri cum moderamine inculpate 
+          <lb ed="#P" n="98"/>tutele: seruetur equum moderamen: hoc est tantum illud 
+          quo<lb ed="#P" n="99" break="no"/>omisso violentia repelli non potest. Arguitur secundo ratio 
+          <lb ed="#P" n="100"/>ne ad conclusionem. si non liceret in isto casu occidere 
+          iniu<lb ed="#P" n="101" break="no"/>ste inuadentem: daretur occasio malis occidendo pluri 
+          <lb ed="#P" n="102"/>mos in reipublice perniciem. Tertio. homo secundum 
+          ordi<lb ed="#P" n="103" break="no"/>nem charitatis plus diligit animam propriame quaerit eius 
+          sa<lb ed="#P" n="104" break="no"/>lutem antede animam proximi: qua secundum eundem ordinem plus 
+          <lb ed="#P" n="105"/>potest diligere suum corpus quam corpus proximi. sed 
+          incon<lb ed="#P" n="106" break="no"/>possibile est simul seruare vtrumque corpus: ergo alium 
+          iu<lb ed="#P" n="107" break="no"/>ste in isto casu occidit. nec valet dicere: procurat 
+          sa<lb ed="#P" n="108" break="no"/>lutem corpris sui cum praeiudicio corporis alterius: quia non 
+          <lb ed="#P" n="109"/>facit contra iusticiam. qui sibiipsi ministrat iusticia: 
+          <lb ed="#P" n="110"/>postquam non est aliquis alius ei praesens ad ministrandam 
+          iu<lb ed="#P" n="111" break="no"/>sticia. Quarto arguiu. Exo. xxii. Si effrigens fur 
+          domum<lb ed="#P" n="112" break="no"/>siue suffodiens fuerit inuentus: et accepto vulnere 
+          mor<lb ed="#P" n="113" break="no"/>tuus fuerit: percussor non erit reus sanguins: vbi glo. dicit: 
+          <lb ed="#P" n="114"/>Sermo est de fure nocturno: quia praesumitur quod occideret 
+          <lb ed="#P" n="115"/>antequam desisteret. secus est de diurno: quia potest tunc 
+          discerni<lb ed="#P" n="116" break="no"/>quod venit ad furandum solum. sed minus / iustum est occidere 
+          ho<lb ed="#P" n="117" break="no"/>minem pro defensione rerum suarum quam proprii 
+          corpo<lb ed="#P" n="118" break="no"/>ris: et per consequens alium occidens in casu 
+          conclu<lb ed="#P" n="119" break="no"/>sionis non peccat. Quinto in bello iusto toto die¬ 
+          <pb ed="#P" n="139-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>pugnant homines / ne liberi / vxores / vel bona sua / 
+          <lb ed="#P" n="2"/>rapina auferentur: et rapientes si non desistant 
+          occi<lb ed="#P" n="3" break="no"/>dunt: et nemo dicit quod male agant: ergo licitum est a 
+          <lb ed="#P" n="4"/>fortiore pro proprii corperis defensione alium iniuste 
+          <lb ed="#P" n="5"/>inuadentem desiderare.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e233">
+          ¶ Contra hanc secundam 
+          con<lb ed="#P" n="6" break="no"/>clusionem arguitur per Aug. i. de libero arbitrio loquentem 
+          <lb ed="#P" n="7"/>de illis qui alios occidunt defendendo se: dicit illi non 
+          <lb ed="#P" n="8"/>sunt sine peccato liberi secundum legem diuinam qui 
+          pro<lb ed="#P" n="9" break="no"/>his rebus quas contempni oportet humana cede polluti 
+          <lb ed="#P" n="10"/>sunt. sed illic secundum mentem eius corpus nostrum est inter 
+          <lb ed="#P" n="11"/>res quas contempni optet. ergo qui defendendo corpus 
+          pro<lb ed="#P" n="12" break="no"/>prium / occidit alium: peccat contra legem diuinam.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e251">
+          ¶ Secundo 
+          <lb ed="#P" n="13"/>arguitur. si sint duo super vnum asserem / sortes / e 
+          pla<lb ed="#P" n="14" break="no"/>to / quaes asser a principio superfert: sed successu teperis 
+          asser<lb ed="#P" n="15" break="no"/>diminuitur vel deuenitur de aqua salsa aut profunda 
+          <lb ed="#P" n="16"/>ad aquam dulcem aut minus profundam quae minus 
+          super<lb ed="#P" n="17" break="no"/>fert assere integro: in illo casu sortes non potest praecipita 
+          <lb ed="#P" n="18"/>re platonem in aquam pro saluanda sua vita: era nec potest 
+          <lb ed="#P" n="19"/>occ idere licite inuadentem se.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e269">
+          ¶ Ad primum dicitur: 
+          <lb ed="#P" n="20"/>Augustinus intelligit quando inuasus potest honeste aliter 
+          <lb ed="#P" n="21"/>euadere quam occidendo inuadentem puta celeritate 
+          <lb ed="#P" n="22"/>pedum: si sit persona quam non inde cet aufugere vel verborum 
+          <lb ed="#P" n="23"/>eloquio: vel habet vulnus letale iam inflictum et alium 
+          <lb ed="#P" n="24"/>insequitur eum occidendo: iam hoc non facit in 
+          proprii<lb ed="#P" n="25" break="no"/>corporis defensione.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e285">
+          ¶ Ad secundum dico non ee idem. 
+          <lb ed="#P" n="26"/>sunt ambo in possessione actuali illius asseris debent 
+          <lb ed="#P" n="27"/>intur se sortiri vter eorum manebit saluus: supposito quod 
+          <lb ed="#P" n="28"/>sint reipublice equae vtiles. quod si alter sortiri noluerit: 
+          <lb ed="#P" n="29"/>melius est quod vnus submergatur quam ambo secundum casum: et 
+          <lb ed="#P" n="30"/>ille qui sortiri non vult / male agit in illo casu.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e298">
+          ¶ 
+          Ter<lb ed="#P" n="31" break="no"/>tio arguitur: si sortes minetur platoni quod eum occidet 
+          <lb ed="#P" n="32"/>de facto nisi plato ciccronem occidat: plato non potest 
+          <lb ed="#P" n="33"/>licite ciceronem occidere: cum est totaliter innocens: et 
+          <lb ed="#P" n="34"/>tamen hoc facit pro saluanda sua vita. ergo non habet 
+          occi<lb ed="#P" n="35" break="no"/>dere inuadentem pro saluanda sua vita.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e311">
+          ¶ Quarto 
+          argui<lb ed="#P" n="36" break="no"/>tur contra tertiam probationem probando quod illicite 
+          sibi<lb ed="#P" n="37" break="no"/>ipsi occidens ministrat iusticiam: et hoc sic: si iudex 
+          es<lb ed="#P" n="38" break="no"/>set praesens / non deberet occidere inuadentem pro sola 
+          vo<lb ed="#P" n="39" break="no"/>luntate occidendi quousque effectualiter occiderit: ergo 
+          <lb ed="#P" n="40"/>ille nondum occisus ministrat ei iusticiam antede tempus.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e325">
+          ¶ Ad 
+          <lb ed="#P" n="41"/>tertium concedo maiorem et minorem quod hoc facit pro 
+          sal<lb ed="#P" n="42" break="no"/>uanda sua vita: sed illicito medio occidendo 
+          inno<lb ed="#P" n="43" break="no"/>centem: esto quod cathegorice iudicet quod erit occisus: 
+          <lb ed="#P" n="44"/>nisi innocentem occidat.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e336">
+          ¶ Ad quartum dico: si 
+          <lb ed="#P" n="45"/>vna probatio non concludit sufficit quod omnes rationes 
+          simul<lb ed="#P" n="46" break="no"/>sumpte conclusionem probent. Secundo nego quod antede 
+          <lb ed="#P" n="47"/>tempus ministret sibiipsi iusticiam: quia si non praeueniat 
+          tem<lb ed="#P" n="48" break="no"/>pus occidendo inuasorem iniuste: non poterit sibi post 
+          <lb ed="#P" n="49"/>mortem iusticiam ministrare: nee aliquis alius pro vita 
+          <lb ed="#P" n="50"/>innocentis defendenda.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e352">
+          ¶ Quinto arguitur. l. distinc. 
+          <lb ed="#P" n="51"/>de his illicitis: loquitur pontifex de clerico qui 
+          paga<lb ed="#P" n="52" break="no"/>num occidit pro sui defensione sic inquiens. Scito 
+          <lb ed="#P" n="53"/>nos nullam occasiouem / nec vllam tribuere licentiam eis 
+          <lb ed="#P" n="54"/>quenlibet hominum quomodolibet occidendi. sed hoc 
+          <lb ed="#P" n="55"/>non diceret potestifex nisi occidere hom inem quemcumque 
+          <lb ed="#P" n="56"/>et quomodocumque esset peccatum. Item talem ir regularem 
+          <lb ed="#P" n="57"/>repiitat.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e370">
+          ¶ Sexto arguitur: grauius est occidere hominem 
+          <lb ed="#P" n="58"/>quam fornicarie mulierem cognoscere. sed si homo esset 
+          <lb ed="#P" n="59"/>in illo statu quo non potest curari nisi fornicetur: magis te 
+          <lb ed="#P" n="60"/>netur se permittere mori quam fornicari. ergo homo magis 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tenetur se permittere occidi quod alium occidere.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e383">
+          ¶ Ad 
+          <lb ed="#P" n="62"/>quintum respondetur: lbet pontifex non det licentiam de nouo 
+          <lb ed="#P" n="63"/>occidendi: ius naiure et lex ciuilis licentiam dat: et 
+          <lb ed="#P" n="64"/>hec iura non reuocat. et dato quod sit irregularis: non 
+          <lb ed="#P" n="65"/>peccat. crebriter irregularitas incurritur sine 
+          pecca<lb ed="#P" n="66" break="no"/>to.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e396">
+          ¶ Ad sextum concedo maiorem et minorem: sed 
+          co<lb ed="#P" n="67" break="no"/>sequentia est nulla. non admitto casum quod homo sit in 
+          il<lb ed="#P" n="68" break="no"/>lo casu qui morietur nisi fornicetur: et non potest aliter 
+          cu<lb ed="#P" n="69" break="no"/>rari. humores quicunque possunt per euacuationes 
+          <lb ed="#P" n="70"/>vel abstinentiam purgari. Item infirmus mulierem 
+          co<lb ed="#P" n="71" break="no"/>gnoscens alterabitur: et citius morietur. Insuper: non est 
+          <lb ed="#P" n="72"/>ita terribilis mors expectata a natura successiue 
+          <lb ed="#P" n="73"/>agente sicut tradere collum iugulo iniuste 
+          percutien<lb ed="#P" n="74" break="no"/>tis.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e417">
+          ¶ Septimo arguitur: occidens vult occidere 
+          ho<lb ed="#P" n="75" break="no"/>minem: ergo peccat: cum hoc faciat auctoritate propria. 
+          <lb ed="#P" n="76"/>COctauo arguitur: sequitur ex his quod aliquis 
+          religio<lb ed="#P" n="77" break="no"/>sus ex defensione sue vite potest suum praelatum occidere: 
+          <lb ed="#P" n="78"/>et filius patrem: supposito quod iudicet aliter euadere 
+          <lb ed="#P" n="79"/>nequeat.
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e430">
+          ¶ Ad septimum dicitur: occidens vult per se et 
+          <lb ed="#P" n="80"/>principaliter se liberare: et hoc principaliter intendit. 
+          <lb ed="#P" n="81"/>de per accidens solum vult mortem: quia non potest aliter 
+          eua<lb ed="#P" n="82" break="no"/>dere. sicut calor producit calorem de perse: et corrumpit 
+          <lb ed="#P" n="83"/>frigus de per accidens
+        </p>
+        <p xml:id="jm3cbb-e84550-d1e441">
+          ¶ Ad octauum: facile non est 
+          <lb ed="#P" n="84"/>admittendum quod praelatus sit suum religiosum occisurus: 
+          <lb ed="#P" n="85"/>vel pater filium. sed casu admisso: vbi hoc apparentis 
+          <lb ed="#P" n="86"/>sime indubitanter inuasus sic iudicat: facile est 
+          consequer<lb ed="#P" n="87" break="no"/>dicere. nemo est sibi secunds. potest tamen patrem relinquere 
+          <lb ed="#P" n="88"/>(a qua vitam corperalem et spuritalem habuit) esto quod occidatur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

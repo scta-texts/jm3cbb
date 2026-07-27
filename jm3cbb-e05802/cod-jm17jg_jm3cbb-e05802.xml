@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="10-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e05802"><!-- l3d2q4 -->
+        <head xml:id="jm3cbb-e05802-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e05802-Hd1e101" type="question-title">Utrum organisatio et carnis Christi plasmatio Verbi
+    incarnationem praecesserunt</head>
+        <p xml:id="jm3cbb-e05802-d1e104">
+          <lb ed="#P" n="80"/>QUarto queritur: 
+          <lb ed="#P" n="81"/>vtrum organisatio et carnis 
+          cri<lb ed="#P" n="82" break="no"/>sti plasmatio verbi 
+          incarnatio<lb ed="#P" n="83" break="no"/>nem praecesserunt. In hac 
+          questio<lb ed="#P" n="84" break="no"/>ne ponam primo preambula ad 
+          <lb ed="#P" n="85"/>quaestionis elucidationem. Secundo 
+          <lb ed="#P" n="86"/>conclusiue respondebo: et contra 
+          con<lb ed="#P" n="87" break="no"/>clusiones paucis instabo.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e124">
+          ¶ Pro primi 
+          expedi<lb ed="#P" n="88" break="no"/>tione scito. iiii. ad incarnationem concurrunt. primum 
+          <lb ed="#P" n="89"/>fuit translatio materie debite ad generationis 
+          locum<lb ed="#P" n="90" break="no"/>in virginali vtero. Secundum fuit corporis christi 
+          fabri<lb ed="#P" n="91" break="no"/>ca et plasmatio. Tertium animatio seu anime infusio 
+          <lb ed="#P" n="92"/>Quartum vnio siue assumptio animati in suppositi vnita 
+          <lb ed="#P" n="93"/>tem. In formatione corporis hominis duplex motus 
+          <lb ed="#P" n="94"/>concurrit: scilicet: localis et alterationis. localis 
+          qua<lb ed="#P" n="95" break="no"/>materia corporis transfertur ad locum generationi de 
+          <lb ed="#P" n="96"/>putatum: puta ad femine matricem. etiam est materie 
+          <lb ed="#P" n="97"/>condensatio in matrice: que non fit sine motu locali. 
+          <lb ed="#P" n="98"/>partes namque rei condensate minorem locum occupant 
+          <lb ed="#P" n="99"/>quam prius: et per sui approximationem priorem locum 
+          par<lb ed="#P" n="100" break="no"/>tialiter mutant. Secundo concurrit motus alteratio 
+          <lb ed="#P" n="101"/>nis qua materia in loco debito alteraturet 
+          disponi<lb ed="#P" n="102" break="no"/>tur difformiter secundum organorum et partium etheroge 
+          <lb ed="#P" n="103"/>niarum diuersitatem ad forme vltime susceptionem. 
+          <lb ed="#P" n="104"/>Illa dispositio per multas fit alterationes praeuias: 
+          <lb ed="#P" n="105"/>et ad diuersas formas accidentales: et aliquas 
+          sub<lb ed="#P" n="106" break="no"/>stantiales: donec materia disponatur ad introductio 
+          <lb ed="#P" n="107"/>nem forme vltime a natura intente principalitur: secundum quod 
+          <lb ed="#P" n="108"/>dici solet: anima prius viuit vita vegetatiua: postes 
+          <lb ed="#P" n="109"/>sensitiua. agens et disponens materiam et vltimam 
+          for<lb ed="#P" n="110" break="no"/>mam introducens: priorem ei incompossibilem corrumpit: 
+          <lb ed="#P" n="111"/>sicut calor corrumpit frigus vt calorem inducat. In anima 
+          <lb ed="#P" n="112"/>tione producitur anima intellectiua a deo quando corpus est 
+          suf<lb ed="#P" n="113" break="no"/>ficienter organisatum. vnio autem animati corperis cum 
+          ver<lb ed="#P" n="114" break="no"/>bo est ipsa verbi incarnatio.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e185">
+          ¶ Secundo scito: duplex est 
+          <lb ed="#P" n="115"/>prioritas vel ordo vt ad propositum sufficit. vnus est 
+          or<lb ed="#P" n="116" break="no"/>do tperis vel instantis: quemadmodum est inter patrem in 
+          <lb ed="#P" n="117"/>creaturis et suum filium. Alius est ordo nature vel 
+          priori<lb ed="#P" n="118" break="no"/>tas et posteritas nature: et est inter illa quirum vnum 
+          ali<lb ed="#P" n="119" break="no"/>ud praesupponit et ab eo dependet: siue sequatur 
+          tepe<lb ed="#P" n="120" break="no"/>siue non. hoc modo stat dare duo eterna a: et b. et tamen a 
+          <lb ed="#P" n="121"/>est pus nature ipso b. vt si mundus fuisset abetetno 
+          <pb ed="#P" n="10-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vt putauit Aristo. et est deo possibile: radius 
+          so<lb ed="#P" n="2" break="no"/>lis vel lumen solis in aliqua parte sui orbis fuisset 
+          <lb ed="#P" n="3"/>ita cito sicut sol.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e215">
+          ¶ Pis praemissis pono duas 
+          conclu<lb ed="#P" n="4" break="no"/>siones quaestioni raeeon siuas Quarum prior est: inter 
+          mo<lb ed="#P" n="5" break="no"/>tum vel mutationem materie ad locum debitum / 
+          corpo<lb ed="#P" n="6" break="no"/>ris plasmationem / animationem / et animati / assumptionem 
+          <lb ed="#P" n="7"/>fuit ordo nature in incarnatione verbi: probatio: 
+          <lb ed="#P" n="8"/>personalis assumptio animati praesupponit animationem 
+          <lb ed="#P" n="9"/>et animatio corporis plasmationem: et plasmatio 
+          cor<lb ed="#P" n="10" break="no"/>poris / locum conuenientem in quo plasmatum est: et 
+          <lb ed="#P" n="11"/>hoc naturaliter loquendo et de communi lege.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e235">
+          ¶ 
+          Se<lb ed="#P" n="12" break="no"/>cunda: inter hec quattuor nullus erat ordo 
+          tempo<lb ed="#P" n="13" break="no"/>ris vel instantis: probatur hec conclusio: quia antequam 
+          <lb ed="#P" n="14"/>virgo consensit dicens angelo: ecce ancilla domini fiat 
+          <lb ed="#P" n="15"/>mihi secundum verbum tuum: non videtur fuisse aliqua 
+          ope<lb ed="#P" n="16" break="no"/>ratio specialis ad incarnationem: sed in instanti 
+          ter<lb ed="#P" n="17" break="no"/>minante verba / omnia hec completa sunt. quod animatio non 
+          <lb ed="#P" n="18"/>praecessit incarnationem. patet ratione: quia si corpus 
+          cri<lb ed="#P" n="19" break="no"/>sti fuisset in aliquo tempore vel instanti et non assum 
+          <lb ed="#P" n="20"/>ptum: fuisset in sua personalitate subsistens: et fuisset 
+          <lb ed="#P" n="21"/>persona ante eius assumptionem: sed hoc est falsum 
+          <lb ed="#P" n="22"/>quia illo dato diua virgo non fuisset mater dei: non 
+          <lb ed="#P" n="23"/>enin genuisset deum: sed illum purum hominem: consequens 
+          <lb ed="#P" n="24"/>est error nestorii: contra quem dicit Damascenus quod 
+          <lb ed="#P" n="25"/>diua virgo nunquam fuit mater puri hominis: sed mater 
+          <lb ed="#P" n="26"/>dei: ad hoc magister Augustinum introducit de 
+          fi<lb ed="#P" n="27" break="no"/>de ad Petrum dicentem / firmissime tene et 
+          nullate<lb ed="#P" n="28" break="no"/>nus dubites non carnem christi sine diuinitate 
+          conce<lb ed="#P" n="29" break="no"/>ptam in vtero virginis priusquam conciperetur a verbo: 
+          <lb ed="#P" n="30"/>sed ipsum verbum deum sue carnis acceptione 
+          con<lb ed="#P" n="31" break="no"/>ceptum / ipsamque carnem verbi incarnatione 
+          conce<lb ed="#P" n="32" break="no"/>ptam: et magister in vltimo caposlo littere introducit. 
+          <lb ed="#P" n="33"/>et licet animatio probetur non praecessisse tempore 
+          incar<lb ed="#P" n="34" break="no"/>nationem verbi: non ita facile conuincitur quod materie 
+          <lb ed="#P" n="35"/>delatioe preparatio ad animationem fuerit in 
+          eo<lb ed="#P" n="36" break="no"/>dem instanti cum animatione: tamen totum est ponendum 
+          <lb ed="#P" n="37"/>fuisse in eodem instanti: cum omnia fuerunt facta 
+          speciali<lb ed="#P" n="38" break="no"/>spiritus sancti operatione. quid mirum si hec quattuor 
+          <lb ed="#P" n="39"/>fuerunt facta in eodem instanti: sicut in primo Adam 
+          <lb ed="#P" n="40"/>(qui non successiue producebatur ) cuius corpus 
+          su<lb ed="#P" n="41" break="no"/>bito producebatur et mox inspirabatur spiraculum 
+          vi<lb ed="#P" n="42" break="no"/>te: similiter in Eua: in illo instanti quo corrupta est 
+          <lb ed="#P" n="43"/>forma limi: et coste Ade: plasmatum est corpus Eue. 
+          <lb ed="#P" n="44"/>vnde Ioannes Damascenus libs. iii. ca. ii. sic inquit 
+          <lb ed="#P" n="45"/>post igitur consensum beatem virginis spiritus sactus 
+          su<lb ed="#P" n="46" break="no"/>peruenit in eam iuxta sermonem: et paulopost 
+          constru<lb ed="#P" n="47" break="no"/>xit sibiipsi ex castis: et purissimis sanguinibus 
+          car<lb ed="#P" n="48" break="no"/>nem animatam anima rationali et intellectuali 
+          premiti<lb ed="#P" n="49" break="no"/>as nostre conspirationis: non cum semine: sed condito 
+          <lb ed="#P" n="50"/>rio opere per spnn sanctum: non paulatim per 
+          addi<lb ed="#P" n="51" break="no"/>tamenta expleta figura: sed vno contextu 
+          absolu<lb ed="#P" n="52" break="no"/>to. Ex his patet: non est aliquis ordo temporis 
+          isto<lb ed="#P" n="53" break="no"/>rum quattuor que ponuntur in aliorum homim 
+          genera<lb ed="#P" n="54" break="no"/>tione: et propterea aliqui (licet minus prudenter) 
+          di<lb ed="#P" n="55" break="no"/>xerunt christum fuisse prius animatum Ioanne baptista: 
+          <lb ed="#P" n="56"/>fundantes se in dicto Ioannis baptiste: d¶ post me 
+          <lb ed="#P" n="57"/>venit scict nascendo ante me factus est per aimationem 
+          <lb ed="#P" n="58"/>et in quodam sermone dicitr / quando exultauit in vtero 
+          <lb ed="#P" n="59"/>nondum inerat spiritus vite: et iam erat animatus: illud est 
+          <lb ed="#P" n="60"/>improbabile: quanduom christus mense sexto post Ioamnem 
+          conce<lb ed="#P" n="61" break="no"/>ptus est: modo spacio sex mensium non defertur animatio 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>in muliere: ergo a fortiore non tantum tardatur in 
+          mascn<lb ed="#P" n="63" break="no"/>lo. dictum Ioannis aliter ergo est exponendum: christus 
+          <lb ed="#P" n="64"/>venit post Ioannem tempore: saltem secundum esse christi: ante 
+          <lb ed="#P" n="65"/>Ioannem factus est dignitate: vel prius erat: antequam 
+          <lb ed="#P" n="66"/>Abraham fuerit sum: secundudm diuinitatem. Ad aliud 
+          non<lb ed="#P" n="67" break="no"/>dum inerat spiritus vite et potestas respirandi: quia 
+          na<lb ed="#P" n="68" break="no"/>scendo tunc acquirit homo primo communem aerem
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e363">
+          ¶ 
+          Con<lb ed="#P" n="69" break="no"/>tra hanc conclusionem arguitur probando quod verbum 
+          <lb ed="#P" n="70"/>non est incarnatum in instanti terminante illa verba: 
+          <lb ed="#P" n="71"/>ecce ancilla domini: fiat mihi secundum verbum tuum: et hoc sic: 
+          <lb ed="#P" n="72"/>auctoritate Augu. iiii. de trinita. et in lib. lxxxiii. 
+          <lb ed="#P" n="73"/>questionum: et super Ioannem vbi legitur Ioannis 
+          <lb ed="#P" n="74"/>ii. Soluite templum hoc / et in tribus diebus excita 
+          <lb ed="#P" n="75"/>bo illud: dixerunt ergo iudei sexaginta annis 
+          edi<lb ed="#P" n="76" break="no"/>ficatum est hoc templum: et in tribus diebus 
+          excita<lb ed="#P" n="77" break="no"/>bis illud: vbi Augustinus inquit. numerus pefectio 
+          <lb ed="#P" n="78"/>ni diuini corporis conuenit: quia vt dicunt 
+          phisici<lb ed="#P" n="79" break="no"/>tot diebus sorma humani corporis perficitur. 
+          Se<lb ed="#P" n="80" break="no"/>cundo ex conclusione et veritate certissima iuncta / 
+          <lb ed="#P" n="81"/>sequitur quod corpus christi mamsit diutius animatum in 
+          <lb ed="#P" n="82"/>virgineo vtero quam aliorum hominim corpora: patet: 
+          con<lb ed="#P" n="83" break="no"/>ceptus erat de spuit sancto octauo kalendis 
+          apri<lb ed="#P" n="84" break="no"/>lis: et natus est extra vterum. viii. halendis 
+          ianua<lb ed="#P" n="85" break="no"/>rii: et per consequens mansit nouem mensibus 
+          inte<lb ed="#P" n="86" break="no"/>gris corpus animatum in vtero virgineo. 
+          corpora<lb ed="#P" n="87" break="no"/>in vteris aliarum mulierum non manent ita diu animata. 
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e407">
+          <lb ed="#P" n="88"/>¶ Respondetur Augustinus intelligit quod successiue 
+          se<lb ed="#P" n="89" break="no"/>xaginta dierum curriculo augmentatum est illud 
+          <lb ed="#P" n="90"/>corpus: quia in principio conceptionis ita tenuis 
+          <lb ed="#P" n="91"/>et parua erat illa materia ( vt dicit magister 
+          vlti<lb ed="#P" n="92" break="no"/>mo ca. distinctione sequenti ) et humano visui vix 
+          <lb ed="#P" n="93"/>potest subiici: diebus autem quos Augustinus memo 
+          <lb ed="#P" n="94"/>rat perfecta est: et notabilis facta.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e425">
+          ¶ Ad aliud 
+          argu<lb ed="#P" n="95" break="no"/>mentum: concedo quod diutius stetit corpus christi 
+          ani<lb ed="#P" n="96" break="no"/>matum in vtero virgineo quam aliorum hominim 
+          corpora<lb ed="#P" n="97" break="no"/>animata. aliorum hominum corpora successiue et na 
+          <lb ed="#P" n="98"/>turaliter disponuntur: sed tarda molumina nescit 
+          <lb ed="#P" n="99"/>spirits sancti gratia: corpus christi compegit subito 
+          <lb ed="#P" n="100"/>et licet corpus animatum et incarnatum diutius ste 
+          <lb ed="#P" n="101"/>tit in vtero virgineo quam corpora animata aliorum: 
+          <lb ed="#P" n="102"/>tamemn materia non stetit diutius iu vtero. mulier 
+          <lb ed="#P" n="103"/>communis dicitur communiter concipere quando semen 
+          ge<lb ed="#P" n="104" break="no"/>nerationi aptum primo suscipit: et licet variis tem 
+          <lb ed="#P" n="105"/>poribus humani fetus plus quam aliorum brutorum 
+          <lb ed="#P" n="106"/>maternos vteros egrediantur: communiter 
+          tamen<lb ed="#P" n="107" break="no"/>nouem mensibus stant in vtero materno: et sic fecit 
+          <lb ed="#P" n="108"/>christus in vtero virgineo.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e458">
+          ¶ Sed contra ista 
+          argui<lb ed="#P" n="109" break="no"/>tur: ex dictis sequitur quod corpus christi erat animatum in 
+          <lb ed="#P" n="110"/>multo minori quantitate quam aliorum hominum corpra. 
+          <lb ed="#P" n="111"/>Preterea: corpus christi non poterat augeri in vtero 
+          <lb ed="#P" n="112"/>materno nec aliquid aliud corpus: quia hoc est 
+          susci<lb ed="#P" n="113" break="no"/>piendo alimentum per vmbilicum: sed illo dato partes 
+          <lb ed="#P" n="114"/>superiores non augebuntur. cibus est corpus graue: et 
+          <lb ed="#P" n="115"/>non ascendet naturalitur.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e477">
+          ¶ Ad primum: concedo quod corpus 
+          <lb ed="#P" n="116"/>christi fuit animatum in minori quantitate quam aliormhominim 
+          cor<lb ed="#P" n="117" break="no"/>pora: sed non oportet de prima materia.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e484">
+          ¶ 
+          Secum<lb ed="#P" n="118" break="no"/>dum argumentum est nullum: cibus assumitur per os: 
+          <lb ed="#P" n="119"/>et tamen caput homis augetur: virtus attractiua 
+          <lb ed="#P" n="120"/>animalis ad se trahit cibum quem retinet quo ad 
+          <lb ed="#P" n="121"/>purum: impurum segregando: quare hoc non est miram 
+          <lb ed="#P" n="122"/>dum de alimento per vmbilicum suscepto. Et patet 
+          <pb ed="#P" n="11-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>amplius in arbore: in cuius trunco suscipitur 
+          ali<lb ed="#P" n="2" break="no"/>mentum. et in arbore euersa: si homo suspendatur et 
+          <lb ed="#P" n="3"/>ministretur ei cibus per os / adhue aletur: et eodem 
+          <lb ed="#P" n="4"/>modo per inferiora: licet non ita bene et diu.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e510">
+          ¶ 
+          Ter<lb ed="#P" n="5" break="no"/>tio arguitur probando quod corpus christi non est 
+          plas<lb ed="#P" n="6" break="no"/>matum ex sanguinibus virginis: dicit apostolus ad 
+          <lb ed="#P" n="7"/>Romanos. i. quod factus est ex semine dauid secundum 
+          car<lb ed="#P" n="8" break="no"/>nem.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e521">
+          ¶ Quarto arguitnr: si ergo secunda 
+          conclu<lb ed="#P" n="9" break="no"/>sio cum dictis esset vera. sequeretur quod sanguis a 
+          <lb ed="#P" n="10"/>variis partibus corporis virginei moueretur ad 
+          <lb ed="#P" n="11"/>matricem subito: et per consequens motus fieret in 
+          <lb ed="#P" n="12"/>instanti: contra Aristotelem. iii. et. iiii. phisicorum. 
+          Si<lb ed="#P" n="13" break="no"/>dicas sicut dicendum est: erit mutatio subita et 
+          in<lb ed="#P" n="14" break="no"/>stantanea: tunc in eodem instanti sanguis est in 
+          ter<lb ed="#P" n="15" break="no"/>mino ad quem: in termino a quo et in medio: quia 
+          <lb ed="#P" n="16"/>quod mouetur in instanti est in illis tribus locis: et 
+          <lb ed="#P" n="17"/>quandocumque est in termino a quo: est sanguis: ergo in 
+          <lb ed="#P" n="18"/>primo instanti quo erat in matrice adhuc 
+          mate<lb ed="#P" n="19" break="no"/>ria erat sub forma sanguinis: modo sanguis non 
+          <lb ed="#P" n="20"/>est animatus.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e550">
+          ¶ Ad tertium: dico quod dictum 
+          apostoli<lb ed="#P" n="21" break="no"/>stat cum dicto Damasceni. semen vocatur 
+          princi<lb ed="#P" n="22" break="no"/>pium materiale de quo res generatur: modo 
+          pu<lb ed="#P" n="23" break="no"/>rus sanguis in proposito erat huiusmodi. et cum aliorum 
+          <lb ed="#P" n="24"/>hominum corpora ex sanguine et menstruo 
+          impu<lb ed="#P" n="25" break="no"/>riori conslentur: consequens est corpus christi ex 
+          pu<lb ed="#P" n="26" break="no"/>rissima materia fuisse conflatum.
+        </p>
+        <p xml:id="jm3cbb-e05802-d1e566">
+          ¶ Ad quartum ramdon 
+          <lb ed="#P" n="27"/>detur: in instanti quo primo erat materia in 
+          matri<lb ed="#P" n="28" break="no"/>ce diue virginis: illa materia erat organisata et in 
+          <lb ed="#P" n="29"/>formata aninma intellectiua: et totum assumptum a 
+          ver<lb ed="#P" n="30" break="no"/>bo: et erat primum instans non esse sanguinis: et 
+          po<lb ed="#P" n="31" break="no"/>terat esse in medio et in matrice fimul et semel / et 
+          <lb ed="#P" n="32"/>in termino a quo: et hoc patet de graui 
+          simplici<lb ed="#P" n="33" break="no"/>posito in vacuo quod mutatur in instanti: et clarius 
+          <lb ed="#P" n="34"/>patet: si vnus angelus faciat vnam circuitionem 
+          cir<lb ed="#P" n="35" break="no"/>ca corpus spericum vel circulare in instanti 
+          simul<lb ed="#P" n="36" break="no"/>est cum termino a quo et termino ad quem et in 
+          me<lb ed="#P" n="37" break="no"/>dio insimul simultate instantanea: et nego quod in quo 
+          <lb ed="#P" n="38"/>cumque instanti materia fuit in termino a quo quod erat 
+          <lb ed="#P" n="39"/>sub forma sanguinis: immo in instanti quo primo 
+          <lb ed="#P" n="40"/>est in matrice potest esse in termino a quo: et in 
+          il<lb ed="#P" n="41" break="no"/>lo non est sub forma sanguinis. Illud instans est 
+          vl<lb ed="#P" n="42" break="no"/>timum instans in quo materia est termino in a quo. 
+          <lb ed="#P" n="43"/>sed non est vltimum instans in quo est sub forma 
+          san<lb ed="#P" n="44" break="no"/>guinis. quia tale non datur: cum primum instans esse 
+          <lb ed="#P" n="45"/>animationis detur. Nec sanguis dicitur esse materia 
+          <lb ed="#P" n="46"/>corporis christi: eo quod sanguis compositionem sui 
+          corpo<lb ed="#P" n="47" break="no"/>ris ingrediatur: sed quod erat materia sanguinis est 
+          <lb ed="#P" n="48"/>materia corporis christi. et quia de variis locis 
+          <lb ed="#P" n="49"/>fluebat sanguis vtitur sanguinibus in plurali 
+          Da<lb ed="#P" n="50" break="no"/>mascenus. mutatio exhibita materie poterat esse 
+          <lb ed="#P" n="51"/>siue per plenum siue quod illud corpus subito 
+          cede<lb ed="#P" n="52" break="no"/>ret. poterat esse etiam in termino ad quem non 
+          transe<lb ed="#P" n="53" break="no"/>undo per medium / si deus voluisset. corpus 
+          christi<lb ed="#P" n="54" break="no"/>incipit esse sub speciebus panis et vini in 
+          instanti<lb ed="#P" n="55" break="no"/>terminante verba: nec mouetur vel mutatur per 
+          me<lb ed="#P" n="56" break="no"/>dium. quod istorum factum est ( quia hoc miraculo 
+          <lb ed="#P" n="57"/>se egit) nouit. certum est nobis quod subito corpus 
+          <lb ed="#P" n="58"/>christi est incarnatum: licet quelibet harum partium 
+          <lb ed="#P" n="59"/>sit nobis dubia: materia non mutabatur per 
+          me<lb ed="#P" n="60" break="no"/>dium: vel mutabatur per medium alio corpore 
+          cedem<lb ed="#P" n="61" break="no"/>te: vel mouebatur per plenum aliud corpus penetrando.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

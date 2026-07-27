@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 34</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 34</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="145-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e88834"><!-- l3d37q34 -->
+        <head xml:id="jm3cbb-e88834-Hd1e99">Quaestio 34</head>
+        <head xml:id="jm3cbb-e88834-Hd1e101" type="question-title">An incestus et peccatum sodomiticum sint gravia peccata, et
+    quis est ordo horum peccatorum inter se</head>
+        <p xml:id="jm3cbb-e88834-d1e104">
+          <lb ed="#P" n="115"/>QUeritur quinto: an incessiis 
+          <lb ed="#P" n="116"/>et peccatum sodomitici sint grauia 
+          pec<lb ed="#P" n="117" break="no"/>cata: et quis est ordo horum peccatorum 
+          <lb ed="#P" n="118"/>inter se.
+        </p>
+        <p xml:id="jm3cbb-e88834-d1e115">
+          ¶ Pro solut ione huius questionis 
+          nota<lb ed="#P" n="119" break="no"/>his quod incestus est luxuria ob consanguineitatem 
+          <pb ed="#P" n="146-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vel affinitatem proueniens: siue cognatio fuerit 
+          <lb ed="#P" n="2"/>carnais vel spiritualis. in quibus gradibus 
+          consan<lb ed="#P" n="3" break="no"/>guineitas et affinitas ortum habent in quarto 
+          pa<lb ed="#P" n="4" break="no"/>tuit. de peccato sodomitico non multum immora 
+          <lb ed="#P" n="5"/>bor in particulari. sufficit aliqua tangere in 
+          vni<lb ed="#P" n="6" break="no"/>uersali: peccatum enim sodoniticum diuiditur in 
+          <lb ed="#P" n="7"/>multos gradus: quorum primus est hestialitas: 
+          <lb ed="#P" n="8"/>qui fit inter hominem et bestiam: sisit copula inter aliquis 
+          <lb ed="#P" n="9"/>eiusdem speciei. dicitur sodomiticum ab illa vrbe 
+          so<lb ed="#P" n="10" break="no"/>doma. vel si sit inter aliquos diuersorum sexuum ac 
+          <lb ed="#P" n="11"/>si esset eodem sexu: vt in vase indebito: perinde est 
+          <lb ed="#P" n="12"/>ac si esset cum duobus eiusdem sexus. si est pollutio 
+          <lb ed="#P" n="13"/>sine alterius commixtione est mollicies. peccatum 
+          <lb ed="#P" n="14"/>contra naturam est superius ad hec ommina et ad 
+          ali<lb ed="#P" n="15" break="no"/>quos alios actus quos vir potest exercere cum 
+          mu<lb ed="#P" n="16" break="no"/>liere et impudice. nec hic conducit fodere cisternas. 
+          <lb ed="#P" n="17"/>remitto ad alios in hac parte. si de fetore erubuit 
+          <lb ed="#P" n="18"/>alexander loqui in proprio vocabulo: quod turpe 
+          so<lb ed="#P" n="19" break="no"/>nat fit in edi: a fortiori sicut hoc flagitium scelestum ne 
+          <lb ed="#P" n="20"/>pharium et nephandum est: sic pariter est nephandum. 
+          <lb ed="#P" n="21"/>hic tacendum est. casus ouan erat sodomia: vel quando homo 
+          <lb ed="#P" n="22"/>dormit vt polluatur: ille actus est sodomia: et mimmum 
+          <lb ed="#P" n="23"/>peccatum sodomie. secundum in malicia est mollicies 
+          <lb ed="#P" n="24"/>vel parum ab eo differens: sodomia est peior. et bestia 
+          <lb ed="#P" n="25"/>litas pessimus gradus et maxine inaturalis: non sto in 
+          <lb ed="#P" n="26"/>multis gradibus in quibus hom potest ipudice 
+          cognos<lb ed="#P" n="27" break="no"/>cere suam mulierem vel aliam.
+        </p>
+        <p xml:id="jm3cbb-e88834-d1e183">
+          ¶ Istis notates pono 
+          con<lb ed="#P" n="28" break="no"/>clusiones.
+        </p>
+        <p xml:id="jm3cbb-e88834-d1e189">
+          ¶ Prima est: incestus aliquis est magnum peccatum. 
+        </p>
+        <p xml:id="jm3cbb-e88834-d1e191">
+          <lb ed="#P" n="29"/>¶ Secunda conclsio: sodomia est graue peccatu. capio 
+          so<lb ed="#P" n="30" break="no"/>domiam ad omnes species: quia sic loquentes crebro vtunt 
+          <lb ed="#P" n="31"/>in hac feda spe. nec curo de modo improprio nec alios 
+          <lb ed="#P" n="32"/>impugnare. esto quod dissute procedant. probatur: aliquis 
+          in<lb ed="#P" n="33" break="no"/>cestus est sic peccatum quod est one ius nature propriissimum 
+          <lb ed="#P" n="34"/>vetitum hominibus et brutis / dormire cum propria matre vt 
+          <lb ed="#P" n="35"/>alibi suasum est: ergo aliquis incestus est horribilis. 
+          ali<lb ed="#P" n="36" break="no"/>quis tamen incestus est modicum mortale super simplicem 
+          <lb ed="#P" n="37"/>fornicationem: vt cognoscere aliquam in vltimo 
+          gra<lb ed="#P" n="38" break="no"/>du consanguineitats vel affinitatir. vbi est maior pro 
+          <lb ed="#P" n="39"/>pinquitas naturalis: ibi incestus est peior: ceteris 
+          <lb ed="#P" n="40"/>paribus: ita quod hic potes dare gradus / simplex 
+          forni<lb ed="#P" n="41" break="no"/>catio / incestus in quarto gradu / incestus in tertio / 
+          <lb ed="#P" n="42"/>in secundo. et potes ire prius / in linea descendenti: et post 
+          <lb ed="#P" n="43"/>ea ad ascendentem. patrem cognoscere filiam: filium 
+          co<lb ed="#P" n="44" break="no"/>gnoscere matrem (quod est basiliscus in ista coordinatone ) 
+          <lb ed="#P" n="45"/>qui cognoscit aliquam in quinto gradu / non committit in 
+          <lb ed="#P" n="46"/>cestum Ex quo patet: incestus vno tempore non est 
+          ince<lb ed="#P" n="47" break="no"/>stus in alio tempore. tempore Beati Gregorii erat 
+          <lb ed="#P" n="48"/>incestus cognoscere mulierem in sexto gradu. tempere 
+          <lb ed="#P" n="49"/>Innocentii desinebat esse incestus: incestus sequitur 
+          <lb ed="#P" n="50"/>ordinationem ecclesie vbi non est contra iuns nature. 
+          <lb ed="#P" n="51"/>Secundo sequitur: aliquis cognoscit consanguineam eius 
+          <lb ed="#P" n="52"/>ii tertio gradu consanguineitatis / vel in secundo: et 
+          <lb ed="#P" n="53"/>tamen non committit incestum. patet: post dispensationem. 
+          <lb ed="#P" n="54"/>Tertio sequitur: male dicunt homineset inscite ecliam 
+          <lb ed="#P" n="55"/>non posse prohibere aliquid sub pena mortalis noxe: 
+          <lb ed="#P" n="56"/>patet: quia sic incestus in tertio et in quarto gradu non 
+          <lb ed="#P" n="57"/>eset maior quam fornicatio simplex. Quarto sequitur: lbet 
+          <lb ed="#P" n="58"/>incestus non sit duo pcctam totalia realiter: est tamen 
+          <lb ed="#P" n="59"/>duo equiualentur: hoc est equiualet duobus mortalibus: 
+          <lb ed="#P" n="60"/>sint duo sortes et plato: quorum prior cognoscit ber¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>mam in quinto solutam: inter illos est simplex 
+          fornica<lb ed="#P" n="62" break="no"/>tio. plato cognoscat vnam in tertio gradu consanguinei 
+          <lb ed="#P" n="63"/>tatis alias solutam. plato magis peccat quam sortes. 
+          di<lb ed="#P" n="64" break="no"/>catur excessus eius super peccatum sortis b. et illa ps quae 
+          edui<lb ed="#P" n="65" break="no"/>ualet peccato sortis a. Quinto sequitur: aliquis incesius 
+          <lb ed="#P" n="66"/>non excedit simplicem fornicationem in proportione 
+          <lb ed="#P" n="67"/>emiola. aliquis non excedit fornicationem 
+          simplicem<lb ed="#P" n="68" break="no"/>in proportione sexquioctaua. aliquis incestus fornicatio 
+          <lb ed="#P" n="69"/>nem sunplicem excedit in proportione vicena vel 
+          trice<lb ed="#P" n="70" break="no"/>na: vt incestus cum matre. potes committere incestum 
+          <lb ed="#P" n="71"/>in affinitate / vel commaternitate / vel in filia illius 
+          <lb ed="#P" n="72"/>qui te de fontibus leuauit. Dicitur incestus ab in quod 
+          <lb ed="#P" n="73"/>est non et castus: quasi non castus. sed interpretatio 
+          <lb ed="#P" n="74"/>non conuertitur cum interpretato: hec interpratatio 
+          cui<lb ed="#P" n="75" break="no"/>libet speni luxurie est communis: et nulli vni addicta. 
+          mar<lb ed="#P" n="76" break="no"/>tinus in quaestione de incestu dicit aliqua non satis 
+          di<lb ed="#P" n="77" break="no"/>gesta: vtpote in quinta conclusione: incestus non 
+          exten<lb ed="#P" n="78" break="no"/>dit se de iure diuino ad affinitatem. sed quero 
+          ab<lb ed="#P" n="79" break="no"/>eo: an filius potest habere nouercam: et patet quod non: 
+          Leui<lb ed="#P" n="80" break="no"/>tici. xviii. et est hoc in noua lege stabile. in fine 
+          eius<lb ed="#P" n="81" break="no"/>dem questionis cespitat an cognoscere aliquam vbi est 
+          co<lb ed="#P" n="82" break="no"/>gnatio spuristalis sit grandioris culpe quam pure 
+          absolu<lb ed="#P" n="83" break="no"/>tam cognscere: constat quod sic abutitur in ilia quinta 
+          conclu<lb ed="#P" n="84" break="no"/>sione. ponit cognationem spuritalem in sacranento pneine. 
+          <lb ed="#P" n="85"/>in fine septime conclusionis: cum post canonistas aliques 
+          <lb ed="#P" n="86"/>rectas spenis euumerauit. et in calce subnextit: et hoc si 
+          <lb ed="#P" n="87"/>inueniatur in istis specialis prohibitio. si non his 
+          <lb ed="#P" n="88"/>quos imitatur fidem impartitus est: quare non vidit 
+          <lb ed="#P" n="89"/>canones. in fine octaue conclusionis bene dicit quod incesius 
+          <lb ed="#P" n="90"/>non est spenis specialissima. sed dando tale 
+          discrimen<lb ed="#P" n="91" break="no"/>eesentiale in spebus / creberrime a vero deuiat cum olam 
+          <lb ed="#P" n="92"/>et aliis multis.
+        </p>
+        <p xml:id="jm3cbb-e88834-d1e334">
+          ¶ Secunda conclusio principalis 
+          proba<lb ed="#P" n="93" break="no"/>tur: quod sodomia est grande peccatu. propter percatum sodo 
+          <lb ed="#P" n="94"/>miticum deus destruxit sodomam / gomorram /et alias 
+          <lb ed="#P" n="95"/>tres ciuitates a sene vsque ad pueros inclusiue: 
+          Ge<lb ed="#P" n="96" break="no"/>nesis. xix. ergo magna pena a deo infligitur pro hoc 
+          sce<lb ed="#P" n="97" break="no"/>lere: sequitur quod scelus ipsum est nephandum. et ista non 
+          <lb ed="#P" n="98"/>erat species pessima huius vicii: quod baptista in de 
+          <lb ed="#P" n="99"/>calamitatibus tangens sic inquit. hec fera adulterium 
+          <lb ed="#P" n="100"/>parit: incestusque nephandos. Stupraque et igne 
+          sce<lb ed="#P" n="101" break="no"/>lus dignum quo barbara quondam. Abstulit immixtis 
+          <lb ed="#P" n="102"/>sulphur quinquurbia flammis. Nunc lacus est vbi tunc 
+          <lb ed="#P" n="103"/>homines errare solebant. Et quia penthapolis regio 
+          fu<lb ed="#P" n="104" break="no"/>it equore lentus. Pigra liquor vescit qui mortua 
+          cor<lb ed="#P" n="105" break="no"/>pora sorbet. Uina gerit tergo sceleris monimenta 
+          <lb ed="#P" n="106"/>vetusti. Pro tali vicio in galaad beniamin Iudicum 
+          <lb ed="#P" n="107"/>xix. vigintiquinque mille virirobusti educentes 
+          gla<lb ed="#P" n="108" break="no"/>stium occisi sunt: Iudicum. xx. et Leuitici. xx. Qui 
+          dor<lb ed="#P" n="109" break="no"/>mierit cum masculo coitu femineo vterque opatus est 
+          <lb ed="#P" n="110"/>nephas: morte moriatur: sit sanguis eormsuper eos. ne 
+          <lb ed="#P" n="111"/>que masculorum concubitores regnum dei possidebunt. i. 
+          <lb ed="#P" n="112"/>Corum. vi. de bestialitate Leuit. xx. Qui cum iumento 
+          <lb ed="#P" n="113"/>pecore coierit morte moriatur: pecus quoque 
+          occi<lb ed="#P" n="114" break="no"/>datur. mulier quae succubuerit cuilibet iumento simul in 
+          <lb ed="#P" n="115"/>terficietur cum eo: sanguis eorum sit super eos. Gene. xvii. 
+          <lb ed="#P" n="116"/>super illo verbo: accusauit suos fratres crimine 
+          pes<lb ed="#P" n="117" break="no"/>simo: dicit glosa vna interlinearis: quia commiscebanf 
+          <lb ed="#P" n="118"/>cum pecoribus: sed quicquid sit: hoc consistit in facto 
+          <lb ed="#P" n="119"/>de quo non multum constat. nec glosa / illud cathego 
+          <lb ed="#P" n="120"/>rice tenet. sufficit quod omnis ratio culpe que est in 
+          <pb ed="#P" n="146-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sodomitico proprie dicto est in bestialitate: et cum 
+          <lb ed="#P" n="2"/>hoc adulterinus sexus. libet cogiscere sororem vel matrem sit 
+          <lb ed="#P" n="3"/>contra naturam: et potissimum de matre. tamen si 
+          <lb ed="#P" n="4"/>ne addito sodomiticum scelus vocatur peccatum contra 
+          <lb ed="#P" n="5"/>naturam propater eius maliciam. secundum leges pro illo scele 
+          <lb ed="#P" n="6"/>re homo est occidendus vt in autenti. colla. vi. vt non 
+          <lb ed="#P" n="7"/>luxurientur contra naturans omibus hoibus. sic inquit 
+          <lb ed="#P" n="8"/>imperator. quandum quidem dyabolica instigatione 
+          compre<lb ed="#P" n="9" break="no"/>hensiet grauissimis luxuriis semetipos inseruerunt: et 
+          <lb ed="#P" n="10"/>ipsi nature contraria agunt: et istis iniungimus / in 
+          sensi<lb ed="#P" n="11" break="no"/>bus accipere dei timore: et futurum iudicium. sed prius 
+          <lb ed="#P" n="12"/>tales sunt monendi: dicit imperator. et si n on abstineant 
+          <lb ed="#P" n="13"/>et acquiescant: cum moniti fuerint: occidantur. de compatione 
+          <lb ed="#P" n="14"/>istorum peccatorum inter se: videntur pecctam sic se habcre per 
+          or<lb ed="#P" n="15" break="no"/>dine. Primum locum in malici obtiet sodomi. qu ad 
+          <lb ed="#P" n="16"/>istas duas species / bestialitatisodomia est grauius 
+          <lb ed="#P" n="17"/>peccatum quam adulterium. Une Beatus Aug. de aduiterinis 
+          <lb ed="#P" n="18"/>coniugiis li. i. de istis peccatis et eorum ordine sic loquitur: 
+          <lb ed="#P" n="19"/>adulteri malum vincit fornieationem: vincitur autem ab 
+          in<lb ed="#P" n="20" break="no"/>cestu. peius est eim cum matre quam cum aliena vxore 
+          con<lb ed="#P" n="21" break="no"/>cubere: sed omnim horum est pessimum quod contra naturam fu: 
+          <lb ed="#P" n="22"/>vt si vir membro mulieris non ad hoc concesso 
+          volue<lb ed="#P" n="23" break="no"/>rit vti. vsus enim inaturalis / si vltra modum probabitur: in 
+          <lb ed="#P" n="24"/>vxore quiud veniale est peccati. in moretrice damnabile: 
+          <lb ed="#P" n="25"/>sed istud quod contra fit execrabilfit in meretrice: sed 
+          exe<lb ed="#P" n="26" break="no"/>crabilius in vvore. Ex isto patet libet sodomia a toto 
+          genedrne<lb ed="#P" n="27" break="no"/>sit grauius peccatum quod cetera carnis vicia perper duas spes 
+          <lb ed="#P" n="28"/>elus: tamen est aliquod peccatum fodomie de quo dubium e 
+          an<lb ed="#P" n="29" break="no"/>sit mortale peccatum: martinus dubitat in quarta conclone 
+          <lb ed="#P" n="30"/>de pollutione: an pollutio aliqua sit mortale peccatu: si 
+          <lb ed="#P" n="31"/>quis bibit excessiuem vt polluatur. et tamen est vna species 
+          <lb ed="#P" n="32"/>sodomie. si dicas eum intelligere de actu exteriore: 
+          <lb ed="#P" n="33"/>secum non opinior. vt alibi patuit talis pollutio non 
+          <lb ed="#P" n="34"/>est nouum peccatum nec veniale nec mortale. quicquid 
+          <lb ed="#P" n="35"/>sit de actu interiore illo vel de mults actibus 
+          mollici<lb ed="#P" n="36" break="no"/>ei: non scirem osedere illa pcctam grandiora adulterio. 
+          <lb ed="#P" n="37"/>quamquam nomen igne dignum habeat sodomiticum: nemo 
+          <lb ed="#P" n="38"/>opinatur simile vicium accedere ad incestum cum matre. 
+          <lb ed="#P" n="39"/>Insuper: aliquis incessus vciter peior sacrilegio apparet 
+          ma<lb ed="#P" n="40" break="no"/>ius crimen cognoscere matrem quod virginem vestalem: 
+          <lb ed="#P" n="41"/>quod quod dicatur sponsa dei: vnum est alio inaturalius. est ita 
+          <lb ed="#P" n="42"/>difficile interdum magnitudinem vnius ab alio separa 
+          <lb ed="#P" n="43"/>re: sicut nobis occiduis cognoscere an dominium regi 
+          <lb ed="#P" n="44"/>tartarorum dominium presbiteri Iohannis excedit. hic 
+          <lb ed="#P" n="45"/>aduerte: potes comparare vnum vicium ad aliud 
+          sim<lb ed="#P" n="46" break="no"/>plex vel ad vnum mixtum ex duobus vel tribus peccatis per 
+          <lb ed="#P" n="47"/>equiualentiam: similitr potes comparare infimum vnius 
+          su<lb ed="#P" n="48" break="no"/>premo alterius: similir consideres diuturnitatem 
+          pecca<lb ed="#P" n="49" break="no"/>ti: et impulsum:  iuuentutem. vel si modicus erat 
+          insul<lb ed="#P" n="50" break="no"/>tus. septimo Ethicorum dicit philosophus / Non est 
+          <lb ed="#P" n="51"/>ei mirum si quis a vehementibus exuperantibus aut 
+          <lb ed="#P" n="52"/>voluptatibus aut doloribus vincitur: quin 
+          ignoscem<lb ed="#P" n="53" break="no"/>dum est si resistens vincitur tandem: vt theodocti poete 
+          <lb ed="#P" n="54"/>philotectes a serpente morsus: aut tercini 
+          cercyon<lb ed="#P" n="55" break="no"/>in halope: et vt homines ii qui detinere risum 
+          eniten<lb ed="#P" n="56" break="no"/>
+          <lb ed="#P" n="57"/>tes accumulatum illuneffundunt: vt accidit 
+          zenophum<lb ed="#P" n="58" break="no"/>to. in istis remitto ad alios. si petas: an loth 
+          pecca<lb ed="#P" n="59" break="no"/>uerit volendo tradere suas filias coguiscendas ad 
+          sal<lb ed="#P" n="60" break="no"/>uandos hospites ab hoc scelere nephando: et an 
+          <lb ed="#P" n="61"/>leuites et eius hospes in casu vrbis galaad excusantur: 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>dicitur quod non: non sunt facienda mala vt inde 
+          eueni<lb ed="#P" n="63" break="no"/>ant bona Ad romanos. iii. Et si dicas: de duobus 
+          <lb ed="#P" n="64"/>malis minus est eligendum. xiii. dissinctone. Duo mala. 
+          <lb ed="#P" n="65"/>dicitur: hoc non potest intelligi de malo culpe. nullum 
+          <lb ed="#P" n="66"/>tale est eligendum: nisi exponas per contrarium 
+          a<lb ed="#P" n="67" break="no"/>busiue: vt melius est perdere digitum quam manum: hoc est 
+          <lb ed="#P" n="68"/>minus malum. Alio modo sic de malis pene et non 
+          <lb ed="#P" n="69"/>culpe: iuxta accipitreme columbos Esopi. Terre 
+          <lb ed="#P" n="70"/>minora volo ne grauiora feram. Tertio dico: lonth 
+          <lb ed="#P" n="71"/>poterat habere duos actus: vnus erat quo volebat 
+          <lb ed="#P" n="72"/>liberare hospites. et ille actus erat bonus licet non 
+          me<lb ed="#P" n="73" break="no"/>ritorius: quis simul erat in mortali / volens tradere 
+          <lb ed="#P" n="74"/>filias. et argumentum efficax est quod volebat eos 
+          mul<lb ed="#P" n="75" break="no"/>tum ab illis spurcissimis viris liberare: cum 
+          propri<lb ed="#P" n="76" break="no"/>as filias in tale flagitium dare non omisit: vel 
+          saltem<lb ed="#P" n="77" break="no"/>id velle. si ponas quod per eundem actum volebat 
+          tra<lb ed="#P" n="78" break="no"/>dere filias vt hospites liberaret: ille actus totalis 
+          <lb ed="#P" n="79"/>erat malus et mortale peccatum: non a fine (qui bonus 
+          <lb ed="#P" n="80"/>erat) sed a medio quod erat vetitum. Ex quo intue 
+          <lb ed="#P" n="81"/>ri licet: aliqua peccata carnis / superbiam / et inuidiam / 
+          <lb ed="#P" n="82"/>in malicia anteire. nec semper peccata spiritus sunt 
+          <lb ed="#P" n="83"/>maioris culpe quam carnis: vt in secundo dictum est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

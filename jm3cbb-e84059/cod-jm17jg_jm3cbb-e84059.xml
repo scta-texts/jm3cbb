@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 26</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 26</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="137-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e84059"><!-- l3d37q26 -->
+        <head xml:id="jm3cbb-e84059-Hd1e99">Quaestio 26</head>
+        <head xml:id="jm3cbb-e84059-Hd1e101" type="question-title">An filii devinciantur revereri patres et matres</head>
+        <p xml:id="jm3cbb-e84059-d1e104">
+          <lb ed="#P" n="110"/>¶ Questio. xxvi. 
+          <lb ed="#P" n="111"/>rta quartum 
+          prece<lb ed="#P" n="112" break="no"/>ptu: scilicet de honore parentu: quanitui 
+          <lb ed="#P" n="113"/>an filii deuinciantur reuereri patres 
+          <lb ed="#P" n="114"/>etmatres:
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e117">
+          ¶ Andenr: nomen pater 
+          tri<lb ed="#P" n="115" break="no"/>phariam capitur: vt in proposito 
+          suf<lb ed="#P" n="116" break="no"/>ficit. Primo modo pro patre 
+          cele<lb ed="#P" n="117" break="no"/>sti: vt Mathei. vi. pater noster qui es in celis. de illo pa¬ 
+          <pb ed="#P" n="138-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tre in praeceptis prime tabule loquiti sumus. Secuno 
+          <lb ed="#P" n="2"/>modo capitur pater pro patre carnali: potissimum de illo 
+          pa<lb ed="#P" n="3" break="no"/>tre hic intendimus. Tertio modo capitur pro patre 
+          spuita<lb ed="#P" n="4" break="no"/>li: de quorum numero fuit apostolus dicens prime 
+          Corin<lb ed="#P" n="5" break="no"/>thi. v. Ego per euangelium genui vos. Quarto modo ex 
+          <lb ed="#P" n="6"/>cellens domins tmperalis dicitur pater: sic Uirgi. ii. Enetud. 
+          <lb ed="#P" n="7"/>capit. inquiens. Conticuere omnes intentique ora tenebant. 
+          <lb ed="#P" n="8"/>Inde patur eneas. et dicimus / pater cancellarius hoc 
+          vo<lb ed="#P" n="9" break="no"/>luit. cui scriptura alludit recitans modum loquendi 
+          siro<lb ed="#P" n="10" break="no"/>rum. vnde serui Naaman quarti Regum. v. dixerunt. 
+          <lb ed="#P" n="11"/>pater si rem grandem dixisset propheta: certe facere 
+          de<lb ed="#P" n="12" break="no"/>bueras.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e156">
+          ¶ His praesuppositis pono duas conclusones: 
+          <lb ed="#P" n="13"/>por est: pater (capiendo patrem pro patre carnali) est hono 
+          <lb ed="#P" n="14"/>randus. capio patrem de praedicamento relationis vt 
+          ma<lb ed="#P" n="15" break="no"/>treni includat. Secunda conclusio: pater in quacumque alia 
+          <lb ed="#P" n="16"/>acceptione est honorandus.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e168">
+          ¶ Prior conclusio probatur: est 
+          praece<lb ed="#P" n="17" break="no"/>ptum dei: et honorantibus patrem promittitur longitudo 
+          <lb ed="#P" n="18"/>vite. et hoc est verum si filio conducat diu viuere. si sit 
+          prae<lb ed="#P" n="19" break="no"/>stitutus et male viuat: si male viueret plaga esset 
+          diu<lb ed="#P" n="20" break="no"/>viuere. illa simul stant quod quis reuereatur patremet 
+          sordi<lb ed="#P" n="21" break="no"/>de viuat. Sem qui patrem reuerebatur / diutissime vixit 
+          <lb ed="#P" n="22"/>qui putatur fuisse melchisedech rex salem. Laudantur 
+          <lb ed="#P" n="23"/>plurimum qui de parentibus bene meriti sunt: vt Dauid 
+          qui<lb ed="#P" n="24" break="no"/>tempore persequutionis saulis curam parentum 
+          reli<lb ed="#P" n="25" break="no"/>quit regi Moab: primi Regum. xxii. et saluator 
+          noster<lb ed="#P" n="26" break="no"/>curam matris habcens eam reliquit iohanni. et alibi: et erat 
+          <lb ed="#P" n="27"/>subditus / illis. Et rechabite cum liberis ad iussum patris 
+          <lb ed="#P" n="28"/>eorum Ionadab / imperpetuum non biberunt vinum: domum 
+          <lb ed="#P" n="29"/>non edificauerunt: sementem non serebant: vineam non planta 
+          <lb ed="#P" n="30"/>uerunt: sed solum in tabernaculis manserunt Ihere. 
+          <lb ed="#P" n="31"/>xxv. qui diutissime vixerunt. Patet illud ratione: de 
+          <lb ed="#P" n="32"/>bemus eos reuereri a quibus habemus esse tam in natura 
+          <lb ed="#P" n="33"/>libus quam in moribus. sed hoc habemus a carnali patre. 
+          <lb ed="#P" n="34"/>propterea dictum Aristotelis est in ore omnim. diis 
+          paren<lb ed="#P" n="35" break="no"/>tibus et magistris nemo potest regratiari ad condignum. 
+          <lb ed="#P" n="36"/>Ualerius lib. v. recitat de quadam muliere dampnata 
+          <lb ed="#P" n="37"/>admortem ea lege quod fame moriretur: cuius filie data 
+          <lb ed="#P" n="38"/>est facultas matrem quolibet die visitare: et quod nec 
+          ci<lb ed="#P" n="39" break="no"/>bum nec potum secum deferret: quae suo lacte diu matrem 
+          <lb ed="#P" n="40"/>pauit: quod cum iudex intellexit: in pietatis munus 
+          ma<lb ed="#P" n="41" break="no"/>trem filie donauit. Et de filio cresi regis: recitat illic 
+          <lb ed="#P" n="42"/>quod cum filius eius mutus videret ab alio quodam patrem 
+          <lb ed="#P" n="43"/>debere occidi: nec viribus nec lingua hunc patrem 
+          <lb ed="#P" n="44"/>demonstrare posset: in pietatis munus lingua eius 
+          so<lb ed="#P" n="45" break="no"/>luta est. et loquutus est hunc esse patrem. hoc bruta nos 
+          <lb ed="#P" n="46"/>docent. Recitat Ambrosius examero. v. Ciconie 
+          pa<lb ed="#P" n="47" break="no"/>rentes senes plumis nudatos fouent alis: et nutriunt 
+          <lb ed="#P" n="48"/>alimentis. De cornicibus id idem recitat. Ex his patet 
+          <lb ed="#P" n="49"/>quod est de iure nature parentes honorare: verbo et 
+          fa<lb ed="#P" n="50" break="no"/>cto: eos diligere: et eissuccurrere in necessitate. 
+          Se<lb ed="#P" n="51" break="no"/>cundo sequitur: per oppositum qui hoc non faciunt 
+          graui<lb ed="#P" n="52" break="no"/>ter delinquunt. et patet illud secunduemt correlarium: cum cham 
+          vi<lb ed="#P" n="53" break="no"/>deret patris verenda nuda / patrem derisit: in semine 
+          <lb ed="#P" n="54"/>suo maledictus erat. Gene. ix. Simile de rubem patris 
+          <lb ed="#P" n="55"/>primogenito legimus Gene. xlix. non crescas quia 
+          ascen<lb ed="#P" n="56" break="no"/>disti cubile patris tui. Et Deutero. xxi. Si 
+          genue<lb ed="#P" n="57" break="no"/>rit homo filium contumacem proteruum qui non 
+          au<lb ed="#P" n="58" break="no"/>diat patris vel matris imperium / apprehendant eum 
+          <lb ed="#P" n="59"/>et ducent ad se niores ciuitatis illius: et ibi 
+          accusa<lb ed="#P" n="60" break="no"/>bunt eum de comessationibus / luxuriis / et conuiuiis / 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>et lapidabat eum omnis populus. Propterea 
+          ingratitu<lb ed="#P" n="62" break="no"/>do est pessimum vicium. propterea veteres gratiarum 
+          tem<lb ed="#P" n="63" break="no"/>plum in medio ciuitatis ponebant: vt Aristoteles in 
+          <lb ed="#P" n="64"/>ethicis dicit. sed ille est ingratus qui ab aliquo plurima 
+          <lb ed="#P" n="65"/>magna accepit beneficia: si ea non recognoscat 
+          pro<lb ed="#P" n="66" break="no"/>locoet tempore: igitur. Alterius sequitur quod multiphariam 
+          <lb ed="#P" n="67"/>filii in parentes peccant / huic praecepto in naturali 
+          roatio<lb ed="#P" n="68" break="no"/>ne fundato contrauenientes. primo: quia parentibus 
+          il<lb ed="#P" n="69" break="no"/>ludunte eos irrident more caym. Secundo: illi qui 
+          rigi<lb ed="#P" n="70" break="no"/>dee dure parentibus respondent / eos contristant: 
+          <lb ed="#P" n="71"/>contra illud apostoli pme ad Thimo. v. seniorem 
+          <lb ed="#P" n="72"/>ne increpaueris: sed obsecra vt patres. ecce ponit 
+          <lb ed="#P" n="73"/>patrem limen et mensuram obsecrandi cui humane 
+          lo<lb ed="#P" n="74" break="no"/>quendum est. et glo. dicit prouerb. ix. qui affligit patrem 
+          <lb ed="#P" n="75"/>erit ignominiosuset infelix. Tertio contraueniunt 
+          <lb ed="#P" n="76"/>huic precepto parentibus maledicendo: contra illud 
+          <lb ed="#P" n="77"/>Exodi. xxi. Qui maledixerit patri aut matri 
+          mor<lb ed="#P" n="78" break="no"/>te moriatur. Quarto peccant mortem parentum optam 
+          <lb ed="#P" n="79"/>tes quatenus eorum honores aut bona habeant. Quin 
+          <lb ed="#P" n="80"/>to qui parentibus / indigentibus non ministrant 
+          neces<lb ed="#P" n="81" break="no"/>saria secundum suas vires. trita est illa historia de 
+          fi<lb ed="#P" n="82" break="no"/>lio capum a patre abscondente cum bona sua habue 
+          <lb ed="#P" n="83"/>rit qui conuersus est in serpentem. et peccant qui non orant 
+          <lb ed="#P" n="84"/>pro eis defunctis: cum nesciatur an sint in manu 
+          dei<lb ed="#P" n="85" break="no"/>in purgatorio. talibus dicunt illud Iob. Miseremini 
+          <lb ed="#P" n="86"/>mei miseremini mei saltemvos amici mei: quia manus 
+          <lb ed="#P" n="87"/>domini tetigit me. Sexto: peccant filii in parentes / 
+          <lb ed="#P" n="88"/>si parentum senum coleram non benigne supportant: 
+          <lb ed="#P" n="89"/>secundum illud Ecclsia. iii. fili suscipe senectam patris 
+          <lb ed="#P" n="90"/>tui. et si defecerit sensus eius per sapientiam vel 
+          impa<lb ed="#P" n="91" break="no"/>tientiam: dabis ei veniam: et eum excusabis: et silebis 
+          <lb ed="#P" n="92"/>ne illud ab alio audiatur. quidergo dicendum erit de 
+          filio<lb ed="#P" n="93" break="no"/>belial qui patrem ferit: esto quod Aristoteles. vii. ethi. 
+          <lb ed="#P" n="94"/>dicit illum morbum aliquibus esse gentilem. nemo est 
+          <lb ed="#P" n="95"/>rationis compos qui non possit non ferire si voluerit. 
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e344">
+          <lb ed="#P" n="96"/>¶ Secunda conclusio probatur tam quo ad patres 
+          spurita<lb ed="#P" n="97" break="no"/>les quod quo ad temporales. quo ad spuritales: patet per illud 
+          <lb ed="#P" n="98"/>quod scribitur Math. xxiii. Super cathedram Moysi se 
+          <lb ed="#P" n="99"/>derunt scribe et pharisei. Omina ergo quaecumque dixerint 
+          vo<lb ed="#P" n="100" break="no"/>bis seruate et facite. secundum autem opera eorum nolite 
+          <lb ed="#P" n="101"/>facere. dicunt enin et non faciunt. et apostolus prime ad 
+          <lb ed="#P" n="102"/>Thimo. v. qui bene presunt presbiteri duplici hono 
+          <lb ed="#P" n="103"/>re digni habentur: maxime quilaborant verbo et 
+          <lb ed="#P" n="104"/>doctrina: hoc est: debet honor eis exhiberi et obuen 
+          <lb ed="#P" n="105"/>tiones. de secundis patet per illud quod scribitur Math. 
+          <lb ed="#P" n="106"/>xxii. geddite quae sunt cesaris cesari. et prime Petri. ii. 
+          <lb ed="#P" n="107"/>Subiecti estote omni humane creature propter 
+          <lb ed="#P" n="108"/>deum: siue regi quasi precellenti: siue ducibus 
+          qua<lb ed="#P" n="109" break="no"/>si ab eo missis: ad vindictam malorum: laudem 
+          ve<lb ed="#P" n="110" break="no"/>ro bonorum. pro his patribus debemus orare vt 
+          <lb ed="#P" n="111"/>bene regant populum. secundum illud Prime ad 
+          <lb ed="#P" n="112"/>Thimo. i. Obsecro fieri orationes primo pro 
+          regi<lb ed="#P" n="113" break="no"/>bus et his qui in sublimitate sunt. Et Baruth 
+          pri<lb ed="#P" n="114" break="no"/>mo. Prate pro vita Nabugodonosor: quia 
+          cre<lb ed="#P" n="115" break="no"/>bro pro peccato principis punitur populus. et 
+          pa<lb ed="#P" n="116" break="no"/>tet secundi Degum vltimo: vbi populus percussus est 
+          <lb ed="#P" n="117"/>pro peccato dauidis. Secundo debemus iis 
+          hono<lb ed="#P" n="118" break="no"/>rem impendere / genua curuando / assurgendo / 
+          ho<lb ed="#P" n="119" break="no"/>norabiliorem locum dando / secundum personarum de 
+          <lb ed="#P" n="120"/>centiam:apenes consuctudinem fie mesuf: quofid¬ 
+          <pb ed="#P" n="138-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>murmurant et maledicunt patribus istis / peccant: 
+          con<lb ed="#P" n="2" break="no"/>tra illud Exodi. xxii. diis non detrahes. et Actuum 
+          <lb ed="#P" n="3"/>xxi. dicit paulus. Scriptum est / principem populi tui non 
+          <lb ed="#P" n="4"/>maledices.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e414">
+          ¶ Contra priorem conclusionem arguitur sic: si pater 
+          <lb ed="#P" n="5"/>filium inuadat in colera: vbi filius non potest euadere 
+          <lb ed="#P" n="6"/>quin patrem occidat: filius patrem percutit: cum se 
+          te<lb ed="#P" n="7" break="no"/>neatur plus diligere quam patrem.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e423">
+          ¶ Secundo: stat quod 
+          fi<lb ed="#P" n="8" break="no"/>lius ingrediatur religionem prohibente patre: et etiam licite: 
+          <lb ed="#P" n="9"/>ergo non tenetur in omnibus patri obedire.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e430">
+          ¶ Tertio 
+          <lb ed="#P" n="10"/>arguitur: filius non contrahit matrimonium ad preceptum 
+          <lb ed="#P" n="11"/>patris: quia vult esse sacerdos: vel aliam mulierem habere: 
+          <lb ed="#P" n="12"/>sine peccato: igitur.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e439">
+          ¶ Respondetur: raro in vsu est quod pater 
+          <lb ed="#P" n="13"/>vult efficaciter filium trucidare: lcetminetur eum atrociter 
+          <lb ed="#P" n="14"/>ferire. sed dato casu: vbi esnet ei certum quod eum pater 
+          <lb ed="#P" n="15"/>occideret si se non tueatur: libet fe tueatur / nichil contra 
+          <lb ed="#P" n="16"/>conclusionem. pater non exercetiam officium patris: sed 
+          <lb ed="#P" n="17"/>contrariatur officio paterno: cum dedit esse / vult 
+          iniu<lb ed="#P" n="18" break="no"/>ste tollere essequod dedit. filius licite ei resistit: sed non 
+          <lb ed="#P" n="19"/>debet filius hoc facile suspicari de patre: sed 
+          aufu<lb ed="#P" n="20" break="no"/>gere / si potest: vel querere subterfugia.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e460">
+          ¶ Ad secundum 
+          con<lb ed="#P" n="21" break="no"/>cedo quod filius potest religionem ingredi quando habet etatem 
+          debi<lb ed="#P" n="22" break="no"/>tam: etiam patre contradicente. pater antecede. xiiii. annos 
+          <lb ed="#P" n="23"/>potest filium reuocare a religione: quia nondum habet etatem 
+          <lb ed="#P" n="24"/>debitam.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e471">
+          ¶ Adtertium dicitur: fortasse pater praecipit 
+          filio<lb ed="#P" n="25" break="no"/>capere impudicam mulierem vel eo indignam: tunc non 
+          te<lb ed="#P" n="26" break="no"/>netur patri parere: sed debet filio acquiescere.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e478">
+          ¶ Sed 
+          <lb ed="#P" n="27"/>dicis: apostolus dicit ad Collo. iii. filii obedite parem 
+          <lb ed="#P" n="28"/>tibus vestris quo ad omnia. Respondetur: apostolus / 
+          intelli<lb ed="#P" n="29" break="no"/>git quo ad omnia ad que ius paternitatis se extendit de 
+          <lb ed="#P" n="30"/>precepto: vt ad illa quae domus sunt et discipline pro 
+          fi<lb ed="#P" n="31" break="no"/>lio. si praeciperet contra deum / vel contra salutem filii: non est 
+          <lb ed="#P" n="32"/>ei perendum. vel si rex praeciperet filio vnum de sua iurisdi 
+          <lb ed="#P" n="33"/>ctione. et pater oppositum extra iurisdictionem patris: 
+          <lb ed="#P" n="34"/>non est patri parendum: sed regi.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e498">
+          ¶ Contra secundam 
+          <lb ed="#P" n="35"/>conclusionem aliqua dicta in ea: male loquuntur 
+          ho<lb ed="#P" n="36" break="no"/>mines de regibus frequenter et de viciis eius 
+          loquun<lb ed="#P" n="37" break="no"/>tur: et tamen non est verisimile quod sic loquentes omnes peccent. 
+          <lb ed="#P" n="38"/>Respondetur: si peccatum regis est notorium: iam parietes super illo 
+          <lb ed="#P" n="39"/>peccato loquuntur: sicut loquimur de vno occiso in 
+          iu<lb ed="#P" n="40" break="no"/>sticia publica sine peccato. si est occultum / vel vtcumque 
+          pu<lb ed="#P" n="41" break="no"/>blicum: non debemus de illo loqui. patet: de nullo debemus 
+          <lb ed="#P" n="42"/>in illo casu loqui: ergo a fortiore de rege. regum est se 
+          praeser<lb ed="#P" n="43" break="no"/>uare a peccato immunes / ne populum scandalisant / et 
+          <lb ed="#P" n="44"/>malum ministrent exemplum subditis. ad motum primi 
+          <lb ed="#P" n="45"/>mobilis mouentur sphere inferiores: et quia in 
+          loco<lb ed="#P" n="46" break="no"/>eminenti sedent: eorum pcctam a remotis videntur.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e527">
+          ¶ 
+          Du<lb ed="#P" n="47" break="no"/>bitatur. cum parentes debeant filios diligere sicut et cont:quae 
+          <lb ed="#P" n="48"/>re non ponitur hoc in praecepto. etiam dubitatur: quaere in hoc 
+          prae<lb ed="#P" n="49" break="no"/>cepto potioitur vt sis longeuus super terram.
+        </p>
+        <p xml:id="jm3cbb-e84059-d1e536">
+          ¶ Rspeondetur: perentes 
+          <lb ed="#P" n="50"/>diligunt liberos tamquam suos effectus: et existimant se 
+          elon<lb ed="#P" n="51" break="no"/>gare aut perpetuare in eis: proptrea filiis necessaria 
+          comuni<lb ed="#P" n="52" break="no"/>cant: et non econuerso. sicut sol esse dat radio / et fons riuo: 
+          <lb ed="#P" n="53"/>et non econuerso: et cum vnus amoret honor sit alio natu 
+          <lb ed="#P" n="54"/>ralior: vnus / praecipitur et nen altur. ad secundam partem dubii: illud 
+          po<lb ed="#P" n="55" break="no"/>nitur et filii in parentum honorem alliciantur. homines diu 
+          cu<lb ed="#P" n="56" break="no"/>piunt viuere et illud percipiunt citius quam besendicendo et 
+          mer<lb ed="#P" n="57" break="no"/>ces etsna: propatrea hoc eis promittitur. Secundo cum pentes 
+          <lb ed="#P" n="58"/>filii honorant: parentum vitam letitia elongant. ergo congruum estquod 
+          <lb ed="#P" n="59"/>deem filiorum vitam elonget: et hoc filiis fuet. hic concludem 
+          <lb ed="#P" n="60"/>do dico prudens pater ceco amore ductus non de omnia sua 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>bona filiis comnicatur. tum primo. crebrit filiitunc erga 
+          pa<lb ed="#P" n="62" break="no"/>rentes st ingrati: nec pateribus infuiunt vbi pateribus assidue 
+          inf<lb ed="#P" n="63" break="no"/>uirent parti ratione botium quae in fine consequi putant. tum secundo. stat 
+          <lb ed="#P" n="64"/>quod filii antede patres viam vniunse carnis ingrediantur: et tunc 
+          bo<lb ed="#P" n="65" break="no"/>na erunt apudo vxores natorum et in alienis manibus. 
+          Eoden<lb ed="#P" n="66" break="no"/>modo praelatus non debet sua beneficia spuriis vel sanguini 
+          relim<lb ed="#P" n="67" break="no"/>quere ne alios scandaliset: frequenter in hoc homo 
+          de<lb ed="#P" n="68" break="no"/>cipitur: suum spurium vel nepotem magi idoneum 
+          existi<lb ed="#P" n="69" break="no"/>mat illo qui illum longe antedeint. coruus (vt prouerbalitur aiunt 
+          <lb ed="#P" n="70"/>suum fetum ceteris albiorem existimat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

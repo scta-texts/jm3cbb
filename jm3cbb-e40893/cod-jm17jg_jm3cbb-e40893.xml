@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="67-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e40893"><!-- l3d27q1 -->
+        <head xml:id="jm3cbb-e40893-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e40893-Hd1e101" type="question-title">
+    An sine caritate sicut cum caritate possumus diligere Deum
+    super omnia
+   </head>
+        <p xml:id="jm3cbb-e40893-d1e104">
+          <lb ed="#P" n="83"/>N superiore 
+          distinctio<lb ed="#P" n="84" break="no"/>ne determinauit magister de spe 
+          <lb ed="#P" n="85"/>sicut in tribus aliis 
+          determina<lb ed="#P" n="86" break="no"/>uit de fide: vtpote in 
+          distinctio<lb ed="#P" n="87" break="no"/>ne. xxiii. vicesima quarta. et 
+          vi<lb ed="#P" n="88" break="no"/>cesimaquinta. nunc in hac 
+          distin<lb ed="#P" n="89" break="no"/>ctione de tertia virtute 
+          theolo<lb ed="#P" n="90" break="no"/>gica: scilicet charitate: loqui incipit. et materia in sex 
+          <lb ed="#P" n="91"/>distinctionibus prosequitur. In hac distinctione 
+          de<lb ed="#P" n="92" break="no"/>terminat de charitate sed se et eius praecepto. in 
+          distin<lb ed="#P" n="93" break="no"/>ctione. xxviii. de charitatis obiecto. distinctione 
+          <lb ed="#P" n="94"/>xxix. de charitatis ordine. distinctione. xxx. de 
+          cha<lb ed="#P" n="95" break="no"/>ritatis amicorum et inimicorum et meriti comparatione. in 
+          <lb ed="#P" n="96"/>distinctione. xxxi. de permanentia charitatis. in 
+          distin<lb ed="#P" n="97" break="no"/>ctione. xxxii. de charitatis increate sufficientia. 
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e139">
+          <lb ed="#P" n="98"/>¶ Circa hanc distinctionem. xxvii. quaero duo. primum: 
+          <lb ed="#P" n="99"/>an possumus sine charitate diligere deum. Secundo: 
+          <lb ed="#P" n="100"/>an teneamur ex toto corde et tota mente diligere 
+          <lb ed="#P" n="101"/>deum. quo ad quaestionem priorem sub hoc verborum ordine. 
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e150">
+          <lb ed="#P" n="102"/>¶ Queritur: an sine charitate sicut cum charitate 
+          <lb ed="#P" n="103"/>possumus diligere deum super omnia.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e158">
+          ¶ Respondetur per 
+          <lb ed="#P" n="104"/>conclusiones. Prima est: ponendus est habitus / infusus 
+          <lb ed="#P" n="105"/>qui dicitur charitas inclinans ad dilectionem dei. 
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e165">
+          <lb ed="#P" n="106"/>¶ Secunda conclusio: voluntas sine habitu infuso 
+          cha<lb ed="#P" n="107" break="no"/>ritatis potest deum diligere super omnia: saltem cum 
+          auxi<lb ed="#P" n="108" break="no"/>lio dei speciali.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e174">
+          ¶ Tertia conclusio: voluntas non potest 
+          <lb ed="#P" n="109"/>ita intense diligere deum sine charitate infusa sicut 
+          <lb ed="#P" n="110"/>cum charitate.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e181">
+          ¶ Prima coclusio habet duas pertes: 
+          <lb ed="#P" n="111"/>quarum prior patet prime ad Corinthios. xiii. Secunda 
+          <lb ed="#P" n="112"/>pars patet: fides infusa et spes infusa inclinant in actum 
+          <lb ed="#P" n="113"/>credendi et sperandi. ergo charitas infusa inclinat in actum 
+          <lb ed="#P" n="114"/>suum: tenet consequentia: non est negandum a 
+          nobilio<lb ed="#P" n="115" break="no"/>ri habitu quod conceditur inferioribus: nisi doceatur 
+          qua<lb ed="#P" n="116" break="no"/>re illud dici debeat.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e197">
+          ¶ Secunda conclusio probatur: pars 
+          <lb ed="#P" n="117"/>magis diligit esse totius / quam esse partis. patet tam in 
+          ma<lb ed="#P" n="118" break="no"/>iore mundo quam in minore. aqua ascendit vrinali 
+          euer<lb ed="#P" n="119" break="no"/>so: et candela posita in vase repleto aqua: ad fugien¬ 
+          <pb ed="#P" n="67-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dum vacuum per extinctionem candele. in minore mundo 
+          <lb ed="#P" n="2"/>manus exponit se ensi cadenti in totum: vt totum 
+          <lb ed="#P" n="3"/>saluec et cum quelibet creatura sit participatio 
+          bo<lb ed="#P" n="4" break="no"/>nitatis diuine: magis appetit esse boni dei quam sui 
+          <lb ed="#P" n="5"/>ipsius. Insuper: natura rationalis summe diligit 
+          <lb ed="#P" n="6"/>beatitudinem. xiii. de trinitate. c. v. secundum Aug. sed 
+          <lb ed="#P" n="7"/>non magis diligit beatitudinem quod obiectum 
+          bea<lb ed="#P" n="8" break="no"/>tificum: igitur.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e228">
+          ¶ Preterea: desperans et occidens 
+          <lb ed="#P" n="9"/>seipsum odit suum esse. et tamen non odit 
+          beatitu<lb ed="#P" n="10" break="no"/>dinem: quia eam appetit: si posset eam habere. 
+          he<lb ed="#P" n="11" break="no"/>rationes non sunt efficaces. alique probant quod 
+          to<lb ed="#P" n="12" break="no"/>tum magis diligit esse totius: vel partis 
+          principa<lb ed="#P" n="13" break="no"/>lis: quam partis minus principalis totius. dicetur quod 
+          <lb ed="#P" n="14"/>rector vniuersi deus facit aquam ascendere ne sit 
+          <lb ed="#P" n="15"/>vacuum: cum aer in fiala est condensata ab 
+          aqua<lb ed="#P" n="16" break="no"/>in superiore parte: tunc minorem locum occupat. qua 
+          <lb ed="#P" n="17"/>re aqua ascendit. nec forma aque nec grauitas in ea 
+          <lb ed="#P" n="18"/>facit aquami ascendere: cum faciant eam descende 
+          <lb ed="#P" n="19"/>re. non habent actiones oppositas. In secundo 
+          <lb ed="#P" n="20"/>exemplo: dicitur quod totum mouet partem minus 
+          prin<lb ed="#P" n="21" break="no"/>cipalem vt ensi resistat quatenus conseruetur pars 
+          <lb ed="#P" n="22"/>principalior caput: sine quo nec totum nec pars 
+          <lb ed="#P" n="23"/>minus principalis potest esse. vel dicitur: pars 
+          mi<lb ed="#P" n="24" break="no"/>nus principalis exponit se fortune vt conseruet 
+          par<lb ed="#P" n="25" break="no"/>tem principalem. sine qua non potest esse. Ex his 
+          <lb ed="#P" n="26"/>exemplis solum concluditur quod deus magis amat 
+          <lb ed="#P" n="27"/>bonum vniuersi: et etiam minoris mundi quam partis 
+          <lb ed="#P" n="28"/>in toto vniuerso. et homo magis se et partes 
+          ma<lb ed="#P" n="29" break="no"/>gis principales quam minus principales. Secundo: 
+          <lb ed="#P" n="30"/>si exempla essent vera: non concludunt. homo non 
+          <lb ed="#P" n="31"/>est pars dei: licet esse a deo habeat Ratio de 
+          beati<lb ed="#P" n="32" break="no"/>tudine non concludit: procedit solum de 
+          affectio<lb ed="#P" n="33" break="no"/>ne commodi. nam inter concupita ipsi amanti 
+          bea<lb ed="#P" n="34" break="no"/>titudo maxime concupiscitur sed non magis 
+          dili<lb ed="#P" n="35" break="no"/>gitur quam illud cui concupiscitur. magis diligitur 
+          fi<lb ed="#P" n="36" break="no"/>nis eo quod est ad finem. quomodo voluntas summe 
+          <lb ed="#P" n="37"/>appetit beatitudinem in xlix. distinctione quarti. 
+          di<lb ed="#P" n="38" break="no"/>ctum est. Ad vltimum dicitur desperans odit suum 
+          <lb ed="#P" n="39"/>esse de per accidens: quia cupit liberari a pena et 
+          <lb ed="#P" n="40"/>miseria quam patitur.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e301">
+          ¶ Ad conclusionem arguitur 
+          <lb ed="#P" n="41"/>fortis politicus in lumine naturali vult pati 
+          mor<lb ed="#P" n="42" break="no"/>tem: vt bene sit reipublice sicut Aristo. dicit. iii. 
+          <lb ed="#P" n="43"/>Ethicorum. ergo plus diligit salutem reipubice 
+          <lb ed="#P" n="44"/>quam se cum vult se non esse: vt bene sit reipublice. 
+          <lb ed="#P" n="45"/>Sed dicis: hoc est quia magis diligit se vult 
+          habe<lb ed="#P" n="46" break="no"/>re actum virtutis et beatitudinem. contra: 
+          da<lb ed="#P" n="47" break="no"/>to quod non ponat vitam post hanc vitam: ergo 
+          eo<lb ed="#P" n="48" break="no"/>dem modo potest diligere deum plusquam se: ergo 
+          il<lb ed="#P" n="49" break="no"/>le fortis magis diliget rempub. quam se: siue de perse 
+          si<lb ed="#P" n="50" break="no"/>ue per accidens: cum vult mortem appetere vt 
+          be<lb ed="#P" n="51" break="no"/>ne sit reipublice.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e327">
+          ¶ Secundo arguitur sic: intellectus 
+          <lb ed="#P" n="52"/>sine charitate infusa potest dictare quod deus est sum 
+          <lb ed="#P" n="53"/>mum bonum: et quod summum bonum est summe 
+          di<lb ed="#P" n="54" break="no"/>ligendum: et voluntas tali dictato potest 
+          conde<lb ed="#P" n="55" break="no"/>scendere ergo conclusio vera.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e338">
+          ¶ Tertio arguitur ad 
+          <lb ed="#P" n="56"/>idem: voluntas potest sine charitate infusa 
+          dilige<lb ed="#P" n="57" break="no"/>re deum plusquam sortem plusquam platonem plusqua 
+          mi<lb ed="#P" n="58" break="no"/>chaelem: et ita de qualibet creatura ascendendo 
+          <lb ed="#P" n="59"/>ergo voluntas potest diligere deum super omnia 
+          <lb ed="#P" n="60"/>alia a deo sine charitate infusa. Si dicas: dilectio 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>dei est vltimata disoositio ad charitatem 
+          haben<lb ed="#P" n="62" break="no"/>dam: hoc non impedit argumentum. et si deus 
+          cha<lb ed="#P" n="63" break="no"/>ritatem non infunderet: idem contingeret. etiam 
+          <lb ed="#P" n="64"/>illud assumptum est ambiguum: vt dicetur.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e362">
+          ¶ 
+          Quar<lb ed="#P" n="65" break="no"/>to: voluntas potest velle deo predicata 
+          nobilissi<lb ed="#P" n="66" break="no"/>ma (que nulli alteri vult) sine charitate. ergo 
+          po<lb ed="#P" n="67" break="no"/>test deum diligere super omnia: tenet 
+          consequen<lb ed="#P" n="68" break="no"/>tia. diligere nichil aliud est quam velle alicui bonum: 
+          <lb ed="#P" n="69"/>secundum aristo. secundo rethorice: et velle alicui plura 
+          bo<lb ed="#P" n="70" break="no"/>na est ipsum plus diligere. ergo velle alicui 
+          maxi<lb ed="#P" n="71" break="no"/>ma bona: est ipsum super omnia diligere.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e380">
+          ¶ 
+          Ter<lb ed="#P" n="72" break="no"/>tia conclusio probatur: vtrobique vna causa adiuta 
+          <lb ed="#P" n="73"/>ab alia causa concausante potest in maiorem 
+          effe<lb ed="#P" n="74" break="no"/>ctum ire quam si non iuuaretur. sed charitas concurrit 
+          <lb ed="#P" n="75"/>ad suum actum effectiue ex prima conclusione: et 
+          <lb ed="#P" n="76"/>voluntas concurrit ad eundem actum: ergo 
+          chari<lb ed="#P" n="77" break="no"/>tas voluntatem adiuuat: ergo conclusio vera.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e396">
+          ¶ 
+          Con<lb ed="#P" n="78" break="no"/>tra primam conclusionem arguitur: angelus non 
+          po<lb ed="#P" n="79" break="no"/>test producere angelum: nec anima intellectiua 
+          ani<lb ed="#P" n="80" break="no"/>mam: et tamen ignis producit ignem. et tamen 
+          an<lb ed="#P" n="81" break="no"/>gelus et anima prestant igni. ergo nobilitas 
+          nichil<lb ed="#P" n="82" break="no"/>facit ad effectus productionem.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e410">
+          ¶ Contra secundam 
+          con<lb ed="#P" n="83" break="no"/>clusionem arguitur sic: ex ea sequitur quod 
+          superuaca<lb ed="#P" n="84" break="no"/>nee ponitur charitas infusa: cum homo potest 
+          dili<lb ed="#P" n="85" break="no"/>gere deum sine ea.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e419">
+          ¶ Respondetur concedendo de 
+          <lb ed="#P" n="86"/>angelo: quia si angelum produceret crearet. 
+          suffi<lb ed="#P" n="87" break="no"/>cienter docemur quod angelus et anima non 
+          produ<lb ed="#P" n="88" break="no"/>cunt animam et angelum: qui creantur a solo deo. 
+          <lb ed="#P" n="89"/>sed a causis nobilibus non est neganda causalitas 
+          <lb ed="#P" n="90"/>nisivbi docetur de opposito.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e432">
+          ¶ Ad argumentum 
+          <lb ed="#P" n="91"/>contra secundam conclusionem: nego sequelam. 
+          fa<lb ed="#P" n="92" break="no"/>cit actum intensiorem quam fieret sine charitate infusa: 
+          <lb ed="#P" n="93"/>et determinat voluntatem ad exeundum in actum eius 
+          <lb ed="#P" n="94"/>et resistit opposito. sicut calorcaloris productiuus 
+          <lb ed="#P" n="95"/>resistit frigori.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e445">
+          ¶ Secundo contra eandem 
+          conclu<lb ed="#P" n="96" break="no"/>sionem arguitur: natura enim determinatur ad vnum. 
+          <lb ed="#P" n="97"/>determinatur autem ad appetendum esse sui natu 
+          <lb ed="#P" n="98"/>raliter et absolute: igitur inloppositum ferrimo 
+          po<lb ed="#P" n="99" break="no"/>test. ergo si esse dei et ipsius creature sunt 
+          incompos<lb ed="#P" n="100" break="no"/>sibiles tunc creatura appetit se esse: et deum non 
+          <lb ed="#P" n="101"/>esse.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e461">
+          ¶ Tertio: causa amoris est vnitas: sed 
+          homo<lb ed="#P" n="102" break="no"/>est magis sibi vnus quod deo ergo plus amat se.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e466">
+          ¶ 
+          Quar<lb ed="#P" n="103" break="no"/>to: nono Ethicorum: amicabilia ad alterum 
+          ve<lb ed="#P" n="104" break="no"/>niunt ex his que sunt ad se.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e474">
+          ¶ Respondetur: 
+          secun<lb ed="#P" n="105" break="no"/>dum argumentum concludit de appetitu naturali non 
+          <lb ed="#P" n="106"/>de appetitu libero: de quo loquimur.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e481">
+          ¶ Ad tertium 
+          <lb ed="#P" n="107"/>dicitur quod non solum vnitas est cam amoris: sed etiam 
+          <lb ed="#P" n="108"/>bonitas. et potissimum supremae infinita. Ceteris 
+          <lb ed="#P" n="109"/>paribus: ab vnitate incipit amor ita quod homo plus 
+          <lb ed="#P" n="110"/>se diligit: postea propinquiores. sed infinita bonitas 
+          <lb ed="#P" n="111"/>plus facit ad amorem quam vnitas. si fuerit alia bonitas 
+          <lb ed="#P" n="112"/>ab infinita: non tantum facit. propterea homo non diligit quem 
+          <lb ed="#P" n="113"/>libet meliorem se plusquam seipsum.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e499">
+          ¶ Ad quartum 
+          dicitur<lb ed="#P" n="114" break="no"/>illud est verum in amore concupiscentie in quo coniter 
+          <lb ed="#P" n="115"/>stamus: non autem oportet semper.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e506">
+          ¶ Quinto arguitur: 
+          <lb ed="#P" n="116"/>quod homo exponat se morti pro republica non est 
+          arau<lb ed="#P" n="117" break="no"/>mentum sufficiens quod plus rempublicam diligit: sed 
+          plusseip<lb ed="#P" n="118" break="no"/>sum. quia bonum virtutis sibi acceptat: vitam et 
+          bona<lb ed="#P" n="119" break="no"/>temporalia pro republica exponens. qued patet: 
+          <lb ed="#P" n="120"/>citius cauet peccatum in se quam in tota republica. 
+          <pb ed="#P" n="68-r"/>
+          <cb ed="#P" n="a"/>
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e524">
+          <lb ed="#P" n="1"/>¶ Sexto arguitur: et est confirmatio assumptiin 
+          ar<lb ed="#P" n="2" break="no"/>gumento priori: homo pro amico exponit se 
+          mor<lb ed="#P" n="3" break="no"/>ti: et pro alio iniuste inuaso a tyranno: et tamen non 
+          <lb ed="#P" n="4"/>diligit amicum vel illum defensum plusquas se: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e535">
+          <lb ed="#P" n="5"/>¶ Ad quintum: dicitur: si illud argumentum iolum 
+          <lb ed="#P" n="6"/>non concludat (quod concedo ) iuuat cum aliis. ratio 
+          <lb ed="#P" n="7"/>nes alias plus pondero. sed de peccato: concedo quod 
+          <lb ed="#P" n="8"/>plus debeo euitare peccatum in me quam in reliqua 
+          <lb ed="#P" n="9"/>multitudine: quia per peccatum derogo bono 
+          diui<lb ed="#P" n="10" break="no"/>no: et deo contrauenio: propterea debeo potius hoc 
+          <lb ed="#P" n="11"/>euitare in me quam in aliqua tota multitudine. et licet 
+          <lb ed="#P" n="12"/>deus magis offenderetur per plurium pcctam quam meum solum: 
+          <lb ed="#P" n="13"/>hoc michi non imputabitur. anima mea in manibus 
+          me<lb ed="#P" n="14" break="no"/>is. quod alii peccent et non ego: est solum michi malum pene. 
+          <lb ed="#P" n="15"/>me peccare est malum culpe. modo magis debeo 
+          eui<lb ed="#P" n="16" break="no"/>tare malum culpe (quod displicet deo) in me quam in aliis. 
+          <lb ed="#P" n="17"/>per hoc soluitur sexta ratio.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e567">
+          ¶ Contra tertiam 
+          con<lb ed="#P" n="18" break="no"/>clusionem arguitur: ex ea sequitur quod non datur 
+          intensissi<lb ed="#P" n="19" break="no"/>mus actus charitatis quem volutas potest hatrre: sed hoc 
+          <lb ed="#P" n="20"/>est inconueniens. igitur. quod sequatur patet: voluntas cum 
+          <lb ed="#P" n="21"/>charitate producit actum intensiorem quam sine charita 
+          <lb ed="#P" n="22"/>te: ergo quato charitas fuerit maior: tanto actus 
+          elici<lb ed="#P" n="23" break="no"/>tus voluntatis erit intensior: ad intensionem cause 
+          <lb ed="#P" n="24"/>intenditur effectus. sed non datur maxima 
+          chari<lb ed="#P" n="25" break="no"/>tas in via: quocunque numero actuum meritoriorum 
+          <lb ed="#P" n="26"/>dato: datur adhuc vnum meritum: et ad meritorum 
+          <lb ed="#P" n="27"/>crementum: augetur infusa charitas. igti.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e591">
+          ¶ Secundo se 
+          <lb ed="#P" n="28"/>quitur quod aliquis potest cognoscere euidenter vel 
+          expe<lb ed="#P" n="29" break="no"/>rimentaliter se esse in charitate: quod est falsum. 
+          ne<lb ed="#P" n="30" break="no"/>mo nouit an amore vel odio dignus sit. et patet quod 
+          se<lb ed="#P" n="31" break="no"/>quatur: si voluntas habeat actum aliquem bonum: et est 
+          <lb ed="#P" n="32"/>in mortali: et si detestetur suum peccatum. subito in 
+          <lb ed="#P" n="33"/>fundetur charitas quae iuuat potentiam: tunc voluntas 
+          ha<lb ed="#P" n="34" break="no"/>bebit actum intensiorem quam antea: et intellectus potest illud 
+          <lb ed="#P" n="35"/>percipere: et scire quod intensio actus non prouenit ab 
+          a<lb ed="#P" n="36" break="no"/>lia causa: igitur.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e613">
+          ¶ Tertio sequitur quod dabitur aliquis 
+          <lb ed="#P" n="37"/>actus voluntatis subito extinctus secundm se et quodlet sui. 
+          <lb ed="#P" n="38"/>cosequens est contra Aristotelem. viii. Phisicorum. et quod 
+          sequa<lb ed="#P" n="39" break="no"/>tur patet sic. si quis habet actum intensum vt. viii. ita 
+          <lb ed="#P" n="40"/>quod intensio actus vt duo proueniat a charitate: 
+          pec<lb ed="#P" n="41" break="no"/>cet aliquis mortaliter subito per alium actum: tunc 
+          <lb ed="#P" n="42"/>duo gradus subito tollentur: cum sit ablata causa 
+          <lb ed="#P" n="43"/>naturalis: quare actus est intensus vt duo: immo 
+          se<lb ed="#P" n="44" break="no"/>quitur per idem quod duo gradus subito producentur in 
+          <lb ed="#P" n="45"/>voluntate: voluntate solum suum mortale 
+          detestan<lb ed="#P" n="46" break="no"/>te.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e637">
+          ¶ Ad primum distinguitur quod non detur remisissimus 
+          <lb ed="#P" n="47"/>actus quem voluntas potest habere. vel sine habitu: 
+          <lb ed="#P" n="48"/>et sic negetur: cum habitu: conceditur. ad habitus 
+          cremen<lb ed="#P" n="49" break="no"/>tum crescit actus eius quo ad intensionem.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e646">
+          ¶ Ad 
+          se<lb ed="#P" n="50" break="no"/>cundum nego sequelam: bene cecum est voluntati 
+          cogno<lb ed="#P" n="51" break="no"/>scere quando suus actus est intensior: et quando remissior. et 
+          <lb ed="#P" n="52"/>si cognoscat ipsum actum esse intensiorem non facile 
+          <lb ed="#P" n="53"/>cognoscere potest vnde oritur illa actus / intensio. an a 
+          po<lb ed="#P" n="54" break="no"/>tentia melius disposita: maiore noticia habita vel 
+          <lb ed="#P" n="55"/>clari ore: a domino deo. crebritur constat de a morbo: sed a 
+          <lb ed="#P" n="56"/>quo fonte scateat ambiguum est.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e664">
+          ¶ Ad tertium 
+          conce<lb ed="#P" n="57" break="no"/>do: nec hoc est inconueniens: quando causa illius effectus 
+          <lb ed="#P" n="58"/>conseruatiua et productiua subito corrumpitur vel 
+          anni<lb ed="#P" n="59" break="no"/>chilatur: quemadmodum est de charitate per mortale 
+          <lb ed="#P" n="60"/>peccatum. eodem modo dicatur ad secundam particulam de 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>actus augmentatione.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e681">
+          ¶ Dubitatur an detur aliqua 
+          di<lb ed="#P" n="62" break="no"/>lectio dei simplex.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e686">
+          ¶ Secundo dubitatur: an praeceptum 
+          <lb ed="#P" n="63"/>charitatis de dilcctione dei posset in via totalitad. 
+          <lb ed="#P" n="64"/>impleri.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e693">
+          ¶ Ad primum respondetur: respectu eiusdes 
+          <lb ed="#P" n="65"/>obiecti possunt dari due noticie: quarum vna est sim 
+          <lb ed="#P" n="66"/>plex et alia complexa: sicut noticia sortis incomplexa 
+          <lb ed="#P" n="67"/>respectu sortis. alia est noticia complexa: qua 
+          iu<lb ed="#P" n="68" break="no"/>dico sortem esse hominem vel animal. sic forte 
+          <lb ed="#P" n="69"/>possunt poni duo amores respectu eiusdem 
+          obie<lb ed="#P" n="70" break="no"/>cti: quorum vnus est incomplexus: eo modo quo 
+          <lb ed="#P" n="71"/>incomplexio actui voluntatis conuenit: vt 
+          dilectio<lb ed="#P" n="72" break="no"/>dei: volo: nolo. Alia est volitio complexa: vt volo 
+          sor<lb ed="#P" n="73" break="no"/>tem esse doctum: volo deum esse deum.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e715">
+          ¶ Sed 
+          con<lb ed="#P" n="74" break="no"/>tra istud arguitur: vel vtraque istarum volitionum: 
+          scili<lb ed="#P" n="75" break="no"/>cet complexa: et incomplexa: respectu dei: erit 
+          frui<lb ed="#P" n="76" break="no"/>tio dei: et sic dabuntur due fruitiones specie 
+          distin<lb ed="#P" n="77" break="no"/>cte in eadem potentia respectu dei in via. et due 
+          bea<lb ed="#P" n="78" break="no"/>titudines in voluntate in patria: quarum vna erit 
+          <lb ed="#P" n="79"/>incomplexa: et alia complexa:. vel sola vna earum erit 
+          <lb ed="#P" n="80"/>beatifica. et queritur ratio illius. Secundo 
+          argui<lb ed="#P" n="81" break="no"/>tur: si habeo volitionem respectu dei volo deum: et 
+          <lb ed="#P" n="82"/>hoc non est nisi velle deum esse: vel velle deum esse 
+          <lb ed="#P" n="83"/>deum. Tertio: secundum aristotelem secundo 
+          rethori<lb ed="#P" n="84" break="no"/>ce diligere aliquem nichil aliud est quam illi velle 
+          bo<lb ed="#P" n="85" break="no"/>num. Quarto arguitur: nullus est actus in volunta 
+          <lb ed="#P" n="86"/>te nisi velle vel nolle: hoc est omnis actus volunta 
+          <lb ed="#P" n="87"/>tis est volitio: vel nolitio: prosequutio vel fuga. si 
+          <lb ed="#P" n="88"/>est volitio: volo. et per consequens aliquid volo 
+          es<lb ed="#P" n="89" break="no"/>se: et sic complexe: cum obiectum illius semper est 
+          <lb ed="#P" n="90"/>complexum effectualiter in mente. vt si petatur 
+          ab<lb ed="#P" n="91" break="no"/>auaro an velit dare denarium pauperi: dicit nolo: 
+          <lb ed="#P" n="92"/>intelligens nolo dare.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e759">
+          ¶ Ad ista possunt dari 
+          ali<lb ed="#P" n="93" break="no"/>que euasiones. Ad primam: dicam noticia intuitiua 
+          <lb ed="#P" n="94"/>simplex dei est beatitudo intellectus. complexa 
+          no<lb ed="#P" n="95" break="no"/>titia dei vel iudicium quod deus est deus: non est 
+          bea<lb ed="#P" n="96" break="no"/>titudo: sic de amore dici potest. et respectu dei que 
+          <lb ed="#P" n="97"/>libet istarum dilectionum in via est fruitio. Ad sin 
+          <lb ed="#P" n="98"/>gulas rationes dari potest vtcumque vna responsio. 
+          <lb ed="#P" n="99"/>sed magis michi rationes suadent quod nullus actus 
+          <lb ed="#P" n="100"/>voluntatis est incomplexus: sed est complexus 
+          ob<lb ed="#P" n="101" break="no"/>iectiue. explicite: vel implicite actus voluntatis 
+          <lb ed="#P" n="102"/>fertur in complexum. si quis experimento dicat se 
+          <lb ed="#P" n="103"/>hatre actum incomplexum in voluntate. dicitur quod est passio actum 
+          <lb ed="#P" n="104"/>voluntatis consequens
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e788">
+          ¶ Ad secunde 
+          dubitatio<lb ed="#P" n="105" break="no"/>nis partem negatiuam arguitur auctoritate Augustini in 
+          <lb ed="#P" n="106"/>de perfectione iusticie vnde ait: illud praeceptum hic 
+          <lb ed="#P" n="107"/>in via non penitus sed ex parte: impletur. quia ex 
+          par<lb ed="#P" n="108" break="no"/>te diligimus siciit ex parte cognoscimus. in futura 
+          <lb ed="#P" n="109"/>vero vita ex toto implebitur: vbi erit iustus sine 
+          pec<lb ed="#P" n="110" break="no"/>cato: quia ibi nulla lex erit repugnans menti. et si 
+          <lb ed="#P" n="111"/>queratur cur ergo precipitur: respondit: idemo: vt 
+          prece<lb ed="#P" n="112" break="no"/>ptis ostendatur quo currendum est: quam non recte 
+          cur<lb ed="#P" n="113" break="no"/>ritur si quodo currendum est nesciatur: quomodo autem sciretur 
+          <lb ed="#P" n="114"/>si nullis praeceptis ostenderetur. Pro dubitationis 
+          so<lb ed="#P" n="115" break="no"/>lutione ponuntur propostiones.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e815">
+          ¶ Prima est: mandatum 
+          <lb ed="#P" n="116"/>de charitate de dilectione dei potst implesi in via: 
+          <lb ed="#P" n="117"/>sic quod homo non est transgressor illius precepti: 
+          pro<lb ed="#P" n="118" break="no"/>batur: preceptum est diligere deum: et si homo non posse 
+          <lb ed="#P" n="119"/>illud preceptum implere: precipiet deus 
+          impossi<lb ed="#P" n="120" break="no"/>bile: contra illud hieronymi in explanatione fi¬ 
+          <pb ed="#P" n="68-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dei dicentis: anathema sit deum aliquid praecipere: 
+          <lb ed="#P" n="2"/>et hominem adimplere non posse.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e837">
+          ¶ Secunda 
+          pro<lb ed="#P" n="3" break="no"/>positio: mandatum charitatis secundum obligationem 
+          <lb ed="#P" n="4"/>vie potest totaliteret perfecte impleri. probatur secundem 
+          <lb ed="#P" n="5"/>Arist. v. Meta. totum et perfectum idem sunt. 
+          vtrun<lb ed="#P" n="6" break="no"/>que em diffinit per hoc quod nichil abest quod est pars eius: 
+          <lb ed="#P" n="7"/>hoc est: cui nichil deficit eorum quae requiruntur ad 
+          comple<lb ed="#P" n="8" break="no"/>tionem eius. sicut homo dicitur perfectus: cum 
+          nul<lb ed="#P" n="9" break="no"/>la pars requisita ad bonam compositionem 
+          humanani<lb ed="#P" n="10" break="no"/>deficit. modo sic est de dilectione praeceptiua dei in 
+          <lb ed="#P" n="11"/>via. ipsa habet vel habere potest omina requisita ad 
+          <lb ed="#P" n="12"/>hoc quod sit impletio praecepti perfecta.
+        </p>
+        <p xml:id="jm3cbb-e40893-d1e861">
+          ¶ Tertia 
+          proposi<lb ed="#P" n="13" break="no"/>tio: illud quod in via prcipitur circa dilectionem dei: mul 
+          <lb ed="#P" n="14"/>to perfectius et melius imiplebitur in patria quam in 
+          <lb ed="#P" n="15"/>via. patet: dilectio dei in patria erit perpetua: et altio 
+          <lb ed="#P" n="16"/>ris speciei: sicut eius noticia. nec compatietur 
+          ali<lb ed="#P" n="17" break="no"/>quodveniale: vel aliquod retardatiuum sui actus: 
+          ista<lb ed="#P" n="18" break="no"/>in vla non continguunt. interdum homo labitur in 
+          <lb ed="#P" n="19"/>contrarium: vtpote in mortalem noxas: in veniale: 
+          <lb ed="#P" n="20"/>in multa alia impartinentia que retardant a 
+          dilecti<lb ed="#P" n="21" break="no"/>one dei: et hoc voluit Augustinus dicere. datur 
+          ta<lb ed="#P" n="22" break="no"/>men nobis in via preceptum diligere deum: vt 
+          di<lb ed="#P" n="23" break="no"/>scamus quo currendum est: et quomodo in patria 
+          <lb ed="#P" n="24"/>est diligendus. non est sic datum preceptum de 
+          vi<lb ed="#P" n="25" break="no"/>sione: quia visio dei non habetur in viatore secundum 
+          <lb ed="#P" n="26"/>legem commuem: hoc dico propter Moysen et Paulum 
+          <lb ed="#P" n="27"/>quibus visio dei raptim in via concessa est: licet 
+          cha<lb ed="#P" n="28" break="no"/>ritas non excedet: et manebit aliqua dilectio: non 
+          <lb ed="#P" n="29"/>autem noticia imperfecta: vt post hac dicemus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

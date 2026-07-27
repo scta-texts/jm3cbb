@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 25</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 25</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="98-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e60182"><!-- l3d33q25 -->
+        <head xml:id="jm3cbb-e60182-Hd1e99">Quaestio 25</head>
+        <head xml:id="jm3cbb-e60182-Hd1e101" type="question-title">Quomodo sumenda sit latitudo temperantiae</head>
+        <p xml:id="jm3cbb-e60182-d1e104">
+          <lb ed="#P" n="110"/>Quarto materiam 
+          tem<lb ed="#P" n="111" break="no"/>perantie prosequendo: 
+          queri<lb ed="#P" n="112" break="no"/>tur quomodo sumenda sit 
+          la<lb ed="#P" n="113" break="no"/>itudo temperantie.
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e115">
+          ¶ 
+          Respon<lb ed="#P" n="114" break="no"/>deturper aliquas 
+          conclusio<lb ed="#P" n="115" break="no"/>nes: Quarum prima est. 
+          ho<lb ed="#P" n="116" break="no"/>mo potest multis modisa 
+          lo<lb ed="#P" n="117" break="no"/>titudine temperantie decedere. patet: ex parte 
+          ob<lb ed="#P" n="118" break="no"/>iecti comedendo illud quod non est 
+          comeden<lb ed="#P" n="119" break="no"/>dum: vt Leuitici Undecimo capitr. poterant fido¬ 
+          <pb ed="#P" n="99-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>es conedere animalia diuisas vnglas haesentia et ruminam 
+          <lb ed="#P" n="2"/>tia: alia comnedendo peccarturt. ergo comnedere porcum tunc erat 
+          <lb ed="#P" n="3"/>illicitum ex parte obii: ex parte tmperis potest esse defectus: et ita qi 
+          <lb ed="#P" n="4"/>aliis circunstantiis.
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e144">
+          ¶ Secunda conclusio homo tperantie reglam 
+          <lb ed="#P" n="5"/>tet quando non conedit vel bibit aliquid quod bome habitudi corperis 
+          <lb ed="#P" n="6"/>vel anime nocet: dum modo non trascendat simites suarum 
+          opum<lb ed="#P" n="7" break="no"/>et no est lex positiuam tate cipum vt potu prohibens. hec 
+          <lb ed="#P" n="8"/>conclusio probatur interdum ho tpate conedit. latitudo sue 
+          <lb ed="#P" n="9"/>conestionis non est indiuisibils. ergo ptest conedere aliquatum panis et 
+          <lb ed="#P" n="10"/>aliquid vltra: manendo in latitudiue tperantie: et semper 
+          ma<lb ed="#P" n="11" break="no"/>nebit in illa latitudine quousque capiat aliquid quod est contra 
+          <lb ed="#P" n="12"/>bonam habintudinem corperis vel anime: vel transcendit suas 
+          <lb ed="#P" n="13"/>opes: vel capit cibos prohibitos in tali tpere conedendi: 
+          <lb ed="#P" n="14"/>et sic de potu: arguo fic ex parte panis: et eodem modo 
+          ar<lb ed="#P" n="15" break="no"/>gumentari potes ex parte carnis vel piscis: dabilis est 
+          <lb ed="#P" n="16"/>panis ita paruus sorti / qui non sufficit ei in die: quem si solum 
+          <lb ed="#P" n="17"/>conedit cum esculento respondenti: est in extremo insensibilitatis 
+          <lb ed="#P" n="18"/>cibi: et peccat. potiamus quod decima pars libre non 
+          suffi<lb ed="#P" n="19" break="no"/>ciat ei in die: tunc crescat panis ille ad imaginationem 
+          <lb ed="#P" n="20"/>quousque ei sufficiat: tunc dabimus duo extrema: vnum 
+          <lb ed="#P" n="21"/>erit / maximus panis qui ei non sufficit ob peruitatem: alte 
+          <lb ed="#P" n="22"/>rum extremum erit vna libra gratia exempli: et sic de aliis 
+          <lb ed="#P" n="23"/>esculentis. si multum de carnibus capiat: vel forti vino: 
+          <lb ed="#P" n="24"/>minus de pane sufficit. dixi secundum complexionem suam: 
+          <lb ed="#P" n="25"/>non est eadem complexio platonis et milonis. sub aliis 
+          ver<lb ed="#P" n="26" break="no"/>bis dicam istud clarius. homo potest conedere quousque certum 
+          <lb ed="#P" n="27"/>sit quod ei non nocet: et sic de potu. dixi secundum opes 
+          su<lb ed="#P" n="28" break="no"/>as: si quis splendidius quod diceat sibi cibos emat: peccat 
+          <lb ed="#P" n="29"/>per intemperantiam. notantur emat: si ad conuiuium inuitatus 
+          <lb ed="#P" n="30"/>fuerit expensis aliorum: non propterea est intemperatus. vel 
+          <lb ed="#P" n="31"/>si sit infirmus et egeat cibo delicatiore solito: non est 
+          <lb ed="#P" n="32"/>intperatus esto quod emat
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e208">
+          ¶ Ex istis sequuntur correlaria. 
+          <lb ed="#P" n="33"/>primum est homo rlam tpantie frangit in quanto. patet 
+          cone<lb ed="#P" n="34" break="no"/>dendo plusquad par sit contra bonam habintudinem corperis vel 
+          <lb ed="#P" n="35"/>anime.
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e217">
+          ¶ Secundo fequitur quod homo peccat in quali: et non in 
+          <lb ed="#P" n="36"/>quato: vt pauper emendo delicatiora cibariam quam par sit: 
+          <lb ed="#P" n="37"/>et non in excessiua quod titate carnium vl piscium. istud 
+          cor<lb ed="#P" n="38" break="no"/>relarium patet per diuitem epulonem qui quatidie vescebatur 
+          <lb ed="#P" n="39"/>splendide: qui in inferno sepultus est.
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e228">
+          ¶ Tertio sequiturquod 
+          <lb ed="#P" n="40"/>si quis conedat carnes in quaedragesima sine rationabili cam: 
+          <lb ed="#P" n="41"/>est intperatus. pro tali tmpere carnes sunt prohibite tali. 
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e235">
+          <lb ed="#P" n="42"/>¶ Tertia conclusio. quilbet excessus extra latitudinem 
+          tem<lb ed="#P" n="43" break="no"/>perantie quamtuncumque paruus facit intpantiam hec 
+          conclu<lb ed="#P" n="44" break="no"/>sio est contra martinum suam condictoria ponentem. probatr hec 
+          <lb ed="#P" n="45"/>conclusio tam ratione quom auctoritate Arist. quia auctoritate 
+          <lb ed="#P" n="46"/>Aristo. suam nititur roborare. ratio est hec: quilibet actus 
+          circa<lb ed="#P" n="47" break="no"/>matiam tperantie / habet obiectum sufficiens et circunstantias 
+          <lb ed="#P" n="48"/>sufficientes: et tunc est in medio. vel non habet hec omnia: et tunc 
+          <lb ed="#P" n="49"/>est in extremo. ergo est in vicio. Secundo arguitui ad idem. tal actus 
+          <lb ed="#P" n="50"/>extra totam latitudinem medii est deliberatus. ergo est bonus 
+          <lb ed="#P" n="51"/>vel malus vel indifferens ( pro nunc suppoamus unllum 
+          ta<lb ed="#P" n="52" break="no"/>lem actum esse: quia dato quod esset ille actus non est de numero 
+          ta<lb ed="#P" n="53" break="no"/>lium) si est bonus: est in latitudine medii. si malus: hemo 
+          in<lb ed="#P" n="54" break="no"/>tentum. Tertio arguitur: quilibet excessus ets totam latitudinem tem 
+          <lb ed="#P" n="55"/>perantie est intperantia t peccatm. aucnte phoshi probatur eadem 
+          <lb ed="#P" n="56"/>conclusio. iiii. ethi. v. c. illud exprsse habet. allegabo 
+          transla<lb ed="#P" n="57" break="no"/>tionem argiropyli sic dicentis: qui namque parum 
+          transgre<lb ed="#P" n="58" break="no"/>ditur: non repshenditur: siue ad exuperationem: siue ad de 
+          <lb ed="#P" n="59"/>fectionem se virtat. non numquam ei deficientes laudamus: 
+          man<lb ed="#P" n="60" break="no"/>suetosque vocamus: et ipsos infensos / tamquam aptos ad do¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>minandum viriles dicimus ess. facile igitur non est assigna 
+          <lb ed="#P" n="62"/>re ratione: quantum: et quomodo: quispiam egressus vituperandus est. 
+          <lb ed="#P" n="63"/>in singularibus eim et in sensu iudicium est. illud tamen est manifestum: 
+          <lb ed="#P" n="64"/>medium quidem habitum quo quibus oportet et pro quibus oice / et vt oportet / 
+          <lb ed="#P" n="65"/>irascimur: et simili modo de ceteris: laudabilem esse. 
+          exu<lb ed="#P" n="66" break="no"/>perationes autemem defectionesque vituperandas. atque si 
+          <lb ed="#P" n="67"/>parum distat a medio: leuiter. si plus: magis. si nimium 
+          <lb ed="#P" n="68"/>vehementer esse carpendas. hic manifeste ex 
+          philoso<lb ed="#P" n="69" break="no"/>pho habes quenlibet exeessum a medio culpabilem. 
+          <lb ed="#P" n="70"/>sed si excessus fuerit pusillus: leuiter carpimus: si 
+          mul<lb ed="#P" n="71" break="no"/>tus fuerit: magis carpimus
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e305">
+          ¶ Quarta conclusio cono eundem. 
+          <lb ed="#P" n="72"/>sanctis et perfectis viris qui iam temperantiam virtutem 
+          se<lb ed="#P" n="73" break="no"/>cundum temperantie gradum attigerunt: necessitas non est 
+          <lb ed="#P" n="74"/>regula. volo dicere: est eadem regula eis e aliis. si 
+          la<lb ed="#P" n="75" break="no"/>titudo complexionis eorum sit redacta ad minus: sic scilicet: quod 
+          <lb ed="#P" n="76"/>si tantum comederent ficut alii qui erant similitr complexionati: 
+          <lb ed="#P" n="77"/>male se haberent in corpere vl anima: iam non est ad propositum. 
+          <lb ed="#P" n="78"/>hec conclusio potest probari eodem medio qua probata est. ii. 
+          conclusio<lb ed="#P" n="79" break="no"/>illa probatio de quolibet perfecto et imperfecto equalitur 
+          <lb ed="#P" n="80"/>concludit.
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e327">
+          ¶ Contra primum correlarium secunde conclusinis 
+          <lb ed="#P" n="81"/>arguitur sic. stat quod homo ex ignorantia inuincibili 
+          exce<lb ed="#P" n="82" break="no"/>dat in quanto. credit inter comedendum quod cibus assumptus 
+          <lb ed="#P" n="83"/>non nocebit ei: et tamen postquam cessat comedere / inuenit 
+          <lb ed="#P" n="84"/>se male dispositum in corpere: vel quando mane surgit. talis 
+          <lb ed="#P" n="85"/>inter comnuedendum non peccat: et hoc potest deduci con 
+          quar<lb ed="#P" n="86" break="no"/>tam conclusionem
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e344">
+          ¶ Ssedetur virobique si homo pus conedat vel 
+          <lb ed="#P" n="87"/>bibat quam ei congruat: si sit ignoratia inuincibilis: non 
+          <lb ed="#P" n="88"/>est pecctum: sed est tprantia: et actus temperatie: vt patet: est 
+          <lb ed="#P" n="89"/>actus bonus: cum ad bonitatem actus sufficit ignorantia 
+          <lb ed="#P" n="90"/>inuincibilis: et non spectat ad alia virtutem quam ad 
+          tempe<lb ed="#P" n="91" break="no"/>rantiam / vel ad alterum extremorum eius. sed ad neutrum 
+          <lb ed="#P" n="92"/>extremoru teperantie spectat. ergo ad tperantiam virtutem 
+          <lb ed="#P" n="93"/>cardinalem spectat. sed vt homo cognoscat quantum ei 
+          suffi<lb ed="#P" n="94" break="no"/>cit: sciat secundum illud boetii. natura paucis minime 
+          <lb ed="#P" n="95"/>que contenta est. capiat in refectione mediocrem quatitatem: 
+          ci<lb ed="#P" n="96" break="no"/>tius ad peruum quam ad multum tendentem: et comedat illud 
+          re<lb ed="#P" n="97" break="no"/>linquendo appetitum aptum: qui in fine conestionis plus 
+          appe<lb ed="#P" n="98" break="no"/>tit. et ratio est: quia pori non funt impleti qui erunt exinaniti. 
+          <lb ed="#P" n="99"/>successu tperis ad vnam horam inueniet se satis 
+          suscepis<lb ed="#P" n="100" break="no"/>feet bene sese habembit. tamtum quolibet die: etin eadem hora 
+          co<lb ed="#P" n="101" break="no"/>medat. fecundo cognoscet si habeat bonum appetitum 
+          <lb ed="#P" n="102"/>ad cenam: tunc signum est quod non excessiue comedit. si non 
+          <lb ed="#P" n="103"/>habeat appetitum: non cenet: sed differat in crastinum 
+          <lb ed="#P" n="104"/>quousque appetitum habeat. cibi comestionem cum 
+          ap<lb ed="#P" n="105" break="no"/>petitu incipiat: et cum habitu comedere desinat: ettunc 
+          bene<lb ed="#P" n="106" break="no"/>sese habebit in latitudine tperantie.
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e390">
+          ¶ Contra secundum 
+          <lb ed="#P" n="107"/>correlarium in quali arguitur sic. quando homo emit cibum et 
+          po<lb ed="#P" n="108" break="no"/>tum ex proprio: potest emere quam chare vult: quia de propriis 
+          <lb ed="#P" n="109"/>emit: et nulli facit iniuriam. ergo non peccat contra regulam 
+          <lb ed="#P" n="110"/>temperantie. ¶Sndetur concedendo quod emit ex proprio. 
+          <lb ed="#P" n="111"/>sed nego propterea quod potest emere quod chare vult 
+          cibum<lb ed="#P" n="112" break="no"/>preciosissimum stita eeset: non facerent euageliste mentio 
+          <lb ed="#P" n="113"/>nem de diuite qui ita splendide alitus estin eius opprobrium. 
+          <lb ed="#P" n="114"/>homo non potest licite sua exponere: nisi conformitr 
+          <lb ed="#P" n="115"/>ad rationem. si quis velit triticum eius proiicere in 
+          sequa<lb ed="#P" n="116" break="no"/>nam: peccaret in rempublicam. ipsam priuando bonis suis 
+          <lb ed="#P" n="117"/>sine rationabili causa. sicpauper et ignobilis in 
+          to<lb ed="#P" n="118" break="no"/>tam rempublicam peccat: charius emendo quam deceat 
+          <lb ed="#P" n="119"/>suum statum. plus capit de cibis bomois reipublice quam 
+          par<lb ed="#P" n="120" break="no"/>sit. Secundo peccat contraregulam tprantie: splendidius 
+          <pb ed="#P" n="99-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>conedendo quod debeat. tertio peccat inse et insuos: plua 
+          <lb ed="#P" n="2"/>exponendo de eorum bonis quam debeat. si habteret rationabilem 
+          <lb ed="#P" n="3"/>cam id faciendi maneret in regla tperantie: vt pote: facit 
+          <lb ed="#P" n="4"/>hoc gratia sanitatis haespende: quia morbo laborat vl 
+          ali<lb ed="#P" n="5" break="no"/>quis amicorum eius: vel facit id quatenus se praeseruat ne 
+          <lb ed="#P" n="6"/>in morbum incidat: in quam alias verosimilitur casurus esset 
+          <lb ed="#P" n="7"/>consilio phisicorum: vel est facturus conuiuium rationabile: 
+          <lb ed="#P" n="8"/>tunc est tperantia seruata: quia recta ratio dictat ita debere 
+          <lb ed="#P" n="9"/>fieri.
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e447">
+          ¶ Contra tertiam conclusionem arguitur argumentis 
+          <lb ed="#P" n="10"/>quibus martinus tenet oppositum. dicit sic frequenter: cum perse 
+          <lb ed="#P" n="11"/>uerat appetitus edendi aut bibendi: non bene possumus 
+          iu<lb ed="#P" n="12" break="no"/>dicare vtrum ipse sit curatus a necessitate aut 
+          concupi<lb ed="#P" n="13" break="no"/>scentia: vtrum sit impeditiuus bone disponis ant non: vtrum 
+          <lb ed="#P" n="14"/>pro tuncvsum cibi et potus (qui aliter esset illicitus facit licitum 
+          <lb ed="#P" n="15"/>procuratio bone habitudinis. introducit 
+          auctorita<lb ed="#P" n="16" break="no"/>tem Augustini ad similem seninam in libro confessionum. 
+          vi<lb ed="#P" n="17" break="no"/>de martinum in primis. vel est ignorantia inuincibilis: 
+          <lb ed="#P" n="18"/>tunc si conedens plus capiat quod conducat bone habitudin 
+          cor<lb ed="#P" n="19" break="no"/>peris aut animme: vt ex affectu posteriori cognoscet. 
+          di<lb ed="#P" n="20" break="no"/>co manet in latitudine tperantie si scienter vl ex 
+          ignoram<lb ed="#P" n="21" break="no"/>tia vincibili amplius capit: quamtuncumque parum: est extra 
+          la<lb ed="#P" n="22" break="no"/>titudinem temperantie et male agit. si notabiliter sit extra 
+          <lb ed="#P" n="23"/>totam latitudinem teperantie. iam magi peccat. si parum 
+          cam<lb ed="#P" n="24" break="no"/>cellos eius tranigressus fuerit: peccatum est minus: vt ex 
+          Ari<lb ed="#P" n="25" break="no"/>sto. nuperrime in probatione conclusionis introduximus. 
+          <lb ed="#P" n="26"/>Pretrea in suam conclusionem introducit Aristote. in. ii. ethi 
+          <lb ed="#P" n="27"/>corum quem dicit esse eiusdem senine. ostendi Aristo. velle 
+          op<lb ed="#P" n="28" break="no"/>positum. Secundo dico: non inuenio quod Aristo. in. ii. ethico. 
+          <lb ed="#P" n="29"/>aliquid loquatur ad propositum: nisi in. ii. capi. in quo dicit 
+          <lb ed="#P" n="30"/>pro conclusione quam posui consequaenter ad dicta in materia 
+          <lb ed="#P" n="31"/>de mansuetudine in. iiii. ethico. sic in. ii. dicit ex 
+          argi<lb ed="#P" n="32" break="no"/>ropilo. Etemin nos interdum eos qui deficiunt laudamus: et 
+          <lb ed="#P" n="33"/>mites dicimus esse: interdum ipsos offensos / appellamus 
+          <lb ed="#P" n="34"/>viriles. et immediate sequitur: verum qui parum a recto 
+          ex<lb ed="#P" n="35" break="no"/>orbitat: non carpitur: siue ad exuperationem / siue 
+          <lb ed="#P" n="36"/>ad defectionem se flectat. vult dice re. quando parum 
+          <lb ed="#P" n="37"/>recedit a medio: non est carpendus: sed vtcumque danda est 
+          <lb ed="#P" n="38"/>venia. secus est si multum distat. Contra quartam conclusio 
+          <lb ed="#P" n="39"/>nem non disputabo: quia rationes eius alibi solui.
+        </p>
+        <p xml:id="jm3cbb-e60182-d1e515">
+          ¶ 
+          Uidi<lb ed="#P" n="40" break="no"/>mus nunc praucis tperantie latitudinem: quam si quis 
+          seruar<lb ed="#P" n="41" break="no"/>voluerit: pauca apponere faciat coram se cibaria et 
+          <lb ed="#P" n="42"/>potus. obie mouet potentiam. peolalitas dapum et vini / 
+          cor<lb ed="#P" n="43" break="no"/>rumpunt naturam. homo auidius in plalitate ciborum gaudet: 
+          <lb ed="#P" n="44"/>et natura plus capit de eis quam si vna spenis vel due 
+          po<lb ed="#P" n="45" break="no"/>nantur: si fuerit vna spenes vel due: sufficiunt apposite 
+          <lb ed="#P" n="46"/>in mediocri quantitate: nisi quis fuerit tante prudentie quod in 
+          <lb ed="#P" n="47"/>dapum varietare scit se applicare circa vnam vel duas 
+          <lb ed="#P" n="48"/>quod non est facile factu. sicut nec in continua societate 
+          pul<lb ed="#P" n="49" break="no"/>chrarum mulierum tenere castitatem mentis et corpris. et 
+          <lb ed="#P" n="50"/>ceum ebrietas / gula / et huiusmodi monstra sint feda et 
+          ex<lb ed="#P" n="51" break="no"/>probrabilia: inuenietur ex opposito temperantis 
+          <lb ed="#P" n="52"/>magnus decor: quam colere semper studebis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

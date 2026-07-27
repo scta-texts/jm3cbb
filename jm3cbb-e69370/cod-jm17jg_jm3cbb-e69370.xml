@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="113-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e69370"><!-- l3d36q7 -->
+        <head xml:id="jm3cbb-e69370-Hd1e99">Quaestio 7</head>
+        <head xml:id="jm3cbb-e69370-Hd1e101" type="question-title">An incontinentia irae sit minus turpis quam incontinentia
+    concupiscentiae</head>
+        <p xml:id="jm3cbb-e69370-d1e104">
+          <lb ed="#P" n="71"/>TErtio queritur an 
+          incon<lb ed="#P" n="72" break="no"/>tinentia ire sit minus turpis quod 
+          inconti<lb ed="#P" n="73" break="no"/>nentia concupiscentie.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e113">
+          ¶ Respondetur: 
+          incon<lb ed="#P" n="74" break="no"/>tinentia concupiscentie est peior et 
+          turpi<lb ed="#P" n="75" break="no"/>or incontinentia ire. probatur hec conclsio 
+          ra<lb ed="#P" n="76" break="no"/>tionibus Aristo. in septio eas 
+          expli<lb ed="#P" n="77" break="no"/>cando. prino sic arguit phoious: illa incontinentia est 
+          turpior<lb ed="#P" n="78" break="no"/>qua minus vtitur rectitudie ramtis: incontinentia concupiscentie 
+          <lb ed="#P" n="79"/>et huiusmodi: igtur. probatio minoris: quia incotinentia 
+          concupiscen<lb ed="#P" n="80" break="no"/>tie non vtitur ratie aliqui modo: sed oneso aliquo delectabili: 
+          <lb ed="#P" n="81"/>statim incontinens mouctur ad illud. ratio autem aliqua 
+          ap<lb ed="#P" n="82" break="no"/>parens praecedit motum ire: vcicet talis repellenda est inuria 
+          <lb ed="#P" n="83"/>puniendus est iniuriator: iste iecit iniuriam: et mox homo 
+          tem<lb ed="#P" n="84" break="no"/>dens ad punitionem vindictam irascitur et mouetur ad 
+          <lb ed="#P" n="85"/>purmtitionem plus equo non enim perficiens operationem operatur 
+          si<lb ed="#P" n="86" break="no"/>cut sequens passionem. iratus audit rationem: sed 
+          incomple<lb ed="#P" n="87" break="no"/>te inmperfecte: et post rationem in parte auditam / mouetur ad 
+          vin<lb ed="#P" n="88" break="no"/>dictam: quod ei accidit ob caliditatemet velocitatem 
+          na<lb ed="#P" n="89" break="no"/>ture. Ira enim est accensio sanguins circa cor: quod 
+          <lb ed="#P" n="90"/>Ari. duplici exemplo manifestat. Primum est de 
+          velo<lb ed="#P" n="91" break="no"/>cibus ministris: qui excurrunt ad faciendum iliud quod 
+          impera<lb ed="#P" n="92" break="no"/>tur antequod totaliter audierint dictum imperatis: et 
+          <lb ed="#P" n="93"/>inde est quod peccant in agendo nec faciunt illud quod 
+          <lb ed="#P" n="94"/>erat eis imperatum: hoc in famulis crebriter 
+          exper<lb ed="#P" n="95" break="no"/>tus sum. secundum exemplum est de canibus: qui statim 
+          <lb ed="#P" n="96"/>latrant ad primum ingredientium strepitum: antequam 
+          <lb ed="#P" n="97"/>cognouerint an ille qui ingreditur sit amicus: an ne. 
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e168">
+          <lb ed="#P" n="98"/>¶ Secundo arguitur ad idem: incontinentia est 
+          mi<lb ed="#P" n="99" break="no"/>nus turpis / et ei facilius ignoscimus / ac veniam 
+          da<lb ed="#P" n="100" break="no"/>mus qua est natur.liore difficilior ad vincendum sed 
+          incon<lb ed="#P" n="101" break="no"/>tinentia ire est naturalior et difficilior ad vincendum 
+          <lb ed="#P" n="102"/>quam ille concupiscentie quae habundantes sunt et non 
+          neces<lb ed="#P" n="103" break="no"/>sarie igitur incontinentia ire est minus turpis quam concupine 
+          <lb ed="#P" n="104"/>Maior patet: quia citius ignoscimus / in ipsis 
+          concupiscen<lb ed="#P" n="105" break="no"/>tiis quam to sunt naturaliores. Minorem probat Aristo 
+          <lb ed="#P" n="106"/>teles. duobus exemplis curiosis. Primum est de 
+          <lb ed="#P" n="107"/>eo qui iratus patrem percussit: dicebat: pater meus 
+          <lb ed="#P" n="108"/>percussit patrem suum: et ille suum. et filium suum 
+          <lb ed="#P" n="109"/>ostendens / dixit: Et ille me percutiet. causam 
+          <lb ed="#P" n="110"/>enim adiecit: hoc est nobis connatum / naturale / 
+          <lb ed="#P" n="111"/>et congenitum Secundum exemplum est de illo 
+          qui<lb ed="#P" n="112" break="no"/>trahebatur a filio: et cum ad ianuam tractus 
+          fue<lb ed="#P" n="113" break="no"/>rit: filium iussit cessare: inquiens: non traxi patrem 
+          <lb ed="#P" n="114"/>meum nisi ad locum illum. Ex his patet quod 
+          quali<lb ed="#P" n="115" break="no"/>tates ad iram inclinantes / a parentibus in filios 
+          tram<lb ed="#P" n="116" break="no"/>seunt: et per consequens ira est multum naturalis. 
+          <lb ed="#P" n="117"/>Tertio arguitur. incontinentia inclinans ad 
+          operan<lb ed="#P" n="118" break="no"/>dum insidiose / et fraudulenter / est turpior ea que 
+          <lb ed="#P" n="119"/>inclinat ad operandum manifeste et aparte. sed inconti¬ 
+          <pb ed="#P" n="114-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nentia concupiscentie inclinat ad prosequendam 
+          concu<lb ed="#P" n="2" break="no"/>piscentiam insidiose dolose: et ira vindictam prosequitur 
+          <lb ed="#P" n="3"/>palam et manifeste: et non per insidias: igitur. maior 
+          pa<lb ed="#P" n="4" break="no"/>tet: quia qui iniuriam inferunt / tanto sunt iniustiores quanto 
+          <lb ed="#P" n="5"/>eam magis inferunt fraudulenter et insidiose. minor 
+          pa<lb ed="#P" n="6" break="no"/>tet per illud quod poete de venere dicunt: quae 
+          concupiscen<lb ed="#P" n="7" break="no"/>tiam significat. communiter appellatur dolosa: et homerus 
+          <lb ed="#P" n="8"/>vocat eam deceptionem quae furatur intellectum multum 
+          sapiem<lb ed="#P" n="9" break="no"/>tis.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e243">
+          ¶ Preterea arguitur: nullus secundum concupiscentias 
+          <lb ed="#P" n="10"/>operans tristatur: ergo iniustior est operatio secundum 
+          concu<lb ed="#P" n="11" break="no"/>piscentiam quam secundum iram. nam peccata / quo magis placent 
+          <lb ed="#P" n="12"/>eo grauiora sunt. Si quis pater duas haberet 
+          fi<lb ed="#P" n="13" break="no"/>lias quarum vnam propter concupiscentiam quis 
+          cogno<lb ed="#P" n="14" break="no"/>uerit: alter aliam cognouisset propter iram: quia forte 
+          pa<lb ed="#P" n="15" break="no"/>ter sile fecit corruptori: tunc prior maiorem iniuriam 
+          <lb ed="#P" n="16"/>intulit quam secundus: et minus / pater irascitur secundo quam primo. 
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e261">
+          <lb ed="#P" n="17"/>¶ Contra hanc conclusionem arguitur. secundum philosophum 
+          <lb ed="#P" n="18"/>ii. Ethicorum. Difficilius est resistere concupiscentie quaom 
+          <lb ed="#P" n="19"/>ire: ergo incontinentia ire est deterior quam incontinentia 
+          <lb ed="#P" n="20"/>concupiscentie.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e272">
+          ¶ Secundo arguitur. incontinentia ire est 
+          <lb ed="#P" n="21"/>cum maiore vsu rationis: ergo est turpior. antecedens patet per 
+          <lb ed="#P" n="22"/>philosophum: et consequentia patet: quia quando passio extinguit 
+          ra<lb ed="#P" n="23" break="no"/>tionem: tunc peccatum excusatur.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e281">
+          ¶ Ad primum distinguo an 
+          <lb ed="#P" n="24"/>tecedens: vel ratione frequentis impugnationis doli et 
+          <lb ed="#P" n="25"/>fraudis: et sic concedo: vel ratione impetus et violentie: et 
+          <lb ed="#P" n="26"/>sic negatur. pugna concupiscentie est magis continua: 
+          <lb ed="#P" n="27"/>sed pugna ire pro hreui tmpere est. non est minor: 
+          potissi<lb ed="#P" n="28" break="no"/>mum in vehementer colerico.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e294">
+          ¶ Ad secundum 
+          di<lb ed="#P" n="29" break="no"/>stinguo antecedens: vel quod sit cum maiore vsu rationis: hoc est: 
+          <lb ed="#P" n="30"/>quod iratus sit magis compos mentis et melius posset 
+          iu<lb ed="#P" n="31" break="no"/>dicare quid agendum sit vel fugiendum quam concupiscens: 
+          <lb ed="#P" n="32"/>et sic negatur: quia concupiscens incontinens plene 
+          di<lb ed="#P" n="33" break="no"/>ctat de agibili et fugibili / de quo non plene dictat 
+          <lb ed="#P" n="34"/>iratus: vel quod sit cum maiore vsu rationis: hoc est: habet 
+          con<lb ed="#P" n="35" break="no"/>formitatem ad maiorem rationem: et hoc concedo. habet 
+          ira<lb ed="#P" n="36" break="no"/>tus apparentiam pro se.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e314">
+          ¶ Tertio arguitur. obiectum 
+          <lb ed="#P" n="37"/>concupiscentie / vt cibus / vel potus / naturalius 
+          appe<lb ed="#P" n="38" break="no"/>titur quam vindicta: ergo incontinentia concupiscentie est 
+          <lb ed="#P" n="39"/>excusabilior et minus turpis quam ire.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e324">
+          ¶ Quarto 
+          argui<lb ed="#P" n="40" break="no"/>tur. incontinentia ire impellit ad deteriora mala quam 
+          in<lb ed="#P" n="41" break="no"/>continentia concupiscentie: quia impellit crebro ad 
+          ho<lb ed="#P" n="42" break="no"/>micidia: propterea incontinentem ire omnes formidant et 
+          <lb ed="#P" n="43"/>fugiunt. non autem incontinentem concupiscentie: ergo incontinem 
+          <lb ed="#P" n="44"/>tia ire est peior quam incontinentia concupiscenti.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e337">
+          ¶ Ad 
+          <lb ed="#P" n="45"/>tertium dcir. concupiscentia cibi et potus est naturalior 
+          <lb ed="#P" n="46"/>quam ira: tamen superabundantia delectationum 
+          concupisci<lb ed="#P" n="47" break="no"/>bilium penes quas attenditur incontinentia 
+          concu<lb ed="#P" n="48" break="no"/>piscentie non est ita naturalis sicut ira. modo 
+          ira<lb ed="#P" n="49" break="no"/>est naturalior quam superabundantia delectationum. 
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e350">
+          <lb ed="#P" n="50"/>¶ Ad quartum dico quod ex vtraque incontinentia 
+          mul<lb ed="#P" n="51" break="no"/>ta mala sequuntur. nonne vides ex concupiscentia 
+          pa<lb ed="#P" n="52" break="no"/>ridis quot damna troianis sequuta sunt: et ex 
+          concu<lb ed="#P" n="53" break="no"/>piscentia Dauidis mors vrie. et licet plura 
+          damna<lb ed="#P" n="54" break="no"/>et comnius ex ira sequantur vt opinor quod ex 
+          concupi<lb ed="#P" n="55" break="no"/>scentia: tamen incontinentia concupiscentie est turpiore 
+          <lb ed="#P" n="56"/>exprobrabilior vt Aristote. probatin. vii. Ethicorum. 
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e368">
+          <lb ed="#P" n="57"/>¶ Dubitatur circa hanc questionem et praecedentem: dictum 
+          <lb ed="#P" n="58"/>est / incontinens operatur malum quod scit esse malum.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e375">
+          ¶ 
+          Con<lb ed="#P" n="59" break="no"/>tra hoc arguitur. bonum est obiectum voluntatis: primi 
+          <lb ed="#P" n="60"/>Ethicorum primo. omnis ars et omnis doctrina similit actus 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>et electio bonum quoddam appetere videtur: et per 
+          <lb ed="#P" n="62"/>Dionysium. iiii. de diuinis nominbus. nemo 
+          ope<lb ed="#P" n="63" break="no"/>ratur ad malum aspiciens.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e391">
+          ¶ Secundo: quia si sic: non 
+          opor<lb ed="#P" n="64" break="no"/>tet malefacientem errare contra aristotelem. iii. 
+          ethico<lb ed="#P" n="65" break="no"/>rum dicentem. ignorat quidem omnis malus que 
+          opor<lb ed="#P" n="66" break="no"/>tet operari secundum illud prouerbiorum. xiiii. errauerunt 
+          <lb ed="#P" n="67"/>omnes qui operantur malum.
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e403">
+          ¶ Ad primum respondetur: 
+          <lb ed="#P" n="68"/>voluntas fertur in bonum verum vel apparens: in 
+          <lb ed="#P" n="69"/>illud quod est bonum vtile / delectabile / vel hone 
+          <lb ed="#P" n="70"/>stum: et hoc sufficit ad esse obiectum voluntatis in 
+          <lb ed="#P" n="71"/>volendo. capiatur malum opposito modo. de hoc 
+          <lb ed="#P" n="72"/>in distinctione. xlix. quarti latius scripsi: ad hec remitto. 
+        </p>
+        <p xml:id="jm3cbb-e69370-d1e416">
+          <lb ed="#P" n="73"/>¶ Dubitatur: an incontinens potest habere rectum 
+          <lb ed="#P" n="74"/>iudicium in intellectu tam in vniuersali quam in 
+          par<lb ed="#P" n="75" break="no"/>ticulari et illi contrauenire. videtur quod non potest 
+          iu<lb ed="#P" n="76" break="no"/>dicare actu / quod est malum quod facit tempore 
+          quo<lb ed="#P" n="77" break="no"/>facit: vt videtur velle philosophus. vii. Ehicorum. 
+          <lb ed="#P" n="78"/>Pro nunc breuiter expediam: quia de hoc alias 
+          lo<lb ed="#P" n="79" break="no"/>quutuus sum. dico enim dato quod intellectus habeat 
+          ma<lb ed="#P" n="80" break="no"/>iorem et minorem dispositas in prima figura cui / 
+          actuali<lb ed="#P" n="81" break="no"/>ter assentit: vt omne dulce est gustandum: et 
+          mel<lb ed="#P" n="82" break="no"/>est dulce. voluntas ex libertate sua potest nolle 
+          gu<lb ed="#P" n="83" break="no"/>stare mel. nullum iudicium intellectus vniuersale 
+          <lb ed="#P" n="84"/>vel particulare necessitat voluntatem ad velle vel 
+          <lb ed="#P" n="85"/>nolle. immo quocunque iudicio intellectus stante: 
+          vo<lb ed="#P" n="86" break="no"/>luntas est libera libertate contradictionis et 
+          liber<lb ed="#P" n="87" break="no"/>tatis. aristoteles est intelligendus de voluntate 
+          con<lb ed="#P" n="88" break="no"/>formi iudicio intellectus. si voluntas efficaciter 
+          ve<lb ed="#P" n="89" break="no"/>lit omne dulce appositum gustare: et sciat mel 
+          ap<lb ed="#P" n="90" break="no"/>positum esse dulce: vult de necessitate consequentie 
+          mel<lb ed="#P" n="91" break="no"/>gustare. si quis efficaciter vult sanitatem: et 
+          iudi<lb ed="#P" n="92" break="no"/>cat in intellectu se non posse consequi sanitatem: 
+          <lb ed="#P" n="93"/>nisi per hanc potionem amaram: vult de 
+          necessi<lb ed="#P" n="94" break="no"/>tate consequentie hanc potionem. sic in alio 
+          exem<lb ed="#P" n="95" break="no"/>plo philosophi: si voluntas habeat vnum velle 
+          vni<lb ed="#P" n="96" break="no"/>uersale circa maiorem: alias non oportet. 
+          inconti<lb ed="#P" n="97" break="no"/>nens tenebrose iudicat existente passione que 
+          sen<lb ed="#P" n="98" break="no"/>sum obnubilat: sic quod tenebrose iudicat alio modo 
+          <lb ed="#P" n="99"/>rationem distrahendo a vero et a syllogismo 
+          intel<lb ed="#P" n="100" break="no"/>lectus. qui est multum intentus audire sonos 
+          fistu<lb ed="#P" n="101" break="no"/>larum parum in intellectu iudicat. x. Ethicorum. 
+          <lb ed="#P" n="102"/>potest etiam esse passio ita vehemens: et crescere: 
+          <lb ed="#P" n="103"/>sic quod tollit vsum rationis: et sic appetitus 
+          sensiti<lb ed="#P" n="104" break="no"/>uus duceret hominem in capistro et chamo ad 
+          il<lb ed="#P" n="105" break="no"/>licitum: si homo non aduertat. sed voluntas 
+          sem<lb ed="#P" n="106" break="no"/>per potest resistere quam diu vtitur ratione: 
+          propter<lb ed="#P" n="107" break="no"/>ea voluntati semper imputabitur: eo quod omittit 
+          re<lb ed="#P" n="108" break="no"/>primere appetitum quem in sua potestate habet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

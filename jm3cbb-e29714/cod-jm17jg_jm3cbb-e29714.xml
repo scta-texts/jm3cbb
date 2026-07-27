@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="49-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e29714"><!-- l3d23q3 -->
+        <head xml:id="jm3cbb-e29714-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e29714-Hd1e101" type="question-title">A quo generatur habitus</head>
+        <p xml:id="jm3cbb-e29714-d1e104">
+          <lb ed="#P" n="50"/>TErtio queritur: 
+          <lb ed="#P" n="51"/>a quo generatur habitus.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e111">
+          ¶ 
+          Re<lb ed="#P" n="52" break="no"/>spondetur: generatur ex actu 
+          <lb ed="#P" n="53"/>vel actibus. probatio: post actuum 
+          <lb ed="#P" n="54"/>elicitionem homo inuenit se 
+          pron<lb ed="#P" n="55" break="no"/>ptiorem exire in actum: ergo 
+          rema<lb ed="#P" n="56" break="no"/>net in eo aliquid: quod eum ad hoc 
+          <lb ed="#P" n="57"/>tncitat. si frequenter a obiectum vidi: facile de illo 
+          <lb ed="#P" n="58"/>reminiscerer: et si nihil in me maneret: non 
+          remini<lb ed="#P" n="59" break="no"/>scerer.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e131">
+          ¶ Contra hanc conclusionem arguitur. vel qui 
+          <lb ed="#P" n="60"/>libet actus generat habitum: et tunc sequitur quod in¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>infinitum paruus erat habitus: posito quod vnus actus 
+          <lb ed="#P" n="62"/>pure partibiliter eliciatur: quod est inconueniens.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e143">
+          ¶ 
+          Se<lb ed="#P" n="63" break="no"/>cundo arguitur: illa qualitas (cum erit remissa) facile 
+          <lb ed="#P" n="64"/>discedit: et per consequens erit dispositio: et non 
+          ha<lb ed="#P" n="65" break="no"/>bitus. quia per hoc dispositio segregatur ab 
+          habi<lb ed="#P" n="66" break="no"/>tu: quia vna qualitas est facile mobilis a subiecto: 
+          <lb ed="#P" n="67"/>alia difficulter.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e156">
+          ¶ Respondetur: aliquorum est 
+          opi<lb ed="#P" n="68" break="no"/>nio quod ex vno actu non generatur habitus: sed ac 
+          <lb ed="#P" n="69"/>tuum requiritur multiplicatio. Contra quos arguitur. 
+          <lb ed="#P" n="70"/>tunc requireretur repetitio duorum actuum / trium / vel 
+          <lb ed="#P" n="71"/>quattuor. vel in aliquo alio certo numero: et hoc 
+          <lb ed="#P" n="72"/>signare non potes. Preterea: vnus actus / intensus 
+          <lb ed="#P" n="73"/>tantum producit sicut tres vel quattuor remissi: sed tres 
+          <lb ed="#P" n="74"/>vel quattuor actus remissi possunt producere 
+          ha<lb ed="#P" n="75" break="no"/>bitum. ergo vnus actus intensus: eis equalis: 
+          produ<lb ed="#P" n="76" break="no"/>cit habitum. Insuper: siactus intensus magnum 
+          <lb ed="#P" n="77"/>habitum producat: actus remissus remissum 
+          habi<lb ed="#P" n="78" break="no"/>tum producit. tenet consequentia. quandocumque sunt 
+          <lb ed="#P" n="79"/>due cause differentes solum secundum magnitudinem et 
+          <lb ed="#P" n="80"/>paruitatem: si causa maior potest effectum magnum 
+          <lb ed="#P" n="81"/>producere: causa minor potest effectum minorem 
+          pro<lb ed="#P" n="82" break="no"/>ducere. patet de magno calore et paruo. de 
+          magno<lb ed="#P" n="83" break="no"/>frigore et paruo: verbi non est resistentia exuperans 
+          <lb ed="#P" n="84"/>actiuitatem agentis: vel resistentia equalis: que non 
+          <lb ed="#P" n="85"/>est hic: igitur. potissimum extra effectus qui non sunt 
+          <lb ed="#P" n="86"/>iudicia: quia noticia intuitiua intensa de sorte 
+          pro<lb ed="#P" n="87" break="no"/>pinquo causat iudicium quod hoc est homo: vel sortes: sed a 
+          <lb ed="#P" n="88"/>remotis noticia remissa non sufficit tale iudicium 
+          <lb ed="#P" n="89"/>producere. sed illa maxima est sane 
+          intelligenda<lb ed="#P" n="90" break="no"/>quando due cause differunt secundum magnum et paruum 
+          <lb ed="#P" n="91"/>possunt effectus producere secundum magnum et paruum. 
+          <lb ed="#P" n="92"/>si magnus actus producat magnum habitum: paruus 
+          <lb ed="#P" n="93"/>actus producit paruum habitum. et si noticia 
+          intui<lb ed="#P" n="94" break="no"/>tiua intensa producat iudicium perfectum quod hoc est 
+          <lb ed="#P" n="95"/>homo: vel hic homo: noticia intuitiua remissa 
+          pro<lb ed="#P" n="96" break="no"/>ducit iudicium imperfectius: non tamen eiusdem 
+          <lb ed="#P" n="97"/>speciei. hoc est speciale in iudiciis: vt in. iii. distinc. 
+          <lb ed="#P" n="98"/>ii. dictum est: nihil est dictu quod requiratur 
+          existen<lb ed="#P" n="99" break="no"/>tia obiecti ad productionem iudicii. noticia 
+          pro<lb ed="#P" n="100" break="no"/>ducit iudicium cum potentia: et obiectum cum 
+          potem<lb ed="#P" n="101" break="no"/>tia producunt noticiam.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e232">
+          ¶ Preterea arguitur sic: 
+          <lb ed="#P" n="102"/>vel primus actus remissus adductus producit 
+          ali<lb ed="#P" n="103" break="no"/>quid: vel nihil. si primum: illud erit eiusdem 
+          ratio<lb ed="#P" n="104" break="no"/>nis et speciei specialissime cum habitu: ergo erit 
+          ha<lb ed="#P" n="105" break="no"/>bitus: sicut quelibet quaelitas eiusdem speciei specias 
+          <lb ed="#P" n="106"/>lissime cum calore erit calor. Insuper: illa 
+          quali<lb ed="#P" n="107" break="no"/>tas in suo toto erit habitus: ergo quando separatur 
+          <lb ed="#P" n="108"/>a toto. antecedens patet: quelibet pars habitus 
+          <lb ed="#P" n="109"/>est habitus. forte dicis: primus actus remissus 
+          <lb ed="#P" n="110"/>nihil generat: sicut prima gutta cadens de 
+          stilli<lb ed="#P" n="111" break="no"/>cidio non cauat lapidem: nec secunda gutta cauat 
+          la<lb ed="#P" n="112" break="no"/>pidem. sed tamen vna gutta superueniens sua vi / 
+          <lb ed="#P" n="113"/>et virtute guttarum precedentium cauat lapidemt: sic 
+          <lb ed="#P" n="114"/>aliqui actus remissi nichil habitus generant: sed 
+          <lb ed="#P" n="115"/>tandem vnus actus virtute propria / et virtute 
+          precedem<lb ed="#P" n="116" break="no"/>tium actuum habitum parit.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e267">
+          ¶ Contra analogiam 
+          <lb ed="#P" n="117"/>de qua facis clipeum arguitur sic: prima gutta 
+          ni<lb ed="#P" n="118" break="no"/>chil lapidis tollit per te. secunda non est maior prima 
+          <lb ed="#P" n="119"/>nec aliqua sequens est maior prima: hoc supponitur. 
+          <lb ed="#P" n="120"/>ergo si prima nichil tollit: octaua / vel decima / 
+          ni<lb ed="#P" n="121" break="no"/>chil tollit. non valet dicere / virtute precedentiun 
+          <pb ed="#P" n="49-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quia precedentes non sunt. et per consequens ad 
+          ca<lb ed="#P" n="2" break="no"/>uationem non cooperantur.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e289">
+          ¶ At forte dicis: et si 
+          <lb ed="#P" n="3"/>non sunt: tamen disposuerunt lapidem ad cauatio 
+          <lb ed="#P" n="4"/>nem ipsum mollificando: et lapide mollificato vlti 
+          <lb ed="#P" n="5"/>ma gutta aliquid tollit et cauat: sicut prima 
+          gut<lb ed="#P" n="6" break="no"/>ta cadens super lutum non magne resistentie 
+          ali<lb ed="#P" n="7" break="no"/>quid tolleret.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e302">
+          ¶ Contra hoc arguitur: lapis non 
+          <lb ed="#P" n="8"/>apparet mollior in loco concauitatis quam in locis si 
+          <lb ed="#P" n="9"/>bi vicinis. et hoc probari potest de annulo: qui quo 
+          <lb ed="#P" n="10"/>tidiano vsu consumitur: secundum quod recte dici solet: 
+          fer<lb ed="#P" n="11" break="no"/>rens assiduo consumitur annulus vsu. et tamen 
+          an<lb ed="#P" n="12" break="no"/>nulus non liquefit nec fit mollior.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e316">
+          ¶ Rursus: et 
+          <lb ed="#P" n="13"/>si analogia sit vera ad sensum inter respondendum 
+          pre<lb ed="#P" n="14" break="no"/>tensum: hoc non iuuat ad principale propositum: qui 
+          <lb ed="#P" n="15"/>libet actus suapte natura est habitus generatiuus: 
+          <lb ed="#P" n="16"/>et passum est bene dispositum: ergo in ipsum aliquid 
+          gene<lb ed="#P" n="17" break="no"/>rat. et non nisi habitum. si actum geneerat: vel alium 
+          effe<lb ed="#P" n="18" break="no"/>ctum: dum modo habitum geneoeret: habetur propositum.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e332">
+          ¶ 
+          Con<lb ed="#P" n="19" break="no"/>firmatur hec ratio: actus multum intensus: gratia 
+          <lb ed="#P" n="20"/>exempli vt octo: producit habitum intensum: quem 
+          <lb ed="#P" n="21"/>pono vt octo / tunc sic. a. actus / intensus vt octo 
+          pro<lb ed="#P" n="22" break="no"/>ducit b. habitum intensum vt octo. ergo 
+          medie<lb ed="#P" n="23" break="no"/>tas actus a. producit medietatem habitus b. et 
+          per<lb ed="#P" n="24" break="no"/>idem vnus gradus a. producit vnum gradum 
+          habi<lb ed="#P" n="25" break="no"/>tus b. et pari ratione quantumlibet parua pars 
+          ac<lb ed="#P" n="26" break="no"/>tus a. producit habitum respondentem b. etquicquid 
+          <lb ed="#P" n="27"/>producit in toto producit extra suum totum in passum 
+          <lb ed="#P" n="28"/>non habens contrarium sed summe dispositum.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e356">
+          ¶ 
+          Om<lb ed="#P" n="29" break="no"/>nibus his deductis potest homo proterue lucta 
+          <lb ed="#P" n="30"/>ri: partin in termino: dicendo quod requiritur aliqua 
+          <lb ed="#P" n="31"/>certa intensio gradualis ad hoc quod dicatur 
+          habi<lb ed="#P" n="32" break="no"/>tus. et actus remissior extra suum totum dicetur 
+          di<lb ed="#P" n="33" break="no"/>spositio: et non habitus. Rationabilius tamen 
+          lo<lb ed="#P" n="34" break="no"/>quendo dico: quicquid est eiusdem speciei 
+          specia<lb ed="#P" n="35" break="no"/>lissime cum habitu / est habitus. et quilibet actus 
+          <lb ed="#P" n="36"/>quantumlibet paruus habitum generat in passum 
+          di<lb ed="#P" n="37" break="no"/>spositum. actus est dispositio et specie differens ab 
+          <lb ed="#P" n="38"/>habitu: qui facile a subiecto corrumpitur.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e380">
+          ¶ Et si 
+          <lb ed="#P" n="39"/>dicas. Aristo. dicit in predicamentis habitus 
+          diffi<lb ed="#P" n="40" break="no"/>culter corrumpitur: talis parua qualitas facile 
+          cor<lb ed="#P" n="41" break="no"/>rumpitur: ergo non est habitus.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e389">
+          ¶ Respondetur 
+          <lb ed="#P" n="42"/>negando minorem: et patebit per amplius quando 
+          <lb ed="#P" n="43"/>loquaemur de habitus corruptione. Ad exemplum de 
+          <lb ed="#P" n="44"/>cauatione lapidum dicitur: si multe gutte lapidem 
+          <lb ed="#P" n="45"/>disponant / ipsum mollificando ad cauationem: et 
+          <lb ed="#P" n="46"/>tandem vltima gutta virtute precedentium cauat: 
+          <lb ed="#P" n="47"/>non potes te ex hoc iuuare: cum passim est hic 
+          di<lb ed="#P" n="48" break="no"/>spositum.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e407">
+          ¶ Dicitur aliter forte et verius. prima 
+          <lb ed="#P" n="49"/>gutta suo impetu cadens partem insensibilem a 
+          <lb ed="#P" n="50"/>lapide duro tollit. secunda gutta tantundem tollit. 
+          <lb ed="#P" n="51"/>tertia gutta tantundem sicut prima vel secunda. 
+          <lb ed="#P" n="52"/>tandem in casu decime vel duodecime gutte est 
+          abla<lb ed="#P" n="53" break="no"/>tio sensibilis: et vocatur cauatio. ante non 
+          voca<lb ed="#P" n="54" break="no"/>bitur cauatio. sicut non quelibet parua depressio 
+          <lb ed="#P" n="55"/>nasi sufficit denominare virum simum: sed 
+          notabi<lb ed="#P" n="56" break="no"/>lis depressio. et si nasus sensim deprimeretur: esset 
+          <lb ed="#P" n="57"/>eadem difficultas: et manuductio ad exemplum de 
+          <lb ed="#P" n="58"/>cauatione lapidis. Tunc redeo ad principale 
+          argu<lb ed="#P" n="59" break="no"/>mentum concedo quod in infinitum paruus habitus 
+          ge<lb ed="#P" n="60" break="no"/>nerabitur: supposito quod nichil eius producatur in 
+          <lb ed="#P" n="61"/>instanti: sed totus subito.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e439">
+          ¶ Secundo arguitur con¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>tra conclusionem: aliquis actus non producit 
+          habl<lb ed="#P" n="63" break="no"/>tum. ergo nullus actus producit habitum: licet 
+          ar<lb ed="#P" n="64" break="no"/>guatur a propositione habente plures causas 
+          ve<lb ed="#P" n="65" break="no"/>ritatis ad propositionem habentem pautiores 
+          cau<lb ed="#P" n="66" break="no"/>sas veritatis: consequentia patet / per hoc in 
+          antece<lb ed="#P" n="67" break="no"/>dente intellectum: non est maior ratio de vno actu 
+          <lb ed="#P" n="68"/>quam alio. antecedens probo: noticia intuitiua 
+          sor<lb ed="#P" n="69" break="no"/>tis vel albedinis non producit habitum: quod 
+          pro<lb ed="#P" n="70" break="no"/>bo: omnis habitus ab aliquo actu productus 
+          similen<lb ed="#P" n="71" break="no"/>actum in specie specialissima producit actui a quo 
+          <lb ed="#P" n="72"/>emanauit. sed habitus iste cum potentia non 
+          suffi<lb ed="#P" n="73" break="no"/>ciunt producere noticiam intuitiuam: que non 
+          ha<lb ed="#P" n="74" break="no"/>betur. obiecto absente.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e472">
+          ¶ Tertio arguitur: dilectio 
+          <lb ed="#P" n="75"/>dei non causat dilectionem habitualem: nec actus 
+          <lb ed="#P" n="76"/>credendi causat habitum credendi: igitur non qui 
+          <lb ed="#P" n="77"/>libet actus etiam vitalis producit habitum. ante 
+          <lb ed="#P" n="78"/>cedens patet: quia opposito dato / erunt duo 
+          habi<lb ed="#P" n="79" break="no"/>tus specie distincti productiui immediate 
+          eiusdem<lb ed="#P" n="80" break="no"/>actus numero: quod est inconueniens. charitas 
+          infu<lb ed="#P" n="81" break="no"/>sa immediate inclinat in dilectionem dei actualem: et si 
+          <lb ed="#P" n="82"/>ex tali actu vel actibus generetur habitus: ille in 
+          <lb ed="#P" n="83"/>clinabit in similes actus.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e494">
+          ¶ Ad secundum argumentum 
+          <lb ed="#P" n="84"/>respondetur concedendo quod noticia intuitiua non 
+          pro<lb ed="#P" n="85" break="no"/>ducit habitum: sed solum abstractiua concomitans. 
+          <lb ed="#P" n="86"/>istud oportet dicere: vel dicendum erit / quod non 
+          sem<lb ed="#P" n="87" break="no"/>per habitus inclinat in similem actum entitatiue 
+          <lb ed="#P" n="88"/>a quo emersit. tenendo comuniorem vlam ( et verio 
+          <lb ed="#P" n="89"/>rem vt opinor) quod quelibet intuitiua a qualibet 
+          <lb ed="#P" n="90"/>abstractiua specie distinguitur. Istud secundum non 
+          mi<lb ed="#P" n="91" break="no"/>nus est inconueniens quam primum: cum noticia 
+          intui<lb ed="#P" n="92" break="no"/>tiua non potest haberi naturaliter nisi de obiecto 
+          <lb ed="#P" n="93"/>presenti: non est ei collata vis productiua habitus: 
+          <lb ed="#P" n="94"/>quia illa esset inanis. modo deus et natura 
+          nihil<lb ed="#P" n="95" break="no"/>faciunt frustra primo de celo. habitus collatus 
+          <lb ed="#P" n="96"/>est creaturis: vt reminisci poterunt actuum et 
+          ob<lb ed="#P" n="97" break="no"/>iectorum antede cognitorum: cum non semper obiecta sunt 
+          <lb ed="#P" n="98"/>presentia. et quando quis potest habere actum 
+          intel<lb ed="#P" n="99" break="no"/>ligendi et volendi in absentia obiecti ante 
+          cogniti<lb ed="#P" n="100" break="no"/>vel dilecti: tunc erit habitus potentiam supplens 
+          <lb ed="#P" n="101"/>et non alas. cum noticia intuitiua ex sua perfectio 
+          <lb ed="#P" n="102"/>ne vel natura requirit presentiam obiecti ad hoc 
+          <lb ed="#P" n="103"/>quod naturaliter causetur: nullum producit habitum: 
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e540">
+          <lb ed="#P" n="104"/>¶ Sed contra hoc arguitur: ex isto sequitur quod 
+          ali<lb ed="#P" n="105" break="no"/>quis actus voluntatis non producit habitum. 
+          con<lb ed="#P" n="106" break="no"/>sequens est inconueniens. consequentiam tamen 
+          decla<lb ed="#P" n="107" break="no"/>ro: de actu qui a noticia intuitiua causatur: et ab 
+          <lb ed="#P" n="108"/>ea dependet. si actus voluntatis a noticia 
+          abstra<lb ed="#P" n="109" break="no"/>ctiua causatus esset eiusdem speciei specialissime cum 
+          <lb ed="#P" n="110"/>actu voluntatis a noticia intuitiua producto: tunc 
+          <lb ed="#P" n="111"/>fruitio vie et patrie essent eiusdem speciei. et sic 
+          frui<lb ed="#P" n="112" break="no"/>tio vie esset beatifica. tunc sic: quando actus 
+          intel<lb ed="#P" n="113" break="no"/>lectus non potest haberi sine presentia obiecti: non 
+          <lb ed="#P" n="114"/>producit habitum. sed iste actus voluntatis (de 
+          <lb ed="#P" n="115"/>quo loquimur) non potest haberi sine presentia 
+          <lb ed="#P" n="116"/>obiecti: licet obiectum nonconcurrat immediate ad 
+          pro<lb ed="#P" n="117" break="no"/>ductionem actus voluntatis. ergo iste actus volum 
+          <lb ed="#P" n="118"/>tatis non producit habitum.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e575">
+          ¶ Respondetur 
+          conce<lb ed="#P" n="119" break="no"/>dendo quod argumentum pretendit. dico quando eli 
+          <lb ed="#P" n="120"/>cio actum voluntatis a noticia intuitiua causatum 
+          <lb ed="#P" n="121"/>ille actus voluntatis (qui est liber ) causat alium 
+          ac<lb ed="#P" n="122" break="no"/>tum voluntatis: ad quem voluntas pure passiue se 
+          <pb ed="#P" n="50-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>habet. istud sic suadeo: post dilectionem obiecti 
+          in<lb ed="#P" n="2" break="no"/>tuitiue cogniti: sum propensior exire in actum 
+          diligen<lb ed="#P" n="3" break="no"/>di quam eram a principio: ergo in me est aliquis 
+          ha<lb ed="#P" n="4" break="no"/>bitus genitus: et non a dilectione intuitiua. 
+          dile<lb ed="#P" n="5" break="no"/>ctionem voco intuitiuam: quia noticiam intuitiuam 
+          <lb ed="#P" n="6"/>presupponit. ergo a dilectione abstractiua est 
+          ge<lb ed="#P" n="7" break="no"/>nitus. ergo talis dilectio fuit in me producta. Ex 
+          <lb ed="#P" n="8"/>isto infero / quod fruitio beatifica in patria non 
+          gene<lb ed="#P" n="9" break="no"/>rat habitum: et per consequens Paulus post 
+          ra<lb ed="#P" n="10" break="no"/>ptum non habuit habitum sufficientem ad 
+          productio<lb ed="#P" n="11" break="no"/>nem dilectionis beatifice. sed solum habuit habitum 
+          <lb ed="#P" n="12"/>productiuum dilectionis abstractiue.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e617">
+          ¶ Ad tertium 
+          <lb ed="#P" n="13"/>beatus Thomas prima. ii. q. li. arti. iiii. in 
+          solu<lb ed="#P" n="14" break="no"/>tione ad tertium: dicit quod actus qui producuntur ex 
+          <lb ed="#P" n="15"/>habitu infuso non causant aliquem habitum: sed 
+          con<lb ed="#P" n="16" break="no"/>firmant habitum preexistentem: sicut medicina 
+          <lb ed="#P" n="17"/>lia remedia adhibita homini sano: non causant ali 
+          <lb ed="#P" n="18"/>quam sanitatem: sed sanitatem prius habitam 
+          cor<lb ed="#P" n="19" break="no"/>roborant.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e636">
+          ¶ Contra istud arguitur sic: si hoc 
+          es<lb ed="#P" n="20" break="no"/>set verum quod actus habituum infusorum non 
+          produ<lb ed="#P" n="21" break="no"/>cerent habitum: hoc esset propterea quia duo 
+          habi<lb ed="#P" n="22" break="no"/>tus essent in eodem subiecto eiusdem speciei: quod 
+          <lb ed="#P" n="23"/>repuias inconueniens. sed illud est verissimum quod 
+          duo<lb ed="#P" n="24" break="no"/>accidentia eiusdem speciei sunt in eodem 
+          subie<lb ed="#P" n="25" break="no"/>cto: patet de multis speciebus et habitibus 
+          memo<lb ed="#P" n="26" break="no"/>randi existentibus in intellectu respectu obiecto 
+          <lb ed="#P" n="27"/>rum eiusdem speciei. etiam hoc in proposito non 
+          se<lb ed="#P" n="28" break="no"/>quitur. charitas acquisita et infusa specie differunt 
+          <lb ed="#P" n="29"/>ergo illud non sequitur.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e660">
+          ¶ Preterea arguitur ad idem. 
+          <lb ed="#P" n="30"/>capio sortem infidelem qui numquam habuit charitatem 
+          <lb ed="#P" n="31"/>infusam: cum est in originali et mortali: potest 
+          tamen<lb ed="#P" n="32" break="no"/>diligere deum. arguitur sic: in sorte ex actu 
+          diligem<lb ed="#P" n="33" break="no"/>di deum generatur habitus. ergo in platone 
+          ha<lb ed="#P" n="34" break="no"/>bente charitatem. vel ducatur argumentum simile 
+          <lb ed="#P" n="35"/>de duobus: quorumalter est in mortali: alter in 
+          gra<lb ed="#P" n="36" break="no"/>tia: et vterque velit deo summum bonum: puta deum esse 
+          <lb ed="#P" n="37"/>deum. in vno generatur habitus ex actu vel 
+          acti<lb ed="#P" n="38" break="no"/>bus. ergoet in alio: alioquin charitas infusa 
+          gene<lb ed="#P" n="39" break="no"/>rationi habitus / impertinentis repugnabit.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e684">
+          ¶ 
+          Rur<lb ed="#P" n="40" break="no"/>sus: ex actibus generatur habitus. ii. Ethicorum: 
+          <lb ed="#P" n="41"/>et illud non est negandum ab aliquo actu nisi 
+          docea<lb ed="#P" n="42" break="no"/>tur apparentissime de opposito: igitur. Amplius: 
+          <lb ed="#P" n="43"/>secundum hanc viam non dabitur charitas acquisita 
+          <lb ed="#P" n="44"/>habitus: nec fides acquisita habitus: contra 
+          comuem<lb ed="#P" n="45" break="no"/>scolam. Preterea: impediretur diligens deum ab 
+          <lb ed="#P" n="46"/>auxilio naturali: scilicet habitu: et non / diligens 
+          <lb ed="#P" n="47"/>sortem: quod inconuenit. Amplius: infidelis acquirit 
+          habi<lb ed="#P" n="48" break="no"/>tum infidelitati assentiendo opposito articuli fidei: 
+          er<lb ed="#P" n="49" break="no"/>go et credens circa credibile. et conuertatur iste 
+          infi<lb ed="#P" n="50" break="no"/>delis ad fidem: et habeat actum oppositum actui 
+          in<lb ed="#P" n="51" break="no"/>fidelitatis: ille actus fidei corrumpit habitum infide 
+          <lb ed="#P" n="52"/>litatis prius habitum ad non gradum vsque: et numquam 
+          <lb ed="#P" n="53"/>agens aliquid corrumpit nisi quatenus aliquid 
+          ge<lb ed="#P" n="54" break="no"/>neret: de per se calor calorem generat: et de per 
+          ac<lb ed="#P" n="55" break="no"/>cidens corrumpit frigus calori incompossibile. 
+          Te<lb ed="#P" n="56" break="no"/>neo ergo quod actus diligendi deum charitatiue 
+          ge<lb ed="#P" n="57" break="no"/>neret habitum: et ita de fide et spe. et concedo quod idem 
+          <lb ed="#P" n="58"/>actus  numero producitur a duobus habitibus specie 
+          di<lb ed="#P" n="59" break="no"/>stinctis: quorum alter est infusus: et alter 
+          naturali<lb ed="#P" n="60" break="no"/>ter acquisitus.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e732">
+          ¶ Quarto arguitur: si sortes 
+          fue<lb ed="#P" n="61" break="no"/>rit habitualiter intemperatus: actus temperantie 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>oppositus in eo nichil generat: ergo non quilibet 
+          <lb ed="#P" n="63"/>actus generat habitum.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e743">
+          ¶ Quinto arguitur: vna 
+          <lb ed="#P" n="64"/>irundo ver non facit: nec vna dies. i. Ethicorum. 
+          er<lb ed="#P" n="65" break="no"/>go vnus actus non generat habitum.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e750">
+          ¶ Ad 
+          quar<lb ed="#P" n="66" break="no"/>tum antecedens concedo: passum non est bene 
+          dispo<lb ed="#P" n="67" break="no"/>situm.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e758">
+          ¶ Ad quintum dicitur: illic est sermo de 
+          bea<lb ed="#P" n="68" break="no"/>to: quem breue tempus non sacit. et non est sermo 
+          <lb ed="#P" n="69"/>de virtute.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e765">
+          ¶ Sexto arguitur: si ex actu generatur 
+          <lb ed="#P" n="70"/>habitus: sequitur quod ad virtutes et malicias est per 
+          <lb ed="#P" n="71"/>se motus: contra philosophum. v. phisico.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e772">
+          ¶ Responde 
+          <lb ed="#P" n="72"/>tur: quod philosophus loquitur illic secundum quandam 
+          opi<lb ed="#P" n="73" break="no"/>nionem philoso. ( vt dicit commentator commento 
+          se<lb ed="#P" n="74" break="no"/>cundo ) qui negabant habitum esse virtutem quousque 
+          <lb ed="#P" n="75"/>habitus sit in summo: et hoc est de termino 
+          conten<lb ed="#P" n="76" break="no"/>dere.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e785">
+          ¶ Septimo arguitur: sequitur quod ex solis actibus 
+          <lb ed="#P" n="77"/>interioribus potest generari habitus: et sic 
+          here<lb ed="#P" n="78" break="no"/>mita potest esse magnificus / liberalis / magnanimus 
+          <lb ed="#P" n="79"/>et fortis.
+        </p>
+        <p xml:id="jm3cbb-e29714-d1e794">
+          ¶ Respondetur: difficultas in argumento 
+          <lb ed="#P" n="80"/>assumpta est conclusioni nostre impertinens: sed 
+          <lb ed="#P" n="81"/>concedo illa assumpta: si homo actus illarum 
+          vir<lb ed="#P" n="82" break="no"/>tutum in se studiose procreat. Nunc vidimus qumo 
+          <lb ed="#P" n="83"/>ex vno actu vel pluribus generatur habitus secumndum 
+          <lb ed="#P" n="84"/>prouerbium vulgare fabricando fabri fimus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

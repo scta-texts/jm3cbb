@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 24</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 24</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="136-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e83214"><!-- l3d37q24 -->
+        <head xml:id="jm3cbb-e83214-Hd1e99">Quaestio 24</head>
+        <head xml:id="jm3cbb-e83214-Hd1e101" type="question-title">Quae sunt opera servilia quae sabbatum violant</head>
+        <p xml:id="jm3cbb-e83214-d1e104">
+          <lb ed="#P" n="35"/>TErtio queritur que 
+          <lb ed="#P" n="36"/>sunt opera serullia quae sabbatum 
+          <lb ed="#P" n="37"/>violant. In primis scias hic 
+          es<lb ed="#P" n="38" break="no"/>se opiniones varias de 
+          pecca<lb ed="#P" n="39" break="no"/>tis an sabbatum violent. Quidam 
+          <lb ed="#P" n="40"/>tenent partem affirmatiuam: quidam 
+          <lb ed="#P" n="41"/>vero negatiuam.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e122">
+          ¶ Pro 
+          questio<lb ed="#P" n="42" break="no"/>nis tamen solutione ponuntur conclusiones sequentes: 
+          <lb ed="#P" n="43"/>quarum prima est. Pcatum commissum in festo est 
+          gra<lb ed="#P" n="44" break="no"/>uius quam peccatum non commissum in festo. Probatur hec 
+          <lb ed="#P" n="45"/>conclusio. Actus malus in sacro loco commissus est 
+          <lb ed="#P" n="46"/>grauior quam commissus in loco non sacro: quia est sacrilegi 
+          <lb ed="#P" n="47"/>um: ergo actus commissus in tpere sacro est peior quam 
+          con<lb ed="#P" n="48" break="no"/>missus in tmpere non sacro.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e140">
+          ¶ Secunda conclusio: actus 
+          <lb ed="#P" n="49"/>mortalis in sabbato commissus violat sabbatum. 
+          pro<lb ed="#P" n="50" break="no"/>batur hec conclusio: opus seruile violat sabbatum: 
+          <lb ed="#P" n="51"/>sed mortale peccatum est opus maxime seruile. 
+          Qui<lb ed="#P" n="52" break="no"/>facit peccatum seruus est peccati. Ioannis. viii.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e152">
+          ¶ 
+          Se<lb ed="#P" n="53" break="no"/>cundo arguitur ad idem: nullus magis contrauenit 
+          <lb ed="#P" n="54"/>intentioni prohititionis et precepti in festo quam 
+          pec<lb ed="#P" n="55" break="no"/>cans: ergo nullus magis festum violat. praecipitur 
+          va<lb ed="#P" n="56" break="no"/>care cultui diuiuo: et prohibetur opera seruilia 
+          face<lb ed="#P" n="57" break="no"/>re: sed hoc transgredimur potissimum per peccatum. 
+          <lb ed="#P" n="58"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e168">
+          ¶ Tertia conclusio ex his sequens est. 
+          pec<lb ed="#P" n="59" break="no"/>catum commissionis vel omissionis faciens in sabba¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>to / duplici peccato peccat. Uolo dicere: fornicans 
+          <lb ed="#P" n="61"/>vel hominem occidens in festo duplici peccato peccat. 
+          <lb ed="#P" n="62"/>Primo contrauenit precepto dei de fornicatione vel 
+          <lb ed="#P" n="63"/>homicidio. Secundo violat sabbatum. Similiter exi 
+          <lb ed="#P" n="64"/>stens in sacris non dicens horas in sabbato / 
+          dupli<lb ed="#P" n="65" break="no"/>citer peccat. In primis omittit dicere horas. 
+          Se<lb ed="#P" n="66" break="no"/>cundo violat sabbatum. Abi in alio die vnico 
+          pecca<lb ed="#P" n="67" break="no"/>to peccaret.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e192">
+          ¶ Quarta conclusio: violat sabbatum 
+          <lb ed="#P" n="68"/>faciens opuo seruile extra casus tanctos et similes 
+          <lb ed="#P" n="69"/>in questione precedenti. et talia sunt opera in his 
+          <lb ed="#P" n="70"/>carminibus contenta. Lana nemus miles 
+          nauiga<lb ed="#P" n="71" break="no"/>tio rus medicina. Artem fabrilem connumerare potes. 
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e203">
+          <lb ed="#P" n="72"/>¶ Contra tres primas conclusiones arguitur: ex 
+          <lb ed="#P" n="73"/>cis sequitur quod mortaliter peccans in sabbato tene 
+          <lb ed="#P" n="74"/>tur se confiteri non solum de mortali commisso / sed de 
+          <lb ed="#P" n="75"/>ipso commisso in sabbato. sed hoc non cemmendat 
+          me<lb ed="#P" n="76" break="no"/>morie. igitur.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e216">
+          ¶ Secundo arguitur: veniale 
+          commit<lb ed="#P" n="77" break="no"/>tens in sabbato non violat sabbatum. ergo nec 
+          mor<lb ed="#P" n="78" break="no"/>tale committens. tenet consequentia: licet vnum peccatum sit alio 
+          <lb ed="#P" n="79"/>maius. sed hoc non impedit: patet de duobus quorum 
+          <lb ed="#P" n="80"/>vnus facit mortale maius: et alius mortale minus. 
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e227">
+          <lb ed="#P" n="81"/>¶ Ad primum concedo sequelam. et ad improbationem 
+          <lb ed="#P" n="82"/>dicitur quod ipsa nulla est. ipsa enim probaret eodem 
+          mo<lb ed="#P" n="83" break="no"/>do de quocumque peccato quod excessit a memoria. 
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e237">
+          <lb ed="#P" n="84"/>¶ Ad secundem dicitur consequentia est nulla: veniale non adimit gratiam 
+          <lb ed="#P" n="85"/>nec est matia confessionis de praecepto: secus est de mortali. 
+          <lb ed="#P" n="86"/>Secundo potest quis die quod venialier peccans in festo: venia 
+          <lb ed="#P" n="87"/>liter festum transgreditur: et facit vltra hoc vnum actum 
+          <lb ed="#P" n="88"/>veniale. sicut aliquis per motus secundo primos 
+          veniali<lb ed="#P" n="89" break="no"/>ter peccat contra precepta.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e253">
+          ¶ Tertio argui tur. si 
+          <lb ed="#P" n="90"/>quis facit tria peccata mortalia in festo sequitur quod 
+          <lb ed="#P" n="91"/>talis ter infringeret idem festum: immo sexies. sed hoc 
+          <lb ed="#P" n="92"/>est falsum. est nisi vnum festum: ergo est nisi vna eius 
+          <lb ed="#P" n="93"/>transgressio.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e264">
+          ¶ Quarto arguitur: sequitur quod non est 
+          <lb ed="#P" n="94"/>possibile peccare vno peccato mortali in festo. sed 
+          <lb ed="#P" n="95"/>hoc est inconueniens: ergo et antecedens. consequentiam 
+          pro<lb ed="#P" n="96" break="no"/>bo. si faciat vnum actum contra legem dei: et in festo: est 
+          <lb ed="#P" n="97"/>aliud peccatum.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e275">
+          ¶ Quinto arguitur. hic actus est vnicus: 
+          <lb ed="#P" n="98"/>vel precise vnicus: et hic actus est peccatum: ergo hic 
+          <lb ed="#P" n="99"/>actus est vnicum peccatum.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e282">
+          ¶ Ad tertium concedo sequelam. 
+          <lb ed="#P" n="100"/>et ad improbationem concedo quod in eodem die est multiplex 
+          <lb ed="#P" n="101"/>transgressio: secundum numerum peccatonrum quibus 
+          transgre<lb ed="#P" n="102" break="no"/>dimur festum.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e291">
+          ¶ Ad quartum nego sequelam. potest esse 
+          <lb ed="#P" n="103"/>peccatum non ob aliud nisi quia contrauenimus festo: vt 
+          <lb ed="#P" n="104"/>colendo agros in festo: quod non esset peccatum si non 
+          <lb ed="#P" n="105"/>esset hec prohibitio. sed si sit sermo de illo quod est 
+          pec<lb ed="#P" n="106" break="no"/>catum aliunde a transgressione festi: concedo sequelam. 
+          <lb ed="#P" n="107"/>de partibus peccati nunc non loquor: sed loquor ac si 
+          pec<lb ed="#P" n="108" break="no"/>catum non haberet partes.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e308">
+          ¶ Ad quintum dicitur: licet 
+          <lb ed="#P" n="109"/>actus sit vnus secundum sbam / et actus vnus / et 
+          <lb ed="#P" n="110"/>vnicum peccatum / duobus peccatis equiualet: ac si 
+          es<lb ed="#P" n="111" break="no"/>sent duo actus distincti.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e317">
+          ¶ Contra quartam conclusionem 
+          <lb ed="#P" n="112"/>arguitur sic: agricole in festis consultant de agris 
+          co<lb ed="#P" n="113" break="no"/>lendis in diebus non festis: et talis consultatio ordi 
+          <lb ed="#P" n="114"/>natur ad opus seruile: et non est dicendum quod propterea 
+          <lb ed="#P" n="115"/>tales peccent: igitur.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e328">
+          ¶ Secundo arguitur: regentes tam 
+          <lb ed="#P" n="116"/>in grammatica quam in artibus lectiones legunt suis iune 
+          <lb ed="#P" n="117"/>nibus in festis: immo in diebus dominicis: et pecuniam 
+          col<lb ed="#P" n="118" break="no"/>ligunt in gradibus ab eisdem scolasticis.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e337">
+          ¶ Aespondetur: 
+          <lb ed="#P" n="119"/>scientie et artes non sunt opera seruilia. sed illa que 
+          <pb ed="#P" n="137-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ad eorpus immediate ordinantur: sicut artes 
+          mecha<lb ed="#P" n="2" break="no"/>nice. artes animam ornant et dicuntur liberales 
+          seruili<lb ed="#P" n="3" break="no"/>tati opposite. syllogisare qua tmpere pisa vel ordea sunt 
+          <lb ed="#P" n="4"/>seminanda: vel quando est metendum: non est opus 
+          serui<lb ed="#P" n="5" break="no"/>le. hoc facit phius ruri natus et peritus / in Georgicis 
+          <lb ed="#P" n="6"/>virgilianis. sed seminare / metere / et huiusmodi / sunt 
+          ope<lb ed="#P" n="7" break="no"/>ra seruilia. sic aduocatus studet et disputat suas 
+          cau<lb ed="#P" n="8" break="no"/>sas in festis: quas in senatu deducere intendit in die 
+          <lb ed="#P" n="9"/>bus vulgaribus.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e366">
+          ¶ Pro secundi argumenti solutione 
+          <lb ed="#P" n="10"/>nemo dubitat quin verbi diuini declamator non 
+          vio<lb ed="#P" n="11" break="no"/>lat sabbatum: immo laborat optime vt seruetur 
+          sabba<lb ed="#P" n="12" break="no"/>tum ad intentionem legisltoris. sic faciunt regentes 
+          pa<lb ed="#P" n="13" break="no"/>risius tam in grammatica quod in artibus. iuuenes in 
+          fe<lb ed="#P" n="14" break="no"/>stis audiunt rem diuinam: et sermonem in collegiis 
+          regu<lb ed="#P" n="15" break="no"/>latis: vt iam a. xxiii. annis in nostro collegio montis 
+          <lb ed="#P" n="16"/>vidimus regentes non minus haberent a 
+          scolasti<lb ed="#P" n="17" break="no"/>cis dato quod in festis non legerent. et iuuenes in 
+          ca<lb ed="#P" n="18" break="no"/>meris et locis in aliis torperent / monopolia 
+          face<lb ed="#P" n="19" break="no"/>rent / et combinationes inutiles facerent / ex quibus 
+          <lb ed="#P" n="20"/>nichil sequitur directe concludendo: si lectiones non 
+          ha<lb ed="#P" n="21" break="no"/>berent. Prodest ergo vt iuuentus ab his viciis 
+          ar<lb ed="#P" n="22" break="no"/>ceatur vt occupetur in lectione. etiam oculati 
+          regen<lb ed="#P" n="23" break="no"/>tes virtualiter contionantur: lectionem ethicorum 
+          scola<lb ed="#P" n="24" break="no"/>sticis legunt: et artes liberales dirigunt in dei laudem. 
+          <lb ed="#P" n="25"/>In grammatica regentes scolasticos canere docent: 
+          <lb ed="#P" n="26"/>quatenus posterius in ecclesia subseruiant. idem est de 
+          <lb ed="#P" n="27"/>scriptoribus qui scribunt vt affectum inflammantet 
+          intelle<lb ed="#P" n="28" break="no"/>ctum illuinent: esto quod de per accidens aliquid sequatur lucri. 
+          <lb ed="#P" n="29"/>Omiia ista sunt spiritualia.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e412">
+          ¶ Dubitatur quando festum habet ini 
+          <lb ed="#P" n="30"/>tum et terminum
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e418">
+          ¶ enet: osideranda est conditio regionia 
+          <lb ed="#P" n="31"/>tirca festum celebrandum: cum est lex positiua optime a 
+          <lb ed="#P" n="32"/>osuetudine tolerata et non reprobata: exponitur tecundum 
+          <lb ed="#P" n="33"/>illud vulgaritur. consuetudo est optima legum interpres: 
+          <lb ed="#P" n="34"/>et hoc in lege humana positiua: quemadmodum est de 
+          <lb ed="#P" n="35"/>his festis: vt ex superioribus patuit.
+        </p>
+        <p xml:id="jm3cbb-e83214-d1e431">
+          ¶ Concludenndo 
+          <lb ed="#P" n="36"/>manipulos dispersos circa has tres quaestiones: dico 
+          <lb ed="#P" n="37"/>potissimum est consideranda finis legis de 
+          sanctifica<lb ed="#P" n="38" break="no"/>tione sabbati: quatenus laudetur deus in se vel 
+          in<lb ed="#P" n="39" break="no"/>sanctis eius abstineatur a viciis illo sacro tempore 
+          pet<lb ed="#P" n="40" break="no"/>tur in loco sacro illud quod est viro cordi et conducit 
+          <lb ed="#P" n="41"/>ad salutem anime pie etperseueraner. Postea honestam 
+          re<lb ed="#P" n="42" break="no"/>creationem potest homo post meridiem sermone finito (si 
+          qui<lb ed="#P" n="43" break="no"/>fuerit) sibi assumere secundum suam facultatem: hic saltam 
+          <lb ed="#P" n="44"/>do: ille arcu sagittando. choreas tamen non approbamus. 
+          <lb ed="#P" n="45"/>nulli honesti ad tripudiandum se ponunt. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

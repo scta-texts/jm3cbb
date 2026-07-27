@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 29</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 29</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="102-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e62100"><!-- l3d33q29 -->
+        <head xml:id="jm3cbb-e62100-Hd1e99">Quaestio 29</head>
+        <head xml:id="jm3cbb-e62100-Hd1e101" type="question-title">An iudex corruptus ferens sententiam iniustam pro parte
+    corrumpente gravius delinquat quam pars corrumpens</head>
+        <p xml:id="jm3cbb-e62100-d1e104">
+          <lb ed="#P" n="28"/>TErtio queritur circa 
+          <lb ed="#P" n="29"/>materiam iusticie: an iudex 
+          cor<lb ed="#P" n="30" break="no"/>ruptus ferens sententiam 
+          iniu<lb ed="#P" n="31" break="no"/>stam pro parte corrumpente 
+          graui<lb ed="#P" n="32" break="no"/>us delinquat quam pars 
+          corrum<lb ed="#P" n="33" break="no"/>pens.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e120">
+          ¶ Pro questionis 
+          solu<lb ed="#P" n="34" break="no"/>tione scito: homines communiter vno 
+          <lb ed="#P" n="35"/>sstorum quattuor modorum corrumpuntur in tusticia recte 
+          <lb ed="#P" n="36"/>ministranda: timore: cupiditate: odio: aut amore. 
+          <lb ed="#P" n="37"/>¶hoc presupposito: respondetur per septem 
+          conclu<lb ed="#P" n="38" break="no"/>siones: Quarum pima est: multum peccat iudex iniusti 
+          <lb ed="#P" n="39"/>sticiam faciens gratia munerum. probatur hec 
+          conclu<lb ed="#P" n="40" break="no"/>sio: iniuriam parti lese facit: et ei debitum / alteri 
+          par<lb ed="#P" n="41" break="no"/>ti applicat. ergo tollit alienum inuito domno: et rempublicam 
+          <lb ed="#P" n="42"/>defraudat quae eum loco iudicis et iusticie 
+          ministran<lb ed="#P" n="43" break="no"/>de posuit. contra tales loquitur domns per prophetam vsaie 
+          <lb ed="#P" n="44"/>quinto. ve qui iustificatis impium pro muneribus: et 
+          <lb ed="#P" n="45"/>iusticiam iusti aufertis ab eo.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e149">
+          ¶ Secunda conclusio: 
+          pe<lb ed="#P" n="46" break="no"/>riculosus est iudex munera capiens. probatur hec 
+          <lb ed="#P" n="47"/>conclusio: periculosus est ille iudex qui capit aliquid 
+          <lb ed="#P" n="48"/>ratione cuius est praeceps ad frangendam iusticiam: sed sic 
+          <lb ed="#P" n="49"/>est de capiente munera: igitur. probatio minoris per 
+          <lb ed="#P" n="50"/>illud quod scribitur. Eccle. xx. Encenia et dona 
+          exce<lb ed="#P" n="51" break="no"/>cant oculos iudicum: et quaesi mutus in ore auertit 
+          cor<lb ed="#P" n="52" break="no"/>ruptionem. Et Deuteronomii. xvi. legitur: non 
+          accipi<lb ed="#P" n="53" break="no"/>es personas et munera: excecant oculos sapientum: 
+          <lb ed="#P" n="54"/>et mutant verba iustorum: pecunia oculatum facit 
+          mu<lb ed="#P" n="55" break="no"/>tum: ne recte pro nichil dante ferat sententiam. sicut 
+          qua<lb ed="#P" n="56" break="no"/>dam species ranunculi in ore canis posita reddit eum 
+          <lb ed="#P" n="57"/>mutum. Et Ouidius in arte: Munera crede 
+          michi<lb ed="#P" n="58" break="no"/>placant hominesque deosque. et psalmo. xxv. In quo 
+          <lb ed="#P" n="59"/>rum manibus iniquitates sunt: dextera eorum repleta est 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>muneribus.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e187">
+          ¶ Pretrea arguitur: illa non est casta 
+          mu<lb ed="#P" n="61" break="no"/>lier quae munera capit a viro laborante eius castitatem 
+          <lb ed="#P" n="62"/>infringere. et de illa est mala praesuumtio. ergo idem est 
+          <lb ed="#P" n="63"/>de iudice: si munera acceptet audiat illud Iob. xv. 
+          <lb ed="#P" n="64"/>Iudex munera capiens: vbi dicitur: ignis deuorabit 
+          <lb ed="#P" n="65"/>tabernacula eorum qui munera libenter accipiunt: hoc 
+          <lb ed="#P" n="66"/>est: ignis infernalis eos torquaebit.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e203">
+          ¶ Tertia conclusio: 
+          <lb ed="#P" n="67"/>multum peccat iudex qui timore iniustam sententiam 
+          <lb ed="#P" n="68"/>dat. probatur hec conclulio: multum peccat ille qui 
+          pre<lb ed="#P" n="69" break="no"/>clarissimam virtutem: vtpote: iusticiam: fedat: et animam 
+          ma<lb ed="#P" n="70" break="no"/>culat pro timore erga corpus: quia tirannus non potest 
+          <lb ed="#P" n="71"/>maius quam occidere corpus: animam autem occidere non 
+          <lb ed="#P" n="72"/>possit: secundum illud Luce. xii. Nolite timere eos qui 
+          <lb ed="#P" n="73"/>occidunt corpus: animam autem non possuut occidere. 
+          <lb ed="#P" n="74"/>Christus / prohibuit timere istos vt vides. si tirannus 
+          <lb ed="#P" n="75"/>minetur aliquid citra mortem: vtpote: verbera / 
+          carce<lb ed="#P" n="76" break="no"/>res / et bonorum perditionem: tunc minus curandum est: 
+          <lb ed="#P" n="77"/>et minus est excusandus. quemadmodum erat Pilatus qui 
+          <lb ed="#P" n="78"/>iudicauit christum ad mortem: timens ne officium presidem 
+          <lb ed="#P" n="79"/>tie apud hierosolimitas perderet. cum multas euasi 
+          <lb ed="#P" n="80"/>ones christi liberandi quesiuit: tandem audiens: si 
+          <lb ed="#P" n="81"/>hunc dimittas non es amicus / cesaris: ad 
+          condemnatio<lb ed="#P" n="82" break="no"/>nem processit.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e240">
+          ¶ Secundo arguitur ad idem. si ille non 
+          gra<lb ed="#P" n="83" break="no"/>uiter peccaret: hoc esset quia timor excusaret. sed 
+          <lb ed="#P" n="84"/>hoc non: quia non est timor in constantem virum cadens / 
+          <lb ed="#P" n="85"/>nunquam constans malum culpe pro malo pene admittit. 
+          <lb ed="#P" n="86"/>Tullius secundo officiorum nemo iustus esse potest: qui 
+          do<lb ed="#P" n="87" break="no"/>lorem / qui exilium / qui egestatem / timet: aut qui ea 
+          <lb ed="#P" n="88"/>que sunt contraria his equitati anteponit.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e256">
+          ¶ 
+          Quar<lb ed="#P" n="89" break="no"/>ta conclusio: iudex cupiditate corruptus plus 
+          peccat<lb ed="#P" n="90" break="no"/>quam timore corruptus: potissimum vbi est magna 
+          cau<lb ed="#P" n="91" break="no"/>satimoris. probatur hec conclusio: peccatum tanto est 
+          <lb ed="#P" n="92"/>grauius quamto est magis voluntarium. modo peccatu 
+          <lb ed="#P" n="93"/>ex cupiditate factum est magis voluntarium quam ex 
+          <lb ed="#P" n="94"/>timore perpetratum. qui ex timore operatur ipse in 
+          <lb ed="#P" n="95"/>uitus et ex displicentia operatur: non autem sic / qui ex 
+          <lb ed="#P" n="96"/>cupiditate operatur.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e276">
+          ¶ Item arguitur ratione Aristo. 
+          <lb ed="#P" n="97"/>in quinto. ille magis facit aliquid / qui proprisa 
+          pote<lb ed="#P" n="98" break="no"/>state illud facit quadm qui facit solum in virtute alterius. 
+          <lb ed="#P" n="99"/>iudex propria potestate facit: non autem pers.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e285">
+          ¶ Item: 
+          iu<lb ed="#P" n="100" break="no"/>dex magis cognoscit vel cognoscere tenetur iustum 
+          <lb ed="#P" n="101"/>et iniustum et grauitatem peccati comniter quam faciat pers corrum 
+          <lb ed="#P" n="102"/>pens. ergo plus peccat.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e295">
+          ¶ Quinta conclusio. iudex 
+          <lb ed="#P" n="103"/>corruptus ex cupiditate plus peccat quam prs corrum 
+          <lb ed="#P" n="104"/>pens. probatur: iudex plus obligatur ad non 
+          ope<lb ed="#P" n="105" break="no"/>randum iniuste quam pars: cum iudex obligetur iure 
+          communi<lb ed="#P" n="106" break="no"/>tanquam iudex: et etiam obligatur iure speciali sicut et pers. 
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e306">
+          <lb ed="#P" n="107"/>¶ Sexta conclusio. iudex timore vehementi (hoc est 
+          <lb ed="#P" n="108"/>in virum constantem cadente corruptus: minus 
+          peccat<lb ed="#P" n="109" break="no"/>quam pars corrumpens. patet: eius peccantum est minus 
+          vo<lb ed="#P" n="110" break="no"/>luntarium.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e317">
+          ¶ Septima conclusio: iudex recte volens 
+          <lb ed="#P" n="111"/>iudicare debet amorem et odium a se penitus abolere. 
+          <lb ed="#P" n="112"/>probatur: iudex debet a se ammouere illa quae peruertunt 
+          <lb ed="#P" n="113"/>iusticiam: sed sic est de amore vnius partis vel odio 
+          <lb ed="#P" n="114"/>altertus: igitur.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e328">
+          ¶ Contra quintam conclusionem arguitur 
+          <lb ed="#P" n="115"/>sic. ille plus peccat qui in plures peccat. sed pars 
+          iu<lb ed="#P" n="116" break="no"/>dicem corrumpens in plures peccat: quia in 
+          iudicem<lb ed="#P" n="117" break="no"/>peccat eum corrumpendo: et in partem. iudex vero in 
+          so<lb ed="#P" n="118" break="no"/>lam partem peccat.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e339">
+          ¶ Secundo arguitur peccat: plus / ille 
+          qui<lb ed="#P" n="119" break="no"/>tam bona anime quam bona exteriora tollit quam ille qui¬ 
+          <pb ed="#P" n="102-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>bona anime tantum tollit. sed pars iudicem 
+          corum<lb ed="#P" n="2" break="no"/>pens tollit bona anime iudicis: et bona exteriora 
+          <lb ed="#P" n="3"/>partis aduersc. iudex autem per iniquam sententiam 
+          so<lb ed="#P" n="4" break="no"/>lum tollit bona fortune vnius partis.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e357">
+          ¶ Ad primum 
+          <lb ed="#P" n="5"/>dicitur quod ille plus peccat qui in plures peccat ceteri 
+          <lb ed="#P" n="6"/>paribus. cetera autem sunt imparia. capitur iudex 
+          qui<lb ed="#P" n="7" break="no"/>est ipocrita: putabatur bonus vir a principio. qui 
+          <lb ed="#P" n="8"/>in republica tota peccat.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e369">
+          ¶ Insuper: sicut pars 
+          iu<lb ed="#P" n="9" break="no"/>dicem corrumpens in iudice peccat eum 
+          corrum<lb ed="#P" n="10" break="no"/>pendo: sic facit iudex in partem corrumpentem eam in 
+          <lb ed="#P" n="11"/>malicia sua lactantem.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e378">
+          ¶ Ad secundum dicitur: nemo 
+          po<lb ed="#P" n="12" break="no"/>test tollere bona anime alterius nisi ille alius 
+          consenti<lb ed="#P" n="13" break="no"/>at. sed de illo modo tollendi: scilicet occasionalitur 
+          <lb ed="#P" n="14"/>et instigatiue. iudex tollit bona anime partis eum ad in 
+          <lb ed="#P" n="15"/>iusticiam impellentis: consentiendo sue malicie: et 
+          co<lb ed="#P" n="16" break="no"/>operando ad peccatum eius: et ad periculosam 
+          resti<lb ed="#P" n="17" break="no"/>tutionem faciendam parti iniuste lese. et tollit bona anime 
+          pro<lb ed="#P" n="18" break="no"/>pria per peccatu suuum proprium. a parte lesa tollit 
+          <lb ed="#P" n="19"/>solum bona corperis: nisi de per accidens pars lesa 
+          be<lb ed="#P" n="20" break="no"/>ne vteretur illis bonis.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e400">
+          ¶ Tertio arguitur: Iudas 
+          <lb ed="#P" n="21"/>qui pars erat in condennatione christi plus peccauit quam 
+          <lb ed="#P" n="22"/>Pilatus iudex: secundum verbum christi Mathei. xxvii. 
+          <lb ed="#P" n="23"/>propterea qui tradidit te michi maius peccatum 
+          <lb ed="#P" n="24"/>habet.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e411">
+          ¶ Quarto arguitur: principium eit plusquam 
+          di<lb ed="#P" n="25" break="no"/>midium totius secundum Aristotelem primo Ethicorum. et secundum 
+          <lb ed="#P" n="26"/>horatium: dimidium cepti qui bene cepit habet. 
+          proptur<lb ed="#P" n="27" break="no"/>ea vulgariter dicitur: duas sequentes prima 
+          alapa<lb ed="#P" n="28" break="no"/>valet. sed peccatum partis instiganti iudicem peccare / est 
+          <lb ed="#P" n="29"/>principium omnim peccatorum subsequentium.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e424">
+          ¶ Quinto 
+          <lb ed="#P" n="30"/>arguitur. iiii. Ethicorum primo dicit phis: virtutis est 
+          <lb ed="#P" n="31"/>magis benefacere quam bene pati. ergo similitur maioris 
+          <lb ed="#P" n="32"/>est malicie male facere quam male pati: sed 
+          corrumpe<lb ed="#P" n="33" break="no"/>re est male facere. et corrumpi est male pati. ergo plus 
+          <lb ed="#P" n="34"/>peccat pars corrumpenes quam iudex.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e437">
+          ¶ Ad tertium 
+          dici<lb ed="#P" n="35" break="no"/>tur quod pilatus corruptus erat timore ne officio 
+          pri<lb ed="#P" n="36" break="no"/>uaretur: cum diceretur ei a iudeis: si hunc dimittas 
+          <lb ed="#P" n="37"/>non es amicus cesaris: et hoc est argumentum 
+          pro<lb ed="#P" n="38" break="no"/>sexta conclusione. multa erant alia que peccatum 
+          Iu<lb ed="#P" n="39" break="no"/>de aggrauabant super peccatum Pilati. ingratitu 
+          <lb ed="#P" n="40"/>do / viciorum non infimum. v. Ethicorum dicit phoios: vete 
+          <lb ed="#P" n="41"/>res gratiarum templum in media ciuitate locarunt: et cum 
+          <lb ed="#P" n="42"/>erat christo familiaris: et ad dignitatem apostolatus euo 
+          <lb ed="#P" n="43"/>catus: multo plus peccat quam Pilatus qui multis viis quae 
+          <lb ed="#P" n="44"/>siuit liberare christum.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e462">
+          ¶ Ad quartum dicitur quod hoc eit 
+          <lb ed="#P" n="45"/>verum ceteris paribus. modo ostensum est cetera 
+          es<lb ed="#P" n="46" break="no"/>se imparia.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e469">
+          ¶ It est: iudex est principium principale 
+          to<lb ed="#P" n="47" break="no"/>tius male actionis.
+        </p>
+        <p xml:id="jm3cbb-e62100-d1e474">
+          ¶ Ad quintum dicitur quod corrum 
+          <lb ed="#P" n="48"/>pere est peius quam corrumpi: illic sistendo. sed iudex 
+          <lb ed="#P" n="49"/>procedit vlterius iniquam sententiam ferendo. et 
+          pro<lb ed="#P" n="50" break="no"/>pterea minus principaliter pars iudicem corrumpit: 
+          <lb ed="#P" n="51"/>magis principaliter iudex seipsum corrumpit: quia 
+          <lb ed="#P" n="52"/>principium principale est in seipso qui resistere 
+          pote<lb ed="#P" n="53" break="no"/>rat meritorie parti corrumpenti.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

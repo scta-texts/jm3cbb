@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 33</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 33</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="105-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e64023"><!-- l3d33q33 -->
+        <head xml:id="jm3cbb-e64023-Hd1e99">Quaestio 33</head>
+        <head xml:id="jm3cbb-e64023-Hd1e101" type="question-title">De partibus potentialibus iustitiae</head>
+        <p xml:id="jm3cbb-e64023-d1e104">
+          <lb ed="#P" n="15"/>SEptimo loquendum est 
+          <lb ed="#P" n="16"/>de partibus potentialibus iusticie et 
+          ii<lb ed="#P" n="17" break="no"/>cet antea dixi quare dicantur 
+          poten<lb ed="#P" n="18" break="no"/>tiales / adhuc propter aliquos hanc 
+          <lb ed="#P" n="19"/>distinctionem nolentes intelligere: 
+          ali<lb ed="#P" n="20" break="no"/>qua iterato: vel alio modo alia 
+          oc<lb ed="#P" n="21" break="no"/>currendo adiungens: dicere non pigebit. Liberalitas / 
+          <lb ed="#P" n="22"/>religio / deuotio / latria / et huiusmodi dici possunt partes 
+          <lb ed="#P" n="23"/>potentiales iusticie: et non partes eius subiectiue. 
+          Pro<lb ed="#P" n="24" break="no"/>cuius intelligentia succincte non nichil de his virtutibus 
+          <lb ed="#P" n="25"/>ponam. Secundo applicabo ad propositum quonam pacto 
+          <lb ed="#P" n="26"/>non dicantur partes subiectiue iusticie: sed partes eius 
+          <lb ed="#P" n="27"/>potentiales. Liberalitas habitus vel actus consistit 
+          <lb ed="#P" n="28"/>in hoc quod est ad alterum: et in hoc conuenit cum iusticia. 
+          <lb ed="#P" n="29"/>etiam vtraque est ad res exteriores. a qua differt 
+          per<lb ed="#P" n="30" break="no"/>hoc: quia iusticia exhibet alteri quod est eius. liberalitas 
+          <lb ed="#P" n="31"/>exhibet alteri quod suum est. actus liberalitatis est 
+          ac<lb ed="#P" n="32" break="no"/>cipere vbi oportet: et dare vbi oportet. et magis est 
+          <lb ed="#P" n="33"/>circa dationem quam acceptionem. capit: vt det: et non 
+          econ<lb ed="#P" n="34" break="no"/>uerso. Illiberalitatis actus / est non dare de suo 
+          vbi<lb ed="#P" n="35" break="no"/>dare deberet: vt pauperi non dando in extrema 
+          ne<lb ed="#P" n="36" break="no"/>cessitate. et prodigalitas est dare vbi non oportet: hoc 
+          <lb ed="#P" n="37"/>est: vbi homo malefacit in dando. et hoc modo semper 
+          illibe<lb ed="#P" n="38" break="no"/>ralitase prodigalitas sunt vicia: vt non dando quando 
+          ra<lb ed="#P" n="39" break="no"/>tio dictat esse dandum: vel dando contra rationem. si 
+          voca<lb ed="#P" n="40" break="no"/>retur liberalitas in datione decenti: et quando esset decens 
+          <lb ed="#P" n="41"/>dare homo non dat: tunc illiberalitas non esset vicium: sed 
+          <lb ed="#P" n="42"/>aliqua esset vicium: aliqua virtus. quemadmodum contigit 
+          <lb ed="#P" n="43"/>de extremo abstinentie: vt superius in hac distinctione 
+          <lb ed="#P" n="44"/>diximus: sed priore modo comunius capitur: sic quod omnis 
+          li<lb ed="#P" n="45" break="no"/>beralitas est virtus: et prodigalitas et illiberalitas sunt 
+          <lb ed="#P" n="46"/>vicia. Ex isto facile est intelligere quonam pacto 
+          libe<lb ed="#P" n="47" break="no"/>ralitas est pars potentialis iusticie propter 
+          conuenien<lb ed="#P" n="48" break="no"/>tiam eius cum iusticia. De religione et deuotione video 
+          <lb ed="#P" n="49"/>aliquos antiquorum sub variis nominibus varias 
+          tracta<lb ed="#P" n="50" break="no"/>re virtutes: et nichil remanet: nisi significationem 
+          <lb ed="#P" n="51"/>vocabuli detegere: et crebriter inuenietur eadem virtus. 
+          <lb ed="#P" n="52"/>Religio nihil aliud est quam habitus vel actus quo homo 
+          dis<lb ed="#P" n="53" break="no"/>ponitur ad cultum diuinum: vt velle sacrificare / vel 
+          ora<lb ed="#P" n="54" break="no"/>re / et huiusmodi. Deuotio est promptitudo (dicunt ) ad deo 
+          <lb ed="#P" n="55"/>seruiendum. ista promptitudo nichil aliud est quam 
+          habi<lb ed="#P" n="56" break="no"/>tus religionis. per hunc habitum homo est promptus deo 
+          ser<lb ed="#P" n="57" break="no"/>uire: et per consequens non differunt religio et deuotio. De 
+          la<lb ed="#P" n="58" break="no"/>tria superius distinctione. ix. loquuti sumus. Pietas (
+          si<lb ed="#P" n="59" break="no"/>cut dicit Tullius in sua rethorica)est per quam sangui¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>ne iunctis patrieque beniuolis officium et diligens 
+          tri<lb ed="#P" n="61" break="no"/>buitur cultus. pietas est etiam erga deum: a quo 
+          princi<lb ed="#P" n="62" break="no"/>palissime habemus esse et viuere. De obseruantia t 
+          <lb ed="#P" n="63"/>huiusmodi non oportet nisi videre significationes vocabulorum. 
+          <lb ed="#P" n="64"/>
+          <!-- line coord error -->
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="45-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e27362"><!-- l3d21q4 -->
+        <head xml:id="jm3cbb-e27362-Hd1e99">Quaestio 4</head>
+        <head xml:id="jm3cbb-e27362-Hd1e101" type="question-title">An Christus probavit efficaciter suam resurrectionem</head>
+        <p xml:id="jm3cbb-e27362-d1e104">
+          <lb ed="#P" n="111"/>Quarto queritur: 
+          <lb ed="#P" n="112"/>an christus probauit 
+          efficaci<lb ed="#P" n="113" break="no"/>ter suam resurrectionem. 
+          Respon<lb ed="#P" n="114" break="no"/>detur per duas conclusiones. 
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e115">
+          <lb ed="#P" n="115"/>¶ Quarum prior est: christus 
+          prc<lb ed="#P" n="116" break="no"/>bauit suam resurrectionem 
+          proba<lb ed="#P" n="117" break="no"/>tur Actuum. i. de christo dicitur: quod 
+          <lb ed="#P" n="118"/>apostolis suis prebuit seipsum viuum post 
+          passio<lb ed="#P" n="119" break="no"/>nem suam in multis argumentis: per dies. xl. 
+          appa<lb ed="#P" n="120" break="no"/>rens eis: et loquens de regno dei.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e131">
+          ¶ Secunda 
+          <lb ed="#P" n="121"/>conclusiochistus probauit sufficienter et efficaci 
+          <pb ed="#P" n="45-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ter apostolis suam resurrectionem: quia se prebendo 
+          pal<lb ed="#P" n="2" break="no"/>pabilem probauit se verum corpus christi habere: quia 
+          <lb ed="#P" n="3"/>nihil potest probari nisi corpus. vnde dicit 
+          disci<lb ed="#P" n="4" break="no"/>pulis suis Luce vlti. palpate et videte quia spiritus 
+          <lb ed="#P" n="5"/>carnemet ossa non habet / sicut me videtis habere. 
+          ci<lb ed="#P" n="6" break="no"/>catrices demonstrando / se probauit habere idem 
+          <lb ed="#P" n="7"/>corpus numero quod antea habebat: puta idem 
+          cor<lb ed="#P" n="8" break="no"/>pus de praedicamento substantie quod antea habebat 
+          <lb ed="#P" n="9"/>in oita: et corpus pro materia / quod antea habebat 
+          <lb ed="#P" n="10"/>iin vita et in morte: vt in questione praecedente 
+          dixi<lb ed="#P" n="11" break="no"/>mus. vnde postquam thomas cicatrices vidit et teti 
+          <lb ed="#P" n="12"/>git: statim dixit: domins meus et deus meus: vt 
+          habe<lb ed="#P" n="13" break="no"/>tur Io. vlti. comedendo probauit suum corpus 
+          viue<lb ed="#P" n="14" break="no"/>lre. corpera enmin mortuorum non capiunt cibum. vltra hoc 
+          <lb ed="#P" n="15"/>probauit eis hoc ipsum auctoritate scripture. 
+          Luce<lb ed="#P" n="16" break="no"/>xxiiii. nonne hec oportuit perati christum: et ita intrare in 
+          <lb ed="#P" n="17"/>gloriam suam. et incipiens a Moyse et in omnibus 
+          pphe<lb ed="#P" n="18" break="no"/>tis interptabatur illis i omnibus scripturis que de 
+          <lb ed="#P" n="19"/>ipso erant. et sequitur in eodem capite: tunc aperuit illis 
+          <lb ed="#P" n="20"/>sensum vt intelligerent scripturas: ergo 
+          sufficientis<lb ed="#P" n="21" break="no"/>sime erat supser hoc informati. Preterea: apostoli de 
+          <lb ed="#P" n="22"/>bebant testimonium de christi resurrectione praebere: secundum 
+          <lb ed="#P" n="23"/>illud Actuum. i. eritis michi testes in hierusalem: et 
+          <lb ed="#P" n="24"/>in omni iudea et samaria: et vsque ad vltimum terre. 
+          <lb ed="#P" n="25"/>sed nemo debet ferre testimonium (et potissimum in 
+          <lb ed="#P" n="26"/>re arduissima) nisi sufficientissime esset de veritate 
+          <lb ed="#P" n="27"/>certioratus. hec res erat arduissima: ergo apestoli erant 
+          <lb ed="#P" n="28"/>sufficientissime certiorati. Alia requiritur 
+          certitu<lb ed="#P" n="29" break="no"/>do ad deponendum de homicidio quam ad recipiendum 
+          <lb ed="#P" n="30"/>socium sorbonicum: et certissima circa fidei articulos 
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e206">
+          <lb ed="#P" n="31"/>¶ Quarto arguitur: aposoli numquam suam vitam posuissent 
+          <lb ed="#P" n="32"/>pro resurrectione christi nisi fuissent certissime 
+          sup<lb ed="#P" n="33" break="no"/>hoc certiorati. tum primo: male egissent pro re non 
+          <lb ed="#P" n="34"/>certa ferre certum testimonium. tum secundo: tenebantur 
+          ser<lb ed="#P" n="35" break="no"/>uare suam vitam / nisi fuissent certiorati quod 
+          deobliga<lb ed="#P" n="36" break="no"/>bantur certisstme de opposito: igitur. sicut 
+          fluctua<lb ed="#P" n="37" break="no"/>tio Thome / posteris certitudinis multum adiecit: 
+          <lb ed="#P" n="38"/>ita duodeci aposolorum et primorum martyrum 
+          certitu<lb ed="#P" n="39" break="no"/>do / est nobis magna certitudinis pars.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e228">
+          ¶ 
+          Con<lb ed="#P" n="40" break="no"/>tra istas conclusiones arguitur: principia alicuius 
+          sci<lb ed="#P" n="41" break="no"/>entie vel alterius doctrine non debent probari in il 
+          <lb ed="#P" n="42"/>la scientia i. phisicorum. et. iiii. methaphisice: non est 
+          <lb ed="#P" n="43"/>disputandum contra negantem principia. sed resurre 
+          <lb ed="#P" n="44"/>ctio christi est articulus fidei: et principium in hac 
+          do<lb ed="#P" n="45" break="no"/>ctrina theologica. ergo non debet probari.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e244">
+          ¶ 
+          Secundo<lb ed="#P" n="46" break="no"/>christus non probauit aliquos alios articulos: ergo 
+          <lb ed="#P" n="47"/>etiam nec debuit istum probare
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e251">
+          ¶ Ad primum respondetur 
+          <lb ed="#P" n="48"/>quod in scientia prima: suadentur principia aliqua: et a 
+          <lb ed="#P" n="49"/>posteriore ostenduntur: sic Aristoteles facit. iiii. 
+          me<lb ed="#P" n="50" break="no"/>thaphisice de quolibet est affirmatio vel negatio 
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e260">
+          <lb ed="#P" n="51"/>¶ Ad secundum respondetur: quilibet articulus est 
+          suffi<lb ed="#P" n="52" break="no"/>cienter ostensus in generali. probatio: ita est omnium 
+          <lb ed="#P" n="53"/>que fidei sunt. et in speciali aliqui articuli per 
+          sen<lb ed="#P" n="54" break="no"/>sum cognoscuntur: vt mors / passio ascensio 
+          saltem<lb ed="#P" n="55" break="no"/>humanitatis. decuit ergo hunc difficilem articulu 
+          <lb ed="#P" n="56"/>aposolois demonstrare: quia increduli de resurrectione 
+          <lb ed="#P" n="57"/>manserunt secundum illud Luce. xxiiii. O stulti et 
+          tardi<lb ed="#P" n="58" break="no"/>corde ad credendum.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e280">
+          ¶ Tertio arguitur: christus non 
+          <lb ed="#P" n="59"/>comedit post resurrectionem. patet: post resurre 
+          <lb ed="#P" n="60"/>ctionem habebat corpus gloriosum: ergo nichil 
+          con<lb ed="#P" n="61" break="no"/>uertebatur in ipsum: ergo non assumpsit cibum: quia non as¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>sumpsit cibum nisi quatenus in ipsum conuerieretur. 
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e294">
+          <lb ed="#P" n="63"/>¶ Quarto: comestio non erat argumentum 
+          suffici<lb ed="#P" n="64" break="no"/>ens resurrectionis: patet. angeli in corporibus 
+          as<lb ed="#P" n="65" break="no"/>sumptis leguntur comedisse: vt patet Seneis 
+          xviii<lb ed="#P" n="66" break="no"/>et Thobie. xii. dixit Raphael angelus: videbar 
+          <lb ed="#P" n="67"/>vobiscum manducare et bibere.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e307">
+          ¶ Quinto: Mat. 
+          <lb ed="#P" n="68"/>xiiii. quando discipuli viderunt christum 
+          superma<lb ed="#P" n="69" break="no"/>re ambulantem: turbati sunt / dicentes: quia 
+          fantas<lb ed="#P" n="70" break="no"/>ma est: ergo similiter potuerunt credere quod erat 
+          fan<lb ed="#P" n="71" break="no"/>tasma quando viderunt eum post suam 
+          resurrectio<lb ed="#P" n="72" break="no"/>nem.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e320">
+          ¶ Ad tertium: negatur assumptum: et ad probationem quae 
+          <lb ed="#P" n="73"/>querit quid de illo cibo factum est. potest dici quod 
+          re<lb ed="#P" n="74" break="no"/>soluebatur. vel melius / ponebatur extra corpus christi 
+          <lb ed="#P" n="75"/>non transeundo per medium non est de ratione 
+          comesfio<lb ed="#P" n="76" break="no"/>nis quod cibus in comedente alatur patet: in habente 
+          for<lb ed="#P" n="77" break="no"/>te ventris profluuium. poterat tamen deus fecisse ( si 
+          volu<lb ed="#P" n="78" break="no"/>isset) quod fuisset cibus / ille conuersus in suum corpus. xiii. 
+          <lb ed="#P" n="79"/>de trinitate dicit Augu. non potestas sed egestas 
+          <lb ed="#P" n="80"/>comedendi corporibus resurgentium aufertur.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e340">
+          ¶ Ad 
+          <lb ed="#P" n="81"/>quartum et quintum argumenta simul respondetur: et si 
+          <lb ed="#P" n="82"/>vnum istorum vel duo non sufficientissime suam 
+          resutte<lb ed="#P" n="83" break="no"/>ctionem aposolis declararunt: omnia tame iuncta sufficienter 
+          <lb ed="#P" n="84"/>hoc ostendunt. sicut vnus clatus vnda rimam 
+          clau<lb ed="#P" n="85" break="no"/>dit: et plures claui: omnes: et potissimum scripture 
+          au<lb ed="#P" n="86" break="no"/>ctoritas cum illuminatione spuimtali mentium.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e356">
+          ¶ Ad 
+          quin<lb ed="#P" n="87" break="no"/>tum dicitur: erant tenebre quando super mare incedebat. 
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e361">
+          <lb ed="#P" n="88"/>¶ Sexto arguitur. Mar. vlti. ostensus est Iesus in 
+          <lb ed="#P" n="89"/>alia effigie duobus in villam euntibus: ergo non 
+          suf<lb ed="#P" n="90" break="no"/>ficienter se apostolis ostendit.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e371">
+          ¶ Septimo arguitur: christus 
+          <lb ed="#P" n="91"/>in resurrectione corporis habebat dotes et 
+          clari<lb ed="#P" n="92" break="no"/>tatem: quam intueri non poterant. ergo non sufficienter 
+          <lb ed="#P" n="93"/>ostendit aposolis suam resurrectionem.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e380">
+          ¶ Ad sextum respondetur 
+          <lb ed="#P" n="94"/>hoc sufficientissime et congruissime factum est. illi 
+          duo<lb ed="#P" n="95" break="no"/>apostoli christum amabant: et de resurrectione fluctuabant. 
+          <lb ed="#P" n="96"/>ratione primi / digni erant quod christus eis presens esset. 
+          <lb ed="#P" n="97"/>ratione secundi digni erantvt eis ad tempus se occulta 
+          <lb ed="#P" n="98"/>ret. quia non ponebant se sollicite ad inquirendum quisnam 
+          <lb ed="#P" n="99"/>esset: sicut frequenter nobis contingit: potissimum quando 
+          <lb ed="#P" n="100"/>quis in alio habitu apparet: tamem realiter eis fina 
+          <lb ed="#P" n="101"/>liter ostendit se esse illum.
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e400">
+          ¶ Ad septimum dicitur: licet 
+          <lb ed="#P" n="102"/>esset in corpore christi claritas: poterat non concurrere 
+          <lb ed="#P" n="103"/>cum illa ad immutandas potentias apostolorum: et 
+          concur<lb ed="#P" n="104" break="no"/>rere cum coloris immutatione / vt eum cognoscerent 
+          <lb ed="#P" n="105"/>sub specie qua ante eum cognouerunt: si lux et 
+          color<lb ed="#P" n="106" break="no"/>essent in eodem subiecto: deus potest concurrere cum 
+          <lb ed="#P" n="107"/>colore ad hoc quod videatur: et non cum luce vel lumine 
+        </p>
+        <p xml:id="jm3cbb-e27362-d1e416">
+          <lb ed="#P" n="108"/>¶ Ecce resurrectionem christi sufficienter 
+          osten<lb ed="#P" n="109" break="no"/>sam aposolis: et deuotis illis mulieribus: per 
+          arcu<lb ed="#P" n="110" break="no"/>menta. xl. dierum a christo: et ab angelis: sic quod 
+          nul<lb ed="#P" n="111" break="no"/>la cadit in hoc ambages: nec angeli asseruerunt 
+          <lb ed="#P" n="112"/>se manducasse: sed oppositum. patet de angelo 
+          Tho<lb ed="#P" n="113" break="no"/>bie. christus veritas dicebat se manducasse: 
+          chri<lb ed="#P" n="114" break="no"/>stus fecit miracula: et illa fecit in attestatione 
+          ve<lb ed="#P" n="115" break="no"/>ritatum quas dicebat: et sic sequaces christi omnes 
+          <lb ed="#P" n="116"/>agminatim illi assertioni innitentes: quod christus erat 
+          <lb ed="#P" n="117"/>deus. pro falsitate non fiunt miracula. Preterea 
+          <lb ed="#P" n="118"/>articulorum quidam sunt de diuinitate: qui per sensum 
+          <lb ed="#P" n="119"/>non probantur. quidam per sensum probantur: vt 
+          <lb ed="#P" n="120"/>ascensus christi / mors verbera: et isti non indige 
+          <lb ed="#P" n="121"/>bant probatione. resurrectio in seipsa non fuit 
+          vi<lb ed="#P" n="122" break="no"/>sa ab apostolis: propterea probatione indiguit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

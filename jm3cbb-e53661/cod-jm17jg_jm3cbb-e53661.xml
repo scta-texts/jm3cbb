@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 14</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 14</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="88-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e53661"><!-- l3d33q14 -->
+        <head xml:id="jm3cbb-e53661-Hd1e99">Quaestio 14</head>
+        <head xml:id="jm3cbb-e53661-Hd1e101" type="question-title">An fortis qui potest se servare138 per fugam magis debeat mori
+    quam campum deserere</head>
+        <p xml:id="jm3cbb-e53661-d1e104">
+          <lb ed="#P" n="47"/>Quinto queritur an 
+          for<lb ed="#P" n="48" break="no"/>tis qui potest se saluare 
+          per<lb ed="#P" n="49" break="no"/>fugam magis debeat mori quam 
+          <lb ed="#P" n="50"/>campum deserere.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e115">
+          ¶ Pro 
+          quae<lb ed="#P" n="51" break="no"/>stionis solutione scias nulla 
+          <lb ed="#P" n="52"/>est difficultas in questionis 
+          ti<lb ed="#P" n="53" break="no"/>tulo: quia certum est fidelibus 
+          <lb ed="#P" n="54"/>de vita post hanc vitam mortalem: et tam de 
+          beatitudi<lb ed="#P" n="55" break="no"/>ne in anima separata quam de beatitudine in anima 
+          reuni<lb ed="#P" n="56" break="no"/>ta corpori in die iudicii. sed non ponendo vitam post 
+          <lb ed="#P" n="57"/>hanc vitam mortalem in qua sumus: maior est 
+          dif<lb ed="#P" n="58" break="no"/>ficultas. <name xml:id="jm3cbb-e53661-Nd1e134">Geraldus odo</name> in materia de fortitudine 
+          <lb ed="#P" n="59"/>Aristotelem exponens tenet partem negatiuam. vn 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>de prima fronte videtur illud mirandum: viso quod 
+          Ari<lb ed="#P" n="61" break="no"/>stoteles oppositum in tercio Ethicorum teneat. 
+          <lb ed="#P" n="62"/>Sed hoc ipse preuidens: dicit Aristotelem 
+          opi<lb ed="#P" n="63" break="no"/>natum fuisse quod erat vita post hanc vitam. idem 
+          te<lb ed="#P" n="64" break="no"/>net vicinus noster Mediltonus in hac 
+          distinctio<lb ed="#P" n="65" break="no"/>ne. communius tamen (et melius) tenetur 
+          opposi<lb ed="#P" n="66" break="no"/>tum. de immortalitate anime in distinctione. xliii. 
+          <lb ed="#P" n="67"/>quarti sententiarum loquutus sum nunc non insisto. 
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e159">
+          <lb ed="#P" n="68"/>¶ Circa hoc pono conclusiones quattuor questioni 
+          <lb ed="#P" n="69"/>responsiuas in vtroque sensu tam secundum fideles quam secundum 
+          <lb ed="#P" n="70"/>eos qui animam humanam corruptibilem ponunt 
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e169">
+          <lb ed="#P" n="71"/>¶ Quarum prima est: in aliquo bello homo tenetur 
+          <lb ed="#P" n="72"/>expectare sub pena mortalis peccati: esto quod ei 
+          con<lb ed="#P" n="73" break="no"/>stat quod non saluabitur nisi per fugam.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e178">
+          ¶ Secunda 
+          <lb ed="#P" n="74"/>conclusio: potest homo expectare in bello licite: 
+          <lb ed="#P" n="75"/>vbi potest fugere de eodem sine peccato.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e185">
+          ¶ 
+          Ter<lb ed="#P" n="76" break="no"/>tia conclusio: in casu homo stulte et temerarie 
+          fa<lb ed="#P" n="77" break="no"/>cit expectando in bello quousque occidatur 
+          quan<lb ed="#P" n="78" break="no"/>do potest succurrere sue vite per fugam.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e194">
+          ¶ 
+          Quar<lb ed="#P" n="79" break="no"/>ta conclusio: dato quod non ponatur vita post hanc 
+          <lb ed="#P" n="80"/>vitam: fortis in casu expectare debet: vbi certum 
+          <lb ed="#P" n="81"/>habet quod expectando occidetur:et arripiendo 
+          fugan<lb ed="#P" n="82" break="no"/>saluabitur.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e205">
+          ¶ Prima conclusio probatur. si esset 
+          vir<lb ed="#P" n="83" break="no"/>fortis et clare fame in acie belli iusti christanorum 
+          con<lb ed="#P" n="84" break="no"/>tra turcos: vbi est verosimile si maneat: victoria ad 
+          <lb ed="#P" n="85"/>nostram partem inclinabit: occumbet tamen. si 
+          aufu<lb ed="#P" n="86" break="no"/>giat / peribit totus exercitus: et perterritus erit ad 
+          <lb ed="#P" n="87"/>fugam viri fortis. sicut Lucanus dicit pompeio 
+          fu<lb ed="#P" n="88" break="no"/>giente timent. tunc sic. nullus prudens praeponit 
+          vi<lb ed="#P" n="89" break="no"/>tam suam temporalem et transitoriam saluti totius 
+          <lb ed="#P" n="90"/>reipublice christiane: quam saluare potest cum sua 
+          <lb ed="#P" n="91"/>morte: qua magnam iacturam patietur si ipse se saluet. 
+          ta<lb ed="#P" n="92" break="no"/>lis iudicabitur timidissimus  indignus viuere si 
+          superui<lb ed="#P" n="93" break="no"/>uat fugiendo: et morietur quotidiana tristicia. ergo in 
+          il<lb ed="#P" n="94" break="no"/>lo casu tenetur expectare: et habetur prima 
+          conclu<lb ed="#P" n="95" break="no"/>sio.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e236">
+          ¶ Secunda conclusio probatur. homo 
+          inter<lb ed="#P" n="96" break="no"/>dum iudicat quod non peribit exercitus ad fugam eius: 
+          <lb ed="#P" n="97"/>nec poterit multum prodesse eidem: tunc potest 
+          pe<lb ed="#P" n="98" break="no"/>dem retrahere. pono quod non hemat stipendia vt pugnet 
+          <lb ed="#P" n="99"/>et tunc licite stare potest. igitur.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e248">
+          ¶ Secundo 
+          argui<lb ed="#P" n="100" break="no"/>tur ad idem. pono aliquem virum fortem qui sine 
+          <lb ed="#P" n="101"/>stipendiis vadit videre exercitum pugnare: ille 
+          po<lb ed="#P" n="102" break="no"/>test aciem intrare vel dimicare: vel potest retrocede 
+          <lb ed="#P" n="103"/>re. igitur.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e259">
+          ¶ Tertio arguitur: aliquis pro opere consilii 
+          <lb ed="#P" n="104"/>patitur mortem et est martyr: sed talis sine 
+          pecca<lb ed="#P" n="105" break="no"/>to potest aufugere: igitur. maior est probata in 
+          di<lb ed="#P" n="106" break="no"/>stinctione. xlix. quarti.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e268">
+          ¶ Tertia conclusio 
+          proba<lb ed="#P" n="107" break="no"/>tur. stat sortem esse reipublice vtilissimum: ad cuius in 
+          <lb ed="#P" n="108"/>teritum sequitur in republica grandis iactura et clades: 
+          <lb ed="#P" n="109"/>et eius vita erit reipublice ad modum vtilis tam consilio quam 
+          <lb ed="#P" n="110"/>auctoritate: iudicat cum acies sua est iam pene fusa 
+          <lb ed="#P" n="111"/>quod ad eius fugam nullum sequetur in republica incommodum: 
+          <lb ed="#P" n="112"/>immo eius vita reipublice grande afferet commodum. si in 
+          <lb ed="#P" n="113"/>illo casu non aufugiat: male agit. quia numquam in bello est 
+          <lb ed="#P" n="114"/>subeunda mors: nisi gatia alicuius boni quod est finis 
+          <lb ed="#P" n="115"/>operationis fortitudinis. ergo quando non 
+          expe<lb ed="#P" n="116" break="no"/>ctatur bonum ex morte: sed malum: non est 
+          expectan<lb ed="#P" n="117" break="no"/>dum. hinc Dauidi: secundo Regum: consultum est non intra 
+          <lb ed="#P" n="118"/>re bellum: et multis magnis regibus: ne ad eorum 
+          <lb ed="#P" n="119"/>hotem seamntir. calamitates inrermhlica: vr 
+          <pb ed="#P" n="88-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>rapine / tam bonorum fortune quam probarum 
+          mu<lb ed="#P" n="2" break="no"/>lierum homicidia / et bella ciuilia inter regni 
+          primo<lb ed="#P" n="3" break="no"/>res non habentes caput: quia omne regnum in se diuisum 
+          <lb ed="#P" n="4"/>desolabitur.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e312">
+          ¶ Quarta conclusio probatur 
+          auctorita<lb ed="#P" n="5" break="no"/>te philosophi: qui hanc tenet: vt in materia de 
+          for<lb ed="#P" n="6" break="no"/>titudine patet. mors autem omni maxime est terribile: 
+          <lb ed="#P" n="7"/>est enim vltimum vite. et nichil post homini mortuo 
+          <lb ed="#P" n="8"/>aut bonum aut malum esse videtur. hic ponitur videtur: 
+          <lb ed="#P" n="9"/>et etiam in antiqua translatione simile dicitur: 
+          terri<lb ed="#P" n="10" break="no"/>bilissimum autem mors: terminus autem: et nichil adhuc 
+          <lb ed="#P" n="11"/>mortuis videtur neque bonum neque malum esse.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e330">
+          ¶ 
+          Ar<lb ed="#P" n="12" break="no"/>guitur sic. fugere in aliquo casu a sapientibus in 
+          lu<lb ed="#P" n="13" break="no"/>mine naturali reputaretur turpe: et honestum stare. 
+          <lb ed="#P" n="14"/>de Aristotele non est dubium: tertii Ethicorum sexto 
+          <lb ed="#P" n="15"/>dicit. is igitur homo fortis proprie dicitur qui circa 
+          ho<lb ed="#P" n="16" break="no"/>nestam mortem et ea omnia quae repente eueniunt atque 
+          af<lb ed="#P" n="17" break="no"/>ferunt ipsam interritus est. et capite nono dicit. mors 
+          <lb ed="#P" n="18"/>quidem atque vulnera forti viro molesta erunt: atque 
+          <lb ed="#P" n="19"/>inuito. feret tamen quod honestum est ea ferre: vel 
+          turpe<lb ed="#P" n="20" break="no"/>non ferre. atque quo magis omin virtute pollet et 
+          fe<lb ed="#P" n="21" break="no"/>liciorest: eo magis ob mortem sane dolebit. vir enim 
+          <lb ed="#P" n="22"/>talis maxime dignus est vita. ad hoc potest 
+          addu<lb ed="#P" n="23" break="no"/>ci cicero primo officiorum. Sed statim dicet 
+          aduer<lb ed="#P" n="24" break="no"/>sarius: isti ponebant vitam post hanc vitam: saltem 
+          ani<lb ed="#P" n="25" break="no"/>mam manere post hanc vitam.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e363">
+          ¶ Proptrea aliter 
+          ar<lb ed="#P" n="26" break="no"/>guitur ratione: ponatur casus quod vir fortis gentilis 
+          po<lb ed="#P" n="27" break="no"/>natur in acie belli iusti: et iudicat quod ad eius fugam 
+          <lb ed="#P" n="28"/>effundetur exercitus: et singuli palantes 
+          dispergem<lb ed="#P" n="29" break="no"/>tur in grandem luem reipublice sue. iudicat: si 
+          ma<lb ed="#P" n="30" break="no"/>neat: id non continget reipu. sue. sed cum hoc iudicat si 
+          ma<lb ed="#P" n="31" break="no"/>neat / occidetur: si de bello delabatur saluabitur. iste 
+          <lb ed="#P" n="32"/>talis imprudenter ageret in lumine naturali de 
+          bel<lb ed="#P" n="33" break="no"/>lo fugiens: saluando vitam eius breuem fato concessam 
+          <lb ed="#P" n="34"/>non dando operam rei licite: licet occidatur: et nota 
+          <lb ed="#P" n="35"/>bilissime abbreuietur. vite breuitas a fato concessa patet 
+          <lb ed="#P" n="36"/>quotidiana experientia: et Ipocras hoc in 
+          princi<lb ed="#P" n="37" break="no"/>pio aphorismorum concessit inquiens. vita breuis ars 
+          <lb ed="#P" n="38"/>vero longa. et commentator in prologo. viii. 
+          Phisico<lb ed="#P" n="39" break="no"/>rum. et Iob: breues dies hominis sunt.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e397">
+          ¶ Secundo arguitur 
+          <lb ed="#P" n="40"/>ad idem. si sortes sit obsessus in vrbe ab hoste 
+          iniu<lb ed="#P" n="41" break="no"/>ste: et stans in ianua possit reluctari hosti ne 
+          ingre<lb ed="#P" n="42" break="no"/>diatur. et resistere cum sua vita quousque auxiliares 
+          <lb ed="#P" n="43"/>socii supueniant / et claudant portam / et vrbem tueantur: 
+          <lb ed="#P" n="44"/>sortes probe agit: licet occidatur. et fugiendo 
+          tur<lb ed="#P" n="45" break="no"/>piter ageret.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e413">
+          ¶ Tertio arguitur: opposito dato: 
+          sor<lb ed="#P" n="46" break="no"/>tes non debet exponere se morti pro vxore / pro 
+          li<lb ed="#P" n="47" break="no"/>beris / pro parentibus / pro tota republica sua: 
+          <lb ed="#P" n="48"/>nemo debet illud concedere.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e422">
+          ¶ Quarto: quilibet 
+          mi<lb ed="#P" n="49" break="no"/>les stipendiarius in acie belli iusti poterat 
+          aufuge<lb ed="#P" n="50" break="no"/>re licite qui tenebat conclusionem. similiter duces. consequens est 
+          <lb ed="#P" n="51"/>falsum. nunquam ita fecerunt: et tamen ab omnibus 
+          sapien<lb ed="#P" n="52" break="no"/>tibus laudati sunt.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e433">
+          ¶ Quinto arguitur: aliquis 
+          po<lb ed="#P" n="53" break="no"/>test suam vitam exponere licite probabili fortune. 
+          <lb ed="#P" n="54"/>patet de mercatore tempore periculoso inter maris 
+          <lb ed="#P" n="55"/>fluctus nauigante pro re necessaria expedienda. 
+          er<lb ed="#P" n="56" break="no"/>go eodem modo potest causa esse tam necessaria et 
+          hone<lb ed="#P" n="57" break="no"/>sta quod suam vitam indubitanter pro republica potest 
+          <lb ed="#P" n="58"/>exponere.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e449">
+          ¶ Sexto arguitur: sicut sanitas 
+          corpo<lb ed="#P" n="59" break="no"/>ris se habet ad corpus: sic virtutes se habent ad 
+          ani<lb ed="#P" n="60" break="no"/>mam. modo nullus est (qui ad solas corporis dispo¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>sitiones aspiciens) plus vellet longo tempore 
+          ma<lb ed="#P" n="62" break="no"/>gna egritudine et pungitiua vehementer languere 
+          <lb ed="#P" n="63"/>quam breui tempore sanitate gaudere. plerique dicunt 
+          <lb ed="#P" n="64"/>veraciter illud Iob. Tedet animam meam vite 
+          <lb ed="#P" n="65"/>mee. ergo prudens deberet citius velle quod 
+          anima<lb ed="#P" n="66" break="no"/>sua breui tempore decoraretur pulchra et momenta 
+          <lb ed="#P" n="67"/>nea virtute: quamdiu staret in viciis et turpitudine. sed 
+          <lb ed="#P" n="68"/>alii dicerent non esse turpe aufugere.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e475">
+          ¶ Sed 
+          contra<lb ed="#P" n="69" break="no"/>hoc iam fecimus rationes. Et adhuc Septimo 
+          ar<lb ed="#P" n="70" break="no"/>guitur: pro aliquo officio mediocri homo 
+          abbre<lb ed="#P" n="71" break="no"/>uiat vitam suam: licet insensibiliter in quolibet 
+          par<lb ed="#P" n="72" break="no"/>uo tmpere. patet de agricola / viticula: merchatore. 
+          scho<lb ed="#P" n="73" break="no"/>lastico viro / et milite dormiente in armis in 
+          tem<lb ed="#P" n="74" break="no"/>pore calido et frigido. ergo causa potest dari in 
+          du<lb ed="#P" n="75" break="no"/>plo melior quire vita est in duplo plus abbreuianda: 
+          <lb ed="#P" n="76"/>et dari potest ita pia et necessaria: quod vita est fortu 
+          <lb ed="#P" n="77"/>ne protinus committenda.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e498">
+          ¶ Octauo arguitur: 
+          <lb ed="#P" n="78"/>multa bruta moriuntur vt suos fetus seruent. ergo 
+          <lb ed="#P" n="79"/>et homines hoc possunt licite. sed huic rationi 
+          di<lb ed="#P" n="80" break="no"/>ceretur bruta ex passiconne hec agunt: nos vero 
+          lo<lb ed="#P" n="81" break="no"/>quimur quid fieri debeat ex electione. hoc omnes 
+          <lb ed="#P" n="82"/>tam preclari duces quam milites practicarunt: et 
+          phi<lb ed="#P" n="83" break="no"/>losophi practicandum docuerunt. Seneca negat 
+          <lb ed="#P" n="84"/>felicitatem premiatoriam post mortem. patetur in 
+          <lb ed="#P" n="85"/>epistola ad Lucillum: longe michi. et manifestius 
+          <lb ed="#P" n="86"/>ad Marcianum de consolatione filii sui: et 
+          tamen<lb ed="#P" n="87" break="no"/>hanc quartam conclusionem tenuit: et alios ad 
+          <lb ed="#P" n="88"/>hoc allegat sepius.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e524">
+          ¶ Contra hanc conclusionem 
+          <lb ed="#P" n="89"/>arguitur ar:umentis Geraldi odonis. primo sic 
+          <lb ed="#P" n="90"/>arguit. quia omnis operatio virtutis est vel 
+          felici<lb ed="#P" n="91" break="no"/>tas / vel pars felicitatis / vel ad felicitatem ordina 
+          <lb ed="#P" n="92"/>ta / vel saltem non prohibens felicitatem. hoc patet 
+          <lb ed="#P" n="93"/>supra in primo et secundo in pluribus locis. 
+          ope<lb ed="#P" n="94" break="no"/>ratione namque virtutis nemo fit deterior: vel saltem 
+          <lb ed="#P" n="95"/>non priuatur felicitate. sed talis expectatio nec est 
+          <lb ed="#P" n="96"/>felicitas / nec pars eius: cum omnis felicitas 
+          secun<lb ed="#P" n="97" break="no"/>dum se sit delectabilis. hec autem expectatio esset 
+          <lb ed="#P" n="98"/>simpliciter in re et in spe secundnm se tristabilis. 
+          <lb ed="#P" n="99"/>nec esset ordinata ad felicitatem: cum ipsa esset sim 
+          <lb ed="#P" n="100"/>pliciter vltimum hominis: et esset prohibens 
+          fe<lb ed="#P" n="101" break="no"/>licitatem: quia esset priuatio vite perfecte que 
+          ne<lb ed="#P" n="102" break="no"/>cessario requiritur ad felicitatem: quare talis 
+          expe<lb ed="#P" n="103" break="no"/>ctatio nullo modo esset operatio virtutis: si non 
+          <lb ed="#P" n="104"/>esset alia vita hominis.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e561">
+          ¶ Secundo. quia nulla 
+          ac<lb ed="#P" n="105" break="no"/>ceptatio mali maioris pro euitando malo minori 
+          <lb ed="#P" n="106"/>est assumenda. de duobus malis minus malum est 
+          <lb ed="#P" n="107"/>eligendum: tertio Topicorum. sed talis 
+          expecta<lb ed="#P" n="108" break="no"/>tio esset acceptatio maioris mali pro euitando 
+          mi<lb ed="#P" n="109" break="no"/>nori: quia acceptaretur perditio totalis nature et 
+          <lb ed="#P" n="110"/>virtutis / pro euitanda sola perditione virtutis. 
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e577">
+          <lb ed="#P" n="111"/>¶ Ad primum conceditur maior: sed negetur 
+          mi<lb ed="#P" n="112" break="no"/>nor. talis expectatio maxime ad felicitatem 
+          poli<lb ed="#P" n="113" break="no"/>ticam spectat.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e586">
+          ¶ Ad secundum respondetur 
+          negan<lb ed="#P" n="114" break="no"/>do minorem. in morte non perditur virtus: sed 
+          ex<lb ed="#P" n="115" break="no"/>cellens virtus (licet momentauea) acquiiritur. et 
+          <lb ed="#P" n="116"/>perderetur virtus si aufugeret.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e595">
+          ¶ Tertio 
+          argui<lb ed="#P" n="117" break="no"/>tur. vel talis mors suscipitur proptr bonum proprium: vel 
+          a<lb ed="#P" n="118" break="no"/>lienum. non primum: quia totum in morte amittitur. non propter 
+          <lb ed="#P" n="119"/>bonum alienum: quia ex quo non ponitur alia 
+          vi<lb ed="#P" n="120" break="no"/>ta: iste moriens non potest aliis procurare maius 
+          <pb ed="#P" n="89-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>bonum quoam sit illud quod perdit. ergo bonum sibi proprium de 
+          <lb ed="#P" n="2"/>bet praeterre bono alieno.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e616">
+          ¶ Quarto: quod est minus de 
+          <lb ed="#P" n="3"/>lectabile et magis triste est magis fugiendum quam quod 
+          <lb ed="#P" n="4"/>est magis delectabile et minus triste. sed fugere est 
+          <lb ed="#P" n="5"/>minus triste quam mori: cum in morte sit maxima 
+          tristi<lb ed="#P" n="6" break="no"/>cia: igitur.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e627">
+          ¶ Ad tertium dicitur: mors suscipitur tam propter 
+          <lb ed="#P" n="7"/>bonum proprium quam propter bonum alienum magna est 
+          vir<lb ed="#P" n="8" break="no"/>tus in mortem patienti vt prosit reipublice et bene facit 
+          <lb ed="#P" n="9"/>aliis. bene facit bonum illud momentaneum tenendo: et 
+          <lb ed="#P" n="10"/>si aufugeret: peccaret: et virtutem amitteret. et 
+          per<lb ed="#P" n="11" break="no"/>consequens non amitteret virtutem per hoc quod expectat. non 
+          <lb ed="#P" n="12"/>pruatur culpabiliter. a virtute in futurum. melius est 
+          <lb ed="#P" n="13"/>perdere vitam in breui per actum bonum non 
+          culpabilem<lb ed="#P" n="14" break="no"/>quad eam tenere cum ignauia: et vitam vno die perdere 
+          fa<lb ed="#P" n="15" break="no"/>to: et fortasse non ita honeste. etiam delectatur vir in 
+          <lb ed="#P" n="16"/>hoc quod viuit post mortem in fama. homerus viuit 
+          <lb ed="#P" n="17"/>vt poeta: sicut Aristoteles dicit in Periarmenias 
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e653">
+          <lb ed="#P" n="18"/>¶ Ad quartum dico: maior non est vtrobique vera. eti 
+          <lb ed="#P" n="19"/>am minor non est vera. magis triste est viro forti au 
+          <lb ed="#P" n="20"/>fugere quam mori. confirmat se contra mortem: e eam contennit. 
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e662">
+          <lb ed="#P" n="21"/>¶ Quinto arguitur rationibus Aichardi mediltoni: 
+          <lb ed="#P" n="22"/>et primo sic / loco quinti argumenti: secundum Augustinum 
+          <lb ed="#P" n="23"/>i. de doctrina christiana: homo magis tenetur diligere 
+          <lb ed="#P" n="24"/>animam propriam quoam animam proximi sui: et magis tenetur 
+          <lb ed="#P" n="25"/>diligere corpus proprium quam corpus proximi. sed si 
+          <lb ed="#P" n="26"/>anima moreretur cum corpore: idem esset iudicium de 
+          amo<lb ed="#P" n="27" break="no"/>re hominis ad seipsum et amore homis ad proximum. 
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e680">
+          <lb ed="#P" n="28"/>¶ Sexto. secunduem Aug. iii. de libero arbitrio: quisquis 
+          ra<lb ed="#P" n="29" break="no"/>tione aliquid eligit appetere dum necesse est vt melior 
+          <lb ed="#P" n="30"/>fiat cum ad illud peruenerit quod eligit: melior autem esse non 
+          <lb ed="#P" n="31"/>posset qui non esset. sed si anima moreretur cum corpore: 
+          <lb ed="#P" n="32"/>homo per mortem coporalem desineret esse: excepta 
+          ma<lb ed="#P" n="33" break="no"/>teria prima: ergo moriendo voluntarie pro liberatione 
+          pa<lb ed="#P" n="34" break="no"/>trie melior non esset. ergo talis electio recta non esset. 
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e698">
+          <lb ed="#P" n="35"/>¶ Ad quintum dicitur quod homo moriendo in casu conclusio 
+          <lb ed="#P" n="36"/>nis plus se diligit: quia vult sibiipsi bonum 
+          virtu<lb ed="#P" n="37" break="no"/>tis et fugit a vicio.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e708">
+          ¶ Ad sextum dicitur: ipse efficitur 
+          me<lb ed="#P" n="38" break="no"/>lior: quia acquirit actum bonum in vita.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e713">
+          ¶ Septio arguitur. 
+          <lb ed="#P" n="39"/>homo non debet intermittere actum alicuius virtutis: nisi vt 
+          <lb ed="#P" n="40"/>liberius vacet exercitio maioris virtutis. sed multo 
+          <lb ed="#P" n="41"/>magis esset contra rationem eligere illud ad quod sequaeretur 
+          <lb ed="#P" n="42"/>perpetua impossibilitas operandi secundum quancumque 
+          virtu<lb ed="#P" n="43" break="no"/>tem quam ad tmtus intermittere actum vnius virtutis non 
+          <lb ed="#P" n="44"/>propter exercitium alterius virtutis. sed si anima moreretur 
+          <lb ed="#P" n="45"/>cum corpere: homo eligendo mori eligeret illud ad quod 
+          se<lb ed="#P" n="46" break="no"/>queretur quod amplius in perpetuum secundem virtutem 
+          ope<lb ed="#P" n="47" break="no"/>rari non posset.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e735">
+          ¶ Ad septimum et vltimum concedo 
+          ma<lb ed="#P" n="48" break="no"/>iorem: licet in ea sit equalis difficultas de religioso 
+          <lb ed="#P" n="49"/>orante profunde qui vocatur ab abbate vt in orto 
+          fodi<lb ed="#P" n="50" break="no"/>at: vel eat in campos gratia recreationis. sed vbi esset 
+          <lb ed="#P" n="51"/>praeceptum manere non esset bonum: et sic non reliquit de 
+          <lb ed="#P" n="52"/>facto maius bonum propter minus bonum: sed stat quod 
+          <lb ed="#P" n="53"/>relinquit illud quod fuisset maius bonum propter 
+          <lb ed="#P" n="54"/>illud minus bonum. circunstantia obedientie tamen: 
+          <lb ed="#P" n="55"/>vbi vtrumque opus esset de consilio: facit illam 
+          fossio<lb ed="#P" n="56" break="no"/>nem vel iitionem in campos meliorem relinquendo 
+          <lb ed="#P" n="57"/>orationem: et fortasse ita bonam sicut oratio 
+          fuis<lb ed="#P" n="58" break="no"/>set.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e761">
+          ¶ Ad minorem argumenti: dico quod fortis stans 
+          <lb ed="#P" n="59"/>vbi moritur: non eligit mori: non vult mortem 
+          for<lb ed="#P" n="60" break="no"/>nmaliter. sed vult illud efficacitur ad quod sequitur mors 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>sine culpa sua: et nunquam amplius merebitur. sicut 
+          <lb ed="#P" n="62"/>secundum fidem. homo citius debet pati se cccidi ante 
+          <lb ed="#P" n="63"/>quam aliquid turpe agat. sic recte dicendum est in 
+          phi<lb ed="#P" n="64" break="no"/>losophia morali: etiam ponendo animam mortalem: 
+          <lb ed="#P" n="65"/>quod citius toleranda est mors quam aliquid turpe 
+          coni<lb ed="#P" n="66" break="no"/>mittatur: vt de alcmeone euripidis dicit Aristo. 
+          <lb ed="#P" n="67"/>tertio Ethicorum.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e785">
+          ¶ Eece quomodo in lumine 
+          na<lb ed="#P" n="68" break="no"/>turali toleranda est mors pro defensione patrie: 
+          li<lb ed="#P" n="69" break="no"/>cet non ponatur anima remanere post mortem. 
+          Ari<lb ed="#P" n="70" break="no"/>stoteles ponit hoc in materia de fortitudine 
+          ex<lb ed="#P" n="71" break="no"/>presse.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e796">
+          ¶ Sed dicis (et bene) Aristoteles ponit 
+          ani<lb ed="#P" n="72" break="no"/>mam esse immortalem. gratia illius.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e802">
+          ¶ Dubitatur 
+          <lb ed="#P" n="73"/>quid super hoc senserit philosophus.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e807">
+          ¶ 
+          Respon<lb ed="#P" n="74" break="no"/>detur: sensit animam fuisse immortalem. secundo 
+          <lb ed="#P" n="75"/>de aninam / dicit quod anima intellectiua separatur. si 
+          <lb ed="#P" n="76"/>cut perpetuum a corruptibili. et primio de anima 
+          <lb ed="#P" n="77"/>dicit quod intellectus videtur quedam substantia 
+          esse<lb ed="#P" n="78" break="no"/>et non corrumpi. et. xii. Metaphisice textu 
+          com<lb ed="#P" n="79" break="no"/>menti. xvii. tangens an posset forma remanere 
+          de<lb ed="#P" n="80" break="no"/>structo composito: vel vtrum aliqua forma sit 
+          in<lb ed="#P" n="81" break="no"/>corruptibilis: dicit quod in quibusdam nichil prohibet: 
+          <lb ed="#P" n="82"/>vt si anima est tale: non omnis: sed intcliectus. idem 
+          <lb ed="#P" n="83"/>habet primo Ethicorum: dicens quod his qui 
+          defecc<lb ed="#P" n="84" break="no"/>runt: hoc est mortuis: boni per operationes 
+          ami<lb ed="#P" n="85" break="no"/>corum viuorum videtur aliquid conferre. 
+          vndeci<lb ed="#P" n="86" break="no"/>mo capite primi Ethicorum translationis noue ex 
+          <lb ed="#P" n="87"/>presse ponit: quod prosperitates et aduersitates 
+          ami<lb ed="#P" n="88" break="no"/>corum ad defunctos aliquo modo pertinent: 
+          oppo<lb ed="#P" n="89" break="no"/>situm dicit esse nimis durum: et a legibus amicitie 
+          <lb ed="#P" n="90"/>discedere. ergo ponit animam immortalem. 
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e846">
+          <lb ed="#P" n="91"/>¶ Sed contra hoc arguitur. iii. Phisicorum: et 
+          pri<lb ed="#P" n="92" break="no"/>mo de celo probat ex industria infinitum non esse in 
+          <lb ed="#P" n="93"/>rerum natura: et tenuit. viii. Phisicorum: mundum 
+          <lb ed="#P" n="94"/>fuisse ab eterno: et si anima esset incorruptibililis: 
+          <lb ed="#P" n="95"/>et quilibet homo haberet vnam animam secundum rectam 
+          <lb ed="#P" n="96"/>philosophiam: sequitur quod in diebus Aristotelis de 
+          <lb ed="#P" n="97"/>bebat concedere infinitum actum.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e864">
+          ¶ Respondetur 
+          <lb ed="#P" n="98"/>dupliciciter. primo: maxime impugnauit infinitum 
+          <lb ed="#P" n="99"/>magnitudine: et de corporeis loquutus est. patet 
+          potio<lb ed="#P" n="100" break="no"/>deranti rationes eius in locis allegatis.
+        </p>
+        <p xml:id="jm3cbb-e53661-d1e873">
+          ¶ Secundo: 
+          <lb ed="#P" n="101"/>resctiptum speciale generali derogat. sapiens 
+          po<lb ed="#P" n="102" break="no"/>nit vniuersales propositoneus tanq veras: quia 
+          pau<lb ed="#P" n="103" break="no"/>cisline sunt singulares false: dato quod exceptionem 
+          <lb ed="#P" n="104"/>non faceret. modo ab illa probatione generali / quod 
+          <lb ed="#P" n="105"/>non detur infinitum: in particulari animam intellectiuam 
+          <lb ed="#P" n="106"/>excipit: vt ex locis iam allegatis patuit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

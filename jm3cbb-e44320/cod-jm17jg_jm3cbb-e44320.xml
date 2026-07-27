@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="72-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e44320"><!-- l3d30q1 -->
+        <head xml:id="jm3cbb-e44320-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e44320-Hd1e101" type="question-title">An tenemur diligere inimicos</head>
+        <p xml:id="jm3cbb-e44320-d1e104">
+          <lb ed="#P" n="93"/>Duo in hac distinctione. 30. quaeremus. 
+          Pri<lb ed="#P" n="94" break="no"/>mo an tenemur diligere inimicos. 
+          Se<lb ed="#P" n="95" break="no"/>cundo: an dilectio inimici sit magis 
+          me<lb ed="#P" n="96" break="no"/>ritoria quod dilectio amici.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e115">
+          ¶ Respondetur: 
+          <lb ed="#P" n="97"/>inimicus biphariam capitur. vno modo negatiue: 
+          <lb ed="#P" n="98"/>prepositio in / capitur negatiue: siue contradictorie. 
+          <lb ed="#P" n="99"/>et sic quilibet qui non est amicus / est inimicus. ad 
+          <lb ed="#P" n="100"/>amicum requiritur quod habeat actum vel habitum 
+          <lb ed="#P" n="101"/>amicitie quo tendit in amatum per virtutem: et quia 
+          <lb ed="#P" n="102"/>talem qualitatem non habet: non est amicus: 
+          er<lb ed="#P" n="103" break="no"/>go inimicus contradictorie. Alio modo capitur 
+          ini<lb ed="#P" n="104" break="no"/>micus contrarie: pro illo qui habet actum odii es 
+          <lb ed="#P" n="105"/>malum erga alium. qui odit alterius vicium et 
+          ini<lb ed="#P" n="106" break="no"/>quitatem / non est ei inimicus: et sic in questione 
+          ca<lb ed="#P" n="107" break="no"/>pimus vocabulum.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e141">
+          ¶ Alterius scito: duplex est 
+          <lb ed="#P" n="108"/>bonum. quoddam est spirituale: vt beatitudo: 
+          gra<lb ed="#P" n="109" break="no"/>tia: dilectio deiet proximi propter deum: audire 
+          ver<lb ed="#P" n="110" break="no"/>bum dei: et huiusmodi. Alia sunt bona que 
+          indiffe<lb ed="#P" n="111" break="no"/>renter possunt ordinari ad salutem et ad 
+          opposi<lb ed="#P" n="112" break="no"/>tum: vt opes sanitas: pulchritudo.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e155">
+          ¶ His 
+          premis<lb ed="#P" n="113" break="no"/>sis pono conclusiones: quarum / Prima est: 
+          nemo<lb ed="#P" n="114" break="no"/>tenetur diligere inimicum. probatur hec 
+          conclu<lb ed="#P" n="115" break="no"/>sio: nemo tenetur diligere inimicitiam et malum 
+          <lb ed="#P" n="116"/>culpe. sed illa per inimicum importantur: et terminus 
+          <lb ed="#P" n="117"/>inimicum / sequitur dictionem importantem actum 
+          animi<lb ed="#P" n="118" break="no"/>interiorem. hoc modo intellexit psal. praeto. ciii. inquiens: 
+          <pb ed="#P" n="73-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>deficiant peccatores aterra iniqui: ita vt non sint. 
+          <lb ed="#P" n="2"/>et perfecto odio oderam illos.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e179">
+          ¶ Secunda conclusio 
+          <lb ed="#P" n="3"/>loquendo de substantia inimici: quilibet tenetur non 
+          <lb ed="#P" n="4"/>odire: vel nolle bona spiritualia conuenire viro qui 
+          <lb ed="#P" n="5"/>est inimicus. probatur conclusio: nemo potest nolle de viatore 
+          <lb ed="#P" n="6"/>quod diligat deum: nec quod non tendat ad beatitudinem: 
+          <lb ed="#P" n="7"/>quia hoc non stat cum dilectione proximi et dei. non 
+          <lb ed="#P" n="8"/>debemus nolle deum diligi ab aliquo cuius dilectio 
+          <lb ed="#P" n="9"/>non cognoscitur esse deo ingrata.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e197">
+          ¶ Secundo sic 
+          argu<lb ed="#P" n="10" break="no"/>itur: nullus proximus est odiendus: inimicus est 
+          pro<lb ed="#P" n="11" break="no"/>ximus ex dictis in distinctone. xxviii. igitur. 
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e204">
+          <lb ed="#P" n="12"/>¶ Tertia conclusio: possum nolle inimico bona 
+          for<lb ed="#P" n="13" break="no"/>tune / sanitatem / et huiusmodi indifferentia ad vitam 
+          spi<lb ed="#P" n="14" break="no"/>ritualem: si iudicem illa ei conducere. probatio. 
+          pos<lb ed="#P" n="15" break="no"/>sum illa nolle michi: ergo et ei. consequentia est no 
+          <lb ed="#P" n="16"/>ta cum antecedente. Insuper: ipse potest illa rationa 
+          <lb ed="#P" n="17"/>biliter nolle sibi: ergo et ego licite possum nolle 
+          il<lb ed="#P" n="18" break="no"/>la bona sibi. antecedens patet: indicat quod talia 
+          bona<lb ed="#P" n="19" break="no"/>sunt inutilia sue saluti: et eum impediunt a 
+          spirituali<lb ed="#P" n="20" break="no"/>executone. multo plures in prosperitatibus cadunt / 
+          <lb ed="#P" n="21"/>quod in aduersitatibus. cadenta latere duo mille: a dex 
+          <lb ed="#P" n="22"/>tris decem milia: per latus / aduersitas: per dexte 
+          <lb ed="#P" n="23"/>ram / prosperitas intelligitur. et Deutrono. xxxii. 
+          <lb ed="#P" n="24"/>incrallatus est dilectus et recalcitrauit: et dereliquit 
+          <lb ed="#P" n="25"/>deum factorem suum. et psalmista pristo. xv. 
+          multiplica<lb ed="#P" n="26" break="no"/>te sunt infirmitates eorum: postea accelerauerunt. 
+          <lb ed="#P" n="27"/>Et Ozee. vi. in tribulatione sua mane cosurgent: 
+          <lb ed="#P" n="28"/>hoc est per morborum et erumnarum multiplicationem 
+          <lb ed="#P" n="29"/>repente ad domm cucurrerunt. Insuper: et si inimicus 
+          <lb ed="#P" n="30"/>potest bona temporalia tenere cum animme sue salute: 
+          ta<lb ed="#P" n="31" break="no"/>men licite potest illa contennere propter deum: et nol 
+          <lb ed="#P" n="32"/>le ea sibi inesse: et placere in plagaet perditione 
+          ani<lb ed="#P" n="33" break="no"/>malium eius: gratanter acceptando: ergo ego possum 
+          <lb ed="#P" n="34"/>hoc ei veile. Insuper: possum licite velle: quod 
+          inimi<lb ed="#P" n="35" break="no"/>cus sit religiosus: quo facto: est incapax bonorum 
+          <lb ed="#P" n="36"/>fortune: et possum velle efficaciter antecedens: et bonitatem 
+          <lb ed="#P" n="37"/>consequentie: ergo velle consequens directe vel 
+          indi<lb ed="#P" n="38" break="no"/>recte.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e265">
+          ¶ Quarta conclusio: non licet inimico velle ab 
+          <lb ed="#P" n="39"/>solute mortem temporalem. patet: inimicus est in 
+          pec<lb ed="#P" n="40" break="no"/>cato / alias non est amplius inimicus de quo 
+          lo<lb ed="#P" n="41" break="no"/>quimur: et tunc sic: dato opposito conclusionis: 
+          lice<lb ed="#P" n="42" break="no"/>ret velle quod tolleretur ab alio locus penitentie 
+          <lb ed="#P" n="43"/>et redeundi ad deum: quia mortale in alio seculo non 
+          <lb ed="#P" n="44"/>deseritur: dictum est absolute: quia quis potest velle 
+          con<lb ed="#P" n="45" break="no"/>ditionaliter alicui malo mortem: vtpote si sic sit per 
+          <lb ed="#P" n="46"/>seueraturus de malo in peius finaliter: tunc potest 
+          <lb ed="#P" n="47"/>quis optare tali mortem: et vt locum det sanctis quaes 
+          <lb ed="#P" n="48"/>impedit: vel ne peccatis peccata grauiora addat: 
+          <lb ed="#P" n="49"/>et sit peior: et grauius post mortem puniatur. 
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e291">
+          <lb ed="#P" n="50"/>¶ Quinta conclusio: diligere inimicum in 
+          generali<lb ed="#P" n="51" break="no"/>est de necessitate salutis: non autem in speciali: nisi 
+          <lb ed="#P" n="52"/>vbi apparet necessitas. hec conclusio est trimembris 
+          <lb ed="#P" n="53"/>Prima pars probatur: debeo diligere deum et proximum 
+          <lb ed="#P" n="54"/>meum: sed ab ista generalitate non est excludendus 
+          <lb ed="#P" n="55"/>inimicus: cum est de numero proximorum. Secunda 
+          <lb ed="#P" n="56"/>pars patet: non teneor quemlibet amicum in 
+          specia<lb ed="#P" n="57" break="no"/>li diligere: ergo nec inimicum. tenet consequentia. 
+          <lb ed="#P" n="58"/>non teneor per legem plus diligere inimicum quam 
+          ami<lb ed="#P" n="59" break="no"/>cum. antecedens patet: non teneor cogitare de amico in 
+          spe<lb ed="#P" n="60" break="no"/>ciali / forte non in anno / fortasse nec in septennio / vei 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>nunquam: ergo nec de inimico. et voluntas non potest 
+          <lb ed="#P" n="62"/>suum actu habere circa inimicum in particulari / 
+          ni<lb ed="#P" n="63" break="no"/>si intellectus prehabuerit suum actum etiam in 
+          par<lb ed="#P" n="64" break="no"/>ticulari circa idem. Tertia pars patet: vbi 
+          necessi<lb ed="#P" n="65" break="no"/>tas corporalis vel spiritualis occurrit: vtpote 
+          mo<lb ed="#P" n="66" break="no"/>ritur / nisi ei succurram: et possum ei succurrere vita 
+          <lb ed="#P" n="67"/>mea salua: teneor ei succurrere. similitur: video / 
+          ma<lb ed="#P" n="68" break="no"/>le sentit in fide: vel procedit in alio peccato 
+          morta<lb ed="#P" n="69" break="no"/>li in quo discedet et damnabitur: et nullum alium video 
+          <lb ed="#P" n="70"/>a me ad eum liberandum a peccato: in illo casu tene 
+          <lb ed="#P" n="71"/>or eum liberare: vel facere quod in me est / ad eum 
+          <lb ed="#P" n="72"/>liberandum: quod si non fecero: non teneor ordinem 
+          <lb ed="#P" n="73"/>charitatis. et patet istud iterato modo. Ioannes 
+          <lb ed="#P" n="74"/>miratur quomodo aliquis habens substantiam huius 
+          <lb ed="#P" n="75"/>mundi: et videt fratrem suum necessitatem habentem: 
+          <lb ed="#P" n="76"/>e ei non succurrit: si charitas manet in eo: Prime 
+          <lb ed="#P" n="77"/>Ioannis. iii. ac si diceret: non manet in eo. dicere 
+          op<lb ed="#P" n="78" break="no"/>positum innuit / est ei mirabile et inopinabile: et a 
+          <lb ed="#P" n="79"/>fortiori in culpa mortali liberandus est: cum inimi 
+          <lb ed="#P" n="80"/>cus sit michi proximus.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e364">
+          ¶ Preterea: oramus pro 
+          om<lb ed="#P" n="81" break="no"/>nibus in ecclesia: et ecclesiam decet sic orare. et non ex 
+          <lb ed="#P" n="82"/>cludit inimicum: ergo pro eo orandum est. Insuper: in 
+          <lb ed="#P" n="83"/>corpore vero stomachus ille esset malus qui 
+          nolu<lb ed="#P" n="84" break="no"/>it cibum assumptum manui vel pedi applicare: etiam 
+          <lb ed="#P" n="85"/>dato quod stomachum offendissent: ergo in corpere 
+          misti<lb ed="#P" n="86" break="no"/>co ille esset malus / qui orationem suam vellet 
+          abinimi<lb ed="#P" n="87" break="no"/>co subtrahere. Et veritas Matthei. v. diligite ini 
+          <lb ed="#P" n="88"/>micos vestros.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e384">
+          ¶ Contra quartam conclusionem 
+          ar<lb ed="#P" n="89" break="no"/>guitur: in causa criminali actor procedit contra reum 
+          <lb ed="#P" n="90"/>ad mortem. similiter iudex secundum allegata et probata: 
+          <lb ed="#P" n="91"/>potissimum vera: potest sententiare quod criminosus 
+          vl<lb ed="#P" n="92" break="no"/>timo supplicio plectatur. ergo tam actor quam iudex 
+          vo<lb ed="#P" n="93" break="no"/>lunt reum occidi.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e397">
+          ¶ Secundo: possum velle turcarum 
+          <lb ed="#P" n="94"/>principem de medio esse sublatum: vel vnum 
+          hereticum<lb ed="#P" n="95" break="no"/>perturbantem pacem ecclesie quam citius debeo dilige 
+          <lb ed="#P" n="96"/>re quam turcarum principem: vel hunc hereticum citius 
+          <lb ed="#P" n="97"/>debeo diligere bonum commune eccleie quam bonum 
+          priua<lb ed="#P" n="98" break="no"/>tum istius persone. ergo si pax ecclesie (que est eius 
+          bo<lb ed="#P" n="99" break="no"/>num) non potest stare cum vita huius heretici: volem 
+          <lb ed="#P" n="100"/>dum est bonum priuatum non esse: vt saluetur bonum 
+          <lb ed="#P" n="101"/>comue. nam delictum persone non debet in 
+          detrimen<lb ed="#P" n="102" break="no"/>tum ecclesie redundare.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e419">
+          ¶ Respondetur concedendo 
+          <lb ed="#P" n="103"/>quod ista non sunt ominno pure volita: sed volita cum 
+          <lb ed="#P" n="104"/>quadam displicibili. actor nolit quod reus contra eum vel 
+          <lb ed="#P" n="105"/>suos peccauerit: vt mereatur occidi. similiter vult 
+          <lb ed="#P" n="106"/>vel velle debet iudex. sed tamen ambo querunt et 
+          exe<lb ed="#P" n="107" break="no"/>quuntur iusticiam: vt bene sit reipublice. sic de 
+          hereti<lb ed="#P" n="108" break="no"/>co et turcorum principe. nolem quod turcus inquietaret 
+          <lb ed="#P" n="109"/>ecclesiam: vel quod hereticus parturbaret ecclesiam sed 
+          vo<lb ed="#P" n="110" break="no"/>lo eos tolli de rerum natura ratione demeritorum: 
+          <lb ed="#P" n="111"/>que michi displicent esse in eis: et hoc non est pure 
+          <lb ed="#P" n="112"/>spontaneum.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e443">
+          ¶ Contra quintam conclusionem arguitur 
+          <lb ed="#P" n="113"/>Matthei. v. audistis quod dictum est antiquis / 
+          dili<lb ed="#P" n="114" break="no"/>ges amicum tuum / et odio habebis inimicum tuum: ergo 
+          li<lb ed="#P" n="115" break="no"/>cet prosequi inimicum odio.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e452">
+          ¶ Confirmatur hec 
+          au<lb ed="#P" n="116" break="no"/>ctoritas ratione. natura non inclinat in contrarium 
+          <lb ed="#P" n="117"/>charitatis. sed quelibet res naturalis odit cont 
+          ra<lb ed="#P" n="118" break="no"/>rium. patet in elementis in brutis: sed inimicus est 
+          <lb ed="#P" n="119"/>contrarius bono cui debet esse amicus: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e464">
+          <lb ed="#P" n="120"/>¶ hespondetur: Pharisei male interpretati sunt 
+          <pb ed="#P" n="73-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>varios passus scripture. scriptum erat Leuitici. xix. 
+          <lb ed="#P" n="2"/>diligere amicum. pharisei per locum a contrario 
+          <lb ed="#P" n="3"/>sensu / inferebant: ergo inimicus est odiendus. sed 
+          <lb ed="#P" n="4"/>locus a contrario sensu nunquam valet: quando absurditas 
+          <lb ed="#P" n="5"/>ex modo inferendi infertur: et intentoe dicti affiratiui non ex 
+          <lb ed="#P" n="6"/>cipitur: vt in regula. b. besendicti: quaedrupedalia animmalia 
+          <lb ed="#P" n="7"/>prohibentur. non sequitur propterea quod bipedia 
+          delicati<lb ed="#P" n="8" break="no"/>ora admittantur. nullibi in lege inuenerunt quod 
+          inimici<lb ed="#P" n="9" break="no"/>erant odiendi: propterea saluator ex industria 
+          dice<lb ed="#P" n="10" break="no"/>bat: audistis quia dictum est antiquis: non dixit scriptum 
+          <lb ed="#P" n="11"/>est: dictum enim erat a male exponentibus 
+          scriptu<lb ed="#P" n="12" break="no"/>ram.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e499">
+          ¶ Ad secundum respondetur: charitas incliat 
+          <lb ed="#P" n="13"/>in odium inimicicie: sed non in substantiam odium 
+          <lb ed="#P" n="14"/>habentis. diligenda est substantia ad imaginem 
+          dei<lb ed="#P" n="15" break="no"/>creata: et odienda eius iniquitas. superius dictum 
+          <lb ed="#P" n="16"/>est quod charitas non semper inclinat conformiter ad 
+          <lb ed="#P" n="17"/>malam naturam vel voluntatem.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e512">
+          ¶ Tertio arguitur. 
+          <lb ed="#P" n="18"/>cio vnum inimicum qui nunquam aliquid boni 
+          michi<lb ed="#P" n="19" break="no"/>fecit. arguitur sic: si debeam substantiam talis inimi 
+          <lb ed="#P" n="20"/>ci diligere: hoc est propterea / quia est michi proximus. 
+          <lb ed="#P" n="21"/>quem debeo diligere sicut meipsts. sed hoc est falsum non est 
+          <lb ed="#P" n="22"/>mihi proximus: ergo non debeo eum diligere. tenet consequentia a tota 
+          <lb ed="#P" n="23"/>conditioali cum destructione consequentis ad destructionem 
+          <lb ed="#P" n="24"/>antecedentis. antecedens patet. ille solus est michi 
+          pro<lb ed="#P" n="25" break="no"/>ximus / qui michi minam fecit. Luce. x. cum phariseus 
+          <lb ed="#P" n="26"/>interrogaret / quis est meus pximus: recitata 
+          pera<lb ed="#P" n="27" break="no"/>bolaa saluatore: quesiuit a phariseo / quis horum 
+          <lb ed="#P" n="28"/>trium videtur tibi proximus fuisse. illi qui incidit in 
+          la<lb ed="#P" n="29" break="no"/>trones: cui phariseus respondit: qui fecit 
+          mificor<lb ed="#P" n="30" break="no"/>diam cum illo: quod veritas approbauit.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e543">
+          ¶ Quarto 
+          <lb ed="#P" n="31"/>arguitur: amicus est diligendus: ergo inimicus est 
+          o<lb ed="#P" n="32" break="no"/>diendus. consequentia tenet in seipsis: per aristotelem. ii. 
+          tho<lb ed="#P" n="33" break="no"/>picorum.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e552">
+          ¶ Ad tertium dicitur: proximus est relatiuum 
+          <lb ed="#P" n="34"/>equiparantie. quilibet cuilpossum benefacere est 
+          mi<lb ed="#P" n="35" break="no"/>chi proximus: quod ex responsione christi conuincitur. ad 
+          pha<lb ed="#P" n="36" break="no"/>riseum dicebat: vade tu / efac similiter: hoc est quilibbet 
+          <lb ed="#P" n="37"/>cui potes benefacere / est tibi proximus.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e563">
+          ¶ Ad 
+          quar<lb ed="#P" n="38" break="no"/>tum dicitur: quod regula illa non intelligitur nisi de 
+          con<lb ed="#P" n="39" break="no"/>trariis praecisis: hoc est vbi non ambo contraria ex 
+          <lb ed="#P" n="40"/>vna parte subsunt vni extremo alterius contrarie 
+          <lb ed="#P" n="41"/>tatis. modo sub ratione diligibilis / continetur tam amicus 
+          <lb ed="#P" n="42"/>quam inimicus. eadem ratio diligibilitatis est in vtroque 
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e577">
+          <lb ed="#P" n="43"/>¶ Quinto arguitur: si aliquis occidit fratrem meum 
+          <lb ed="#P" n="44"/>vel lesit: quero iusticiam: et ei querenti veniam non perco: 
+          <lb ed="#P" n="45"/>sed in foro exteriori procedo vt occidatur: et hoc 
+          li<lb ed="#P" n="46" break="no"/>cite. alioquin innumeros damnabis actores: tam in 
+          <lb ed="#P" n="47"/>causa criminali quam ciuili.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e590">
+          ¶ Sexto arguitur tertii 
+          re<lb ed="#P" n="48" break="no"/>gum. vii. super illud: fecit quoque mare: dicit glosa de 
+          <lb ed="#P" n="49"/>cem preceptis in lege domins omnia que facere debemus ex 
+          <lb ed="#P" n="50"/>pressit: sed istic non est aliquod preceptum de 
+          dilecti<lb ed="#P" n="51" break="no"/>one inimici: igitur.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e601">
+          ¶ Respondetur ad quintum: 
+          tene<lb ed="#P" n="52" break="no"/>orsub pena peccati non odire eum. quero quatenus 
+          <lb ed="#P" n="53"/>iusticia fiat / vt innocentes viuere possint: et non 
+          tur<lb ed="#P" n="54" break="no"/>bari a sontibus: et expedit ei vt puniatur si 
+          patien<lb ed="#P" n="55" break="no"/>ter assumat penam pro delicto: quero hociim eius 
+          rei<lb ed="#P" n="56" break="no"/>publice emendationem:et preseruationem ceterorum: ne 
+          <lb ed="#P" n="57"/>ausu temerario talia committant. facilitas 
+          remittendi<lb ed="#P" n="58" break="no"/>est cam delinquendi. rogabo pro anima sua si occidatur: oram 
+          <lb ed="#P" n="59"/>do in generali pro aliis. si quero zelo vindicte et non 
+          ze<lb ed="#P" n="60" break="no"/>lo iusticie emendam reit reipublice: male ago: et pec¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>co contra reum. Sed si quis me offenderit iniuste 
+          ver<lb ed="#P" n="62" break="no"/>bo vel facto: an signa amicicie debeam ei ostendere 
+          <lb ed="#P" n="63"/>rogas: Respondetur: non teneor plura signa 
+          ami<lb ed="#P" n="64" break="no"/>cicie ei facere quam tenebar facere ei et nudiustertius: 
+          <lb ed="#P" n="65"/>antequam me iniuste. lesit. et si pauciora ei faciam 
+          soli<lb ed="#P" n="66" break="no"/>to: ita quod ipse et alii hoc deprehendant: et exist imant 
+          <lb ed="#P" n="67"/>hoc alteri conducere ad eius emendationem ) 
+          pau<lb ed="#P" n="68" break="no"/>ciora amicicie indicia ei demonstrando. si credant 
+          <lb ed="#P" n="69"/>me / ipse autem alii signa rancoris tenere erga eum 
+          qui<lb ed="#P" n="70" break="no"/>me lesit: teneor eos non scandalizare: sed prebere 
+          <lb ed="#P" n="71"/>bonum exemplum: et ostendere me non habere 
+          ranco<lb ed="#P" n="72" break="no"/>rem in corde: et eum verbo et facto resalutare: et 
+          salu<lb ed="#P" n="73" break="no"/>tare primo: si eius status id exigat. consideret 
+          le<lb ed="#P" n="74" break="no"/>sus / quonam pacto grandes faciunt communiter homines 
+          par<lb ed="#P" n="75" break="no"/>uas niurias contra se factas: et nichil faciunt 
+          iniu<lb ed="#P" n="76" break="no"/>rias maiores quas contra alios faciunt: quia nimis in 
+          <lb ed="#P" n="77"/>ordinate homines sibi afficiuntur: et reputant se 
+          ma<lb ed="#P" n="78" break="no"/>gnos in oculis suis: vt tendat ad contrarium 
+          humi<lb ed="#P" n="79" break="no"/>liatio: se iudicans quod erat dignus tali offensa: et 
+          ma<lb ed="#P" n="80" break="no"/>iore. et quicquid sit: parcat ei amore dei: qui pro 
+          occi<lb ed="#P" n="81" break="no"/>soribus orauit: dicens: pater dimitte illis: quod 
+          ste<lb ed="#P" n="82" break="no"/>phanus et viri dei fecerunt. et in oratione 
+          domini<lb ed="#P" n="83" break="no"/>ca / docuit nos orantes dicere: dimitte nobis 
+          de<lb ed="#P" n="84" break="no"/>bita nostra: sicut et nos dimittimus debitoribus no 
+          <lb ed="#P" n="85"/>stris. consulo offenso in casu indifferenti relinquat 
+          <lb ed="#P" n="86"/>penam totam in manu dei: et domius premium 
+          da<lb ed="#P" n="87" break="no"/>bit ei: et alteri penam condignam michi vindicta. 
+          <lb ed="#P" n="88"/>et ego retribuam.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e686">
+          ¶ Adsextum dicitur quod glola 
+          mar<lb ed="#P" n="89" break="no"/>ginalis allegata / illud dicit: sed intelligitur in 
+          plu<lb ed="#P" n="90" break="no"/>ribus. sed in proposito / odium inimici / et dilectio 
+          <lb ed="#P" n="91"/>amici / satis virtualiter in preceptis decalogi conti 
+          <lb ed="#P" n="92"/>nentur: quod non occidam proximum: quod res suas non au 
+          <lb ed="#P" n="93"/>feram furto: et ei non noceam.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e699">
+          ¶ Dubitatur: si 
+          sor<lb ed="#P" n="94" break="no"/>tes offendat platonem: an teneatur adire platonem 
+          <lb ed="#P" n="95"/>et veniam petere vt ei ignoscat.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e706">
+          ¶ Respondetur: aut 
+          <lb ed="#P" n="96"/>sortes offendens est notus offendens ipsi Plato 
+          <lb ed="#P" n="97"/>ni offenso: et sic si plato sit presens / sortes debet 
+          <lb ed="#P" n="98"/>eum adire: et veniam petere. patet per dictum 
+          sal<lb ed="#P" n="99" break="no"/>uatoris Mathei. v. si offers munus tuum ad 
+          alta<lb ed="#P" n="100" break="no"/>re: et recordatus fueris / quia frater tuus habet 
+          ali<lb ed="#P" n="101" break="no"/>quid aduersum te: scilicet quod eum lesisti: relinque ibi 
+          mu<lb ed="#P" n="102" break="no"/>nus tuum ante altare: et vade reconciliari prius 
+          fra<lb ed="#P" n="103" break="no"/>tri tuo: et tunc veniens offer munus tuum. Si non 
+          <lb ed="#P" n="104"/>fuerit presens / sufficit habere propositum 
+          petendi<lb ed="#P" n="105" break="no"/>veniam pro loco et tempore. si offonsio sortis sit 
+          <lb ed="#P" n="106"/>Platoni ignota: puta furte abstulit res suas vel 
+          a<lb ed="#P" n="107" break="no"/>liter occulte contra Platonem peccauit: licet factum 
+          <lb ed="#P" n="108"/>sit patens: sortes non tenetur veniam petere de hoc 
+          <lb ed="#P" n="109"/>in particulari: nec ei vllo modo aperire. FFortasse 
+          <lb ed="#P" n="110"/>esset seminarium litis inter eos: et proderet suum 
+          <lb ed="#P" n="111"/>peccatum occultum sine necessitate vel vtilitate. 
+          suf<lb ed="#P" n="112" break="no"/>ficit dolere de peccato et velle efficaciter 
+          satisface<lb ed="#P" n="113" break="no"/>re de omni damno vicino platoni illato.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e749">
+          ¶ Dubita 
+          <lb ed="#P" n="114"/>tur: an liceat male dicere inimicis: vel his qui 
+          no<lb ed="#P" n="115" break="no"/>bis displicent:
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e756">
+          ¶ Respondetur: male dicere est 
+          im<lb ed="#P" n="116" break="no"/>precari et alteri optare malum: non ad emenda 
+          <lb ed="#P" n="117"/>tionem alterius: sed in eius malum. quando quis 
+          <lb ed="#P" n="118"/>optat malo morbum: credens quod per hoc emendabitur: 
+          <lb ed="#P" n="119"/>talis non est maledicus. iracundus commotus / pro 
+          <lb ed="#P" n="120"/>tinus maledicit alteri / malum optando: vtpote demon¬ 
+          <pb ed="#P" n="74-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>frangat tibi collum: vel tibiam. illud est peccatum et 
+          fu<lb ed="#P" n="2" break="no"/>giendu: prime Corin. vi. Neque maledici neque 
+          rapto<lb ed="#P" n="3" break="no"/>res regnum dei possidebunt. Christus et sancati a 
+          maledi<lb ed="#P" n="4" break="no"/>ctione summe abstinebant. vnde petrus in 
+          canoni<lb ed="#P" n="5" break="no"/>casua. i. Petri. ii. Nam christus cum malediceretur non 
+          <lb ed="#P" n="6"/>maledicebat. Et. i. Corinth. iiii. maledicimur 
+          ebe<lb ed="#P" n="7" break="no"/>nedicimus. et Iudas in canonica sua dicit: cum 
+          mi<lb ed="#P" n="8" break="no"/>chael archangelus cum dyabolo disputans 
+          alterca<lb ed="#P" n="9" break="no"/>retur de moysi corpere: non est ausus inferre spiritum 
+          <lb ed="#P" n="10"/>blasphemie. sed dixit: imperet tibi domins. Gregorius. 
+          <lb ed="#P" n="11"/>ii. dyalog. refert: cum famulus cniusdam stephani 
+          pre<lb ed="#P" n="12" break="no"/>sbyteri negligenter ei seruiret: clamauit presbiter 
+          <lb ed="#P" n="13"/>veni dyabole discalcia me: demon statim affuit: et 
+          <lb ed="#P" n="14"/>id fecit. Aefert Augusti. xxi. de ci. dei. de quadam 
+          vi<lb ed="#P" n="15" break="no"/>dua nobili et diuite / septem filios et tres femellas 
+          ha<lb ed="#P" n="16" break="no"/>bente / eis maledicente: et omnes tremore omnim 
+          mem<lb ed="#P" n="17" break="no"/>brorum terribiliter sunt percussi: et inorbem dispersi 
+          omni<lb ed="#P" n="18" break="no"/>bus spectaculum facti miserum. ergo hec maledictio est 
+          ca<lb ed="#P" n="19" break="no"/>uenda.
+        </p>
+        <p xml:id="jm3cbb-e44320-d1e815">
+          ¶ Contra illud arguitur. helyas maledixit 
+          <lb ed="#P" n="20"/>duobus principibus quinquagenariis. iiii. Regum. i. 
+          <lb ed="#P" n="21"/>dicens: si homo dei sum descendat ignis et deuoret 
+          <lb ed="#P" n="22"/>te et quinquaginta tuos Et psalmista psalmo. lxviii 
+          <lb ed="#P" n="23"/>fiat mensa ipsorum ipsis in laqueum. et psalmo. cvii. 
+          <lb ed="#P" n="24"/>Fiant filii eius pupilli: et vxor eius vidua. et 
+          veri<lb ed="#P" n="25" break="no"/>tas in euangelio. Math. xi. Ue tibi corozayn. ve 
+          ti<lb ed="#P" n="26" break="no"/>bi bethsaida. et summo sacerdoti maledixit paulus. 
+          <lb ed="#P" n="27"/>Actuum. xxiii. dicens. percutiat te domins paries 
+          deal<lb ed="#P" n="28" break="no"/>bate. Respondit Augustinus in sermone de monte: 
+          ta<lb ed="#P" n="29" break="no"/>lia dicta sunt per predicationem quid esset futurum: 
+          <lb ed="#P" n="30"/>hoc est predixerunt: non optauerunt. dicit / debent 
+          pro<lb ed="#P" n="31" break="no"/>phete maxime in figura imprecantisfutura predice 
+          <lb ed="#P" n="32"/>re: sicut signa preteriti temperis / ea que futura erant 
+          <lb ed="#P" n="33"/>cecinerunt: sicut est illud / quare freniuerunt gentes. 
+          <lb ed="#P" n="34"/>non dixit / quare frement gentes. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

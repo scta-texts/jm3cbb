@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 12</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 12</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="126-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e76952"><!-- l3d37q12 -->
+        <head xml:id="jm3cbb-e76952-Hd1e99">Quaestio 12</head>
+        <head xml:id="jm3cbb-e76952-Hd1e101" type="question-title">An per peccatum homo possit praeceptum adimplere</head>
+        <p xml:id="jm3cbb-e76952-d1e104">
+          <lb ed="#P" n="49"/>DUdecimo queritur. an 
+          <lb ed="#P" n="50"/>per peccatum homo possit praeceptum 
+          adim<lb ed="#P" n="51" break="no"/>plere.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e113">
+          ¶ Respondetur pertres 
+          conclusi<lb ed="#P" n="52" break="no"/>ones. Quarum prima est: nullus actus 
+          <lb ed="#P" n="53"/>elicitus est bonus et malus moraliter. 
+          Se<lb ed="#P" n="54" break="no"/>cunda conclusio: per peccatum homo potest implere preceptum. 
+          <lb ed="#P" n="55"/>Tertia conclusio: per peccatum homo adimplet praeceptum: 
+          <lb ed="#P" n="56"/>sic scilicet: quod non est amplius obligatus ad illius precepti 
+          <lb ed="#P" n="57"/>obseruationem.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e129">
+          ¶ Prima conclusio probatur: bene 
+          sed<lb ed="#P" n="58" break="no"/>tur: actus voluntatis est bonus moraliter: ergo 
+          ha<lb ed="#P" n="59" break="no"/>bet omnia requisita ad bonitatem moralem: et nichil ma¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>licie habet adiunctum. et bene sequitur: est malus: 
+          er<lb ed="#P" n="61" break="no"/>go deficit aliquid eorum quae requiruntur ad bonitatem 
+          <lb ed="#P" n="62"/>actus vel ponitur circunstantia mala: sed ista omnia non 
+          <lb ed="#P" n="63"/>possunt competere eidem actui.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e148">
+          ¶ Secundo arguitur: iste 
+          <lb ed="#P" n="64"/>actus est bonus moraliter: ergo est dignus aliquo 
+          <lb ed="#P" n="65"/>priemio. et sequitur: est malus: ergo nullo premio est 
+          di<lb ed="#P" n="66" break="no"/>gnus: ista duo consequentia sunt incompossibilia: ergo 
+          <lb ed="#P" n="67"/>et antecedens quod tacite illa inuoluit.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e159">
+          ¶ Secunda 
+          conclu<lb ed="#P" n="68" break="no"/>sio probatur: per istum actum ( demonstrando actum 
+          <lb ed="#P" n="69"/>bonum) homo potest implere praeceptum: iste actus est vel 
+          <lb ed="#P" n="70"/>esse potest peccatum: ergo per peccatum homo 
+          po<lb ed="#P" n="71" break="no"/>test implere preceptum: consequentia cum 
+          premis<lb ed="#P" n="72" break="no"/>sis patet.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e172">
+          ¶ Tertia conclusio patet. si homo velit esse 
+          ba<lb ed="#P" n="73" break="no"/>ptisatus vt adimpleat praeceptum dei de baptismo: et 
+          <lb ed="#P" n="74"/>propter inanem gloriam: et baptisetur. tunc talis est 
+          ba<lb ed="#P" n="75" break="no"/>ptisatus: et est deobligatus ab vlteriore baptismo: quia 
+          <lb ed="#P" n="76"/>hoc sacramentum est initerabile: et requiritur aliquis actus 
+          <lb ed="#P" n="77"/>voluntatis in adulto ad hoc quod suscipiatibaptismum: 
+          <lb ed="#P" n="78"/>et nullum actum habet nisi peccatum: cum actus suus 
+          vo<lb ed="#P" n="79" break="no"/>luntatis habeat partialiter inanem gloriam pro 
+          obie<lb ed="#P" n="80" break="no"/>cto: et hoc copulatiue.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e192">
+          ¶ Preterea arguitur ad idem: 
+          <lb ed="#P" n="81"/>sit sortes in mortali qui tenetur celebrare missam pro 
+          <lb ed="#P" n="82"/>platone: tuncsortes mortaliter peccat: vt patet prime 
+          <lb ed="#P" n="83"/>Corinthiorum. xi. et tamen satisfacit precepto de 
+          lu<lb ed="#P" n="84" break="no"/>crandis sex paruis albis: ergo homo satisfacit 
+          prece<lb ed="#P" n="85" break="no"/>pto per peccatu.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e205">
+          ¶ Insuper: si sortes ieiunet ob 
+          ina<lb ed="#P" n="86" break="no"/>nem gloriam venialem iam ieiunium adimplet: lbet venia 
+          <lb ed="#P" n="87"/>liter peccet. et si dixit horas ante meridiem ob 
+          ina<lb ed="#P" n="88" break="no"/>nem gloriam venialem: non tenetur horas repetere dato 
+          <lb ed="#P" n="89"/>quod sit ante meridiem et habeat tempus sufficiens 
+          dicem<lb ed="#P" n="90" break="no"/>di. ergo non solum in peccato: sed per peccatum 
+          satisfa<lb ed="#P" n="91" break="no"/>cit vni precepto: lbet contra aliud preceptum delinquat. 
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e221">
+          <lb ed="#P" n="92"/>¶ Contra primam conclusionem arguitur sic: idem actus 
+          <lb ed="#P" n="93"/>exterior est bonus et malus simul: ergo idem actus 
+          <lb ed="#P" n="94"/>interior. tenet consequentia: quia probationes conclusionis equaelitur 
+          <lb ed="#P" n="95"/>applicantur exteriori et intiori actui. antcedens patet: idem actus 
+          <lb ed="#P" n="96"/>exterior imperatur a duabus volitionibus quarum altera 
+          <lb ed="#P" n="97"/>est bona altera est mala: vtpote ab istis duabus / 
+          <lb ed="#P" n="98"/>volo dare elemosinam huic proptur deum / et volo dare 
+          <lb ed="#P" n="99"/>elemosinam huic propter inanem gloriam. modo actus 
+          ex<lb ed="#P" n="100" break="no"/>terior non est bonus vel malus nisi denominatione 
+          <lb ed="#P" n="101"/>extrinseca: hoc est: talem denominationem in bonitate 
+          <lb ed="#P" n="102"/>et malicia accipit qualem habet actus intrinsecus a 
+          <lb ed="#P" n="103"/>quo emanat. sed emanat ex duobus actibus volum 
+          <lb ed="#P" n="104"/>tatis quorum alter est bonuse alter malus: vt iam 
+          <lb ed="#P" n="105"/>patuit: igitur.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e255">
+          ¶ Respondetur concedendo antecedens 
+          <lb ed="#P" n="106"/>et negando consequentiam. actus exterior non habet 
+          boni<lb ed="#P" n="107" break="no"/>tatem vel maliciam ex se: sed solum illam quam ab 
+          inte<lb ed="#P" n="108" break="no"/>riori accipit. nec cadit meritum vel premium super exte 
+          <lb ed="#P" n="109"/>riorem. Propterea non est idom: libet similia consequentia 
+          inferri<lb ed="#P" n="110" break="no"/>videantur: vtpote: quod idem actus est dignus praemio et 
+          <lb ed="#P" n="111"/>supplicio: quod concedo de actu exteriori: et concedo 
+          <lb ed="#P" n="112"/>quod habet omnia requisita ad bonitatem moralem exteriorem. sed 
+          <lb ed="#P" n="113"/>non oportet quod careat aliqua bonitate morali 
+          requisi<lb ed="#P" n="114" break="no"/>ta ad actum moraliter bonum: propter negationem 
+          inclu<lb ed="#P" n="115" break="no"/>sam in verbo caret. istud enim dicere oportet: vl 
+          da<lb ed="#P" n="116" break="no"/>re causam quare ille actus exterior est bonus tantum / 
+          <lb ed="#P" n="117"/>vel malus tamteum. potest quis dicere: ille actus precise est 
+          <lb ed="#P" n="118"/>malus. ad eius maliciam sufficit quod imperetur ab ac 
+          u<lb ed="#P" n="119" break="no"/>malo: ad bonitatem requiritur quod imperetur precise ab¬ 
+          <pb ed="#P" n="126-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>actu bono. Plura requiruntur ad bonitatem quod ad 
+          <lb ed="#P" n="2"/>maliciam: ergo facilius aliquid includitur in malo 
+          <lb ed="#P" n="3"/>quam in bono. et inconuenit quod idem actus numero sit 
+          <lb ed="#P" n="4"/>bonus et malus moraliter.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e301">
+          ¶ Secundo argnitur: 
+          odi<lb ed="#P" n="5" break="no"/>um sortis est actus malus et actus bonus: ergo 
+          con<lb ed="#P" n="6" break="no"/>clusio falsa. consequentia liquet cum maiore. et minor patet: 
+          <lb ed="#P" n="7"/>est bonus entitatiue: ergo est bonus.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e310">
+          ¶ Respondetur 
+          <lb ed="#P" n="8"/>negando antecedens. et ad probationem concedo quod est 
+          <lb ed="#P" n="9"/>actus malus: et nullo modo bonus. non sequitur: 
+          <lb ed="#P" n="10"/>est bonus entitatiue: ergo est bonus. arguitur a 
+          di<lb ed="#P" n="11" break="no"/>cto secundum quid ad dictum simpliciter.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e321">
+          ¶ Tertio 
+          ar<lb ed="#P" n="12" break="no"/>guitur: habeat sortes istos duos actus in 
+          volun<lb ed="#P" n="13" break="no"/>tate / volo dare elemosinam pauperi proptur deum 
+          <lb ed="#P" n="14"/>e volo dare elemosinam pauperi perper inanem gloriam. 
+          <lb ed="#P" n="15"/>hemat plato hunc vnum actum / quod vult dare elemosinam 
+          <lb ed="#P" n="16"/>pauperi perper deum et inanem gloriam. hoc supposito arguitur sic: 
+          <lb ed="#P" n="17"/>sortus et plato sunt equalitr boni et mali( omnem aliam 
+          bo<lb ed="#P" n="18" break="no"/>nitatem et maliciam ab istis actibus secludo ab eis). sed 
+          <lb ed="#P" n="19"/>sortes habet vnum actum moralr bonum: ergo et posolo. et plato 
+          <lb ed="#P" n="20"/>habet praecise vnum actum qui est malus: ergo actus suus est bonus et 
+          <lb ed="#P" n="21"/>malus: quod restabat probandum.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e345">
+          ¶ Respondetur: plato est 
+          praeci<lb ed="#P" n="22" break="no"/>se malus. habet actum malum: etnullomodo bonum. sortes est bonus 
+          <lb ed="#P" n="23"/>et malus: demonstrando eum bonum et malum ab actibus 
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e352">
+          <lb ed="#P" n="24"/>¶ Quarto arguitur: habeat sortes istum actum volo facere 
+          <lb ed="#P" n="25"/>hoc vel hoc: per vnum pronomen demonstrando actum 
+          bo<lb ed="#P" n="26" break="no"/>num: per aliud pronomen demonstrando actum 
+          ma<lb ed="#P" n="27" break="no"/>lum: et cadat actus volendi in hus disiunctum equae prio. tunc sic. 
+          <lb ed="#P" n="28"/>iste actus voluntatis est bonus: et idem est malus. quod fit 
+          bo<lb ed="#P" n="29" break="no"/>nus patet: totum obiectum est licitum respectu actus 
+          vo<lb ed="#P" n="30" break="no"/>lendi: cum vna pars sit licita et totum obiectum 
+          dis<lb ed="#P" n="31" break="no"/>iunctim est acceptum. quod actus sit malus patet: habet 
+          pecca<lb ed="#P" n="32" break="no"/>tum pro obiecto.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e375">
+          ¶ Respondetur: ille actus / est bonus vt ratio 
+          ar<lb ed="#P" n="33" break="no"/>guit. et patet amplius: disiunctiua affirmatiua 
+          insequi<lb ed="#P" n="34" break="no"/>tur fortiorem partem sic propositio de disiuncto 
+          extre<lb ed="#P" n="35" break="no"/>mo. eodem modo obiectum disiunctum partem nobiliorem 
+          <lb ed="#P" n="36"/>ponit. opposito modo cum copulatione. et hic potest 
+          <lb ed="#P" n="37"/>esse mixtio de disiuncto et copulato: vt volo fdcere 
+          <lb ed="#P" n="38"/>hoc vel hoc et hoc. et potest esse distinctio secundum quod 
+          assi<lb ed="#P" n="39" break="no"/>gnatur copula principalior: secunde quod potest practicari de 
+          <lb ed="#P" n="40"/>hoc complexo / sortes vel plato et cicero: an sit 
+          termi<lb ed="#P" n="41" break="no"/>nus discretus vel communis.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e397">
+          ¶ Sed one istud arguitur: 
+          homo<lb ed="#P" n="42" break="no"/>est indifferens per istum actum ad bonum et ad malum: 
+          <lb ed="#P" n="43"/>ergo actus suus est malus. consquentia videtur liquere. et 
+          antece<lb ed="#P" n="44" break="no"/>dens patet: et capiatur in terminis primum argumentum 
+          <lb ed="#P" n="45"/>circa hanc materiam: sortes est iuste incarceratus qui 
+          <lb ed="#P" n="46"/>elicit istud velle / ego volo expectare iusticiam vel 
+          <lb ed="#P" n="47"/>occidere custodem carceris iniuste taufugere: ita quod 
+          <lb ed="#P" n="48"/>suus actus voluntatis cadat equa primo super illud 
+          to<lb ed="#P" n="49" break="no"/>tum disiunctum.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e417">
+          ¶ Respondetur: perper indifferentiam ad bonum et 
+          <lb ed="#P" n="50"/>ad malui: disiunctim volendo sicut argumtum poristit: 
+          <lb ed="#P" n="51"/>homo non est malus. sed si indifferens esset homoi bene vel 
+          ma<lb ed="#P" n="52" break="no"/>le agere: tunc illa volitio indifferens esset mala. vel 
+          <lb ed="#P" n="53"/>si quis plus determinaretur ad malum quam ad bonum: 
+          <lb ed="#P" n="54"/>tunc male ageret: et potest adhuc tota responsio 
+          con<lb ed="#P" n="55" break="no"/>firmari: actus datus non est indifferens: quia 
+          suppo<lb ed="#P" n="56" break="no"/>nimus nullum talem esse: et si sit ali quis: iste non 
+          <lb ed="#P" n="57"/>erit de numero eorum et non videtur vnde 
+          traha<lb ed="#P" n="58" break="no"/>tur malicia actus: ergo actus est bonus. sed dicis: hoc 
+          re<lb ed="#P" n="59" break="no"/>pu znat nuperrime dictis de actu exteriori. quem 
+          <lb ed="#P" n="60"/>dixi malum perper causam illic dictam: respondetur non tenui hoc 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>pro principali solutione: sed imaginationem adieci. 
+          <lb ed="#P" n="62"/>e illam tenendo: dico non esse simile: quia iiconueniens 
+          <lb ed="#P" n="63"/>reputabitur / quod idem actus singularis sit bonus et malus. 
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e452">
+          <lb ed="#P" n="64"/>¶ Quinto arguitur. prohibeat deus sorti elicere actum 
+          intem<lb ed="#P" n="65" break="no"/>sum vt duo: et precipiat ei elicere intensum vt vnum: 
+          <lb ed="#P" n="66"/>circa dilectionem proximi eliciat sortes actum intesum 
+          <lb ed="#P" n="67"/>vt duo. tunc sic. ille actus est malus ex casu: et 
+          ideni<lb ed="#P" n="68" break="no"/>est bonus: quod patet: vna medietas actus est bona: 
+          <lb ed="#P" n="69"/>et non est maior ratio de vna quam de alia: erao vtraque 
+          me<lb ed="#P" n="70" break="no"/>dictas est bona. Insuper: nisi sic / daretur aliquis actus 
+          <lb ed="#P" n="71"/>malus cuius non quaelibet pars esset mala sed hoc est film. 
+          <lb ed="#P" n="72"/>quelbet pars secundum intensionem peccati mortalis est 
+          <lb ed="#P" n="73"/>peccatum mortale: et quelbet pars peccati venialis est 
+          <lb ed="#P" n="74"/>peccatum veniale. vel prohibeat deus actum itensun 
+          <lb ed="#P" n="75"/>vt duo: et admittat actum citra duo licitum. tunc 
+          da<lb ed="#P" n="76" break="no"/>bitur vnum peccatum mortale cuius quelibet pers erit 
+          lici<lb ed="#P" n="77" break="no"/>ta.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e485">
+          ¶ Aespendetur: cum occlusti sunt actus voluntatis: et 
+          fu<lb ed="#P" n="78" break="no"/>giant nos actuum gradus: non solet contingere talis 
+          ca<lb ed="#P" n="79" break="no"/>sus sicut argumentum imaginatur: sed casu admisso: si 
+          <lb ed="#P" n="80"/>daretur sorti noticia graduum: tunc si sortes eliciat 
+          <lb ed="#P" n="81"/>sucossiue totum illum actum: actus erit bonus semper 
+          <lb ed="#P" n="82"/>citra duo: et quam primum erit intensus vt duo: totus 
+          <lb ed="#P" n="83"/>actus erit maius: et pers bona. et libet vtraque medietas sit 
+          <lb ed="#P" n="84"/>bona: totus actus erit malus. et si dicas vtraque 
+          medie<lb ed="#P" n="85" break="no"/>tas est actus bonus: ergo ille actus est bonus. arguatur sic: iste 
+          <lb ed="#P" n="86"/>due medietates vel isti duo gradus sunt actus / boni: et 
+          <lb ed="#P" n="87"/>isti duo gradus sunt ille actus. erao ille actus est bonus. 
+          <lb ed="#P" n="88"/>respondetur: non sequitur. sed solum iste actus est actus boni. 
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e511">
+          <lb ed="#P" n="89"/>¶ Sed si totus actus tuisset elicitus / in instanti: totus 
+          <lb ed="#P" n="90"/>fuisset malus: et pers bona: nec inconuenit quod totus 
+          <lb ed="#P" n="91"/>actus sit malus et pers bona. totus actus est prohibitus: 
+          <lb ed="#P" n="92"/>et pers non prohibita. secus est de actu malo secundum legem 
+          <lb ed="#P" n="93"/>iam positam cadente in obiectum indebitum vel habennte 
+          <lb ed="#P" n="94"/>circunstantias indebitas. si ille actus est malus: quelet 
+          <lb ed="#P" n="95"/>pers eius est mala. secus est hic. Et similis difficultas 
+          <lb ed="#P" n="96"/>ferme potest moueri lege stante. Si quis existimet quod 
+          <lb ed="#P" n="97"/>quis peccet nimis intense diligendo proximum: 
+          <lb ed="#P" n="98"/>et credat bene agere diligendo eum remisse: sicut 
+          <lb ed="#P" n="99"/>climiton: lbet male opinetur. capiatur aliquis opinio 
+          <lb ed="#P" n="100"/>nis climitonis. et ducatur argumentum in illo 
+          qui<lb ed="#P" n="101" break="no"/>habet conscientiam quod totus actus suus est malus et ps 
+          <lb ed="#P" n="102"/>eius est bona: in casu illo actus ille totus con 
+          conscien<lb ed="#P" n="103" break="no"/>tiam continuatus dicitur malus a stulto iudicio: et 
+          ac<lb ed="#P" n="104" break="no"/>tus partialis est bonus. pars actus non habet maliciam 
+          <lb ed="#P" n="105"/>ab obiccto vel circunstantiis nec a conscientia 
+          er<lb ed="#P" n="106" break="no"/>ronea. sed ex dictis ad argumentum respondere 
+          po<lb ed="#P" n="107" break="no"/>tes.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e556">
+          ¶ Sexto arguitur: habeat sortes hunc actum / 
+          <lb ed="#P" n="108"/>vellem occidere platonem auctoritate propria 
+          si<lb ed="#P" n="109" break="no"/>non esset prohibitum a deo. arguitur sic: iste 
+          actus<lb ed="#P" n="110" break="no"/>est bonus et malus: ergo propositum. est actus 
+          liber<lb ed="#P" n="111" break="no"/>voluntatis: et non indifferens: ergo est bonus vel 
+          <lb ed="#P" n="112"/>malus. Q sit malus patet: est volitio cadens super 
+          <lb ed="#P" n="113"/>homicidium. modo velle occidere hominem aucto 
+          <lb ed="#P" n="114"/>ritate propria est malum. Sed contra. totum suum 
+          <lb ed="#P" n="115"/>obiectum non est malum: ergo ille actus non est 
+          ma<lb ed="#P" n="116" break="no"/>lus. Item: ille actus non habet velle caihegoricum 
+          <lb ed="#P" n="117"/>in homicidium nec vnquam est imperatiuus 
+          homici<lb ed="#P" n="118" break="no"/>dii: igitur. Similiter potest argui de isto actu: 
+          vo<lb ed="#P" n="119" break="no"/>lo penitere si peccem.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e585">
+          ¶ Respondetur: aliqui acius 
+          <lb ed="#P" n="120"/>possunt habere obiecta conditionalia vel conditi¬ 
+          <pb ed="#P" n="127-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>onata. patet: Quicquid intellectus habet pro 
+          suo<lb ed="#P" n="2" break="no"/>obiecto / voluntas potest habere pro suo obiecto: 
+          <lb ed="#P" n="3"/>sed intellectus potest habere tale obiectum 
+          condi<lb ed="#P" n="4" break="no"/>tionale pro suo obiecto apprehenso: ergo voluntas 
+          <lb ed="#P" n="5"/>potest tale obiectum habere volendo vel nolendo. 
+          <lb ed="#P" n="6"/>hoc supposito patet aliquos tales actus esse bonos: 
+          <lb ed="#P" n="7"/>vt vellem dare elemosinam si haberem pecuniam: 
+          <lb ed="#P" n="8"/>nollem male agere si possem: si peccem peintebo: 
+          <lb ed="#P" n="9"/>si bene ago placebit. De aliquibus actibus est 
+          du<lb ed="#P" n="10" break="no"/>bium: vtpote de actu assumpto in argumento: vel 
+          <lb ed="#P" n="11"/>lem occidere hominem si non esset prohibitum: 
+          <lb ed="#P" n="12"/>nollem succurrere huic inimico meo si non esset 
+          pro<lb ed="#P" n="13" break="no"/>hibitum: et adhuc dico tales actus esse bonos. actus 
+          <lb ed="#P" n="14"/>cadit in obiectum totale licitum: nec ponitur aliquid 
+          <lb ed="#P" n="15"/>aliud ratione cuius actus debet reddi malus: igitur. 
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e627">
+          <lb ed="#P" n="16"/>¶ Contra secundam conclusionem arguitur. 
+          per<lb ed="#P" n="17" break="no"/>peccatum homo potest adimplere preceptum: 
+          po<lb ed="#P" n="18" break="no"/>natur in esse: tunc homo per peccatum adimplet 
+          <lb ed="#P" n="19"/>preceptum.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e638">
+          ¶ Respondetur: quicquid sit de 
+          conclu<lb ed="#P" n="20" break="no"/>sione male ponitur in esse per iliam. sua de in esse 
+          <lb ed="#P" n="21"/>est ista: per hoc homo adimplet preceptum. ex hac 
+          <lb ed="#P" n="22"/>conclusione nullomodo habetur quod homo 
+          adim<lb ed="#P" n="23" break="no"/>plet praeceptum per peccatum.
+        </p>
+        <p xml:id="jm3cbb-e76952-d1e649">
+          ¶ Contra tertiam 
+          con<lb ed="#P" n="24" break="no"/>clusionem possunt fieri argumenta: vt si quis 
+          di<lb ed="#P" n="25" break="no"/>stracte dicat horas non satisfaciat praecepto de 
+          dicem<lb ed="#P" n="26" break="no"/>dis horis. Similiter: si quis dicat horas propter 
+          <lb ed="#P" n="27"/>pessimum finem mortalem: non tenetur eas repetere: 
+          <lb ed="#P" n="28"/>licet tempus dicendi habeat. Similiter peccatum 
+          <lb ed="#P" n="29"/>erit opus satisfactorium. huiusmodi inferri possunt. sed 
+          <lb ed="#P" n="30"/>dicas consequenter prout tibi dicendum videbitur. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

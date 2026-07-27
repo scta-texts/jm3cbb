@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 17</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 17</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="130-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e79701"><!-- l3d37q17 -->
+        <head xml:id="jm3cbb-e79701-Hd1e99">Quaestio 17</head>
+        <head xml:id="jm3cbb-e79701-Hd1e101" type="question-title">An cadat perplexitas inter praecepta decalogi</head>
+        <p xml:id="jm3cbb-e79701-d1e104">
+          <lb ed="#P" n="73"/>¶ Questio. xvii. 
+          <lb ed="#P" n="74"/>QUeritur 
+          decimose<lb ed="#P" n="75" break="no"/>ptimo an cadat perplexitas int 
+          <lb ed="#P" n="76"/>praecepta decalogi: et velius 
+          ma<lb ed="#P" n="77" break="no"/>teriam prosequendo an cadat 
+          <lb ed="#P" n="78"/>prplexitas in lege: sic scilicet: quod quic 
+          <lb ed="#P" n="79"/>quid homo facit non potest eui 
+          <lb ed="#P" n="80"/>tare nouum peccatum.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e124">
+          ¶ 
+          Le<lb ed="#P" n="81" break="no"/>spondetur negatiue. probatio: opposito dato sequi 
+          <lb ed="#P" n="82"/>tur quod homo obligaretur ad impossiblile vi legis: 
+          <lb ed="#P" n="83"/>et per consequens non meretur dici lex.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e133">
+          ¶ Contra 
+          <lb ed="#P" n="84"/>hanc conclusionem arguitur. xiii. distinctione 
+          di<lb ed="#P" n="85" break="no"/>cit Gratianus. c. primo. Item aduersus naturale 
+          <lb ed="#P" n="86"/>ius nulla dispensatio admittitur: nisi forte duo 
+          ma<lb ed="#P" n="87" break="no"/>la ita vrgeant vt alterum eorum necesse sit eligi: 
+          er<lb ed="#P" n="88" break="no"/>go homo necessitatur in illo casu peccare: et sic erit 
+          <lb ed="#P" n="89"/>perplexus.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e150">
+          ¶ Secundo arguitur. sit preceptum dei 
+          <lb ed="#P" n="90"/>de a. faciendo: et conscientia viri in oppositum: tunc 
+          <lb ed="#P" n="91"/>quicquid homo facit / peccat: nec potest peccatum 
+          <lb ed="#P" n="92"/>euadere. ergo est perplexus. si contraueniat sue 
+          con<lb ed="#P" n="93" break="no"/>sciente / peccat. pari forma si legem dei contempnat / 
+          <lb ed="#P" n="94"/>peccat: igitur.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e163">
+          ¶ Ad primum respondetur. Illud 
+          di<lb ed="#P" n="95" break="no"/>ctum Gratiani nichil valet quibuscumque duobus 
+          ma<lb ed="#P" n="96" break="no"/>lis culpe superuenientibus homo potest vtrumque 
+          vi<lb ed="#P" n="97" break="no"/>tare.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e172">
+          ¶ Ad secundum concedo si homo faciat 
+          con<lb ed="#P" n="98" break="no"/>tra preceptum dei / peccat. et etiam si 
+          contraueni<lb ed="#P" n="99" break="no"/>at conscientie sue dictanti ei quod tenetur se 
+          confor<lb ed="#P" n="100" break="no"/>mare sue conscientie. potest tamen euitare 
+          pecca<lb ed="#P" n="101" break="no"/>tum / conscientiam deponendo consilio peritorum. 
+          <lb ed="#P" n="102"/>si faceret homo quod in se est tempore naturalis 
+          con<lb ed="#P" n="103" break="no"/>tinuationis conscientie: tunc non peccabitur ei 
+          con<lb ed="#P" n="104" break="no"/>traueniendo. potest tamen homo esse perplexus 
+          <lb ed="#P" n="105"/>secundum stultam opinionem eius: putando quicquid 
+          <lb ed="#P" n="106"/>facit / peccabit. sed in rei veritate non erit perplexus. 
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e194">
+          <lb ed="#P" n="107"/>¶ Tertio arguitur: dicat sortes berthe cum qua 
+          con<lb ed="#P" n="108" break="no"/>traxit in facie ecclesie quod non consentit in eam: et 
+          <lb ed="#P" n="109"/>ipsa hoc existimet. tunc petat sortes ab ea debitum 
+          <lb ed="#P" n="110"/>pro tempore et loco. si non reddat: peccat: quia non 
+          <lb ed="#P" n="111"/>facit actum iusticie pro tempore et loco. si reddat: 
+          con<lb ed="#P" n="112" break="no"/>trauenit conscientie sue: et per consequens 
+          pec<lb ed="#P" n="113" break="no"/>cat.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e212">
+          ¶ Quarto arguitur: contrahant sortes 
+          frigi<lb ed="#P" n="114" break="no"/>dus et bertha mutuo: moueat querimonium 
+          ber<lb ed="#P" n="115" break="no"/>tha de frigiditate sortis: quam cogit ecclesia 
+          <lb ed="#P" n="116"/>recipere sortem per tempus signatum a lege¬ 
+          <pb ed="#P" n="131-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quausque amplius constiterit de frigiditate: tunc bertha 
+          te<lb ed="#P" n="2" break="no"/>netur reddere debitum sorti vt legi pareat: et sic 
+          <lb ed="#P" n="3"/>ipsa facit fornicationem simplicem: quia non est 
+          <lb ed="#P" n="4"/>actus castitatis coniugalis: poslquam sortes est 
+          fri<lb ed="#P" n="5" break="no"/>gidus ex casu: et bertha non vult habere talem: 
+          <lb ed="#P" n="6"/>igitur.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e238">
+          ¶ Ad has duas rationes in valore in 
+          quar<lb ed="#P" n="7" break="no"/>to responsum est.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e244">
+          ¶ Quinto arguitur: sortes est 
+          po<lb ed="#P" n="8" break="no"/>situs inter aliqua duo a. et b. et oportet alterum 
+          face<lb ed="#P" n="9" break="no"/>re: quia stat vnum esse affirmatiuum / aliud 
+          nega<lb ed="#P" n="10" break="no"/>tiuum: iudicat quicquid facit peccat: puta 
+          iudican<lb ed="#P" n="11" break="no"/>do innocentem ad mortem scitum talem: vel de 
+          opposi<lb ed="#P" n="12" break="no"/>to: vel remittendo iudicium ad alium: sed iudicat minus 
+          <lb ed="#P" n="13"/>peccatum non iudicare: tunc quicquid facit peccat. ergo 
+          <lb ed="#P" n="14"/>in lege cadit perplexitas.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e262">
+          ¶ Sexto arguitur: 
+          sor<lb ed="#P" n="15" break="no"/>tes non potest euadere quin venialiter peccet toto 
+          <lb ed="#P" n="16"/>isto anno: ergo est perplexus. Forte dicis: quodlibet 
+          <lb ed="#P" n="17"/>veniale potest euadere: licet non totam multitudinem. 
+          <lb ed="#P" n="18"/>sicut quodlibet foramen in naui sortes potest obstrue 
+          <lb ed="#P" n="19"/>re: licet non totam multitudinem foraminum. contra hoc 
+          <lb ed="#P" n="20"/>arguitur. sortes obligatur euitare hec omnia venialia in 
+          <lb ed="#P" n="21"/>toto hoc anno. et non potest ea omnia euitare. ergo 
+          sor<lb ed="#P" n="22" break="no"/>tes tenetur ad impossibila. ergo est in lege perplexus. 
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e282">
+          <lb ed="#P" n="23"/>¶ Septimo arguitur: precipiant duo superiores 
+          sorti<lb ed="#P" n="24" break="no"/>opposita facere: vt pater / manere ad colendos 
+          a<lb ed="#P" n="25" break="no"/>gros: et rex precipiat ei adire bellum. vel episuse 
+          ab<lb ed="#P" n="26" break="no"/>bas praecipiunt religioso opposita.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e293">
+          ¶ Qctauo 
+          argui<lb ed="#P" n="27" break="no"/>tur. ludat sacerdos breuiarium ad taxillos: vel ex 
+          <lb ed="#P" n="28"/>iracundia proiiciat ipsum in tamesiam. tunc sic: in 
+          <lb ed="#P" n="29"/>die sequenti sortes praesbyter tenetur dicere horas: 
+          <lb ed="#P" n="30"/>et hoc est ei impossibile. alium librum habere non 
+          po<lb ed="#P" n="31" break="no"/>test: prout supponitur. vel si alium habere potest: ne 
+          <lb ed="#P" n="32"/>scit in illo legere: vel lectiones et psalmos bene 
+          ver<lb ed="#P" n="33" break="no"/>tere. Forte dicis: in illo casu sortes non est obliga 
+          <lb ed="#P" n="34"/>tus dicere horas: contra: ergo ex culpa sua est a 
+          pre<lb ed="#P" n="35" break="no"/>cepto deobligatus.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e315">
+          ¶ Ad quintum dicitur sortes 
+          po<lb ed="#P" n="36" break="no"/>test euitare peccatum si sit prudens. quod ex stulta 
+          opi<lb ed="#P" n="37" break="no"/>nione aliquis sit perplexus / conceditur. sed ad putctum 
+          <lb ed="#P" n="38"/>illud positum: quando homo est inter duo quae iudicat 
+          <lb ed="#P" n="39"/>esse peccata imparia / maius et minus: plus debet 
+          <lb ed="#P" n="40"/>aufugere a maiore: et minus a minore.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e328">
+          ¶ Ad sextum 
+          <lb ed="#P" n="41"/>in secundo responsum est.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e334">
+          ¶ Ad septimum dicitur si 
+          <lb ed="#P" n="42"/>duo superiores precipiant opposita subdito: 
+          supe<lb ed="#P" n="43" break="no"/>riori parendum est inferiori relicto: supposito quod in 
+          <lb ed="#P" n="44"/>hoc casu sit ei superior. licet abbas sit episo inferior: 
+          <lb ed="#P" n="45"/>stat quod in casu monachi / epistus non sit superior 
+          abba<lb ed="#P" n="46" break="no"/>te in ordine ad monachum.
+        </p>
+        <p xml:id="jm3cbb-e79701-d1e347">
+          ¶ Ad octauum dicitur: 
+          <lb ed="#P" n="47"/>illo casu admisso sortes non obligatur dicere horas: 
+          <lb ed="#P" n="48"/>immo est deobligatus ab eis dicendis: potissimum 
+          <lb ed="#P" n="49"/>post penitentiam de breuiario amisso: et dummodo 
+          <lb ed="#P" n="50"/>facit quod in ipso est ad dicendum: tunc sufficit dicere 
+          ali<lb ed="#P" n="51" break="no"/>quas preces quas nouit memoriter loco horarum. 
+          <lb ed="#P" n="52"/>et si ex culpa propria sibiipsi linguam amputauer:t: 
+          <lb ed="#P" n="53"/>erit in perpetuum deobligatus a dicendis horis. 
+          <lb ed="#P" n="54"/>Multa alia argumenta de perplexitate huic 
+          mate<lb ed="#P" n="55" break="no"/>rie adduci possunt: que in locis suis tanguntur: quibus 
+          <lb ed="#P" n="56"/>intellectis inane est ea hic in speciali applicare. sed 
+          in<lb ed="#P" n="57" break="no"/>dustrius arguens in aliis locis argumenta colliget. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

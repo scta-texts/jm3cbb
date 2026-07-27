@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="48-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e29365"><!-- l3d23q2 -->
+        <head xml:id="jm3cbb-e29365-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e29365-Hd1e101" type="question-title">
+    In qua potentia vel in quo 
+    subiecto ponendus est habitus
+   </head>
+        <p xml:id="jm3cbb-e29365-d1e104">
+          <lb ed="#P" n="45"/>SEcundo 
+          queri<lb ed="#P" n="46" break="no"/>tur: in qua potentia vel in quo 
+          <lb ed="#P" n="47"/>subiecto ponendus est habitus 
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e113">
+          <lb ed="#P" n="48"/>¶ Respondetur quod habitus non 
+          <lb ed="#P" n="49"/>est ponendus in subiecto natu 
+          <lb ed="#P" n="50"/>rali. probatur hec conclusio ex 
+          <lb ed="#P" n="51"/>Aristotele. ii. ethicorum: et ab ex 
+          <lb ed="#P" n="52"/>perientia. si lapis millies proiicietur in altum: numquam 
+          <lb ed="#P" n="53"/>propterea facilius ascendet in fine quam in principio. 
+          eo<lb ed="#P" n="54" break="no"/>dem modo de descensu eius.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e131">
+          ¶ Contra hoc 
+          ar<lb ed="#P" n="55" break="no"/>guitur: ex ista conclusione sequitur quod nullus est 
+          ha<lb ed="#P" n="56" break="no"/>bitus ponendus in intellectu. consequens est falsum 
+          <lb ed="#P" n="57"/>et contra Aristo. vi. ethicorum ponentem habitus 
+          ve<lb ed="#P" n="58" break="no"/>redicos in intellectu / sapientiam / prudentiam / 
+          scien<lb ed="#P" n="59" break="no"/>tiam artem / et intellectum. quod sequatur patet sic: 
+          <lb ed="#P" n="60"/>intellectus / est agens naturale inquantum huiusmodi.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e148">
+          ¶ Re¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>spondetur negando sequelam. et ad probationem 
+          <lb ed="#P" n="62"/>qua dicitur / intellectus est agens naturale. dicunt 
+          <lb ed="#P" n="63"/>aliqui quod duplex est potentia: quedam est determina 
+          <lb ed="#P" n="64"/>ta ad vnum: sic scilicet: quod potest exire in talem actum 
+          <lb ed="#P" n="65"/>et non in oppositum: et in tali potentia nullus est 
+          ponen<lb ed="#P" n="66" break="no"/>dus habitus: quamadmodum est respectu principiorum 
+          in<lb ed="#P" n="67" break="no"/>demonstrabilium et propositionum per se notarum. aliquae est 
+          <lb ed="#P" n="68"/>potentia quae potest in oppositum inclinatoniis sui habitus: 
+          <lb ed="#P" n="69"/>in talibus ponendus est habitus.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e172">
+          ¶ Contra hoc 
+          <lb ed="#P" n="70"/>arguitur sic: post frequentem assensum actualem alicuius  
+          <lb ed="#P" n="71"/>principii quis inucnit se promptum ad assentiendum 
+          <lb ed="#P" n="72"/>illi principio actualiter: vt patet per experientiam: 
+          <lb ed="#P" n="73"/>ergo in illo ponendus est habitus respectu illius 
+          <lb ed="#P" n="74"/>principii. tenet consequentia: quia non alas in ali 
+          <lb ed="#P" n="75"/>qua potentia concluditur esse habitus.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e188">
+          ¶ Propterea 
+          <lb ed="#P" n="76"/>aliter dico: hoc iacto fundamento in tota hac 
+          mate<lb ed="#P" n="77" break="no"/>ria. in qualibet potentia que potest facilitari ad 
+          <lb ed="#P" n="78"/>suam operationem post actuum frequentationem / 
+          poni<lb ed="#P" n="79" break="no"/>tur habitus: et in nulla alia. probatur hoc 
+          princi<lb ed="#P" n="80" break="no"/>pium fundamentale. habitus solum ponitur ad 
+          sa<lb ed="#P" n="81" break="no"/>cilitandam potentiam ad hoc quod exeat in actus suos. 
+          <lb ed="#P" n="82"/>ergo quacumque potentia data: naturali vel libera: 
+          <lb ed="#P" n="83"/>que in actuum fine promptius expeditius exit in 
+          <lb ed="#P" n="84"/>suum actum quam in principio: in illa ponendus est 
+          ha<lb ed="#P" n="85" break="no"/>bitus. et per oppositum: si non exeat facilius in 
+          ope<lb ed="#P" n="86" break="no"/>rationem suam / in actuum fine quam in principio: nullus 
+          <lb ed="#P" n="87"/>est ponendus habitus. hoc fundamento negato: 
+          <lb ed="#P" n="88"/>nescis habitum probare vllum: et sic concedo quod in 
+          intel<lb ed="#P" n="89" break="no"/>lectu ponendus est habitus respectu principiorum 
+          <lb ed="#P" n="90"/>indemonstrabilium: licet intellectus determinetur 
+          <lb ed="#P" n="91"/>assentire propositionibus per se notis habita 
+          so<lb ed="#P" n="92" break="no"/>la apprehensione terminorum: vt patet. iiii 
+          metaphi<lb ed="#P" n="93" break="no"/>sice
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e230">
+          ¶ Ex his patet responsis ad argumentum 
+          princi<lb ed="#P" n="94" break="no"/>pale: scilicet quod in aliquo subiecto uaturali ponendus 
+          <lb ed="#P" n="95"/>est habitus: quando subiectum est facilitabile ad suam 
+          <lb ed="#P" n="96"/>operationem: quamadmodum contingit in omni potentia 
+          <lb ed="#P" n="97"/>cognitiuae appetitiua. secus est in potentia 
+          natu<lb ed="#P" n="98" break="no"/>rali nullam cognitionem habente: quamadmodum est 
+          ca<lb ed="#P" n="99" break="no"/>lor) vel calidum / vel graue cetera id genus
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e246">
+          ¶ Ex hoc 
+          <lb ed="#P" n="100"/>fundamento et sua explicatione infero propositiones. 
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e251">
+          <lb ed="#P" n="101"/>¶ Quarum prima est: ponendus est habitus in 
+          ali<lb ed="#P" n="102" break="no"/>qua potentia respectu alicuius obiecti cui potentia 
+          <lb ed="#P" n="103"/>dissentire non potest. patet: post frequentes 
+          assen<lb ed="#P" n="104" break="no"/>sus actuales propositionis per se note generatur 
+          ha<lb ed="#P" n="105" break="no"/>bitus in intellectu: ergo intellectus efficitur prom 
+          <lb ed="#P" n="106"/>ptus ad assentiendum tali propositioni actualiter: et 
+          <lb ed="#P" n="107"/>tamen intellectus non potest dissentire tali 
+          propo<lb ed="#P" n="108" break="no"/>sitioni: licet aliqui philosophi ore negarunt 
+          prin<lb ed="#P" n="109" break="no"/>cipium primum: non autem mente: quarto 
+          methaphisi<lb ed="#P" n="110" break="no"/>ce.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e276">
+          ¶ Secundo in voluntate ponendus est habitus. 
+          pa<lb ed="#P" n="111" break="no"/>tet: potest inclinari ad actus similes actibus quos 
+          <lb ed="#P" n="112"/>voluntas elicuit. licet de se sit libera exire in actus 
+          <lb ed="#P" n="113"/>suos: potest habituari: vt intensius facilius exeat 
+          <lb ed="#P" n="114"/>in actus suos. sed seriosius super hoc post hac 
+          lo<lb ed="#P" n="115" break="no"/>quendum erit.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e289">
+          ¶ Tertio sequitur: in pede 
+          texto<lb ed="#P" n="116" break="no"/>ris / in manu citharede / et scriptoris / ponendus est 
+          <lb ed="#P" n="117"/>habitus. probatio: assuetus crebriter percutere 
+          ci<lb ed="#P" n="118" break="no"/>tharam: prompte et expedite eam percutit in 
+          te<lb ed="#P" n="119" break="no"/>nebris: similiter de scriptore. et hoc non nisi 
+          rario<lb ed="#P" n="120" break="no"/>ne habitus: ergo in talibus potentiis ponendua 
+          <lb ed="#P" n="121"/>est habitus.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e305">
+          ¶ Quarto sequitur: in brutis ponendus 
+          <pb ed="#P" n="49-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>est habitus. patet. equus ad stabulum: bos ad suum 
+          <lb ed="#P" n="2"/>presepe / redit: nullo ductore: post frequentationem 
+          <lb ed="#P" n="3"/>actuum: et istud non potest saluari sine habitu. alio 
+          <lb ed="#P" n="4"/>quin omnis habitus tibi negabitur.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e321">
+          ¶ Quinto: in 
+          <lb ed="#P" n="5"/>appetitu sensitiuo naturali ponendus est habitus. 
+          <lb ed="#P" n="6"/>hoc amplius declarabitur in distinc. xxxvi. huius 
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e328">
+          <lb ed="#P" n="7"/>¶ Secundo arguitur: aliquis facilius exit in actum 
+          <lb ed="#P" n="8"/>discernendi verum quam alter: et hoc sine habitu. simi 
+          <lb ed="#P" n="9"/>liter colericus facile irascitur: et hoc sine habitu. 
+          <lb ed="#P" n="10"/>similiter aliqui sunt bene nati: aliqui male nati. 
+          vi<lb ed="#P" n="11" break="no"/>Ethicorum. omnia hec possunt saluari per quaelitates 
+          <lb ed="#P" n="12"/>corporis: ergo non sunt ponendi hii habitus.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e344">
+          ¶ 
+          Re<lb ed="#P" n="13" break="no"/>spondetur: istud argumentum non mouet. non 
+          nego<lb ed="#P" n="14" break="no"/>quin vnus est bene natus / mansuetus / verax. 
+          al<lb ed="#P" n="15" break="no"/>ter ex inclinatione naturali rudis / versipellis / va 
+          <lb ed="#P" n="16"/>fer. sed vno istorum capto: si promptius exit in actus 
+          <lb ed="#P" n="17"/>post actuum frequentationem quam in principio: 
+          simi<lb ed="#P" n="18" break="no"/>li dispositione existente in corpore: concludimus / in 
+          <lb ed="#P" n="19"/>illo esse habitum. duo tamen ante actuum 
+          frequen<lb ed="#P" n="20" break="no"/>tationem possunt sic se habere quod vnus exit melius 
+          <lb ed="#P" n="21"/>in actum quam alter.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e367">
+          ¶ Tertio arguitur contra tertium 
+          <lb ed="#P" n="22"/>correlarium probando quod non sit habitus in 
+          manu<lb ed="#P" n="23" break="no"/>citharedi vel scriptoris. patet sic: anima mouet 
+          cor<lb ed="#P" n="24" break="no"/>pus manum vel pedem: ergo in anima est habitus 
+          <lb ed="#P" n="25"/>ille motiuus: et non in manu vel pede. et istud 
+          po<lb ed="#P" n="26" break="no"/>test confirmari per argumentum tertium questionis 
+          pre<lb ed="#P" n="27" break="no"/>cedentis: dicendo quod ille habitus est in anima quo 
+          <lb ed="#P" n="28"/>homo est habituatus mouere corpus: et non in corpore: 
+          <lb ed="#P" n="29"/>quia tenendo quod motus localis est mobile piclitatur omnis 
+          <lb ed="#P" n="30"/>via probandi habitus.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e389">
+          ¶ Respondeo: he 
+          ratio<lb ed="#P" n="31" break="no"/>nes sunt probabiles: sed non concludunt. quod patet: 
+          <lb ed="#P" n="32"/>aliqui sunt habitus corporei tam in sensu quam in 
+          ap<lb ed="#P" n="33" break="no"/>petitu sensitiuo que sunt extensi existentes in 
+          ag<lb ed="#P" n="34" break="no"/>gregato ex anima et organo: et cum anima informat 
+          <lb ed="#P" n="35"/>manum vel pedem quare negabitur habitus 
+          exten<lb ed="#P" n="36" break="no"/>sus in eis.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e405">
+          ¶ Ad formam ergo argumenti tertii 
+          con<lb ed="#P" n="37" break="no"/>cedo quod forma mouet manum vel pedem: sed ille actus 
+          <lb ed="#P" n="38"/>mouendi producit habitum in potentia que 
+          moue<lb ed="#P" n="39" break="no"/>tur vel mouet. anima in manu vel pede mouet.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e414">
+          ¶ Ad 
+          <lb ed="#P" n="40"/>quartum argumentum in questione precedenti 
+          respon<lb ed="#P" n="41" break="no"/>sum est.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e421">
+          ¶ Quinto arguitur: voluntas potest exire 
+          <lb ed="#P" n="42"/>in actum sine habitu: ergo inane est ponere 
+          habi<lb ed="#P" n="43" break="no"/>tum in ea.
+        </p>
+        <p xml:id="jm3cbb-e29365-d1e428">
+          ¶ Respondetur distinguendo antecedens: vel 
+          <lb ed="#P" n="44"/>actum ita intensum et prompte sine habitu sicut cum 
+          <lb ed="#P" n="45"/>habitu: et sic nego. vel remisse: et sic concedo. Ecce qua 
+          <lb ed="#P" n="46"/>nam pacto in qualibet potentia facilitabili post 
+          <lb ed="#P" n="47"/>frequentationem actuum generabitur habitus: et in 
+          <lb ed="#P" n="48"/>nulla alia: et quod ipse tam in potentia naturali quam 
+          li<lb ed="#P" n="49" break="no"/>bera generetur. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="161-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e97988"><!-- l3d40q1 -->
+        <head xml:id="jm3cbb-e97988-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e97988-Hd1e101" type="question-title">An lex Mosaica fuit data a Deo immediate sicut lex gratiae, an solum mediante angelo</head>
+        <p xml:id="jm3cbb-e97988-d1e104">
+          <lb ed="#P" n="38"/>¶ Distinctio. xl. 
+        </p>
+        <p xml:id="jm3cbb-e97988-d1e109">
+          <lb ed="#P" n="39"/>¶ Questio. i. 
+          <lb ed="#P" n="40"/>CIrca 
+          quadrageli<lb ed="#P" n="41" break="no"/>mam distinctionem et vltimam 
+          <lb ed="#P" n="42"/>in quae magister loquitur de 
+          compara<lb ed="#P" n="43" break="no"/>tione legis moysaice et legis 
+          <lb ed="#P" n="44"/>gratie queremus aliqua. Primo 
+          <lb ed="#P" n="45"/>an lex Moysaica fuit data a 
+          <lb ed="#P" n="46"/>deo immediate sicut lex gratie: 
+          <lb ed="#P" n="47"/>vel solum mediante angelo. Secundo querendum 
+          <lb ed="#P" n="48"/>est: an omnia precepta in lege erant moralia / 
+          iundi<lb ed="#P" n="49" break="no"/>cialia / vel cerimonialia. Tertio inquirendum est / an 
+          <lb ed="#P" n="50"/>ratio litteralis reddi potest omnium qua in preceptis 
+          <lb ed="#P" n="51"/>ludicialibus et cerimonialibus ponuntur. 
+          <lb ed="#P" n="52"/>CCirca expeditionem primi suppono nos loqui de 
+          <lb ed="#P" n="53"/>lege diuina moysaica vel euangelica: et non de le 
+          <lb ed="#P" n="54"/>ge humana. In ista questione primo explicabitur 
+          <lb ed="#P" n="55"/>vnus terminus positus in titulo questionis. Secum 
+          <lb ed="#P" n="56"/>do: vnam conclusionem ponemus quam aliquibus 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="57"/>auctoritatibus impugnabimus.
+        </p>
+        <p xml:id="jm3cbb-e97988-d1e155">
+          ¶ Terminus lex 
+          <lb ed="#P" n="58"/>interdum totum vetus testamentum complectitur: 
+          si<lb ed="#P" n="59" break="no"/>cut doctrinam operandorum / ad quam pertinent 
+          li<lb ed="#P" n="60" break="no"/>bri Moysi: et doctrinam credendorum / ad quam 
+          <lb ed="#P" n="61"/>pertinent prophete in quibus continentur 
+          reuela<lb ed="#P" n="62" break="no"/>tiones credendorum. et continet doctrinam exem 
+          <lb ed="#P" n="63"/>plorum: vt libros historiales: et doctrinam 
+          ammoni<lb ed="#P" n="64" break="no"/>tionum: ad quam spectant libri salomonis et 
+          Iesu<lb ed="#P" n="65" break="no"/>filii syrach / qui ecclesiasticus appellatur. et hoc est: 
+          <lb ed="#P" n="66"/>libros legales / sapientiales / prophetales / et historia 
+          <lb ed="#P" n="67"/>les / complectitur. et vulgo solet dici quod illos libros 
+          <lb ed="#P" n="68"/>vetus testamentum complectitur: et sic potest dici de 
+          <lb ed="#P" n="69"/>lege veteri. et ita capiatur / patet Io. x. Nonne in 
+          le<lb ed="#P" n="70" break="no"/>ge vestra dictum est: ego dixi dii estis: et palam est 
+          <lb ed="#P" n="71"/>quod hoc habetur in psalmo. Interdum capitur pro 
+          pen<lb ed="#P" n="72" break="no"/>thetheucon moysi concludendo prophetias: et sic 
+          <lb ed="#P" n="73"/>capitur Luce vltimo. hec sunt verba quae locutus sum 
+          <lb ed="#P" n="74"/>vobis cum adhuc essem vobiscum: quoniam 
+          opor<lb ed="#P" n="75" break="no"/>tet adimplere ommina que scripta sunt in lege morsi et 
+          <lb ed="#P" n="76"/>prophetis et psalmis de me. hinc saluator 
+          condi<lb ed="#P" n="77" break="no"/>uidit legem contra prophetas et psalmos: non 
+          <lb ed="#P" n="78"/>quin Dauid erat propheta: immo summus erat. 
+          <lb ed="#P" n="79"/>Primo modo termino vtimur in proposito. 
+        </p>
+        <p xml:id="jm3cbb-e97988-d1e206">
+          <lb ed="#P" n="80"/>¶ hoc prenotato / dicitur quod lex Moysaica data 
+          <lb ed="#P" n="81"/>est a deo mediante angelo: et non immediate per 
+          seip<lb ed="#P" n="82" break="no"/>sum. Probatur hec conclusio auctoritate 
+          Sephani<lb ed="#P" n="83" break="no"/>Actuum. vii. postquam epilogauit quomodo deus 
+          ap<lb ed="#P" n="84" break="no"/>paruit Abrahe cum esset in Mesopotamia: dicit: 
+          <lb ed="#P" n="85"/>in deserto montis Synai angelus in igne 
+          flamme<lb ed="#P" n="86" break="no"/>rubi Moysi apparuit. et post de Moyse loquens 
+          <lb ed="#P" n="87"/>dicit: hic est que fuit in eclesia in solitudine cum 
+          an<lb ed="#P" n="88" break="no"/>gelo qui loquebatur ei in monte syna et cum patri 
+          <lb ed="#P" n="89"/>bus vestris: qui accepit verba vite dare vobis. hoc 
+          <lb ed="#P" n="90"/>idem patet Exo. xxiii. Ecce ego mittam angelum 
+          <lb ed="#P" n="91"/>meum qui precedat te / et custodiat in via / et 
+          intro<lb ed="#P" n="92" break="no"/>ducat ad locum quem paraui: obserua eum et 
+          audi<lb ed="#P" n="93" break="no"/>vocem eius: nec contempnendum putes: quia non 
+          dimit<lb ed="#P" n="94" break="no"/>tet cum peccauerit: et est nomen meum in illo. Qu 
+          <lb ed="#P" n="95"/>si audieris vocem eius: et feceris omnia qua loquor: 
+          ini<lb ed="#P" n="96" break="no"/>micus ero inimicis tuis: et affligam affligentes te: 
+          <lb ed="#P" n="97"/>precedetque te angelus meus: et introducet te ad 
+          <lb ed="#P" n="98"/>amorreorum / etheum / et pherezeum / chananeumque 
+          <lb ed="#P" n="99"/>et eueum / et iebuzeum: quos ego conteram. Et Exo. 
+          <lb ed="#P" n="100"/>xiiii. tollensque se angelus domini qui precedebat 
+          <lb ed="#P" n="101"/>castra israel / abiit post eos et cum eo pariter 
+          colun<lb ed="#P" n="102" break="no"/>na nubis / priora dimittens / post tergum stetit / 
+          in<lb ed="#P" n="103" break="no"/>ter castra egyptiorum et castra israel. hoc patet ad 
+          <lb ed="#P" n="104"/>Galathas. iii. et ad hebreos primo. et secundo. hoc 
+          <lb ed="#P" n="105"/>tenet Dionysius in celesti hierarchia. Et ad hoc est 
+          <lb ed="#P" n="106"/>congruentia: quia deus ordinate procedens a minus 
+          <lb ed="#P" n="107"/>perfecto ad magis perfectum processit. Sed lex 
+          <lb ed="#P" n="108"/>moysaica erat imperfectior lege euangelica: ergo 
+          <lb ed="#P" n="109"/>congruum erat quod non haberet ita excellentem 
+          <lb ed="#P" n="110"/>datorem. sed lex euangelica per filium dei 
+          imme<lb ed="#P" n="111" break="no"/>diate data est. ergo decuit legem Moysaicam 
+          per<lb ed="#P" n="112" break="no"/>creaturam dari. et inter creaturas nobilissima est 
+          natu<lb ed="#P" n="113" break="no"/>ra angelica.
+        </p>
+        <p xml:id="jm3cbb-e97988-d1e282">
+          ¶ Contra hanc conclusionem arguitur sic Num erorum 
+          <lb ed="#P" n="114"/>xii. habetur quod dicit dominus de Moyse ore ad os 
+          loquaer<lb ed="#P" n="115" break="no"/>ei. et Exo. iii. Cernens autem domins quia pergeret ad videndum 
+          <lb ed="#P" n="116"/>vocauit eum de medio rubi: et ait: Moyses / mor¬ 
+          <pb ed="#P" n="161-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ses: qui respondit / adsum. at ille: ne appropries 
+          in<lb ed="#P" n="2" break="no"/>quit huc: solue calciamentum de pedibus tuis: locus 
+          <lb ed="#P" n="3"/>enim in quo stas terra sancta est. et ait: ego sum deus 
+          <lb ed="#P" n="4"/>patris tui: deus abraham / et deus isaac / et deus iacob. 
+          <lb ed="#P" n="5"/>Sed angelus nullo pacto est deus et ille idem dedit 
+          <lb ed="#P" n="6"/>ei legem. ergo lex moysaica data est immediate 
+          per<lb ed="#P" n="7" break="no"/>deum: et non per angelum.
+        </p>
+        <p xml:id="jm3cbb-e97988-d1e311">
+          ¶ Rspondetur quod angelus interdum 
+          <lb ed="#P" n="8"/>loquebatur loco dei a quo erat specialiter missus 
+          <lb ed="#P" n="9"/>ad introducendos hebreos in terram promissionis. 
+          <lb ed="#P" n="10"/>quemadmodum personam regis in moralitate ludens 
+          loqui<lb ed="#P" n="11" break="no"/>tur ac si rex esset. sic angelus qui populum praeibat. 
+          In<lb ed="#P" n="12" break="no"/>terdum loco ipsiusmet nonnumquam loco dei locutus est. 
+          <lb ed="#P" n="13"/>Et hoc dicit glosa marginalis Exo. iii. quae est 
+          Gre<lb ed="#P" n="14" break="no"/>gorii dicentis. Angelus qui morsi apparuisse 
+          de<lb ed="#P" n="15" break="no"/>scribitur / modo domins / modo angelus memoratur. an 
+          <lb ed="#P" n="16"/>gelus / quia exterius loquendo seruit: domins: / quia 
+          interi<lb ed="#P" n="17" break="no"/>us presidens loquendi efficatiam tribuit. Cum enim 
+          <lb ed="#P" n="18"/>loquens ab interiori regitur: et per obsequium 
+          ange<lb ed="#P" n="19" break="no"/>lus: et per inspirationem domins memoratur. et hoc patet 
+          <lb ed="#P" n="20"/>primo aoralium apud eundem. et dato quod dicatur angelus qui 
+          <lb ed="#P" n="21"/>apparuit in forma ignis erat angelus apparens ad 
+          <lb ed="#P" n="22"/>excitandum mentem moysi: vt cernens miraculum 
+          acce<lb ed="#P" n="23" break="no"/>deret ad audiendam vocem et verba diuina. et quamuis 
+          <lb ed="#P" n="24"/>ab illo verbo / cernens autem domins quia pergeret ad 
+          <lb ed="#P" n="25"/>videndum / sit sermo de deo qui in propria persona 
+          <lb ed="#P" n="26"/>loquebatur: hoc non impedit propositum. Licet deus 
+          <lb ed="#P" n="27"/>aliqua immediate dixerit: lex data est per angelum: quia 
+          praece<lb ed="#P" n="28" break="no"/>pta decalogi. lbet primo dicat ego sum domns deus tuus: 
+          se<lb ed="#P" n="29" break="no"/>quitur / non assumes nomen dei tui inuanum. non enim 
+          <lb ed="#P" n="30"/>dixit / non assumes nomen meum inuanum: sed nomen 
+          <lb ed="#P" n="31"/>domini dei tui: ac si exposuisset prius dictum fuisse 
+          <lb ed="#P" n="32"/>in persona dei ab angelo: et non imediate a deo: et 
+          <lb ed="#P" n="33"/>quia familiarius moyses sciebat quae facienda erant 
+          <lb ed="#P" n="34"/>a deo quam alii: dicebatur loqui facie ad faciem secum: 
+          <lb ed="#P" n="35"/>vl sicut amicus ad amicum: secunduem illud psalmiste psal. cii. 
+          <lb ed="#P" n="36"/>notas fecit vias suas moysi: quod probat Aug. xii. super 
+          <lb ed="#P" n="37"/>Genesim ad litteram postquam de moyse loquitur: 
+          locu<lb ed="#P" n="38" break="no"/>tus est domins ad moysen facie ad faciem. Postea in 
+          <lb ed="#P" n="39"/>eodem contextu subditur: ostende michi gloriamtu 
+          <lb ed="#P" n="40"/>am per desiderium moysi: conuincitur quod aliquid quod 
+          <lb ed="#P" n="41"/>nondum videbat desiderabat: quia secundum Aug. de viden 
+          <lb ed="#P" n="42"/>do deum / lcet moyses postea essentiam vidit: non 
+          <lb ed="#P" n="43"/>tamen in dampnatione legis que data fuit per 
+          ange<lb ed="#P" n="44" break="no"/>lum: et hoc etiam vult.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

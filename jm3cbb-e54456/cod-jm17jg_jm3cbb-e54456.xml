@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 15</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 15</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="89-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e54456"><!-- l3d33q15 -->
+        <head xml:id="jm3cbb-e54456-Hd1e99">Quaestio 15</head>
+        <head xml:id="jm3cbb-e54456-Hd1e101" type="question-title">An viri fortis sit sese in aliquo casu perimere</head>
+        <p xml:id="jm3cbb-e54456-d1e104">
+          <lb ed="#P" n="107"/>Sexto circa materiam 
+          <lb ed="#P" n="108"/>de fortitudine queritur: an 
+          viti<lb ed="#P" n="109" break="no"/>fortis sese est in aliquo casu perime 
+          <lb ed="#P" n="110"/>re.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e115">
+          ¶ Respondetur: in nullo casu 
+          <lb ed="#P" n="111"/>vir fortis potest se perimere 
+          anu<lb ed="#P" n="112" break="no"/>ctoritate sua vel humana. hec conclusio est 
+          Ari<lb ed="#P" n="113" break="no"/>stotelis / tertii Ethicorum septimo: dicentis: mor 
+          <lb ed="#P" n="114"/>tem autem sibi consciscere / ob fugiendam pauper¬m/ 
+          <lb ed="#P" n="115"/>tatem / aut amorem / aut molestum aliquod / non i 
+          <lb ed="#P" n="116"/>fortis est hominis: sed potius timidi. est enim 
+          <lb ed="#P" n="117"/>mollitudinis laboriosa fugere. atque non 
+          quia<lb ed="#P" n="118" break="no"/>res est honesta appetit mortem: sed quia 
+          ma<lb ed="#P" n="119" break="no"/>lum fugit. ac sicut argumentaretur: nullus mollis 
+          <pb ed="#P" n="89-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>impatiens est vir fortis: omnis occidens se est 
+          mol<lb ed="#P" n="2" break="no"/>lis impatiens: ergo nullus occidens se est vir 
+          for<lb ed="#P" n="3" break="no"/>tis. consequentia tenet in secundo prime: et premisse sunt 
+          <lb ed="#P" n="4"/>aristotelis in littera: et arguendo in scola sic 
+          sillogis<lb ed="#P" n="5" break="no"/>mum cudisset. sed modus scribendi tunc erat ponere 
+          <lb ed="#P" n="6"/>venam argumenti: et relinquere iudicio lectoris qua 
+          <lb ed="#P" n="7"/>liter ipsum fabricaret. nunc autem modus scribendi 
+          co<lb ed="#P" n="8" break="no"/>incidit cum modo arguendi in forma: qui modus / 
+          <lb ed="#P" n="9"/>antiquorum modo non est postponendus. laudamus 
+          <lb ed="#P" n="10"/>veteres nostris iam viuitur annis. et hanc rationem 
+          <lb ed="#P" n="11"/>etiam tangit diuus Augu. xix. de ciui. dei. c. iiii. inqui 
+          <lb ed="#P" n="12"/>ens: vtrum obsecro cato ille patientia an potius 
+          im<lb ed="#P" n="13" break="no"/>patientia se peremit. non enim hoc fecisset: nisi 
+          victo<lb ed="#P" n="14" break="no"/>riam cesaris impatienter tulisset.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e172">
+          ¶ Secundo arguitur: 
+          <lb ed="#P" n="15"/>omnis qui occidit hominem auctoritate propria peccat 
+          con<lb ed="#P" n="16" break="no"/>tra legem nature hominem occidendo: et meretur 
+          pu<lb ed="#P" n="17" break="no"/>niri pena legis positiue / vbi est lata: vel pena legis 
+          <lb ed="#P" n="18"/>nature / vbi lex non est lata. quicunque sibi mortem 
+          consci<lb ed="#P" n="19" break="no"/>scit est huiusmodi: igitur maxime debet se diligere. ergo 
+          <lb ed="#P" n="20"/>se occidens maxime in homicidio peccat.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e189">
+          ¶ 
+          Ter<lb ed="#P" n="21" break="no"/>tio arguitur: si homo posset se occidere: vel hocesnet 
+          <lb ed="#P" n="22"/>ad penam euitandam: vel pro malo culpe commisso / vel 
+          <lb ed="#P" n="23"/>committendo. non primum: quodcumque malum pene potest 
+          <lb ed="#P" n="24"/>esse materia patientie et virtutis: virtus in 
+          infirmi<lb ed="#P" n="25" break="no"/>tate perficitur. colica aut iliacam torqutur multum 
+          an<lb ed="#P" n="26" break="no"/>xie. sed potest laborans mereri: equaenimiter hos 
+          mor<lb ed="#P" n="27" break="no"/>bos ferendo: addscendo quid est de pena alterius 
+          <lb ed="#P" n="28"/>seculi: vt caueat a peccato. nec debet homo occidere 
+          <lb ed="#P" n="29"/>se ratione peccati. probatur: vel ratione peccati 
+          commissi<lb ed="#P" n="30" break="no"/>vel committendi sicut dicebam. non primum: tunc peccaret 
+          <lb ed="#P" n="31"/>nouo peccato: et niteretur vnum peccataum per aliud purgare: 
+          <lb ed="#P" n="32"/>quod erat peccatum Iude se perimentis vt purga 
+          <lb ed="#P" n="33"/>ret se de traditione christi. Nolo mortem peccatoris sed vt 
+          <lb ed="#P" n="34"/>magis conuertatur et viuat: ait propheta: debet 
+          peni<lb ed="#P" n="35" break="no"/>tere de peccato praeterito: et ad hoc est necessarium 
+          <lb ed="#P" n="36"/>se in vita praeseruare. Non pro peccato committendo: 
+          proba<lb ed="#P" n="37" break="no"/>tio: quod libet peccatum futurum potest homo euitare non 
+          <lb ed="#P" n="38"/>occidendo se. patet: non est peccatum / nisi libera commissio 
+          <lb ed="#P" n="39"/>vel omissio: a quaelibet tali potest homo abstinere non 
+          occi<lb ed="#P" n="40" break="no"/>dendo se.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e235">
+          ¶ Quarto: quilibet auctoritate propria 
+          occi<lb ed="#P" n="41" break="no"/>dens alium hominem peccat. ergo occidens se peccat. te 
+          <lb ed="#P" n="42"/>net consequentia. non maiorem auctoritatem habet 
+          supra<lb ed="#P" n="43" break="no"/>se quam super alios ad se occidendum.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e244">
+          ¶ Ex hac 
+          conclusio<lb ed="#P" n="44" break="no"/>ne et eius probatione sequitur quod Achitophel / Aiax 
+          <lb ed="#P" n="45"/>Thalamonneus / hannibal/ Catho / Uticentur / 
+          Lu<lb ed="#P" n="46" break="no"/>cretia / et Cleopatra / non exercuerut actus 
+          fortitu<lb ed="#P" n="47" break="no"/>dinis: sed inipatientie et timiditatis: se occidentes. 
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e255">
+          <lb ed="#P" n="48"/>¶ Contra hanc conclusionem arguitur. laudatur 
+          Abra<lb ed="#P" n="49" break="no"/>ham volens filium Isaac occidere. idem patet de 
+          <lb ed="#P" n="50"/>Sansone Iudicum. xvi. et de Saule primi regum 
+          vlti<lb ed="#P" n="51" break="no"/>mo: ne incideret in manus / incircuncisorum et esset 
+          ludi<lb ed="#P" n="52" break="no"/>brio populo dei. ergo conclusio falsa.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e268">
+          ¶ Respondetur: 
+          Abra<lb ed="#P" n="53" break="no"/>ham hoc fecit instigante et praecipiente deo qui est 
+          au<lb ed="#P" n="54" break="no"/>ctor vite et mortis: et de hoc certum est quod non 
+          deli<lb ed="#P" n="55" break="no"/>quit: sed multum meritus est de Sansone idem potest 
+          <lb ed="#P" n="56"/>colligi: cum deus dederit ei vigorem suum naturalem in 
+          lo<lb ed="#P" n="57" break="no"/>co in quo erat: et multa miraculose per Sansonem 
+          <lb ed="#P" n="58"/>operatus est. Presumendum est quod instinctu dei domum 
+          <lb ed="#P" n="59"/>euertit: et phllistinorum praiencinea suffocauit. De 
+          Sau<lb ed="#P" n="60" break="no"/>le non est ideni. licet comuniter hebrei saulem excusantur: 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>nostri sapientes in scriptura contrarium tenent: et 
+          me<lb ed="#P" n="62" break="no"/>lius. et id rationis est: quia scribitur primi paralipome 
+          <lb ed="#P" n="63"/>non decimo. Mortuus est ergo Saul propter iniquita 
+          <lb ed="#P" n="64"/>tes suas: eo quod puaricatus est mandatum domini quod 
+          praece<lb ed="#P" n="65" break="no"/>perat: et non custodierat illud. sed insuper 
+          Phitonis<lb ed="#P" n="66" break="no"/>sam consuleret: nec sperauit in domino. non placet via 
+          <lb ed="#P" n="67"/>nicholai declinantis ad hebreos dicentis 
+          propter<lb ed="#P" n="68" break="no"/>iniquitates suas inflicta est pena mortis sibi et 
+          fi<lb ed="#P" n="69" break="no"/>liis suis: sed non sequitur quod proptrea sit damnatus. 
+          quem<lb ed="#P" n="70" break="no"/>admodum fnri pro iniquitate infligitur mors: sed non 
+          se<lb ed="#P" n="71" break="no"/>quitur propatrea quod sit damnatus. non quin idem esset 
+          sequi<lb ed="#P" n="72" break="no"/>hebreorum viam aut ntrorum in his in quibus nobiscum 
+          conue<lb ed="#P" n="73" break="no"/>niunt: quemadmodum sunt impartinentia circa messiam 
+          <lb ed="#P" n="74"/>sed modus nostrorum in proposito habet latiam Paralapo 
+          <lb ed="#P" n="75"/>menon rotundam: et rationes nicholai et 
+          hebreor<lb ed="#P" n="76" break="no"/>non valent in oppositum.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e325">
+          ¶ Secundo arguitur ad 
+          <lb ed="#P" n="77"/>idem. si Saul non peccauit occidendo se: sequitur quod 
+          <lb ed="#P" n="78"/>nec ille amalechita qui occidit Saulem peccauit 
+          sau<lb ed="#P" n="79" break="no"/>lem occidendo: quia fecit quod facere erat licitum. consequens est 
+          <lb ed="#P" n="80"/>falsum: qua eum Dauid rex iustus propterea occidit: 
+          <lb ed="#P" n="81"/>et patet secundi Regum primo. Sed hic diceretur. non constabat 
+          <lb ed="#P" n="82"/>Amalechite an erat licitum: sicut constabat ipsi saul. 
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e342">
+          <lb ed="#P" n="83"/>¶ Arguunt alii sic: erat saul interdum valde bonus: vt 
+          <lb ed="#P" n="84"/>patet primi Regum nono. ergo non est verisimile quod deus eum 
+          <lb ed="#P" n="85"/>sic dereliquarit.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e351">
+          ¶ Secundo: primi Regum. xxvii. dicit 
+          Sa<lb ed="#P" n="86" break="no"/>muel: tu et filii tui cras eritis mecum. sed 
+          Samuel<lb ed="#P" n="87" break="no"/>erat saluatus: vt certum est. ergo et Saul. etiam de Iona 
+          <lb ed="#P" n="88"/>tha notum esse debet quod erat bonus.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e360">
+          ¶ Tertio 
+          Ra<lb ed="#P" n="89" break="no"/>sias commendatur in scriptura: et tamen se interemit. 
+          <lb ed="#P" n="90"/>secundi Machabeorum. xiiii.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e367">
+          ¶ Quarto arguitur: 
+          li<lb ed="#P" n="91" break="no"/>cet interficere seipsum intuitu diuini honoris: ne 
+          <lb ed="#P" n="92"/>scilicet vituperium exerceretur in persona regis redundans 
+          <lb ed="#P" n="93"/>in dei vituperium: sicut timebat Saul: ne in 
+          ipso<lb ed="#P" n="94" break="no"/>qui erat principalis in populo fierent ludibria in 
+          <lb ed="#P" n="95"/>contemptum dei.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e380">
+          ¶ Ad primum concedo antcedens. sic erat Iudas 
+          <lb ed="#P" n="96"/>qui erat circuncisus: vel postea. et multi alii qui male de 
+          <lb ed="#P" n="97"/>cesserunt. si penituit Saul post vulnera letalia 
+          infli<lb ed="#P" n="98" break="no"/>cta: non contenditur. est questio sacti. loquor potissimum de 
+          <lb ed="#P" n="99"/>actu quo se occidit.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e391">
+          ¶ Ad secundum respondetur Saul dixit ei quod 
+          <lb ed="#P" n="100"/>moreretur. concedo quod Ionathas erat bonus: et iuuenis 
+          <lb ed="#P" n="101"/>sane optimus toto tpere suo: vt patet per discursum primi 
+          re<lb ed="#P" n="102" break="no"/>gum: cum Dauidem primo cognouerit ad diem vltimum 
+          vs<lb ed="#P" n="103" break="no"/>que.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e403">
+          ¶ Ad tertium dicitur: licet hasias commendetur: non tamen 
+          <lb ed="#P" n="104"/>commendatur in hoc facto. sicut castitas lucretie et 
+          bo<lb ed="#P" n="105" break="no"/>nitas commendatur homicidium autem vituperatur
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e410">
+          ¶ Ad quaer 
+          <lb ed="#P" n="106"/>tum nego assumptum. ad actus bonitatem non sufficit 
+          bo<lb ed="#P" n="107" break="no"/>nitas finis. obiectum erat malum: quod propria auctorita 
+          <lb ed="#P" n="108"/>te se vellet delere de terra. non debebat studere 
+          ser<lb ed="#P" n="109" break="no"/>uare honorem dei: per viam prohibitam dei. 
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e421">
+          <lb ed="#P" n="110"/>¶ Secundo arguitur: legitur de aliquibus probis 
+          <lb ed="#P" n="111"/>mulieribus que cucurrerunt in aques et se 
+          submerse<lb ed="#P" n="112" break="no"/>runt: ne a barbaris corrumperentur. ergo licitumi 
+          <lb ed="#P" n="113"/>est pro castitate seruanda se occidere.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e432">
+          ¶ Tertio 
+          ar<lb ed="#P" n="114" break="no"/>guitur: ponatur sortes in compedibus solidissimis 
+          <lb ed="#P" n="115"/>separatus ab omni populo: prope quem ponatur 
+          <lb ed="#P" n="116"/>ensis. et nulla via patet ei conseruatio vite corporalis 
+          <lb ed="#P" n="117"/>nisi tibiam truncando: quia non habet ad comedendum. 
+          lici<lb ed="#P" n="118" break="no"/>tum est sorti sibi tibiam truncare. et adde quod ex 
+          il<lb ed="#P" n="119" break="no"/>la truncatione moriatur. tunc sic: sortes occidit 
+          se<lb ed="#P" n="120" break="no"/>in illo casulicite. ergo conclusio falsa.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e450">
+          ¶ Respondetur: 
+          <pb ed="#P" n="90-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>iste mulieres poterant habere ignorantiam 
+          inuinci<lb ed="#P" n="2" break="no"/>bilem de profunditate a que: putantes erronee quod 
+          <lb ed="#P" n="3"/>non submergerentur illic: quia non dabatur eis 
+          te<lb ed="#P" n="4" break="no"/>pus ad deliberandum. et si sic: non peccarunt. alias 
+          <lb ed="#P" n="5"/>male egissent sine precepto vel instinctu diuino: et 
+          <lb ed="#P" n="6"/>nullo modo est trahendum in consequentiam.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e470">
+          ¶ Ad 
+          <lb ed="#P" n="7"/>tertium: vel est probabile sorti quod illa via euadet: 
+          li<lb ed="#P" n="8" break="no"/>cet membro truncatus: et tunc non peccat. melius est 
+          <lb ed="#P" n="9"/>perdere tibiam quam vitam: hoc est minus malum. vel 
+          <lb ed="#P" n="10"/>iudicat quod morietur si tibiam truncet: et tunc 
+          pec<lb ed="#P" n="11" break="no"/>cat tibiam amputando: debet expectare 
+          suscipe<lb ed="#P" n="12" break="no"/>re in se mortem naturalem ab inedia infiictam.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e487">
+          ¶ 
+          Quar<lb ed="#P" n="13" break="no"/>to arguitur: plato est dominus membrorum suorum 
+          <lb ed="#P" n="14"/>et corporis eius. sed quilibet potest vti re sua ad 
+          li<lb ed="#P" n="15" break="no"/>bitum suum. ergo potest se spoliare vno membro / vel alio 
+          <lb ed="#P" n="16"/>vel toto corpore.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e498">
+          ¶ Quinto: si vnum membrum esset 
+          <lb ed="#P" n="17"/>alterius corruptiuum: potest illud abscindere. ergo 
+          ha<lb ed="#P" n="18" break="no"/>bet dominium super illud membrum putridum. erao eo 
+          <lb ed="#P" n="19"/>dem modo super quodlibet membrum sanum: quia in 
+          <lb ed="#P" n="20"/>firmus non habet maius dominium in corpus suum 
+          <lb ed="#P" n="21"/>quam sanus.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e511">
+          ¶ Ad quartum transeat maior. minor est 
+          <lb ed="#P" n="22"/>salsa: nisi intelligatur secundum rectam rationem. male 
+          <lb ed="#P" n="23"/>ageret qui suam domum combureret ad nutum: vel 
+          <lb ed="#P" n="24"/>triticum proiiceret in sequanam: et potest pro illo 
+          gra<lb ed="#P" n="25" break="no"/>uiter puniri: quia priuat rempublicam ab vna 
+          par<lb ed="#P" n="26" break="no"/>te bonorum eius: tota respublica habet in illo 
+          in<lb ed="#P" n="27" break="no"/>teresse. sic homo peccaret in rempublicam qui se 
+          occi<lb ed="#P" n="28" break="no"/>deret: tollendo vnum membrum reipublice sine 
+          suo<lb ed="#P" n="29" break="no"/>consensu.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e531">
+          ¶ Ad quintum concedo. vt vitam redimas 
+          <lb ed="#P" n="30"/>ferrum patieris et ignes. habet dominium super 
+          mem<lb ed="#P" n="31" break="no"/>bra secundum rectam rationem: cum vnum membrius 
+          <lb ed="#P" n="32"/>est inutile: et corruptiuum aliorum: ipsu est natum ab 
+          <lb ed="#P" n="33"/>iici secundum rectam rationem.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e542">
+          ¶ Sexto arguitur: 
+          sor<lb ed="#P" n="34" break="no"/>tes est reus mortis. Plato iudex eius potest ei 
+          praeci<lb ed="#P" n="35" break="no"/>pere quod occidat se. At dicis: licet reus sit: non 
+          tamen<lb ed="#P" n="36" break="no"/>debet occidi quousqedeclaretur iuridice talis. 
+          Con<lb ed="#P" n="37" break="no"/>tra: tunc pono quod iudex licite dampnet sortem 
+          oc<lb ed="#P" n="38" break="no"/>cidendum ad mortem:et sciat hoc sortes. plato 
+          lictor<lb ed="#P" n="39" break="no"/>potest sortem licite occidere. ergo sortes potest se 
+          oc<lb ed="#P" n="40" break="no"/>cidere praecipiente iudice. potest exequi actum iusticie 
+          <lb ed="#P" n="41"/>iu se: quem alter potest in eum exequi.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e562">
+          ¶ 
+          Confirma<lb ed="#P" n="42" break="no"/>tur hec ratio: sit plato lictor publicus: plato potest 
+          <lb ed="#P" n="43"/>committere vnum crimem ratione cuius erit reus 
+          <lb ed="#P" n="44"/>mortis: tunc poterit ei praecipi post sententiam quod se 
+          <lb ed="#P" n="45"/>occidat: tunc exercet officium iusticie in se: et occidit 
+          <lb ed="#P" n="46"/>se.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e576">
+          ¶ Respondetur: quando habetur quod quis 
+          dampna<lb ed="#P" n="47" break="no"/>tus ad mortem se occidat auctoritate iudicis: non 
+          ha<lb ed="#P" n="48" break="no"/>hetur quod aliquis licite auctoritate propria posset 
+          <lb ed="#P" n="49"/>se occidere. sed solum contenderetur super hoc: an 
+          iu<lb ed="#P" n="50" break="no"/>dex licite potest ferre sententiam quod aliquis reus 
+          <lb ed="#P" n="51"/>mortis / et iudicatus talis / possit se occidere et non 
+          <lb ed="#P" n="52"/>est facile probare quod sic.
+        </p>
+        <p xml:id="jm3cbb-e54456-d1e592">
+          ¶ Dubitatur: an fortis de 
+          <lb ed="#P" n="53"/>lectetur in omni operatione sua. Respondetur: 
+          du<lb ed="#P" n="54" break="no"/>plex est delectatio. quedam corporalis: quae tactum 
+          <lb ed="#P" n="55"/>corporalem consequitur: alia autem animalis: quae anime 
+          <lb ed="#P" n="56"/>apprehensionem consequitur. et hec sequitur actus 
+          <lb ed="#P" n="57"/>bonos in studioso viro / fortis apprehendit vulnera / 
+          <lb ed="#P" n="58"/>mala pene: et mortem quam tolerat ratione virtutis: 
+          <lb ed="#P" n="59"/>ideo delectatur secundum delectationem animalem: 
+          <lb ed="#P" n="60"/>licet habeat vnde tristetur de amissione vite quae est 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>ei cara: et tanto magis cara qua to felicior ergo fortis / 
+          <lb ed="#P" n="62"/>dolores corporis habet / leticias mentis / cum 
+          tristi<lb ed="#P" n="63" break="no"/>ciis aliorum obiectorum. leticia et trislicia respectu 
+          <lb ed="#P" n="64"/>diuersorum obiectorum non repugnant: nisi vna 
+          fue<lb ed="#P" n="65" break="no"/>rit excellens: immo de eodem obiecto secundum 
+          va<lb ed="#P" n="66" break="no"/>rias apprehensiones non pugnant leticiat tristicia: 
+          <lb ed="#P" n="67"/>vt passio christi apprehendebatur vt afflictiua 
+          innocen<lb ed="#P" n="68" break="no"/>tis: et sic sancti noluerunt eam. alio modo inquantum deus per 
+          <lb ed="#P" n="69"/>illam genus humanum redemit: et sic eam volebant: 
+          <lb ed="#P" n="70"/>secundum illud Esaie. liiii. vtinam disrumperes celos 
+          <lb ed="#P" n="71"/>et descenderes: et petrus hoc malens reprehensus 
+          <lb ed="#P" n="72"/>est. mhathei. xvi. ergo a fortiori dolor in appetitu 
+          sen<lb ed="#P" n="73" break="no"/>sitiuo et leticia non repugnant. ii. machabeorum. vi. 
+          di<lb ed="#P" n="74" break="no"/>xit eleazarus diros corporis sustineo dolores: 
+          se<lb ed="#P" n="75" break="no"/>cundum animam vero propter timorem tuum libenter hec 
+          <lb ed="#P" n="76"/>patior. et si leticia montis fuerit magego dolores 
+          impe<lb ed="#P" n="77" break="no"/>dit: quia cum vna potentia est vehementer in suo 
+          actu<lb ed="#P" n="78" break="no"/>impedit alias potentias in earim actibus. sicut 
+          san<lb ed="#P" n="79" break="no"/>ctus tiburcius: cum nudis pedibus super carbones 
+          <lb ed="#P" n="80"/>viuos incedebat: dixit quod videbatur ei quod super roseos 
+          <lb ed="#P" n="81"/>flores incedebat. sed in illo erat virtus abundans. 
+          <lb ed="#P" n="82"/>forti sufficit quod non nimis tristetur: licet a leticia 
+          im<lb ed="#P" n="83" break="no"/>pediatur: et obfuscatus fuerit a doloribus: secundum 
+          <lb ed="#P" n="84"/>quod dicit philosophus. iii. ethicorum. ix. inquiens. 
+          Eni<lb ed="#P" n="85" break="no"/>uero fortitudinis finis iocundus esse videtur: verum 
+          <lb ed="#P" n="86"/>ab euenientibus doloribus obfuscatur: vt in 
+          certa<lb ed="#P" n="87" break="no"/>minibus fieri solet. nam pugilibus finis quidem ipse 
+          <lb ed="#P" n="88"/>iocundus est gratia cuius certant: corone inquam atque 
+          <lb ed="#P" n="89"/>honores. sed cedi molestum est: cum sint e carne: 
+          <lb ed="#P" n="90"/>doloresque affert et omnis omnino labor. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

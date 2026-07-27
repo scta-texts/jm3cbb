@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="17-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e10105"><!-- l3d6q1 -->
+        <head xml:id="jm3cbb-e10105-Hd1e99">Quaestio 1</head>
+        <head xml:id="jm3cbb-e10105-Hd1e101" type="question-title">De veritate istius: Christus est aliqua duo, et quale esse est in Christo</head>
+        <p xml:id="jm3cbb-e10105-d1e104">
+          <lb ed="#P" n="109"/>Circa hanc sextam 
+          <lb ed="#P" n="110"/>distinctionem quero duo. 
+          Pri<lb ed="#P" n="111" break="no"/>mo de veritate istius: christus 
+          <lb ed="#P" n="112"/>est aliqua duo. Secundo circa 
+          <lb ed="#P" n="113"/>positiones quaes magister in 
+          lit<lb ed="#P" n="114" break="no"/>tera recitat de esse christi.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e120">
+          ¶ 
+          Pro<lb ed="#P" n="115" break="no"/>quaestionis solutione scito: multi 
+          <lb ed="#P" n="116"/>plex est esse secundum doctores: aliquod est esse essentie 
+          si<lb ed="#P" n="117" break="no"/>ue existentie: et quicquid alii dicant / dico quod esse es 
+          <lb ed="#P" n="118"/>sentie et existentie idemptificatur cum re que existit 
+          <lb ed="#P" n="119"/>hec tria vocabula couertuntur ( esse essentie / esse 
+          exi<lb ed="#P" n="120" break="no"/>fetieetesiiet pus conplexesua ssgnificara in¬¬ 
+          <pb ed="#P" n="17-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>portent et vnum incomplexe: aliud vocant esse 
+          proposi<lb ed="#P" n="2" break="no"/>tionale: et nihil aliud est quam habitudo rei 
+          significa<lb ed="#P" n="3" break="no"/>te per subiectum in ordine ad rem significatam per 
+          pre<lb ed="#P" n="4" break="no"/>dicatum: vt sortem esse album est esse propositionale ist 
+          i<lb ed="#P" n="5" break="no"/>us propositionis sortes est albus: non quod sit aliquod 
+          <lb ed="#P" n="6"/>complexum significabile sicut fingit Gregorius. idem 
+          <lb ed="#P" n="7"/>est significabile complexum et incomplexum: patet: 
+          <lb ed="#P" n="8"/>idem significatur per complexum et incomplexum. 
+          <lb ed="#P" n="9"/>sortes significatur per partem istius complexi 
+          sor<lb ed="#P" n="10" break="no"/>tem esse album: et per illud totum: sed sortem esse album 
+          <lb ed="#P" n="11"/>nihil aliud est quam sortes. vtrobique resoluatur 
+          obli<lb ed="#P" n="12" break="no"/>quus in rectum: verbum infiniti modi in 
+          partici<lb ed="#P" n="13" break="no"/>pium sue significationis actiue vel passiue: vt sortem 
+          <lb ed="#P" n="14"/>esse album: idem est quod sortes existens albus: et ex 
+          con<lb ed="#P" n="15" break="no"/>sequente tales sunt concedende: sortem moueri est 
+          sor<lb ed="#P" n="16" break="no"/>tem comedere: supposito quod moueatur et comedat: et 
+          <lb ed="#P" n="17"/>ita in talibus vtrobique. esse suppositale vel esse 
+          sub<lb ed="#P" n="18" break="no"/>sistentie est inferius adesse essentie: patet ex 
+          prima<lb ed="#P" n="19" break="no"/>distinctione huius.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e181">
+          ¶ His praesuppositis ponuntur 
+          <lb ed="#P" n="20"/>conclusiones ad questionem responsiue. Quarum 
+          prima<lb ed="#P" n="21" break="no"/>est: in christo est duplex vel triplex esse essentie vel 
+          <lb ed="#P" n="22"/>existentie. probatio: in christo sunt deitas / corpus 
+          <lb ed="#P" n="23"/>et anima / que specie distinguntur.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e193">
+          ¶ Secunda 
+          con<lb ed="#P" n="24" break="no"/>clusio: in christo est nisi vnum esse suppositale. 
+          pro<lb ed="#P" n="25" break="no"/>batio: est nisi vnum suppositum in christo. ergo est 
+          ni<lb ed="#P" n="26" break="no"/>si esse vnum suppositale siue subsistentie.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e202">
+          ¶ Tertia 
+          <lb ed="#P" n="27"/>conclusio: christus non est aliqua duo. probatur per 
+          <lb ed="#P" n="28"/>illud simboli athanasii: non duo tamen / sed vnus 
+          <lb ed="#P" n="29"/>est christus. Secundo arguitur ad idem: pater non 
+          <lb ed="#P" n="30"/>est aliqua duo: nec spiritus sanctus est aliqua duo: 
+          <lb ed="#P" n="31"/>ergo nec christus. Tertio arguitur: christus non 
+          <lb ed="#P" n="32"/>est natura assumpta: ergo licet sit homo et deus 
+          <lb ed="#P" n="33"/>copulatim et copulatiue / non tamen est aliqua duo¬ 
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e220">
+          <lb ed="#P" n="34"/>¶ Contra hanc tertiam conclusionem arguitur: 
+          chri<lb ed="#P" n="35" break="no"/>stus est homo et deus: ergo christus est duo.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e227">
+          ¶ 
+          Se<lb ed="#P" n="36" break="no"/>cundo arguitur. christus secundum quod homo est aliquid. 
+          <lb ed="#P" n="37"/>patet de hereticis: cum christus: ergo per idem secundum quod 
+          <lb ed="#P" n="38"/>deus est aliquid: vel secundum quod homo est idem aliquid 
+          <lb ed="#P" n="39"/>quod est deus: vel aliquid aliud. sed secundum quod deus 
+          <lb ed="#P" n="40"/>non est idem aliquid quod homo: quia tunc 
+          huma<lb ed="#P" n="41" break="no"/>nitate esset deus: ergo est aliud et aliud: et per 
+          con<lb ed="#P" n="42" break="no"/>sequens duo.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e245">
+          ¶ Ad primum dicitur consequentia est 
+          nul<lb ed="#P" n="43" break="no"/>la. argumentum probaret angelum esse duo: vel tria 
+          <lb ed="#P" n="44"/>( quod liquet esse falsum) cum est angelus / spiritus / 
+          <lb ed="#P" n="45"/>substantia. plura ergo predicata dici de pronomine 
+          <lb ed="#P" n="46"/>idem demonstrante non sufficienter arguit aliquid 
+          es<lb ed="#P" n="47" break="no"/>se duo. sed esse plures partes hoc argueret. modo 
+          <lb ed="#P" n="48"/>christus non est plures partes. Et si dicas omnis 
+          ho<lb ed="#P" n="49" break="no"/>mo est compositus ex corpore et anima. christus est 
+          <lb ed="#P" n="50"/>homo: igitur.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e265">
+          ¶ Respondetur maior est vera: 
+          sub<lb ed="#P" n="51" break="no"/>iectum non distribuitur pro quolibet significato quod 
+          <lb ed="#P" n="52"/>terminus homo significat: sed pro significatis quae 
+          <lb ed="#P" n="53"/>vniuoce significat.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e275">
+          ¶ Sed pro clariore intelligentia 
+          <lb ed="#P" n="54"/>distinguo illam / omnis homo est compositus: vel homo 
+          <lb ed="#P" n="55"/>capitur absolute: et sic concedo. modo deus non 
+          <lb ed="#P" n="56"/>est sic homo. si capiatur connotatiue pro illo quod 
+          <lb ed="#P" n="57"/>est suppositum independens humanitatem sustentans 
+          <lb ed="#P" n="58"/>quod suppositum est homo: tunc propositio assum 
+          <lb ed="#P" n="59"/>pta est falsa. licet christus sit homo / risibilis / 
+          ani<lb ed="#P" n="60" break="no"/>mal / per communicationem idiomatum: non tamen est 
+          con<lb ed="#P" n="61" break="no"/>positus.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e295">
+          ¶ Ad secundum argumentumcoceditur quod il¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>la est vera (potissimum si gratia concomituntie 
+          expo<lb ed="#P" n="63" break="no"/>natur) christus secundum quod homo est aliquid: vt patet 
+          <lb ed="#P" n="64"/>per exponentes eius. sed tamen non sequitur 
+          chri<lb ed="#P" n="65" break="no"/>stus secundum quod homo est aliquid: ergo christus secundum est 
+          <lb ed="#P" n="66"/>idem aliquid quod est deus quod homo et hoc 
+          si<lb ed="#P" n="67" break="no"/>capiatur secundum quod reduplicatiue: quia arguendo a 
+          <lb ed="#P" n="68"/>superiori ad inferius respectu predicati 
+          redupli<lb ed="#P" n="69" break="no"/>cati consequentia est nulla: vt non sequitur om¬¬ 
+          <lb ed="#P" n="70"/>nis homo inquam rationalis est risibilis. ergo 
+          om<lb ed="#P" n="71" break="no"/>nis homo inquam rationalis est hoc risibile. patet. cum 
+          <lb ed="#P" n="72"/>antecedens est verum: et multe exponentes 
+          copula<lb ed="#P" n="73" break="no"/>tiue consequentis sunt false. sed si inferatur illa 
+          pro<lb ed="#P" n="74" break="no"/>positio de disiuncto predicato / sic arguendo. 
+          chri<lb ed="#P" n="75" break="no"/>stus secundum quod homo est aliquid: ergo christus secundum qu 
+          <lb ed="#P" n="76"/>homo est idem aliquid quod est deus vel aliquid aliud 
+          <lb ed="#P" n="77"/>consequentia est bona: et consequens est verum sicut 
+          <lb ed="#P" n="78"/>et antecedens.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e337">
+          ¶ Secundo arguitur: christus non est tamten 
+          <lb ed="#P" n="79"/>deus. neque christus est tantum homo: ergo est aliquid 
+          <lb ed="#P" n="80"/>aliud ab homine: et aliquid aliud a deo: et per 
+          conse<lb ed="#P" n="81" break="no"/>quens est duo. assumptum patet per Damascenum. vii. 
+          <lb ed="#P" n="82"/>ca. suitertii dicentem / qula factus / est homo ex muliere 
+          <lb ed="#P" n="83"/>et tempore partus super nos quia non ex semine / sed 
+          <lb ed="#P" n="84"/>ex spuit sancto et ex sancta virgine: sic per partus 
+          <lb ed="#P" n="85"/>legem et non deum ipsum solum predicamus spoliatum 
+          <lb ed="#P" n="86"/>humanitate secundum nos neque sane hominem solum.
+        </p>
+        <p xml:id="jm3cbb-e10105-d1e357">
+          ¶ 
+          Re<lb ed="#P" n="87" break="no"/>spondetur. ille propositiones non sunt exclusiue 
+          assum<lb ed="#P" n="88" break="no"/>pte a Damasceno: sed propositiones de exclusis 
+          <lb ed="#P" n="89"/>predicatis vel de exclusis extremis: que 
+          equiua<lb ed="#P" n="90" break="no"/>lent preiacentibus / si exponantur gratia alietatis 
+          <lb ed="#P" n="91"/>vel pluralitatis cum termino numerali: sed quando 
+          po<lb ed="#P" n="92" break="no"/>nitur terminus connotatiuus a parte praedicati 
+          pro<lb ed="#P" n="93" break="no"/>positio est amphibologica et distinguenda: penes 
+          <lb ed="#P" n="94"/>hoc quod fiat exclusio gratia alietatis: vel alterieta¬: 
+          <lb ed="#P" n="95"/>tis. vt sortes est tantum albus: gratia alietatia 
+          va<lb ed="#P" n="96" break="no"/>let hanc: sortes est albus et non est non albus. 
+          Eoden<lb ed="#P" n="97" break="no"/>modo sisit negatiua de excluso extremo. gratia 
+          <lb ed="#P" n="98"/>alterietatis valet hanc: sortes est tantum albus: 
+          sora<lb ed="#P" n="99" break="no"/>tes est albus et non est aliter qualificatus similiter 
+          <lb ed="#P" n="100"/>secundum exigentiam verborum vel participiorsm dicatut: 
+          <lb ed="#P" n="101"/>vt sortes tantum studet: denotat sortem studere: e 
+          <lb ed="#P" n="102"/>nullum alium actum exercere. sortes est tantum magister 
+          <lb ed="#P" n="103"/>in artibus: ponit magistrum in artibus: et negat 
+          om<lb ed="#P" n="104" break="no"/>nem alium gradum: sortes fuit tantum in gallia: 
+          sortem<lb ed="#P" n="105" break="no"/>significat in gallia fuisse: et in nulla alia patris 
+          fu<lb ed="#P" n="106" break="no"/>isse. In proposito deus est tantum homo: illa est distin 
+          <lb ed="#P" n="107"/>guenda. si sit propositio de excluso extremo 
+          gra<lb ed="#P" n="108" break="no"/>tia alietatis est vera. si excludat gratia 
+          alterieta<lb ed="#P" n="109" break="no"/>tis est falsa: quia valet hanc: christus est homo et 
+          <lb ed="#P" n="110"/>non est aliter qualificatus. i. non habet aliam deno 
+          <lb ed="#P" n="111"/>minationem: quod est falsum: quia denominationem habet 
+          <lb ed="#P" n="112"/>que aliis hominibus non conuenit: quia est deus. 
+          <lb ed="#P" n="113"/>Ista propositio christus est tantum deus / non est 
+          <lb ed="#P" n="114"/>sic distinguenda de virtute sermonis. imo vult 
+          di<lb ed="#P" n="115" break="no"/>cere quod de christo non solum verificatur deus: sed etiam 
+          <lb ed="#P" n="116"/>homo quod expresse ipse exponit inquiens: et non deum 
+          ip<lb ed="#P" n="117" break="no"/>sum solum praedicamus spoliatum humanitate: hoc est 
+          di<lb ed="#P" n="118" break="no"/>ctu: quando dicimus / christus est deus / non negamua 
+          <lb ed="#P" n="119"/>quin sit homo: immo hoc ingenue fatemur: quod 
+          tan<lb ed="#P" n="120" break="no"/>git in verbo spoliatum humanitate. Ex his patet 
+          <lb ed="#P" n="121"/>licet in christo (loquendo vt plures) sint tres 
+          res<lb ed="#P" n="122" break="no"/>christus non tamen est aliqua tria: nec aliqua duo¬ 
+          <pb ed="#P" n="18-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>licet pater verbum et spiritus sanctus vnum sunt in 
+          <lb ed="#P" n="2"/>essentia: et verbum sit deus et deitas: non tamen est 
+          <lb ed="#P" n="3"/>natura humana vel humanitas: quod in abstracto 
+          <lb ed="#P" n="4"/>semper pro natura assumpta accipitur. et sic non 
+          <lb ed="#P" n="5"/>est duo in feminino puta due nature. nec duo 
+          neu<lb ed="#P" n="6" break="no"/>traliter: puta duo supposita. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

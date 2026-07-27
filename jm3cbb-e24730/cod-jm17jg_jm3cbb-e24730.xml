@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="41-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e24730"><!-- l3d18q2 -->
+        <head xml:id="jm3cbb-e24730-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e24730-Hd1e101" type="question-title">Quid Christus meruerit et quibus</head>
+        <p xml:id="jm3cbb-e24730-d1e104">
+          <lb ed="#P" n="69"/>SEcundo quero 
+          <lb ed="#P" n="70"/>quid christus meruerit: et 
+          qui<lb ed="#P" n="71" break="no"/>bus. Pro illo ponam aliquas 
+          <lb ed="#P" n="72"/>conclusiones.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e115">
+          ¶ Prima est: 
+          chri<lb ed="#P" n="73" break="no"/>stus meruit sibi per suam 
+          passio<lb ed="#P" n="74" break="no"/>nem: et alios actus: dotes 
+          cor<lb ed="#P" n="75" break="no"/>poris: et exaltationem sui 
+          nomi<lb ed="#P" n="76" break="no"/>nis. probatio: christus meruit omne illud quod spectat 
+          <lb ed="#P" n="77"/>ad suam beatitudinem anime et corporis: et 
+          potissi<lb ed="#P" n="78" break="no"/>mum quod non fuit ab eo habitum: nec fuit nature 
+          <lb ed="#P" n="79"/>debitum. sed impassibilitas et cetere corporis 
+          do<lb ed="#P" n="80" break="no"/>tes ad beatitudinem corporis pertinent. ergo illas 
+          <lb ed="#P" n="81"/>meruit. similiter exaltationem sui nominis: quia 
+          <lb ed="#P" n="82"/>gloria est clara cum laude noticia: vt dicit glo 
+          Ro<lb ed="#P" n="83" break="no"/>manorum vlti. et quia dicit Philosophus. i. 
+          Ethi<lb ed="#P" n="84" break="no"/>corum de felici: bene esse felicitatis est vt felix non 
+          <lb ed="#P" n="85"/>solum viuus sed etiam mortuus viuat in memoriis 
+          <lb ed="#P" n="86"/>hominum. christus nec habuit dotes corporis nec 
+          <lb ed="#P" n="87"/>exaltationem sui nominis ante passionem: nec ista 
+          <lb ed="#P" n="88"/>debebantur nature humane ratione nature. de 
+          no<lb ed="#P" n="89" break="no"/>minis exaltatione loquitur apostolus ad 
+          philip<lb ed="#P" n="90" break="no"/>pensis ii. inquiens. Propter quod deus exaltauit 
+          il<lb ed="#P" n="91" break="no"/>lum et dedit illi nomen quod est super omne nomen: 
+          <lb ed="#P" n="92"/>scilicet vt credatur deus. Ex isto patet quod aliquid 
+          me<lb ed="#P" n="93" break="no"/>ruit sibi ipsi.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e163">
+          ¶ Sed an suam beatitudinem sibi 
+          me<lb ed="#P" n="94" break="no"/>ruit / est maior difficultas. via communis tenet quod 
+          <lb ed="#P" n="95"/>habuit suam beatitudinem gratis: hoc est sine 
+          meri<lb ed="#P" n="96" break="no"/>tis: probatio illius est multum apparens. christus in 
+          <lb ed="#P" n="97"/>primo instanti sui esse fuit beatus: vel ergo 
+          habu<lb ed="#P" n="98" break="no"/>it illam beatitudinem gratis: et habetur intentum: 
+          <lb ed="#P" n="99"/>vel ex meritis preuiis. et tunc sic: hanc 
+          beatitudi<lb ed="#P" n="100" break="no"/>nem (demonstrando dilectionem dei clare visi ) 
+          chri<lb ed="#P" n="101" break="no"/>stus meruit. vel hoc erat per actum in creaturam 
+          <lb ed="#P" n="102"/>latum: vel per actum precise in deum latum. non 
+          pri<lb ed="#P" n="103" break="no"/>mum: non est vero simile quod anima christi prius 
+          na<lb ed="#P" n="104" break="no"/>tura habuerit actum in creaturam latum quam latum 
+          <lb ed="#P" n="105"/>in deum. non secundum. primus actus voluntatis quem 
+          <lb ed="#P" n="106"/>anima christi habuit in deum latum erat dilectio dei 
+          cla<lb ed="#P" n="107" break="no"/>re et intuitiue cogniti: sed talis dilectio est 
+          beati<lb ed="#P" n="108" break="no"/>tudo. tunc sic: hac dilectione anima christi 
+          meru<lb ed="#P" n="109" break="no"/>it beatitudinem: hec dilectio est beatitudo: ergo 
+          bea<lb ed="#P" n="110" break="no"/>titudinem meruit beatitudine: ergo idem respectu 
+          <lb ed="#P" n="111"/>eiusdem est meritum et premium: quod nichil est 
+          di<lb ed="#P" n="112" break="no"/>cere.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e208">
+          ¶ Secundo arguitur: christus in primo 
+          in<lb ed="#P" n="113" break="no"/>stanti sue conceptionis christi erat beatus secundum 
+          ani<lb ed="#P" n="114" break="no"/>mam: sed merita semper precedunt premium.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e215">
+          ¶ Ad 
+          <lb ed="#P" n="115"/>has rationes multipliciter dicitur: vno modo: 
+          pro<lb ed="#P" n="116" break="no"/>bant bene probabiliter quod christus habuit 
+          beati<lb ed="#P" n="117" break="no"/>tudinem sine meritis: nec hoc est indecens ei vel 
+          to<lb ed="#P" n="118" break="no"/>ti ordini beatorum. aliqui beatitudinem habent pro 
+          <lb ed="#P" n="119"/>meritis: aliqui sine meritis propriis: vt paruuli 
+          <pb ed="#P" n="41-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>circuncisi vel baptizati: aliquis sine meritis 
+          pro<lb ed="#P" n="2" break="no"/>pter persone excellentiam.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e237">
+          ¶ Secundo dici potest ad 
+          <lb ed="#P" n="3"/>has rationes quod christus habuit beatitudinem per actus 
+          <lb ed="#P" n="4"/>meritorios vel meritorium: probatur hoc sic: 
+          glorio<lb ed="#P" n="5" break="no"/>sius est habere praemium: hoc est beatitudinem: per 
+          me<lb ed="#P" n="6" break="no"/>rita propria quam sine meritis propriis. aliquo modo 
+          <lb ed="#P" n="7"/>alii adulti meriti sunt suam beatitudinem: nullus erat 
+          <lb ed="#P" n="8"/>talis adultus in merendo sicut christus: igitur. 
+          Se<lb ed="#P" n="9" break="no"/>cundo: christus erat viator secundum corpus: ergo mereri 
+          <lb ed="#P" n="10"/>poterat sibi suam beatitudinem: sicut corporis 
+          do<lb ed="#P" n="11" break="no"/>tes sibi meritus est. et illud ponitur vno modo sic. 
+          <lb ed="#P" n="12"/>christus habuit infinitam gratiam: ergo cum quocunque 
+          <lb ed="#P" n="13"/>conatu poterat elicere actum infinite intensum: et 
+          <lb ed="#P" n="14"/>infinite meritorium. Sed dicis: verum est poterat 
+          eli<lb ed="#P" n="15" break="no"/>cere actum infinite intensum: sed non infinite 
+          meri<lb ed="#P" n="16" break="no"/>torium: cum conatus penes quem mensuratur meritum 
+          <lb ed="#P" n="17"/>non est infinitus.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e272">
+          ¶ Contra hoc arguo: si sortes 
+          su<lb ed="#P" n="18" break="no"/>is meritis gratiam vt octo acquirat: actum eliciens 
+          <lb ed="#P" n="19"/>vt octo tantum meretur sicut millesimam partem 
+          <lb ed="#P" n="20"/>vnius gradus habens / eliciens actum intensum 
+          <lb ed="#P" n="21"/>vt octo. licet minus conetur per actus suos: illam 
+          <lb ed="#P" n="22"/>facilitationem ad actus productionem acquisiuit: 
+          <lb ed="#P" n="23"/>ergo cedit ei ad meritum. sicut temperatus 
+          facili<lb ed="#P" n="24" break="no"/>us ieiunat vnum diem quam intemperatus: et tamen 
+          <lb ed="#P" n="25"/>non minus meretur: cum ex parte obiecti est eadem 
+          <lb ed="#P" n="26"/>difficultas: ergo cum actus intensus vt octo est 
+          <lb ed="#P" n="27"/>equalis: equaliter merentur. et eodem modo si vnus 
+          <lb ed="#P" n="28"/>acquirit gratiam in principio per baptismum et 
+          con<lb ed="#P" n="29" break="no"/>firmationem. sed quia virtus dei non est alligata 
+          sa<lb ed="#P" n="30" break="no"/>cramentis: et deus in primo instanti esse christi: 
+          con<lb ed="#P" n="31" break="no"/>tulit eius anime infinitam gratiam: perinde erit ac si 
+          <lb ed="#P" n="32"/>deus dedisset illi anime gratiam per actus 
+          merito<lb ed="#P" n="33" break="no"/>rios. radicalis causa actus meritorii in 
+          accepta<lb ed="#P" n="34" break="no"/>tione diuina consistit. volo dicere: deus dedit 
+          ani<lb ed="#P" n="35" break="no"/>me christi infinitam gratiam: sic scilicet: quod actus elicitus 
+          <lb ed="#P" n="36"/>ab illa gratiam tantum ei valuisset ac si gratam illam 
+          <lb ed="#P" n="37"/>infinitam habuisset ex meritis
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e318">
+          ¶ Tunc dico: et erit 
+          <lb ed="#P" n="38"/>prima via vel imaginatio. christus in primo 
+          instan<lb ed="#P" n="39" break="no"/>ti quo anima eius erat in rerum natura 
+          apprehende<lb ed="#P" n="40" break="no"/>bat clare passione futuram: et deum volebat pati pro 
+          <lb ed="#P" n="41"/>generis humani redemptione. dicatur volitio 
+          pati<lb ed="#P" n="42" break="no"/>endi a. et dilectio dei beatifica b. aliqua est 
+          priori<lb ed="#P" n="43" break="no"/>tas a. ad b. licet sint in eadem potentia: non 
+          priori<lb ed="#P" n="44" break="no"/>tas temporis vel instantis: sed dispositionis 
+          natu<lb ed="#P" n="45" break="no"/>ralis pro beatitudine: sicut actus detestatiuus 
+          pec<lb ed="#P" n="46" break="no"/>cati quo peccator resurgit a peccato est prior 
+          in<lb ed="#P" n="47" break="no"/>genere dispositionis: et genere cause materialis: 
+          <lb ed="#P" n="48"/>et gratia prior in genere cause efficientis: posito quod 
+          <lb ed="#P" n="49"/>gratia ad illam dispositionem effectiuam concurrat: quod 
+          <lb ed="#P" n="50"/>est probabile: sic hic a. est dispositio meriti et b. 
+          glo<lb ed="#P" n="51" break="no"/>ria: et sic per prioritatem quandam dispositiuam data 
+          <lb ed="#P" n="52"/>est anime christi infinita beatitudo: propter actum 
+          <lb ed="#P" n="53"/>vel actus plures bonos infinite intensos 
+          infini<lb ed="#P" n="54" break="no"/>te meritorios.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e357">
+          ¶ Secunda via erit: quilibet actus 
+          <lb ed="#P" n="55"/>bonus elicitus in primo instanti erat meritorius 
+          <lb ed="#P" n="56"/>vite eterne: dilectio dei et quilibet alius actus 
+          bo<lb ed="#P" n="57" break="no"/>nus: et sic concedo secundum hanc viam: actus 
+          beatifi<lb ed="#P" n="58" break="no"/>cus est meritorius: et meritum est premium actus 
+          <lb ed="#P" n="59"/>meritorii. Et cum arguis: hoc actu meritorio 
+          sor<lb ed="#P" n="60" break="no"/>tes meretur beatitudinem: demonstrando 
+          dilectio<lb ed="#P" n="61" break="no"/>nem dei: hic actus est beatitudo: ergo beatitudi¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>ne meretur beatitudinem concedo totum 
+          argumen<lb ed="#P" n="63" break="no"/>tum non semper est necesse premium distingui a 
+          me<lb ed="#P" n="64" break="no"/>rito: patet instantia in christo: non autem in aliis. et 
+          in<lb ed="#P" n="65" break="no"/>mirum: erat simul comprehensor et viator.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e387">
+          ¶ 
+          Ter<lb ed="#P" n="66" break="no"/>tia via: quilibet actus liber christi erat ei 
+          merito<lb ed="#P" n="67" break="no"/>rius per totum tempus quo erat viator secundum corpus. 
+          <lb ed="#P" n="68"/>sed beatitudo anime christi non augebatur 
+          intensi<lb ed="#P" n="69" break="no"/>ue vltra illam quam habuit in primo instanti quo 
+          fu<lb ed="#P" n="70" break="no"/>it anima in rerum natura. et illud est rationabile: 
+          <lb ed="#P" n="71"/>quia per totum illud tempus erat secundum aliquid 
+          via<lb ed="#P" n="72" break="no"/>tor: sed toto tempore quo quis est viator est in 
+          sta<lb ed="#P" n="73" break="no"/>tu merendi. Ex ista via sequitur quod beatitudo 
+          pre<lb ed="#P" n="74" break="no"/>cessit aliqua merita: et hoc nullum est inconueniens: 
+          <lb ed="#P" n="75"/>quia habuit meritum infinitum in primo instanti: et 
+          <lb ed="#P" n="76"/>sic non precessit premium finale meritum: sicut vna 
+          <lb ed="#P" n="77"/>via quam magister recitat in secundo de angelis 
+          te<lb ed="#P" n="78" break="no"/>net. Secundo: non est idem de angelis qui erant in 
+          <lb ed="#P" n="79"/>termino et non partim viatores: hoc est: non secundum 
+          <lb ed="#P" n="80"/>aliquam eorum partem: cum partes non habuerunt. 
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e422">
+          <lb ed="#P" n="81"/>¶ Quantum ad meritum quo nobis meruit: dicitur 
+          <lb ed="#P" n="82"/>quod nobis meruit apertionem ad paradisum sicut 
+          <lb ed="#P" n="83"/>dicit magister in littera. Et patet hec conclusio: 
+          <lb ed="#P" n="84"/>nullus ante precium seculi redemptum iuit ad 
+          para<lb ed="#P" n="85" break="no"/>disum: hoc est celum: vel habuit visionem beatificam: 
+          <lb ed="#P" n="86"/>patet de patribus in limbo: nec diua genitrix 
+          ha<lb ed="#P" n="87" break="no"/>buisset hoc / si mortem obiisset ante mortem christi: 
+          pro<lb ed="#P" n="88" break="no"/>pterea christus eam adhuc superstitem tenuit: non 
+          <lb ed="#P" n="89"/>tamen erat necesse quod ad patrum limbum iret: cum lex 
+          <lb ed="#P" n="90"/>communis de originali in ea non habuit locum. etiam 
+          <lb ed="#P" n="91"/>est verosimile quod non iuisset ad patrum limbum: sed 
+          <lb ed="#P" n="92"/>ad paradisum terrestem: vel alium locum secundum quod deo 
+          <lb ed="#P" n="93"/>placet. christus prius ascendit ad paradisum celestem: 
+          <lb ed="#P" n="94"/>super illo Michee. v. ascendet pandit iter ante eos: 
+          <lb ed="#P" n="95"/>glosa interlinearis hoc exponit de ascensu in 
+          pa<lb ed="#P" n="96" break="no"/>radisum. ergo paradisus celestis si capiatur 
+          pro<lb ed="#P" n="97" break="no"/>visione beatifica fuit clausa ante mortem christi 
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e461">
+          <lb ed="#P" n="98"/>¶ Contra primam conclusionem arguitur: christo 
+          de<lb ed="#P" n="99" break="no"/>bebantur dotes corporis ratione beatitudinis 
+          ani<lb ed="#P" n="100" break="no"/>me secundum communem legem. hoc habent reliqui omnes 
+          <lb ed="#P" n="101"/>beati. ergo non meruit eas.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e472">
+          ¶ Secundo: christus 
+          in<lb ed="#P" n="102" break="no"/>primo instanti quo erat in rerum natura meruit 
+          bea<lb ed="#P" n="103" break="no"/>titudinem corporis: ergo postea illam beatitudinem 
+          <lb ed="#P" n="104"/>non sibi meruit in via. Si hoc concedas.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e481">
+          ¶ 
+          Con<lb ed="#P" n="105" break="no"/>tra hoc arguitur: christus erat beatus in primo 
+          instan<lb ed="#P" n="106" break="no"/>ti secundum animam: sicut in toto tempore vie. ergo debes 
+          <lb ed="#P" n="107"/>eodem modo concedere quod dotes corporis 
+          meri<lb ed="#P" n="108" break="no"/>tus est toto tempore vie sicut in primo instanti. 
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e492">
+          <lb ed="#P" n="109"/>¶ Ad primum respondetur negando consequentiam. 
+          <lb ed="#P" n="110"/>fuit viator secundum corpus: propterea non fuit idem de 
+          <lb ed="#P" n="111"/>ipso et aliis.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e502">
+          ¶ Ad secundum: concedo antecedens 
+          <lb ed="#P" n="112"/>et nego consequentiam. multipliciter meruit idem. 
+          <lb ed="#P" n="113"/>sicut apud regem aliquis potest idem multis 
+          mo<lb ed="#P" n="114" break="no"/>dis mereri. in aliis beatis / per varios actus 
+          vo<lb ed="#P" n="115" break="no"/>luntatis beati partiales beatitudines anime 
+          vari<lb ed="#P" n="116" break="no"/>as merentur: et forte ita est de corporum dotibus. 
+          <lb ed="#P" n="117"/>secus est de christo.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e518">
+          ¶ Contra istas tres vias de 
+          <lb ed="#P" n="118"/>beatitudine: probatur quod christus non meritus est 
+          <lb ed="#P" n="119"/>suam beatitudinem per magistrum in littera. c. ii. 
+          di<lb ed="#P" n="120" break="no"/>centem. Tanta enim plenitudo spiritualium 
+          carisma<lb ed="#P" n="121" break="no"/>tum in eo fuit quod in eis proficere non potuit: et ideo 
+          <lb ed="#P" n="122"/>melior ipsius animam fieri non poterat quam ab initio 
+          <pb ed="#P" n="42-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sue conditionis extitit: quia proficere in meritis 
+          <lb ed="#P" n="2"/>non valuit. et ad hoc Gregorium introducit. 
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e540">
+          <lb ed="#P" n="3"/>¶ Respondetur: magister est pro his viis: vel 
+          ea<lb ed="#P" n="4" break="no"/>rum imaginatione aliqua. in eodem ca. dicit: non 
+          er<lb ed="#P" n="5" break="no"/>go profecit secundum anime meritum quantum ad virtutem 
+          mer<lb ed="#P" n="6" break="no"/>riti: profecit tamen quantum ad numerum meritorum. 
+          <lb ed="#P" n="7"/>plura enim habuit merita in passione quam in conceptione. 
+          <lb ed="#P" n="8"/>et Paulo post subiungit: non ergo beatior vel 
+          me<lb ed="#P" n="9" break="no"/>lior fuit quam antea. Ex his et littera sua clare patet 
+          <lb ed="#P" n="10"/>quod magister vult dicere quod christus meruit toto tempore 
+          <lb ed="#P" n="11"/>vite sue secundum carnem antequam esset mortuus: nec 
+          in<lb ed="#P" n="12" break="no"/>particulari distinguit de meritis quo ad 
+          beatitu<lb ed="#P" n="13" break="no"/>dinem anime. sed de omnibus / intelligit.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e566">
+          ¶ 
+          Recol<lb ed="#P" n="14" break="no"/>ligendo quattuor vias: dici potest quod christus habuit 
+          <lb ed="#P" n="15"/>beatitudinem anime sine meritis.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e573">
+          ¶ Secundo dici 
+          po<lb ed="#P" n="16" break="no"/>test quod beatitudine anime habuit per merita. et hoc 
+          <lb ed="#P" n="17"/>triplici via: vno modo per actus prioritate 
+          natu<lb ed="#P" n="18" break="no"/>re dispositos ad premium: licet premium ita cito erat 
+          <lb ed="#P" n="19"/>in eadem anima: actus inquam a premio distinctos: 
+          <lb ed="#P" n="20"/>vt volendo pati pro humani generis 
+          redemptio<lb ed="#P" n="21" break="no"/>ne. diligendo humanitatem suam: et alias creaturas 
+          <lb ed="#P" n="22"/>propter deum: et ita de aliis actibus laudabilibus 
+          er<lb ed="#P" n="23" break="no"/>ga creaturas: actualiter in deum relatis. licet isti actus 
+          <lb ed="#P" n="24"/>erant dilectiones dei clare visi: non erant beatifici / cum 
+          <lb ed="#P" n="25"/>non erant solius: dei ex. xlix. distinctione quarti.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e597">
+          ¶ Secunda 
+          <lb ed="#P" n="26"/>via idem actus / est beatitudo et meritum: sed non quilibet 
+          <lb ed="#P" n="27"/>actus meritorius est premium sui: sed solum dilectio 
+          so<lb ed="#P" n="28" break="no"/>lius dei clare visi: reliqui actus sunt merita et non 
+          <lb ed="#P" n="29"/>premia: et hoc in primo instanti esse anime christi 
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e609">
+          <lb ed="#P" n="30"/>¶ Tertia via: quilibet actus anime christi per 
+          <lb ed="#P" n="31"/>totam vitam christi erat meritorius etiam vite 
+          eter<lb ed="#P" n="32" break="no"/>ne. sed secundum quamcumqe viam non augetur beatitudo 
+          <lb ed="#P" n="33"/>in fine plusquam in primo instanti. Ad huc alia via 
+          <lb ed="#P" n="34"/>in argumento sequenti aperietur.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e622">
+          ¶ Contra secundam 
+          <lb ed="#P" n="35"/>viam arguitur: beatitudo illa non est libera: ergo 
+          <lb ed="#P" n="36"/>non est meritum.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e629">
+          ¶ Respondetur: probabile est quod 
+          bea<lb ed="#P" n="37" break="no"/>titudo a solo deo causetur: et sic beatitudo non est 
+          <lb ed="#P" n="38"/>libera. deus tamen preter legem commune potest illum 
+          <lb ed="#P" n="39"/>actum acceptare. et tunc dilectio dei clare visi que 
+          <lb ed="#P" n="40"/>est a voluntate creata elicita est actus meritorius 
+          <lb ed="#P" n="41"/>premii beatifici: et alterius speciei a fruitione 
+          bea<lb ed="#P" n="42" break="no"/>tifica. et fruitio beatifica est a solo deo causata et 
+          <lb ed="#P" n="43"/>premium: et non meritum. dilectio dei libere elicita a 
+          <lb ed="#P" n="44"/>voluntate est meritum et non premium. et sic non 
+          <lb ed="#P" n="45"/>habetur quod idem actus est meritum et premium 
+          vlti<lb ed="#P" n="46" break="no"/>matum. Si probabiliter teneatur quod anima christi 
+          <lb ed="#P" n="47"/>effectiue concurrit ad suam beatitudinem: sicut 
+          que<lb ed="#P" n="48" break="no"/>libet alia anima beata vel spiritus / beatus: iam 
+          re<lb ed="#P" n="49" break="no"/>sponsum habes ex precedentibus. Sed forte dicis: 
+          <lb ed="#P" n="50"/>si anima christi ad suam beatitudinem concurrat: ipsa 
+          <lb ed="#P" n="51"/>erit minor: inferior in specie beatitate angelica: 
+          <lb ed="#P" n="52"/>quod est inconueniens. patet sic: semper nobilior 
+          poten<lb ed="#P" n="53" break="no"/>tia circa idem obiectum potest causare noticiam 
+          <lb ed="#P" n="54"/>perfectiorem. sed angelus est perfectior entitatiue 
+          <lb ed="#P" n="55"/>anima christi. ergo noticiam intuitiuam perfectiorem 
+          <lb ed="#P" n="56"/>habet respectu verbi quam anima quecumque. et si actus 
+          <lb ed="#P" n="57"/>intellectus angelici fuerit alterius speciei ab actu 
+          <lb ed="#P" n="58"/>intellectus anime vel hominis: etiam erit actus 
+          vo<lb ed="#P" n="59" break="no"/>luntatis. non alias arguitur dilectio dei clare 
+          vi<lb ed="#P" n="60" break="no"/>si esse alterius speciei a dilectione dei abstractiue 
+          <lb ed="#P" n="61"/>cogniti: igitur. hec eadem difficultas in. xiiii. di¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>stinctione huius fieri poterat
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e690">
+          ¶ Respondetur si 
+          <lb ed="#P" n="63"/>teneamus quod beatitudo a solo deo causetur in 
+          dubi<lb ed="#P" n="64" break="no"/>tatione nulla est ambages. id rationis est: quia 
+          ani<lb ed="#P" n="65" break="no"/>ma quelibet est cuiuslibet accidentis receptiua 
+          cu<lb ed="#P" n="66" break="no"/>ius est angelus: et per consequens deus potest ita 
+          <lb ed="#P" n="67"/>perfectum actum intelligendi et volendi 
+          produce<lb ed="#P" n="68" break="no"/>re in animam sicut angelus aliquis habet. Secundo 
+          <lb ed="#P" n="69"/>dico: licet quilibet beatus ad suam beatitudinem 
+          <lb ed="#P" n="70"/>effectiue concurrit: et beatitudo angelica esset 
+          per<lb ed="#P" n="71" break="no"/>fectior entitatiue beatitudine humana: vel 
+          beati<lb ed="#P" n="72" break="no"/>tudine anime. non tamen est melior et magis 
+          ex<lb ed="#P" n="73" break="no"/>petenda: sicut magna portio argenti valet paruam 
+          <lb ed="#P" n="74"/>peciam auri. sic intensior actus indiuidui speciei 
+          <lb ed="#P" n="75"/>inferioris / potest transcendere in expetibilitate 
+          <lb ed="#P" n="76"/>indiuiduum remissum speciei superioris. modo 
+          bea<lb ed="#P" n="77" break="no"/>titudo anime xhrdti est infinita gradualiter. Tertio 
+          dico<lb ed="#P" n="78" break="no"/>difficulter probabis noticias intuitiuas eiusdem 
+          <lb ed="#P" n="79"/>obiecti a potentiis diuersarum rationum esse 
+          distin<lb ed="#P" n="80" break="no"/>ctas specie. sed oppositum est rationabilius.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e732">
+          ¶ 
+          Quar<lb ed="#P" n="81" break="no"/>to dico: anima christi potest concurrere ad suam 
+          <lb ed="#P" n="82"/>beatitudinem perfectiorem entitatiue quam sit 
+          beatitu<lb ed="#P" n="83" break="no"/>do cuiuscunqe angeli. hoc sic declaro: deus / potest 
+          <lb ed="#P" n="84"/>infundere lumen glorie vel alium habitum maiorem 
+          <lb ed="#P" n="85"/>( quocumqe nomine vocetur ) in animam christi: 
+          concur<lb ed="#P" n="86" break="no"/>rentem cum anima ad visionem verbi altioris speciei 
+          <lb ed="#P" n="87"/>quam sit visio in quocumqe angelo. manifestius hoc sic 
+          <lb ed="#P" n="88"/>explico: intellectus respectu eiusdem obiecti 
+          po<lb ed="#P" n="89" break="no"/>test habere duas noticias simplices distinctas 
+          <lb ed="#P" n="90"/>specie: patet de intuitiua noticia et abstractiua 
+          conco<lb ed="#P" n="91" break="no"/>mitante: vel sequente et si dabiles sunt due noticie 
+          incom<lb ed="#P" n="92" break="no"/>plexe respectu eiusdem obiecti specie distincte ad 
+          <lb ed="#P" n="93"/>quas concurrit intellectus: dari possunt innumere 
+          spe<lb ed="#P" n="94" break="no"/>cie distincte: que a variis habitibus vel actibus 
+          <lb ed="#P" n="95"/>produci possunt. et quicquid deus / potest facere 
+          me<lb ed="#P" n="96" break="no"/>diante causa secunda: deus potest se solo facere: 
+          <lb ed="#P" n="97"/>ergo cum deus potest noticiam altiorem 
+          produ<lb ed="#P" n="98" break="no"/>cere in animam christi mediante dispositione actuali 
+          <lb ed="#P" n="99"/>vel habituali quam habeat aliquis angelus: etiam 
+          ani<lb ed="#P" n="100" break="no"/>ma concurrente: ergo hoc potest facere se solo. et in 
+          <lb ed="#P" n="101"/>hoc vltimo quo ad beatitudinem anime christi magis 
+          <lb ed="#P" n="102"/>sto: puta quod illa beatitudo est perfectior entitatiue 
+          <lb ed="#P" n="103"/>quam beatitudo cuiuscumque angeli. non quod beatitudo 
+          <lb ed="#P" n="104"/>sua sit perfectissima creata possibilis: quia non 
+          po<lb ed="#P" n="105" break="no"/>test dari beatitudo beati infinite perfecta 
+          entita<lb ed="#P" n="106" break="no"/>tiue: et quaecunquam finita dabili creata: potest deus 
+          per<lb ed="#P" n="107" break="no"/>fectiorem beatitudinem producere: sicut quacumque 
+          crea<lb ed="#P" n="108" break="no"/>tura producibili data / potest pefectiorem producere 
+          <lb ed="#P" n="109"/>Et si dicas: semper perfectior potentia respectu 
+          <lb ed="#P" n="110"/>eiusdem obiecti habebit perfectiorem noticiam: 
+          <lb ed="#P" n="111"/>supposita equali approximatione obiectiua.
+        </p>
+        <p xml:id="jm3cbb-e24730-d1e802">
+          ¶ 
+          Re<lb ed="#P" n="112" break="no"/>spondetur: potest esse alia et alia approximatio 
+          ob<lb ed="#P" n="113" break="no"/>iecti: vt de obiecto visio a remotis et propinquis 
+          <lb ed="#P" n="114"/>Dicis: illic est eadem noticia specie: differunt solum 
+          <lb ed="#P" n="115"/>secundum intensum et remissum. quicquid sit de illo: deo 
+          <lb ed="#P" n="116"/>specialiter auxiliante cum dispositione 
+          acciden<lb ed="#P" n="117" break="no"/>tali: vel sine dispositione vlla preuia: assumptum tuum 
+          <lb ed="#P" n="118"/>non habet verum. sed viritatem continet secundum 
+          commu<lb ed="#P" n="119" break="no"/>nem legem: potissimum vie: et hoc habito: quod visio 
+          <lb ed="#P" n="120"/>anime christi in verbo est altioris speciei quam cuiuscumque 
+          <lb ed="#P" n="121"/>angeli visio: ex consequenti concludetur quod dilectio 
+          <lb ed="#P" n="122"/>voluntatis eius est altioris speciei quam dilectio ali¬ 
+          <pb ed="#P" n="42-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cuius angeli: cum causetur partialiter a noticia 
+          <lb ed="#P" n="2"/>actuali altioris speciei. sed dilectionem in patria 
+          <lb ed="#P" n="3"/>distinguimus / specie a dilectione dei in via: qua prior 
+          <lb ed="#P" n="4"/>causatur a noticia intuitiua verbi: posterior vero 
+          <lb ed="#P" n="5"/>a noticia abstractiua obscura eiusdem. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

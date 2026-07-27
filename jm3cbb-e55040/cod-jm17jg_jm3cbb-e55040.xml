@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 16</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 16</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="90-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e55040"><!-- l3d33q16 -->
+        <head xml:id="jm3cbb-e55040-Hd1e99">Quaestio 16</head>
+        <head xml:id="jm3cbb-e55040-Hd1e101" type="question-title">An vitia fortitudini opposita sint mala</head>
+        <p xml:id="jm3cbb-e55040-d1e104">
+          <lb ed="#P" n="91"/>SEptimo circa 
+          mate<lb ed="#P" n="92" break="no"/>riam fortitudinis queritur de 
+          <lb ed="#P" n="93"/>eius oppositis: scilicet audacia et 
+          ti<lb ed="#P" n="94" break="no"/>more. et queritur an vicia 
+          forti<lb ed="#P" n="95" break="no"/>tudini opposita sint mala. 
+          Pro<lb ed="#P" n="96" break="no"/>questionis solutione aliqua 
+          cir<lb ed="#P" n="97" break="no"/>ca rationes terminorum 
+          expli<lb ed="#P" n="98" break="no"/>cabo: postea aliorum modum dicendi communium 
+          reci<lb ed="#P" n="99" break="no"/>tabo. et quia michi non placet: alium ponam. fortitudo 
+          <lb ed="#P" n="100"/>facit hominem decenter et vt oportet aggredi et 
+          ex<lb ed="#P" n="101" break="no"/>pectare. sed homo potest excessiue aggredi: illud 
+          <lb ed="#P" n="102"/>vicium est audacia. potest etiam homo deficere in 
+          ag<lb ed="#P" n="103" break="no"/>grediendo vbi oportet vel minus quod oportet: et 
+          il<lb ed="#P" n="104" break="no"/>lud vocatur cohardia. timiditas autem facit non 
+          <lb ed="#P" n="105"/>expectare: vel minus quam oportet. intimiditas facit 
+          <lb ed="#P" n="106"/>plus expectare quam oportet: sed illud est solum ad 
+          <lb ed="#P" n="107"/>nutum vocabula multiplicare. non tamen nego quin potest 
+          <lb ed="#P" n="108"/>esse excessus t defectus inuadendo: similiter et in ex 
+          <lb ed="#P" n="109"/>pectando: vel ninis confidere: vel minus: sicut 
+          Aristo<lb ed="#P" n="110" break="no"/>teles dicit. iii. ethicorum. vii. Preterea scito cum 
+          timor<lb ed="#P" n="111" break="no"/>est passio: et propter passiones nec laudamur nec 
+          vi<lb ed="#P" n="112" break="no"/>tuperamur. ii. ethicorum: non ponam cum communiter 
+          <lb ed="#P" n="113"/>loquentibus extrema fortitudinis passiones: sed 
+          <lb ed="#P" n="114"/>actus voluntatis vel eius defectus. dabo actus 
+          ho<lb ed="#P" n="115" break="no"/>rum viciorum vt habitus eorum deprehendas: quia 
+          <lb ed="#P" n="116"/>habitus / per actus optime cognoscuntur. ecce actus 
+          <lb ed="#P" n="117"/>audacie excessus siue in aggrediendo siue in 
+          ex<lb ed="#P" n="118" break="no"/>pectando: volo inuadere vbi non oportet / vel 
+          plu<lb ed="#P" n="119" break="no"/>res quam oportet / vel expectare vbi fugiedum est. 
+          exen<lb ed="#P" n="120" break="no"/>plum alterius extremi in deficiendo: vt nolo expe¬ 
+          <pb ed="#P" n="90-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ttare vbi oportet vel minus quam oportet: vocabo hoc 
+          <lb ed="#P" n="2"/>extremum timorem: cum aliis loquendo: non 
+          intel<lb ed="#P" n="3" break="no"/>ligens quid sit passio.
+        </p>
+        <p xml:id="jm3cbb-e55040-d1e182">
+          ¶ hhis premissis pono octo 
+          <lb ed="#P" n="4"/>eonclusiones questioni responsiuas. Quarum 
+          prima<lb ed="#P" n="5" break="no"/>est: dabilis est vnus habitus inclinans hominem 
+          <lb ed="#P" n="6"/>ad expectandum contra rationem. Secunda 
+          conclu<lb ed="#P" n="7" break="no"/>sio: dabilis est vnus habitus inclinans hominem 
+          <lb ed="#P" n="8"/>ad inuadendum contra rectam rationem. Tertia 
+          con<lb ed="#P" n="9" break="no"/>clusio: dabile est vnum extremum viciosum in 
+          su<lb ed="#P" n="10" break="no"/>perabundando tam expectando quod inuadendo. 
+          Quar<lb ed="#P" n="11" break="no"/>ta conclusio: dabilis est vnus habitus inclinans 
+          ho<lb ed="#P" n="12" break="no"/>minem ad non inuadendum vbi oportet. Quinta 
+          <lb ed="#P" n="13"/>conclusio: dabilis est vnus habitus inclinans 
+          ho<lb ed="#P" n="14" break="no"/>minem ad fugiendum vbi non oportet. Sexta conclusio: 
+          <lb ed="#P" n="15"/>dabile est vnum vicium ad hec duo commune. 
+          Se<lb ed="#P" n="16" break="no"/>ptima conclusio. tam in expect ando quam in 
+          inuaden<lb ed="#P" n="17" break="no"/>do potest esse peccatum veniale. Octaua conclusio: 
+          <lb ed="#P" n="18"/>accidentaliter hic inserta propter sequentem. 
+          fortitu<lb ed="#P" n="19" break="no"/>do est pulchra virtus. Nona: dabile est peccatum 
+          <lb ed="#P" n="20"/>mortale grande et probrosum tam in fugiendo. quam in 
+          <lb ed="#P" n="21"/>inuadendo. Decima conclusio: timor est peius 
+          vi<lb ed="#P" n="22" break="no"/>cium quam audacia.
+        </p>
+        <p xml:id="jm3cbb-e55040-d1e226">
+          ¶ Prima conclusio probatur: 
+          dabi<lb ed="#P" n="23" break="no"/>lis est vnus actus elicitus quo quis vult e xpectare 
+          <lb ed="#P" n="24"/>contra rationem: modo ex actu generatur habitus. 
+          <lb ed="#P" n="25"/>Secunda conclusio eodem modo probatur. Tertia 
+          <lb ed="#P" n="26"/>conclusio probatur: potest imponi vnum nomen omnes 
+          <lb ed="#P" n="27"/>illos habitus significans: quia nomina significant 
+          <lb ed="#P" n="28"/>ad placitum. ergo dabile est vnum extremum. Secundo 
+          <lb ed="#P" n="29"/>arguitur ad idem. illiberalitas est capiendo plusquam 
+          <lb ed="#P" n="30"/>oportet: et non dando vbi oportet: ergo eodem modo 
+          <lb ed="#P" n="31"/>potest esse in proposito. Tertio arguitur: si non potest 
+          <lb ed="#P" n="32"/>assignari vnum vicium respectu illorum habituum 
+          <lb ed="#P" n="33"/>hoc esset quia specie distinguuntur: sed hoc non 
+          pro<lb ed="#P" n="34" break="no"/>hibet. patet: multi sunt actus fortitudinis specie 
+          di<lb ed="#P" n="35" break="no"/>stincti: et tamen sub fortitudine omnes 
+          comprshen<lb ed="#P" n="36" break="no"/>duntur: igitur. consequentia tenet cum minore: probatur 
+          <lb ed="#P" n="37"/>maior. multi sunt actus fortitudinis habentes 
+          obie<lb ed="#P" n="38" break="no"/>cta spem distincta. ergo illi actus spe distinguuntur. Isti 
+          <lb ed="#P" n="39"/>actus: volo expectare vbi oportet: et nolo aufuge 
+          <lb ed="#P" n="40"/>re vbi non oportet spem distinguuntur: et tamen sunt 
+          <lb ed="#P" n="41"/>actus spem distincti. mirandum est de illis antiquis 
+          <lb ed="#P" n="42"/>aliter opinantibus. audacter dicam: mille sunt 
+          spe<lb ed="#P" n="43" break="no"/>cies fortitudinis specie distincti: et plures: hoc ita 
+          <lb ed="#P" n="44"/>perspicuum omnibus regentibus in hac vrbe est: vt 
+          <lb ed="#P" n="45"/>pigeat circa hoc insistere. tres alie conclusiones 
+          pro<lb ed="#P" n="46" break="no"/>bari possunt eodem modo sicut iste tres. Septima 
+          <lb ed="#P" n="47"/>conclusio / patet. potest esse paruus excessus vel de 
+          <lb ed="#P" n="48"/>fectus a latitudine fortitudinis qui non sufficit ad 
+          <lb ed="#P" n="49"/>peccatum mortale: et erit extra totam latitudinem 
+          <lb ed="#P" n="50"/>fortitudinis. ergo erit peccatum veniale: sicut in 
+          om<lb ed="#P" n="51" break="no"/>nibus aliis viciis contingit: furto paruo: 
+          intempe<lb ed="#P" n="52" break="no"/>rantia parua: iniusticia parua. ergo eodem modo hic. 
+          <lb ed="#P" n="53"/>Octaua conclusio scilicet quod fortitudo est pulchra 
+          vir<lb ed="#P" n="54" break="no"/>tus patet. illa virtus est pulchra per quam insontes 
+          <lb ed="#P" n="55"/>proteguntur. et per quam malefactores puniuntur: 
+          <lb ed="#P" n="56"/>vt pax et quies sit in republica. sed hoc fit per 
+          for<lb ed="#P" n="57" break="no"/>titudinem. igitur per hanc virtutem protegitur iusticia 
+          <lb ed="#P" n="58"/>et manutenetur. Secundo: hanc virtutem / reges / 
+          <lb ed="#P" n="59"/>imperatores / nobiles ab orbe condito coluerunt: 
+          <lb ed="#P" n="60"/>sed non sine gloria: tam apud deum quam homines: quando re¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>cte secundum leges fortitudinis processerur. 
+          per<lb ed="#P" n="62" break="no"/>hanc virtutem abraham fudit chodorlaomor 
+          re<lb ed="#P" n="63" break="no"/>ges cum eo: et recuperauit loth nepotem et iniuste 
+          abla<lb ed="#P" n="64" break="no"/>ta Gene. xiiii. hac virtute hebrei terram eis celitus 
+          <lb ed="#P" n="65"/>datam cepere: et psaltes regius rebelles domuit. 
+          <lb ed="#P" n="66"/>hac virtute strenuissimi illi machabei patrias 
+          le<lb ed="#P" n="67" break="no"/>ges ad mortem defenderunt. hac virtute 
+          strenuissi<lb ed="#P" n="68" break="no"/>mi martyres fidem plantarunt. hac virtute Ilio 
+          gre<lb ed="#P" n="69" break="no"/>ci valentes euerterunt: et penas pro iniuria eis 
+          il<lb ed="#P" n="70" break="no"/>lata dare coegerunt: et plerique alii: vt apud 
+          anna<lb ed="#P" n="71" break="no"/>les omnium regnorum notissimum est tante 
+          excellen<lb ed="#P" n="72" break="no"/>tie hec virtus semper reputata est: vt temerarii viri / vt 
+          <lb ed="#P" n="73"/>ninus / alexander philippi / iulius cesar / propter 
+          vi<lb ed="#P" n="74" break="no"/>cinitatem cum fortitudine a vulgo extolluntur super 
+          <lb ed="#P" n="75"/>ethera: sed hi non erant fortes. hinc milites et 
+          eo<lb ed="#P" n="76" break="no"/>rum bona a legibus in multis sunt priuilegiata. hec 
+          <lb ed="#P" n="77"/>virtus docet parcere prostratis et debellare 
+          super<lb ed="#P" n="78" break="no"/>bos. et poeta. pulchrumque mori succurrit in armis. 
+          <lb ed="#P" n="79"/>hanc philosophi et sapientes omnes ad astra 
+          effe<lb ed="#P" n="80" break="no"/>runt. Nona conclusio probatur. fortitudo est 
+          mul<lb ed="#P" n="81" break="no"/>tum pulchra virtus. ergo opposita sunt magna 
+          pecca<lb ed="#P" n="82" break="no"/>ta. tenet consequentia. semper maiori bono 
+          oppo<lb ed="#P" n="83" break="no"/>nitur peior actus. iii. Chopicorum. Secundo 
+          per<lb ed="#P" n="84" break="no"/>temeritatem multi innocentes trucidantur / virgines 
+          <lb ed="#P" n="85"/>stuprantur / et adulteria committuntur. patet inter 
+          ca<lb ed="#P" n="86" break="no"/>tilinam et patres curie / inter scillam et marium i 
+          i<lb ed="#P" n="87" break="no"/>ter pompeium et cesarem / et ita in aliis iniustis bellis. 
+          <lb ed="#P" n="88"/>Decima conclusio patet: audacia est similior fortitu 
+          <lb ed="#P" n="89"/>dini vere quam timoret metus. ergo est minus mala. 
+          In<lb ed="#P" n="90" break="no"/>super: timor est magis exprobrabilis apud omnes 
+          <lb ed="#P" n="91"/>degeneres animos timor arguit.
+        </p>
+        <p xml:id="jm3cbb-e55040-d1e381">
+          ¶ Arguitur quod 
+          fu<lb ed="#P" n="92" break="no"/>gere nullo modo est peccatum. aliqui sunt 
+          naturali<lb ed="#P" n="93" break="no"/>ter timidi: vel ab influentia celi: vel a 
+          progenitori<lb ed="#P" n="94" break="no"/>bus. modo tales in bello durare non possunt. qua 
+          fu<lb ed="#P" n="95" break="no"/>ga non imputatur eis.
+        </p>
+        <p xml:id="jm3cbb-e55040-d1e392">
+          ¶ Respondetur concedendo 
+          <lb ed="#P" n="96"/>quod aliqui nati sunt animosiores aliis: et a patria: et 
+          <lb ed="#P" n="97"/>a progenitoribus. sicut vnus est natus alio ingenio 
+          <lb ed="#P" n="98"/>sior vel cautior. sed quamtumcumque sit quis natus 
+          meti<lb ed="#P" n="99" break="no"/>culosus: potest recte iudicare quod standum est vbi 
+          ra<lb ed="#P" n="100" break="no"/>tio dictat: et potest conformiter illi dictato velle: 
+          <lb ed="#P" n="101"/>dictamini recto intellectus voluntas potest se 
+          confor<lb ed="#P" n="102" break="no"/>mare: et per actuum multiplicationem in se 
+          produ<lb ed="#P" n="103" break="no"/>cere fortem habitum quo stabit. multi inuentisunt 
+          <lb ed="#P" n="104"/>vecordes qui a principio aufugerunt: puta vnus ab 
+          <lb ed="#P" n="105"/>vno. tandem infamia motus alium aggrediens eum 
+          <lb ed="#P" n="106"/>intrepide peremit. tristicia coadiuuabat. et 
+          inten<lb ed="#P" n="107" break="no"/>sus actus volendi vindicare genuit habitum: vnde 
+          <lb ed="#P" n="108"/>fortis vel temerarius factus est. Secundo 
+          argui<lb ed="#P" n="109" break="no"/>tur. sortes potest nullum actum elicere: et non 
+          pn<lb ed="#P" n="110" break="no"/>gnare vbi pugnandum est. tunc talis erit 
+          meticulo<lb ed="#P" n="111" break="no"/>sus: et in extremo in deficiendo. qua oportet dare 
+          ti<lb ed="#P" n="112" break="no"/>morem passionem quae est vicium infdeficiendo. 
+          Conce<lb ed="#P" n="113" break="no"/>do totum antecdens: sed nego consequentiam. talis pure 
+          <lb ed="#P" n="114"/>omissiue omittit actum fortitudinis: et peccat in de 
+          <lb ed="#P" n="115"/>ficiendo. quod patet. dato quod nullam passionem timo 
+          <lb ed="#P" n="116"/>rem haberet: potest non elicere actum voluntatis 
+          <lb ed="#P" n="117"/>et tunc diceretur timidus. non ab vlla per assione. idem 
+          <lb ed="#P" n="118"/>est in illiberalitate nullum actum eliciendo dandi 
+          vbi<lb ed="#P" n="119" break="no"/>dictat dandum esse. extremum ergo in deficiendo potest 
+          <lb ed="#P" n="120"/>esse actus: vel defectus actus fortitudinis: quem homo 
+          <pb ed="#P" n="91-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tenetur ponere. capis quid dicere velim de his 
+          ex<lb ed="#P" n="2" break="no"/>tremis: et quod non pono has passiones extrema 
+          for<lb ed="#P" n="3" break="no"/>titudinis plusquam ponam fortitudinem passionem: licet 
+          <lb ed="#P" n="4"/>(loquendo vt plures iuxta doctrinae philosophi 
+          <lb ed="#P" n="5"/>secundo de celo et mundo) vtar modo loquendi 
+          alio<lb ed="#P" n="6" break="no"/>rum de passionibus. Contra illud arguitur. pure 
+          pas<lb ed="#P" n="7" break="no"/>siue se habendo homo erit timidus / et promptus 
+          <lb ed="#P" n="8"/>ad timiditatem: et non producitur habitus ex pura 
+          <lb ed="#P" n="9"/>omissione: ergo inane est ponere habitum ad hoc quod quis 
+          <lb ed="#P" n="10"/>prompte exeat in actum. Respondetur in pura 
+          omissio<lb ed="#P" n="11" break="no"/>ne non generabitur habitus. nego quod talis erit 
+          prom<lb ed="#P" n="12" break="no"/>ptior omittendo millies quam a principio. habitus 
+          fa<lb ed="#P" n="13" break="no"/>cit virum promptiorem exire in actum: non autem 
+          pu<lb ed="#P" n="14" break="no"/>ra omissio: postquam nichil est productum quod iuuet 
+          poten<lb ed="#P" n="15" break="no"/>tiam exire in actum vel omittere actum. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

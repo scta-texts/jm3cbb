@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 32</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 32</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="104-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e63584"><!-- l3d33q32 -->
+        <head xml:id="jm3cbb-e63584-Hd1e99">Quaestio 32</head>
+        <head xml:id="jm3cbb-e63584-Hd1e101" type="question-title">An iustitia et ceterae virtutes cardinales manebunt in patria</head>
+        <p xml:id="jm3cbb-e63584-d1e104">
+          <lb ed="#P" n="93"/>SExto circa hanc 
+          ma<lb ed="#P" n="94" break="no"/>teriam iusticie et ceterarum 
+          virtu<lb ed="#P" n="95" break="no"/>tum cardinalium queritur: an 
+          <lb ed="#P" n="96"/>iusticia et cetere virtutes 
+          cardina<lb ed="#P" n="97" break="no"/>les manebunt in patria.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e117">
+          ¶ 
+          Re<lb ed="#P" n="98" break="no"/>spondetur per tres conclusiones: 
+          <lb ed="#P" n="99"/>Quarum prima est: iusticia et 
+          cete<lb ed="#P" n="100" break="no"/>re tres virtutes cardinales acquisite manebunt in 
+          <lb ed="#P" n="101"/>patria.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e128">
+          ¶ Secunda conclusio: virtutes cardinales in 
+          <lb ed="#P" n="102"/>fuse manebunt in patria.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e134">
+          ¶ Tertia conclusio. 
+          virtu<lb ed="#P" n="103" break="no"/>tes cardinales non habebunt sinnles actus cum 
+          <lb ed="#P" n="104"/>actibus quos habent in via: immo multi illorum 
+          habi<lb ed="#P" n="105" break="no"/>tuum non manebunt in patria quae ad aliquos suos 
+          <lb ed="#P" n="106"/>actus.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e145">
+          ¶ Prima conclusio probatur. christus habuit 
+          quat<lb ed="#P" n="107" break="no"/>tuor virtutes cardinales in via: hoc magister in lit 
+          <lb ed="#P" n="108"/>tera ponit: et tamen christus fuit comprehensor secundum 
+          <lb ed="#P" n="109"/>animam in via: igitur alii comprehenfores has virtutes 
+          <lb ed="#P" n="110"/>acquisitas habebunt. Et sapientie primo scribitur: 
+          <lb ed="#P" n="111"/>quod iusticia perpetua est et immortalis: sed iusticia est 
+          <lb ed="#P" n="112"/>virtus cardinalis: igitur. hoc idem tenet 
+          Alugusti<lb ed="#P" n="113" break="no"/>nus. xiiii. de trinitate. c. ix. et Beda Exodi. xxvi. 
+          <lb ed="#P" n="114"/>Columpne ante quas expansum est velum: potestates 
+          <lb ed="#P" n="115"/>celi sunt. iiii. eximiis virtutibus preclare: id est 
+          for<lb ed="#P" n="116" break="no"/>titudine / prudentia / temperantia / iusticia: quae aliter 
+          <lb ed="#P" n="117"/>in celis seruantur ab angelis et animabus sanctis quam 
+          <lb ed="#P" n="118"/>hic a fidelibus.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e174">
+          ¶ Ratione arguitur ad conclusionem: 
+          <lb ed="#P" n="119"/>habitus non corrumpitur nisi aliquo istorum quattuor 
+          <pb ed="#P" n="104-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>modorum: tribus modis naturaliter: et vno supnatu 
+          <lb ed="#P" n="2"/>raliter. naturaliter: vel ad corruptionem subiecti: 
+          <lb ed="#P" n="3"/>vel ad desitionem cause actualiter conseruantis: vel 
+          <lb ed="#P" n="4"/>a contrario: vel meritorie vel demeritorie. tribus 
+          pri<lb ed="#P" n="5" break="no"/>mis modis / isti habitus boni non corrumpuntur. 
+          <lb ed="#P" n="6"/>anima non corrumpitur: et habitus manent sine 
+          actu<lb ed="#P" n="7" break="no"/>ali concursu potentie: nec adducuntur actus mali 
+          op<lb ed="#P" n="8" break="no"/>positi circa mortem / non est necesse. nec 
+          demerito<lb ed="#P" n="9" break="no"/>rie: quia homo hoc non demeretur: igitur.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e203">
+          ¶ Insuper: 
+          <lb ed="#P" n="10"/>nulla ignorantia praue dispositionis manebit in 
+          pa<lb ed="#P" n="11" break="no"/>tria: sed pura prudentia et nitida: et ita de aliis 
+          vir<lb ed="#P" n="12" break="no"/>tutibus appetitiuis: igitur.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e212">
+          ¶ Secunda concluuo 
+          pa<lb ed="#P" n="13" break="no"/>tet. habitus acquisiti manent: ergo a fortiore 
+          habi<lb ed="#P" n="14" break="no"/>tus infusi. et patet illud aliunde. charitas infusa et 
+          <lb ed="#P" n="15"/>habitus imperfectionem non importantes manebunt 
+          <lb ed="#P" n="16"/>in patria. habitus cardinales imperfectionem non 
+          <lb ed="#P" n="17"/>important sicut fides et spes: igitur.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e225">
+          ¶ Tertia 
+          con<lb ed="#P" n="18" break="no"/>clusio patet: non erit actus martyrii: vel multi 
+          alii<lb ed="#P" n="19" break="no"/>actus virtutum cardinalium: igitur.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e233">
+          ¶ Contra primam 
+          <lb ed="#P" n="20"/>conclusionem arguitur. habitus oppositi virtutibus 
+          <lb ed="#P" n="21"/>cardinalibus non manebunt in patria: cum sint 
+          ha<lb ed="#P" n="22" break="no"/>bitus viciosi. ergo nec habitus virtutum 
+          cardina<lb ed="#P" n="23" break="no"/>lium.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e244">
+          ¶ Secundo arguitur: secunda conclusio 
+          praesup<lb ed="#P" n="24" break="no"/>ponit falsum. presupponit enim quod sint cardinales 
+          <lb ed="#P" n="25"/>virtutes infuse in baptismo. sed hoc est falsum. 
+          es<lb ed="#P" n="26" break="no"/>sent inanes in paruulo baptisato: cum non potest eis vti. 
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e253">
+          <lb ed="#P" n="27"/>¶ Tertio arguitur con idem per glo. ad omanos. v. 
+          <lb ed="#P" n="28"/>super illo: pro iusto quis moritur: dicentem: est 
+          bo<lb ed="#P" n="29" break="no"/>nus qui non est iustus: scilbet qui natus est in 
+          simpli<lb ed="#P" n="30" break="no"/>citate innocentie. ergo in baptismo non infunditur 
+          <lb ed="#P" n="31"/>iusticia: et per idem nec aliqua virtus cardinalis. 
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e266">
+          <lb ed="#P" n="32"/>¶ Quarto arguitur ad idem. vel vnus habitus 
+          so<lb ed="#P" n="33" break="no"/>lum iusticie est infusus in baptismo: vel tot habitus 
+          <lb ed="#P" n="34"/>distincti specie quot sunt obiecta specie distincta 
+          <lb ed="#P" n="35"/>circa que iusticiam exercemus. non primum: equalis 
+          <lb ed="#P" n="36"/>est ratio de vno habitu et alio. non secundum: tunc 
+          infini<lb ed="#P" n="37" break="no"/>ti habitus iusticie vel saltem in maximo 
+          numero<lb ed="#P" n="38" break="no"/>infunduntur.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e284">
+          ¶ Ad primum concedo antcedens. nec error / nec 
+          <lb ed="#P" n="39"/>habitus viciosus / nec malum culpe vel pene / in 
+          pa<lb ed="#P" n="40" break="no"/>tria manebit.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e291">
+          ¶ Ad obiectiones contra secundam 
+          con<lb ed="#P" n="41" break="no"/>clusionem respondetur in quarta distinctione quarti 
+          <lb ed="#P" n="42"/>sententiarum.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e299">
+          ¶ Sed pro nunc arguitur vlterius. 
+          <lb ed="#P" n="43"/>habitus cardinales in patria erunt inanes: quia non 
+          <lb ed="#P" n="44"/>exibunt in operationes suas. castitas coniugalis non 
+          <lb ed="#P" n="45"/>inclinabit in actus castitatis coniugalis: et ita de 
+          ha<lb ed="#P" n="46" break="no"/>bitu martyrii vel patientie. pari forma nec habitus 
+          <lb ed="#P" n="47"/>sobrietatis exsbit vnquam in actum bibendi: vel 
+          habi<lb ed="#P" n="48" break="no"/>tus ieiunii ad semel in die comedendum.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e315">
+          ¶ Secundo 
+          <lb ed="#P" n="49"/>arguitur. ponendi sunt habitus studiosi in 
+          appeti<lb ed="#P" n="50" break="no"/>tu sensitiuo: vt patebit ex dicendis in distinctione 
+          <lb ed="#P" n="51"/>xxxvi. et tamen ille virtutes non remanebunt in 
+          pa<lb ed="#P" n="52" break="no"/>tria. patet: inherent appetitui sensitiuo. modo ille 
+          <lb ed="#P" n="53"/>corrumpitur in morte: et ad corruptionem 
+          subiecti<lb ed="#P" n="54" break="no"/>corrumpitur accidens eius. et quod semel est tota 
+          <lb ed="#P" n="55"/>liter destructum / deus non potest reproducere. 
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e333">
+          <lb ed="#P" n="56"/>¶ Tertio arguitur ridiculum est ponere virtutes in 
+          <lb ed="#P" n="57"/>diis: decimo Ethicorum.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e340">
+          ¶ Ad has rationes 
+          respon<lb ed="#P" n="58" break="no"/>detur: prima ratio non valet. probaret quod alique partes 
+          <lb ed="#P" n="59"/>corporis essent inanes: que nunquam exibunt in 
+          ope<lb ed="#P" n="60" break="no"/>rationes suas. sed hoc non est pbare superfluitatem 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>in ilis membris: cum sint de complemento indiuidui 
+          <lb ed="#P" n="62"/>perfecti. sic isti habitus sunt de perfectione 
+          acciden<lb ed="#P" n="63" break="no"/>tali et ornamento habentis.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e358">
+          ¶ Insuper: multi 
+          ha<lb ed="#P" n="64" break="no"/>bitus exibunt in suos actus: sed perfectiore modo quam 
+          <lb ed="#P" n="65"/>in via. castitas coniugalis non semper inclinat 
+          haben<lb ed="#P" n="66" break="no"/>tem ad velle reddere debitum alteri coniugum: vel ad 
+          <lb ed="#P" n="67"/>petendum debitum. immo magis essentiale est 
+          ca<lb ed="#P" n="68" break="no"/>stitati conugali non reddere debitum alteri a 
+          coniuge<lb ed="#P" n="69" break="no"/>quam reddere vel petere: vt patet in christifera virgine 
+          <lb ed="#P" n="70"/>et in aliis castis. talis actus elicitus potest esse in 
+          <lb ed="#P" n="71"/>patria. in via fit generatio ad homines perpetuandos 
+          <lb ed="#P" n="72"/>in specie: qui se in indiuiduo perpetuare nequeunt. in 
+          pa<lb ed="#P" n="73" break="no"/>tria vero quilibet erit perpetuus in proprio indiuiduo: 
+          <lb ed="#P" n="74"/>et sic actus generatiuus non erit in patria: nec tales 
+          <lb ed="#P" n="75"/>actus / volo comedere / volo bibere: cum beati 
+          cibo<lb ed="#P" n="76" break="no"/>Ambrosiaco pascantur: refectione corporea non in 
+          <lb ed="#P" n="77"/>digent. possunt habere actus oppositos: qui sunt 
+          <lb ed="#P" n="78"/>actus perfectissime temperantie. magis essentiale 
+          <lb ed="#P" n="79"/>est temperantie nolle comedere vel bibere plusquam 
+          <lb ed="#P" n="80"/>recta ratio dictat quam velle comedere et bibere tantum 
+          <lb ed="#P" n="81"/>quantum ratio dictat et non amplius. pluries non 
+          co<lb ed="#P" n="82" break="no"/>medimus quam comedimus in via. nec in via comede 
+          <lb ed="#P" n="83"/>remus. nisi quia calor naturalis aliquas partes 
+          ntro<lb ed="#P" n="84" break="no"/>rum corporum resoluit: quas oportet cibo et potu 
+          re<lb ed="#P" n="85" break="no"/>staurare. hec resolutio partium non erit in patria: 
+          cum<lb ed="#P" n="86" break="no"/>beati corpora impassibilia haebsent. illicerit summa 
+          iu<lb ed="#P" n="87" break="no"/>sticia: nullus alii faciet iniuriam. non erunt 
+          proces<lb ed="#P" n="88" break="no"/>sus interminabiles in senatu vel castelleto: non 
+          <lb ed="#P" n="89"/>irrisiones vel ire: non tribulationes vel 
+          aduer<lb ed="#P" n="90" break="no"/>sitates. ergo tunc patientia / mititas / iustitia / 
+          <lb ed="#P" n="91"/>et fortitudo erunt in actibus suis perfectissimis: 
+          <lb ed="#P" n="92"/>quando volunt. non oportet semper actus harum 
+          <lb ed="#P" n="93"/>virtutum cardinalium vel aliarum virtutum non 
+          cardi<lb ed="#P" n="94" break="no"/>nalium semperesse in patria. de eutrapelie actu 
+          lo<lb ed="#P" n="95" break="no"/>qui non oportet. eutrapelia inuenta est ad fatigatos 
+          <lb ed="#P" n="96"/>refocillare: et recreationem post labores et tristicias 
+          <lb ed="#P" n="97"/>assumere. nichil penofum et laboriosum erit in 
+          pa<lb ed="#P" n="98" break="no"/>tria: nouum et stupendum genus leticie et gaudii. 
+          le<lb ed="#P" n="99" break="no"/>ticia quam capimus in ludis mundanis non est 
+          pa<lb ed="#P" n="100" break="no"/>tria digna. sicuti vides: puellus iactat contra nuces 
+          <lb ed="#P" n="101"/>in cumulo positas: super arundinem vel baculum 
+          equi<lb ed="#P" n="102" break="no"/>tat: vel mortuorum equorum capita in fune post se 
+          tra<lb ed="#P" n="103" break="no"/>hit. ista maturum et grauem senem dedecent. sic 
+          recre<lb ed="#P" n="104" break="no"/>ationes nostre quibus interdum graues viri vtuntur 
+          <lb ed="#P" n="105"/>sunt puerilia et nuge respectu recreationis patrie. 
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e452">
+          <lb ed="#P" n="106"/>¶ Ad secundum concedo quod sunt virtutes in 
+          appeti<lb ed="#P" n="107" break="no"/>tusensitiuo: vt in distinctione. xxxvi. post hac 
+          dice<lb ed="#P" n="108" break="no"/>tur: et earum subiecta corrumpuntur per vnius 
+          par<lb ed="#P" n="109" break="no"/>tis separationem ab alia. licet partes maneant: vel 
+          <lb ed="#P" n="110"/>res que fuerunt partes: non tamen oportet quod 
+          quaeli<lb ed="#P" n="111" break="no"/>tates ille corrumpantur. potest enim deus conseruare 
+          il<lb ed="#P" n="112" break="no"/>las qualitates extra subiectum.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e471">
+          ¶ Secundo: potest 
+          <lb ed="#P" n="113"/>sinere illas quilitates corrumpi: et rursus easdem 
+          nu<lb ed="#P" n="114" break="no"/>mero corruptas reproducere. inopinabile est apud 
+          <lb ed="#P" n="115"/>me dicere quod deus non potest reproducere proprie 
+          <lb ed="#P" n="116"/>corruptum permanens: vt ex dictis in distinctione 
+          <lb ed="#P" n="117"/>xliii. quarti: dixi. vnum vel alterum istorum facit: sed 
+          <lb ed="#P" n="118"/>quod eorum: me fugit. vtrumque scio ei possibile.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e487">
+          ¶ Se 
+          <lb ed="#P" n="119"/>contra dicis: appetitus sensitiuus erit totaliter 
+          appe<lb ed="#P" n="120" break="no"/>titiui rationali subiectus: et nullo modo ei aduerfus. 
+          <pb ed="#P" n="105-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ergo non est opus habitu virtute in illo.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e500">
+          ¶ 
+          Respon<lb ed="#P" n="2" break="no"/>detur. illud argumentum probaret ( si aliquid valeret ) 
+          <lb ed="#P" n="3"/>non esse virtutes in appetitu rationali. Dico: multis 
+          <lb ed="#P" n="4"/>modis appetitus sensitiuus erit rationi subiectus. 
+          <lb ed="#P" n="5"/>Ano modo vi patrie et secundum legem patrie multo melius 
+          <lb ed="#P" n="6"/>quam in statu innocentie. Secundo ratione virtutum 
+          inherem<lb ed="#P" n="7" break="no"/>tium potentiis sensitiuis: inclinantium eas ad hoc quod 
+          ra<lb ed="#P" n="8" break="no"/>tioni pareant.
+        </p>
+        <p xml:id="jm3cbb-e63584-d1e518">
+          ¶ Ad tertium dicitur. Aristoteles 
+          ali<lb ed="#P" n="9" break="no"/>ter opinatus est de intelligentiis orbium motricibus quam 
+          <lb ed="#P" n="10"/>nos de beatis angelis. in deo vero (quem ponebat 
+          <lb ed="#P" n="11"/>vnum. xii. metaphisice. et. viii. phisicorum ) nulla est 
+          vir<lb ed="#P" n="12" break="no"/>tus per realem inherentiam: sed deus est sua virtus 
+          infi<lb ed="#P" n="13" break="no"/>nita per essentiam. Ecce quomodo virtutes cardinales in 
+          <lb ed="#P" n="14"/>patria manent. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

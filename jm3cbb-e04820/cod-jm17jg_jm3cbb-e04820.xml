@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="8-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e04820"><!-- l3d2q3 -->
+        <head xml:id="jm3cbb-e04820-Hd1e99">Quaestio 3</head>
+        <head xml:id="jm3cbb-e04820-Hd1e101" type="question-title">An prius Verbum univerit sibi naturam humanam totam quam
+    partes eius, vel an totum univerit mediante ordine partium</head>
+        <p xml:id="jm3cbb-e04820-d1e104">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="56"/>TErtio queritur 
+          <lb ed="#P" n="57"/>circa hanc distinctionem: an 
+          pri<lb ed="#P" n="58" break="no"/>us verbum vniuerit sibi naturam 
+          <lb ed="#P" n="59"/>humanam totam quam partes eius: 
+          <lb ed="#P" n="60"/>vel an totum vniuerit medianse 
+          <lb ed="#P" n="61"/>ordine patium In hac questis 
+          <lb ed="#P" n="62"/>ne aliqui insistunt de entitate 
+          <lb ed="#P" n="63"/>totius an totum sit tertia entitas distincta a 
+          paril<lb ed="#P" n="64" break="no"/>bus simul sumptis quia quodammond ex hoc questis 
+          <lb ed="#P" n="65"/>dependet. hanc materiam in distinctione. xliii. 
+          quar<lb ed="#P" n="66" break="no"/>ti sententiarum disputaui: aliqua tamem pauca vltra 
+          <lb ed="#P" n="67"/>illa hic refricare non pigebit. Una est positio 
+          san<lb ed="#P" n="68" break="no"/>cti thome in hac distinctione et in. iii. parte 
+          que<lb ed="#P" n="69" break="no"/>stione. vi. quod totum est tertia entitas distincta a 
+          par<lb ed="#P" n="70" break="no"/>tibus: quam doctor subtilis insequitur. et licet 
+          iho<lb ed="#P" n="71" break="no"/>mas visus fuerit varius: tamen in hoc magis de 
+          <lb ed="#P" n="72"/>scendit: patet a signo de Ioanne capriolo 
+          thomi<lb ed="#P" n="73" break="no"/>starum primo in hac distinctione. Alia est positio 
+          con<lb ed="#P" n="74" break="no"/>munior: et vt puto verior: quod totum nichil aliud est 
+          <lb ed="#P" n="75"/>quam partes simul sumpte: ad hoc magis 
+          philosopho<lb ed="#P" n="76" break="no"/>rum auctoritates tendunt. hoc expresse tenet commenta 
+          <lb ed="#P" n="77"/>tor commento. xvi. primi phisicorum: sed doctor 
+          <lb ed="#P" n="78"/>subtilis dicit fallitur sicut alibi. fateor interdum 
+          fal<lb ed="#P" n="79" break="no"/>litur in proposito secum opinor. rationes nulle sunt 
+          <lb ed="#P" n="80"/>contra modum commentatoris: et non est petenda 
+          plurali<lb ed="#P" n="81" break="no"/>tas sine necessitate: dicebam in quarto rationes 
+          <lb ed="#P" n="82"/>aliorum (quas magnependunt ) peccare in logica. 
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e167">
+          <lb ed="#P" n="83"/>¶ Sed quidam (scilicet bassolis ) dicii hunc modum esse 
+          <lb ed="#P" n="84"/>falsum et impossibilem in. xii. distinctione sui secundi. 
+          <lb ed="#P" n="85"/>multa verba: et parum succi: contra hunc modum infert. 
+          <lb ed="#P" n="86"/>Primum argumentum eius est illud quod per se est 
+          i<lb ed="#P" n="87" break="no"/>predicamento et in genere substantie: dicit aliquid 
+          <lb ed="#P" n="88"/>positiuum absolutum: preter materiam et formam: e ista 
+          <lb ed="#P" n="89"/>ssmul sumpta. quod probat: quia materia non est 
+          per<lb ed="#P" n="90" break="no"/>se in praedicamento: nec forma: nec ista duo 
+          simul<lb ed="#P" n="91" break="no"/>vnita: quia ista simultas vel vnio dicit respectum: 
+          <lb ed="#P" n="92"/>vel nichil super partes vnitas. sed compositum 
+          <lb ed="#P" n="93"/>substantiale est per se in predicamento positiuo 
+          <lb ed="#P" n="94"/>absoluto substantie: vt patet secundum omnem 
+          philoso<lb ed="#P" n="95" break="no"/>phiamet theologiam.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e198">
+          ¶ Secunda ratio est: generatio 
+          <lb ed="#P" n="96"/>prima terminatur ad aliquid absolutum: et non ad 
+          <lb ed="#P" n="97"/>materiam vel formam vel ista simul accepta: probatio 
+          <lb ed="#P" n="98"/>quia nec materia per se primo est terminus greneratio 
+          <lb ed="#P" n="99"/>nis: nec forma. illud est per se primus terminus 
+          grenera<lb ed="#P" n="100" break="no"/>tionis quod per se primoet principaliter intenditur a 
+          <lb ed="#P" n="101"/>generante vt generans est: sed forma per se primo 
+          <lb ed="#P" n="102"/>principaliter non intenditur a generante: sed 
+          ma<lb ed="#P" n="103" break="no"/>gis compositum: et ens perfectum / cui per sc primo 
+          <lb ed="#P" n="104"/>conuenit esse. nec ista duo simul: igitur.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e221">
+          ¶ Tertio 
+          <lb ed="#P" n="105"/>arguitur: hee partes causant totum: et hee partes 
+          <lb ed="#P" n="106"/>sunt totum: ergo totum causat totum.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e228">
+          ¶ Quarto 
+          argui<lb ed="#P" n="107" break="no"/>tur: etest sextum suum argumentum: compositum 
+          per<lb ed="#P" n="108" break="no"/>se vnum in genere substantie est magis vnum quam 
+          comoo<lb ed="#P" n="109" break="no"/>situm per accidens: quia istud est vne per se: et 
+          il<lb ed="#P" n="110" break="no"/>lud per accidens: sed si entitas composita non csset 
+          <lb ed="#P" n="111"/>alia ab entitate materie etforme non esset plus vnum 
+          <lb ed="#P" n="112"/>tale compositum. quia materia e forma ita siit 
+          plu<lb ed="#P" n="113" break="no"/>ra entia sicut substantia et accidens: iste sunt 
+          po<lb ed="#P" n="114" break="no"/>tissime rationes istius viri quarum alique sunt 
+          do<lb ed="#P" n="115" break="no"/>ctoris subtilis in hac distinctione quem comniter iste 
+          <pb ed="#P" n="9-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>imitari solet.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e257">
+          ¶ Ad primum dico: soli termini 
+          po<lb ed="#P" n="2" break="no"/>nuntur in predicamento substantie: et sic 
+          argu<lb ed="#P" n="3" break="no"/>mentum innititur falso fundamento.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e264">
+          ¶ Secundo: 
+          do<lb ed="#P" n="4" break="no"/>ei fundamentum falsum: concedo quod materia non est 
+          per<lb ed="#P" n="5" break="no"/>se in praedicamento: nec forma est per se in praedicamento 
+          <lb ed="#P" n="6"/>sed totum compositum quod nihil aliud est quam ille due 
+          par<lb ed="#P" n="7" break="no"/>tes simul sumpte. notum est hanc consequentiam esse 
+          nul<lb ed="#P" n="8" break="no"/>lam: materia non est totum compositum: nec forma est 
+          to<lb ed="#P" n="9" break="no"/>tum compositum: ergo materia et forma non sunt totum 
+          con<lb ed="#P" n="10" break="no"/>positum: capiendoet complexiue in consequente. nego quod 
+          <lb ed="#P" n="11"/>vnio sit respectus distinctus a materia et forma:et 
+          il<lb ed="#P" n="12" break="no"/>lo falso admisso totum compositum est ens absolutum quod 
+          <lb ed="#P" n="13"/>non potest esse sine illa vnione. et secundum reales non inconue 
+          <lb ed="#P" n="14"/>nit absolutum a respectu dependere sine qua non potest esse 
+          <lb ed="#P" n="15"/>vt totum compositum ab informatione forme ad 
+          mate<lb ed="#P" n="16" break="no"/>riam.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e295">
+          ¶ Ad secundzargumentum: concedo quod generatio est ad 
+          <lb ed="#P" n="17"/>aliquid absolutum: admittendo modum loquendi de 
+          re<lb ed="#P" n="18" break="no"/>bus absolutis. totum compositum est per se primus termi 
+          <lb ed="#P" n="19"/>nus totalis generationis: sed illud non est aliud a 
+          par<lb ed="#P" n="20" break="no"/>tibus simul iunctis. forma est terminus formalis. 
+          <lb ed="#P" n="21"/>materia non producitur in generatione: quia forma 
+          produ<lb ed="#P" n="22" break="no"/>citur totum compositum producitur. Nec est color in hac 
+          <lb ed="#P" n="23"/>consequentia: materia non est primus terminus greneratio 
+          <lb ed="#P" n="24"/>nis: nec forma est terminus / primus grenerationis: ergo 
+          <lb ed="#P" n="25"/>materia forma non est terminus / primus generationis 
+          <lb ed="#P" n="26"/>capiendo et complexiue: propterea recte dicebam in 
+          quar<lb ed="#P" n="27" break="no"/>to quod argumenta istorum recte peccant in logica. 
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e321">
+          <lb ed="#P" n="28"/>¶ Tertium argumentum est nullum: arguitur ex 
+          quattu<lb ed="#P" n="29" break="no"/>or terminis: cum aliquid colligitur in conclusione quod non 
+          <lb ed="#P" n="30"/>seminatur in praemissis: oportet ergo concludere: totum 
+          <lb ed="#P" n="31"/>est componentia totum: quia materia et forma sunt hoc 
+          <lb ed="#P" n="32"/>componens totum et hoc componens totum: cum extrema 
+          <lb ed="#P" n="33"/>supponant pro eodem: quia cuilibet vnitati a parte subie 
+          <lb ed="#P" n="34"/>cti respondet vna vnitas a parte praedicati
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e340">
+          ¶ Ad quartum 
+          <lb ed="#P" n="35"/>concedo maiorem argumenti: et nego minorem: et ad 
+          <lb ed="#P" n="36"/>probationem concedo quod materia et forma ita sunt 
+          plu<lb ed="#P" n="37" break="no"/>ra entia sicut substantiaet accidens. ex potentia et ac 
+          <lb ed="#P" n="38"/>tu resultat vnum totum: non autem ex substantia et 
+          acci<lb ed="#P" n="39" break="no"/>dente: sed congeries subiecti et sui accidentis est ens 
+          <lb ed="#P" n="40"/>per accidens. et istius nulla est causa nisi natura rei: 
+          <lb ed="#P" n="41"/>quia hoc est hoc et illud est illud: sicut dicit arist. viii. me 
+          <lb ed="#P" n="42"/>thaphisice. nihil est quod aliqui istorum dicunt ens per 
+          acci<lb ed="#P" n="43" break="no"/>dens distinguitur a suis partibus: quia queritur ab eis: an est 
+          <lb ed="#P" n="44"/>substantia vel accidens: et neutrum dare possunt: 
+          relin<lb ed="#P" n="45" break="no"/>quitur ergo quod nihil aliud est quam partes simul sumpte. 
+          <lb ed="#P" n="46"/>Et si dicas. vii. methaphisice a et bmanent quando ab 
+          <lb ed="#P" n="47"/>non manet: ergo ab distinguitur ab a. et b. consequentia est 
+          <lb ed="#P" n="48"/>nulla: totum per aggregationem est partes simul sumpte 
+          <lb ed="#P" n="49"/>secundum Aristo. viii. methaphisice: et ipsi concedunt: ergo 
+          <lb ed="#P" n="50"/>h non iuuat eos.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e377">
+          ¶ Apponam paucas alias rationes 
+          <lb ed="#P" n="51"/>contra eandem conclusionem. Et primo arguitur sic: ex ista 
+          <lb ed="#P" n="52"/>conclusione sequitur quod sortes est perpetuus: consequens est 
+          <lb ed="#P" n="53"/>falsum: cum facile reducatur in cineres. quod sequatur patet 
+          <lb ed="#P" n="54"/>sic: hic binarius est perpetuus demonstrando mate 
+          <lb ed="#P" n="55"/>riam et formam ex quibus sortes est plasmatus: hic 
+          bina<lb ed="#P" n="56" break="no"/>rius est sortes: ergo sortes est perpetuus: consequentia est 
+          sillogis<lb ed="#P" n="57" break="no"/>mus expositorius: minor est conclusio natra et maior 
+          <lb ed="#P" n="58"/>patet: quaelibet illarum vnitatum est a solo deo creabilis 
+          <lb ed="#P" n="59"/>ergo nulla earum est a creatura corruptibilis.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e399">
+          ¶ Secundo 
+          <lb ed="#P" n="60"/>arguitur: ex conclusione sequitur hec propositio: pars 
+          <lb ed="#P" n="61"/>dextra et pars sinistra sortis est pars superior et 
+          <lb ed="#P" n="62"/>pars inferior eius: sed hoc est falsum: quia tota pars 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="63"/>dextra non est pars superior. eodem modo pars sinistra 
+          <lb ed="#P" n="64"/>non est pars inferior. quod sequatur patet sic: sortes est 
+          <lb ed="#P" n="65"/>pars superior et pars inferior: sortes est pars dextra 
+          <lb ed="#P" n="66"/>et pars sinistra: ergo pars sinistra pars dextra sunt 
+          <lb ed="#P" n="67"/>pars superior et pers inferior.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e421">
+          ¶ Ad primum. dci quod male 
+          <lb ed="#P" n="68"/>concluditur. inferenda est hec conclusio: sortes est 
+          ppe<lb ed="#P" n="69" break="no"/>tuus binarius: et illa numquam est falsificabilis veritate 
+          <lb ed="#P" n="70"/>praemissarum stante. sicut conclusio est contingens: sic est 
+          mi<lb ed="#P" n="71" break="no"/>nor. Eodem modo dicatur ad hanc: hic binarius semper erit: 
+          <lb ed="#P" n="72"/>vel hic binarius est incorruptibilis a creatura: et hic 
+          <lb ed="#P" n="73"/>binarius est sortes: igitur.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e437">
+          ¶ Ad secundum: concedo hanc 
+          pro<lb ed="#P" n="74" break="no"/>positionem pars sinistra et pars dextra sortis sunt 
+          <lb ed="#P" n="75"/>pers superior et pars inferior: pars sinistra et pars 
+          <lb ed="#P" n="76"/>dextra sortis sunt caput et reliquum corpus eius: 
+          <lb ed="#P" n="77"/>extrema istius supponunt pro eodem: quia pro sorte 
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e448">
+          <lb ed="#P" n="78"/>¶ Tertio arguitur: ex dictis sequitur hanc propositio 
+          <lb ed="#P" n="79"/>nem esse veram: caput oinis homo habet: consequens est 
+          <lb ed="#P" n="80"/>falsum: vt patet per veritatem huius ei contradicentis 
+          <lb ed="#P" n="81"/>nullum caput omnis homo habet. quod sequatur probo sici 
+          <lb ed="#P" n="82"/>bene sequitur hic quaternarius / omnis homo habet 
+          ca<lb ed="#P" n="83" break="no"/>put est propositio vera: et hic quaternarius omnis 
+          ho<lb ed="#P" n="84" break="no"/>mo habet caput est hic quaternarius caput habetr 
+          <lb ed="#P" n="85"/>omnis homo: igitur. consequentia tenet cum maiore: 
+          mi<lb ed="#P" n="86" break="no"/>nor patet: sunt eedem partes adequate.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e471">
+          ¶ Quarto 
+          <lb ed="#P" n="87"/>arguitur: ex positione sequitur quod a et b augentur et 
+          <lb ed="#P" n="88"/>b diminuitur: consequens est falsum: quod sequatur patet 
+          <lb ed="#P" n="89"/>capio a et b. medietates c. corporis: et pono quod 
+          b<lb ed="#P" n="90" break="no"/>medietas diminuatur: et a. medietas augeatur 
+          <lb ed="#P" n="91"/>maiori proportione in augmentatione quam b. 
+          dimi<lb ed="#P" n="92" break="no"/>nuatur: hoc supposito sic arguitur: c. corpus augetur 
+          <lb ed="#P" n="93"/>c. corpus est a et b: ergo a. et b. augentur.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e489">
+          ¶ Ad 
+          ter<lb ed="#P" n="94" break="no"/>tium: concedo quod caput habet omnis homo: vel caput 
+          <lb ed="#P" n="95"/>habet homo omnis / est propositio vera: sed vritas non 
+          <lb ed="#P" n="96"/>prouenit ab illo situ retrogrado: sed antrogrado. 
+          <lb ed="#P" n="97"/>et si in hoc stes quod non sit propositio sic capiendo: 
+          scri<lb ed="#P" n="98" break="no"/>batur in circulo.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e502">
+          ¶ Secundo: hoc improbabo exposito 
+          <lb ed="#P" n="99"/>rie sic arguendo: hic quaternarius omnis homo habet 
+          <lb ed="#P" n="100"/>caput est propositio: et hic quaternarius omnis 
+          homo<lb ed="#P" n="101" break="no"/>habet caput est hic quaternarius caput omnis 
+          homo<lb ed="#P" n="102" break="no"/>habet: igitur.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e513">
+          ¶ Ad quartum: non bene concluditur quod a et 
+          <lb ed="#P" n="103"/>b augeantur: sed concedo hoc consequens a et b. sunt 
+          <lb ed="#P" n="104"/>res aucta: immo plures res aucte: et b. diminuatur 
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e520">
+          <lb ed="#P" n="105"/>¶ Quinto arguitur. ex conclusione sequitur quod sortes et 
+          <lb ed="#P" n="106"/>plato differunt specie: consequens est falsum: sunt 
+          eius<lb ed="#P" n="107" break="no"/>dem speciei specialissime quod sequatur patet sic: hee ptes 
+          <lb ed="#P" n="108"/>differunt specie: demonstrando duas materias ex 
+          <lb ed="#P" n="109"/>vna parte: et duas formas ex altera: et he partes 
+          <lb ed="#P" n="110"/>sunt sortes et plato: ergo sortes et plato differunt 
+          spe<lb ed="#P" n="111" break="no"/>cie
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e538">
+          ¶ Sexto: sequitur quod sortes videt a. et b. et 
+          ta<lb ed="#P" n="112" break="no"/>men non videt b. sed hoe est falsum: quia hoc 
+          mo<lb ed="#P" n="113" break="no"/>do hec erit concedenda: sortes videt parisius et 
+          <lb ed="#P" n="114"/>romam: et sortes non videt romam: quod sequatur patet 
+          <lb ed="#P" n="115"/>sic: sortes videt platonem: plato est a et b. ergo 
+          sor<lb ed="#P" n="116" break="no"/>tes videt a et b. sit b pers posterior platonis.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e552">
+          ¶ Ad 
+          <lb ed="#P" n="117"/>quintum: negatur maior sillogismi: quod patet sic 
+          ar<lb ed="#P" n="118" break="no"/>guendo: sortes et plato conueniunt specie: sortes 
+          <lb ed="#P" n="119"/>et plato sunt iste partes et iste partes demonstram 
+          <lb ed="#P" n="120"/>do duas materias et duas formas eorum: ergo 
+          iste<lb ed="#P" n="121" break="no"/>partes et iste partes conueniunt specie: licet nulla 
+          <lb ed="#P" n="122"/>vnitas vnius binarii sit eiusd est speciei cum 
+          vnita<lb ed="#P" n="123" break="no"/>te alterius.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e570">
+          ¶ Ad sextum: concedo quod sortes videt a 
+          <lb ed="#P" n="124"/>et bet tamen non videt b. viderec prout sensuiai¬ 
+          <pb ed="#P" n="9-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tribuitur) propriam rationem non appellat. ad vide 
+          <lb ed="#P" n="2"/>re a et b. sufficit videre illud quod est a et b. et hoc 
+          <lb ed="#P" n="3"/>videndo partem eius vel accidens partis: 
+          quen<lb ed="#P" n="4" break="no"/>admodum videtur diarii fllius: secundo de antneima. 
+          <lb ed="#P" n="5"/>sic sortes videt a. b. c. d. et sic de centum mille: et 
+          <lb ed="#P" n="6"/>multa eorum non videt: potissimum distincta 
+          visio<lb ed="#P" n="7" break="no"/>ne: patet de exercitu viso: vel cumulo graui: nec 
+          <lb ed="#P" n="8"/>propterea consequens est quod sortes videat romam et 
+          pa<lb ed="#P" n="9" break="no"/>risium: cum non constituant vnum entitatiuum nec vnum ag 
+          <lb ed="#P" n="10"/>gregatione: nisi includatur aliud aggregatum. 
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e601">
+          <lb ed="#P" n="11"/>¶ Septimo arguitur: ex conclusione sequitur quod 
+          sor<lb ed="#P" n="12" break="no"/>tes et plato erunt post mortem sortis et platonis. 
+          <lb ed="#P" n="13"/>falsitatem istius de futuro osedit sua deinesse 
+          decla<lb ed="#P" n="14" break="no"/>ro tamen consequentiam: hee quattuor partes erunt post 
+          <lb ed="#P" n="15"/>mortem sortis et platonis: hee quattuor partes sunt 
+          <lb ed="#P" n="16"/>sortes plato: ergo sorteset plato erunt post 
+          mor<lb ed="#P" n="17" break="no"/>tem sortis et platonis.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e619">
+          ¶ Octauo arguitur: ex 
+          conclu<lb ed="#P" n="18" break="no"/>sione sequitur quod a. et b. essent duo quadrata: et 
+          nul<lb ed="#P" n="19" break="no"/>lum illorum esset quadratum: quod est inconueniens: quod 
+          se<lb ed="#P" n="20" break="no"/>quatur patet sic: quia capio c. et d. immediate coniuncta. 
+          <lb ed="#P" n="21"/>sit a vna medietas vtriusque ducta in longum ita quod 
+          <lb ed="#P" n="22"/>erit quadrangulus: et sit b. alter quadrangulus 
+          du<lb ed="#P" n="23" break="no"/>ctus per longitudinem. tunc sic:c. et d. sunt duo quadra 
+          <lb ed="#P" n="24"/>ta ex ipotesi: et c. d. sunt a. b. ergo a et b. sunt duo 
+          qua<lb ed="#P" n="25" break="no"/>drata: et tamen a. non est quadratum: nec b. quadratum. 
+          <lb ed="#P" n="26"/>Ad septimam responsionem quaere distin. xliii. quarti.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e641">
+          ¶ Ad 
+          <lb ed="#P" n="27"/>octauum: concedo quod a. et b. sunt duo quadrata: et nec 
+          <lb ed="#P" n="28"/>a. est quadratum: nec b. est quadratum.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e648">
+          ¶ Nono 
+          ar<lb ed="#P" n="29" break="no"/>guitur: ex ista positione sequitur quod duo homines currunt 
+          <lb ed="#P" n="30"/>quorum neuter currit: hoc est sortes et plato currunt 
+          <lb ed="#P" n="31"/>et tamen sortes non currit: nec plato currit. pono casum 
+          <lb ed="#P" n="32"/>possibilem conclusioni non repugnantem: quod deus 
+          capi<lb ed="#P" n="33" break="no"/>at animam sortis et ponat in materiam platonis 
+          consti<lb ed="#P" n="34" break="no"/>tuendo nouum suppositum: scilbet ciceronem: simlitr capiat 
+          <lb ed="#P" n="35"/>animam platonis et ponat informatiue deus / in 
+          mate<lb ed="#P" n="36" break="no"/>riam sortis constituendo aliud suppositum quod dicatur 
+          <lb ed="#P" n="37"/>robertus: semper sorte et platone existentibus: quia 
+          <lb ed="#P" n="38"/>ponuntur partes sortis et platonis in variis locis. 
+          <lb ed="#P" n="39"/>iam illic sunt quattuor supposita quorum nullum est 
+          <lb ed="#P" n="40"/>aliud: pono praeterea quod cicero et robertus currant: et 
+          <lb ed="#P" n="41"/>sortes domi maneat clausus in archa: et similitr 
+          pla<lb ed="#P" n="42" break="no"/>to. tunc sic: cicero et robertus currunt: ciceroet 
+          rober<lb ed="#P" n="43" break="no"/>tus sunt sortes et plato ergo sortes et plato currunt: et 
+          <lb ed="#P" n="44"/>tamen sortes iacet dormiendo.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e686">
+          ¶ Decino: sequitur quod dantur 
+          <lb ed="#P" n="45"/>duo faties quorum neuter est genitus ex eadem matre: 
+          <lb ed="#P" n="46"/>nec eodem patre: quod non est concedendum. quod sequatur 
+          <lb ed="#P" n="47"/>declaro sic: ponendo quod sortes et plato de quibus 
+          <lb ed="#P" n="48"/>mentionem fecimus in precedenti argumento sint 
+          fra<lb ed="#P" n="49" break="no"/>tres: tunc sic: sortes et plato sunt fratres: sortes et 
+          <lb ed="#P" n="50"/>plato sunt Cicero et Robertus: ergo Cicero et 
+          <lb ed="#P" n="51"/>robertus sunt fratres: et tamen mater Ciceronis non 
+          <lb ed="#P" n="52"/>est mater roberti: patet: nulla est mater ciceronis: 
+          <lb ed="#P" n="53"/>quia non mater sortis: probatio: sit illa bertha: cicero 
+          <lb ed="#P" n="54"/>nunquam fuit in vtero berthe: et eod est modo argumenta 
+          <lb ed="#P" n="55"/>bor de Roberto.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e712">
+          ¶ Ad nonum: concedo quod sortes et 
+          <lb ed="#P" n="56"/>plato currunt: et materia sortis mouetur localiter 
+          <lb ed="#P" n="57"/>velociter: et sic sua anima: sed non prout est in sorte: 
+          <lb ed="#P" n="58"/>proptere a non est opus concedere quod sortes currat in 
+          <lb ed="#P" n="59"/>illo casu. quo fit: hec consequentia est nulla: sortes 
+          <lb ed="#P" n="60"/>plato currunt: ergo sortes currit.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e725">
+          ¶ Ad decimum 
+          <lb ed="#P" n="61"/>concedo quod Cicero et Robertus sunt fratres: et 
+          ci<lb ed="#P" n="62" break="no"/>cero non habet matrem: nec habuit matrem: nec Ro¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="63"/>bertus habuit matrem: sed Cicero et Robertus 
+          ha<lb ed="#P" n="64" break="no"/>bent patremet matrem: capiendo et complexiue: quod sic 
+          <lb ed="#P" n="65"/>declaro: sortes et plato habent parentes: hoc 
+          suppo<lb ed="#P" n="66" break="no"/>no: sortes et plato sunt Robertus et Cicero: ergo 
+          <lb ed="#P" n="67"/>Robertus et Cicero habsent parentes. In hoc 
+          argu<lb ed="#P" n="68" break="no"/>mentorum numero pauco manebimus: concludentes 
+          <lb ed="#P" n="69"/>quod totum per se: totum per accidens: et totum per aggregatid 
+          <lb ed="#P" n="70"/>nem: non est aliud vel res alie a partibus simul sumptis 
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e751">
+          <lb ed="#P" n="71"/>¶ hoc methaphisico praesupposito: deueniendum est 
+          <lb ed="#P" n="72"/>ad titulum questionis: an fuerit aliquis ordo assum 
+          <lb ed="#P" n="73"/>ptionis totius aut partis: et an totum mediantibus 
+          <lb ed="#P" n="74"/>partibus fuit prius assumptum. Pro cuius intelll 
+          <lb ed="#P" n="75"/>gentia scito: illud dicitur immediate assumptum quod 
+          <lb ed="#P" n="76"/>vniretur omni alio ab assumpto circunscripto. 
+          Il<lb ed="#P" n="77" break="no"/>lud mediate dicitur vniri quod exigit aliquid aliund 
+          <lb ed="#P" n="78"/>ab vnito ad hoc quod vniatur. Preterea duplex est 
+          <lb ed="#P" n="79"/>medium: quoddam est intrinsecum: aliud extrinsecum 
+          <lb ed="#P" n="80"/>Medium intrinsecum est aliquid quod est pars natu ¬ 
+          <lb ed="#P" n="81"/>re assumpte. et sic ponere medium intrinsecum in 
+          incar<lb ed="#P" n="82" break="no"/>natione: nihil aliud est quam ponere quod vna pars nati 
+          <lb ed="#P" n="83"/>re assumpte assumeretur mediante alia: puta caro 
+          mi<lb ed="#P" n="84" break="no"/>diante anima: vel econuerso. Dedium extrinsecum est 
+          diss<lb ed="#P" n="85" break="no"/>positio aliqua requisita ad vnionem distincta a 
+          natii<lb ed="#P" n="86" break="no"/>ra assumenda et eius partibus / et assumente: vt donum 
+          <lb ed="#P" n="87"/>aliquod infusum praeparans materiam assumptam 
+          digna<lb ed="#P" n="88" break="no"/>vt assumatur. et vtrumqe medium est partitum: aliquod 
+          me<lb ed="#P" n="89" break="no"/>dium necessitati sine quo natura assumi non potest. 
+          ali<lb ed="#P" n="90" break="no"/>ud decentie. de secundo medio non contenditur. decens erat 
+          <lb ed="#P" n="91"/>quod anima christi haberet multos habitus et dona infusa 
+          <lb ed="#P" n="92"/>ad hoc quod assumeretur. semo est ergo solum de medio 
+          <lb ed="#P" n="93"/>necessitatis Insuper duplex est medium: quoddam est 
+          <lb ed="#P" n="94"/>medium: quod et est causa propinqua effectui medians 
+          <lb ed="#P" n="95"/>inter causam remotam et effectum. medium quo: est illud 
+          <lb ed="#P" n="96"/>mediante quo agens suum effectum producit: vt 
+          forma<lb ed="#P" n="97" break="no"/>agentis: exemplum ignis calefacit mediante 
+          forma<lb ed="#P" n="98" break="no"/>substantialiet calore: et licet ita vulgariter loquatur: 
+          <lb ed="#P" n="99"/>forma etiam potest dici medium quod sic. in proposito: illud 
+          <lb ed="#P" n="100"/>est medium quod cui prius vnitur: et per illud alteri: 
+          si<lb ed="#P" n="101" break="no"/>cut anima est medium quod acceptationis corpis ad 
+          <lb ed="#P" n="102"/>vitam: non enim acceptatur corpus ad vitam eternam nisi 
+          <lb ed="#P" n="103"/>anima esset accepta. Dedium quo: est dispositio aliquae 
+          <lb ed="#P" n="104"/>praeparans ad aliquid / etiam si illud sibi non conueniat. sis 
+          <lb ed="#P" n="105"/>cut species visibilis est medium videndi visibile: licet 
+          <lb ed="#P" n="106"/>ipsa species non videat nec videatur: visibile tamen est 
+          il<lb ed="#P" n="107" break="no"/>lud quod videtur. sic lumen glorie est medium quo 
+          videm<lb ed="#P" n="108" break="no"/>di deum et eo fruendi: licet lumen deum non videat nec 
+          <lb ed="#P" n="109"/>deum diligit: tamen est illud mediante quo creatura 
+          ratio<lb ed="#P" n="110" break="no"/>nalis in deum tendit.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e840">
+          ¶ his praemissis pono tres 
+          con<lb ed="#P" n="111" break="no"/>clusiones. Quarum prima est: in assumptione nature 
+          <lb ed="#P" n="112"/>humane non est ponendum medium intrinsecum. probatio: eque 
+          <lb ed="#P" n="113"/>immediate verbum assumpsit naturam humanam et 
+          quamlib<lb ed="#P" n="114" break="no"/>partem eius: et non vnam partem per aliam: ergo non est ponendum 
+          <lb ed="#P" n="115"/>medium quod siue intrinsecum: consequentia tenet ex 
+          ter<lb ed="#P" n="116" break="no"/>minis: antecdens patet quamlibet partem potest assumere 
+          sind<lb ed="#P" n="117" break="no"/>alia: patet: in triduo assumpsit corpus et animam: et non 
+          <lb ed="#P" n="118"/>corpus per animam: quia si anima non fuisset non minus corpus 
+          <lb ed="#P" n="119"/>fuisset assumptum.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e862">
+          ¶ Secunda conclusio: nullum medium ex 
+          <lb ed="#P" n="120"/>trinsecum requirit verbum quando aliquid ei assumit in 
+          sup<lb ed="#P" n="121" break="no"/>positali assumptione. patet: non requirit gratiam nec 
+          ali<lb ed="#P" n="122" break="no"/>quod donum supernaturale spuisale. patet: assumit 
+          im<lb ed="#P" n="123" break="no"/>mediate corpus sine tali dono: igitur. Et ex ea 
+          <lb ed="#P" n="124"/>dem via probari potest quod nec requiritur medium quod 
+          <pb ed="#P" n="10-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nec medium quo
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e883">
+          ¶ Tertia conclusio: eque imedia 
+          <lb ed="#P" n="2"/>te verbum assumpsit naturam humanam et quamlibet eius 
+          <lb ed="#P" n="3"/>partem. patet: quaelibet pars est vnita: et non vna 
+          me<lb ed="#P" n="4" break="no"/>diante alia: nec totum mediantibus partibus: nec 
+          econ<lb ed="#P" n="5" break="no"/>uerso.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e894">
+          ¶ Sed quia aliqui tenent quod tota natura huma 
+          <lb ed="#P" n="6"/>na est assumpta primo: et non partes: aliqui 
+          econuer<lb ed="#P" n="7" break="no"/>so: pro eis introducam aliqua argumenta contra has 
+          <lb ed="#P" n="8"/>tres conclusiones et potissimum contra tertiam. 
+          argui<lb ed="#P" n="9" break="no"/>tur primo sic: illud est primo assumptibile tanquam 
+          imme<lb ed="#P" n="10" break="no"/>diatum fundamentum vnionis ad extrinsecum 
+          suppo<lb ed="#P" n="11" break="no"/>situm quod est per se et primo suppositabile proprio 
+          sup<lb ed="#P" n="12" break="no"/>posito: sed hoc est natura tota suppositabilis: 
+          igi<lb ed="#P" n="13" break="no"/>tur.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e914">
+          ¶ Secundo: si partes eque primo assumantur a 
+          ver<lb ed="#P" n="14" break="no"/>bo sicut tota natura humana: sequitur quod sunt plures 
+          <lb ed="#P" n="15"/>vniones assumptionis et incarnationis: hoc est 
+          fal<lb ed="#P" n="16" break="no"/>sum: est nisi vna incarnatio.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e923">
+          ¶ Ad iste duo 
+          argumen<lb ed="#P" n="17" break="no"/>ta simul respondeo: dico quod argumenta praesupponunt 
+          fal<lb ed="#P" n="18" break="no"/>sum: quod sit aliqua vnio qua totum vel partes assu 
+          <lb ed="#P" n="19"/>mantur: immo si poneretur vnio distincta ab humanita 
+          <lb ed="#P" n="20"/>te assumpta: rationabilius est ponere plures vnio 
+          <lb ed="#P" n="21"/>nes quam vnam. in triduo anima fuit vnita verbo: et 
+          ver<lb ed="#P" n="22" break="no"/>bum fuit vnitum corpori: et sic illic due sunt vniones: 
+          <lb ed="#P" n="23"/>quare ille vniones non erant in illis partibus 
+          quan<lb ed="#P" n="24" break="no"/>do informabant totum: et eodem modo in qualibet parte 
+          <lb ed="#P" n="25"/>materie debes ponere vnionem distinctam ab illa 
+          par<lb ed="#P" n="26" break="no"/>te: quia si ad ymaginationem corpus christi fuisset 
+          di<lb ed="#P" n="27" break="no"/>uisum in quamlibet partem proportionalem: adhuc 
+          cu<lb ed="#P" n="28" break="no"/>iuslibet illarum partium quae fuerunt fuisset assumptio: et 
+          <lb ed="#P" n="29"/>vnio: propterea non pono tales vniones a rebus 
+          vni<lb ed="#P" n="30" break="no"/>tis distinctas. Dico ergo quod humanitaset quelibet 
+          <lb ed="#P" n="31"/>pars eius est eque immediate vnita verbo et ab 
+          ip<lb ed="#P" n="32" break="no"/>so assumpta.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e960">
+          ¶ Iam arguitur probando quod verbum 
+          pri<lb ed="#P" n="33" break="no"/>us assumpsit partes: priora intentione sunt posterio 
+          <lb ed="#P" n="34"/>ra exequutione: et econuerso: patet de fine: sed 
+          ver<lb ed="#P" n="35" break="no"/>bum prius intentione assumpsit totam naturam 
+          huma<lb ed="#P" n="36" break="no"/>nam sicut aliquid perfectius: et propter ipsam assumpsit 
+          par<lb ed="#P" n="37" break="no"/>tes: ergo prius exequutione assumpsit partes.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e973">
+          ¶ Secundo 
+          <lb ed="#P" n="38"/>arguitur: quando aliquid conuenit alicui primo non potest 
+          con<lb ed="#P" n="39" break="no"/>petere alteri nisi mediante illo: sicut patet de 
+          habe<lb ed="#P" n="40" break="no"/>re tres: quod non potest competere alicui nisi per triangulum. 
+          <lb ed="#P" n="41"/>sed assumi potest conuenire partibus sine toto: quia de 
+          <lb ed="#P" n="42"/>facto ita fuit in triduo: ergo non conuenit toti eque 
+          <lb ed="#P" n="43"/>primo.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e990">
+          ¶ Ad primum: dico quod hoc est verum quando est 
+          pro<lb ed="#P" n="44" break="no"/>cessus successiue. si quis proponit ire romam: quod est 
+          pri<lb ed="#P" n="45" break="no"/>mo intentum exequitur hoc per media alia antequam 
+          ro<lb ed="#P" n="46" break="no"/>mam adit.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e999">
+          ¶ Ad secundem: dico si aliquid conueniat 
+          alicui<lb ed="#P" n="47" break="no"/>primo et conuertibiliter: conuenit aliis per rationem illi 
+          <lb ed="#P" n="48"/>us: sic non est hic. eque primo partes fuerunt assumpte 
+          <lb ed="#P" n="49"/>cum toto. aliquam prioritatem habent patres essentiales 
+          <lb ed="#P" n="50"/>respectu totius vt patet. vii. methaphisice. quia 
+          <lb ed="#P" n="51"/>sunt cause totius: et corpus est vnitum mediante anima: 
+          <lb ed="#P" n="52"/>ita quod si non esset anima corpus non fuisset assumptum: 
+          si<lb ed="#P" n="53" break="no"/>cut mgratur in littera deducit: et Augu. in. ii. epostola ad 
+          <lb ed="#P" n="54"/>volusianum dicit: quod magnitudo virtutis filii dei: 
+          <lb ed="#P" n="55"/>sibi animam rationalem et per eandem etiam corpus 
+          hu<lb ed="#P" n="56" break="no"/>manum totumque omnino hominem in melius mutandum 
+          nul<lb ed="#P" n="57" break="no"/>lo modo in deterius mutata coaptauit. et 
+          Ioan<lb ed="#P" n="58" break="no"/>nes Damascenus li. iii. ca. vi. sic inquit: vnum est 
+          igi<lb ed="#P" n="59" break="no"/>tur carni mentis medio verbum dei mediantis 
+          inter<lb ed="#P" n="60" break="no"/>dei puritatem et carnis crassiciem: principatum enin anime 
+          <lb ed="#P" n="61"/>et carnis mens tenet quid anime purissimi mentis ve 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>ro deus.
+        </p>
+        <p xml:id="jm3cbb-e04820-d1e1038">
+          ¶ Epilogando dico: viri multi luctantur 
+          <lb ed="#P" n="63"/>hic verbaliter. Concludendo dico in sententia: non 
+          <lb ed="#P" n="64"/>est vna vnio respectus inherens toti: nec erat in 
+          pri<lb ed="#P" n="65" break="no"/>ma assumptione per quam tota humanitas dicitur primo 
+          <lb ed="#P" n="66"/>assumi: et ex consequenti corpus: sed dico: eque 
+          pri<lb ed="#P" n="67" break="no"/>mo verbum ei vniuit totum compositum: hoc est totam 
+          <lb ed="#P" n="68"/>naturam humanam: et quamlibet partem eius: et non 
+          par<lb ed="#P" n="69" break="no"/>tem ex consequenti: vt patuit in triduo. et sic de toto. 
+          <lb ed="#P" n="70"/>aliqua tamen prioritas potest dici in assumptione partium. 
+          <lb ed="#P" n="71"/>non assumpsisset verbum corpus si non fuisset anime 
+          rece<lb ed="#P" n="72" break="no"/>ptaculum: propterea ipsum gratia anime assumpsit de 
+          <lb ed="#P" n="73"/>facto: licet non de necessitate. Ingeniosus hic respondens 
+          <lb ed="#P" n="74"/>videat in quo sensu loquitur: et sine verborum 
+          dicaci<lb ed="#P" n="75" break="no"/>tate sententia habita consequenter loquatur: si 
+          dica<lb ed="#P" n="76" break="no"/>tur corpus assumptum propter animam:et anima propter 
+          <lb ed="#P" n="77"/>corpus: et humanitas propter redemptionem humani 
+          ge<lb ed="#P" n="78" break="no"/>neris: recte dicitur: nec illic in talibus verbis 
+          si<lb ed="#P" n="79" break="no"/>ne fructu immorandum est. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

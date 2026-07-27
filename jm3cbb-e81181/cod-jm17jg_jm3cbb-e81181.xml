@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 20</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 20</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="133-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e81181"><!-- l3d37q20 -->
+        <head xml:id="jm3cbb-e81181-Hd1e99">Quaestio 20</head>
+        <head xml:id="jm3cbb-e81181-Hd1e101" type="question-title">An tentatio Dei sit contra primum praeceptum decalogi</head>
+        <p xml:id="jm3cbb-e81181-d1e104">
+          <lb ed="#P" n="70"/>VLterius queritur: an 
+          <lb ed="#P" n="71"/>temptatio dei sit contra primum 
+          <lb ed="#P" n="72"/>preceptum decalogi. Pro 
+          que<lb ed="#P" n="73" break="no"/>stionis solutione ponetur quid 
+          no<lb ed="#P" n="74" break="no"/>minis temptationis: postea 
+          con<lb ed="#P" n="75" break="no"/>clusiue respondebitur ad 
+          quaestio<lb ed="#P" n="76" break="no"/>nem. temptare deini est explo 
+          <lb ed="#P" n="77"/>rare et experimentum sumere per verba vel facta 
+          <lb ed="#P" n="78"/>ratione proprie persone: de dei bonitate / sapientia / 
+          <lb ed="#P" n="79"/>pietate / et huiusmodi: signantur ratione proprie persone: quia 
+          <lb ed="#P" n="80"/>si quis experimentum quereret de deo vt aliis 
+          inno<lb ed="#P" n="81" break="no"/>tescat in dei exaltationem: talis deum non temptat. 
+          <lb ed="#P" n="82"/>et illud est proprie deum temptare et a certo 
+          proposi<lb ed="#P" n="83" break="no"/>to. aliquis etiam indirecte et praeter intentionem 
+          forma<lb ed="#P" n="84" break="no"/>lem deum temptat: quando petit vel facit aliquid quod 
+          <lb ed="#P" n="85"/>ad nichil aliud est vtile nisi vt dei potestatem 
+          pro<lb ed="#P" n="86" break="no"/>bet. vnde super illud Deutero. vi. non temptabis do 
+          <lb ed="#P" n="87"/>minum deum tuum: dicit glo. deum temptat / qui habens 
+          <lb ed="#P" n="88"/>quid faciat sine ratione committit se discrimini vel 
+          pe<lb ed="#P" n="89" break="no"/>riculo / experiens vtrum liberari possit a deo. vnde 
+          <lb ed="#P" n="90"/>Aug. xxiii. contra faustum. dicit: quod paulus non fugit per 
+          <lb ed="#P" n="91"/>sportam in damasco quasi no credendo in deum: 
+          <lb ed="#P" n="92"/>sed ne deum temptaret: si fugere noluisset cum 
+          fu<lb ed="#P" n="93" break="no"/>gere potuisset.
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e159">
+          ¶ Circa hoc pceptum multipliciter 
+          <lb ed="#P" n="94"/>homines peccant. primo veritatem querendo de alia 
+          <lb ed="#P" n="95"/>vita: qui in fide dubitantes reuocant morituros. 
+          se<lb ed="#P" n="96" break="no"/>cundo duellantes qui volunt experiri veritatem oc 
+          <lb ed="#P" n="97"/>cultam per victoriam in duello. tertio petentes 
+          <lb ed="#P" n="98"/>artes vel disciplinas a deo / nullo studio vel 
+          insuffi<lb ed="#P" n="99" break="no"/>cienti exhibito. similiter illi qui possunt qortem 
+          au<lb ed="#P" n="100" break="no"/>fugere in casu in quo tenentur. sepe expectant quousque 
+          <lb ed="#P" n="101"/>liberantur a deo. dixi. in quo tenentur quia pro 
+          ope<lb ed="#P" n="102" break="no"/>re consilii potest homo mortem pati vt in distinc. 
+          <lb ed="#P" n="103"/>xlix. quarti diximus. pari forma / illi deum temptant 
+          <lb ed="#P" n="104"/>qui tempus inseruiendi deo constituunt: vt Iudich. 
+          <lb ed="#P" n="105"/>viii. scribitur.
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e188">
+          ¶ Sed contra primum membrum temptationis 
+          <lb ed="#P" n="106"/>arguitur: sortes recte sentiens in fide / potest facere 
+          pla<lb ed="#P" n="107" break="no"/>tonem deuotum moriturum pacisci quod redeat 
+          ani<lb ed="#P" n="108" break="no"/>ma eius post mortem quatenus eam liberet de 
+          pur<lb ed="#P" n="109" break="no"/>gatorio si egeat.
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e200">
+          ¶ Respondetur: si sortes 
+          paci<lb ed="#P" n="110" break="no"/>sceretur cum platone quatenusanima eius redeat 
+          <lb ed="#P" n="111"/>dubius de immortalitate anime penis vel 
+          gau<lb ed="#P" n="112" break="no"/>diis: tunc talis deum temptat. et esto quod non sit 
+          du<lb ed="#P" n="113" break="no"/>bius / non expedit sic pacisci: quia demon potest 
+          ap<lb ed="#P" n="114" break="no"/>parere et dicere quod est in celo: licet sit in purgatorio: 
+          <lb ed="#P" n="115"/>quatenus praecibus priuetur. vel dicere quod est in inferno 
+          <lb ed="#P" n="116"/>quatenus eisdem pruetur: et etiam quatenus faciat 
+          <lb ed="#P" n="117"/>viuentem non imitari bonam vitam defuncti: vel 
+          despe<lb ed="#P" n="118" break="no"/>rare: non sine magno sale est hec pactio ineunda. 
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e222">
+          <lb ed="#P" n="119"/>¶ hoc premisso: respondetur perhanc conclusionem. 
+          <lb ed="#P" n="120"/>temptare deum est grande peccatumt contra primum 
+          <lb ed="#P" n="121"/>preceptum prime tabule commissum. patet: quitemptat 
+          <pb ed="#P" n="133-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>deum ex intentione / dubitat de illo quod debet 
+          fi<lb ed="#P" n="2" break="no"/>de credere: ergo est infidelis: et per consequens 
+          pec<lb ed="#P" n="3" break="no"/>cat: et contra primum praeceptum non recte colendo deum: 
+          <lb ed="#P" n="4"/>quia sine fide recta non potest recte coli. Insuper: 
+          <lb ed="#P" n="5"/>temptare deum prohibetur. Deutero. vi. vbi dicitur non 
+          <lb ed="#P" n="6"/>temptabis domnm deum tuum: et recitatur a Christo Mat. 
+          <lb ed="#P" n="7"/>quarto.
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e251">
+          ¶ Contra hanc conclusionem arguitur: 
+          Abraham<lb ed="#P" n="8" break="no"/>non peccauit: et tamemn temptauit deum. Gene. xv. 
+          dice<lb ed="#P" n="9" break="no"/>bat: vnde scire possum quod possessurus sum eam: scilicet 
+          <lb ed="#P" n="10"/>terram a deo permissam. et Ezechias quarti Regum 
+          <lb ed="#P" n="11"/>vigesimo capite. similiter nec Gedeon qui signum 
+          <lb ed="#P" n="12"/>victorie a deo petiit Iudicum. vi. cum victoriam illi 
+          <lb ed="#P" n="13"/>dedit deus cum signo de rore tam in vellere quam 
+          ex<lb ed="#P" n="14" break="no"/>tra vellus.
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e269">
+          ¶ Secundo arguitur: achas peccauit 
+          qui<lb ed="#P" n="15" break="no"/>noluit signum a deo petere: vt patet quarto Regum. 
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e274">
+          <lb ed="#P" n="16"/>¶ Respondetur: Abraham et Ezechias non diffidebant 
+          <lb ed="#P" n="17"/>de deo: sed instinctu sputssanctie ex dei familiarita 
+          <lb ed="#P" n="18"/>te viri celo digni signum a deo petebant: qualiter 
+          <lb ed="#P" n="19"/>aliis innotesceret: et non pro se. de gedeone dicit glo. 
+          <lb ed="#P" n="20"/>peccauit sic instanter petendo signum a deo. ex 
+          debi<lb ed="#P" n="21" break="no"/>litate fidei signum petiit: sic et zacharias Luce. i. 
+          <lb ed="#P" n="22"/>qui dixit ad angelum vnde hoc sciam. non propter in 
+          <lb ed="#P" n="23"/>credulitatem punitus est: perdidit prompte modu 
+          <lb ed="#P" n="24"/>los loquele.
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e296">
+          ¶ Ad secundum argumentum: peccauit 
+          <lb ed="#P" n="25"/>ille achas. erat ei praeceptum petere signum a deo 
+          pro<lb ed="#P" n="26" break="no"/>vtilitate communi: et noluit ille malus vir ne deus 
+          <lb ed="#P" n="27"/>glorificaretur.
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e306">
+          ¶ Tertio arguitur per illud quod scribitur 
+          <lb ed="#P" n="28"/>ii. Paralepomeno. xx. Cum ignoramus quid 
+          agere<lb ed="#P" n="29" break="no"/>debeamus hoc solum habemus residuivt oculos no 
+          <lb ed="#P" n="30"/>stros dirigamus ad te. ergo deum temptare possumus 
+          an<lb ed="#P" n="31" break="no"/>velit nos exaudire: et nobis opem ferre.
+        </p>
+        <p xml:id="jm3cbb-e81181-d1e317">
+          ¶ 
+          Respon<lb ed="#P" n="32" break="no"/>detur: textus / ille potius est contra illud quod tendit 
+          argu<lb ed="#P" n="33" break="no"/>mentum quam pro eo. vult scriptura dicere: debemus 
+          <lb ed="#P" n="34"/>facere quae in nobis sunt: et cum non possumus plura 
+          <lb ed="#P" n="35"/>facere: recurramus ad deum supplices suppetias 
+          ab<lb ed="#P" n="36" break="no"/>eo in angustia petentes: scientes quod nos iuuabit sicut 
+          <lb ed="#P" n="37"/>petimus vel in meliori. prudens pater non semper dat 
+          <lb ed="#P" n="38"/>panem vel cultellum flenti filio: sed illad quod 
+          cre<lb ed="#P" n="39" break="no"/>dit ei expedire. hoc non est deum temptare.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

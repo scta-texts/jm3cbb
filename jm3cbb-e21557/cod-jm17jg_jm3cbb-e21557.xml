@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="36-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e21557"><!-- l3d15q2 -->
+        <head xml:id="jm3cbb-e21557-Hd1e99">Quaestio 2</head>
+        <head xml:id="jm3cbb-e21557-Hd1e101" type="question-title">An fuerit in Christo maximus dolor et tristitia maxima in anima
+    secundum omnem partem et portionem eius</head>
+        <p xml:id="jm3cbb-e21557-d1e104">
+          <lb ed="#P" n="32"/>SEcundo 
+          conti<lb ed="#P" n="33" break="no"/>nuando hanc materiam queritur 
+          <lb ed="#P" n="34"/>an fuerit in christo maximus 
+          <lb ed="#P" n="35"/>dolor et tristicia in anima secundum 
+          <lb ed="#P" n="36"/>omnem partem et portionem eius. 
+          <lb ed="#P" n="37"/>licet anima realiter non habeat 
+          <lb ed="#P" n="38"/>partes ( vt in secundo diximus ) tamen 
+          <lb ed="#P" n="39"/>loquor vt plures. Ulterius reminisce que in 
+          distin<lb ed="#P" n="40" break="no"/>ctione. xxiiii. ii. dicta sunt de anime portionibus. 
+          <lb ed="#P" n="41"/>his premissis pono conclusiones nouem.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e128">
+          ¶ 
+          Qua<lb ed="#P" n="42" break="no"/>rum prima est: in christo fuit verus dolor. probatio 
+          hu<lb ed="#P" n="43" break="no"/>ius / conclusio prius recitata est: et adhuc probatur 
+          <lb ed="#P" n="44"/>eadem. corpus christi fuit optime complexionatum: ergo 
+          <lb ed="#P" n="45"/>fuit optime susceptiuum et perceptiuum dolorum
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e139">
+          ¶ 
+          Se<lb ed="#P" n="46" break="no"/>cunda conclusio: christus habuit dolorem secundu 
+          seniuin<lb ed="#P" n="47" break="no"/>precise respectu proprii corporis: et non alieni. 
+          pa<lb ed="#P" n="48" break="no"/>tet: sensus solum percipit penam sui corporis et 
+          <lb ed="#P" n="49"/>partium eius. si videam te in igne combustum: propte 
+          <lb ed="#P" n="50"/>rea non doleo in sensu: si sim extra speram 
+          actiui<lb ed="#P" n="51" break="no"/>tatis ignis: licet forte mente trister.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e156">
+          ¶ Nunc 
+          ve<lb ed="#P" n="52" break="no"/>niendo ad tristiciam ponuntur conclusiones.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e161">
+          ¶ 
+          Qua<lb ed="#P" n="53" break="no"/>rum prima est et tertia in ordine totius 
+          questio<lb ed="#P" n="54" break="no"/>nis. Uoluntas anime christi vt natura: similiter vt 
+          <lb ed="#P" n="55"/>sesui coniuncta: de eisdem tristabatur de quibus dole 
+          <lb ed="#P" n="56"/>bat ipse sensus christi. patet: si sensus vehementer 
+          <lb ed="#P" n="57"/>patiatur a delectabili vel obiecto doloris 
+          causa<lb ed="#P" n="58" break="no"/>tiuo: et intellectus potest esse in vsu suo: naturale 
+          <lb ed="#P" n="59"/>est vt cooperetur potentie coniuncte: et voluntas 
+          con<lb ed="#P" n="60" break="no"/>patiatur delectando vel tristando ipsi appetitui 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>sensitiuo. et cum in christo ratio permansit in suo vsu: et 
+          <lb ed="#P" n="62"/>voluntas non fuit absorpta a dolore appetitus 
+          sen<lb ed="#P" n="63" break="no"/>sitiui: et intellectus intuitiue illum dolorem 
+          appre<lb ed="#P" n="64" break="no"/>hendit: et voluntati ostendit: illa voluntas condo 
+          <lb ed="#P" n="65"/>luit: quia naturaliter inclinabatur ad oppositum: 
+          <lb ed="#P" n="66"/>que inclinatio ad tristiciam sufficit: secundum notata in 
+          <lb ed="#P" n="67"/>questione precedenti. Insuper: voluntas 
+          appeti<lb ed="#P" n="68" break="no"/>tui sensitiuo colligatur: et illa colligatio in christo 
+          <lb ed="#P" n="69"/>fuit perfectissima: et intellectus apprehendit illud 
+          <lb ed="#P" n="70"/>obiectum doloris causatiuum: quia non fuit tristicia 
+          <lb ed="#P" n="71"/>absorpta neque impedita: ergo ratione illius fuit 
+          <lb ed="#P" n="72"/>tristicia in voluntate.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e209">
+          ¶ Quarta conclusio 
+          anima<lb ed="#P" n="73" break="no"/>christivt libera secundum portionem superiorem proprie 
+          <lb ed="#P" n="74"/>captam non habuit tristiciam. patet: illa portio 
+          <lb ed="#P" n="75"/>precise respicit deum et eius intrinseca: sed 
+          nichil<lb ed="#P" n="76" break="no"/>talium noluit anima christi: igitur de talibus non 
+          tri<lb ed="#P" n="77" break="no"/>stabatur.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e222">
+          ¶ Quinta conclusio: christus non habuit 
+          tristi<lb ed="#P" n="78" break="no"/>ciam de carentia fruitionis aut peccato proprio. 
+          <lb ed="#P" n="79"/>patet: semper fruebatur: et nunquam peccauit. nullum 
+          <lb ed="#P" n="80"/>peccatum fecit: nec inuentus est dolus in ore eius. 
+          <lb ed="#P" n="81"/>Esaie. liii.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e233">
+          ¶ Sexta conclusio: christus secundum portionem / 
+          <lb ed="#P" n="82"/>superiorem late acceptam non habuit tristiciam de 
+          <lb ed="#P" n="83"/>sua passione aut morte sequentem nolitionem 
+          abso<lb ed="#P" n="84" break="no"/>lutam. patet: deliberate et cathegorice voluit 
+          mo<lb ed="#P" n="85" break="no"/>ri. oblatus est quia voluit. ergo non habuit nolle 
+          re<lb ed="#P" n="86" break="no"/>spectu talium: quia tunc qualitates contrarie fuissent 
+          <lb ed="#P" n="87"/>in voluntate eius: quod non est hic concedendum.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e249">
+          ¶ 
+          Se<lb ed="#P" n="88" break="no"/>ptima conclusio: christus secundum portionem 
+          superio<lb ed="#P" n="89" break="no"/>rem late acceptam habuit tristiciam consequentem 
+          <lb ed="#P" n="90"/>nolitionem absolutam de peccatis aliorum: vt pote de 
+          <lb ed="#P" n="91"/>iudeorum et paganorum infidelitate: et hominum 
+          ob<lb ed="#P" n="92" break="no"/>stinatione pro quibus passus est: et omnia hec sua 
+          <lb ed="#P" n="93"/>anima distinctissime nouerat ex dictis in 
+          distin<lb ed="#P" n="94" break="no"/>ctione precedenti. ista conclusio probatur 
+          auctori<lb ed="#P" n="95" break="no"/>tate Ambrosii sup Lucam: et magister in littera 
+          al<lb ed="#P" n="96" break="no"/>legat: doles dome non tua vulnera sed mea.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e272">
+          ¶ 
+          Octa<lb ed="#P" n="97" break="no"/>ua conclusio probabilis: christus tristabatur de sua 
+          pas<lb ed="#P" n="98" break="no"/>sione tristicia consequente nolitionem liberam secundum 
+          <lb ed="#P" n="99"/>portionem superiorem late acceptam. probatur: 
+          volun<lb ed="#P" n="100" break="no"/>tas anime noluit nolitione conditionata pati 
+          mor<lb ed="#P" n="101" break="no"/>tem: dicebat: pater si possibile est transeat a me 
+          ca<lb ed="#P" n="102" break="no"/>lix iste: illa nolitio erat libera: ergo erat bona: et 
+          <lb ed="#P" n="103"/>per consequens in deum referebat. hoc est 
+          noluis<lb ed="#P" n="104" break="no"/>set absolute pati quantum est ex se: si omnia fuissent 
+          <lb ed="#P" n="105"/>ita bene sine ea sicut cum ea. patet: obiectum potentie non 
+          <lb ed="#P" n="106"/>est secundum se eligibile: sed propter aliud. illud patet 
+          ter<lb ed="#P" n="107" break="no"/>tii ethicorum. ix. ca. vbi dicit philosophus in no 
+          <lb ed="#P" n="108"/>ua translatione: mors quidem atque vulnera viro 
+          <lb ed="#P" n="109"/>forti molesta erunt atque inuito: feret tamen quod 
+          ho<lb ed="#P" n="110" break="no"/>nestum est ea ferre: vel turpe non ferre. atque quo 
+          <lb ed="#P" n="111"/>magis omni virtute pollet et felicior est: eo magis 
+          <lb ed="#P" n="112"/>ob mortem sane dolebit. vir enim talis maxime 
+          di<lb ed="#P" n="113" break="no"/>gnus est vita: maximisque bonis priuatur id ipsum 
+          <lb ed="#P" n="114"/>sciens: quod quidem dolorem affert. verum nichilominus 
+          <lb ed="#P" n="115"/>est fortis:et eo magis fortasse quod honestatem (que est 
+          <lb ed="#P" n="116"/>in bello hhis ante ponit. vbi Aristo. dicit: quod fortis 
+          <lb ed="#P" n="117"/>non querit absolute mortem: sed viuere. et quanto 
+          <lb ed="#P" n="118"/>melior fuerit magis querit viuere: vt aliis et 
+          sibi<lb ed="#P" n="119" break="no"/>prosit. sed si res non potest aliter commode et 
+          hone<lb ed="#P" n="120" break="no"/>ste fieri: honestatem praeeligit morti. modo christus fuit 
+          <lb ed="#P" n="121"/>felicissimus et fortis cuius vita fuit vtilis: et si ge¬ 
+          <pb ed="#P" n="36-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nus humanum poterat aliter liberari: absolute 
+          mo<lb ed="#P" n="2" break="no"/>ri noluit: sed cum decretum erat a patre quod 
+          more<lb ed="#P" n="3" break="no"/>retur pro generis humani redemptione: pati 
+          vo<lb ed="#P" n="4" break="no"/>luit. hoc idem probatur auctoritate Augu. xiii. 
+          <lb ed="#P" n="5"/>de trini. capite. vii. dicentis: licet iustus per 
+          forti<lb ed="#P" n="6" break="no"/>tudinem paratus est excipere: et equo animo ferre 
+          <lb ed="#P" n="7"/>quicquid aduersitatis acciderit: mauult tamen vt 
+          <lb ed="#P" n="8"/>non accidat: et si potest facit: atque ita paratus est 
+          <lb ed="#P" n="9"/>in vtrumque: vt quantum in ipso est alterum optet: alterum 
+          <lb ed="#P" n="10"/>vitet. et si quod vitatur incurreret: ideo volens ferat 
+          <lb ed="#P" n="11"/>quia fleri non potuit quod volebat: hoc est quantum in 
+          ipso<lb ed="#P" n="12" break="no"/>fuit. modo ad nolle conditionale sequitur tristicia et 
+          <lb ed="#P" n="13"/>licet volitio et nolitio vniformiter capte 
+          respe<lb ed="#P" n="14" break="no"/>etu eiusdem obiecti contrarientur: et gaudium et 
+          tri<lb ed="#P" n="15" break="no"/>sticia que sequuntur: tamen tristicia nolle conditio 
+          <lb ed="#P" n="16"/>nale sequens: et gaudium sequens velle pati 
+          mor<lb ed="#P" n="17" break="no"/>tem cathegorice: non contrariantur: sicut nec 
+          vo<lb ed="#P" n="18" break="no"/>litio cathegoricaet nolitio conditionata non 
+          re<lb ed="#P" n="19" break="no"/>pugnant.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e374">
+          ¶ Contra hanc conclusionem est difficultas: 
+          <lb ed="#P" n="20"/>numquam nolitio conditionata causat tristiciam nisi 
+          condi<lb ed="#P" n="21" break="no"/>tio sit simpliciter et absolute nolita. si 
+          mercator<lb ed="#P" n="22" break="no"/>vellet tempestatem esse tempore eiectionis rerum sua 
+          <lb ed="#P" n="23"/>rum: non tristaretur. sed voluntas anime christi voluit 
+          <lb ed="#P" n="24"/>genus humanum redimi per mortem christi. intellectus 
+          <lb ed="#P" n="25"/>christi sciebat deum illud velle: et voluntas christi 
+          con<lb ed="#P" n="26" break="no"/>formabat se illi: cum erat in particulari cognitum. 
+          <lb ed="#P" n="27"/>Sed dici potest. non erat necesse voluntatem christi 
+          il<lb ed="#P" n="28" break="no"/>lud actualiter velle. et tunc nolitio conditionata 
+          suf<lb ed="#P" n="29" break="no"/>ficit producere tristiciam:
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e398">
+          ¶ Nona conclusio: 
+          vo<lb ed="#P" n="30" break="no"/>luntas christi vt libera secundum portionem inferiorem non est 
+          <lb ed="#P" n="31"/>tristata de passione christi tristicia sequente vel 
+          produ<lb ed="#P" n="32" break="no"/>cta a nolitione absoluta. probatur: christus nullum actum 
+          <lb ed="#P" n="33"/>liberum habuit voluntati diuine difformem: ergo vo 
+          <lb ed="#P" n="34"/>luntas anime christi secundum portionem inferiorem non 
+          ha<lb ed="#P" n="35" break="no"/>buit nolle cathegoricum quo noluit pati. 
+          Insup<lb ed="#P" n="36" break="no"/>in portione superiore rationis fuit biudicium / 
+          pa<lb ed="#P" n="37" break="no"/>tiendum est a me: ergo non potuit esse tale iudicium 
+          <lb ed="#P" n="38"/>in portione inferiore rationis non est patiendum a me: 
+          <lb ed="#P" n="39"/>cum sint vna et eadmem res ille due portiones.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e422">
+          ¶ Sed 
+          <lb ed="#P" n="40"/>dicis: actus portionis superioris tam intellectus 
+          <lb ed="#P" n="41"/>quam voluntati habet deum pro fine et partiali obiecto. in 
+          <lb ed="#P" n="42"/>intellectu erat iudicium patiendum est a me propter deum: 
+          <lb ed="#P" n="43"/>vel conformiter ad voluntatem deiet in voluntate erat 
+          <lb ed="#P" n="44"/>actus ei respondens ab illo iudicio regulatus: portio 
+          in<lb ed="#P" n="45" break="no"/>ferior de deo non dictat: nec in deum suum actum refert. 
+          <lb ed="#P" n="46"/>sic dictat: non est patiendum a me. et nolo pati. 
+          mo<lb ed="#P" n="47" break="no"/>do isti actus intellectus et voluntatis non habent ea 
+          <lb ed="#P" n="48"/>dem obiecta adequata: ergo non contrariantur: 
+          exen<lb ed="#P" n="49" break="no"/>plum in simili: volo esse in luto pro centum nobilibus 
+          <lb ed="#P" n="50"/>et nolo esse absolute in luto.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e448">
+          ¶ Sed contra illud 
+          ar<lb ed="#P" n="51" break="no"/>guitur: eadem res est portio superior et inferior: 
+          <lb ed="#P" n="52"/>et portio inferior habet nolle patiendi: et iudicat 
+          <lb ed="#P" n="53"/>non esse patiendum. et portio superior iudicat est 
+          pa<lb ed="#P" n="54" break="no"/>tiendum pro deo. ergo simpliciter est patiendum: et vult 
+          pati<lb ed="#P" n="55" break="no"/>pro deo: ergo pati vilt. ergo actus contrarii sunt in eodem
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e461">
+          ¶ 
+          Re<lb ed="#P" n="56" break="no"/>sponderetur facile: hec consequentia est nulla: volo 
+          <lb ed="#P" n="57"/>pati pro deo: ergo volo pati simpliciter: 
+          quemad<lb ed="#P" n="58" break="no"/>modum non sequitur: volo esse in luto pro centum 
+          no<lb ed="#P" n="59" break="no"/>bilibus: ergo volo esse in luto. similiter volitio et no 
+          <lb ed="#P" n="60"/>litio de eodem secundum varias apprehensiones non 
+          op<lb ed="#P" n="61" break="no"/>ponuntur. Ecce quot modis cauillationes none 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>et octaue conclusioni dari possunt.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e482">
+          ¶ Contra ista ai 
+          <lb ed="#P" n="63"/>guitur sic: christus fuit comprehensor secundum animam: 
+          er<lb ed="#P" n="64" break="no"/>go habuit maximum gaudium. modo excellens 
+          gau<lb ed="#P" n="65" break="no"/>dium tristiciam etiam impartinentem non admittit. 
+          for<lb ed="#P" n="66" break="no"/>te dicis multorum more: habuit gaudium in 
+          portio<lb ed="#P" n="67" break="no"/>ne superiori: et tristiciam in inferiori: et sic 
+          gaudi<lb ed="#P" n="68" break="no"/>um et tristicia non sunt in eodem subiecto:et per 
+          con<lb ed="#P" n="69" break="no"/>sequens vnum non expellit aliud.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e500">
+          ¶ Contra: 
+          portio<lb ed="#P" n="70" break="no"/>superior et inferior sunt vna et eadem res: ex 
+          di<lb ed="#P" n="71" break="no"/>ctis in distinctione. xxiiii ii. ergo licet dicatur 
+          gau<lb ed="#P" n="72" break="no"/>dium esse in portione supcriore: et tristicia in portio 
+          <lb ed="#P" n="73"/>ne inferiore: sunt in eodem subiecto.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e511">
+          ¶ Responde 
+          <lb ed="#P" n="74"/>tur concedendo quod eadem res est superior et inferior 
+          <lb ed="#P" n="75"/>portio. et quicquid realiter inheret vni earum: alteri 
+          <lb ed="#P" n="76"/>inherebit. Et pro illo pono propositiones.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e520">
+          ¶ 
+          Qua<lb ed="#P" n="77" break="no"/>rum prima est: in portione superiore anime 
+          christi<lb ed="#P" n="78" break="no"/>fuit tristicia. probatur: in hac portione inferiore 
+          <lb ed="#P" n="79"/>anime christi fuit tristicia. hec portio anime 
+          christi<lb ed="#P" n="80" break="no"/>inferior est vel fuit portio anime christi superior 
+          <lb ed="#P" n="81"/>ergo in portione anime christi superiori fuit tristicia.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e533">
+          ¶ 
+          Se<lb ed="#P" n="82" break="no"/>cunda propositio: in portione anime christi inferio 
+          <lb ed="#P" n="83"/>re tempore passionis fuit excellens gaudium. hec 
+          pro<lb ed="#P" n="84" break="no"/>positio pot probari expositorie vt praecedens.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e542">
+          ¶ 
+          Ter<lb ed="#P" n="85" break="no"/>tia propositio: melius est sic loqui: in anima christi non 
+          <lb ed="#P" n="86"/>fuit tristicia consequens actum portionis superioris 
+          <lb ed="#P" n="87"/>stricte accepte. patet: ad nullum talem actum sequebatur 
+          <lb ed="#P" n="88"/>tristicia immo talis actus genuit naturaliter 
+          gau<lb ed="#P" n="89" break="no"/>dium
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e556">
+          ¶ Quarta propositio: actum portionis 
+          supe<lb ed="#P" n="90" break="no"/>rioris late accepte sequebatur tristicia patet: 
+          ant<lb ed="#P" n="91" break="no"/>ma christi noluit peccatum propter deum: hmnoni nolitio 
+          <lb ed="#P" n="92"/>terminabatur ad deum et ad peccatum: pro quanto ad 
+          <lb ed="#P" n="93"/>deum terminabatur dicitur actus portionis 
+          supe<lb ed="#P" n="94" break="no"/>rioris: sed quia precise non terminatur ad deumi 
+          <lb ed="#P" n="95"/>non est actus portionis superioris stricte accepte. 
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e572">
+          <lb ed="#P" n="96"/>¶ Quinta propositio: gaudium et tristicia in 
+          anima<lb ed="#P" n="97" break="no"/>christierant circa alia et alia obiecta. et per 
+          con<lb ed="#P" n="98" break="no"/>sequens inter eam non fuit contrarietas specifica 
+          <lb ed="#P" n="99"/>diligo sortem: et odio platonem. illa dilectio et odiu 
+          <lb ed="#P" n="100"/>pariut i me leticiam et tristiciam: que nullo modo 
+          con<lb ed="#P" n="101" break="no"/>trariantur: quia non sunt circa idem.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e588">
+          ¶ Sexts 
+          pro<lb ed="#P" n="102" break="no"/>positio: excellens gaudium tristiciam non 
+          comperati<lb ed="#P" n="103" break="no"/>tur in eodem subiecto. patet. vii. ethicorum et 
+          expe<lb ed="#P" n="104" break="no"/>rientia: si quis vehementer patiatur tristiciam si ei 
+          <lb ed="#P" n="105"/>ostendatur aliquid generatiuum leticie mediocris 
+          <lb ed="#P" n="106"/>in alio: in isto nichil generabit: sicut nec paruus 
+          ca<lb ed="#P" n="107" break="no"/>lor in magnum frigidum aliquid generat. actus 
+          acti<lb ed="#P" n="108" break="no"/>uorum sunt in patienti bene disposito. ii. de anima 
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e606">
+          <lb ed="#P" n="109"/>¶ Septima propositio: inter excellens gaudium et 
+          <lb ed="#P" n="110"/>tristiciam est contrarietas naturalis et indiuidualis: 
+          <lb ed="#P" n="111"/>et non specifica: si fuerint circa diuersa obiecta. 
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e615">
+          <lb ed="#P" n="112"/>¶ Octaua propositio: deus potest ponere qualita 
+          <lb ed="#P" n="113"/>tes contrarias quascunque in eodem subiecto 
+          ad<lb ed="#P" n="114" break="no"/>equato. probatio: secundum multos qualitantes eiusde 
+          <lb ed="#P" n="115"/>speciei cum contrariis in gradibus remissis se 
+          compa<lb ed="#P" n="116" break="no"/>tiuntur. si duo gradus non repugnant: deus potest 
+          <lb ed="#P" n="117"/>ponere quoscunqe mutuo.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e631">
+          ¶ Secundo arguitur ad 
+          <lb ed="#P" n="118"/>idem. secundum omnem positionem rationabilem: deus potest 
+          <lb ed="#P" n="119"/>ponere idem in diuersis locis: et tunc naturaliter 
+          <lb ed="#P" n="120"/>potest qualificari qualitatibus contrariis.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e641">
+          ¶ Tertio 
+          <lb ed="#P" n="121"/>deus potest suspendere actionem qualitatum contra 
+          <lb ed="#P" n="122"/>riarum et resistentiam: quo facto / se compatientur. Fi¬ 
+          <pb ed="#P" n="37-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>naliter arguitur ad hanc partem: deus potest ponere a. 
+          <lb ed="#P" n="2"/>summe calidum et b. summe frigidum mutuo 
+          penetrati<lb ed="#P" n="3" break="no"/>ue: impediendo actionem mutuam. potest tunc deus 
+          <lb ed="#P" n="4"/>annichilare b/ relinquendo eius / frigus in a.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e661">
+          ¶ 
+          No<lb ed="#P" n="5" break="no"/>na propositio: supnaturaliter et miraculose 
+          anima<lb ed="#P" n="6" break="no"/>christi habuit tristiciam et excellentissimum gaudium. 
+          <lb ed="#P" n="7"/>patet: naturaliter huiusmodi passiones non stant in eodem 
+          <lb ed="#P" n="8"/>passo: sed deus hoc potest facere ex propositione 
+          <lb ed="#P" n="9"/>precedenti: et hoc fecit vt genus humanum sua 
+          acer<lb ed="#P" n="10" break="no"/>bissima passione redimeret: actiuitate gaudii in 
+          <lb ed="#P" n="11"/>pediuit ne tristiciam corrumperet. Si dicis: 
+          gau<lb ed="#P" n="12" break="no"/>dium cor dilatat: tristicia ipsum constrigit. ergo 
+          cor<lb ed="#P" n="13" break="no"/>mouebitur motibus contraruis: si hmoi qualitates 
+          <lb ed="#P" n="14"/>sint in anima: cuius vis in corpore redundat.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e685">
+          ¶ 
+          Re<lb ed="#P" n="15" break="no"/>spondetur. in corporibus beatorum gaudium cor non 
+          di<lb ed="#P" n="16" break="no"/>latat: sed ipsum stat secundum bonam exigentiam complexi 
+          <lb ed="#P" n="17"/>onis. ratio: beatus habet cor impassibile per 
+          impas<lb ed="#P" n="18" break="no"/>sibilitati dotem: nec est necesse quod agat in cor passibile: 
+          <lb ed="#P" n="19"/>quia deus potest secum non coagere: Sed si in 
+          <lb ed="#P" n="20"/>nobis fuerit gaudium et tristicia secundum domnium 
+          pas<lb ed="#P" n="21" break="no"/>sionis excedentis cor mouebitur. si fuerit 
+          equa<lb ed="#P" n="22" break="no"/>litas passionum in agendo et resistendo: nulla 
+          pror<lb ed="#P" n="23" break="no"/>sus erit actio.
+        </p>
+        <p xml:id="jm3cbb-e21557-d1e707">
+          ¶ Ecce quomodo in corpore christi 
+          <lb ed="#P" n="24"/>tempore passionis fuit magnus dolor: et in 
+          anima<lb ed="#P" n="25" break="no"/>eius magna tristicia. sensualitate dolorem 
+          patien<lb ed="#P" n="26" break="no"/>te: causabatur( propatur colligantiam cum anima) in anima 
+          tristi<lb ed="#P" n="27" break="no"/>cia: sine actu preuio voluntatis. Secundo: anima vt 
+          <lb ed="#P" n="28"/>natura mortem refugiebat: ergo in ea sine actu 
+          pre<lb ed="#P" n="29" break="no"/>uio causabatur tristicia. multa alia obiecta 
+          tristi<lb ed="#P" n="30" break="no"/>bilia habuit presentata: vt in questione sequenti 
+          <lb ed="#P" n="31"/>dicetur. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

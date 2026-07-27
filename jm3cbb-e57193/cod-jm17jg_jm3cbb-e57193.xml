@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 20</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 20</title>
+          <date when="2026-07-27">July 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-jm17jg">Paris 1517</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="93-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jm3cbb-e57193"><!-- l3d33q20 -->
+        <head xml:id="jm3cbb-e57193-Hd1e99">Quaestio 20</head>
+        <head xml:id="jm3cbb-e57193-Hd1e101" type="question-title">An humilitas sit pars magnanimitatis et praeclara virtus</head>
+        <p xml:id="jm3cbb-e57193-d1e104">
+          <lb ed="#P" n="112"/>Vndecimo circa 
+          mate<lb ed="#P" n="113" break="no"/>riam fortitudinis queritur: an 
+          humili<lb ed="#P" n="114" break="no"/>tas sit pars magnanimitatis et 
+          <lb ed="#P" n="115"/>praeclara virtus:
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e115">
+          ¶ Respon: video 
+          va<lb ed="#P" n="116" break="no"/>rium discrimen de hac virtute 
+          inter<lb ed="#P" n="117" break="no"/>scriptores. aliqui humilitatem 
+          partem<lb ed="#P" n="118" break="no"/>potentialem magnitudins ponunt. 
+          <lb ed="#P" n="119"/>aliqui vnum: aliqui aliud ponunt. Dicam quantum possum confor¬¬ 
+          <pb ed="#P" n="94-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>miter ad sacras litieruas: et ad modum 
+          loquendi<lb ed="#P" n="2" break="no"/>patrum de humilitate. humilis interdum 
+          accipi<lb ed="#P" n="3" break="no"/>tur pro vili et abiecto: vt apud maronem m 
+          bucco<lb ed="#P" n="4" break="no"/>licis: atque humiles habitare casas et sordida rura. 
+          <lb ed="#P" n="5"/>et Tullius primo officiorum: quorum autem 
+          prima<lb ed="#P" n="6" break="no"/>etas propter humilitatem obscuritatem in 
+          ho<lb ed="#P" n="7" break="no"/>minum ignorationem versatur. et Malachie. ii. 
+          De<lb ed="#P" n="8" break="no"/>di vos contemptibiles  humiles omnibus 
+          popu<lb ed="#P" n="9" break="no"/>lis. Alio modo capitur theologice comunius pro 
+          vir<lb ed="#P" n="10" break="no"/>tute: et tunc sic diffinitur. humilitas est habitus 
+          <lb ed="#P" n="11"/>quo quis non vult extollere se supra rationes. vel 
+          <lb ed="#P" n="12"/>habitus quo nult se eleuare contra rationem: sed 
+          <lb ed="#P" n="13"/>se deiicere secundum fationnem rectam vel errorem 
+          in<lb ed="#P" n="14" break="no"/>uincibilem. patet hec acceptio: humilitas or 
+          poni<lb ed="#P" n="15" break="no"/>tur superbie siue lentitudini. superbus appetit id 
+          <lb ed="#P" n="16"/>quod est supra vires suas. humilis recusat id qued 
+          <lb ed="#P" n="17"/>est supra vires.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e167">
+          ¶ Hoc premisso / pono 
+          conclusio<lb ed="#P" n="18" break="no"/>nes. Quarum prima est. habitus hi: militatis 
+          incli<lb ed="#P" n="19" break="no"/>nat humilem nolle honores quibus est indignus. 
+          <lb ed="#P" n="20"/>ista statim patet ex terminis.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e177">
+          ¶ Secunda 
+          conclu<lb ed="#P" n="21" break="no"/>sio. humilitas inclinat habentem ad contemncn 
+          <lb ed="#P" n="22"/>dos honores mundanos et transitorios: in 
+          quacun<lb ed="#P" n="23" break="no"/>que significatione recitata superius capiatur honor: 
+          <lb ed="#P" n="24"/>et etiam habentem. patet MDaihei. xi. Discite a me: 
+          <lb ed="#P" n="25"/>quia mitis sum et humilis corde dicit saluator: 
+          vbi<lb ed="#P" n="26" break="no"/>glosa tam marginalis quam interlinealis: mitis 
+          nul<lb ed="#P" n="27" break="no"/>lum ledendo: humilis nullum contemnendo. 
+          ex<lb ed="#P" n="28" break="no"/>inaniuit seipsum formam accipiens serui. Iste 
+          con<lb ed="#P" n="29" break="no"/>temptus non capitur in malam partem: vt ex 
+          dicem<lb ed="#P" n="30" break="no"/>dis apertius euadet. Superbus omnes 
+          contem<lb ed="#P" n="31" break="no"/>pnit: neminem contempnit humilis. et Luce 
+          pri<lb ed="#P" n="32" break="no"/>mo de virgine: quia respexit humilitatem ancille 
+          <lb ed="#P" n="33"/>sue: vbi glosa Bede. ecce quam vilia de se sentit: et 
+          to<lb ed="#P" n="34" break="no"/>tum gratie attribuit. agminatim scripture / et 
+          san<lb ed="#P" n="35" break="no"/>cti ad hoc tendunt quod humilis ex habitu suo nichilisa 
+          <lb ed="#P" n="36"/>cit se in oculis suis. deposuit potentes de sede: et 
+          <lb ed="#P" n="37"/>exaltauit humiles.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e216">
+          ¶ Tettia conclusio. Habitus 
+          <lb ed="#P" n="38"/>humilitatis imediate inclinat habentem ad non 
+          <lb ed="#P" n="39"/>extollendum habentem preter rationem. clarius 
+          <lb ed="#P" n="40"/>et intelligibilius per actus loquar. isti sunt actus 
+          <lb ed="#P" n="41"/>praecipue humilis: nolo me extollere: volo me 
+          deii<lb ed="#P" n="42" break="no"/>cere conformiter ad rectum iudicium intellecius a 
+          <lb ed="#P" n="43"/>qua regi debeo. Sed talia iudicia in intellectu 
+          nichil<lb ed="#P" n="44" break="no"/>boni habeo in me ex me. spiritualis mea 
+          infirmi<lb ed="#P" n="45" break="no"/>tas est magna. multa talia iudicia speculatiua 
+          ve<lb ed="#P" n="46" break="no"/>ra habet in se: et alia iudicia practica que 
+          immedia<lb ed="#P" n="47" break="no"/>te dirigunt ad opus.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e240">
+          ¶ Quarta conclusio. 
+          Aliqui<lb ed="#P" n="48" break="no"/>habitus humilitatis sub magnanimitate sunt 
+          con<lb ed="#P" n="49" break="no"/>tenti. Probatio. magnanimitas inclinat habentem 
+          <lb ed="#P" n="50"/>petere honores quibus magnanimus est dignus: 
+          <lb ed="#P" n="51"/>et recusare honores quibus est indignus. ad 
+          par<lb ed="#P" n="52" break="no"/>tem istius inclinat aliqua humilitas. ergo 
+          humili<lb ed="#P" n="53" break="no"/>tas est pars magnanimitatis.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e256">
+          ¶ Quinta cenclusio. 
+          <lb ed="#P" n="54"/>Dabilis est vnus de potissimis actibus 
+          humilita<lb ed="#P" n="55" break="no"/>tis nullo modo contentus sub magnanimitate. patet 
+          <lb ed="#P" n="56"/>de tali actu: volo me deiicere. volo dicerc: 
+          humi<lb ed="#P" n="57" break="no"/>lis ex suo habitu potissimum intendit se 
+          nichilifa<lb ed="#P" n="58" break="no"/>cere: et ill ud non est de ratione magnanimitatis: 
+          <lb ed="#P" n="59"/>saltem immediate.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e272">
+          ¶ Sexta conclusio. humilitas 
+          <lb ed="#P" n="60"/>habitus humilitatis non inclinat immediate humi¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>lem ad hoc quod velit assumere henores: sed potius 
+          <lb ed="#P" n="62"/>eos fugere.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e283">
+          ¶ Ex isto sequitur quod humilitas est pars 
+          <lb ed="#P" n="63"/>potentialis magnanimitats: capiedo humilitatem in 
+          <lb ed="#P" n="64"/>toto suo ambitu. Unde Anselmus / in libro de 
+          simi<lb ed="#P" n="65" break="no"/>litudinibus ponit septem humilitatis gracus. Prmus est: 
+          <lb ed="#P" n="66"/>contemptibilem se esse cognoscere. Secundus: de hoc 
+          do<lb ed="#P" n="67" break="no"/>lere. Tertius: de hoc confuiteri. Quarius hec persuadere 
+          <lb ed="#P" n="68"/>vt scilbet hoc velit credi. Quintus: vt patienter hoc 
+          <lb ed="#P" n="69"/>sustineat dici. Sextus: vt patiatur contemptibiliter se 
+          tra<lb ed="#P" n="70" break="no"/>ctari. Septimus: vt hoc amiet. Et beais bencdicius in 
+          <lb ed="#P" n="71"/>regula. xii. gradus humilitatis ponit: Qucrum primus 
+          <lb ed="#P" n="72"/>est corde et corpere semper humilitatem ostendere: 
+          defi<lb ed="#P" n="73" break="no"/>xis in terram aspectibus. Secundus vt pauca veiba et 
+          ra<lb ed="#P" n="74" break="no"/>tionabilia loquatur aliquis non clamosa voce. 
+          Cer<lb ed="#P" n="75" break="no"/>tius vt non sit facilis aut prempius / in risum. Quarius 
+          <lb ed="#P" n="76"/>taciturnitas vsque ad interregationem. Quinius 
+          iene<lb ed="#P" n="77" break="no"/>re quod habet communis monasteri regula. Sextus 
+          cre<lb ed="#P" n="78" break="no"/>dere et pronunciare se omnibus viliorem. 
+          Septi<lb ed="#P" n="79" break="no"/>mus ad omnia indignum et inutilem se confitcri O 
+          <lb ed="#P" n="80"/>credere. Octauus contessio peccatorum. llonus 
+          proobe<lb ed="#P" n="81" break="no"/>dientia in duris et asperis patientiam amplecti. 
+          Le<lb ed="#P" n="82" break="no"/>cimus vt cum obedientia se subdat maiori. 
+          Unde<lb ed="#P" n="83" break="no"/>cimus vt voluntatem propriam non delectetur 
+          un<lb ed="#P" n="84" break="no"/>plere. Duodecimus vt deum timeat: et memor sit 
+          <lb ed="#P" n="85"/>omnium que precepit.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e336">
+          ¶ Conira al: qua istorum 
+          ar<lb ed="#P" n="86" break="no"/>guitur sic: omnis virtus inclinat nos ad 
+          respuen<lb ed="#P" n="87" break="no"/>da recusanda: et ad assumenda accer tanda. paiet de 
+          <lb ed="#P" n="88"/>temperantia que inclinat ad tempcrate viuendum / 
+          <lb ed="#P" n="89"/>et recusat inte mpcrantism. ergo etiam humilitas 
+          <lb ed="#P" n="90"/>non solum docet recisare honores indebitos: sed 
+          <lb ed="#P" n="91"/>etiam acceptare debitos.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e352">
+          ¶ Secundo: si humili 
+          <lb ed="#P" n="92"/>offcratur officium honorificum quod debet 
+          acce<lb ed="#P" n="93" break="no"/>ptare secundum rectam rationem: sic scilicet quod 
+          pccca<lb ed="#P" n="94" break="no"/>bit si illud non acc:ipiat: si habitus eius doccat ipsum 
+          <lb ed="#P" n="95"/>recusgre illum honorem: obuiabit aciui bono: et 
+          <lb ed="#P" n="96"/>ad malum inclinabit. si inclinet acceptare honorem: 
+          <lb ed="#P" n="97"/>ergo idem erit de hi militate et macnanimitate. 
+          <lb ed="#P" n="98"/>ergo idem est conuertibiliter humilitas et 
+          magna<lb ed="#P" n="99" break="no"/>nmitas.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e372">
+          ¶ Ad primum conceditur: capiendo 
+          vir<lb ed="#P" n="100" break="no"/>tutem collectiue: temperantia est multi habitus 
+          <lb ed="#P" n="101"/>ex actibus talibus geniti: nolo comedere plusquam 
+          <lb ed="#P" n="102"/>oportet: volo comedere secindum dicte men recte 
+          <lb ed="#P" n="103"/>rationis: qui actus et habitus st ecie distinguuntur: 
+          <lb ed="#P" n="104"/>potest impcni nemen vni parii tempcrantie: 
+          cu<lb ed="#P" n="105" break="no"/>ta a. illi parti habitus qui inclinat ad comedendum 
+          <lb ed="#P" n="106"/>solum secundum rectam rationem: et nullo modo 
+          <lb ed="#P" n="107"/>significabit habitum inclinantem ad cppesitum. 
+          <lb ed="#P" n="108"/>Sic in proposito: cum magnaniniitas (vt superiuo 
+          <lb ed="#P" n="109"/>dictum est) inclinat habentem petere et car ere 
+          ho<lb ed="#P" n="110" break="no"/>nores quibus magnanimus est dignus: et ad 
+          recu<lb ed="#P" n="111" break="no"/>sandos illos quibus est indignus: potest a. 
+          impo<lb ed="#P" n="112" break="no"/>ni ad significandes habitus quibus inclinamur 
+          <lb ed="#P" n="113"/>petere: et honores sumere. et b. habitus cuibus in 
+          <lb ed="#P" n="114"/>clinsmur resugere honores: et nunc humilitas 
+          par<lb ed="#P" n="115" break="no"/>tem illam quam b. importat sicnificat. prccipuus 
+          <lb ed="#P" n="116"/>actus magnanimi sicut Aristoteles capit / 
+          essho<lb ed="#P" n="117" break="no"/>nores capere. preci puus actus humilitatis non est ad 
+          <lb ed="#P" n="118"/>capere: immo nullus acius eius est ed tetcre et ad 
+          <lb ed="#P" n="119"/>capere secundum lequentes. si vir prcbus adiret regem 
+          <lb ed="#P" n="120"/>vel episcorum: et beneficium (quo dignus est) 
+          <pb ed="#P" n="94-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>peteret et acceptaret. non diceretur illud facere ex 
+          <lb ed="#P" n="2"/>habitu humilitatis: sed statim dicerent humilitas 
+          <lb ed="#P" n="3"/>docet illum honores contempnere: precipuus actus 
+          <lb ed="#P" n="4"/>humilitatis est suam insufficientiam et 
+          infiimita<lb ed="#P" n="5" break="no"/>tem contemplare: et vilior fieri in oculis suisin 
+          ter<lb ed="#P" n="6" break="no"/>ram defixis sicut beatus Benedictus docuit. 
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e437">
+          <lb ed="#P" n="7"/>¶ Ad secundum argumentum: vbi humili viro 
+          or<lb ed="#P" n="8" break="no"/>ferretur officium vel beneficium quo dignus esset: 
+          <lb ed="#P" n="9"/>consultabit quidnam facturus esset. hoc idem 
+          fa<lb ed="#P" n="10" break="no"/>ceret magnanimus. sed habitus humilitatis eum 
+          incli<lb ed="#P" n="11" break="no"/>nabit recusare honorem. sed actus malus haberi non 
+          <lb ed="#P" n="12"/>potest a solo habitu: requiritur concursus voluntatis 
+          <lb ed="#P" n="13"/>secum. modo talem actumi non habet vere humilis. 
+          <lb ed="#P" n="14"/>cognito quod ipse pro beneficio est vtilis: potissimum si 
+          <lb ed="#P" n="15"/>est ei praeceptum: libenter acceptaret ipsum beneficium. 
+          <lb ed="#P" n="16"/>habitus humilitatis et rectaratio quam habet et sua 
+          <lb ed="#P" n="17"/>voluntas / producent in ipso primum actum acceptandi illius 
+          <lb ed="#P" n="18"/>honoris.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e466">
+          ¶ Secundo: stat quod vere humilis nunquam actum 
+          <lb ed="#P" n="19"/>elicuit de acceptando beneficio. patet de multis 
+          pro<lb ed="#P" n="20" break="no"/>bis patribus. quondam in thebaide egypti vrsabatur 
+          cir<lb ed="#P" n="21" break="no"/>ca sui deiectionem. Si dicas: ergo duo boni habitus 
+          <lb ed="#P" n="22"/>contrariabuntur. hoc nullum est inconueniens.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e477">
+          ¶ Tertio 
+          <lb ed="#P" n="23"/>arguitur ex dictis: et potissimum ex gradibus 
+          humilita<lb ed="#P" n="24" break="no"/>tis quos ponit beatus Genedictus: sequitur quod humi 
+          <lb ed="#P" n="25"/>litas inclinat in falsum. hoc est inconueniens: quod 
+          vir<lb ed="#P" n="26" break="no"/>tus inclinet ad falsum.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e489">
+          ¶ Quarto arguitur. vere 
+          hu<lb ed="#P" n="27" break="no"/>milis iudicat se esse idoneum pro a. beneficio: et 
+          iu<lb ed="#P" n="28" break="no"/>dicat se doctiorem in toto pago suo: vel in tota 
+          vrbe<lb ed="#P" n="29" break="no"/>sua. alioquin male agit praedicando vel legendo aliis. 
+          <lb ed="#P" n="30"/>ergo non iudicat se inferiorem omnibus aliis.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e500">
+          ¶ Ad 
+          ter<lb ed="#P" n="31" break="no"/>tium nego quod humilitas inclinat in falsum. est virtus 
+          <lb ed="#P" n="32"/>appetitiua. nullo modo inclinat in falsum: sed ad actum 
+          <lb ed="#P" n="33"/>moraliter bonum. verum et falsum sunt in 
+          intelle<lb ed="#P" n="34" break="no"/>ctu. Sed si loquari de iudicio quod habet humilis de 
+          <lb ed="#P" n="35"/>alio. dico quod crebrove humilis habet iudicia falsa et 
+          bo<lb ed="#P" n="36" break="no"/>na: vtpote de ypocrita quolibet ei ignoto. iudicat 
+          <lb ed="#P" n="37"/>euni esse bonum: quando cathegorice iudicat de illo: 
+          <lb ed="#P" n="38"/>et licite potest sic iudicare: non existimes iudicia 
+          fal<lb ed="#P" n="39" break="no"/>sa esse mala: et vera bona: oppositum creberrime est 
+          <lb ed="#P" n="40"/>verum. si iudicarem de fratre meo qui est ypocrita quod est 
+          <lb ed="#P" n="41"/>malus: vere iudicarem: et male iudicarem. et si iudicarem eum 
+          <lb ed="#P" n="42"/>esse bonum / bene iudicarem: secundum illud Mathei. vii. 
+          No<lb ed="#P" n="43" break="no"/>lite iudicare / et non iudicabimini. Superbus de se 
+          ma<lb ed="#P" n="44" break="no"/>gna iudicat. habitus superbie ei fumum et ventum 
+          mini<lb ed="#P" n="45" break="no"/>strat: vt alta de se sapiat: vt phariseus ille 
+          euangeli<lb ed="#P" n="46" break="no"/>cus qui gratias egit deo: quia non erat sicut ceteri hominm. 
+          <lb ed="#P" n="47"/>publicanus humilit sentiebat de se. Ex omnibus his non 
+          ha<lb ed="#P" n="48" break="no"/>bes quod humnilitas inclinat elicitiue ad falsum: elicitiue 
+          <lb ed="#P" n="49"/>inclinat ad suos actus a quibus emersit: licet semper casum 
+          <lb ed="#P" n="50"/>ancipitem firis sui interpratatur in meliorem partem. et sic 
+          non<lb ed="#P" n="51" break="no"/>numquam fallitur iudicando: quod iudicium falsum nullomodo est 
+          <lb ed="#P" n="52"/>fei imputabile: est ignorantia inuincibilis.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e550">
+          ¶ Et si dicas: 
+          <lb ed="#P" n="53"/>actus credendi erronee generat habitum: et habitus 
+          <lb ed="#P" n="54"/>ille / cum est non malus / est bonus / elicitiue inclinat in 
+          <lb ed="#P" n="55"/>falsum: et sic habetur quod aliqua virtus elicitiue et 
+          im<lb ed="#P" n="56" break="no"/>mediate inclinat in falsum.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e561">
+          ¶ Respondeo: error ille 
+          <lb ed="#P" n="57"/>non est virtus intell ectualis veridica. et vocando 
+          <lb ed="#P" n="58"/>illud iudicium erroneum non malum virtutem (quod 
+          <lb ed="#P" n="59"/>inconueniens est concedere) quod sic capiendo virtutem / 
+          <lb ed="#P" n="60"/>virtus intellectialis in falsum inclinat. ¶Ad qaur 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>tum respondetur quod tangit duo. uuum est an 
+          vere<lb ed="#P" n="62" break="no"/>humilis debet iudicare se inferiorem omnibus. et 
+          <lb ed="#P" n="63"/>videtur quod sic: ex gradibus beati bencdicti 
+          enumera<lb ed="#P" n="64" break="no"/>tis. patet per sextum gradum ei septimum. Ex 
+          al<lb ed="#P" n="65" break="no"/>tera parte: vere humiiis potest se iudicai e 
+          docuo<lb ed="#P" n="66" break="no"/>rem platone: et ominibus auditoribus suis. alias 
+          in<lb ed="#P" n="67" break="no"/>fiate caperet prouinciam eos crudiendi: sed cnus 
+          <lb ed="#P" n="68"/>committere debet illi vel illis quos eruditiores 
+          iu<lb ed="#P" n="69" break="no"/>dicat. similiter sortes qui realiter est eruditissinius 
+          <lb ed="#P" n="70"/>in tota vrbesua potest hoc vere cognescere: et 
+          illi<lb ed="#P" n="71" break="no"/>assentire quod est supremus in vrbe sua: e. melius scit 
+          <lb ed="#P" n="72"/>predicare inter omnes. hoc de alio cognescere t 
+          o<lb ed="#P" n="73" break="no"/>test: quare ergo non poterit de se ccgnoscere. 
+          vir<lb ed="#P" n="74" break="no"/>prudens et oculatus recte de se iudicat sicui et de 
+          <lb ed="#P" n="75"/>aliis. et si assentire poterit hiic / iise est optimus 
+          vet<lb ed="#P" n="76" break="no"/>bi declamator in tota parua vrbe sua: ita assentire 
+          <lb ed="#P" n="77"/>potest quod scit promptius discernere inter lepram e 
+          <lb ed="#P" n="78"/>non lepram inter omnes in vrbe sua: et quod esi 
+          maxi<lb ed="#P" n="79" break="no"/>me idoneus ad a. curam animarum in tota vrbe sua. 
+          <lb ed="#P" n="80"/>modo ista videntur repugnare sexto et septimo 
+          gra<lb ed="#P" n="81" break="no"/>dibus beati benedicti. Sed dico. beatus 
+          benedi<lb ed="#P" n="82" break="no"/>ctus rectissime dicit: et consequenter ad sacras 
+          hy<lb ed="#P" n="83" break="no"/>siorias e in parte allegauimus. et patet Odhuc ha 
+          <lb ed="#P" n="84"/>nifestius: dicit eaulus ad perhilippenses. i. 
+          Nichil<lb ed="#P" n="85" break="no"/>per contemptionem. neque per inanem gloriam sed 
+          <lb ed="#P" n="86"/>in humilitate superiores sibiimuicem arbitatea: 
+          <lb ed="#P" n="87"/>vbi glosa interlinealis: apud deum digniores. et in 
+          <lb ed="#P" n="88"/>verbo inuicem / dicit glosa: alter alterum: hoc est 
+          sor<lb ed="#P" n="89" break="no"/>tes credit platonem meliorem saltem in aliquo se: 
+          <lb ed="#P" n="90"/>et econuerso id idem existimet plato de sorte. et 
+          glo<lb ed="#P" n="91" break="no"/>sa marginalis Augustini in eodem passu dicit. vere 
+          <lb ed="#P" n="92"/>hoc existimandum: quia potest esse in alio aliud 
+          oc<lb ed="#P" n="93" break="no"/>cultum quo superior sit: etiam si bonum nostrum ( quo 
+          <lb ed="#P" n="94"/>illo videmur superiores esse) non sit occultum. omnia 
+          <lb ed="#P" n="95"/>hec elegantissime statim post verba allegata 
+          apo<lb ed="#P" n="96" break="no"/>stolus exponit sic inquiens: non que sua sunt 
+          singu<lb ed="#P" n="97" break="no"/>li considerantes sed et ea que aliorum. hocest quod 
+          <lb ed="#P" n="98"/>apostolus dicere volebat. hoc facile arbitrabimini 
+          <lb ed="#P" n="99"/>si obiiciantur bona opera aliorum mentibus vestris: 
+          <lb ed="#P" n="100"/>et mala occulta vestra mentibus vestris: et non 
+          bo<lb ed="#P" n="101" break="no"/>na vestra: nisi casualiter occurrant: ne sint vobis oc 
+          <lb ed="#P" n="102"/>casio inflationis. sancti multo profundius et 
+          sdlb<lb ed="#P" n="103" break="no"/>citius circa huinilitatem habendam / et superbiam 
+          <lb ed="#P" n="104"/>monstrum pessimum occidendum considerarunt quod 
+          <lb ed="#P" n="105"/>Arstoteles et gentiles: propterea verba gentilium 
+          <lb ed="#P" n="106"/>ad intentionem scriptureet sanctorum ttahantur: 
+          <lb ed="#P" n="107"/>et per illam exponantur: vel relinquantur: et non 
+          <lb ed="#P" n="108"/>
+          <lb ed="#P" n="109"/>rat infirmitates suas et vilem materiam de qua con 
+          <lb ed="#P" n="110"/>positus est: secuncum illud Abrahe ad dominum 
+          Gene<lb ed="#P" n="111" break="no"/>sis. xviii. Loquar ad dominum meum: cum sim 
+          pul<lb ed="#P" n="112" break="no"/>
+          <lb ed="#P" n="113"/>nis es et in cinerem conuerteris. et dicat cum It b. 
+          <lb ed="#P" n="114"/>putredini dixi pater meus es: mater mea et sorcr 
+          <lb ed="#P" n="115"/>mea vermibus. Iob. xvii. Consideret mieri 
+          craven<lb ed="#P" n="116" break="no"/>tris: et quid quolibet die secum fert: et 
+          humiliabi<lb ed="#P" n="117" break="no"/>tur: secundum illud Michee. vi. humiliatio in med:o 
+          iui<lb ed="#P" n="118" break="no"/>est: considera te in hoc mundo solum peregrinim. 
+          <lb ed="#P" n="119"/>nullus est pegrinus continuo transiens romam: vel 
+          san<lb ed="#P" n="120" break="no"/>ctum Ninianum in galvvidia: sicut tuand meaem 
+          <pb ed="#P" n="95-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tendis. quolibet die / qualibet hora / tam de die quam 
+          <lb ed="#P" n="2"/>de nocte / tam in somno quam in vigilia / viam tuam in hoc 
+          <lb ed="#P" n="3"/>mando abbreuias. habeas nouissima in conspectu 
+          men<lb ed="#P" n="4" break="no"/>tis tu:. secundum illud Eccle. vii. Memorare nouissima 
+          <lb ed="#P" n="5"/>tua: e ineternum non peccabis. Et potissimum ista 
+          co<lb ed="#P" n="6" break="no"/>gita qui occurrit tibi pes superbie. vilifica te in oculis 
+          <lb ed="#P" n="7"/>tuis: et deus te eleuabit. noli ambulare in mirabilibus 
+          <lb ed="#P" n="8"/>super te. Exempla in naturalibus: pisa 
+          supernatan<lb ed="#P" n="9" break="no"/>tia in aqua sunt plena vermibus: et inutilia. bona ad 
+          <lb ed="#P" n="10"/>fundum descendunt. arbor fructibus plena ad 
+          ter<lb ed="#P" n="11" break="no"/>ram curuatur: sed quando est vacua / erigitur in altum. Qui 
+          ca<lb ed="#P" n="12" break="no"/>put ad terram deprimit in ostii ingressu: non leditur: 
+          <lb ed="#P" n="13"/>qui erecta ceruice ingreditur: crebro leditur. hec ad 
+          <lb ed="#P" n="14"/>materiam argumenti dicere volui: cum de humilitate 
+          <lb ed="#P" n="15"/>medicina siiperbie loquimur: quia non sufficit de 
+          virtu<lb ed="#P" n="16" break="no"/>tibus theorice non nichil loqui: nisi interloquendum 
+          <lb ed="#P" n="17"/>homines ad virtutem alliciamus: secundum doctrinam philoso 
+          <lb ed="#P" n="18"/>phi secundi ethicorum. ii. dicentis. Cum autem praesens tracta 
+          <lb ed="#P" n="19"/>tio non contemplationis sit (vt cetere) gratia. non emi 
+          <lb ed="#P" n="20"/>vt sciamus quidnam sit virtus: sed vt efficiamur 
+          bo<lb ed="#P" n="21" break="no"/>ni consideramus: nam nulla esset ipsius vtilitas. Nunc 
+          <lb ed="#P" n="22"/>venio ad argumentum responsurus quid humilis de 
+          se<lb ed="#P" n="23" break="no"/>iudicare potest: et quonam pacto nulla est contrarietas 
+          in<lb ed="#P" n="24" break="no"/>ter obiectiones factas.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e761">
+          ¶ Ad primum dico quod viere 
+          hu<lb ed="#P" n="25" break="no"/>milis potest iudicare se doctiorem tota hac 
+          multitudi<lb ed="#P" n="26" break="no"/>ne: demonstrando ducentos vel trecentos. patet. 
+          acu<lb ed="#P" n="27" break="no"/>tus regens in artibus habens ducentos vel trecentos 
+          <lb ed="#P" n="28"/>summilistas in secundi cursus exordio: vnumquemque 
+          eo<lb ed="#P" n="29" break="no"/>rum nouit: et quolibet eorum recte iudicat se doctio 
+          <lb ed="#P" n="30"/>rem in artibus: et ex consequenti iudicat se peritiorem 
+          <lb ed="#P" n="31"/>in artibus quam sit hec tota multitudo. sic de litteratis 
+          <lb ed="#P" n="32"/>viris in parua vrbe sua: et sic de declamatione ad 
+          po<lb ed="#P" n="33" break="no"/>pulum. quando notabiliter vnunquenlibet aliorum 
+          exu<lb ed="#P" n="34" break="no"/>perat: potest recte iudicare de se sicut de aliis / 
+          humi<lb ed="#P" n="35" break="no"/>lis in istis patentibus exterioribus. sed cum hoc scit vel 
+          <lb ed="#P" n="36"/>scire potest in vniuersali: quilibet istorum habet 
+          gra<lb ed="#P" n="37" break="no"/>tiam aliqua quam ipse non habet: et in aliquo ipsum 
+          <lb ed="#P" n="38"/>excedit: vtpote: a. et iso melidr seriba. bit. 
+          perifior<lb ed="#P" n="39" break="no"/>in arte modulandi. c. melius organum cantandi 
+          ha<lb ed="#P" n="40" break="no"/>bet quod ipse. d. est ipso laboriosior. e. est ipso 
+          ingenio<lb ed="#P" n="41" break="no"/>siort. peritior grammaticus. et idem in virtutibus. e. est 
+          <lb ed="#P" n="42"/>liberalior ipso. h. est mansuetior ipso. i. affabilior. h. 
+          <lb ed="#P" n="43"/>discretior secundsi suam etatem. l. habet plus de castitate: 
+          <lb ed="#P" n="44"/>et ita in omnibus. Deus non dedit omnia vni. omne bonum 
+          <lb ed="#P" n="45"/>in deo est excellentissime: postea in creaturis 
+          bona<lb ed="#P" n="46" break="no"/>sunt dispersa. vnus alium excedit in vno: et ab alio 
+          ex<lb ed="#P" n="47" break="no"/>ceditur in altero. Sicut homerus in iliade ex 
+          nesto<lb ed="#P" n="48" break="no"/>re introducit. cum eratsenex / erat prudens: non autem 
+          <lb ed="#P" n="49"/>forris. in iuuentte vero fortis: non autem prudens. 
+          <lb ed="#P" n="50"/>Deus ergo non dat vni omnes prerogatiuas: nec 
+          <lb ed="#P" n="51"/>eodem temhore plurimas. propterea ecclesiam de 
+          <lb ed="#P" n="52"/>quolibet confessore cantar: non est inuentus siilis illi 
+          <lb ed="#P" n="53"/>qui adimpleret legem excelsi: hoc est qui omnino simili 
+          modo<lb ed="#P" n="54" break="no"/>et similima via adimplet legem excelsi. et non dabis 
+          <lb ed="#P" n="55"/>duas facies ita affines: vel bina oua: quin in aliquo 
+          <lb ed="#P" n="56"/>appareat discrimen: et vnius super aliud excessus: 
+          <lb ed="#P" n="57"/>er contra. sancei bene sciunt et sciebant quod vnus erat 
+          <lb ed="#P" n="58"/>magis idoneus ad concionandum / ad disputandum / 
+          <lb ed="#P" n="59"/>ad in anumarum cura ierarchisandum / quam alter. hoc 
+          <lb ed="#P" n="60"/>paulus de se: Augustinus: et celebres patres celo¬ 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>digni: iudicarunt: sed cum humilitate: semper 
+          aciem<lb ed="#P" n="62" break="no"/>mentis declinantes imperfectiones aliorum et eorum 
+          <lb ed="#P" n="63"/>imperfecta: licet pauca erant. iudicabant ex 
+          humili<lb ed="#P" n="64" break="no"/>tate magna: et hoc ex industria iudicarunt: vt se elon 
+          <lb ed="#P" n="65"/>garent a monstro pessimo tumiditate: quae de primo 
+          <lb ed="#P" n="66"/>angelo dem onem perditissimum fecit. et homines 
+          incli<lb ed="#P" n="67" break="no"/>nantur naturaliter se grandifacere: et alios non 
+          tam<lb ed="#P" n="68" break="no"/>tifacere: vt bene fabulatur Esopus de viro duas 
+          man<lb ed="#P" n="69" break="no"/>ticas ferente: vnam a fronte: aliam vero a tergo: 
+          <lb ed="#P" n="70"/>aliorm erratam in fronte ferens: propria a tergo. 
+          <lb ed="#P" n="71"/>Sancti ergo aliter fecerunt: et docuerunt. et 
+          potis<lb ed="#P" n="72" break="no"/>simum christifera dei genitrix: propterea respexit 
+          <lb ed="#P" n="73"/>deus humilitatem ancille sue: et superbis resistit deus: 
+          <lb ed="#P" n="74"/>et humilibus dat gratam. Si vis ergo humilis fieri: 
+          <lb ed="#P" n="75"/>hec obiecta prae oculis habeas: et potissimum eo 
+          taen<lb ed="#P" n="76" break="no"/>pore quo pes superbie te inuadit. cinis es et puluis. 
+          <lb ed="#P" n="77"/>Considera que in medio tui sunt quo ad corpus: et 
+          <lb ed="#P" n="78"/>que in medio tui sunt quo ad pccatam tua occulta 
+          pre<lb ed="#P" n="79" break="no"/>terita: et pondera fragilitatem tuam. et si aliquid 
+          <lb ed="#P" n="80"/>boni in te habeas: hoc donundei existimato. Quid 
+          <lb ed="#P" n="81"/>habes quod non accepisti: si ergo accepisti: quid 
+          glo<lb ed="#P" n="82" break="no"/>riaris: quando de aliis consideras: obiiciantur eorum 
+          <lb ed="#P" n="83"/>bona patentia: et bona occulta que tenent in se ne 
+          <lb ed="#P" n="84"/>superbiant. nunquam tua bona occulta per te in 
+          publi<lb ed="#P" n="85" break="no"/>cum pateant: nisi quatenus glorificent patrem tuum 
+          <lb ed="#P" n="86"/>qui in celis est. ergo beatus benedictus et sancti 
+          no<lb ed="#P" n="87" break="no"/>lunt aliud dicere: nisi quod iudices alios meliores te: 
+          <lb ed="#P" n="88"/>hoc est: quod habent vnam gratiam gratis datam vel 
+          donum<lb ed="#P" n="89" break="no"/>naturale quedtu non habes: et iudica sic. Secundo 
+          mo<lb ed="#P" n="90" break="no"/>do sic iudicas eorum bona: nec figas obtuitum in 
+          <lb ed="#P" n="91"/>eorum malis culpe: opposito modo in teipso 
+          con<lb ed="#P" n="92" break="no"/>siderabis tuam fragilitatem: et dicas cum psalmista: 
+          <lb ed="#P" n="93"/>Imperfectum meum viderunt oculi tui. non 
+          tamen<lb ed="#P" n="94" break="no"/>est situm in facultate tua quin interdum bonum quod 
+          <lb ed="#P" n="95"/>fecisti tibi occurrat. si ex illo leteris: est tibi 
+          natura<lb ed="#P" n="96" break="no"/>le: non peccasti. et si percipias serpentem 
+          veneno<lb ed="#P" n="97" break="no"/>sum cortuum penetrare more vermis corpus 
+          pe<lb ed="#P" n="98" break="no"/>netrantis: mox sicut calcans inopinate aspidem: 
+          bo<lb ed="#P" n="99" break="no"/>nitatem ammoueas: et ad nouissima tua te 
+          conuer<lb ed="#P" n="100" break="no"/>tas: et ad illa sordida queintra te sunt: et sic 
+          medi<lb ed="#P" n="101" break="no"/>cinam et curatiuam et preseruatiuam ex serpente 
+          <lb ed="#P" n="102"/>habebis. Ex his ad formam argumenti respondere 
+          <lb ed="#P" n="103"/>potes sufficienter.
+        </p>
+        <p xml:id="jm3cbb-e57193-d1e937">
+          ¶ Epilogando de humilitate 
+          <lb ed="#P" n="104"/>dicam. numquam humilis per habitum humilitatis / in 
+          <lb ed="#P" n="105"/>officio / beneficio / vel loco in licentiis theologie / 
+          <lb ed="#P" n="106"/>se praefert illi de quo dubitat an sit eo magis idoneus 
+          <lb ed="#P" n="107"/>sed ei equalem sibi absolute prefert. 
+          vnumquemli<lb ed="#P" n="108" break="no"/>bet in aliqua gratia gratis data eum excedere 
+          iudi<lb ed="#P" n="109" break="no"/>cat: et cum hoc vere iudicat: ipse est aptior pro a. 
+          cu<lb ed="#P" n="110" break="no"/>ra vel primo loco in licentia quod prelato: de quo 
+          pa<lb ed="#P" n="111" break="no"/>tens est quod ipse habet partes meliores ad hoc: et quia 
+          <lb ed="#P" n="112"/>potissimum humilitas se conuertit ad se 
+          vilifican<lb ed="#P" n="113" break="no"/>dum in oculis suis: et ad non querenda caduca in 
+          <lb ed="#P" n="114"/>seculo: non ponitur vna de virtutibus 
+          cardinali<lb ed="#P" n="115" break="no"/>bus: sed pars potentialis magnanimitatis: et virtus 
+          <lb ed="#P" n="116"/>preclara: pro viro saluando vtilissima. ad 
+          humilita<lb ed="#P" n="117" break="no"/>tem virginitas comparata nichil est. propterea de 
+          virgi<lb ed="#P" n="118" break="no"/>ne canitur: quia respexit humilitatem ancille sue: non 
+          vir<lb ed="#P" n="119" break="no"/>ginitatem. si pessimi se ad humilitatem conuertant: 
+          <lb ed="#P" n="120"/>eratim coraim deo imenient pater oc pe onempud 
+          <pb ed="#P" n="95-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Lucam dicente. Deus propicius esto michi pcatori. 
+          pre<lb ed="#P" n="2" break="no"/>verecundia celum aspicere erubuit: qui in domum suam 
+          <lb ed="#P" n="3"/>abiit iustificatus. et publicanus cum peccato pessimo 
+          su<lb ed="#P" n="4" break="no"/>perbie. tertii Regum. xi. legimus de pessimo illo 
+          rege<lb ed="#P" n="5" break="no"/>Achab: cum se humiliasset coram domno: deus illi remisit 
+          <lb ed="#P" n="6"/>culperam et penam. Dicit latia: ait dominus and helyam: 
+          non<lb ed="#P" n="7" break="no"/>ne vidisti Achab humiliatum coram me: et quia humi 
+          <lb ed="#P" n="8"/>liatus est mei causa: non inducam malum hoc in diebus 
+          <lb ed="#P" n="9"/>eius. Iudicum. x. cum dixit domins filiis israel. Non addam 
+          <lb ed="#P" n="10"/>vltra vt liberem vos: tamen postquam humiliati sunt 
+          co<lb ed="#P" n="11" break="no"/>ram eo: liberauit eos. Comminatorie dixerat: vel nisi 
+          <lb ed="#P" n="12"/>se humiliarent intelligens. Sollicitior ergo lector sis 
+          <lb ed="#P" n="13"/>in te humilitatis habitum fructum suauissimum produce 
+          <lb ed="#P" n="14"/>re quam scire an conuertatur cum magnanimitate / vel sit 
+          <lb ed="#P" n="15"/>pars eius subiectiua / vel potetialis. homo quo ad 
+          vl<lb ed="#P" n="16" break="no"/>timum potest eligere probabilit quolibet istorum trium 
+          tra<lb ed="#P" n="17" break="no"/>ctatorum: sed ego transeo pro nunc in dictis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
