@@ -1,0 +1,813 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T19:59:52Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e32778.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e32778": {
+    "summary": "The ninth question asks about the object of faith: whether it is a complex (proposition), an incomplex (term), or the thing signified. Mair treats it as parallel to the debate over the object of science, dismisses 'complexly signifiables' as a chimera unworthy of theology, and gives three conclusions. First, the act of faith has as its object the complex, the incomplex terms, and the things signified, since the assent terminates in all of them, though perhaps in some order (as the old Paris arts masters said: near, remote, and most remote objects). Second, the same holds for acquired habitual faith. Third, against the view that infused faith inclines immediately only to 'whatever God revealed is true' and to the other articles through it (which would make infused faith mediately incline to falsehood), infused faith inclines equally and immediately to every believable, as a universal cause like the sun. Objections are answered. Belief is said only of complexes, but faith reaches things as signified by the complex. A judgment is also an apprehension. Science is a reflexive cognition without signifying the proposition. Infused faith, unlike acquired, is not specified by its objects. As a 'special instrument of the Holy Spirit', infused faith can incline successively to contraries, such as 'Christ will die' and later its opposite. Infused faith needs the cooperation of other causes but not acquired faith. Its inability to act alone with the intellect does not make it less perfect than acquired faith, and it makes belief readier, more intense, firmer, and more resistant to heresy.",
+    "claims": [
+      "Complexly signifiables are a chimera and unworthy of theological treatment.",
+      "The object of the act of faith includes the proposition, its terms, and the things signified.",
+      "Assent is adhesive with respect to the whole proposition but apprehensive of its parts and of the things signified.",
+      "The object of an act and of its habit are the same.",
+      "Infused faith inclines equally and immediately to every believable, as a universal cause.",
+      "Infused faith is not specified by its objects, unlike acquired habits.",
+      "As a special instrument of the Holy Spirit, infused faith can incline successively to contraries according to what is believable at each time.",
+      "Infused faith does not need acquired faith in order to concur in the act of believing, but it does need causes besides the intellect.",
+      "An agent need not produce a more perfect effect simply because it is more perfect.",
+      "Infused faith makes belief readier, more intense, firmer, and more resistant to heresy."
+    ],
+    "concepts": [
+      "object of faith",
+      "complexe significabile",
+      "proposition",
+      "terms",
+      "things signified",
+      "assent",
+      "judgment and apprehension",
+      "infused faith",
+      "universal cause",
+      "instrument of the Holy Spirit",
+      "tensed articles",
+      "acquired faith",
+      "reflexive cognition"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e32778-d1e104",
+        "jm3cbb-e32778-d1e120",
+        "jm3cbb-e32778-d1e142",
+        "jm3cbb-e32778-d1e213",
+        "jm3cbb-e32778-d1e229",
+        "jm3cbb-e32778-d1e251",
+        "jm3cbb-e32778-d1e267",
+        "jm3cbb-e32778-d1e289",
+        "jm3cbb-e32778-d1e333",
+        "jm3cbb-e32778-d1e345",
+        "jm3cbb-e32778-d1e358",
+        "jm3cbb-e32778-d1e376",
+        "jm3cbb-e32778-d1e392",
+        "jm3cbb-e32778-d1e414",
+        "jm3cbb-e32778-d1e430",
+        "jm3cbb-e32778-d1e438",
+        "jm3cbb-e32778-d1e451",
+        "jm3cbb-e32778-d1e460",
+        "jm3cbb-e32778-d1e491",
+        "jm3cbb-e32778-d1e498",
+        "jm3cbb-e32778-d1e531",
+        "jm3cbb-e32778-d1e543",
+        "jm3cbb-e32778-d1e574",
+        "jm3cbb-e32778-d1e603",
+        "jm3cbb-e32778-d1e690",
+        "jm3cbb-e32778-d1e710",
+        "jm3cbb-e32778-d1e726",
+        "jm3cbb-e32778-d1e732",
+        "jm3cbb-e32778-d1e765",
+        "jm3cbb-e32778-d1e776",
+        "jm3cbb-e32778-d1e811",
+        "jm3cbb-e32778-d1e833",
+        "jm3cbb-e32778-d1e853"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e104": {
+    "summary": "Statement of the ninth question, the second on the material of faith: whether the object of faith is a complex, an incomplex, or the thing signified by them.",
+    "claims": [],
+    "concepts": [
+      "object of faith",
+      "complex",
+      "incomplex",
+      "res significata"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e29023-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e120": {
+    "summary": "Mair notes that this difficulty is closely parallel to the one arts masters and theologians treat in Sentences prologues about the object of science, where some posit the complexly signifiable, some the things signified, and some the knowable proposition, attacking one another with great prodigality of words. He will state his view briefly, passing over the 'chimera' of complexly signifiables with a deaf ear as unworthy of theology.",
+    "claims": [
+      "The question of the object of faith parallels that of the object of science.",
+      "Complexly signifiables are a chimera unworthy of theological discussion."
+    ],
+    "concepts": [
+      "object of science",
+      "complexe significabile",
+      "Sentences prologue",
+      "proposition",
+      "res significata"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e142": {
+    "summary": "First conclusion: the act of faith has as its object a complex, an incomplex, and something that is neither. The object of an act is whatever the act terminates in and is directed to, as the name 'object' implies. When I assent to 'God is three and one', my assent terminates in the proposition, its parts, and the things signified by it and its parts. Even in assenting to 'no chimera is a chimera' I apprehend things. The thing signified is neither complex nor incomplex, since complexity and incomplexity are properties of propositions and terms. The old Paris arts masters called the conclusion the near object of science, its subject and predicate remote objects, and the things signified most remote objects. That way of speaking is fine, since usage governs speech, and these may be objects equally or unequally even with the same act of assent, just as with one act I enjoy God and use a creature, loving God more.",
+    "claims": [
+      "The object of an act is whatever the act terminates in and is directed toward.",
+      "An act of faith terminates in the proposition, its terms, and the things signified.",
+      "Things signified are neither complex nor incomplex, since those are properties of propositions and terms.",
+      "One and the same act can bear on several objects unequally."
+    ],
+    "concepts": [
+      "object of an act",
+      "proposition",
+      "terms",
+      "res significata",
+      "proximate and remote objects",
+      "Paris arts masters",
+      "use and enjoyment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e120"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e213": {
+    "summary": "Plausible objection: when I assent to 'God is three and one', the assent terminates only in the proposition, and other simple cognitions are present together in the intellect, since judgment cannot exist without apprehension. Some of these terminate in things and some in the terms of the proposition.",
+    "claims": [
+      "(Objection) Assent terminates only in the proposition; separate apprehensions terminate in terms and things."
+    ],
+    "concepts": [
+      "judgment",
+      "apprehension",
+      "assent",
+      "simple cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e142"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e229": {
+    "summary": "Rebuttal: every judicative cognition is also apprehensive (though not conversely), and if it apprehends and represents the thing signified, it terminates both in the whole proposition and in the things signified by its terms. That a complex is an object of faith is clear because we assent to the articles of faith, which are propositions (as distinction 25 will say), and science is of the conclusion (Posterior Analytics I-II).",
+    "claims": [
+      "Every judgment is also an apprehension, but not conversely.",
+      "A judgment that represents the things signified terminates both in the proposition and in those things.",
+      "Articles of faith are propositions.",
+      "Science is of conclusions."
+    ],
+    "concepts": [
+      "judgment",
+      "apprehension",
+      "articles of faith",
+      "proposition",
+      "science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e213"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e251": {
+    "summary": "Second conclusion: both the proposition and the thing are objects of acquired habitual faith, since the object of a habit and of its act is the same (one as habitual, the other as actual object), and both are objects of the act of faith.",
+    "claims": [
+      "The object of a habit is the same as the object of its act.",
+      "Acquired habitual faith has both the proposition and the things signified as its objects."
+    ],
+    "concepts": [
+      "acquired faith",
+      "habitual object",
+      "actual object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e142",
+        "jm3cbb-e31052"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e267": {
+    "summary": "On infused faith opinions are divided. One view holds that the primary and immediate object of infused faith is the whole proposition 'everything revealed by God is true in the sense in which it is revealed'. Infused faith inclines immediately to assenting to that, and through it the other articles are inferred (e.g. that the world's creation by God is revealed), so infused faith partially causes assent to other articles, as the habit of principles inclines mediately to the conclusion.",
+    "claims": [
+      "(Reported view) The immediate object of infused faith is the principle that everything God revealed is true in its revealed sense.",
+      "(Reported view) Infused faith inclines to the other articles only mediately, by inference from that principle."
+    ],
+    "concepts": [
+      "infused faith",
+      "first principle of faith",
+      "revelation",
+      "mediate inclination",
+      "habit of principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e31052-d1e409"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e289": {
+    "summary": "Against that view: it would follow that infused faith partly inclines to falsehood. If I wrongly believe that 'Antichrist will not come' is revealed, then from 'whatever God revealed is true' and that erroneous minor I assent to the conclusion, and assent to the major partly concurs, so infused faith mediately inclines to falsehood. Second, charity inclines immediately to everything to be loved for God's sake and to every meritorious act, so infused faith inclines equally immediately to every believable proposition.",
+    "claims": [
+      "On the reported view, infused faith would mediately incline to false conclusions drawn with erroneous minors.",
+      "Infused charity inclines immediately to all its objects, so infused faith should also incline immediately to all believables."
+    ],
+    "concepts": [
+      "infused faith",
+      "error",
+      "syllogism",
+      "infused charity",
+      "Antichrist"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e267"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e333": {
+    "summary": "Third argument: the sun as a universal cause concurs in many specifically distinct effects, so infused faith, a universal cause, inclines immediately to many specifically distinct assents.",
+    "claims": [
+      "A universal cause can concur immediately in specifically distinct effects.",
+      "Infused faith, as a universal cause, inclines immediately to specifically distinct assents."
+    ],
+    "concepts": [
+      "universal cause",
+      "sun",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e289"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e345": {
+    "summary": "Third conclusion: infused faith inclines equally immediately to every believable. It inclines to some believable, and no reason can be given why it should incline to one more than another, so it inclines equally immediately to each.",
+    "claims": [
+      "Infused faith inclines equally and immediately to every believable proposition."
+    ],
+    "concepts": [
+      "infused faith",
+      "immediacy",
+      "sufficient reason",
+      "credibilia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e289",
+        "jm3cbb-e32778-d1e333"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e358": {
+    "summary": "Objection to the first conclusion: if faith terminates in the incomplex, one could lawfully believe the devil as well as God. In 'God created the devil' the assent terminates in the things signified, and the devil is signified.",
+    "claims": [
+      "(Objection) If faith terminates in things signified, believing 'God created the devil' would be believing the devil."
+    ],
+    "concepts": [
+      "incomplex object",
+      "devil",
+      "res significata"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e142"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e376": {
+    "summary": "Second objection: a judicative cognition bears only on the complex. I do not assent to the subject, the predicate, or the thing signified, but only to the whole proposition, and the assent of faith is a judicative cognition, so it does not terminate in terms or things.",
+    "claims": [
+      "(Objection) Assent is only to whole propositions, not to their terms or the things signified."
+    ],
+    "concepts": [
+      "judgment",
+      "assent",
+      "proposition",
+      "terms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e142"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e392": {
+    "summary": "Third objection: a whole cannot exist without its parts, so likewise a judgment cannot exist without apprehensions of the things signified by the terms. Our experience of understanding the things when we believe or know a proposition comes from the distinct apprehensive, non-judicative cognitions present in the intellect, so faith and science terminate only in complexes.",
+    "claims": [
+      "(Objection) The understanding of things in belief comes from separate apprehensions, so faith terminates only in complexes."
+    ],
+    "concepts": [
+      "part and whole",
+      "judgment",
+      "apprehension",
+      "complex"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e142"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e414": {
+    "summary": "Fourth objection: only the true is known (Posterior Analytics I). Neither a term nor a thing is true, taking 'true' in the second-intentional sense, so things are not known, only complexes, and the same holds for faith, since science and faith terminate in their objects alike.",
+    "claims": [
+      "(Objection) Only truths are known, and only propositions are true, so only propositions are objects of science and faith."
+    ],
+    "concepts": [
+      "truth",
+      "second intentions",
+      "science",
+      "object of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e142"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e430": {
+    "summary": "Fifth objection: if faith terminated in a proposition, it would be a reflexive cognition, which is unfitting.",
+    "claims": [
+      "(Objection) Faith terminating in a proposition would make it a reflexive cognition."
+    ],
+    "concepts": [
+      "reflexive cognition",
+      "proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e142"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e438": {
+    "summary": "Reply to the first objection: although things are known through belief, we say we believe only complexes, or believe those who utter propositions, trusting them because of the propositions. Alternatively, faith terminates in things insofar as they are conveyed by the complex, not merely by the incomplex.",
+    "claims": [
+      "We speak of believing only propositions, or persons on account of their propositions.",
+      "Faith reaches things only as conveyed by the proposition."
+    ],
+    "concepts": [
+      "belief",
+      "res significata",
+      "proposition",
+      "testimony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e358"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e451": {
+    "summary": "Reply to the second objection: it is denied that a judgment does not bear on the incomplex, but it bears on the incomplex only as part of the complex.",
+    "claims": [
+      "Judgment bears on terms only as parts of the proposition."
+    ],
+    "concepts": [
+      "judgment",
+      "incomplex",
+      "part of proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e376"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e460": {
+    "summary": "Reply to the third objection: the cases are not alike. God cannot make a whole without its integral parts, but he can make a judgment without any distinct apprehension, since separate apprehensions are not parts of the judgment but differ from it in species. Naturally a judgment cannot exist without simple apprehension of its parts, yet the judgment is itself also apprehensive, otherwise one could judge about a without apprehending a. It apprehends the things signified by the terms and adheres with respect to the whole, not the parts.",
+    "claims": [
+      "Separate apprehensions are not parts of a judgment but differ from it in species.",
+      "God could produce a judgment without distinct apprehensions.",
+      "A judgment is itself apprehensive of the things signified, and adhesive only with respect to the whole proposition."
+    ],
+    "concepts": [
+      "judgment",
+      "apprehension",
+      "integral parts",
+      "divine power",
+      "adhesion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e392"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e491": {
+    "summary": "Reply to the fourth objection: Mair grants that nothing is known except the true, but science represents the things signified by the true proposition.",
+    "claims": [
+      "Only true propositions are known, but science represents the things they signify."
+    ],
+    "concepts": [
+      "truth",
+      "science",
+      "representation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e414"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e498": {
+    "summary": "Reply to the fifth objection: Mair grants that science is reflexive insofar as it terminates in a cognition, namely the proposition and its parts. But terminating in a proposition does not require signifying it, as with syncategorematic terms and acts of will. Nor is it a judgment that the proposition is true, or an assent that things are as the proposition signifies; it is simply the assent to the known conclusion. The argument also tells against defenders of the complexly signifiable, who must say which of the various signifiables science terminates in; however they answer, the same answer serves here.",
+    "claims": [
+      "Science is reflexive insofar as it terminates in a mental proposition.",
+      "Terminating in a proposition does not require signifying it.",
+      "Scientific assent is not a second-order judgment that the proposition is true.",
+      "The reflexivity objection applies equally to the theory of complexly signifiables."
+    ],
+    "concepts": [
+      "reflexive cognition",
+      "syncategorematic terms",
+      "second-order judgment",
+      "complexe significabile",
+      "tu quoque"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e430"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e531": {
+    "summary": "Objection to the third conclusion: habits are distinguished as acts are, and acts of faith about specifically distinct articles are specifically distinct, so the habits of faith are specifically distinct.",
+    "claims": [
+      "(Objection) Specifically distinct acts of faith imply specifically distinct habits."
+    ],
+    "concepts": [
+      "specific distinction of habits",
+      "articles of faith",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e345",
+        "jm3cbb-e32336-d1e285"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e543": {
+    "summary": "Reply: that holds for acquired, naturally generated habits but not for infused ones. Infused faith takes no specific distinction from its objects but is one, and it inclines immediately to each article, meaning it immediately and partially produces the assent to each. It acts as a universal cause, as the sun concurs with a bull to generate a bull and with a man to generate a man (Physics II), concurring immediately with many particular causes.",
+    "claims": [
+      "Acquired habits are distinguished by their acts, but infused habits are not.",
+      "Infused faith is one habit that immediately and partially produces assent to every article.",
+      "Infused faith functions as a universal cause concurring with particular causes."
+    ],
+    "concepts": [
+      "infused faith",
+      "universal cause",
+      "sun and man generate man",
+      "specification by object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e531"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e574": {
+    "summary": "Third objection: the third conclusion implies that a purely natural agent concurs successively in contraries, contrary to the principle that the same thing as such always does the same (On Generation I). Infused faith is the same in species in those before the Incarnation and in us. It inclined Peter or Gamaliel to assent to 'Christ will die', and after the resurrection to the opposite, since the opposite became the article of faith. Assents to contradictories are contrary assents (Metaphysics IV).",
+    "claims": [
+      "(Objection) A natural agent always produces the same effect.",
+      "(Objection) Infused faith would incline to contrary assents before and after Christ's death."
+    ],
+    "concepts": [
+      "natural agent",
+      "contraries",
+      "tensed articles",
+      "Incarnation",
+      "Old Testament faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e345"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e603": {
+    "summary": "This paragraph contains two things. First, a fourth objection: infused faith does not incline to assent. A baptized infant kidnapped and raised by Muslims, presented with 'God is three and one' at the age of discretion before losing infused faith by sin, will not assent, whereas someone with an acquired habit would assent upon apprehending the article, since we use habits when we will (Averroes, On the Soul III). Second, the reply to the third objection. Generally it is not unfitting for a natural agent to concur partially in contraries, especially with a free co-cause, as with cognition (distinction 25). But here infused faith, other things equal, inclines to 'Christ will die' and afterwards to its opposite. If a Hebrew held that judgment through a time in which Christ was first about to die and then dead, infused faith would incline to it, but as soon as it became false would cease to do so and would pull the intellect toward dissent. So the assent would at once lose some degree of intensity, since the faith that intensified it would no longer contribute.",
+    "claims": [
+      "(Objection) A baptized infant raised outside the faith would not assent to articles at maturity, so infused faith does not incline to belief.",
+      "A natural agent can partially concur in contraries, especially with a free co-cause.",
+      "Infused faith inclines to a tensed article only while it is true, and then toward dissent from it.",
+      "When a believed tensed proposition becomes false, the assent at once loses the intensity contributed by infused faith."
+    ],
+    "concepts": [
+      "infused faith",
+      "baptized infant",
+      "acquired habit",
+      "use of habits",
+      "tensed propositions",
+      "contraries",
+      "intensity of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e574"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e690": {
+    "summary": "Reply to the form of the third argument: a natural agent that is a special instrument of the Holy Spirit can concur in contraries. Infused faith has been given causality to concur with every believable, and only while it is believable, which is why it inclines to contraries. Other natural agents can be called instruments of God, as every creature can, but they are not his special instruments.",
+    "claims": [
+      "Infused faith is a special instrument of the Holy Spirit.",
+      "Infused faith concurs in each believable only for the time it is believable, and so can incline to contraries.",
+      "Ordinary natural agents are not special instruments of God."
+    ],
+    "concepts": [
+      "instrument of the Holy Spirit",
+      "infused faith",
+      "contraries",
+      "natural agent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e574",
+        "jm3cbb-e32778-d1e603"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e710": {
+    "summary": "Objection: it would follow that God can make a rational creature naturally impeccable, always and naturally conforming its will to God's, since this already happens in a non-rational creature such as infused faith, and the same holds of infused charity.",
+    "claims": [
+      "(Objection) If infused faith always tracks God's will, God could make a naturally impeccable rational creature."
+    ],
+    "concepts": [
+      "impeccability",
+      "infused faith",
+      "infused charity",
+      "conformity to divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e690"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e726": {
+    "summary": "Mair notes that this argument was answered in its place in Book II.",
+    "claims": [],
+    "concepts": [
+      "impeccability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e710"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e732": {
+    "summary": "Reply to the infant argument: Mair denies that infused faith does not incline to the act of believing. The argument does prove that infused faith does not concur with the intellect alone, but not that it requires acquired faith in order to concur, as some think (shown in the prologue to Book I). Take an adult who has never actually believed and lacks acquired faith: the causes productive of an act of faith could be applied in him even without infused faith, and since he has infused faith, which inclines to every believable, together with sufficient co-causes, it concurs now.",
+    "claims": [
+      "Infused faith does incline to the act of believing.",
+      "Infused faith cannot concur with the intellect alone; other causes are required.",
+      "Infused faith does not require acquired faith in order to concur."
+    ],
+    "concepts": [
+      "infused faith",
+      "acquired faith",
+      "co-causes",
+      "act of believing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e603"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e765": {
+    "summary": "Objection: the habit of acquired faith concurs with the intellect alone to produce belief and infused faith cannot, so infused faith would be less perfect than acquired faith concerning the same believable, which is unfitting.",
+    "claims": [
+      "(Objection) Infused faith would be less perfect than acquired faith."
+    ],
+    "concepts": [
+      "perfection",
+      "infused faith",
+      "acquired faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e732"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e776": {
+    "summary": "Reply: the antecedent is granted but the consequence does not follow. The cow's soul probably concurs in generating a cow's sensitive soul, while the more perfect intellectual soul does not concur in generating one; fire generates fire, while an angel generates no substance. The most perfect agent has the most perfect action, but a more perfect agent need not always have a more perfect action, especially among things created by God. A certain doctor argues that infused faith is more perfect than science about the same object because only God creates it, but that proof fails: prime matter is creatable only by God, yet substantial form, produced by creatures, is more perfect than matter.",
+    "claims": [
+      "A more perfect agent need not have a more perfect action.",
+      "Being creatable only by God does not make something more perfect, as prime matter shows.",
+      "Infused faith's need for co-causes does not make it less perfect than acquired faith."
+    ],
+    "concepts": [
+      "perfection",
+      "agent and action",
+      "prime matter",
+      "substantial form",
+      "creation",
+      "infused faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e765"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e811": {
+    "summary": "Objection: a habit of infused faith of infinite intensity could produce an intense act of belief with the intellect, so a weak infused faith could produce a weak act, by the earlier argument about habits. Also, if God infused into Socrates a habit like an acquired one, it would produce an act with the power's concurrence, so being created by God does not stop a habit from producing an act with the power alone.",
+    "claims": [
+      "(Objection) A sufficiently intense infused habit, or one like an acquired habit, would act with the power alone."
+    ],
+    "concepts": [
+      "infused faith",
+      "intensity",
+      "divine infusion",
+      "sufficiency of causes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e732",
+        "jm3cbb-e29714-d1e156"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e833": {
+    "summary": "Reply to the first: the antecedent is denied. Infused faith's failure to act with the power alone is not a lack of intensity; it requires other causes besides the intellect. Similarly an object infinite to the imagination cannot produce cognition without an intellect, and a created intellect infinite to the imagination cannot have intuitive cognition without the object.",
+    "claims": [
+      "Infused faith's need for co-causes is not due to a lack of intensity.",
+      "Some causes require specific co-causes however intense they are."
+    ],
+    "concepts": [
+      "co-causes",
+      "intensity",
+      "intuitive cognition",
+      "sufficiency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e811"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32778-d1e853": {
+    "summary": "Reply to the second: Mair grants the antecedent, the consequence, and the consequent. Being created by God is not the proximate reason why a habit cannot act with the power alone; being such a habit created by God is, and that it is so we know a posteriori from experience. It does not follow that infused faith is useless. It is most useful, since without it there is no salvation by the law, and it makes the act more intense, since other things equal an effect is greater when causes are aided by another cause. One believes more readily with infused faith than without it and resists heresy better, since a habit resists the contrary as much as it inclines to the act, and one believes more firmly, since the act is more intense and resists corruption more.",
+    "claims": [
+      "That infused faith cannot act with the power alone is known a posteriori from experience.",
+      "Infused faith is necessary for salvation under the law and intensifies the act of belief.",
+      "Infused faith makes one believe more readily, more firmly, and resist heresy better."
+    ],
+    "concepts": [
+      "utility of infused faith",
+      "intensity",
+      "resistance to heresy",
+      "firmness",
+      "a posteriori knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32778",
+        "jm3cbb-e32778-d1e811",
+        "jm3cbb-e32336-d1e237"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

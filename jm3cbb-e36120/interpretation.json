@@ -1,0 +1,907 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:06:03Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e36120.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e36120": {
+    "summary": "The first question of distinction 25, after a five-question plan for the distinction, asks whether every adult must know explicitly everything contained in the faith. Mair defines explicit knowledge as a particular assent terminating in a proposition and implicit knowledge as assent to a universal that, with a true premise, entails it, as the 'good old woman' implicitly believes that young Tobias had a dog. Six conclusions follow. Since the beginning of the world every adult was bound explicitly to believe that God exists and rewards (Hebrews 11). Gentiles were not commonly bound to know the Mediator explicitly, except intimates of God like Noah and Abraham. Those under the Mosaic law were bound more explicitly. All adults under the law of grace must know explicitly what is publicly preached in church. The simple are not bound to know everything explicitly. Prelates must know all articles explicitly and teach, defend, and give reasons to their flocks. Replies address pagan philosophers who denied the resurrection (culpable, per Romans 1), the Sadducees (heretics), Augustine on salvation only through faith in Christ (implicit faith sufficed for gentiles), and, at length, William of Auxerre's claim that an old woman sins by assenting to heresy preached by her prelate, which Mair rejects as unreasonable: she holds a heresy but is not a heretic. Prelates are tacitly obliged by accepting their office, with duties graded by office and natural gifts. A closing doubt concludes that the ancients' and moderns' acts and acquired habits of faith in tensed articles ('Christ will die' and 'Christ has died') differ in species, but infused faith is the same in species, following Augustine.",
+    "claims": [
+      "Explicit knowledge is a particular assent terminating in a proposition; implicit knowledge is assent to a universal that, with a true premise, entails it.",
+      "Every adult using reason has always been bound to believe explicitly that God exists and rewards those who seek him.",
+      "Gentiles were not commonly bound to know the incarnation explicitly; implicit faith in God's just governance sufficed.",
+      "Under the law of grace, all adults must know explicitly the articles publicly proclaimed in church; negligence does not excuse.",
+      "The simple are not bound to know everything in the faith explicitly; implicit faith in what the Church believes suffices.",
+      "Prelates are bound to know all articles explicitly and to teach, defend, and give reasons to their flocks.",
+      "A simple person who assents to a heresy preached by a reputable prelate does not sin and is not a heretic.",
+      "Prelates are tacitly obliged to the knowledge their office requires by accepting it, and the duty to know increases with office and natural gifts.",
+      "Acts and acquired habits of faith in past- and future-tense articles differ in species.",
+      "The infused faith of the ancients and of modern believers is the same in species."
+    ],
+    "concepts": [
+      "explicit faith",
+      "implicit faith",
+      "good old woman",
+      "necessity for salvation",
+      "gentiles",
+      "Mosaic law",
+      "law of grace",
+      "duties of prelates",
+      "heresy",
+      "William of Auxerre",
+      "tensed articles",
+      "ancients and moderns",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e36120-d1e104",
+        "jm3cbb-e36120-d1e139",
+        "jm3cbb-e36120-d1e185",
+        "jm3cbb-e36120-d1e221",
+        "jm3cbb-e36120-d1e241",
+        "jm3cbb-e36120-d1e254",
+        "jm3cbb-e36120-d1e274",
+        "jm3cbb-e36120-d1e287",
+        "jm3cbb-e36120-d1e309",
+        "jm3cbb-e36120-d1e326",
+        "jm3cbb-e36120-d1e344",
+        "jm3cbb-e36120-d1e366",
+        "jm3cbb-e36120-d1e379",
+        "jm3cbb-e36120-d1e425",
+        "jm3cbb-e36120-d1e434",
+        "jm3cbb-e36120-d1e446",
+        "jm3cbb-e36120-d1e457",
+        "jm3cbb-e36120-d1e488",
+        "jm3cbb-e36120-d1e501",
+        "jm3cbb-e36120-d1e545",
+        "jm3cbb-e36120-d1e593",
+        "jm3cbb-e36120-d1e618",
+        "jm3cbb-e36120-d1e627",
+        "jm3cbb-e36120-d1e640",
+        "jm3cbb-e36120-d1e647",
+        "jm3cbb-e36120-d1e658",
+        "jm3cbb-e36120-d1e684",
+        "jm3cbb-e36120-d1e690",
+        "jm3cbb-e36120-d1e753",
+        "jm3cbb-e36120-d1e760",
+        "jm3cbb-e36120-d1e782",
+        "jm3cbb-e36120-d1e800",
+        "jm3cbb-e36120-d1e813",
+        "jm3cbb-e36120-d1e838",
+        "jm3cbb-e36120-d1e854",
+        "jm3cbb-e36120-d1e898",
+        "jm3cbb-e36120-d1e911"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e104": {
+    "summary": "Plan for distinction 25 and statement of the first question. Mair will ask five questions: whether it is necessary for salvation to believe explicitly everything contained in the faith, the division of the articles in the Creed, unbelief and heresy, the corruption or annihilation of faith, and whether advanced students of theology acquire some knowledge greater than faith. The first question is posed as: whether every adult must know explicitly everything contained in the faith.",
+    "claims": [
+      "Distinction 25 will be treated in five questions."
+    ],
+    "concepts": [
+      "question plan",
+      "explicit faith",
+      "articles of faith",
+      "heresy",
+      "corruption of faith",
+      "theological knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e139": {
+    "summary": "Definitions. To know something explicitly is to have a particular assent terminating in it, as I know 'God is three and one' when I assent to that proposition. To know something implicitly is to know it in the universal, having a cognition of a universal which, with some true premise, entails it. So the good old woman knows that young Tobias had a dog, though she never thought of it: she assents to the majors 'everything in the sacred canon is to be believed', 'everything revealed by God is true in the sense revealed', or especially 'everything the Church believes is to be believed', which with 'Tobias had a dog is such' yield the conclusion. This matches Aristotle on knowing in the universal and in the particular (Posterior Analytics I).",
+    "claims": [
+      "Explicit knowledge is a particular assent terminating in the proposition.",
+      "Implicit knowledge is assent to a universal that, together with a true premise, entails the proposition.",
+      "A simple believer implicitly believes every scriptural detail by assenting to universal principles of faith."
+    ],
+    "concepts": [
+      "explicit faith",
+      "implicit faith",
+      "good old woman",
+      "Tobias's dog",
+      "knowledge in the universal",
+      "Posterior Analytics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e185": {
+    "summary": "First conclusion: since the world was founded, every adult using reason was bound to assent explicitly to some believables. Hebrews 11 says whoever comes to God must believe that he exists and rewards those who seek him, and every adult gentile was bound at least to these two, which were known to all: philosophers knew God exists, and people of sound judgment held that God rewards good works and punishes sins, and the wise taught this to the less learned. The Master holds this in the text: there is a measure of faith without which salvation was never possible.",
+    "claims": [
+      "Every adult using reason has always been bound to explicit belief in some articles.",
+      "At minimum, all were bound to believe that God exists and that he rewards those who seek him.",
+      "These two truths were accessible to all, including pagans."
+    ],
+    "concepts": [
+      "minimum of faith",
+      "Hebrews 11:6",
+      "gentiles",
+      "God's existence",
+      "divine reward",
+      "natural knowledge of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e139"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e221": {
+    "summary": "Second conclusion: gentiles were not commonly bound to know explicitly the coming of a mediator between God and humans, since they were not bound by the Mosaic law (Romans 2), and it was not written even in the hearts of the wise. 'Commonly', because some intimates of God, such as Noah and Abraham, to whom the mystery of the incarnation was revealed, were bound to know it explicitly.",
+    "claims": [
+      "Gentiles were generally not bound to explicit faith in the mediator.",
+      "Those to whom the incarnation was revealed, like Noah and Abraham, were bound to explicit faith in it."
+    ],
+    "concepts": [
+      "gentiles",
+      "mediator",
+      "incarnation",
+      "Noah",
+      "Abraham",
+      "Mosaic law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e185"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e241": {
+    "summary": "Third conclusion: under the law of Moses people were bound much more explicitly to this: to know the Messiah's coming and to assent to everything he asserted, having been taught by the oracles of the prophets and the law.",
+    "claims": [
+      "Those under the Mosaic law were bound to know explicitly the coming of the Messiah and to assent to his teaching."
+    ],
+    "concepts": [
+      "Mosaic law",
+      "Messiah",
+      "prophets",
+      "explicit faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e221"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e254": {
+    "summary": "Fourth conclusion: under the law of grace all adults in the Church must know explicitly what is publicly preached to them in church about the articles of faith, such as the common facts about Christ's nativity, passion, resurrection, ascension, the feast of the Trinity, and Christ's body in the Eucharist. These are proclaimed publicly so that no one can be ignorant of them except through negligence, which does not excuse.",
+    "claims": [
+      "Under the law of grace, all adults must know explicitly the articles publicly proclaimed in church.",
+      "Ignorance of publicly proclaimed articles comes only from negligence, which does not excuse."
+    ],
+    "concepts": [
+      "law of grace",
+      "explicit faith",
+      "liturgical year",
+      "negligence",
+      "culpable ignorance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e241"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e274": {
+    "summary": "Fifth conclusion: not all adults, namely ordinary people, must know everything in the faith explicitly. For the simple it suffices to know what is proclaimed in church on the feasts they are bound to attend. Otherwise they would be bound to something impossible for them.",
+    "claims": [
+      "Ordinary believers need not know all contents of the faith explicitly.",
+      "The simple suffice with what is proclaimed on the feasts they must attend.",
+      "No one is obliged to the impossible."
+    ],
+    "concepts": [
+      "simple believers",
+      "explicit faith",
+      "feasts",
+      "obligation and possibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e254"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e287": {
+    "summary": "Sixth conclusion: prelates of the Church must know all the articles of faith explicitly, teach the sheep under them in faith and morals, defend them from wolves, and give reasons for the faith to people who ask, as time and place require. Some in the Church must be bound to this, otherwise Christ would have set up the Church's polity inadequately, and if not these, none are bound.",
+    "claims": [
+      "Prelates must know all articles of faith explicitly and teach and defend their flocks.",
+      "Christ's institution of the Church requires that some be bound to this, and these are the prelates."
+    ],
+    "concepts": [
+      "prelates",
+      "pastoral duty",
+      "teaching office",
+      "ecclesiastical polity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e274"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e309": {
+    "summary": "Second argument: everyone must know what belongs to an office they freely accept. A prelate's office is to teach the articles of faith and what is necessary for faith and morals to their people, which they cannot do without knowing it.",
+    "claims": [
+      "Freely accepting an office obliges one to know what it requires.",
+      "Teaching faith and morals is the prelate's office, which requires knowledge."
+    ],
+    "concepts": [
+      "office",
+      "obligation",
+      "prelates",
+      "teaching"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e287"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e326": {
+    "summary": "Third argument: a hired shepherd would sin if he did not lead his dumb sheep to pasture and guard them from wolves, so all the more a pastor of spiritual sheep sins if he does not lead them to spiritual pasture and guard them from wolves, meaning heretics and those who corrupt the faith or morals of the flock.",
+    "claims": [
+      "A pastor who fails to feed and protect spiritual sheep sins, all the more than a negligent shepherd.",
+      "The 'wolves' are heretics and corrupters of faith and morals."
+    ],
+    "concepts": [
+      "pastoral duty",
+      "shepherd analogy",
+      "heretics",
+      "a fortiori argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e287"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e344": {
+    "summary": "Objection to the first conclusion: many pagan philosophers did not think there would be a resurrection, so they were not bound to the second article, about reward, since many are not rewarded in this life. Confirmation: the Sadducees, a notable Jewish sect, did not hold the resurrection (Acts 23), so if a sect accepting the Mosaic law did not, philosophers were not bound to it.",
+    "claims": [
+      "(Objection) Pagan philosophers who denied the resurrection could not be bound to believe in divine reward.",
+      "(Objection) Even the Sadducees denied the resurrection."
+    ],
+    "concepts": [
+      "resurrection",
+      "pagan philosophers",
+      "Sadducees",
+      "divine reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e185"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e366": {
+    "summary": "Second objection: those under the law of nature were not bound to accept the Mosaic law while it was in force, nor to anything except what was sufficiently clear to them by natural light, and these two articles were not.",
+    "claims": [
+      "(Objection) Those under natural law were bound only to what natural light made sufficiently evident, which did not include these articles."
+    ],
+    "concepts": [
+      "law of nature",
+      "natural light",
+      "Mosaic law",
+      "obligation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e185"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e379": {
+    "summary": "Reply to the first: Mair grants the antecedent, but says it was their own fault. By the natural light God gave them the philosophers learned from creatures that God exists, but because they did not give thanks or use their natural gifts well, they became foolish, worshipped idols, and were without excuse (Romans 1). They sinned by not believing in the resurrection, and many who judged more soundly did hold it. They were bound to know that God rewards; whether after death is less clear, but Mair thinks so, since they saw many good people not adequately rewarded here.",
+    "claims": [
+      "Pagan philosophers' ignorance of reward and resurrection was culpable.",
+      "Natural reason can know God from creatures (Romans 1).",
+      "Seeing that the good are not adequately rewarded in this life points to reward after death."
+    ],
+    "concepts": [
+      "culpable ignorance",
+      "Romans 1",
+      "natural knowledge of God",
+      "idolatry",
+      "resurrection",
+      "afterlife"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e344"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e425": {
+    "summary": "Reply to the confirmation: the Sadducees were a heretical sect within the law, which is why Paul, rejecting it, said he was a Pharisee by descent.",
+    "claims": [
+      "The Sadducees were heretics within Judaism."
+    ],
+    "concepts": [
+      "Sadducees",
+      "heresy",
+      "Paul",
+      "Pharisees"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e344"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e434": {
+    "summary": "Reply to the second: gentiles living under the Mosaic law were not bound to accept it, but they were bound to the natural law, which included these two articles, had they not been indisposed.",
+    "claims": [
+      "The existence of God and divine reward belong to the natural law, binding all gentiles."
+    ],
+    "concepts": [
+      "natural law",
+      "gentiles",
+      "Mosaic law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e366"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e446": {
+    "summary": "Objection to the second conclusion from Augustine (On Rebuke and Grace; On Marriage and Concupiscence): no one is freed from the damnation incurred through Adam except through faith in Jesus Christ.",
+    "claims": [
+      "(Objection) Salvation requires faith in Jesus Christ, so gentiles too needed explicit faith in the mediator."
+    ],
+    "concepts": [
+      "Augustine",
+      "faith in Christ",
+      "original sin",
+      "salvation of gentiles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e221"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e457": {
+    "summary": "Reply: gentiles were obliged to know the incarnation only very implicitly. It sufficed for them to know that God exists, rewards the good, punishes the wicked for their demerits, and governs the world justly; they did not need to know the specific mode of governance. Many of the authorities the Master cites concern the Jews, as Gregory on Ezekiel shows: those who went before and after cried 'Hosanna to the Son of David', because all the elect in Judea, and those now in the Church, believed in the mediator. Gregory pointedly said 'in Judea'.",
+    "claims": [
+      "Gentiles' faith in the incarnation could be very implicit, contained in faith in God's just governance.",
+      "Patristic texts requiring explicit faith in the mediator mainly concern the Jews."
+    ],
+    "concepts": [
+      "implicit faith",
+      "incarnation",
+      "gentiles",
+      "Gregory the Great",
+      "just governance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e446"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e488": {
+    "summary": "Objection to the fifth conclusion: everyone is bound, on pain of sin, to avoid assenting to heresy, which is impossible unless one knows everything in the faith explicitly, since evil is avoided only when it is known.",
+    "claims": [
+      "(Objection) Avoiding heresy requires explicit knowledge of all the faith."
+    ],
+    "concepts": [
+      "heresy",
+      "explicit faith",
+      "avoidance of evil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e274"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e501": {
+    "summary": "Reply: William of Auxerre and some others say the old woman sins if she assents to a heresy preached by her prelate, since she believes too lightly, but Mair calls this a claim without reason. She may assent to any proposition preached by a prelate she reasonably takes to be wise and good, if she is not bound to know its opposite explicitly, such as 'Tobias did not have a dog', so she may lawfully conform her mind to that syllogism's premises and conclusion. If a parish priest or bishop, thought learned and upright, preaches against some proposition of faith whose opposite she need not know explicitly (perhaps from vincible or invincible ignorance), she does not sin by assenting. Though she holds a heresy, she is not a heretic. The contrary view is unbelievable to Mair and should be rejected.",
+    "claims": [
+      "A simple person may lawfully assent to what a reputable prelate preaches, when she is not bound to know the opposite explicitly.",
+      "Assenting to a heresy in such circumstances is not sinful.",
+      "Holding a heresy does not by itself make one a heretic.",
+      "William of Auxerre's contrary view is unreasonable."
+    ],
+    "concepts": [
+      "William of Auxerre",
+      "good old woman",
+      "heresy",
+      "heretic",
+      "reliance on authority",
+      "ignorance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e488",
+        "jm3cbb-e33578-d1e491"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e545": {
+    "summary": "Reply to the form of the argument: the antecedent is denied. It suffices to hold one's infused faith, which is to believe implicitly, or to believe true whatever the Church believes, and not to dissent from a proposition whose opposite one is bound to know. Asked whether she assents to 'everything revealed by God is true' or 'everything the Church believes is true', the old woman would say yes and be ready to assent to any such proposition shown to her. 'The oxen were ploughing and the asses feeding beside them' (Job 1): the simple are the asses, and it suffices that they are fed by the doctrine of the oxen. She can assent implicitly to 'Tobias had a dog' while explicitly dissenting from it, without contradiction, as Aristotle allows assent in the universal to 'this mule is sterile' (all mules are sterile) alongside dissent in the particular from it when one does not recognize the big-bellied beast as a mule.",
+    "claims": [
+      "Holding infused faith and believing whatever the Church believes is sufficient implicit faith for the simple.",
+      "One must not dissent from propositions one is bound to know.",
+      "The simple are nourished by the teaching of the learned.",
+      "Implicit assent to a proposition can coexist with explicit dissent from it without contradiction."
+    ],
+    "concepts": [
+      "implicit faith",
+      "fides ecclesiae",
+      "oxen and asses",
+      "good old woman",
+      "universal and particular knowledge",
+      "sterile mule"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e501",
+        "jm3cbb-e36120-d1e139"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e593": {
+    "summary": "Objection: Deuteronomy 27 says 'write upon the stones all the words of this law plainly and clearly', and the gloss reads the stones as all who believe in Christ, so all must know the whole law clearly and explicitly. The gloss on Matthew 27, on the tearing of the temple veil, is more explicit: the veil was torn so that the ark and all the hidden sacraments of the law would appear and pass to all.",
+    "claims": [
+      "(Objection) Scripture and gloss imply that all believers must know the whole law explicitly."
+    ],
+    "concepts": [
+      "Deuteronomy",
+      "temple veil",
+      "gloss",
+      "explicit faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e274"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e618": {
+    "summary": "Reply: the first text concerns those who have to teach the people. The second gloss says the sacraments of the law pass to all, but unequally, according to the state of superiors and inferiors.",
+    "claims": [
+      "The command to know the law clearly applies to teachers.",
+      "Knowledge of the mysteries passes to all believers, but unequally by state."
+    ],
+    "concepts": [
+      "teachers",
+      "unequal knowledge",
+      "states in the Church"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e593"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e627": {
+    "summary": "Objection to the sixth conclusion: prelates did not bind themselves to know more than the simple, so they are not bound to know more; ask where and by whom they were bound.",
+    "claims": [
+      "(Objection) Prelates never undertook an obligation to greater knowledge."
+    ],
+    "concepts": [
+      "prelates",
+      "obligation",
+      "knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e287"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e640": {
+    "summary": "Second objection: it would follow that many uneducated prelates in the Church were in a dangerous state of life, which should not be said.",
+    "claims": [
+      "(Objection) Many unlearned prelates would be in a state of spiritual danger."
+    ],
+    "concepts": [
+      "unlearned prelates",
+      "state of danger"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e287"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e647": {
+    "summary": "Third objection: either every prelate must know everything in the faith explicitly, and such a prelate is as rare as the phoenix in Arabia, or only some things, and then one cannot say how many.",
+    "claims": [
+      "(Objection) Either prelates must know everything, which almost none do, or no definite limit can be set."
+    ],
+    "concepts": [
+      "prelates",
+      "explicit faith",
+      "phoenix",
+      "definite limit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e287"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e658": {
+    "summary": "Reply to the first: prelates tacitly and implicitly obliged themselves to know more than others when they freely accepted an office that requires it, just as someone who takes charge of steering a ship across the Black Sea is bound to do what befits a skilled pilot without saying anything about obligation. Having sufficient vicars is not enough, otherwise a swineherd with first tonsure could accept episcopal charge without sin, which is false, as shown in Book IV, distinction 24.",
+    "claims": [
+      "Freely accepting an office tacitly obliges one to its requirements.",
+      "Prelates cannot discharge their duty of knowledge by relying on vicars."
+    ],
+    "concepts": [
+      "tacit obligation",
+      "office",
+      "ship pilot analogy",
+      "vicars",
+      "prelates"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e627"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e684": {
+    "summary": "Reply to the second: the conclusion is granted; many unlearned prelates are in a dangerous state.",
+    "claims": [
+      "Unlearned prelates are in a dangerous spiritual state."
+    ],
+    "concepts": [
+      "unlearned prelates",
+      "state of danger"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e640"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e690": {
+    "summary": "Reply to the third: a prelate must know, do, and teach what belongs to his office. A parish priest is bound to more than a vicar, a bishop more than a parish priest, an abbot more than a conventual prior, though a prior might be more learned than an abbot who knows what his office requires. Among academic grades, a doctor of theology must know more and better than a simple master. Among lay people too, the naturally gifted must know more than the dull, as Gregory says on Matthew 25: as gifts increase, so does the account owed. Some who are slow can grasp little even with great effort and are bound to little, since God obliges neither to the impossible nor to the very difficult. They are not bound to the order of the articles or to good Latin pronunciation, but they must understand them in the vernacular as they can and have them memorized in Latin to recite them in church. One person must know more than another, but no single limit can be set: each prelate must know what suffices for his office, and the gifted must know more and apply their knowledge to others, lest they be ungrateful for God's gift.",
+    "claims": [
+      "Each prelate must know what his particular office requires, and duties increase with rank.",
+      "Those with greater natural gifts are obliged to know more.",
+      "God does not oblige to the impossible or the very difficult.",
+      "The simple must understand the articles in the vernacular and recite them in Latin.",
+      "No single fixed limit of required knowledge can be set for all."
+    ],
+    "concepts": [
+      "graded obligation",
+      "office",
+      "natural gifts",
+      "parable of talents",
+      "vernacular",
+      "prelates",
+      "laity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e647"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e753": {
+    "summary": "A doubt: is the faith of the ancients and of the moderns the same in lowest species?",
+    "claims": [],
+    "concepts": [
+      "ancients and moderns",
+      "unity of faith",
+      "species"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e760": {
+    "summary": "First proposition: the act of believing the articles the ancients believed differs in species from that of the articles the moderns believe. The question arises only about articles of which one is future-tensed and the other past-tensed, like 'Christ will be incarnate', 'Christ will die', 'Christ has been incarnate', 'Christ has died'. Past- and future-tensed propositions are not synonymous and so differ in species.",
+    "claims": [
+      "Acts of believing future- and past-tense versions of an article differ in species.",
+      "Non-synonymous propositions differ in species."
+    ],
+    "concepts": [
+      "tensed propositions",
+      "species of propositions",
+      "synonymy",
+      "ancients and moderns"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e753"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e782": {
+    "summary": "Second argument: 'man is an animal' and 'man is risible' differ in species because their predicates do, and 'an animal is a man' and 'a substance is a man' because their subjects do. By the same reasoning, specific difference of copulas makes propositions differ in species, and present- and past-tense copulas differ in species.",
+    "claims": [
+      "Propositions differ in species when any of their parts, including the copula, differ in species.",
+      "Copulas of different tenses differ in species."
+    ],
+    "concepts": [
+      "copula",
+      "species of propositions",
+      "tense",
+      "subject and predicate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e760"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e800": {
+    "summary": "Third argument: the inference from synonym to synonym is good and formal, but there is no valid inference from a past-tense proposition to a future-tense one or the reverse, so they are not synonymous and so not of the same lowest species.",
+    "claims": [
+      "Synonymous propositions mutually entail each other formally.",
+      "Past- and future-tense propositions do not mutually entail each other, so they are not synonymous."
+    ],
+    "concepts": [
+      "synonymy",
+      "formal consequence",
+      "tense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e760"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e813": {
+    "summary": "Fourth argument: two tokens of 'Christ will die' differ in number, but 'Christ will die' and 'Christ has died' differ more, and there is no degree between numerical and specific difference. Mair finds this argument ineffective, since Socrates and Plato differ more than Socrates and his hand yet differ only in number. The first three proofs suffice.",
+    "claims": [
+      "Degree of difference does not determine whether things differ in species or only in number.",
+      "The first three arguments suffice to show that tensed articles differ in species."
+    ],
+    "concepts": [
+      "numerical difference",
+      "specific difference",
+      "degrees of difference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e760"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e838": {
+    "summary": "Second proposition: the acquired habit the ancients had of 'Christ will die' differs in species from the habit we have of 'Christ has died', since specific distinction of habits always follows specific distinction of acts.",
+    "claims": [
+      "Acquired habits of faith in past- and future-tense articles differ in species.",
+      "Specific distinction of acts entails specific distinction of habits."
+    ],
+    "concepts": [
+      "acquired faith",
+      "species of habits",
+      "tensed articles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e760",
+        "jm3cbb-e32336-d1e285"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e854": {
+    "summary": "Third proposition: the same infused faith in species was in the ancients regarding 'Christ will die' and in us regarding 'Christ has died' and similar articles, even holding (as Mair thinks true) that infused faith inclines immediately to each believable. Augustine (On the Trinity IV.2) says what is announced to us as done was shown to the ancient just as future, so that they were perfected through the same faith, and (letter to Optatus) that their faith and ours are the same, since they believed as future what we believe as done. He means not numerical identity, since faiths differ in different subjects, nor the specific identity of acquired faith (as the previous propositions show), so he means infused faith.",
+    "claims": [
+      "Infused faith is the same in species in the ancients and in modern believers.",
+      "Augustine's claim that the ancients' faith and ours are the same refers to infused faith."
+    ],
+    "concepts": [
+      "infused faith",
+      "ancients and moderns",
+      "Augustine",
+      "unity of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e838",
+        "jm3cbb-e32778-d1e543"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e898": {
+    "summary": "Second argument: infused faith inclines immediately to specifically distinct objects (distinction 23), so the specific difference between past- and future-tense articles does not imply a specific difference in infused faith.",
+    "claims": [
+      "Since infused faith inclines immediately to specifically distinct objects, the diversity of tensed articles does not diversify it."
+    ],
+    "concepts": [
+      "infused faith",
+      "universal cause",
+      "tensed articles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e854",
+        "jm3cbb-e32778-d1e543"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36120-d1e911": {
+    "summary": "Third argument: charity is the same in species in us and in the ancients, so faith is too, since no reason for a difference can be given. Further, infused charity inclines to specifically different acts and successively to contrary ones: it once inclined a Hebrew to will to circumcise his infant and now inclines him not to. So infused faith once inclined to assent to 'Christ will die' and now to 'Christ will not die'.",
+    "claims": [
+      "Infused charity is the same in species in the ancients and in us, so infused faith is too.",
+      "Infused charity inclines successively to contrary acts as the law changes, and infused faith likewise."
+    ],
+    "concepts": [
+      "infused charity",
+      "infused faith",
+      "circumcision",
+      "contraries",
+      "ancients and moderns"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36120-d1e854",
+        "jm3cbb-e32778-d1e690"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

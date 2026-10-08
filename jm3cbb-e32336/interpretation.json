@@ -1,0 +1,435 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T19:58:34Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e32336.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e32336": {
+    "summary": "The eighth question, the first of five on faith, asks whether faith is necessary for salvation. Mair lists the senses of 'fides' (promise, conscience, the sacrament of baptism, the object of faith, and the assent of faith) and defines faith as a certain, inevident, adhesive cognition of a truth pertaining to religion received through revelation. He then answers in six conclusions. No particular faith is necessary. Faith is not necessary by God's absolute power. Acquired faith is not necessary under the law, as saved infants show. Infused faith is necessary under God's ordained law, which can be known only from scripture (Hebrews 11). Infused faith is one in species for all articles. Acquired faiths are distinct in species for distinct articles. Replies to objections establish that the firmness of faith is not greater than that of evident knowledge in the sense of being unshakeable by argument, but that faith is freely chosen, worth dying for, and guaranteed by God. They also establish that an adult who does what is in him will be enlightened by God, since God's power is not bound to the sacraments, and that a person cannot be faithful and unfaithful at once, because 'faithful' is denominated from infused faith.",
+    "claims": [
+      "Faith in the relevant sense is a certain, inevident, adhesive cognition of a revealed truth pertaining to religion.",
+      "No particular numerical act or habit of faith is necessary for salvation.",
+      "By God's absolute power, salvation is possible without faith.",
+      "Acquired faith is not necessary for salvation under the law.",
+      "Infused faith is necessary for salvation under God's ordained law, and this is known only from scripture.",
+      "Infused faith is one in species for all articles of faith.",
+      "Acquired faiths concerning different articles differ in species.",
+      "God enlightens any adult who rightly uses their natural powers in what is necessary, since his power is not bound to the sacraments.",
+      "A person is called faithful by reason of infused faith, so one cannot be faithful and a heretic at once."
+    ],
+    "concepts": [
+      "faith",
+      "necessity for salvation",
+      "infused faith",
+      "acquired faith",
+      "absolute and ordained power",
+      "definition of faith",
+      "certitude",
+      "inevidence",
+      "unity of faith",
+      "articles of faith",
+      "facere quod in se est",
+      "heresy"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e32336-d1e104",
+        "jm3cbb-e32336-d1e113",
+        "jm3cbb-e32336-d1e202",
+        "jm3cbb-e32336-d1e219",
+        "jm3cbb-e32336-d1e228",
+        "jm3cbb-e32336-d1e237",
+        "jm3cbb-e32336-d1e272",
+        "jm3cbb-e32336-d1e285",
+        "jm3cbb-e32336-d1e340",
+        "jm3cbb-e32336-d1e385",
+        "jm3cbb-e32336-d1e437",
+        "jm3cbb-e32336-d1e461",
+        "jm3cbb-e32336-d1e479",
+        "jm3cbb-e32336-d1e505",
+        "jm3cbb-e32336-d1e516",
+        "jm3cbb-e32336-d1e526"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e104": {
+    "summary": "Statement of the eighth question: whether faith is necessary for salvation.",
+    "claims": [],
+    "concepts": [
+      "faith",
+      "necessity for salvation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e29023-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e113": {
+    "summary": "Terminological preliminaries. 'Fides' means a promise (keeping faith), conscience (Romans 14, 'whatever is not of faith is sin', glossed as against conscience), the sacrament of faith, namely baptism (Augustine to Boniface on infants having faith), the object of faith or the believable (the Athanasian Creed's 'this is the catholic faith'), and the actual or habitual assent of faith. Since a habit is best known through its act, Mair defines the act of faith as an actual, certain, inevident, adhesive cognition of a truth pertaining to religion received through revelation. Without 'actual' the definition fits acquired and infused habits of faith too. 'Certain' excludes opinion. 'Inevident' excludes evident cognitions like understanding, science, and wisdom (Hebrews 11, 'the argument of things not seen'). 'Pertaining to religion' excludes firm inevident assent to things like 'Carthage is in Africa' (Augustine, Enchiridion), since religion concerns only what bears on attaining happiness. 'Received by revelation' is added for clarity, since propositions following from faith are fundamentally revealed.",
+    "claims": [
+      "'Fides' is equivocal: promise, conscience, baptism, the object of faith, and the assent of faith.",
+      "The act of faith is an actual, certain, inevident, adhesive cognition of a revealed truth pertaining to religion.",
+      "Faith differs from opinion by certainty and from science by inevidence.",
+      "Firm inevident assent to non-religious truths is not faith.",
+      "Propositions that follow from what is believed are fundamentally revealed."
+    ],
+    "concepts": [
+      "definition of faith",
+      "equivocation",
+      "certitude",
+      "inevidence",
+      "opinion",
+      "science",
+      "religion",
+      "revelation",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e202": {
+    "summary": "Answer in six conclusions. First: no particular faith is necessary for salvation under the law. The faith Socrates has, infused or acquired, is not necessary, since salvation could come through another faith, and so for each one.",
+    "claims": [
+      "No individual act or habit of faith is necessary for salvation, since another could take its place."
+    ],
+    "concepts": [
+      "necessity for salvation",
+      "individual faith",
+      "substitutability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e113"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e219": {
+    "summary": "Second conclusion: by God's absolute power it is not necessary to have faith for salvation, since God can accept someone to salvation without faith.",
+    "claims": [
+      "By absolute power God can accept someone to salvation without faith."
+    ],
+    "concepts": [
+      "absolute power",
+      "divine acceptation",
+      "necessity for salvation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e202"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e228": {
+    "summary": "Third conclusion: under the law it is not necessary to have acquired faith, as is clear from the many infants who are saved without ever having actual or habitual acquired faith.",
+    "claims": [
+      "Acquired faith is not necessary for salvation, as saved infants show."
+    ],
+    "concepts": [
+      "acquired faith",
+      "infants",
+      "salvation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e202"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e237": {
+    "summary": "Fourth conclusion, affirmative: under God's ordained law infused faith is necessary for salvation. This cannot be proved by natural light, since we cannot prove that we have infused faith, but is believed on scripture's authority: 'without faith it is impossible to please God' (Hebrews 11). That text cannot concern acquired faith, since by the common law the act of faith requires the use of reason and the acquired habit presupposes the act as its natural cause. So it concerns the infused faith that the baptized, the circumcised, and those killed by Herod had, as canon law confirms (De baptismo, c. Maiores; Clementines I, De summa trinitate).",
+    "claims": [
+      "Infused faith is necessary for salvation under God's ordained law.",
+      "That infused faith exists in us cannot be proved by natural reason, only by scriptural authority.",
+      "Hebrews 11:6 refers to infused faith, not acquired faith.",
+      "Acquired faith presupposes the use of reason and actual belief."
+    ],
+    "concepts": [
+      "infused faith",
+      "ordained power",
+      "natural light",
+      "scriptural authority",
+      "Hebrews 11:6",
+      "Holy Innocents",
+      "canon law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e228"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e272": {
+    "summary": "Fifth conclusion: infused faith is one in species with respect to all believables. It is not one in number, since one numerical accident is not in diverse subjects, but one in species, as there is one charity and one hope, and Ephesians 4 says 'one God, one faith, one baptism'.",
+    "claims": [
+      "Infused faith is specifically one for all articles of faith.",
+      "Infused faith is numerically many across believers, since one accident cannot be in several subjects."
+    ],
+    "concepts": [
+      "unity of faith",
+      "infused faith",
+      "specific and numerical unity",
+      "Ephesians 4:5"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e237"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e285": {
+    "summary": "Sixth conclusion: acquired faiths of different articles are distinct both in number and in species. Articles differ in species, so assents to them differ in species, and since powers are distinguished by acts and acts by objects, the habits differ in species too (universally for acquired habits). One can also assent to one article while dissenting from another, error about one article is incompatible with faith in the same article but not with acquired faith in another, and an acquired habit never inclines immediately to contrary assents, yet there have been successive contrary assents of faith, such as 'Christ will die' and 'Christ will not die'.",
+    "claims": [
+      "Acquired faiths concerning different articles differ in species.",
+      "Acts are distinguished by objects, and acquired habits by acts.",
+      "One can assent to one article and dissent from another.",
+      "An acquired habit never inclines immediately to contrary assents."
+    ],
+    "concepts": [
+      "acquired faith",
+      "specific distinction of habits",
+      "articles of faith",
+      "objects specify acts",
+      "contrary assents",
+      "tensed propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e272",
+        "jm3cbb-e31052"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e340": {
+    "summary": "Objection against the definition: faith does not exclude doubt. First, faith's firmness and certainty are less than those of evident knowledge, and even evident knowledge admits doubt, since if many skilled geometers denied that a triangle has three angles equal to two right angles you would waver. Second, one can apprehend 'God is three and one' without assenting, which is doubting, as one doubts whether the stars are even. This is permitted, since otherwise one would be obliged to assent whenever one apprehends an article, and likewise to detest one's sins anew and love God whenever one thinks of them, which seems harsh.",
+    "claims": [
+      "(Objection) Faith is less firm than evident knowledge, which itself admits doubt.",
+      "(Objection) Apprehending an article without assenting is doubting, and is permitted.",
+      "(Objection) Otherwise every apprehension of an article would oblige assent, which seems too harsh."
+    ],
+    "concepts": [
+      "doubt",
+      "certitude",
+      "firmness of faith",
+      "evidence",
+      "obligation to assent",
+      "suspension of judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e113"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e385": {
+    "summary": "Reply to the first point: firmness and certainty are identical with the assent itself. Evident knowledge is clearer than inevident and can be more intense, and it is so firm that the intellect cannot dissent from a scientific conclusion while assenting to its premises and the consequence, whatever geometers say. They might make one suspend judgment or stop attending to the things signified, but not dissent. So in that sense faith's assent is not firmer but less firm. It is an inevident assent depending on free choice, otherwise faith would not be in our power. Yet one is disposed to suffer death for a proposition of faith, not for a necessary truth outside faith, since it would be foolish to give one's life for a geometrical theorem. One is also firm in that no deception falls within the assent, since its certainty comes from God, whereas evident knowledge gets its certainty from its object and natural causes.",
+    "claims": [
+      "Firmness and certainty of assent are identical with the assent.",
+      "One cannot dissent from a scientific conclusion while assenting to its premises and the consequence.",
+      "Faith's assent depends on free choice; otherwise faith would not be in our power.",
+      "Faith is firm in that the believer is ready to die for it.",
+      "Faith's certainty comes from God; evident knowledge's certainty comes from its object and natural causes."
+    ],
+    "concepts": [
+      "firmness",
+      "certitude",
+      "evidence",
+      "free choice",
+      "martyrdom",
+      "divine guarantee",
+      "scientific knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e340"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e437": {
+    "summary": "Reply to the second point: one would have to grant that someone may lawfully doubt an article, taking 'doubt' as arts masters do in the Posterior Analytics, but that use of the term is wrong, as will be argued in distinction 25. The paragraph then turns to a further objection to the fourth conclusion: an adult could do everything in their power without being baptized or receiving infused faith, since God does not abandon one who does what is in them, and yet such a person would not have faith.",
+    "claims": [
+      "Lawful doubt about an article holds only on the arts masters' technical sense of 'doubt', which is a mistaken usage.",
+      "(Objection) An adult doing all in their power without baptism would be saved without infused faith."
+    ],
+    "concepts": [
+      "doubt",
+      "arts masters",
+      "facere quod in se est",
+      "baptism",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e340",
+        "jm3cbb-e32336-d1e237"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e461": {
+    "summary": "Reply: Mair does not admit that an adult can use all their natural powers well without God enlightening them in what is necessary, either directly or through a creature, as with Cornelius (Acts 10) and Queen Candace's eunuch. God's power is not bound to the sacraments. Infants are different, since they do nothing and die in original sin.",
+    "claims": [
+      "God enlightens any adult who rightly uses their natural powers in what is necessary for salvation.",
+      "God's power is not bound to the sacraments.",
+      "Unbaptized infants are not in the same position, since they do nothing and die in original sin."
+    ],
+    "concepts": [
+      "facere quod in se est",
+      "divine illumination",
+      "Cornelius",
+      "Ethiopian eunuch",
+      "sacraments",
+      "original sin",
+      "infants"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e437"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e479": {
+    "summary": "Objection to the sixth conclusion: if there are as many acquired faiths as articles, one could be faithful and unfaithful at once, with contradictory predicates true of the same subject. Socrates could assent in faith to 'God is three and one' and dissent from 'the world had a beginning', and so be both faithful and unfaithful or heretical, since having faith about one proposition makes one faithful.",
+    "claims": [
+      "(Objection) Multiple article-specific faiths would make someone both faithful and heretical."
+    ],
+    "concepts": [
+      "faithful",
+      "heretic",
+      "contradiction",
+      "articles of faith",
+      "acquired faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e285"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e505": {
+    "summary": "Reply: Mair denies that contradictory predicates would be true of Socrates. Such a person is in no way 'not faithful', meaning having no faith.",
+    "claims": [
+      "Someone with faith in some article is not 'unfaithful' in the sense of having no faith."
+    ],
+    "concepts": [
+      "contradiction",
+      "denomination",
+      "faithful"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e479"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e516": {
+    "summary": "Further reply: not every act or habit of faith is enough to call a person faithful, just as not every logical assent makes someone a logician.",
+    "claims": [
+      "Not every act or habit of faith suffices to denominate a person faithful."
+    ],
+    "concepts": [
+      "denomination",
+      "faithful",
+      "logician analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e479"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e32336-d1e526": {
+    "summary": "In the case at hand, a person is called faithful from infused faith: as long as they keep it they are called faithful, and having lost it they are a heretic. Since one must either have it or not, no one is a heretic and faithful at the same time.",
+    "claims": [
+      "'Faithful' is denominated from infused faith.",
+      "Losing infused faith makes one a heretic.",
+      "No one can be faithful and heretical at once."
+    ],
+    "concepts": [
+      "infused faith",
+      "heresy",
+      "denomination",
+      "faithful"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e32336",
+        "jm3cbb-e32336-d1e505",
+        "jm3cbb-e32336-d1e516"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

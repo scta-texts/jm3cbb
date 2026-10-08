@@ -1,0 +1,514 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:09:37Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e38355.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e38355": {
+    "summary": "The fifth and last question of distinction 25, which closes the treatise on faith, asks whether the Church's leading theologians acquire some knowledge greater than faith. Mair rejects Henry of Ghent's thesis (Quodlibet VIII q.14) of a 'middle light' between faith and glory that gives theologians a science of the believables compatible with faith. Such a light could not be infused at baptism or by study without absurd consequences, and science and faith of the same object cannot coexist (distinction 24). So the theologian studying scripture acquires faith, not science. Mair then sets out the possibilities. Some believables, such as 'God exists', can be known by natural reason, while contingent ones like 'the day of judgment will come' cannot be objects of science. The blessed can demonstrate 'God is three and one' from their intuitive concepts of God, which wayfarers cannot do naturally. Some wayfarers, such as Paul and Moses after their intuitive visions, knew the Trinity evidently. Prophets could and probably did have evident knowledge of future contingents. Replies hold that scripture's arguments (e.g. Paul on the resurrection) proceed only from believed principles, though theologians acquire auxiliary knowledge for expounding and defending scripture, and that true prophecy requires understanding the sense of what is revealed (Joseph and Daniel, not Caiaphas or Pharaoh), being an actual judgment God infuses when he wills, unlike Solomon's infused habitual knowledge. A final doubt on the rationality of firm belief on probable grounds is answered: believers do not abandon natural reason, any more than one does in believing on good testimony that Rome is in Italy, and no one assents to believables unless most reasonably moved.",
+    "claims": [
+      "There is no 'middle light' between faith and glory giving theologians a science of the articles compatible with faith.",
+      "The theologian studying scripture acquires faith, not science, of its articles.",
+      "Some believables, such as 'God exists', can be known by natural reason; contingent ones such as 'the day of judgment will come' cannot be objects of science.",
+      "A wayfarer cannot naturally know that God is three and one, but the blessed can demonstrate it from intuitive concepts of God.",
+      "Wayfarers granted intuitive vision, like Paul and Moses, could know the Trinity evidently.",
+      "God can cause evident knowledge of future contingents, and the prophets probably had it.",
+      "Scriptural arguments proceed from believed principles and are not demonstrative.",
+      "Theologians acquire auxiliary knowledge to expound and defend scripture, but not science of the articles.",
+      "A prophet in the proper sense understands the sense of what is revealed.",
+      "Firm belief in the articles is rational, like belief on reliable testimony."
+    ],
+    "concepts": [
+      "theological science",
+      "Henry of Ghent",
+      "lumen medium",
+      "faith and science",
+      "demonstration",
+      "beatific knowledge",
+      "Trinity",
+      "intuitive cognition of God",
+      "prophecy",
+      "future contingents",
+      "scriptural argument",
+      "rationality of faith",
+      "testimony"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e38355-d1e104",
+        "jm3cbb-e38355-d1e120",
+        "jm3cbb-e38355-d1e158",
+        "jm3cbb-e38355-d1e190",
+        "jm3cbb-e38355-d1e238",
+        "jm3cbb-e38355-d1e251",
+        "jm3cbb-e38355-d1e271",
+        "jm3cbb-e38355-d1e321",
+        "jm3cbb-e38355-d1e347",
+        "jm3cbb-e38355-d1e357",
+        "jm3cbb-e38355-d1e379",
+        "jm3cbb-e38355-d1e408",
+        "jm3cbb-e38355-d1e432",
+        "jm3cbb-e38355-d1e458",
+        "jm3cbb-e38355-d1e482",
+        "jm3cbb-e38355-d1e508",
+        "jm3cbb-e38355-d1e525",
+        "jm3cbb-e38355-d1e554",
+        "jm3cbb-e38355-d1e578"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e104": {
+    "summary": "Statement of the fifth question on distinction 25: whether the Church's leading men devoted to theology acquire a knowledge greater than the knowledge of faith.",
+    "claims": [],
+    "concepts": [
+      "theological knowledge",
+      "faith",
+      "theologians"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e36120-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e120": {
+    "summary": "Henry of Ghent's affirmative view (Quodlibet VIII q.14). There are three lights: the light of glory, sufficient for open vision of what we now believe; the light needed to believe the articles, which is infused faith; and a middle light, clearer than faith and below glory, by which the believables are understood and there is science of them. Although the extreme cognitions, faith and open vision, cannot coexist, the middle cognition, science in the middle light, can coexist with faith, because extremes and a middle conflict less than the extremes do with each other.",
+    "claims": [
+      "(Henry of Ghent) Between the light of faith and the light of glory there is a middle light giving science of the believables.",
+      "(Henry of Ghent) Science in this middle light can coexist with faith, though vision cannot."
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "lumen medium",
+      "light of glory",
+      "light of faith",
+      "theological science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e104",
+        "jm3cbb-e35329-d1e319"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e158": {
+    "summary": "Five conclusions. First, middle science, in Henry's sense, cannot coexist with faith about the same object. Second, of some believed conclusions there can be naturally acquired science, of others not. Third, the blessed know demonstratively conclusions that we believe by faith alone and cannot know naturally. Fourth, some wayfarer knows scientifically and evidently that God is three in persons and one in essence. Fifth, prophets could have evident knowledge of future contingents of which others had only faith, and probably did.",
+    "claims": [
+      "Henry's middle science cannot coexist with faith about the same object.",
+      "Some, but not all, believed conclusions can be known by natural science.",
+      "The blessed demonstratively know what wayfarers only believe.",
+      "Some wayfarer has known the Trinity evidently.",
+      "Prophets could have, and probably had, evident knowledge of future contingents."
+    ],
+    "concepts": [
+      "theological science",
+      "beatific knowledge",
+      "Trinity",
+      "prophecy",
+      "future contingents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e120"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e190": {
+    "summary": "Proof of the first conclusion: no middle light of the kind Henry posits should be admitted, so neither should a science based on it. If it were infused in everyone at baptism, a baptized infant taken among unbelievers could naturally know what we believe by that light and the agent intellect. If it is infused through studying theology, either at the first act of study, with the same result, or gradually, in which case whoever studied much would have much of it. It is also likely that God would give more of it to the devout who pray than to students who pray less, whereas on Henry's view the theologian has science and can defend scripture by this light while the unlearned cannot. So the conclusion's foundation is false, and a theologian devoted to theology does not acquire science through all his lecturing on the sacred canon, but faith.",
+    "claims": [
+      "There is no middle light between faith and glory.",
+      "If such a light were infused at baptism, a baptized child could know the articles without instruction, which is absurd.",
+      "If it were infused through study, it would vary with study rather than devotion, which is implausible.",
+      "The theologian studying scripture acquires faith, not science."
+    ],
+    "concepts": [
+      "lumen medium",
+      "Henry of Ghent",
+      "baptism",
+      "study of theology",
+      "devotion",
+      "theological science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e158",
+        "jm3cbb-e38355-d1e120"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e238": {
+    "summary": "Second argument for the first conclusion: if Socrates had science of 'God is three and one' and an act of faith about it, he would know it evidently and inevidently, which was refuted in distinction 24.",
+    "claims": [
+      "Science and faith of the same proposition cannot coexist, so Henry's middle science is impossible."
+    ],
+    "concepts": [
+      "science and faith",
+      "evident and inevident assent",
+      "distinction 24"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e190",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e251": {
+    "summary": "Proof of the second conclusion. 'God exists' can be known by natural light and proved effectively, with no reasonable evasion; if obscure stubbornness could block a demonstration, there would be very few demonstrations. The second part is clear from 'the day of judgment will come', which is contingent and so not knowable scientifically, since a scientifically knowable proposition is a necessary one apt to be made evident by demonstration.",
+    "claims": [
+      "'God exists' can be demonstrated by natural reason.",
+      "Stubborn resistance does not invalidate a demonstration.",
+      "Contingent propositions are not objects of science, which concerns necessary propositions made evident by demonstration."
+    ],
+    "concepts": [
+      "demonstrability of God",
+      "natural light",
+      "contingent propositions",
+      "definition of science",
+      "day of judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e158"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e271": {
+    "summary": "Proof of the third conclusion. A wayfarer cannot naturally know 'God is three and one', either from intuitive cognition of God, which a wayfarer cannot naturally have, or from abstractive cognition properly so called, like Paul's after his rapture, since that naturally presupposes intuitive cognition, or by an intelligible species or the like. But the blessed know it demonstratively. Supposing that the blessed can form apprehensive concepts as they did in this life, 'God is three and one' is a necessary, doubtable proposition composed of the wayfarer's concepts and can be derived from better-known, prior propositions using the intuitive concepts the blessed have. Let a be the intuitive concept of God the blessed have, so 'a is three and one' is evident to them. Then: every a is three and one; God is a; so God is three and one, with 'God' subordinated to the wayfarer's concept. These premises are better known and prior and naturally cause assent to the necessary conclusion, so the blessed demonstrate it.",
+    "claims": [
+      "Wayfarers cannot naturally know the Trinity, lacking intuitive cognition of God.",
+      "Abstractive cognition of God properly so called naturally presupposes intuitive cognition.",
+      "The blessed can demonstrate 'God is three and one' from their intuitive concept of God."
+    ],
+    "concepts": [
+      "Trinity",
+      "intuitive cognition of God",
+      "abstractive cognition",
+      "beatific knowledge",
+      "demonstration",
+      "subordination of concepts",
+      "rapture of Paul"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e158",
+        "jm3cbb-e29714-d1e575"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e321": {
+    "summary": "Proof of the fourth conclusion from Paul and Moses, who had passing intuitive cognitions of God while wayfarers and afterwards abstractive cognitions properly so called. God can also cause such cognition by infused species representing God singularly. So some believables can be known scientifically both by wayfarers and by the blessed, some only by the blessed, and some by neither.",
+    "claims": [
+      "Paul and Moses had transient intuitive cognitions of God in this life and afterwards abstractive cognitions.",
+      "God can cause evident knowledge of himself through infused species.",
+      "Believables differ in whether they can be known scientifically by wayfarers, only by the blessed, or by neither."
+    ],
+    "concepts": [
+      "Paul",
+      "Moses",
+      "intuitive cognition of God",
+      "infused species",
+      "classification of believables"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e158",
+        "jm3cbb-e38355-d1e271"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e347": {
+    "summary": "Proof of the first part of the fifth conclusion: there is evident judgment of some contingent proposition, such as 'whiteness exists', so there can be evident cognition of any contingent proposition, since there is no more reason for one than another. An objection is raised: evident judgment of a present-tense proposition is caused by intuitive cognition.",
+    "claims": [
+      "There is evident judgment of some contingent propositions, so evident cognition of any contingent proposition is possible.",
+      "(Objection) Evident judgment of present contingents is caused by intuitive cognition, which future contingents lack."
+    ],
+    "concepts": [
+      "future contingents",
+      "evident judgment",
+      "intuitive cognition",
+      "parity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e158"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e357": {
+    "summary": "Rebuttal: if intuitive cognition can cause evident judgment, God can cause it by himself alone, by the principle that whatever God can cause through a secondary cause he can cause by himself. So God can cause evident judgment of a contingent proposition without intuitive cognition.",
+    "claims": [
+      "Whatever God can cause through a secondary cause he can cause by himself alone.",
+      "God can cause evident judgment of a contingent proposition directly."
+    ],
+    "concepts": [
+      "divine omnipotence",
+      "secondary causes",
+      "evident judgment",
+      "intuitive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e347"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e379": {
+    "summary": "Further arguments. If God could not cause evident judgment of a future contingent, it would be because the proposition would then not remain contingent, but that is false: God evidently knows its truth and it remains contingent. Also, there is natural evident judgment of present-tense propositions about contingent things, yet the thing is contingent at the instant or time it exists. So the first part of the conclusion holds. The second part (that it actually happened): God revealed many such truths by himself alone, and God's works are perfect; and the prophets would hardly have stood so firm in what they said without evidence.",
+    "claims": [
+      "Evident knowledge of a future contingent does not destroy its contingency, as God's knowledge shows.",
+      "Present contingents are known evidently while remaining contingent.",
+      "God's revelations to the prophets were probably evident.",
+      "The prophets' steadfastness suggests they had evident knowledge."
+    ],
+    "concepts": [
+      "future contingents",
+      "divine foreknowledge",
+      "contingency",
+      "prophecy",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e357"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e408": {
+    "summary": "Objection to the corollary of the first conclusion (that the theologian acquires no science from studying scripture): scripture proceeds discursively, inferring the unknown from the known. In 1 Corinthians 15 the Apostle infers the resurrection of the dead from Christ's resurrection: if there is no resurrection of the dead, Christ is not risen; if Christ is not risen, our faith is vain; but our faith is not vain and Christ is risen; so the dead will rise.",
+    "claims": [
+      "(Objection) Scripture's discursive reasoning, as in Paul's argument for the resurrection, yields science."
+    ],
+    "concepts": [
+      "scriptural argument",
+      "resurrection",
+      "1 Corinthians 15",
+      "discursive reasoning",
+      "theological science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e190"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e432": {
+    "summary": "Reply: that process is in no way demonstrative, since it proceeds from principles that are only believed. A believer reading the Bible assents equally immediately to all its propositions, not to one because of another. The Church's leading men do acquire many apprehensive and adhesive cognitions of consequences and opinions, and other sciences that help in expounding scripture, by which they expound and defend it and explain its obscure passages, which an unbeliever could also do. But the believer firmly assents to the believables, which the unbeliever does not, and increases his faith.",
+    "claims": [
+      "Scriptural reasoning from believed principles is not demonstrative.",
+      "A believer assents to all scriptural propositions equally immediately, not one on account of another.",
+      "Theologians acquire auxiliary sciences and opinions useful for expounding and defending scripture.",
+      "What distinguishes the believing theologian is firm assent and growth in faith, not science."
+    ],
+    "concepts": [
+      "scriptural argument",
+      "believed principles",
+      "auxiliary sciences",
+      "exegesis",
+      "theological method"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e408"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e458": {
+    "summary": "Objection to the fifth conclusion: prophets foretold things prophetically without knowing in what sense they were true, as Caiaphas said 'it is expedient that one man die for the people' (John 11), not of himself but prophesying as high priest. Caiaphas had no evident judgment, yet prophesied and so was a prophet.",
+    "claims": [
+      "(Objection) Caiaphas prophesied without evident knowledge, so prophecy does not require evidence."
+    ],
+    "concepts": [
+      "Caiaphas",
+      "prophecy",
+      "evident judgment",
+      "John 11"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e379"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e482": {
+    "summary": "Reply: a prophet properly speaking must both utter a prophetic word and understand the sense in which it is to be understood, since 'understanding is needed in a vision' (Daniel 10). Someone who is told something unknown without understanding its sense is a prophet only in a loose sense, like Pharaoh with his dream of the ears of grain (Genesis 41) or Belshazzar seeing the hand writing on the wall. Joseph and Daniel were true prophets.",
+    "claims": [
+      "A prophet in the proper sense understands the sense of the revelation.",
+      "Those who receive revelations without understanding them are prophets only loosely."
+    ],
+    "concepts": [
+      "prophecy",
+      "understanding",
+      "Caiaphas",
+      "Pharaoh",
+      "Belshazzar",
+      "Joseph",
+      "Daniel"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e458"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e508": {
+    "summary": "Second objection: Solomon had prophecy yet lacked evident judgments about what he knew. God poured into him great wisdom and knowledge (1 Kings 4), but his many cognitions of animals and plants were apprehensive, not judicative, and so not evidences.",
+    "claims": [
+      "(Objection) Solomon's infused knowledge was prophetic but not evident."
+    ],
+    "concepts": [
+      "Solomon",
+      "infused knowledge",
+      "prophecy",
+      "apprehension and judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e379"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e525": {
+    "summary": "Reply: prophecy is a judgment that does not remain permanently but exists when God actually infuses it, which he does when he pleases, more commonly when the prophet is well disposed. So Elisha asked for a minstrel to dispose himself to prophesy (2 Kings 3). Solomon's knowledge of plants and animals was not prophecy but habitual apprehensive and judicative knowledge infused supernaturally, like the species concreated in Adam, whereas prophetic knowledge is an actual judgment. Still, God could, if he wished, infuse inevident as well as evident judgments into prophets' minds.",
+    "claims": [
+      "Prophecy is an actual, non-permanent judgment infused by God when he wills.",
+      "A good disposition commonly prepares for prophecy.",
+      "Solomon's knowledge was infused habitual knowledge, like Adam's concreated species, not prophecy.",
+      "God could infuse inevident as well as evident prophetic judgments."
+    ],
+    "concepts": [
+      "prophecy",
+      "actual judgment",
+      "Elisha",
+      "Solomon",
+      "Adam",
+      "infused habitual knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e508"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e554": {
+    "summary": "A final doubt on the whole treatise on faith: is it reasonable to believe firmly the propositions of faith? Objection: such a believer casts away natural reason by firmly assenting only because of probable reasons, and so is imprudent and believes too lightly ('he who believes quickly is light of heart', Sirach). Probable reasons should only move one to assent probably. The opposite is true, as the three distinctions have shown.",
+    "claims": [
+      "(Objection) Firm assent on merely probable grounds is imprudent and abandons natural reason.",
+      "Firm belief in the articles is reasonable."
+    ],
+    "concepts": [
+      "rationality of faith",
+      "probable reasons",
+      "imprudence",
+      "credulity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e34144-d1e305"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e38355-d1e578": {
+    "summary": "Reply: Mair denies that a believer casts away natural reason. Just as I believe that Rome is in Italy only on the testimony of honest people, no one assents to believables unless most reasonably moved, as explained more fully in Book IV, prologue, question 3.",
+    "claims": [
+      "Faith does not abandon natural reason.",
+      "Belief on reliable testimony is rational, as with believing Rome is in Italy.",
+      "No one assents to the articles of faith unless moved most reasonably."
+    ],
+    "concepts": [
+      "rationality of faith",
+      "testimony",
+      "natural reason",
+      "credibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e38355",
+        "jm3cbb-e38355-d1e554"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

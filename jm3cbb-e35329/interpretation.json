@@ -1,0 +1,947 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:04:35Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e35329.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e35329": {
+    "summary": "The single question of distinction 24 asks, following the Master, whether science and faith (and, Mair adds, opinion) can coexist in the same intellect about the same object. Taking 'science' broadly as any evidence, defined as a fearless assent caused purely naturally through which the intellect cannot naturally be deceived, Mair gives five conclusions. A scientific act can coexist with a habit of faith or opinion, as an act of temperance coexists with the opposite habit. By God's absolute power, scientific acts can coexist with acts of faith or opinion, since God can join any contraries in one subject. Naturally, a scientific act cannot coexist with an act of faith or opinion about the same complex object (Posterior Analytics I). Naturally, the habits are likewise incompatible, since habits conflict exactly when their acts do. Infused faith is compatible with science of the same proposition, since a demonstration of 'God exists' does not cost the believer infused faith. Replies to objections clarify that a scientific act corrupts acquired faith before generating a scientific habit, that contrary incomplex qualities do not entail contradictions, and that one matter informed by human and asinine forms would not make a man an ass. Against the argument that opinion's 'fear' can be argued away (which would make opinion and science one species), evidence is stronger than topical reasons as a cause. Thomas, the apostles at the Ascension, and the Virgin saw Christ's humanity but believed what concerned his divinity. A properly disposed sense does not err about its proper object. A conjunction takes on the assent of its weaker part. Self-referential and modal puzzles are resolved logically.",
+    "claims": [
+      "Evidence is a fearless assent caused purely naturally through which the intellect cannot naturally be deceived.",
+      "A scientific act can coexist with a habit of faith or opinion about the same object.",
+      "By absolute power, God can make scientific and faith or opinion acts coexist in one intellect about one object.",
+      "Naturally, acts of science and of faith or opinion about the same complex object are incompatible.",
+      "Habits conflict exactly when their acts conflict.",
+      "Infused faith is compatible with science of the same proposition.",
+      "A scientific act generates a scientific habit only after it has corrupted the acquired habit of faith.",
+      "Contrary incomplex qualities can coexist without contradiction.",
+      "Evidence is a stronger cause than topical reasons and prevails over them.",
+      "Witnesses of Christ saw his humanity evidently but believed by faith what concerned his divinity.",
+      "A conjunction takes on the assent of its weaker part, a disjunction that of its stronger part."
+    ],
+    "concepts": [
+      "science and faith",
+      "opinion",
+      "evidence",
+      "compatibility of assents",
+      "absolute power",
+      "contrariety",
+      "infused faith",
+      "fear in opinion",
+      "sense perception",
+      "Thomas the apostle",
+      "conjunction and disjunction",
+      "insolubles",
+      "modal propositions"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e35329-d1e104",
+        "jm3cbb-e35329-d1e152",
+        "jm3cbb-e35329-d1e185",
+        "jm3cbb-e35329-d1e215",
+        "jm3cbb-e35329-d1e259",
+        "jm3cbb-e35329-d1e303",
+        "jm3cbb-e35329-d1e319",
+        "jm3cbb-e35329-d1e337",
+        "jm3cbb-e35329-d1e350",
+        "jm3cbb-e35329-d1e362",
+        "jm3cbb-e35329-d1e375",
+        "jm3cbb-e35329-d1e386",
+        "jm3cbb-e35329-d1e393",
+        "jm3cbb-e35329-d1e402",
+        "jm3cbb-e35329-d1e418",
+        "jm3cbb-e35329-d1e439",
+        "jm3cbb-e35329-d1e459",
+        "jm3cbb-e35329-d1e468",
+        "jm3cbb-e35329-d1e514",
+        "jm3cbb-e35329-d1e525",
+        "jm3cbb-e35329-d1e541",
+        "jm3cbb-e35329-d1e547",
+        "jm3cbb-e35329-d1e578",
+        "jm3cbb-e35329-d1e594",
+        "jm3cbb-e35329-d1e614",
+        "jm3cbb-e35329-d1e625",
+        "jm3cbb-e35329-d1e656",
+        "jm3cbb-e35329-d1e666",
+        "jm3cbb-e35329-d1e682",
+        "jm3cbb-e35329-d1e724",
+        "jm3cbb-e35329-d1e746",
+        "jm3cbb-e35329-d1e779",
+        "jm3cbb-e35329-d1e790",
+        "jm3cbb-e35329-d1e809",
+        "jm3cbb-e35329-d1e820",
+        "jm3cbb-e35329-d1e840",
+        "jm3cbb-e35329-d1e853",
+        "jm3cbb-e35329-d1e862",
+        "jm3cbb-e35329-d1e875"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e104": {
+    "summary": "Statement of the question and definitions. The Master asks in distinction 24 whether science and faith can coexist in the same intellect about the same object, and Mair adds opinion. 'Faith' is taken properly. 'Science' is taken not narrowly, as in Aristotle's Posterior Analytics I (judicative cognition of a necessary proposition acquired by demonstration), but broadly for any evidence including science proper. Evidence is defined as a fearless assent caused by purely natural causes through which the intellect cannot naturally be deceived. Absolute evidence further includes that the intellect cannot be deceived in any way, and the general definition covers both natural and absolute evidence. Whether God can cause evidence of 'Antichrist will come' is deferred to distinction 25, last question.",
+    "claims": [
+      "'Science' here includes any evidence, not only demonstrative knowledge.",
+      "Evidence is a fearless assent caused purely naturally through which the intellect cannot naturally be deceived.",
+      "Absolute evidence excludes any possibility of deception; natural evidence excludes only natural deception."
+    ],
+    "concepts": [
+      "science",
+      "faith",
+      "opinion",
+      "evidence",
+      "natural evidence",
+      "absolute evidence",
+      "Posterior Analytics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e152": {
+    "summary": "Five conclusions. First, a scientific act can coexist with a habit of faith or opinion, and conversely. Second, by God's absolute power a scientific act can coexist with an act of faith or opinion. Third, naturally a scientific act cannot coexist with an act of faith or opinion about the same complex or proximate object. Fourth, naturally a scientific habit cannot coexist in the same intellect with a habit of believing or opining about the same complex object. Fifth, the infused habit of faith can coexist with a habit of science about the same complex object.",
+    "claims": [
+      "A scientific act can coexist with a habit of faith or opinion.",
+      "By absolute power, scientific acts can coexist with acts of faith or opinion.",
+      "Naturally, a scientific act cannot coexist with an act of faith or opinion about the same complex object.",
+      "Naturally, scientific and faith or opinion habits about the same complex object are incompatible.",
+      "Infused faith can coexist with a habit of science about the same object."
+    ],
+    "concepts": [
+      "compatibility of acts and habits",
+      "science",
+      "faith",
+      "opinion",
+      "infused faith",
+      "absolute power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e185": {
+    "summary": "Proof of the first conclusion: an act of temperance coexists with the opposite habit of intemperance, so a scientific act can coexist with a habit of faith or opinion, since contrariety or its absence holds equally in both cases. Someone intemperate in eating, drinking, or worse who detests the vice and elicits a temperate act still feels weighed down and inclined to the opposite, which can only be due to a habit inclining the other way when the intellect presents that matter to the will.",
+    "claims": [
+      "An act can coexist with a habit inclining to its opposite.",
+      "A repentant person's continuing inclination to vice shows that the contrary habit persists during the virtuous act."
+    ],
+    "concepts": [
+      "act and habit",
+      "temperance",
+      "intemperance",
+      "contrary habit",
+      "repentance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e152",
+        "jm3cbb-e31916-d1e345"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e215": {
+    "summary": "Proof of the second conclusion: if the acts were incompatible, it would be because they are contrary, but God can place any contrary qualities in the same subject, such as weak heat and weak cold, as a probable and fairly common view holds. Mair adds that if some individual can coexist with a given individual, then any individual of that species can coexist with it by God's absolute power. Against the example of love of Socrates coexisting with hatred of Plato but not with hatred of Socrates, which is of the same species, he replies that this holds naturally, but by absolute power they can coexist.",
+    "claims": [
+      "God can place any contraries in the same subject.",
+      "If one individual of a species can coexist with something, any individual of that species can by absolute power.",
+      "Love and hatred of the same person can coexist by God's absolute power."
+    ],
+    "concepts": [
+      "absolute power",
+      "contraries",
+      "coexistence",
+      "species and individual",
+      "love and hatred"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e152"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e259": {
+    "summary": "Proof of the third conclusion from Aristotle (Posterior Analytics I): the same thing cannot be simultaneously known and opined. If Socrates had science of conclusion a, he would assent evidently, and with faith or opinion, inevidently, and with opinion and science he would assent firmly and not firmly. An opponent replies that these consequences are not really incompatible: Socrates may assent by one evident assent and by another inevident one, and it does not follow that he assents to a inevidently and therefore not evidently, only that by some assent he does not assent evidently. So no contrariety or contradiction can be drawn.",
+    "claims": [
+      "The same thing cannot naturally be simultaneously known and opined.",
+      "(Opponent) Evident and inevident assents to the same proposition by different acts involve no contradiction."
+    ],
+    "concepts": [
+      "Posterior Analytics",
+      "science and opinion",
+      "evident and inevident assent",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e152"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e303": {
+    "summary": "Against the opponent's reply: it would follow that one could assent to a first principle with a fearful assent, since a clear and evident judgment does not drive a dark assent out of the intellect (as was just said about science), so the same would hold for understanding of principles.",
+    "claims": [
+      "If evident and inevident assents could coexist, one could hold a first principle with fear, which is absurd."
+    ],
+    "concepts": [
+      "first principles",
+      "fearful assent",
+      "evidence",
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e319": {
+    "summary": "Second argument against the opponent: it contradicts the Apostle (1 Corinthians 13: when the perfect comes, the partial will pass away) and Hebrews 11 (faith is the argument of things not seen), with the gloss that faith is of things unseen, since of things seen there is knowledge, not faith. Henry of Ghent holds a different view, to be examined in distinction 25, last question.",
+    "claims": [
+      "Faith concerns what is not seen; of what is seen there is knowledge, not faith.",
+      "The arrival of perfect knowledge removes the partial knowledge of faith."
+    ],
+    "concepts": [
+      "faith and vision",
+      "1 Corinthians 13",
+      "Hebrews 11",
+      "Henry of Ghent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e337": {
+    "summary": "Proof of the fourth conclusion: some habits conflict with each other (Ethics II), and only habits whose acts conflict do so. If the acts are compatible, so are the habits; if incompatible, the habits are too.",
+    "claims": [
+      "Habits are incompatible exactly when their acts are incompatible."
+    ],
+    "concepts": [
+      "incompatibility of habits",
+      "act and habit",
+      "Ethics II"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e152"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e350": {
+    "summary": "Proof of the fifth conclusion: if a demonstration proving 'God exists' is presented to a believer with infused faith, the believer does not sin, and infused faith is never lost in this life without demerit. So infused faith coexists with science of the same proposition.",
+    "claims": [
+      "Receiving a demonstration of an article of faith is not sinful.",
+      "Infused faith is lost in this life only through demerit.",
+      "Infused faith coexists with demonstrative knowledge of the same proposition."
+    ],
+    "concepts": [
+      "infused faith",
+      "demonstration",
+      "God exists",
+      "demerit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e152"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e362": {
+    "summary": "Objection to the first conclusion: a scientific act coexists with habitual faith, and a scientific act generates a scientific habit, so scientific and faith habits would coexist, against the fourth conclusion.",
+    "claims": [
+      "(Objection) Since a scientific act generates a scientific habit, the coexistence of act and faith-habit implies coexistence of the habits."
+    ],
+    "concepts": [
+      "generation of habit",
+      "science",
+      "faith",
+      "compatibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e185",
+        "jm3cbb-e35329-d1e337"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e375": {
+    "summary": "Reply: the act does not generate a scientific habit until it has corrupted the whole habit of acquired faith, and once that is corrupted it introduces the scientific habit, so that the first instant of the earlier habit's non-being is the first instant of the later habit's being.",
+    "claims": [
+      "A scientific act first corrupts acquired faith entirely and only then generates a scientific habit.",
+      "The first instant of the old habit's non-being is the first instant of the new habit's being."
+    ],
+    "concepts": [
+      "corruption by generation",
+      "first and last instants",
+      "acquired faith",
+      "scientific habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e362"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e386": {
+    "summary": "Objection to the second conclusion: if contraries are true together, contradictories are true together (Metaphysics IV).",
+    "claims": [
+      "(Objection) The coexistence of contraries implies contradictions."
+    ],
+    "concepts": [
+      "contraries",
+      "contradictories",
+      "Metaphysics IV"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e215"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e393": {
+    "summary": "Second objection: by the same reasoning God could inform numerically the same matter with the forms of an ass and of a man, and then a man would be an ass, which is impossible.",
+    "claims": [
+      "(Objection) If God can join any contraries, one matter could have human and asinine forms, making a man an ass."
+    ],
+    "concepts": [
+      "plurality of forms",
+      "absolute power",
+      "matter and form",
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e215"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e402": {
+    "summary": "Reply to the first: contradictories do not follow from contrary incomplex things being 'true' (present together), though they do follow from contrary propositions being true. What Aristotle thought here is not decisive, since a believing philosopher attributes greater power to God than a pagan one.",
+    "claims": [
+      "The coexistence of contrary qualities does not entail contradiction; only contrary propositions being true does.",
+      "A Christian philosopher ascribes greater power to God than Aristotle did."
+    ],
+    "concepts": [
+      "contraries",
+      "contradictories",
+      "complex and incomplex",
+      "Christian philosophy",
+      "divine power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e386"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e418": {
+    "summary": "Reply to the second: Mair grants that the same matter could be informed by two forms however disparate, but it does not follow that a man is an ass, which is impossible except by communication of idioms. The triad of matter and two forms is neither man nor ass, but the pair of intellectual soul and matter is a man, the other pair is an ass, and the triad is man and ass conjunctively.",
+    "claims": [
+      "God can inform the same matter with two disparate substantial forms.",
+      "Even so, no man would be an ass, except by communication of idioms.",
+      "The composite of matter with each form is a distinct whole; the triad is man-and-ass only conjunctively."
+    ],
+    "concepts": [
+      "plurality of forms",
+      "communicatio idiomatum",
+      "composite",
+      "absolute power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e393"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e439": {
+    "summary": "Objection to the third conclusion, a common argument whose correct solution is not common. If science and opinion are incompatible, it is because opinion carries fear, but this need not be so. That fear is finite, say eight degrees. A topical argument destroying one degree leaves seven.",
+    "claims": [
+      "(Objection) If opinion's fear can be reduced degree by degree through arguments, fear is not essential to opinion."
+    ],
+    "concepts": [
+      "fear in opinion",
+      "degrees",
+      "topical arguments",
+      "science and opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e459": {
+    "summary": "Possible reply: in that case fear increases, since the opinion or assent increases and the assent is the fear.",
+    "claims": [
+      "(Reply) Strengthening the opinion strengthens its fear, since they are the same."
+    ],
+    "concepts": [
+      "fear in opinion",
+      "identity of opinion and fear"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e439"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e468": {
+    "summary": "Rebuttal: even though fear is identical with opinion (which Mair thinks true), the same thing can increase as opining and decrease as fear, as said at the start of Book III about likeness being intensified and remitted. Even if one posits, unreasonably, that fear is a property naturally following opinion, the argument still works, since the assent decreases in its being as fear, and anyway there is no such distinction between a property and its subject. Then the first topical argument removes one degree of fear, and each of the seven following arguments, being an equally active natural agent meeting no greater (indeed less) resistance, removes as much, so the eighth leaves no fear.",
+    "claims": [
+      "Fear is identical with opinion.",
+      "One reality can increase under one description and decrease under another.",
+      "There is no real distinction between a property and its subject.",
+      "Repeated equally strong arguments would eliminate opinion's fear entirely."
+    ],
+    "concepts": [
+      "fear in opinion",
+      "identity",
+      "property and subject",
+      "degrees",
+      "resistance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e459"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e514": {
+    "summary": "Possible reply: each of these arguments brings its own fear, since it produces an opinative assent, so the fear is not wholly extinguished, because new fear is introduced.",
+    "claims": [
+      "(Reply) Each topical argument produces new fear along with its opinion."
+    ],
+    "concepts": [
+      "fear in opinion",
+      "topical arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e468"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e525": {
+    "summary": "Rebuttal: then all the fear identical with the preceding opinion is removed, so some partial opinion has its fear wholly removed, and if any partial or total opinion can be purged of fear, it is not essential to opinion to have fear attached.",
+    "claims": [
+      "If any opinion can be wholly purged of fear, fear is not essential to opinion."
+    ],
+    "concepts": [
+      "essence of opinion",
+      "fear"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e514"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e541": {
+    "summary": "Possible reply: then it would no longer be opinion but science.",
+    "claims": [
+      "(Reply) An opinion purged of fear becomes science."
+    ],
+    "concepts": [
+      "opinion",
+      "science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e525"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e547": {
+    "summary": "Rebuttal: then science and opinion about the same object would be of the same lowest species, and likewise error, faith, science, understanding, and wisdom, against every sound school. The same argument can show that faith and opinion are compatible, since their incompatibility would rest on faith's certainty and opinion's fear. Mair refers to his answer in the prologue to Book I.",
+    "claims": [
+      "If opinion could turn into science by losing fear, science and opinion would share a species, contrary to the schools.",
+      "The same reasoning would threaten the distinction of faith and opinion."
+    ],
+    "concepts": [
+      "species of assents",
+      "science",
+      "opinion",
+      "faith",
+      "error",
+      "Book I prologue"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e541"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e578": {
+    "summary": "Second objection: the productive causes of science and opinion remain together, so science and opinion do too, since when causes do not conflict their effects do not. The argument applies to faith and opinion even more plausibly, since the same topical motive partly concurs in producing both.",
+    "claims": [
+      "(Objection) Compatible causes produce compatible effects.",
+      "(Objection) The same topical reason partly causes both opinion and faith."
+    ],
+    "concepts": [
+      "causes and effects",
+      "compatibility",
+      "topical reasons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e594": {
+    "summary": "Reply: the inference is denied. Heat and water coexist, yet the effect of water's form, cold, is incompatible with heat. Conversely, sometimes causes are contrary while effects are not, as species of white and black coexist in the same medium. So one cannot argue sufficiently from the contrariety of causes to that of effects, or the reverse.",
+    "claims": [
+      "Compatible causes can have incompatible effects.",
+      "Contrary causes can have compatible effects.",
+      "One cannot infer contrariety of effects from that of causes, or the reverse."
+    ],
+    "concepts": [
+      "causes and effects",
+      "contrariety",
+      "species in the medium"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e578"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e614": {
+    "summary": "Rejoinder: these are natural causes, so either neither acts, which is unfitting, or since there is no more reason for one than the other, both produce their effects, and science and opinion coexist.",
+    "claims": [
+      "(Objection) Of two co-present natural causes, both must act, so their effects must coexist."
+    ],
+    "concepts": [
+      "natural causes",
+      "sufficient reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e594"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e625": {
+    "summary": "Reply: they are natural causes, and the stronger produces its effect if the other offers less resistance, and evidence is more vigorous. If the cause of opinion were so strong that a weak assent to demonstrative premises exactly matched the topical argument, perhaps the intellect would side more with the demonstration's premises, since it is more perfected by evidence than by inevidence, and it concurs actively with both. Whatever the answer to that extrinsic difficulty, it suffices for the conclusion that the two effects are not produced together in the same intellect.",
+    "claims": [
+      "Of competing natural causes, the stronger prevails when it meets less resistance.",
+      "Evidence is more vigorous than topical reasons.",
+      "The intellect is more perfected by evidence than by inevidence and inclines toward it."
+    ],
+    "concepts": [
+      "competing causes",
+      "evidence",
+      "resistance",
+      "intellect's concurrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e614"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e656": {
+    "summary": "Third objection: Christ said to Thomas, 'because you have seen me, Thomas, you have believed' (John 20). Judgment caused by intuitive cognition is evident assent, yet it coexisted with faith.",
+    "claims": [
+      "(Objection) Thomas's evident sight coexisted with faith about the same thing."
+    ],
+    "concepts": [
+      "Thomas the apostle",
+      "intuitive cognition",
+      "faith and vision",
+      "John 20:29"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e666": {
+    "summary": "Fourth objection: 'Christ ascended into heaven' is an article of faith, yet the disciples saw it (Acts 1), and since it is an article they believed it. Similarly the Blessed Virgin knew by experience that she conceived without male seed, yet this is an article of faith for her as for us.",
+    "claims": [
+      "(Objection) The apostles saw the Ascension and the Virgin experienced the virginal conception, yet both are articles of faith for them."
+    ],
+    "concepts": [
+      "Ascension",
+      "virginal conception",
+      "Blessed Virgin",
+      "articles of faith",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e682": {
+    "summary": "Reply: Thomas saw Christ's humanity, about which he did not then have an actual assent of faith, but he assented to 'this is Christ', with the pronoun pointing to the second divine person. So he believed one thing by actual assent and had evident judgment of another, and his sight was the cause by which he came to the assent of faith. Likewise, the disciples did not see Christ ascend, since Christ (the divine person) does not fall under sense; they saw the humanity ascend and assented by faith that Christ ascended, knowing by faith that this was Christ. Nor does it follow that because we assent by faith to 'Christ's humanity ascended', the apostles did too. They knew it evidently by seeing, and afterwards, with the species or habit remaining, knew it without the assent of faith, as I know my father existed. The same reply applies to the fourth argument and to the raising of Lazarus and others, which the disciples saw and we believe.",
+    "claims": [
+      "Thomas saw Christ's humanity evidently and believed by faith that this was the divine person.",
+      "Sight can be a cause leading to an assent of faith about something else.",
+      "The apostles saw the humanity ascend but believed that it was Christ.",
+      "What eyewitnesses knew evidently is believed by later Christians."
+    ],
+    "concepts": [
+      "Thomas the apostle",
+      "humanity of Christ",
+      "divine person",
+      "Ascension",
+      "eyewitness knowledge",
+      "demonstrative pronoun",
+      "Lazarus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e656",
+        "jm3cbb-e35329-d1e666"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e724": {
+    "summary": "Rejoinder: sensory and intuitive vision of a thing does not necessarily determine the intellect to assent to it, so they could still actually believe. When the disciples saw Christ walking on the sea they feared, saying 'it is a ghost' (Matthew 14). A cognition that does not determine and captivate the intellect does not exclude the act of faith about that thing.",
+    "claims": [
+      "(Objection) Seeing does not necessitate assent, as the disciples on the lake show, so vision does not exclude faith."
+    ],
+    "concepts": [
+      "sense perception",
+      "necessitation of assent",
+      "Christ walking on water",
+      "faith and vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e682"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e746": {
+    "summary": "Reply: sight that is well disposed, with its object suitably near and the medium well disposed, is not deceived about its proper object (On the Soul II), whether colour or the incidental object, since sight does not judge and so is not deceived. Otherwise you could not be certain that the person you saw yesterday and have lived with all your life is Socrates or a man, which is absurd. In the walking-on-water case it was night, so the medium was not well disposed, or Christ was far off. That did not happen with the Ascension, the raising of the dead, or the Passion, which they saw with their own eyes.",
+    "claims": [
+      "Properly disposed sight, with a suitable object and medium, is not deceived about its proper object.",
+      "Sight does not judge and so is not strictly deceived.",
+      "Denying the reliability of well-conditioned sight would destroy everyday certainty about familiar persons.",
+      "At the walking on the sea the conditions for reliable sight were absent."
+    ],
+    "concepts": [
+      "sense perception",
+      "proper and incidental objects",
+      "conditions of perception",
+      "certainty",
+      "On the Soul II"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e724"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e779": {
+    "summary": "Fifth objection: take a conjunction one part of which Socrates knows and the other Plato believes. Then Socrates and Plato know and believe this conjunction, so the same thing is known and believed by them.",
+    "claims": [
+      "(Objection) A conjunction of a known and a believed part is both known and believed."
+    ],
+    "concepts": [
+      "conjunction",
+      "science and faith",
+      "collective predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e790": {
+    "summary": "Reply: although the same conjunction is known and believed by Socrates and Plato taken together, it is not the case that the same proposition is known and believed by one and the same person naturally, absent a miracle. If someone were in two places by God's power, they could naturally have contrary judgments, but that presupposes a miracle.",
+    "claims": [
+      "The same proposition cannot naturally be both known and believed by one person.",
+      "Collective predication over two persons does not show coexistence in one intellect."
+    ],
+    "concepts": [
+      "collective predication",
+      "multilocation",
+      "miracle",
+      "contrary judgments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e779"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e809": {
+    "summary": "Sixth objection: let Socrates have faith of one part of a conjunction and science of the other. These cognitions produce science of the whole conjunction, so faith and science coexist about the same thing.",
+    "claims": [
+      "(Objection) Science of a conjunction can coexist with faith of one of its parts."
+    ],
+    "concepts": [
+      "conjunction",
+      "science and faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e820": {
+    "summary": "Reply: it is probable that there is one assent to the whole conjunction produced by the assents to the parts, but that third assent follows the weaker part, as a conjunction always does. So it is faith and in no way science, and science is had only of a part. So science and faith are not of the same thing. A disjunction is the opposite: it follows the stronger part, both for truth and for the denomination of the judgment.",
+    "claims": [
+      "Assent to a conjunction follows its weaker part.",
+      "Assent to a disjunction follows its stronger part.",
+      "Science is of the known part only, faith of the whole conjunction."
+    ],
+    "concepts": [
+      "conjunction",
+      "disjunction",
+      "weaker part",
+      "assent",
+      "denomination of judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e809"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e840": {
+    "summary": "Seventh objection: 'this is doubtful to Socrates', where 'this' points to the proposition of which it is part. Since its being as it signifies entails its being doubtful to Socrates, and Socrates knows things are as it signifies, it would be known by him.",
+    "claims": [
+      "(Objection) A self-referential proposition could be both doubtful to and known by the same person."
+    ],
+    "concepts": [
+      "self-reference",
+      "insolubles",
+      "doubt",
+      "knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e853": {
+    "summary": "Eighth objection: 'some star is above me' is known by Socrates in broad daylight and is doubtful to him, since he knows no star to be above him.",
+    "claims": [
+      "(Objection) 'Some star is above me' is known and also doubtful, since no particular star is known to be above."
+    ],
+    "concepts": [
+      "modal propositions",
+      "composite and divided sense",
+      "knowledge",
+      "doubt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e862": {
+    "summary": "Reply to the seventh: Mair grants that the proposition is doubtful to Socrates and denies that it is known by him. It does not follow that because he knows things are as it signifies it is known by him, as is clear with 'this is unknown', pointing to the proposition of which it is part.",
+    "claims": [
+      "Knowing that things are as a proposition signifies does not entail knowing that proposition, in self-referential cases."
+    ],
+    "concepts": [
+      "self-reference",
+      "insolubles",
+      "signification",
+      "knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e840"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e35329-d1e875": {
+    "summary": "Reply to the eighth: Mair grants that 'some star is above me' is known, and also grants 'no star do I know to be above me'. One is a true divided modal that stands with the other, a composite modal. 'I know some star to be above me' does not entail 'some star I know to be above me'.",
+    "claims": [
+      "Composite and divided modal propositions about knowledge can both be true without conflict.",
+      "'I know that some star is above me' does not entail 'of some star I know that it is above me'."
+    ],
+    "concepts": [
+      "modal propositions",
+      "sensus compositus",
+      "sensus divisus",
+      "de dicto and de re",
+      "epistemic logic"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e35329",
+        "jm3cbb-e35329-d1e853"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

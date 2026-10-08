@@ -1,0 +1,363 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:06:55Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e36965.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e36965": {
+    "summary": "The second question of distinction 25 asks whether all the articles to be believed explicitly are contained in the Apostles' Creed. Mair first explains 'article' (Richard's definition: what binds everyone to believe) and 'symbolum' (from 'sym' plus 'bolus', each apostle contributing a morsel). He prefers dividing the articles by their content rather than by the twelve apostles: seven concern the Godhead (unity of nature, the three persons, and the three works proper to God, namely creation, justification, and beatification) and seven concern Christ's humanity (conception, birth, passion, descent, resurrection, ascension, coming to judgment). He explains why the apostles arranged them otherwise, for the simple's understanding and memory, following the order of persons and of time. Which apostle contributed which phrase is uncertain and should not be asserted, though they probably proceeded by rank beginning with Peter. Paul and Barnabas contributed nothing, and the Nicene and Athanasian creeds expand the Apostles' Creed against later heresies. Mair answers that many things must be believed that are not in the Creed: prelates must know more, and even the simple must explicitly believe things not formally in it, such as Christ's presence in the Eucharist, the necessity of baptism, and the procession of the Spirit from Father and Son. Against the objection that this lets the Church create articles, he argues that a conciliar determination makes a previously disputable proposition certain and binding, not by human will but because God illumines the Church about scripture's sense; the proposition was always true. A council's declaration of its own legitimacy is likewise of faith. Finally, 'God exists' is given as an article although demonstrable, because the uneducated multitude cannot know it by reason.",
+    "claims": [
+      "An article of faith is what binds everyone in common to believe.",
+      "The articles are best divided by their content: seven about God and seven about Christ's humanity.",
+      "Creation, justification, and beatification are works proper to God alone.",
+      "The apostles arranged the Creed for the simple's understanding and memory, following the order of persons and of time.",
+      "Which apostle composed which phrase of the Creed is uncertain and should not be stated as certain.",
+      "Many things must be believed explicitly that are not formally in the Apostles' Creed.",
+      "The Church's determination makes a disputed proposition certain and binding, but does not make it true or create it as an article.",
+      "A proposition becomes an article because the Holy Spirit reveals its truth to the Church, not because of human will.",
+      "A legitimate council's declaration of its own legitimacy is of faith.",
+      "'God exists' is proposed as an article because the multitude cannot know it by natural reason."
+    ],
+    "concepts": [
+      "articles of faith",
+      "Apostles' Creed",
+      "symbolum",
+      "Trinity",
+      "works proper to God",
+      "Christ's humanity",
+      "order of the Creed",
+      "Nicene Creed",
+      "Athanasian Creed",
+      "Eucharist",
+      "filioque",
+      "ecclesial determination",
+      "councils",
+      "demonstrability of God"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e36965-d1e104",
+        "jm3cbb-e36965-d1e117",
+        "jm3cbb-e36965-d1e161",
+        "jm3cbb-e36965-d1e279",
+        "jm3cbb-e36965-d1e316",
+        "jm3cbb-e36965-d1e472",
+        "jm3cbb-e36965-d1e485",
+        "jm3cbb-e36965-d1e505",
+        "jm3cbb-e36965-d1e575",
+        "jm3cbb-e36965-d1e652",
+        "jm3cbb-e36965-d1e694",
+        "jm3cbb-e36965-d1e703"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e104": {
+    "summary": "Statement of the second question on distinction 25: whether all the articles to be believed explicitly are placed in the Apostles' Creed.",
+    "claims": [],
+    "concepts": [
+      "articles of faith",
+      "Apostles' Creed",
+      "explicit faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36120-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e117": {
+    "summary": "Preliminaries. An article, as Richard says, is something that binds everyone in common to believe. 'Symbolum' comes from 'sym' ('with') and 'bolus' ('morsel'), because each of the twelve apostles contributed a morsel of the articles. How to number and divide them is difficult. Some posit twelve articles because twelve apostles composed them, but it is better to divide them by their content. That order makes them easier to remember, and the order in which the apostles contributed is disputed and is a question of fact not contained in the faith. Who added which phrase is neither certain nor worth worrying about, since all were taught by the Holy Spirit and were its instruments and scribes in composing the Creed.",
+    "claims": [
+      "An article of faith binds everyone in common to believe it.",
+      "'Symbolum' signifies a collection of morsels contributed by the apostles.",
+      "The articles should be divided by content rather than by the number of apostles.",
+      "Which apostle contributed which phrase is a question of fact outside the faith and is uncertain.",
+      "The apostles composed the Creed as instruments of the Holy Spirit."
+    ],
+    "concepts": [
+      "article of faith",
+      "symbolum",
+      "etymology",
+      "Richard of Middleton",
+      "division of the articles",
+      "Holy Spirit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e161": {
+    "summary": "Seven articles concern the Godhead in itself, considering its nature (unity), its persons (trinity), and its proper operations in creatures (threefold). Four concern God's intrinsic being without relation to creatures: 'I believe in one God' (one, not many), then the Father almighty, Jesus Christ his only Son our Lord, and the Holy Spirit, in the order of origin. Three concern God's works proper to him alone: creating, justifying, beatifying. Only God creates (though some, without sufficient proof, give creatures creation of minute things, as discussed in Book IV d.1), only God justifies by remitting sins, and only God beatifies by giving eternal life; the blessed concur but do not beatify themselves, since God gives himself and infuses the light of glory without which God cannot be seen. 'Creator of heaven and earth' expresses creation. 'The holy catholic Church, the communion of saints, the forgiveness of sins' expresses justification, meaning God sanctifies the Church in which there is communion of saints and forgiveness, since remission of sins, infusion of grace, and communion of saints concur in justifying the wicked, and charity makes all things common. 'The resurrection of the flesh and eternal life' expresses beatification.",
+    "claims": [
+      "Seven articles concern God: four concern his intrinsic being and three his proper works in creatures.",
+      "Creation, justification, and beatification belong to God alone.",
+      "The blessed concur in their beatitude but do not beatify themselves; God gives the light of glory.",
+      "Justification involves remission of sins, infusion of grace, and the communion of saints.",
+      "Through the communion of saints the justified share in the goods of all the saints."
+    ],
+    "concepts": [
+      "unity of God",
+      "Trinity",
+      "order of origin",
+      "creation",
+      "justification",
+      "beatification",
+      "communion of saints",
+      "light of glory",
+      "Apostles' Creed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e117"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e279": {
+    "summary": "Seven further articles concern Christ in his assumed nature: the incarnation ('conceived by the Holy Spirit'), his virgin birth ('born of the Virgin Mary'), the passion, which comprises crucifixion, death, and burial as one article ('suffered under Pontius Pilate, was crucified, died and was buried'), the descent into hell, the resurrection on the third day, the ascension and session at the Father's right hand, and the coming to judge the living and the dead.",
+    "claims": [
+      "Seven articles concern Christ's human nature.",
+      "Crucifixion, death, and burial form a single article of the passion."
+    ],
+    "concepts": [
+      "incarnation",
+      "virgin birth",
+      "passion",
+      "descent into hell",
+      "resurrection",
+      "ascension",
+      "last judgment",
+      "Christ's humanity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e161"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e316": {
+    "summary": "Why the apostles did not follow this order, and other remarks on the Creed. They deliberately chose an order that the simple could understand and remember more easily. They began with the unity of essence in three persons, then the persons in order of origin with their appropriations (Father, almighty, then creation, which concerns omnipotence), then the Son's articles, first his divine nature, then his assumed nature, ending with the coming to judgment, since he will judge in human form (Acts 1). Then came the Holy Spirit and the two works appropriated to him, the justification and glorification of the wicked, whose principle is divine goodness. They also followed the order of time: eternity, creation (the first work in time), the incarnation and Christ's deeds, then the final reward. Which apostle added which phrase is not established by faith or otherwise, and it is better to doubt than to write the doubtful as certain. It is likely they proceeded by rank, beginning with Peter and the four chief apostles (the brothers from Bethsaida and the sons of Zebedee), but the rank of the other eight cannot be inferred from scripture. It is certain that these twelve composed the Creed, uncertain who composed which part, as one might know twelve men built a cairn without knowing who placed which stone. Paul and Barnabas, apostles in a broader sense, contributed nothing. The Apostles' Creed is called the 'greater' because the apostles, the Church's foundations, composed it, and it is said quietly because the Church was hidden when it was composed. The Nicene and Athanasian creeds came later against heresies of their time, expounding the Apostles' Creed more particularly, and are sung publicly after the Gospel since the Church is now public. Because not everyone could read all of scripture, the most necessary things were gathered in one place.",
+    "claims": [
+      "The apostles ordered the Creed for the understanding and memory of the simple.",
+      "The Creed follows both the order of the divine persons and the order of time.",
+      "Christ will judge in human form.",
+      "Justification and glorification are appropriated to the Holy Spirit as works of divine goodness.",
+      "It is certain the twelve composed the Creed but not which apostle composed which part.",
+      "Paul and Barnabas did not contribute to the Apostles' Creed.",
+      "The Nicene and Athanasian creeds expand the Apostles' Creed against later heresies.",
+      "The Creed gathers the most necessary truths of scripture for those who cannot read it all."
+    ],
+    "concepts": [
+      "order of the Creed",
+      "appropriation",
+      "order of time",
+      "apostolic authorship",
+      "Peter",
+      "Nicene Creed",
+      "Athanasian Creed",
+      "liturgical use",
+      "cairn analogy",
+      "epistemic caution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e161",
+        "jm3cbb-e36965-d1e279"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e472": {
+    "summary": "Answer to the question: many things must be believed by various people that are not contained in the Apostles' Creed. Prelates and those in charge of others in spiritual matters must know many other things, and the Creed is given for the common people.",
+    "claims": [
+      "Many things to be believed are not in the Apostles' Creed.",
+      "The Creed is designed for the common people; prelates must know more."
+    ],
+    "concepts": [
+      "Apostles' Creed",
+      "prelates",
+      "common people",
+      "explicit faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e104",
+        "jm3cbb-e36120-d1e287"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e485": {
+    "summary": "Second conclusion: even the simple must explicitly believe many things not formally in the Apostles' Creed, such as the presence of Christ's body in the Eucharist and that baptism is the sacrament of faith necessary for salvation (Decretals, De summa trinitate, c. Firmiter), and the procession of the Holy Spirit from the Father and the Son, by conciliar determination.",
+    "claims": [
+      "The simple must explicitly believe certain truths not formally in the Apostles' Creed.",
+      "Examples include Christ's Eucharistic presence, the necessity of baptism, and the Spirit's procession from Father and Son."
+    ],
+    "concepts": [
+      "Eucharist",
+      "baptism",
+      "filioque",
+      "Firmiter",
+      "conciliar determination",
+      "simple believers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e472"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e505": {
+    "summary": "Objection: if these are of faith, the Church can create an article of faith, which is false. One could doubt them before the Church's determination but not after, so the Church made them articles. That this is false is argued by dividing the grounds of catholic truth: divine revelation, containment in scripture, reception and approval by the Church, or valid consequence from these. Revelation and scripture do not depend on human will, so articles grounded in them hold without the Church's approval. If the Church received an article because it was revealed or found in scripture, it would be catholic without that reception, and if the Church received it because it pleased her, our faith would rest on human will, against 1 Corinthians 2.",
+    "claims": [
+      "(Objection) If disputed truths become binding after the Church's determination, the Church creates articles.",
+      "(Objection) Catholic truth is grounded in revelation, scripture, Church approval, or valid inference from these.",
+      "(Objection) Grounding an article in the Church's will would rest faith on human will."
+    ],
+    "concepts": [
+      "creation of articles",
+      "ecclesial determination",
+      "catholic truth",
+      "revelation",
+      "scripture",
+      "human will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e485"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e575": {
+    "summary": "Reply: the Church makes a proposition that was lawfully held as doubtful and probable on both sides before the determination no longer doubtful but unshaken and certain, and so binds us to believe where we could earlier lawfully disbelieve. But the Church does not turn a falsehood into a truth: the proposition held problematically was always true, had it been formed. In determining, the Church relies as much as possible on scripture and asks God to illumine it, and God does so, since scripture is expounded by the same Spirit by which it was revealed and faith does not fail in the Church. The Church does not approve or condemn a proposition because it pleases her, as if her will were the cause; the cause is that God does not fail the Church in matters of faith but illumines it in scripture's sense, which is the catholic sense. This applies to the undoubted universal Church, for which Christ prayed that its faith not fail. The Holy Spirit's revelation to the Church, not human will, is why it is an article. In sum, the Church's determination makes a proposition once lawfully held problematically no longer so held, but this comes from God inspiring the truth, and because its truth is inspired by God the proposition is an article; the Church does not make it so.",
+    "claims": [
+      "The Church's determination makes a previously disputable proposition certain and binding.",
+      "The Church's determination does not make a proposition true; it was always true.",
+      "The Church determines by relying on scripture and God's illumination, not by its own will.",
+      "Scripture is expounded by the same Spirit by which it was revealed.",
+      "Christ's prayer ensures the faith of the undoubted universal Church will not fail.",
+      "A proposition is an article because its truth is inspired by God, not because the Church creates it."
+    ],
+    "concepts": [
+      "ecclesial determination",
+      "indefectibility of the Church",
+      "Holy Spirit",
+      "interpretation of scripture",
+      "catholic truth",
+      "development of doctrine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e505"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e652": {
+    "summary": "Objection: when a general council is duly assembled, it first determines that it is legitimately assembled in the Holy Spirit. Either that proposition is an article, and the Church makes a new article, or it is not, and one may disbelieve it after that solemn determination. Mair notes a possible reply, that many things are not doubtful though not of faith, such as 'I will be saved'. His own answer is that if an undoubted council is legitimately assembled to root out vices and plant good morals, that proposition is of faith. People do not create the article, but God reveals that truth to them so that they proceed rightly and are believed, since after the determination one may no longer doubt what the council has determined in faith.",
+    "claims": [
+      "(Objection) A council's declaration of its own legitimacy would be a Church-created article.",
+      "That an undoubted council is legitimately assembled in the Holy Spirit is of faith.",
+      "God, not humans, reveals the council's legitimacy.",
+      "After a council's determination in faith, doubting it is no longer lawful."
+    ],
+    "concepts": [
+      "general council",
+      "conciliar legitimacy",
+      "conciliarism",
+      "Holy Spirit",
+      "ecclesial determination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e575"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e694": {
+    "summary": "A doubt: 'God exists' can be known by natural light, so it should not be given as something to be believed, since it can be known by another light.",
+    "claims": [
+      "(Objection) A naturally demonstrable truth should not be proposed as an article of faith."
+    ],
+    "concepts": [
+      "demonstrability of God",
+      "natural light",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e161"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e36965-d1e703": {
+    "summary": "Reply: it cannot be known by the uneducated and by the whole multitude, so it is handed down as the first article.",
+    "claims": [
+      "'God exists' is proposed as an article because the multitude cannot know it by natural reason."
+    ],
+    "concepts": [
+      "demonstrability of God",
+      "simple believers",
+      "first article"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e36965",
+        "jm3cbb-e36965-d1e694"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T19:57:47Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e31916.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e31916": {
+    "summary": "The seventh and last question on habit asks how a habit of the soul is corrupted or diminished, speaking of naturally acquired habits. Mair gives two conclusions. First, a habit is not diminished by mere cessation of acts. An accident is corrupted only by the corruption of its subject, by a contrary, or by losing an actual conserving cause, and none of these applies to habits in the incorruptible intellectual soul, which persist in sleep and even in the separated soul. Second, a habit is diminished by acts contrary to its own acts, since contrary acts generate and destroy virtues (Ethics II). Apparent forgetting and loss of skill are explained by bodily alteration that hinders the soul from exercising an undiminished habit, and Aristotle's texts on forgetting are read as concerning the passage into act. Bad habits cannot remain in the blessed and are destroyed before beatitude. The experience that a penitent still feels the pull of vice is met by distinguishing formal contrariety from virtual contrariety: a contrary act gradually expels the habit, as water's form slowly expels heat. A final doubt denies that any habit is innate (against Plato): complexion, heredity, the heavens, and diet make people more apt for certain habits, but habits arise only from practice, and even taciturnity is either an act of will or a natural disposition, not an act-less habit.",
+    "claims": [
+      "A naturally acquired habit is not diminished by mere cessation of acts.",
+      "An accident is corrupted only by the corruption of its subject, by a contrary, or by losing an actual conserving cause.",
+      "The intellectual soul is naturally incorruptible, and its habits need no actual conservation by the soul's activity.",
+      "Habits remain in the separated soul.",
+      "A habit is diminished and destroyed by acts contrary to its own acts.",
+      "Apparent loss of knowledge or skill comes from bodily alteration that impedes the exercise of an undiminished habit.",
+      "Bad habits are destroyed before a person is beatified.",
+      "Act and contrary habit are virtually, not formally, contrary.",
+      "No habits are innate; complexion only makes a person more apt for certain habits."
+    ],
+    "concepts": [
+      "corruption of habit",
+      "diminution",
+      "cessation of acts",
+      "contrariety",
+      "formal and virtual contrariety",
+      "incorruptibility of the soul",
+      "separated soul",
+      "forgetting",
+      "bodily disposition",
+      "innate habits",
+      "complexion",
+      "taciturnity"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e31916-d1e104",
+        "jm3cbb-e31916-d1e126",
+        "jm3cbb-e31916-d1e131",
+        "jm3cbb-e31916-d1e139",
+        "jm3cbb-e31916-d1e198",
+        "jm3cbb-e31916-d1e227",
+        "jm3cbb-e31916-d1e236",
+        "jm3cbb-e31916-d1e280",
+        "jm3cbb-e31916-d1e289",
+        "jm3cbb-e31916-d1e303",
+        "jm3cbb-e31916-d1e314",
+        "jm3cbb-e31916-d1e327",
+        "jm3cbb-e31916-d1e345",
+        "jm3cbb-e31916-d1e367",
+        "jm3cbb-e31916-d1e391",
+        "jm3cbb-e31916-d1e403",
+        "jm3cbb-e31916-d1e447",
+        "jm3cbb-e31916-d1e452",
+        "jm3cbb-e31916-d1e489"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e104": {
+    "summary": "Statement of the seventh question: how a habit of the soul is corrupted and diminished. Mair announces two conclusions, one negative and one affirmative, both about naturally acquired habits.",
+    "claims": [
+      "The discussion concerns naturally acquired habits only."
+    ],
+    "concepts": [
+      "corruption of habit",
+      "diminution",
+      "acquired habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31574"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e126": {
+    "summary": "First conclusion: a habit is not diminished by the cessation of acts.",
+    "claims": [
+      "Cessation of acts does not diminish a habit."
+    ],
+    "concepts": [
+      "cessation of acts",
+      "diminution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e131": {
+    "summary": "Second conclusion: a habit is diminished by an act contrary to the habit's act.",
+    "claims": [
+      "Acts contrary to a habit's acts diminish it."
+    ],
+    "concepts": [
+      "contrary acts",
+      "diminution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e139": {
+    "summary": "Proof of the first conclusion. Every accident is corrupted in only three ways: by the corruption of its subject (as sense cognitions when an animal dies), by its contrary, or because it needs an actual cause to keep conserving it (as moonlight needs the sun, or the soul's acts). None applies to a habit of the intellectual soul. The soul is naturally incorruptible, since nothing creatable by God alone can be destroyed by a creature (apparent exceptions in animal souls are met by saying creatures concur in producing them), and Christ said not to fear those who kill the body. Cessation of acts does not introduce a contrary, since some habits, such as the habit of principles, have none, and even where one is possible it may not be introduced. And a habit does not depend on the soul's activity for its conservation, since it remains in someone asleep.",
+    "claims": [
+      "An accident is corrupted only through its subject's corruption, by a contrary, or by losing an actual conserving cause.",
+      "The intellectual soul is naturally incorruptible.",
+      "What only God can create cannot be destroyed by a creature.",
+      "Some habits, such as that of principles, have no contrary.",
+      "Habits do not depend on the soul's activity for their conservation, as shown by sleep."
+    ],
+    "concepts": [
+      "modes of corruption",
+      "incorruptibility of the soul",
+      "creation",
+      "conserving cause",
+      "habit of principles",
+      "sleep"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e126"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e198": {
+    "summary": "Second proof: after the act is produced, a habit remains undiminished for some time without the soul concurring in its conservation, so the patient and God's maintenance are sufficient causes of its conservation. Against the reply that some bodily habit or disposition is also required, Mair points out that the separated soul can have new acts and habits that remain without any bodily habit or disposition, citing Jerome's prologue to the Bible: let us learn on earth what knowledge will remain in heaven.",
+    "claims": [
+      "The patient and God's conserving action suffice to conserve a habit.",
+      "The separated soul can acquire and keep habits without bodily dispositions.",
+      "Knowledge acquired on earth remains in heaven."
+    ],
+    "concepts": [
+      "conservation",
+      "divine conservation",
+      "separated soul",
+      "Jerome",
+      "bodily disposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e139"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e227": {
+    "summary": "Proof of the second conclusion: habits are increased by acts of the same kind, so they are corrupted by contrary acts. Virtues are generated and corrupted by contrary acts (Ethics II).",
+    "claims": [
+      "Since habits grow by acts of the same kind, they are destroyed by contrary acts."
+    ],
+    "concepts": [
+      "contrary acts",
+      "Aristotle's Ethics",
+      "generation and corruption of virtue"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e131"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e236": {
+    "summary": "Against the first conclusion stands the unresolved argument at the end of the previous question (forgetting in old age). Reply: a habit in the intellectual soul is never diminished without a contrary, but someone with a habit as intense as at first may be unable to act on it because the body has altered. In our changeable state the body is a disposition the soul needs to operate. Those soft of flesh are apt of mind (On the Soul II), those with a large occiput easily act on memory, while those with a small occiput or excess of humours in the head are slow. Since the body is continuously altered and indisposed, repeated acts make up for this. The argument was treated more fully in Book IV.",
+    "claims": [
+      "Habits in the intellectual soul are not diminished without a contrary.",
+      "In this life, bodily alteration can prevent the soul from acting on an undiminished habit.",
+      "The body is a required disposition for the soul's operations in the present state.",
+      "Repeated acts compensate for bodily alteration."
+    ],
+    "concepts": [
+      "forgetting",
+      "bodily disposition",
+      "exercise of habit",
+      "physiognomy",
+      "memory",
+      "present state"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31574-d1e363",
+        "jm3cbb-e31574-d1e389"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e280": {
+    "summary": "Second objection from Aristotle (On Length and Shortness of Life): the corruption of knowledge comes not only from deception but also from forgetting.",
+    "claims": [
+      "(Objection) Knowledge is corrupted by forgetting as well as by error."
+    ],
+    "concepts": [
+      "forgetting",
+      "corruption of knowledge",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e126"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e289": {
+    "summary": "Third objection from Ethics I: virtues are more lasting than disciplines of knowledge, so habitual knowledge fades. This is reinforced by the Categories, which says the habit of knowledge perishes when there is great change or illness in the body.",
+    "claims": [
+      "(Objection) Habits of knowledge fade, being less lasting than virtues.",
+      "(Objection) Bodily illness destroys the habit of knowledge."
+    ],
+    "concepts": [
+      "virtue",
+      "knowledge",
+      "permanence",
+      "Aristotle's Categories"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e126"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e303": {
+    "summary": "Reply: the first and third authorities of Aristotle concern the habit's passage into act. In the second Aristotle speaks truly: acts of virtue are more continuous than acts of knowledge, so virtues are more lasting with respect to their acts.",
+    "claims": [
+      "Aristotle's texts on the loss of knowledge concern the exercise of habits, not their existence.",
+      "Virtues are more lasting than disciplines because their acts are more continuous."
+    ],
+    "concepts": [
+      "exercise of habit",
+      "interpretation of Aristotle",
+      "virtue",
+      "knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e280",
+        "jm3cbb-e31916-d1e289"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e314": {
+    "summary": "Fourth objection: it would follow that many bad habits remain in heaven, since they are not destroyed by ceasing to act and their contraries may not have been applied to each of them.",
+    "claims": [
+      "(Objection) On this view bad habits would persist among the blessed."
+    ],
+    "concepts": [
+      "bad habits",
+      "beatitude",
+      "heaven"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e139"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e327": {
+    "summary": "Reply: bad habits in heaven would be pointless, since they would never incline to their acts and would only dishonour their possessor. So they are destroyed before a person is blessed, whether at the first moment of not being alive when one departs in grace, at the first instant of beatitude, or before or after purgatory.",
+    "claims": [
+      "Bad habits are destroyed before beatitude.",
+      "Bad habits would be pointless in heaven, since they could never be exercised."
+    ],
+    "concepts": [
+      "bad habits",
+      "beatitude",
+      "purgatory",
+      "destruction of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e314"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e345": {
+    "summary": "Objection to the second conclusion: no act of vice is contrary to a habit of virtue, nor the reverse. Experience shows that someone strongly inclined to intemperance who repents by eliciting the opposite act still finds himself very ready to act viciously, so the habit is not extinguished and there is no incompatibility between the act and the habit.",
+    "claims": [
+      "(Objection) A contrary act coexists with the opposite habit, so they are not contraries."
+    ],
+    "concepts": [
+      "contrariety",
+      "repentance",
+      "vice",
+      "virtue",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e131"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e367": {
+    "summary": "Reply: there are two kinds of contrariety. Formal contrariety holds between things that cannot coexist in any degrees, or at least not at certain intensities in bodily things (on one probable view of contraries), and it does not hold between an act and the opposite habit. Virtual contrariety holds between things one of which naturally produces the formal contrary of the other, as between water (or its substantial form) and heat, and that is the kind involved here.",
+    "claims": [
+      "Formal contrariety requires incompatibility in degrees.",
+      "Virtual contrariety holds when one thing naturally produces the formal contrary of another.",
+      "An act and the opposite habit are virtually, not formally, contrary."
+    ],
+    "concepts": [
+      "formal contrariety",
+      "virtual contrariety",
+      "substantial form",
+      "heat and water"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e345"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e391": {
+    "summary": "Rejoinder: if a habit can coexist with the opposite act for a short time, it can always coexist with it, just as it was argued that if a habit stays for a time without actual conservation it stays always.",
+    "claims": [
+      "(Objection) Short-term coexistence with a contrary act implies permanent coexistence."
+    ],
+    "concepts": [
+      "coexistence",
+      "contrary acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e367"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e403": {
+    "summary": "Reply: the inference fails. Water's substantial form tolerates heat for a while but gradually reduces it to zero. Likewise an act, once introduced into the spiritual patient, works to destroy the enemy habit lodged there, and the more intense the act or the more it is repeated, the sooner it expels that habit. Otherwise no one could drive out a bad habit by good acts and a praiseworthy life, contrary to experience: a person battles the most vicious habits with opposite acts and finally wins a glorious victory. This is how habits fade and grow. Mair adds that the view of the previous question, that equal repeated acts add nothing to a habit, is probable, though someone might hold the opposite for vital acts.",
+    "claims": [
+      "A contrary act gradually destroys a habit, more quickly the more intense or repeated it is.",
+      "Bad habits can be overcome by repeated good acts.",
+      "That equal repeated acts add nothing to a habit is probable but not certain for vital acts."
+    ],
+    "concepts": [
+      "corruption of habit",
+      "contrary acts",
+      "moral struggle",
+      "gradual expulsion",
+      "repetition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e391",
+        "jm3cbb-e31574-d1e221"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e447": {
+    "summary": "A doubt is raised: whether any habit is in us by nature.",
+    "claims": [],
+    "concepts": [
+      "innate habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e452": {
+    "summary": "Answer: the soul is inclined to habits, especially good ones, as to its perfection, but no habits belong to the soul from the start of its existence, as Aristotle sufficiently proves against Plato (Posterior Analytics I). Still, because of complexion some people are more inclined to one habit and others to another (Ethics VI and experience): those with thick, short fingers are suited to the mechanical arts, those with long, slender fingers to finer work, and among the learned some are readier for eloquence and others for logic or mathematics. This comes from individual complexion inherited from parents, from celestial influence, and from diet. Habits are generated only by custom and acts. An objection is raised that taciturnity arises in a man without acts, merely by his speaking little.",
+    "claims": [
+      "The soul is naturally inclined to habits as to its perfection.",
+      "No habits are innate, against Plato.",
+      "Complexion, heredity, celestial influence, and diet make individuals more apt for particular habits.",
+      "Habits are generated only through custom and acts."
+    ],
+    "concepts": [
+      "innate habits",
+      "Plato",
+      "complexion",
+      "celestial influence",
+      "natural aptitude",
+      "custom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e447",
+        "jm3cbb-e29365-d1e344"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31916-d1e489": {
+    "summary": "Reply to the taciturnity objection: it would show that habits arise naturally otherwise than by acts, which Mair denies. Sometimes a person is taciturn by an act of will commanding the tongue not to speak, and a habit of not speaking superfluously can be generated in the will. Taciturnity can also be natural, since some are by nature less inclined to speak. Some generate a habit of talkative speech by acts, while others restrain the inclination to speak, and then there is taciturnity without an act, since taciturnity is nothing other than a person being silent.",
+    "claims": [
+      "Habits are not naturally generated except by acts.",
+      "Taciturnity can come from acts of will that generate a habit in the will, or from natural disposition.",
+      "Taciturnity is nothing but a person's being silent, not a positive habit acquired without acts."
+    ],
+    "concepts": [
+      "taciturnity",
+      "will",
+      "command",
+      "natural disposition",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31916",
+        "jm3cbb-e31916-d1e452"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T19:56:59Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e31574.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e31574": {
+    "summary": "The sixth question, the first of two on the increase and decrease of habits, asks whether a habit can grow without limit through repeated acts. Mair answers with three conclusions. There is no largest habit, short of an infinite one, that the soul can receive (from distinction 13). A habit is intensified as the act is intensified. There is a most intense act the intellect or will can produce without a habit, or with a habit of a given intensity, and an act of a given strength can produce a habit only up to a certain intensity. The core argument applies the principle that like does not act on like: a second act equal to the first produces nothing new once the habit has been brought to its level, as heat of four adds nothing to a patient already heated to four. Objections are answered. Abstractive cognitions of different objects produce distinct species and habits, which is a different case. The practised harpist's need for continual practice is explained by bodily alteration that partly corrupts the habit, so repetition restores rather than increases it. A final doubt establishes that readiness, more than pleasure, is essential to habit, and summarizes what a good habit does: it makes one act well, gladly, intensely, and easily, and resist the opposite evil.",
+    "claims": [
+      "There is no largest finite habit the soul can receive.",
+      "A habit is intensified in proportion to the intensity of the act.",
+      "There is a most intense act a power can produce without a habit, or with a habit of a given intensity.",
+      "An act of a given intensity can raise a habit only to a corresponding degree; equal later acts add nothing.",
+      "Like does not act on like.",
+      "Abstractive cognitions of different objects produce distinct species or habits.",
+      "Repetition of equally intense acts preserves a habit against bodily corruption rather than intensifying it.",
+      "Readiness to act is more essential to habit than pleasure in acting.",
+      "A good habit makes one act well, gladly, intensely, and easily, and resist evil."
+    ],
+    "concepts": [
+      "increase of habit",
+      "intensity",
+      "maximum and minimum",
+      "like does not act on like",
+      "assimilation",
+      "abstractive cognition",
+      "bodily habit",
+      "corruption of habit",
+      "readiness",
+      "delight"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e31574-d1e104",
+        "jm3cbb-e31574-d1e124",
+        "jm3cbb-e31574-d1e140",
+        "jm3cbb-e31574-d1e150",
+        "jm3cbb-e31574-d1e179",
+        "jm3cbb-e31574-d1e190",
+        "jm3cbb-e31574-d1e195",
+        "jm3cbb-e31574-d1e221",
+        "jm3cbb-e31574-d1e250",
+        "jm3cbb-e31574-d1e277",
+        "jm3cbb-e31574-d1e310",
+        "jm3cbb-e31574-d1e330",
+        "jm3cbb-e31574-d1e363",
+        "jm3cbb-e31574-d1e389",
+        "jm3cbb-e31574-d1e398"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e104": {
+    "summary": "Transition and statement of the sixth question. Having treated the mutual production of habit and act and the acts to which habits incline, Mair turns to the increase and decrease of habits and asks whether a habit grows without limit through repeated acts.",
+    "claims": [],
+    "concepts": [
+      "increase of habit",
+      "decrease of habit",
+      "repetition of acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e30426",
+        "jm3cbb-e31052"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e124": {
+    "summary": "First conclusion: there is no largest habit short of the infinite that the soul can receive, and even if an infinite habit were produced in the soul, it could receive a greater one in some sense of 'greater'. This follows from distinction 13.",
+    "claims": [
+      "There is no maximal finite habit receivable by the soul.",
+      "Even beyond an infinite habit, the soul could receive a greater one in some sense of 'greater'."
+    ],
+    "concepts": [
+      "capacity of the soul",
+      "maximum",
+      "infinity",
+      "distinction 13"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e140": {
+    "summary": "Second conclusion: a habit is intensified as the act is intensified, since the act produces the habit and the intensity of an effect follows that of its cause.",
+    "claims": [
+      "Habit intensity tracks act intensity.",
+      "The intensity of an effect follows the intensity of its cause."
+    ],
+    "concepts": [
+      "intensity",
+      "causal proportionality",
+      "increase of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e29714"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e150": {
+    "summary": "Third conclusion: there is a most intense act the intellect or will can produce, either without a habit or with a habit of a given intensity. This follows from On the Heavens I: an active power is bounded by the greatest effect it can produce, provided there is no resistance from the patient. In particular, heat of four produces heat of four and no more, so by the same pattern a power has a limit in what it produces, and an act of four can produce a habit up to a certain degree and no greater.",
+    "claims": [
+      "An active power is bounded by a maximal effect it can produce, absent resistance.",
+      "There is a most intense act a power can produce with a given aid.",
+      "An act of a given intensity produces a habit only up to a corresponding degree."
+    ],
+    "concepts": [
+      "maximum of active power",
+      "On the Heavens",
+      "heat analogy",
+      "intensity",
+      "limit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e140"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e179": {
+    "summary": "Objection to the third conclusion: the will aided by a habit can produce a greater act than without one, and the habit can grow without limit, so there is no maximal act.",
+    "claims": [
+      "(Objection) Unlimited habit growth implies no maximal act."
+    ],
+    "concepts": [
+      "maximum intensity",
+      "habit as aid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e150"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e190": {
+    "summary": "Reply: the conclusion is understood of the power without aid.",
+    "claims": [
+      "The maximal-act conclusion concerns the power without the aid of habit."
+    ],
+    "concepts": [
+      "maximum intensity",
+      "aid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e179",
+        "jm3cbb-e30426-d1e569"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e195": {
+    "summary": "Second objection, against the claim that an act produces a habit only up to a certain intensity. A first act of four produces a habit of four. A second act equally active, being a natural agent acting on a receptive patient with no incompatibility between effects, should produce as many degrees again.",
+    "claims": [
+      "(Objection) Each equal act should add an equal increment to the habit."
+    ],
+    "concepts": [
+      "cumulative increase",
+      "natural agent",
+      "repetition of acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e150"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e221": {
+    "summary": "Reply: Mair grants that the first act produces a habit of four but says a second act of equal intensity produces nothing. An agent of the same species and equal activity has already produced an effect as strong as the second act could. The same holds for other agents: if a, hot as four, heats b to four, then c, equally hot, applied to b produces nothing more, since it finds the patient already like itself, and like does not act on like (On Generation I). So it is with act and habit.",
+    "claims": [
+      "A second act of equal intensity adds nothing to a habit already at its level.",
+      "Like does not act on like.",
+      "An agent produces nothing in a patient already assimilated to it."
+    ],
+    "concepts": [
+      "like does not act on like",
+      "assimilation",
+      "heat analogy",
+      "On Generation and Corruption",
+      "increase of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e195"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e250": {
+    "summary": "Counterargument: if an abstractive cognition of Socrates produces a species or habit of four in Plato's intellect, then an abstractive cognition of Cicero produces a new species or habit of equal intensity, and so on for twenty people. Since these cognitions are of the same species, a later vital act produces its effect anew even when a similar effect already exists.",
+    "claims": [
+      "(Objection) Successive same-species cognitions each produce new habits, so later similar acts do produce effects."
+    ],
+    "concepts": [
+      "abstractive cognition",
+      "species",
+      "habit",
+      "vital acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e221"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e277": {
+    "summary": "Reply: the argument is not conclusive. Different objects produce different cognitions representing them and different habits producing similar cognitions, which is not so with heat, cold, and other such qualities, or at least that is not established. With an abstractive cognition of whiteness a, it seems the cognition can at some time be so intense that it and its habit will not be further intensified. Otherwise a demonstration repeated a thousand times would always increase knowledge, even if the later repetitions were weaker.",
+    "claims": [
+      "Cognitions of different objects produce distinct representative cognitions and distinct habits.",
+      "Repetition of the same cognition reaches a point beyond which neither it nor its habit is intensified.",
+      "Repeating a demonstration does not endlessly increase knowledge."
+    ],
+    "concepts": [
+      "abstractive cognition",
+      "object-specific habit",
+      "representation",
+      "demonstration",
+      "saturation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e250"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e310": {
+    "summary": "Second objection: if repeating acts of equal vigour did not intensify a habit, the harpist's habit would never be intensified. But a skilled harpist who stops practising loses readiness over time, while one who practises plays very readily, which can only be because the habit grows through frequent repetition.",
+    "claims": [
+      "(Objection) The practised harpist's readiness shows that repetition of equal acts intensifies habits."
+    ],
+    "concepts": [
+      "harpist",
+      "practice",
+      "skill",
+      "increase of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e221"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e330": {
+    "summary": "Reply: the argument has some plausibility but does not conclude. The harpist's habit is corrupted by alteration of the flesh, since when the subject is partly corrupted so is its habit. Repeated acts produce the habit anew and keep it at the same intensity, provided they are as intense as the acts that first generated it. If the subject were never altered, the habit would stay at the same degree, and later acts produce nothing new unless they are more intense than the first ones. The same holds for writers, weavers, and other craftsmen.",
+    "claims": [
+      "Bodily habits decline as their bodily subject is altered.",
+      "Repetition of equally intense acts restores and maintains a bodily habit rather than increasing it.",
+      "If its subject were not altered, a habit would persist at the same intensity.",
+      "Later acts add to a habit only if they exceed the intensity of the generating acts."
+    ],
+    "concepts": [
+      "bodily habit",
+      "alteration of subject",
+      "maintenance of habit",
+      "craft",
+      "corruption of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e310",
+        "jm3cbb-e29365-d1e389"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e363": {
+    "summary": "Rejoinder: repeating acts about an intellectual matter produces a new habit even when later acts are not more intense than the first, and the intellect is not corrupted. Someone who repeats acts about something they are trained in keeps the habit and acts readily, while without repetition they cannot, as an old man cannot recall what he understood in youth, only because he did not repeat the generating acts.",
+    "claims": [
+      "(Objection) Intellectual habits also require repetition to persist, though the intellect is not corrupted."
+    ],
+    "concepts": [
+      "intellectual habit",
+      "forgetting",
+      "old age",
+      "repetition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e330"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e389": {
+    "summary": "Reply: the rejoinder, though plausible, has a flaw that will become clear from the next question, on the decrease of habits.",
+    "claims": [],
+    "concepts": [
+      "decrease of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e31574-d1e363",
+        "jm3cbb-e31916"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31574-d1e398": {
+    "summary": "A doubt: does a habituated person act readily and with pleasure? If the habit is intense and nothing stands in the way, they act readily in conformity with it: someone used to rising at four rises easily then, while someone used to sleeping until six or seven rises with weariness and disgust. Habit usually brings pleasure, but sadness can follow from habits of envy, hatred, or penitence. So acting readily is more essential to habit than acting with pleasure. A habituated person also acts more intensely than an unhabituated one with similar effort, other things equal, and a good habit resists the opposite evil. A good habit thus makes a person act well, cheerfully, intensely, and easily, and resist evil; a bad habit does the opposite.",
+    "claims": [
+      "An intense, unimpeded habit makes one act readily.",
+      "Readiness is more essential to habit than pleasure, since some habits bring sadness.",
+      "With equal effort, a habituated agent acts more intensely than an unhabituated one.",
+      "A good habit resists the contrary evil."
+    ],
+    "concepts": [
+      "readiness",
+      "delight",
+      "sadness",
+      "resistance to contrary",
+      "effects of good habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31574",
+        "jm3cbb-e30426-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

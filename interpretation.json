@@ -1,0 +1,197 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:10:36Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-ancestors-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "scope": "Ancestors above the item level (distinctiones and the whole work), built from item-level interpretation.json files. Currently covers Book III distinctions 23-25 only.",
+    "description": "LLM-generated interpretative layer for structural ancestors in the SCTA EDF hierarchy."
+  },
+  "jm3cbb-de0925": {
+    "summary": "Distinction 23 is Mair's treatise on habit and on faith, carried out in twelve questions announced at the outset. The first seven build a general theory of habit as the genus of virtue. Habit is really distinct from the soul's powers (which are identical with the soul), from acts, and from passions. A single 'fundamental principle' governs the treatise: a habit is posited in every power, natural or free, that becomes readier through repeated acts, and in no other, so habits exist in intellect, will, bodily members, sensitive appetite, and animals, but not in stones. Every act, however weak, generates some habit in a well-disposed subject, except intuitive cognition and the volitions caused by it, which is why beatific enjoyment generates none. Against Aquinas, acts from infused virtues also generate acquired habits. Against Durandus, habit is a partial efficient cause of its act, an instrument requiring the power's and the will's concurrence. Reciprocal causation of act and habit leads neither to vicious circularity nor to infinite intensity. A habit inclines only to acts of the same natural species as those that produced it, and its moral denomination can change (as with the violated virgin). Habits grow with the intensity of acts until like no longer acts on like. They are not lost by disuse, since apparent forgetting comes from bodily alteration, but are destroyed by virtually contrary acts, and none are innate. The last five questions apply this to faith. Faith is defined as a certain, inevident, adhesive cognition of a revealed religious truth. Infused faith is necessary for salvation under God's ordained law, one in species and inclining immediately to every believable as a universal cause and special instrument of the Holy Spirit, while acquired faiths are distinct for distinct articles. The object of faith is the proposition, its terms, and the things signified, and complexly signifiables are dismissed. Faith is always of the true, revelation by definition connotes truth, and changing tensed articles are handled by letting the same assent become error. The first act of faith arises freely from topical reasons together with pious affection, neither compelled by evidence nor produced by the will alone. The distinction closes on the confession of faith: willing to confess is not an act of faith, the affirmative precept binds only at certain times, the negative precept never to deny Christ binds always, martyrdom as a counsel is lawful, and seeking reasons for the faith adds to merit rather than diminishing it.",
+    "claims": [
+      "Habit is a quality really distinct from the soul's powers, from acts, and from passions.",
+      "A habit exists in exactly those powers, natural or free, that become readier through repeated acts.",
+      "Every act generates some habit in a well-disposed subject, except intuitive cognition and acts dependent on it.",
+      "Acts proceeding from infused virtues also generate acquired habits.",
+      "Habit is a partial efficient cause of its act and requires the concurrence of the power and the will.",
+      "A habit inclines only to acts of the same natural species as its generating acts, though their moral denomination may change.",
+      "Habits are not lost through disuse but are destroyed by contrary acts; apparent forgetting is due to bodily alteration.",
+      "No habits are innate.",
+      "Infused faith is necessary for salvation under God's ordained law and is one in species for all articles.",
+      "The object of faith includes the proposition, its terms, and the things signified; complexly signifiables are a chimera.",
+      "Faith is always of the true, and God cannot reveal a falsehood.",
+      "The first act of faith is caused freely by topical reasons together with pious affection.",
+      "Confessing the faith is commanded only in certain circumstances, but denying Christ is always forbidden."
+    ],
+    "concepts": [
+      "habit",
+      "virtue",
+      "facilitation criterion",
+      "generation and corruption of habits",
+      "efficient causality of habit",
+      "intensity",
+      "intuitive and abstractive cognition",
+      "infused and acquired habits",
+      "faith",
+      "object of faith",
+      "complexe significabile",
+      "revelation",
+      "future contingents",
+      "freedom of belief",
+      "topical reasons",
+      "pious affection",
+      "confession of faith",
+      "martyrdom"
+    ],
+    "_metadata": {
+      "level": "distinctio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29365",
+        "jm3cbb-e29714",
+        "jm3cbb-e30426",
+        "jm3cbb-e31052",
+        "jm3cbb-e31574",
+        "jm3cbb-e31916",
+        "jm3cbb-e32336",
+        "jm3cbb-e32778",
+        "jm3cbb-e33578",
+        "jm3cbb-e34144",
+        "jm3cbb-e34827"
+      ],
+      "partial": false,
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-distinctio-v1",
+      "generated_at": "2026-10-08T20:10:36Z",
+      "source_commit": "74240e1",
+      "source_structure": "scta-projectfiles/jm3cbb.xml"
+    }
+  },
+  "jm3cbb-de1100": {
+    "summary": "Distinction 24, treated in a single question, asks whether science and faith (and, Mair adds, opinion) can coexist in the same intellect about the same object. Taking 'science' broadly as evidence, meaning a fearless, purely naturally caused assent through which the intellect cannot naturally be deceived, Mair holds the following. A scientific act can coexist with a habit of faith or opinion. By God's absolute power, acts of science and faith can coexist, since God can join any contraries. Naturally, neither the acts nor the habits can coexist about the same complex object, and a scientific act first corrupts acquired faith before generating science. Infused faith, however, survives the demonstration of an article such as 'God exists'. The question defends the essential difference between opinion and science against an argument that opinion's 'fear' can be eliminated degree by degree, and explains the eyewitness cases of Thomas, the Ascension, and the Virgin by distinguishing what was seen (Christ's humanity) from what was believed (that this is the divine person). Logical puzzles about conjunctions (whose assent follows the weaker part), self-referential propositions, and composite and divided epistemic modals are resolved along the way.",
+    "claims": [
+      "Evidence is a fearless assent caused purely naturally through which the intellect cannot naturally be deceived.",
+      "A scientific act can coexist with a habit of faith or opinion about the same object.",
+      "By God's absolute power, scientific and faith acts can coexist; naturally they cannot.",
+      "Naturally, scientific and faith or opinion habits about the same complex object are incompatible.",
+      "Infused faith can coexist with demonstrative knowledge of the same proposition.",
+      "Eyewitnesses of Christ saw his humanity evidently and believed his divinity by faith.",
+      "Assent to a conjunction follows its weaker part."
+    ],
+    "concepts": [
+      "science and faith",
+      "opinion",
+      "evidence",
+      "absolute power",
+      "contrariety",
+      "infused faith",
+      "fear in opinion",
+      "sense perception",
+      "Thomas the apostle",
+      "conjunction",
+      "epistemic modals"
+    ],
+    "_metadata": {
+      "level": "distinctio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e35329"
+      ],
+      "partial": false,
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-distinctio-v1",
+      "generated_at": "2026-10-08T20:10:36Z",
+      "source_commit": "74240e1",
+      "source_structure": "scta-projectfiles/jm3cbb.xml"
+    }
+  },
+  "jm3cbb-de1119": {
+    "summary": "Distinction 25 completes Mair's treatise on faith in five questions on the scope, content, loss, and limits of faith. The first question distinguishes explicit from implicit belief, illustrated by the 'good old woman' who implicitly believes that Tobias had a dog. It grades the duty of explicit belief across history and state of life: all adults at all times must believe that God exists and rewards; gentiles needed only implicit faith in the Mediator; believers under grace must know what is publicly preached; the simple need not know everything; prelates must know and teach all the articles. Against William of Auxerre, a simple person misled by her prelate does not sin. The infused faith of ancients and moderns is the same in species, though their acts and acquired habits regarding tensed articles differ. The second question divides the Apostles' Creed by content into seven articles on the Godhead and seven on Christ's humanity, explains the apostles' pedagogical ordering, and leaves open which apostle composed which phrase. It holds that more must be believed than the Creed contains (the Eucharist, baptism, the filioque), and that the Church's determination makes a disputed proposition certain without making it true, since the cause is the Holy Spirit's illumination and not human will. The third question ranks heresy, other things equal, above the unbelief of those never baptized, and holds that one is a heretic only through pertinacity. The fourth explains how faith is lost. Acquired faith is lost through contrary heresy and the act of faith through supervening evidence, while infused faith, annihilable only by God, is lost only by the demerit of pertinacious heresy or doubt, not by every mortal sin or involuntary scruple. The fifth rejects Henry of Ghent's 'middle light' of theological science. The theologian studying scripture gains faith and auxiliary knowledge, not science of the articles; the blessed can demonstrate the Trinity, prophets may have evident knowledge of future contingents, and firm belief on credible testimony is fully rational.",
+    "claims": [
+      "Explicit belief is particular assent to a proposition; implicit belief is assent to a universal that entails it.",
+      "The duty of explicit belief is graded by historical period, state of life, office, and natural gifts.",
+      "A simple believer who assents to heresy preached by her prelate does not sin and is not a heretic.",
+      "Infused faith is the same in species in the ancients and in modern believers.",
+      "The Apostles' Creed contains seven articles on God and seven on Christ's humanity, ordered for the simple.",
+      "The Church's determination binds belief but does not make a proposition true; it rests on the Holy Spirit's illumination.",
+      "Other things equal, heresy is graver than the unbelief of those never baptized.",
+      "Infused faith is lost only through pertinacious heresy or doubt, and only God can annihilate it.",
+      "There is no 'middle light' giving theologians science of the articles of faith.",
+      "Firm belief in the articles is rational, like belief on reliable testimony."
+    ],
+    "concepts": [
+      "explicit and implicit faith",
+      "good old woman",
+      "duties of prelates",
+      "Apostles' Creed",
+      "articles of faith",
+      "ecclesial determination",
+      "heresy",
+      "unbelief",
+      "pertinacity",
+      "loss of faith",
+      "doubt",
+      "theological science",
+      "Henry of Ghent",
+      "prophecy",
+      "rationality of faith"
+    ],
+    "_metadata": {
+      "level": "distinctio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e36120",
+        "jm3cbb-e36965",
+        "jm3cbb-e37582",
+        "jm3cbb-e37858",
+        "jm3cbb-e38355"
+      ],
+      "partial": false,
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-distinctio-v1",
+      "generated_at": "2026-10-08T20:10:36Z",
+      "source_commit": "74240e1",
+      "source_structure": "scta-projectfiles/jm3cbb.xml"
+    }
+  },
+  "jm3cbb": {
+    "summary": "This entry covers only distinctions 23-25 of Mair's commentary on Book III of the Sentences, the only distinctions interpreted so far, and should not be read as a summary of the whole work. Within that range, Mair develops a unified account of habit and faith. Distinction 23 builds a general theory of habit, governed by the principle that habits exist in every power that becomes readier through repeated acts, and then applies it to faith: its definition, its necessity, its object, its truth, its free origin from topical reasons and pious affection, and its confession. Distinction 24 sets out the natural incompatibility of science and faith about the same object, while allowing infused faith to survive demonstration. Distinction 25 treats the scope of required explicit belief, the structure and authority of the Creed and of the Church's determinations, heresy and pertinacity, the loss of faith, and the limits of theological science. Across the three distinctions, Mair consistently relies on the distinction between infused and acquired habits, on the freedom of belief, and on concern for simple believers, and he engages critically with Aquinas, Durandus, Henry of Ghent, William of Auxerre, and the Paris arts tradition.",
+    "claims": [
+      "Within distinctions 23-25, faith is analysed through a general theory of habit.",
+      "Acquired and infused faith differ in their causes, their specification by objects, and the ways they are lost.",
+      "Belief is free: it is neither compelled by evidence nor produced by the will alone.",
+      "Science and faith about the same object are naturally incompatible, except for infused faith.",
+      "The obligations of belief are graded by state of life and office, with special care for simple believers."
+    ],
+    "concepts": [
+      "habit",
+      "faith",
+      "infused and acquired faith",
+      "science and faith",
+      "freedom of belief",
+      "heresy",
+      "articles of faith",
+      "theological science"
+    ],
+    "_metadata": {
+      "level": "work",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-de0925",
+        "jm3cbb-de1100",
+        "jm3cbb-de1119"
+      ],
+      "partial": true,
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-work-v1",
+      "generated_at": "2026-10-08T20:10:36Z",
+      "source_commit": "74240e1",
+      "source_structure": "scta-projectfiles/jm3cbb.xml",
+      "coverage": "3 of 40 direct children have interpretations"
+    }
+  }
+}

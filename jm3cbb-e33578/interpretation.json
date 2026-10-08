@@ -1,0 +1,606 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:00:52Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e33578.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e33578": {
+    "summary": "The tenth question asks whether the complex object of faith is always true, or whether the assent of faith is always true. Mair gives three conclusions: infused faith, the act of faith, and the acquired habit of faith are always of the true. Infused faith, as the special instrument of the Holy Spirit, cannot incline to falsehood, and God cannot reveal a falsehood even by absolute power, against those who restrict the relevant Paris article to ordained power. The act of faith is true by definition, and the acquired habit follows its act. Most of the question handles future contingents and changing truth-values. On Christ's prophecy of Peter's denial, Mair holds that 'revelation' connotes truth, so a revelation of something false is impossible, though what is revealed remains contingent and Peter denied freely. A past-tense proposition about a revelation is not necessary when it depends on a future contingent. The divided modal 'faith can be of the false' is true, but the same assent can successively be faith and error, as with a Hebrew who keeps believing 'Christ will be killed' after the killing, and such an assent is not sinful for the uninstructed. Hope and charity can bear on falsehoods through other cognitive acts. Eucharistic faith is only conditional on proper consecration. An acquired habit of faith ceases to be faith once its object becomes false, as a habit of temperance stops being a virtue when it no longer accords with prudence.",
+    "claims": [
+      "Infused faith is always of the true.",
+      "The act of faith is always of the true.",
+      "The acquired habit of faith is always of the true.",
+      "God cannot reveal a falsehood, even by absolute power.",
+      "'Revelation' connotes truth, so a false revelation is a contradiction in terms.",
+      "A past-tense proposition whose truth depends on a future contingent is not necessary.",
+      "Peter denied Christ contingently and freely despite Christ's prediction.",
+      "The same assent can successively be an act of faith and an error.",
+      "The divided modal 'faith can be of the false' is true, but 'faith is of the false' never is.",
+      "Faith that Christ's body is in a particular host is conditional on proper consecration.",
+      "An acquired habit stops being faith once its object becomes false."
+    ],
+    "concepts": [
+      "truth of faith",
+      "infused faith",
+      "revelation",
+      "future contingents",
+      "absolute and ordained power",
+      "divine deception",
+      "Peter's denial",
+      "faith and error",
+      "modal propositions",
+      "Eucharist",
+      "hope and charity",
+      "prudence"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e33578-d1e104",
+        "jm3cbb-e33578-d1e124",
+        "jm3cbb-e33578-d1e129",
+        "jm3cbb-e33578-d1e139",
+        "jm3cbb-e33578-d1e155",
+        "jm3cbb-e33578-d1e184",
+        "jm3cbb-e33578-d1e200",
+        "jm3cbb-e33578-d1e207",
+        "jm3cbb-e33578-d1e259",
+        "jm3cbb-e33578-d1e282",
+        "jm3cbb-e33578-d1e343",
+        "jm3cbb-e33578-d1e404",
+        "jm3cbb-e33578-d1e415",
+        "jm3cbb-e33578-d1e452",
+        "jm3cbb-e33578-d1e472",
+        "jm3cbb-e33578-d1e491",
+        "jm3cbb-e33578-d1e511",
+        "jm3cbb-e33578-d1e533",
+        "jm3cbb-e33578-d1e542",
+        "jm3cbb-e33578-d1e553",
+        "jm3cbb-e33578-d1e577",
+        "jm3cbb-e33578-d1e589",
+        "jm3cbb-e33578-d1e602",
+        "jm3cbb-e33578-d1e615"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e104": {
+    "summary": "Transition and statement of the tenth question. Having treated the object of faith in general, Mair turns to its complex object and asks whether the object of faith is always true, or whether the assent of faith is true.",
+    "claims": [],
+    "concepts": [
+      "truth of faith",
+      "object of faith",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e32778"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e124": {
+    "summary": "Announcement that the question will be resolved by three conclusions.",
+    "claims": [],
+    "concepts": [
+      "conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e129": {
+    "summary": "The three conclusions: infused faith is always of the true, the act of faith is always of the true, and the acquired habit of faith is always of the true.",
+    "claims": [
+      "Infused faith is always of the true.",
+      "The act of faith is always of the true.",
+      "The acquired habit of faith is always of the true."
+    ],
+    "concepts": [
+      "infused faith",
+      "act of faith",
+      "acquired faith",
+      "truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e124"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e139": {
+    "summary": "Proof of the first conclusion: infused faith is a special instrument of the Holy Spirit, poured into human hearts and inclining them to assent. If it inclined to falsehood, God would specially move people to assent to the false, which is unfitting.",
+    "claims": [
+      "Infused faith is a special instrument of the Holy Spirit.",
+      "God cannot specially move anyone to assent to a falsehood."
+    ],
+    "concepts": [
+      "instrument of the Holy Spirit",
+      "infused faith",
+      "truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e129",
+        "jm3cbb-e32778-d1e690"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e155": {
+    "summary": "Second argument for the first conclusion: infused faith inclines only to assent to propositions revealed by God, and God cannot reveal a falsehood in the sense in which it is false, for then he would deceive, which the recent Paris articles condemn. Mair rejects the view that God cannot deceive by ordained power but can by absolute power. The article was not framed in a doubtful sense: no wise person doubted that God cannot deceive under the established law, since otherwise we would doubt much that has been handed down to us as most certain. So the article must concern absolute power.",
+    "claims": [
+      "God cannot reveal a falsehood in the sense in which it is false.",
+      "God cannot deceive, even by absolute power.",
+      "The Paris condemnation of divine deception concerns absolute power."
+    ],
+    "concepts": [
+      "divine deception",
+      "revelation",
+      "absolute and ordained power",
+      "Paris articles",
+      "condemnation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e139"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e184": {
+    "summary": "Proof of the second conclusion from the definition of the act of faith given earlier: it is a true, firm, and certain assent. Certainty depends on the object and firmness arises from the act, connoting that wavering is excluded, though certainty and firmness are the same thing.",
+    "claims": [
+      "The act of faith is true by its definition.",
+      "Certainty depends on the object; firmness belongs to the act and connotes the absence of wavering.",
+      "Certainty and firmness are really the same thing."
+    ],
+    "concepts": [
+      "definition of faith",
+      "certitude",
+      "firmness",
+      "connotation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e129",
+        "jm3cbb-e32336-d1e113"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e200": {
+    "summary": "Proof of the third conclusion: a habit always inclines proportionately toward the object, just as the act from which it arose.",
+    "claims": [
+      "A habit inclines toward the object in the same way as the act from which it came."
+    ],
+    "concepts": [
+      "acquired habit",
+      "object",
+      "specific likeness of acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e129",
+        "jm3cbb-e31052"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e207": {
+    "summary": "Objection to the first conclusion: revelation can be of a falsehood. God revealed to Peter, 'before the cock crows three times you will deny me', yet after the revelation Peter was not necessitated to deny Christ, otherwise he would not have sinned, against Augustine and distinction 50. It was a future contingent. God's eternal knowledge of future contingents does not necessitate them, as Christ's soul knew from its first instant that Judas would betray him without necessitating Judas. So posit that Peter does not deny Christ: then Christ revealed something false.",
+    "claims": [
+      "(Objection) Revelation of a future contingent leaves the event contingent, so the revelation could turn out false.",
+      "Divine foreknowledge does not necessitate future contingents.",
+      "Peter's denial was not necessitated by the prediction, since otherwise it would not have been sinful."
+    ],
+    "concepts": [
+      "future contingents",
+      "Peter's denial",
+      "divine foreknowledge",
+      "revelation",
+      "freedom",
+      "Judas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e155"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e259": {
+    "summary": "Possible reply: positing that Peter will not deny Christ is incompatible with the premise. 'Christ revealed to Peter that he would deny him' and 'Peter will not deny Christ' cannot both hold, since it follows from the revelation that Peter will deny or has denied him, so the opposite of the consequent is incompatible with the antecedent.",
+    "claims": [
+      "(Reply) That Christ revealed Peter's denial and that Peter will not deny are incompatible."
+    ],
+    "concepts": [
+      "incompossibility",
+      "revelation",
+      "consequence",
+      "positio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e207"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e282": {
+    "summary": "Rebuttal: 'Christ revealed this' is a true past-tense proposition, and there is no power over the past (Ethics VI), so it cannot fail to be true. Something necessary is compatible with any contingent, so the two propositions can stand together. Alternatively, run the argument with infused faith: Peter or Andrew assented to 'Peter will deny Christ', with infused faith concurring. That the assent occurred is a past truth not dependent on a future contingent, hence necessary, and it could not have existed with its intensity without infused faith. But in the interval between the revelation and the denial, 'Peter will not deny Christ' was possible, so if it were true, infused faith would have inclined to a falsehood.",
+    "claims": [
+      "(Objection) A true past-tense proposition is necessary, since there is no power over the past.",
+      "(Objection) A necessary truth is compatible with any contingent one.",
+      "(Objection) Infused faith's past concurrence in assent to a future contingent would be necessary even if the future contingent proved false."
+    ],
+    "concepts": [
+      "necessity of the past",
+      "future contingents",
+      "infused faith",
+      "compossibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e259"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e343": {
+    "summary": "Reply to the first point: a revelation can be made about something that turns out false, but a revelation cannot be of the false, because revelation is the manifestation by God, directly or indirectly, of a truth previously unknown. 'Revelation' connotes truth, otherwise telling someone a falsehood would be revealing it. So 'Christ revealed to Peter that Peter would deny him' and 'Peter will not deny him' cannot stand together. If the latter is posited, it follows that it was not revealed, and what was a revelation can be no revelation. Although the revelation is past-tense, its truth is not necessary, since it depends on the future contingent 'Peter will deny Christ'. So neither Christ nor anyone can reveal a falsehood, nor can Christ say something false assertively with intent to deceive, though he can produce a false proposition. Peter denied Christ purely contingently and freely, as Judas betrayed him contingently after Christ's prediction, and Christ could have not said assertively what he said, as he could have not revealed what he revealed.",
+    "claims": [
+      "Revelation is the manifestation by God of a previously unknown truth.",
+      "'Revelation' connotes truth, so a false revelation is impossible.",
+      "A past-tense proposition whose truth depends on a future contingent is not necessary.",
+      "Christ cannot assert a falsehood with intent to deceive.",
+      "Peter's denial and Judas's betrayal were contingent and free despite being foretold."
+    ],
+    "concepts": [
+      "revelation",
+      "connotation",
+      "future contingents",
+      "necessity of the past",
+      "divine veracity",
+      "Peter's denial",
+      "Judas",
+      "freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e207",
+        "jm3cbb-e33578-d1e282"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e404": {
+    "summary": "Reply to the second argument: before the matter is settled, Mair denies the conjunction 'Peter will not deny Christ and infused faith inclines to assent to Peter will deny Christ', because its parts are incompatible.",
+    "claims": [
+      "Infused faith's inclining to assent to a future contingent is incompatible with that future contingent's being false."
+    ],
+    "concepts": [
+      "infused faith",
+      "future contingents",
+      "incompossibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e282"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e415": {
+    "summary": "Objection to the second conclusion: the assent to 'the day of judgment will come' or 'Antichrist will come' can be of a falsehood, since its object is contingent, and that assent is or can be faith, so faith can be of the false, and positing this, faith is of the false. Further, charity and hope bear on falsehoods, so faith does too, since all are theological virtues and charity is greater than faith (1 Corinthians 13). One foreknown to damnation hopes for a blessedness he will not obtain, and one invincibly deceived can act charitably toward a neighbour, as by giving alms to a rich man he thinks poor.",
+    "claims": [
+      "(Objection) Assent to a contingent article can be false, and that assent is faith.",
+      "(Objection) Hope and charity can bear on falsehoods, so faith can too."
+    ],
+    "concepts": [
+      "future contingents",
+      "hope",
+      "charity",
+      "theological virtues",
+      "invincible error",
+      "foreknown"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e184"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e452": {
+    "summary": "Reply in three propositions. First, it is granted that faith can be of the false, as the argument says: this judgment can be of the false, and this judgment is or can be faith. Second, if that judgment is of the false, it is not faith but error and perfidy. Third, the true divided modal 'faith can be of the false' is wrongly posited as 'faith is of the false'; it should be posited as 'this is of the false'.",
+    "claims": [
+      "In the divided sense, faith can be of the false.",
+      "A false judgment is not faith but error.",
+      "The divided modal must be posited using a demonstrative ('this is of the false'), not 'faith is of the false'."
+    ],
+    "concepts": [
+      "modal propositions",
+      "divided sense",
+      "positio",
+      "faith and error",
+      "demonstrative reference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e415"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e472": {
+    "summary": "Objection: the solution implies that an act of faith is of the same lowest species as an error, indeed that faith would be error. If a Hebrew under the law assented to 'Christ will be killed' and kept that assent through a time in whose first half Christ was killed, the assent in the second half is an error.",
+    "claims": [
+      "(Objection) The same continued assent would be faith and then error, making faith and error the same species."
+    ],
+    "concepts": [
+      "faith and error",
+      "tensed propositions",
+      "species of acts",
+      "Old Testament faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e452"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e491": {
+    "summary": "Reply: Mair grants that the same assent is successively an assent of faith and an error, and that not every assent of faith is specifically distinct from every erroneous assent. Nor did every Hebrew sin by holding that false assent for a time, as is clear with the uninstructed until the truth was sufficiently made known to them. He promises to say more about the 'good old woman' case below, against Altissiodorensis (William of Auxerre), who holds the opposite.",
+    "claims": [
+      "The same assent can successively be faith and error.",
+      "Faith and error are not always distinct in species.",
+      "Holding a now-false assent of faith is not sinful for the uninstructed until the truth is sufficiently made known."
+    ],
+    "concepts": [
+      "faith and error",
+      "invincible ignorance",
+      "William of Auxerre",
+      "good old woman",
+      "species of acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e472"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e511": {
+    "summary": "Reply to the argument from hope and charity: the antecedent is granted but the consequence denied, because the cases differ. Hope and charity are virtues of the intellectual appetite, while faith concerns the intellect. Although hope and charity presuppose faith, they can concern an object about which invincible error occurs, not through an act of faith but through some other cognitive act, since acts of hope and charity require prudence and other apprehensive and judicative acts as well.",
+    "claims": [
+      "Hope and charity are virtues of the will, while faith is a virtue of the intellect.",
+      "Hope and charity can bear on falsehoods through cognitive acts other than faith.",
+      "Acts of hope and charity require prudence and other cognitive acts besides faith."
+    ],
+    "concepts": [
+      "hope",
+      "charity",
+      "faith",
+      "intellectual appetite",
+      "prudence",
+      "invincible error"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e415"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e533": {
+    "summary": "Third objection: by faith we believe that Christ's body is in the Eucharist under the host, and this can be false, since the priest may be wicked.",
+    "claims": [
+      "(Objection) Eucharistic faith about a particular host can be false."
+    ],
+    "concepts": [
+      "Eucharist",
+      "real presence",
+      "priest",
+      "consecration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e184"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e542": {
+    "summary": "Reply: 'Christ's body is contained under this host' is not of faith. Only the conditional is: if the priest has taken due care and nothing required for consecration has been omitted, the body is there.",
+    "claims": [
+      "That Christ's body is under a particular host is not itself of faith.",
+      "What is of faith is the conditional: if consecration was duly performed, the body is present."
+    ],
+    "concepts": [
+      "Eucharist",
+      "conditional faith",
+      "consecration",
+      "real presence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e533"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e553": {
+    "summary": "Objection to the third conclusion: take someone with an acquired habit of faith of intensity eight about a future contingent such as 'Antichrist will come' or 'Christ will die'. A habit always inclines to acts entitatively like those from which it arose (as shown earlier in this distinction), so a Hebrew's habit formed from assents to 'Christ will die' would incline him to that assent even after Christ's death, when it was false.",
+    "claims": [
+      "(Objection) An acquired habit of faith about a future event would incline to a falsehood after the event."
+    ],
+    "concepts": [
+      "acquired faith",
+      "tensed propositions",
+      "specific likeness of acts",
+      "future contingents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e200",
+        "jm3cbb-e31052"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e577": {
+    "summary": "Possible reply, which Mair endorses: the habit is no longer a habit of faith but a habit of error inclining to falsehood. As soon as it inclines to the false, it is not a habit of faith.",
+    "claims": [
+      "A habit that inclines to a falsehood is no longer a habit of faith but of error."
+    ],
+    "concepts": [
+      "habit of error",
+      "acquired faith",
+      "truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e553"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e589": {
+    "summary": "Rejoinder: the habit was generated from acts of faith and only such acts, so as long as it remains it remains a habit of faith, just as acts of temperance generate temperance and acts of justice generate justice.",
+    "claims": [
+      "(Objection) A habit's kind is fixed by the acts that generated it."
+    ],
+    "concepts": [
+      "generation of habit",
+      "temperance",
+      "justice",
+      "acquired faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e577"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e602": {
+    "summary": "Here one could take two routes: either it is enough for a habit to be faith that it was produced solely from acts of faith, or the habit stops being faith as soon as its object is false.",
+    "claims": [],
+    "concepts": [
+      "acquired faith",
+      "definition of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e589"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e33578-d1e615": {
+    "summary": "Mair rejects the first route: if it were sufficient, the habit of faith would incline to falsehood, and by parity the act of faith would too, against the second conclusion and the truth. He takes the second route: once its object begins to be false, the habit stops being faith. For habitual faith it is not enough to be generated from acts of belief; its object must also be true (or, for a proposition that is both true and false in different senses, it is an object of faith in the true sense). The same holds for temperance: Socrates's habit of eating a certain amount when healthy, generated from temperate acts, naturally inclines him to eat the same when sick, but then it stops being a virtue, since it no longer accords with prudence, which regulates acts. It was generated in accord with prudence, but similar judgments now are not prudent.",
+    "claims": [
+      "An acquired habit ceases to be faith once its object becomes false.",
+      "For a habit to be faith, it must be generated from acts of belief and have a true object.",
+      "A habit generated from temperate acts stops being a virtue when it no longer accords with prudence."
+    ],
+    "concepts": [
+      "acquired faith",
+      "truth of object",
+      "temperance",
+      "prudence",
+      "virtue",
+      "denomination of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e33578",
+        "jm3cbb-e33578-d1e602",
+        "jm3cbb-e31052-d1e328"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:07:35Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e37582.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e37582": {
+    "summary": "The third question of distinction 25 asks whether unbelief is a greater sin than heresy. Mair distinguishes negative unbelief (lacking infused faith or the sacrament of faith) from contrary unbelief (resisting, attacking, and despising the faith). Four conclusions follow. Every wayfarer who is an unbeliever in the negative sense is in sin, namely original sin, since God ordinarily infuses faith when he remits it. Contrary unbelief is a grave and dangerous sin that separates a person from God and from those who should teach them. Some unbelief is a small sin and some greater, since one can lose infused faith through mortal sin or through only moderate pertinacity. Other things being equal, the heretic sins more than the unbeliever who never received the faith (2 Peter 2), since breaking a promise is worse than not fulfilling one never made, and heretics received the faith at baptism. Replies grant that a virtuous pagan would be enlightened, that an adult may have a grace period without sin, and that a heretic in one point may sin less than a total unbeliever, other things not being equal. Mair denies that anyone is a heretic without sin. One may hold a heresy without sin, but to be denominated a heretic requires pertinacity, meaning dissent from what one is bound to know explicitly or persistence after correction by the prudent, which pride makes dangerous, as with Arius. A closing doubt holds that heretics who return spontaneously and promptly are received without the death penalty, but not those who return late from fear, and that merely mental heretics are not excommunicated and do not lose ownership of their property.",
+    "claims": [
+      "Unbelief is either negative (lacking faith) or contrary (resisting and despising faith).",
+      "Every wayfarer lacking infused faith is in at least original sin.",
+      "Contrary unbelief is a grave and dangerous sin.",
+      "Unbelief varies in gravity.",
+      "Other things being equal, heresy is a worse sin than the unbelief of one who never received the faith.",
+      "A person who uses their natural powers well will be enlightened by God.",
+      "An adult may have a period of deliberation without sin when no teacher is available.",
+      "One can hold a heresy without sin, but one is a heretic only through pertinacity.",
+      "Pertinacity is dissent from what one is bound to know explicitly, or persistence after correction.",
+      "Heretics who return promptly and spontaneously are spared the death penalty, but not those who return late from fear.",
+      "Merely mental heretics are not excommunicated and do not lose ownership of property."
+    ],
+    "concepts": [
+      "unbelief",
+      "heresy",
+      "negative and contrary unbelief",
+      "original sin",
+      "pertinacity",
+      "denomination",
+      "baptismal promise",
+      "good old woman",
+      "penalties for heresy",
+      "excommunication",
+      "dominion"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e37582-d1e104",
+        "jm3cbb-e37582-d1e113",
+        "jm3cbb-e37582-d1e131",
+        "jm3cbb-e37582-d1e145",
+        "jm3cbb-e37582-d1e169",
+        "jm3cbb-e37582-d1e189",
+        "jm3cbb-e37582-d1e213",
+        "jm3cbb-e37582-d1e237",
+        "jm3cbb-e37582-d1e248",
+        "jm3cbb-e37582-d1e260",
+        "jm3cbb-e37582-d1e265",
+        "jm3cbb-e37582-d1e285",
+        "jm3cbb-e37582-d1e333",
+        "jm3cbb-e37582-d1e355"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e104": {
+    "summary": "Statement of the third question on distinction 25: whether unbelief is a greater sin than heresy.",
+    "claims": [],
+    "concepts": [
+      "unbelief",
+      "heresy",
+      "gravity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e36120-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e113": {
+    "summary": "Distinction: one is an unbeliever in two ways. Taking the prefix 'in-' purely negatively, an unbeliever is one who lacks infused faith or the sacrament of faith. Taken contrarily, one is an unbeliever who resists, attacks, and despises the faith.",
+    "claims": [
+      "Negative unbelief is the lack of infused faith or of the sacrament of faith.",
+      "Contrary unbelief is active resistance to and contempt for the faith."
+    ],
+    "concepts": [
+      "negative unbelief",
+      "contrary unbelief",
+      "privation",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e131": {
+    "summary": "First conclusion: every wayfarer who is an unbeliever in the first sense is in sin. Such a person is in original sin, since when God remits that sin he infuses faith by the common law.",
+    "claims": [
+      "Every wayfarer lacking infused faith is in sin.",
+      "When God remits original sin he ordinarily infuses faith."
+    ],
+    "concepts": [
+      "negative unbelief",
+      "original sin",
+      "infused faith",
+      "common law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e113"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e145": {
+    "summary": "Second conclusion: unbelief in the second sense is a great and dangerous sin. By it a person distances themselves from God and from those who should teach them the faith, so they sin most dangerously and gravely. Also, it opposes faithfulness and the act of faith, which is good and very praiseworthy, so unbelief is very blameworthy.",
+    "claims": [
+      "Contrary unbelief is a grave and dangerous sin.",
+      "Contrary unbelief separates one from God and from teachers of the faith.",
+      "Opposing a praiseworthy act is correspondingly blameworthy."
+    ],
+    "concepts": [
+      "contrary unbelief",
+      "gravity of sin",
+      "separation from God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e113"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e169": {
+    "summary": "Third conclusion: some unbelief is a small sin, some greater. A baptized person in mortal sin may lack infused faith and have only a slight stirring of unbelief, and is an unbeliever since he lacks infused faith. Also, someone can lose infused faith by assenting to a proposition opposed to the faith with pertinacity that is not great but moderate, and that dissent is unbelief.",
+    "claims": [
+      "Unbelief admits of degrees of gravity.",
+      "A baptized person in mortal sin may lack infused faith and so count as an unbeliever.",
+      "Infused faith can be lost through moderately pertinacious assent to an error against faith."
+    ],
+    "concepts": [
+      "degrees of sin",
+      "loss of infused faith",
+      "mortal sin",
+      "pertinacity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e113"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e189": {
+    "summary": "Fourth conclusion: other things being equal, a heretic holding heresy sins more than an unbeliever who has not received the faith. 2 Peter 2: it would have been better for them not to know the way of justice than to turn back after knowing it. Also, one who does not fulfil what he promised sins more than one who does not fulfil what he never promised, and heretics received the faith in baptism (though they never actually consented to it), while pure unbelievers did not receive it.",
+    "claims": [
+      "Other things equal, heresy is a graver sin than the unbelief of those who never received the faith.",
+      "Breaking a promise is worse than failing to do what one never promised.",
+      "Heretics received the faith in baptism, even without actual consent."
+    ],
+    "concepts": [
+      "heresy",
+      "unbelief",
+      "apostasy",
+      "baptismal promise",
+      "2 Peter 2:21"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e213": {
+    "summary": "Objection to the first conclusion: a pagan who uses his natural powers excellently but has not been enlightened in the faith is an unbeliever in the first sense but in no sin. Mair notes the reply that he thinks correct: God will enlighten such a person, so the case is not admissible under the law. The objector rejoins that then an adult who, on reaching the age of discretion, remains in doubt during a period of deliberation about how to act and whom to follow would be saved.",
+    "claims": [
+      "(Objection) A virtuous but unenlightened pagan lacks faith without sin.",
+      "God will enlighten anyone who uses their natural powers well."
+    ],
+    "concepts": [
+      "virtuous pagan",
+      "facere quod in se est",
+      "divine illumination",
+      "age of discretion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e131",
+        "jm3cbb-e32336-d1e461"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e237": {
+    "summary": "Reply: the rejoinder does not conclude, since such a person does not use their natural powers well. Mair grants that there can be a grace period in which someone does not sin by accepting no law, when they have no teacher.",
+    "claims": [
+      "Remaining undecided indefinitely is not good use of natural powers.",
+      "There can be a sinless period of deliberation when no teacher is available."
+    ],
+    "concepts": [
+      "period of deliberation",
+      "natural powers",
+      "absence of a teacher"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e213"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e248": {
+    "summary": "Objection to the fourth conclusion: a person may be a heretic in one heresy and believe rightly in everything else, while an unbeliever admits nothing of the faith, so the unbeliever sins more than this heretic.",
+    "claims": [
+      "(Objection) A heretic on one point sins less than a total unbeliever."
+    ],
+    "concepts": [
+      "partial heresy",
+      "unbelief",
+      "gravity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e189"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e260": {
+    "summary": "Reply: such a heretic does sin less than the unbeliever, but other things are not equal, so the 'other things being equal' conclusion is unaffected.",
+    "claims": [
+      "A heretic on one point may sin less than a total unbeliever, because other things are unequal."
+    ],
+    "concepts": [
+      "ceteris paribus",
+      "partial heresy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e248"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e265": {
+    "summary": "Second objection: a man can be a heretic without sin, so he does not sin more than an unbeliever. An old woman or vinedresser can fall into heresy without sin (from the first question of this distinction), and so be a heretic, since any heresy suffices to call someone a heretic, as the concrete term can be given wherever the abstract is present.",
+    "claims": [
+      "(Objection) One can fall into heresy without sin and thereby be a heretic.",
+      "(Objection) Any heresy suffices to denominate its holder a heretic."
+    ],
+    "concepts": [
+      "heretic",
+      "heresy",
+      "good old woman",
+      "concrete and abstract terms",
+      "denomination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e189",
+        "jm3cbb-e36120-d1e501"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e285": {
+    "summary": "Reply: Mair denies that anyone can be a heretic without sin. One can accept a heresy without sin, but not every heresy suffices to call someone a heretic, just as not every whiteness makes its subject white. What is required is dissent from a proposition one is bound to know explicitly, or dissent with pertinacity, which comes to the same. One is pertinacious when bound to give up one's heretical judgment and failing to. If the old woman assents to the opposite of a proposition of faith she is not then bound to know explicitly, but is informed by prudent people that her assent is erroneous and persists, she is pertinacious and sins. It is very dangerous for a proud person to err publicly in faith or morals, since pride makes him ashamed to be led to the truth and he seeks evasions, as Arius and many others did, while the prudent and humble gladly hear the truth. Others must correct him in the most honourable way possible, provided it does not harm the community.",
+    "claims": [
+      "No one is a heretic without sin.",
+      "Holding a heresy without sin is possible, but being denominated a heretic requires pertinacity.",
+      "Pertinacity is dissent from a proposition one is bound to know explicitly, or persisting after being informed of one's error.",
+      "Pride makes public error in faith especially dangerous.",
+      "Correction should be made as honourably as possible without harming the community."
+    ],
+    "concepts": [
+      "heretic",
+      "pertinacity",
+      "denomination",
+      "good old woman",
+      "pride",
+      "Arius",
+      "fraternal correction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e265"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e333": {
+    "summary": "A doubt: are heretics to be tolerated or received back into the faith whenever they return, and do secret heretics and their children lose ownership of their property? On the first part: if they return spontaneously and promptly, they are to be received and not given the death penalty (Decretals, c. Ad abolendam). If they return after a delay and not spontaneously but from fear of evidence or punishment, they are not to be spared punishment, as an example to others.",
+    "claims": [
+      "Heretics who return spontaneously and promptly are received and spared the death penalty.",
+      "Heretics who return late from fear of evidence or punishment are not spared, as an example to others."
+    ],
+    "concepts": [
+      "penalties for heresy",
+      "reconciliation",
+      "Ad abolendam",
+      "death penalty",
+      "deterrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e285"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37582-d1e355": {
+    "summary": "On the second part: no. These positive penalties are not imposed for an interior act alone. Although heretics are excommunicated, merely mental heretics are not, just as someone who wills to strike a cleric but does not is not excommunicated.",
+    "claims": [
+      "Positive penalties, including loss of property, are not imposed for interior acts alone.",
+      "Merely mental heretics are not excommunicated.",
+      "Intending to strike a cleric without doing so does not incur excommunication."
+    ],
+    "concepts": [
+      "mental heresy",
+      "excommunication",
+      "dominion",
+      "interior and exterior acts",
+      "penal law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37582",
+        "jm3cbb-e37582-d1e333"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

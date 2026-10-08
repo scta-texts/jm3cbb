@@ -1,0 +1,765 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:08:38Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e37858.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e37858": {
+    "summary": "The fourth question of distinction 25 asks how faith is lost. Mair answers with eight conclusions. Acquired faith is destroyed by the opposite actual heresy, effectively by the generating cause of the contrary habit. Infused faith can coexist with a habit of unbelief, as in a converted Muslim or Jew. Infused faith is not lost through every mortal sin, nor through every heresy, deliberate or not. No creature can destroy infused faith, since only God, who alone creates it, can annihilate it, as with charity. Infused faith is lost by demerit, through heresy joined with pertinacity, for instance by refusing to believe anything not demonstrated. Infused faith is lost through doubt (c. Dubius). The act of faith is lost when evidence supervenes. Replies clarify that 'what removes the greater removes the lesser' concerns resistance, not nobility, so mortal sin removes charity without removing faith. A general resolve of will suffices for believers reading scripture. Scruples and involuntary contrary motives are not imputed and are matter for virtue. The doubt that destroys faith is pertinacious, deliberate wavering about the truth of an article, not the arts masters' mere suspension of assent. Two doubts follow. Infused faith is increased by acts of faith, especially formed acts, and by prayer ('increase our faith'). Faith excludes culpable doubt but not every difficulty, since unlike evident knowledge it cannot answer further questions about its object and does not exclude involuntary contrary motions.",
+    "claims": [
+      "Acquired faith is destroyed by the act of the opposite heresy.",
+      "Infused faith can coexist with an acquired habit of unbelief.",
+      "Infused faith is not lost through every mortal sin or every heresy.",
+      "No creature can destroy infused faith; only God can annihilate it.",
+      "Infused faith is lost by demerit through heresy joined with pertinacity.",
+      "Infused faith is lost through pertinacious doubt.",
+      "The act of faith is lost when evidence about its object supervenes.",
+      "Charity, being nobler, is lost more easily than faith.",
+      "Involuntary scruples and contrary motives are not imputed as sin and do not destroy faith.",
+      "Doubt in the proper sense is deliberate wavering about a proposition's truth, not mere suspension of assent.",
+      "Infused faith is increased by acts of faith and by prayer.",
+      "Faith excludes culpable doubt but not every difficulty concerning its object."
+    ],
+    "concepts": [
+      "loss of faith",
+      "acquired faith",
+      "infused faith",
+      "heresy",
+      "pertinacity",
+      "doubt",
+      "mortal sin",
+      "annihilation",
+      "charity",
+      "scruples",
+      "evidence",
+      "increase of faith",
+      "c. Dubius"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e37858-d1e104",
+        "jm3cbb-e37858-d1e111",
+        "jm3cbb-e37858-d1e116",
+        "jm3cbb-e37858-d1e126",
+        "jm3cbb-e37858-d1e133",
+        "jm3cbb-e37858-d1e140",
+        "jm3cbb-e37858-d1e147",
+        "jm3cbb-e37858-d1e152",
+        "jm3cbb-e37858-d1e170",
+        "jm3cbb-e37858-d1e176",
+        "jm3cbb-e37858-d1e181",
+        "jm3cbb-e37858-d1e216",
+        "jm3cbb-e37858-d1e238",
+        "jm3cbb-e37858-d1e247",
+        "jm3cbb-e37858-d1e263",
+        "jm3cbb-e37858-d1e284",
+        "jm3cbb-e37858-d1e291",
+        "jm3cbb-e37858-d1e302",
+        "jm3cbb-e37858-d1e309",
+        "jm3cbb-e37858-d1e314",
+        "jm3cbb-e37858-d1e325",
+        "jm3cbb-e37858-d1e344",
+        "jm3cbb-e37858-d1e360",
+        "jm3cbb-e37858-d1e373",
+        "jm3cbb-e37858-d1e389",
+        "jm3cbb-e37858-d1e400",
+        "jm3cbb-e37858-d1e420",
+        "jm3cbb-e37858-d1e463",
+        "jm3cbb-e37858-d1e472",
+        "jm3cbb-e37858-d1e516",
+        "jm3cbb-e37858-d1e523",
+        "jm3cbb-e37858-d1e543"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e104": {
+    "summary": "Statement of the fourth question on distinction 25: how faith is lost.",
+    "claims": [],
+    "concepts": [
+      "loss of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e36120-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e111": {
+    "summary": "Announcement that the question will be answered by eight conclusions.",
+    "claims": [],
+    "concepts": [
+      "conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e116": {
+    "summary": "First conclusion: the acquired habit of faith is lost through the actual heresy opposed to it.",
+    "claims": [
+      "Acquired faith is destroyed by actual heresy opposed to it."
+    ],
+    "concepts": [
+      "acquired faith",
+      "heresy",
+      "corruption of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e111"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e126": {
+    "summary": "Second conclusion: the infused habit of faith can coexist with a habit of unbelief.",
+    "claims": [
+      "Infused faith can coexist with a habit of unbelief."
+    ],
+    "concepts": [
+      "infused faith",
+      "habit of unbelief",
+      "coexistence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e111"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e133": {
+    "summary": "Third conclusion: infused faith is not lost through every mortal sin.",
+    "claims": [
+      "Not every mortal sin destroys infused faith."
+    ],
+    "concepts": [
+      "infused faith",
+      "mortal sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e111"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e140": {
+    "summary": "Fourth conclusion: infused faith is not lost through every heresy, deliberate or not.",
+    "claims": [
+      "Not every heresy, deliberate or indeliberate, destroys infused faith."
+    ],
+    "concepts": [
+      "infused faith",
+      "heresy",
+      "deliberation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e111"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e147": {
+    "summary": "Fifth conclusion: no creature destroys infused faith.",
+    "claims": [
+      "No creature can destroy infused faith."
+    ],
+    "concepts": [
+      "infused faith",
+      "creaturely causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e111"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e152": {
+    "summary": "Sixth conclusion: infused faith is lost through demerit by heresy joined with pertinacity, or by dissent from an article. For example, if someone refuses to believe 'God exists' or any proposition unless it is demonstrated to them, then even if it is demonstrated and they assent, they still lose infused faith. Merit and demerit are rooted in the act of will, or, for sin, in its omission.",
+    "claims": [
+      "Infused faith is lost by demerit through pertinacious heresy or dissent from an article.",
+      "Refusing to believe anything unless demonstrated destroys infused faith even if one then assents to the demonstration.",
+      "Merit and demerit are rooted in the act or omission of the will."
+    ],
+    "concepts": [
+      "infused faith",
+      "demerit",
+      "pertinacity",
+      "demand for demonstration",
+      "will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e111",
+        "jm3cbb-e34827-d1e512"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e170": {
+    "summary": "Seventh conclusion: infused faith is lost through doubt.",
+    "claims": [
+      "Infused faith is lost through doubt."
+    ],
+    "concepts": [
+      "infused faith",
+      "doubt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e111"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e176": {
+    "summary": "Eighth conclusion: the act of faith is lost when evidence supervenes.",
+    "claims": [
+      "The act of faith is lost when evidence about its object supervenes."
+    ],
+    "concepts": [
+      "act of faith",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e111",
+        "jm3cbb-e35329"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e181": {
+    "summary": "Proof of the first conclusion: an acquired habit is naturally destroyed, and by the opposite habit, since they cannot coexist. To the objection that an act of opinion is destroyed by a supervening act of science although they are incompatible, Mair says opinion is destroyed effectively by the cause producing science, which cannot produce its effect without destroying the opposite, as the form of water destroys heat. So the act is naturally apt to produce a habit opposite to the pre-existing one and effectively destroys it, though the new habit can be said to destroy the old one formally, because they are incompatible.",
+    "claims": [
+      "An acquired habit is destroyed effectively by the act that generates the opposite habit.",
+      "The new habit destroys the old only formally, through their incompatibility."
+    ],
+    "concepts": [
+      "corruption of habit",
+      "effective and formal corruption",
+      "opinion and science",
+      "acquired faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e116",
+        "jm3cbb-e31916-d1e403"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e216": {
+    "summary": "Proof of the second conclusion: if someone deeply habituated in unbelief, such as a Muslim or a Jew, converts, infused faith is given at baptism if they put no obstacle, but their habit of unbelief is not yet destroyed, since they have not elicited opposite acts, just as the intemperate person does not lose a long-acquired habit through one temperate act.",
+    "claims": [
+      "A convert receives infused faith at baptism while retaining the acquired habit of unbelief.",
+      "A long-standing habit is not destroyed by a single opposite act."
+    ],
+    "concepts": [
+      "conversion",
+      "baptism",
+      "habit of unbelief",
+      "infused faith",
+      "obstacle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e126",
+        "jm3cbb-e35329-d1e185"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e238": {
+    "summary": "Proof of the third conclusion: otherwise anyone in mortal sin after receiving faith would be an unbeliever and a heretic, which should not be said.",
+    "claims": [
+      "If every mortal sin destroyed faith, every sinful believer would be an unbeliever or heretic."
+    ],
+    "concepts": [
+      "mortal sin",
+      "infused faith",
+      "heretic"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e247": {
+    "summary": "Proof of the fourth conclusion. An indeliberate heresy may be no sin or only venial, and infused faith is not lost by venial sin. One can also hold a deliberate heresy without mortal sin, by assenting implicitly and dissenting explicitly from an article one is not bound to know explicitly.",
+    "claims": [
+      "Indeliberate heresy may be no sin or only venial.",
+      "Infused faith is not lost through venial sin.",
+      "Deliberate heresy about an article one need not know explicitly may not be mortal."
+    ],
+    "concepts": [
+      "indeliberate heresy",
+      "venial sin",
+      "implicit faith",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e140",
+        "jm3cbb-e36120-d1e545"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e263": {
+    "summary": "Proof of the fifth conclusion: infused faith is created by God alone, so it cannot be destroyed by any creature, as with everything created by God alone. To the objection that the first substantial form was created by God alone yet could be destroyed by a creature, Mair argues instead: infused faith can be created only by God, so it can be annihilated only by God, an inference that holds generally for things only God can create.",
+    "claims": [
+      "Infused faith is created by God alone.",
+      "What only God can create, only God can annihilate."
+    ],
+    "concepts": [
+      "creation",
+      "annihilation",
+      "infused faith",
+      "substantial form"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e147"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e284": {
+    "summary": "Second argument: everyone agrees that infused charity is annihilated by God alone, so the same holds for infused faith.",
+    "claims": [
+      "Infused charity is annihilated only by God, and infused faith likewise."
+    ],
+    "concepts": [
+      "infused charity",
+      "annihilation",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e263"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e291": {
+    "summary": "Proof of the sixth conclusion: infused faith is lost but not destroyed by a creature, so it is removed only by reason of demerit, and if any demerit removes it, it will most of all be heresy joined with pertinacity.",
+    "claims": [
+      "Infused faith is removed only by God on account of demerit.",
+      "Pertinacious heresy is the chief demerit that removes infused faith."
+    ],
+    "concepts": [
+      "demerit",
+      "pertinacity",
+      "heresy",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e152",
+        "jm3cbb-e37858-d1e263"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e302": {
+    "summary": "Proof of the seventh conclusion from the Decretals (De haereticis, c. Dubius): one who doubts in faith is an unbeliever.",
+    "claims": [
+      "One who doubts in faith is an unbeliever."
+    ],
+    "concepts": [
+      "doubt",
+      "c. Dubius",
+      "unbeliever",
+      "canon law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e170"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e309": {
+    "summary": "The eighth conclusion was shown earlier in this distinction.",
+    "claims": [],
+    "concepts": [
+      "evidence",
+      "act of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e176"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e314": {
+    "summary": "Objection to the third conclusion: every mortal sin removes charity by demerit, so every one removes faith, since what removes the greater removes the lesser.",
+    "claims": [
+      "(Objection) Since mortal sin removes charity, the greater virtue, it must also remove faith."
+    ],
+    "concepts": [
+      "mortal sin",
+      "charity",
+      "faith",
+      "a maiore ad minus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e325": {
+    "summary": "Reply: the consequence is denied. 'What removes the greater removes the lesser' is true if it means that what removes the more resistant removes the less resistant, but false if 'greater' means nobler: what takes life from a man does not take life from a cat, since more perfect things require more conditions to exist. Charity is nobler than faith.",
+    "claims": [
+      "What removes the more resistant removes the less resistant, but what removes the nobler does not necessarily remove the less noble.",
+      "More perfect things require more conditions for their existence.",
+      "Charity is nobler than faith and so is lost more easily."
+    ],
+    "concepts": [
+      "a maiore ad minus",
+      "nobility",
+      "resistance",
+      "charity",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e314"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e344": {
+    "summary": "Objection to the seventh conclusion: one who reads the Bible without applying the will's effort to assent assents with an opinative assent, not faith, since faith is not caused by motive alone (distinction 23), and opinion involves doubt.",
+    "claims": [
+      "(Objection) Reading scripture without particular effort of will yields only opinion, which involves doubt."
+    ],
+    "concepts": [
+      "opinion",
+      "doubt",
+      "command of the will",
+      "reading scripture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e170",
+        "jm3cbb-e34144-d1e551"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e360": {
+    "summary": "Second objection: someone may have a scruple about matters of faith, such as the resurrection of the dead or the eternity of the world, and is therefore doubtful. If faith were lost that way it would be lost easily, indeed more quickly than charity.",
+    "claims": [
+      "(Objection) Scruples about articles would make faith easily lost."
+    ],
+    "concepts": [
+      "scruples",
+      "doubt",
+      "resurrection",
+      "eternity of the world"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e170"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e373": {
+    "summary": "Third objection, from the earlier argument: someone who apprehends that God is three and one and does not assent doubts, yet does not lose faith by not assenting, since he is not always bound to assent; take a time when he is not.",
+    "claims": [
+      "(Objection) Apprehending an article without assenting is doubt, yet does not destroy faith."
+    ],
+    "concepts": [
+      "doubt",
+      "suspension of assent",
+      "obligation to assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e170",
+        "jm3cbb-e32336-d1e340"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e389": {
+    "summary": "Fourth objection: the old woman does not lose faith by dissenting from an article (as said often in this distinction), so all the more she does not lose infused faith by doubting such an article.",
+    "claims": [
+      "(Objection) If dissent does not destroy her faith, doubt does not either."
+    ],
+    "concepts": [
+      "good old woman",
+      "doubt",
+      "dissent",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e170",
+        "jm3cbb-e36120-d1e501"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e400": {
+    "summary": "Reply to the first: answered above. A particular effort is not needed for each proposition; it suffices to have applied effort to the first believable and to the proposition that everything in the Bible is true in its intended sense. Then one has a generated habit and the will's command is virtually present for every believable, so there is neither opinion nor doubt. One who merely opines does not take on more assent than reason persuades.",
+    "claims": [
+      "A general effort of will directed to the faith as a whole suffices for believing every article.",
+      "With the generated habit, the will's command is virtually present for each believable."
+    ],
+    "concepts": [
+      "virtual command",
+      "general resolve",
+      "habit of faith",
+      "reading scripture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e344",
+        "jm3cbb-e34144-d1e583"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e420": {
+    "summary": "Reply to the second: it is not in a person's power to avoid apprehending the opposite of an article or having a motive against it come to mind, and such a motive causes no dissent from the article or assent to its opposite. These things happen naturally, against one's intention, and are in no way imputed. To have a scruple is just to have a motive, and a scruple of conscience is a motive against conscience while the judgment of conscience remains. So a scruple against faith does not remove infused faith; it is matter for virtue if resisted. Even a surreptitious, indeliberate heresy about what one must know explicitly does not destroy infused faith, since it is not mortal, and infused faith is never lost without mortal sin.",
+    "claims": [
+      "Involuntary apprehensions and motives against faith are not imputed as sin.",
+      "A scruple is a motive, not a contrary judgment.",
+      "Resisting scruples against faith is matter for virtue.",
+      "Infused faith is never lost without mortal sin, so indeliberate heresy does not destroy it."
+    ],
+    "concepts": [
+      "scruples",
+      "conscience",
+      "involuntary thoughts",
+      "imputability",
+      "indeliberate heresy",
+      "virtue"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e360"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e463": {
+    "summary": "Reply to the third: answered above. Taking 'doubt' in that sense (merely not assenting), infused faith is not lost, since such doubt can occur without any sin.",
+    "claims": [
+      "Mere non-assent to an apprehended article can be sinless and does not destroy infused faith."
+    ],
+    "concepts": [
+      "suspension of assent",
+      "doubt",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e373"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e472": {
+    "summary": "Reply to the fourth: Mair grants the consequence and the consequent. To complete all the solutions and the first decretal on heretics, the doubt in question is doubt with pertinacity, which is doubting when one is bound to abandon the doubt. If Socrates, because of sophisms that occur to him, begins truly to waver about the future resurrection, that is properly doubting. To apprehend a proposition and neither assent nor dissent is not doubting, and the arts masters define it badly. Rather, doubting is apprehending a proposition and wavering about its truth, so that if asked whether it is true one would not know which way to turn, and such a person is an unbeliever if he wavers deliberately and with full judgment. So faith is not diminished by degrees: heresy with pertinacity, or doubt with pertinacity, removes the whole of infused faith by demerit.",
+    "claims": [
+      "The doubt that destroys faith is pertinacious doubt, which one is bound to abandon.",
+      "Doubt properly is wavering about a proposition's truth, not mere suspension of assent.",
+      "The arts masters' definition of doubt is inadequate.",
+      "Deliberate, fully considered wavering about an article makes one an unbeliever.",
+      "Infused faith is not lost by degrees; pertinacious heresy or doubt removes it entirely."
+    ],
+    "concepts": [
+      "doubt",
+      "pertinacity",
+      "definition of doubt",
+      "arts masters",
+      "c. Dubius",
+      "loss of infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e389",
+        "jm3cbb-e37858-d1e302",
+        "jm3cbb-e32336-d1e437"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e516": {
+    "summary": "A further doubt: how is infused faith increased? For acquired faith there is no difficulty.",
+    "claims": [],
+    "concepts": [
+      "increase of faith",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e472"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e523": {
+    "summary": "Answer: infused faith is increased, since the Church prays in the collect, 'increase in us, Lord, faith and hope'. It is increased through acts of faith, especially formed ones, and through asking God to increase it.",
+    "claims": [
+      "Infused faith can be increased.",
+      "It is increased by acts of faith, especially acts formed by charity, and by prayer."
+    ],
+    "concepts": [
+      "increase of faith",
+      "prayer",
+      "liturgy",
+      "formed faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e516"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e37858-d1e543": {
+    "summary": "A doubt: does faith exclude all doubt from the intellect? Acquired habitual faith does not exclude all doubt, but infused faith cannot coexist with the doubt meant in c. Dubius. The act of faith completely excludes such doubt about its believable, but not scruples or emerging difficulties, which science does exclude. Someone with evident judgment through intuitive cognition that 'Socrates is white' knows Socrates's height, colouring, and facial proportions and can answer such questions readily, but if God revealed it to Plato so that he had only faith that 'Socrates is white', he could not answer how tall Socrates is or what his face is like on the strength of that faith. Likewise a scientific habit does not allow a surreptitious motion to the opposite, while faith does. So faith includes firmness and excludes condemned doubt, but not every difficulty arising about its object.",
+    "claims": [
+      "Acquired faith does not exclude all doubt; infused faith excludes culpable doubt.",
+      "The act of faith excludes doubt about its object but not scruples or difficulties.",
+      "Evident cognition gives access to further details about its object, while faith does not.",
+      "Science excludes involuntary contrary motions, while faith does not."
+    ],
+    "concepts": [
+      "doubt",
+      "firmness",
+      "evidence",
+      "intuitive cognition",
+      "scruples",
+      "faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e37858",
+        "jm3cbb-e37858-d1e472",
+        "jm3cbb-e35329"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:03:06Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e34827.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e34827": {
+    "summary": "The twelfth and final question of distinction 23 asks whether confession of faith is an act of faith and always falls under precept. Mair gives four conclusions. Willing to confess the faith is not an act of faith, since faith is an act of the intellect and this willing is an act of the will. One is not obliged always and everywhere to confess and defend the faith, since it is an affirmative precept and confession can be fruitless (pearls before swine, Paul's escape from Damascus). Confession is sometimes commanded even to the point of death, when God's honour or the neighbour's spiritual good is at stake, so Nicodemus, Gamaliel, and the rulers who did not confess Christ for fear of the Pharisees sinned. It is lawful to confess the faith as a work of counsel even foreseeing death, as virgin martyrs and the Franciscan protomartyrs in Morocco did. In reply to objections, Mair distinguishes the negative precept never to deny Christ, which always binds, from the affirmative precept to confess, and distinguishes personal persecution (from which one may flee) from persecution of the faith (from which one may not flee if one's death would profit the faithful), comparing flight to a soldier's choice in battle. A closing doubt holds that reasons for the faith do not lessen merit. Probable reasons do not ground belief, demonstrations do not if one would believe anyway, sophistical counterarguments increase merit, and seeking reasons out of charity, to persuade unbelievers, steady the simple, and delight the perfect, is meritorious. Demanding a convincing proof as a condition of belief is sinful.",
+    "claims": [
+      "Willing to confess the faith is an act of the will and so is not an act of faith.",
+      "The affirmative precept to confess the faith does not bind at all times and places.",
+      "Confession of faith is commanded, even unto death, when God's honour or the neighbour's spiritual good requires it.",
+      "Those who believed in Christ but did not confess him for fear of losing their status sinned.",
+      "Confessing the faith at the foreseen cost of one's life can be a lawful work of counsel.",
+      "The negative precept never to deny Christ binds always and at every moment.",
+      "One may flee personal persecution but not persecution of the faith when one's death would benefit the faithful.",
+      "A probable opinion suffices for a good act; prudence in the strict sense is not required.",
+      "Reasons for the faith do not diminish merit, and resisting sophistical arguments increases it.",
+      "Seeking reasons and analogies for the faith out of charity is meritorious, but refusing to believe without a convincing proof is sinful."
+    ],
+    "concepts": [
+      "confession of faith",
+      "precept",
+      "counsel",
+      "affirmative and negative precepts",
+      "martyrdom",
+      "persecution",
+      "flight",
+      "fortitude",
+      "merit",
+      "reasons for faith",
+      "demonstration",
+      "apologetics"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e34827-d1e104",
+        "jm3cbb-e34827-d1e117",
+        "jm3cbb-e34827-d1e137",
+        "jm3cbb-e34827-d1e173",
+        "jm3cbb-e34827-d1e251",
+        "jm3cbb-e34827-d1e284",
+        "jm3cbb-e34827-d1e297",
+        "jm3cbb-e34827-d1e341",
+        "jm3cbb-e34827-d1e363",
+        "jm3cbb-e34827-d1e408",
+        "jm3cbb-e34827-d1e424",
+        "jm3cbb-e34827-d1e444",
+        "jm3cbb-e34827-d1e512"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e104": {
+    "summary": "Statement of the twelfth and last question of distinction 23: whether confession of faith is an act of faith and always falls under precept.",
+    "claims": [],
+    "concepts": [
+      "confession of faith",
+      "precept"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e29023-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e117": {
+    "summary": "First conclusion: willing to confess the faith is not an act of faith. Every act of faith is an act of the intellect, and the volition to confess the faith publicly or privately is an act of the will, so by a syllogism in Baroco it is not an act of faith.",
+    "claims": [
+      "Every act of faith is an act of the intellect.",
+      "The volition to confess the faith is an act of the will.",
+      "So the volition to confess the faith is not an act of faith."
+    ],
+    "concepts": [
+      "confession of faith",
+      "act of faith",
+      "intellect",
+      "will",
+      "Baroco"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e104",
+        "jm3cbb-e34144-d1e493"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e137": {
+    "summary": "Second conclusion: one is not obliged always and everywhere to confess the faith and to will to defend it by mouth. Confession is an affirmative precept, so it does not bind at every time. Public confession might win nothing for the community of the faithful but only mockery and the destruction of a good member of the Church, and then one should not suffer it: 'do not give what is holy to dogs, nor cast pearls before swine' (Matthew 7). Paul also fled Damascus in a basket (Acts 9; 2 Corinthians 11).",
+    "claims": [
+      "Affirmative precepts do not bind at every time.",
+      "One need not confess the faith when doing so would bring only mockery and the loss of a member of the Church.",
+      "Paul's flight from Damascus shows that avoiding confession can be lawful."
+    ],
+    "concepts": [
+      "affirmative precept",
+      "confession of faith",
+      "prudence",
+      "Paul's escape",
+      "pearls before swine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e173": {
+    "summary": "Third conclusion: confessing the faith is sometimes commanded, so that inner belief is not enough for salvation and one must steadfastly defend the faith by word and deed, even to death. 'With the heart one believes to justice, with the mouth confession is made to salvation' (Romans 10). God is to be loved above all, so his honour and the defence of his faith come before bodily life, otherwise the order of charity is perverted, as the martyrs show, along with Matthew 5 and John 15. Suffering death for confessing the faith is commanded when God's honour, or a spiritual benefit owed to the neighbour, is at stake. So Nicodemus, Gamaliel, and many rulers of the synagogue sinned by not confessing Christ as the promised Messiah, which they knew from the prophets, caring more for their own honour and positions (John 12: they loved the glory of men more than the glory of God). The interlinear gloss says they were bound to enlighten the simple. Though later good, they sinned in this, as Peter did in his denial, since public confession would have greatly benefited the people's faith.",
+    "claims": [
+      "Confession of faith is sometimes commanded, so that inward belief alone does not suffice for salvation.",
+      "God's honour and the defence of the faith take precedence over bodily life.",
+      "Suffering death for confession is commanded when God's honour or the neighbour's due spiritual good is at stake.",
+      "Nicodemus, Gamaliel, and the believing rulers sinned by not publicly confessing Christ."
+    ],
+    "concepts": [
+      "confession of faith",
+      "martyrdom",
+      "order of charity",
+      "Nicodemus",
+      "Gamaliel",
+      "love of glory",
+      "Romans 10:10"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e137"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e251": {
+    "summary": "Fourth conclusion: it is lawful to confess the faith as a work of counsel even when one judges that one will be killed for it. Counsels concern the better good, so although preserving life is good in that case, steadfastly defending the faith is better and so lawful. Many holy virgins could have hidden without sin while remaining faithful, yet out of zeal for God came forward, confessed Christ's name, and refused husbands. Some Franciscan friars did the same at the founding of their order under the Miramolin in the western lands, though they were no more commanded to go to the Muslims than others who did not take on that burden.",
+    "claims": [
+      "Voluntarily confessing the faith at the foreseen cost of one's life is a lawful work of counsel.",
+      "Counsels concern the better good.",
+      "The virgin martyrs and the Franciscan protomartyrs acted lawfully, beyond what precept required."
+    ],
+    "concepts": [
+      "counsel",
+      "martyrdom",
+      "virgin martyrs",
+      "Franciscan martyrs",
+      "Morocco",
+      "supererogation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e173"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e284": {
+    "summary": "Objection to the second conclusion: someone travelling to Jerusalem who finds himself among Muslims must rather suffer death than deny the name of Jesus, even if he sees his death will not benefit Christendom, since one should rather die than do something shameful.",
+    "claims": [
+      "(Objection) One must accept death rather than deny Christ even when the death is fruitless."
+    ],
+    "concepts": [
+      "denial of Christ",
+      "martyrdom",
+      "pilgrimage",
+      "Muslims"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e137"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e297": {
+    "summary": "Reply: Mair grants the assumption. One cannot deny the name of Jesus without sin even while consenting inwardly, since that breaks the negative precept, which binds always and at every moment: 'whoever denies me before men, I will deny before my Father'. But passing by in silence is different, and not every questioner must be answered yes or no; one must answer affirmatively when time and place call for it. If someone offered himself, wrongly thinking it would greatly benefit others to declare that Jesus is God and Muhammad is damned, he would still act not only well but very nobly. His constancy might do good, and it is enough that it does no harm. A good act does not require prudence; a probable opinion suffices.",
+    "claims": [
+      "Denying Christ is always sinful, since the negative precept binds always and at every moment.",
+      "Silence is not denial, and not every questioner must be answered.",
+      "Confession made from a mistaken but probable belief that it will help others is still good and even heroic.",
+      "A good act requires only probable opinion, not prudence."
+    ],
+    "concepts": [
+      "negative precept",
+      "denial of Christ",
+      "silence",
+      "probable opinion",
+      "prudence",
+      "constancy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e284"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e341": {
+    "summary": "Objection to the third conclusion: 'when they persecute you in one city, flee to another' (Matthew 10), confirmed by Paul's escape from Damascus, where the governor under King Aretas guarded the city to seize him and he was let down through a window in a basket (2 Corinthians 11).",
+    "claims": [
+      "(Objection) Scripture and Paul's example permit fleeing persecution rather than confessing unto death."
+    ],
+    "concepts": [
+      "flight from persecution",
+      "Matthew 10:23",
+      "Paul's escape",
+      "Damascus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e173"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e363": {
+    "summary": "Reply: when persecution is personal, aimed at a prelate or a single individual and not because of their faith, flight is lawful, especially when the person is being kept for greater things, as Paul was (Acts 9). Likewise Elijah fled Jezebel (1 Kings 19). Paul's persecution was personal, since they sought him and left other Christians alone. When persecution is primarily of the faith, and so indifferently against anyone, one must in no way flee, especially if one's death will likely benefit the community of the faithful more than it harms. As with a soldier in battle: if his flight would ruin others and disgrace him, he should stand, but if it would not harm his community and preserving him would greatly help, he should flee. Flight can be an act of fortitude in the right place and time.",
+    "claims": [
+      "Flight from personal persecution, especially when one is kept for greater works, is lawful.",
+      "One must not flee persecution of the faith when one's death would probably help the faithful more than harm them.",
+      "Flight can be an act of fortitude in the right circumstances."
+    ],
+    "concepts": [
+      "personal persecution",
+      "persecution of the faith",
+      "flight",
+      "fortitude",
+      "Elijah",
+      "soldier analogy",
+      "common good"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e341"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e408": {
+    "summary": "Objection to the fourth conclusion: it is never lawful to suffer death as a work of counsel. When one thing is commanded and another counselled, a counsel never releases one from a precept, and preserving one's life is commanded while suffering death in that case would only be counselled.",
+    "claims": [
+      "(Objection) A counsel cannot override a precept, and self-preservation is a precept."
+    ],
+    "concepts": [
+      "precept",
+      "counsel",
+      "self-preservation",
+      "martyrdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e251"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e424": {
+    "summary": "Confirmation: when two precepts conflict, the lesser yields to the greater and stops being a precept, so all the more a counsel yields to a precept, since a counsel to do a and a precept to do not-a cannot both hold. Mair says that, though these reasons seem plausible at first sight, he answered them in Book IV, distinction 49.",
+    "claims": [
+      "(Objection) When precepts conflict, the lesser yields to the greater.",
+      "(Objection) A counsel and a precept cannot have opposite contents."
+    ],
+    "concepts": [
+      "conflict of precepts",
+      "counsel",
+      "precept",
+      "Book IV distinction 49"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e408"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e444": {
+    "summary": "A doubt: does a reason brought forward for matters of faith lessen merit? Answer: no. If the reason is only probable, one does not believe because of it, or would believe without it. If it were a demonstration, it still does not lessen merit so long as one is ready to assent whether one has the demonstration or not, as with freely setting out on pilgrimage to Saint James even if someone else would compel it. A seemingly strong sophistical argument against the faith increases merit if one keeps assenting as intensely, since more is contributed by the will and assent is harder. Moreover, acquiring reasons and supports for the faith is praiseworthy: so unbelievers who think we believe incredible things may be brought to faith, the simple kept and strengthened in it (1 Peter 3, 'always ready to give a reason'; Sirach 24), and the perfect delighted and drawn from worldly distractions to meditate on God's law.",
+    "claims": [
+      "Reasons for the faith do not lessen merit.",
+      "A demonstration does not lessen merit if one would believe without it.",
+      "Persevering in belief against sophistical arguments increases merit.",
+      "Seeking reasons for the faith is praiseworthy, for converting unbelievers, strengthening the simple, and delighting the perfect."
+    ],
+    "concepts": [
+      "merit",
+      "reasons for faith",
+      "demonstration",
+      "sophistical arguments",
+      "apologetics",
+      "1 Peter 3:15"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34144"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34827-d1e512": {
+    "summary": "Summary and conclusion. The volition to defend the faith is not an act of faith but is connected with faith and fortitude (as discussed under martyrdom in Book IV, d.49). It is good, not evil, to suffer death as a work of counsel rather than abandon the work, and zeal for the faith has led many brave martyrs to do this. It is lawful to acquire reasons and supports for defending the faith, not to believe more firmly but to understand better what is believed, by seeking likenesses as respondents at the Sorbonne do on doubtful matters, by removing obstacles for unbelievers who think the faith impossible, and by keeping the simple in the faith, since they cannot naturally believe without some motive (the will alone cannot cause belief). Rescuing wavering believers through such aids is meritorious, as is drawing sinners from evil to good, and such aids do not compel belief unless the person freely wills it. So natural reason does not remove merit but adds to it. The wise person wants to believe with or without reasons, and the will, from charity, commands the intellect to seek reasons and analogies for the gain of souls and God's glory, meriting whether or not it finds them, since finding apt reasons is God's gratuitous gift. But someone who seeks a reason that convinces the intellect and would not otherwise believe merits nothing and sins, since assent to a demonstrated conclusion is not free and rests on human reason, not divine authority and revelation.",
+    "claims": [
+      "The volition to defend the faith belongs to fortitude and is linked to faith, but is not an act of faith.",
+      "Suffering death for a work of counsel rather than abandoning it is good.",
+      "Reasons for the faith serve understanding, persuasion of unbelievers, and support of the simple, not firmer belief.",
+      "The simple cannot naturally believe without some motive, since the will alone cannot cause belief.",
+      "Seeking reasons for the faith out of charity is meritorious whether or not they are found.",
+      "Finding apt reasons for the faith is a gratuitous gift of God.",
+      "Refusing to believe without a convincing demonstration is sinful, since assent to a demonstrated conclusion is not free and does not rest on divine authority."
+    ],
+    "concepts": [
+      "confession of faith",
+      "fortitude",
+      "martyrdom",
+      "reasons for faith",
+      "faith seeking understanding",
+      "Sorbonne disputation",
+      "merit",
+      "demonstration",
+      "divine authority",
+      "freedom of belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34827",
+        "jm3cbb-e34827-d1e444",
+        "jm3cbb-e34827-d1e117",
+        "jm3cbb-e34144-d1e228"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

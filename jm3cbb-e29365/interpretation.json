@@ -1,0 +1,516 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T19:53:11Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e29365.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e29365": {
+    "summary": "The second question asks in which power or subject habits are to be posited. Mair first denies that habits exist in purely natural subjects, since a stone thrown up a thousand times rises no more easily. He then rejects an account that excludes habits from any power determined to one act, and in its place lays down the 'fundamental principle' for the whole treatise: a habit is posited in every power, natural or free, that becomes readier for its operation through repeated acts, and in no other. Five corollaries follow. There are habits in the intellect even toward self-evident principles it cannot dissent from, in the will, in bodily members such as the hands of a harpist or writer, in brute animals, and in the sensitive appetite. The objections from innate temperament, from the soul as the real mover of the limbs, and from the will's ability to act without a habit are answered by appeal to the facilitation criterion.",
+    "claims": [
+      "Habits are not found in natural subjects lacking cognition, such as stones or heat.",
+      "A habit is posited in every power that becomes readier for its operation through repeated acts, and in no other power.",
+      "Without the facilitation criterion, no habit at all can be proved.",
+      "Habits can exist toward objects the power cannot dissent from, such as self-evident principles.",
+      "Habits are found in the will, in bodily members, in brute animals, and in the sensitive appetite.",
+      "Innate dispositions do not rule out habits; the test is greater readiness after repeated acts while the bodily disposition stays the same.",
+      "The will can act without a habit, but not as intensely or as readily as with one."
+    ],
+    "concepts": [
+      "habit",
+      "subject of habit",
+      "facilitation",
+      "natural power",
+      "free power",
+      "self-evident principles",
+      "will",
+      "sensitive appetite",
+      "bodily habits",
+      "animals",
+      "temperament"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e29365-d1e104",
+        "jm3cbb-e29365-d1e113",
+        "jm3cbb-e29365-d1e131",
+        "jm3cbb-e29365-d1e148",
+        "jm3cbb-e29365-d1e172",
+        "jm3cbb-e29365-d1e188",
+        "jm3cbb-e29365-d1e230",
+        "jm3cbb-e29365-d1e246",
+        "jm3cbb-e29365-d1e251",
+        "jm3cbb-e29365-d1e276",
+        "jm3cbb-e29365-d1e289",
+        "jm3cbb-e29365-d1e305",
+        "jm3cbb-e29365-d1e321",
+        "jm3cbb-e29365-d1e328",
+        "jm3cbb-e29365-d1e344",
+        "jm3cbb-e29365-d1e367",
+        "jm3cbb-e29365-d1e389",
+        "jm3cbb-e29365-d1e405",
+        "jm3cbb-e29365-d1e414",
+        "jm3cbb-e29365-d1e421",
+        "jm3cbb-e29365-d1e428"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e104": {
+    "summary": "Statement of the second question: in which power, or in which subject, a habit is to be posited.",
+    "claims": [],
+    "concepts": [
+      "habit",
+      "subject of habit",
+      "power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e113": {
+    "summary": "Initial conclusion: habits are not to be posited in a natural subject. The proof is drawn from Aristotle (Ethics II) and from experience: a stone thrown upward a thousand times does not rise more easily at the end than at the start, and the same holds for its falling.",
+    "claims": [
+      "Habits are not found in natural subjects.",
+      "Repetition of a natural motion does not make the natural agent readier for it."
+    ],
+    "concepts": [
+      "habit",
+      "natural subject",
+      "habituation",
+      "natural motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e131": {
+    "summary": "Objection: the conclusion would exclude habits from the intellect, since the intellect as such is a natural agent. That is false and against Aristotle (Ethics VI), who places the truth-bearing habits (wisdom, prudence, science, art, and understanding) in the intellect.",
+    "claims": [
+      "(Objection) If natural agents cannot have habits, the intellect, as a natural agent, cannot have them either.",
+      "Aristotle places the intellectual virtues in the intellect."
+    ],
+    "concepts": [
+      "intellect",
+      "natural agent",
+      "intellectual virtues",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e113"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e148": {
+    "summary": "Mair denies the inference and reports a reply some give. They distinguish a power determined to one act, which cannot go to the opposite and so has no habit (as with indemonstrable principles and self-evident propositions), from a power able to go against the inclination of its habit, in which habits are posited.",
+    "claims": [
+      "(Reported view) A power determined to one act, such as assent to self-evident propositions, has no habit.",
+      "(Reported view) Habits are placed only in powers able to act otherwise."
+    ],
+    "concepts": [
+      "determined power",
+      "indemonstrable principles",
+      "self-evident propositions",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e131"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e172": {
+    "summary": "Rebuttal of the reported view from experience. After frequent actual assent to a principle, one finds oneself readier to assent to it, so a habit must be posited even regarding principles. Readiness of this kind is the only grounds on which a habit is ever concluded in any power.",
+    "claims": [
+      "Repeated assent to a principle produces greater readiness to assent to it.",
+      "Readiness gained through repetition is the only basis for inferring a habit in a power."
+    ],
+    "concepts": [
+      "assent",
+      "first principles",
+      "habit",
+      "readiness",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e148"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e188": {
+    "summary": "Mair's own answer, set down as the foundation for the whole treatise on habits. A habit is posited in every power that can be made readier for its operation by repeated acts, and in no other. Since a habit is posited only to make a power readier to act, any power, natural or free, that acts more readily at the end of a series of acts than at the start has a habit, and conversely. Deny this and no habit can be proved. He therefore grants habits in the intellect toward indemonstrable principles, even though the intellect is determined to assent to self-evident propositions once their terms are grasped (Metaphysics IV).",
+    "claims": [
+      "A habit is in every power that becomes readier through repeated acts, and in no other.",
+      "Whether a power is natural or free does not decide whether it can have a habit; facilitation does.",
+      "Without this principle no habit can be proved.",
+      "There is a habit in the intellect toward indemonstrable principles, although the intellect is determined to assent to them."
+    ],
+    "concepts": [
+      "facilitation criterion",
+      "habit",
+      "natural power",
+      "free power",
+      "indemonstrable principles",
+      "self-evident propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e172",
+        "jm3cbb-e29365-d1e148"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e230": {
+    "summary": "Application to the original argument. Habits are posited in some natural subjects whenever the subject can be made readier for its operation, as with every cognitive and appetitive power. This is not so in natural powers without any cognition, such as heat, a hot thing, or a heavy body.",
+    "claims": [
+      "Natural subjects with cognitive or appetitive powers can have habits.",
+      "Natural powers without cognition, such as heat or heaviness, cannot be habituated."
+    ],
+    "concepts": [
+      "natural power",
+      "cognitive power",
+      "appetitive power",
+      "habit",
+      "facilitation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e188",
+        "jm3cbb-e29365-d1e131"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e246": {
+    "summary": "A transitional sentence announcing propositions inferred from the fundamental principle and its explanation.",
+    "claims": [],
+    "concepts": [
+      "corollaries",
+      "facilitation criterion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e188"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e251": {
+    "summary": "First corollary: a habit can be posited in a power with respect to an object it cannot dissent from. Repeated assent to a self-evident proposition generates a habit that makes the intellect readier to assent, although the intellect cannot dissent from that proposition. Some philosophers denied the first principle with their mouths but not their minds (Metaphysics IV).",
+    "claims": [
+      "A habit can exist toward an object the power cannot dissent from.",
+      "Repeated assent to self-evident propositions generates a habit in the intellect.",
+      "The first principle can be denied verbally but not mentally."
+    ],
+    "concepts": [
+      "habit",
+      "assent",
+      "self-evident propositions",
+      "first principle",
+      "necessity of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e188"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e276": {
+    "summary": "Second corollary: habits are posited in the will. Although free to go into its acts, the will can be inclined toward acts like those it has elicited and can be habituated so as to act more intensely and readily. Fuller treatment is deferred.",
+    "claims": [
+      "The will can be habituated despite its freedom.",
+      "Habit in the will makes its acts more intense and readier."
+    ],
+    "concepts": [
+      "will",
+      "freedom",
+      "habit",
+      "intensity of acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e188"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e289": {
+    "summary": "Third corollary: habits are posited in bodily members such as a weaver's foot and the hand of a harpist or a writer. A harpist used to playing can strike the strings readily even in the dark, and likewise a writer, which can only be explained by a habit.",
+    "claims": [
+      "Bodily members trained by practice have habits.",
+      "Skilled performance without sight, such as a harpist playing in the dark, requires a habit."
+    ],
+    "concepts": [
+      "bodily habit",
+      "skill",
+      "craft",
+      "habituation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e188"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e305": {
+    "summary": "Fourth corollary: brute animals have habits. A horse returns to its stable and an ox to its manger without a guide after repeated trips. This cannot be explained without a habit, and denying it would mean denying all habits.",
+    "claims": [
+      "Brute animals acquire habits.",
+      "Animal learning from repetition cannot be explained without habits."
+    ],
+    "concepts": [
+      "animals",
+      "habit",
+      "habituation",
+      "animal learning"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e188"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e321": {
+    "summary": "Fifth corollary: habits are posited in the natural sensitive appetite. Fuller treatment is deferred to distinction 36.",
+    "claims": [
+      "The sensitive appetite can have habits."
+    ],
+    "concepts": [
+      "sensitive appetite",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e188"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e328": {
+    "summary": "Second objection, from natural temperament. Some people discern truth more readily than others, choleric people anger easily, and some are well or ill born (Ethics VI), all without habits. Since bodily qualities can explain all this, these habits should not be posited.",
+    "claims": [
+      "(Objection) Differences in readiness can come from bodily qualities rather than habits.",
+      "(Objection) So positing habits to explain readiness is unnecessary."
+    ],
+    "concepts": [
+      "temperament",
+      "complexion",
+      "natural disposition",
+      "habit",
+      "bodily qualities"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e188"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e344": {
+    "summary": "Reply: the argument is not compelling. Mair grants that people differ by natural inclination (some gentle and truthful, others coarse and crafty) and that two people can differ in readiness before any repeated acts. But if one person acts more readily after repetition than at first while their bodily disposition stays the same, we conclude that a habit is present.",
+    "claims": [
+      "Natural inclinations do produce differences in readiness before any practice.",
+      "Increased readiness after repeated acts, with the same bodily disposition, shows that a habit is present."
+    ],
+    "concepts": [
+      "natural inclination",
+      "temperament",
+      "habit",
+      "facilitation criterion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e328"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e367": {
+    "summary": "Third objection, against the third corollary: the soul moves the hand or foot, so the habit of motion is in the soul, not in the member. A confirmation draws on the third argument of the previous question: if local motion is the mobile itself, every way of proving habits is in danger, so the habit by which one is trained to move the body must be in the soul.",
+    "claims": [
+      "(Objection) Since the soul moves the body, motor habits are in the soul and not in the limbs."
+    ],
+    "concepts": [
+      "motor habit",
+      "soul as mover",
+      "local motion",
+      "bodily habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e289",
+        "jm3cbb-e29023"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e389": {
+    "summary": "Reply: the arguments are probable but not conclusive. There are bodily habits, in sense and in the sensitive appetite, that are extended and exist in the composite of soul and organ. Since the soul informs the hand and foot, there is no reason to deny extended habits in them.",
+    "claims": [
+      "Some habits are corporeal and extended, existing in the composite of soul and organ.",
+      "Since the soul informs the limbs, extended habits can exist in them."
+    ],
+    "concepts": [
+      "corporeal habit",
+      "extended habit",
+      "composite of soul and organ",
+      "information"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e367"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e405": {
+    "summary": "Reply to the form of the third argument. Mair grants that the form moves the hand or foot, but the act of moving produces a habit in the power that is moved or moves, since the soul does the moving in the hand or foot.",
+    "claims": [
+      "The soul moves the limbs, but the act of moving produces a habit in the moving or moved power located in the limb."
+    ],
+    "concepts": [
+      "motor habit",
+      "form",
+      "limbs"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e367",
+        "jm3cbb-e29365-d1e389"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e414": {
+    "summary": "The fourth argument (on the sensible species) is said to have been answered in the previous question.",
+    "claims": [],
+    "concepts": [
+      "sensible species"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29023"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e421": {
+    "summary": "Fifth objection: the will can act without a habit, so it is pointless to posit a habit in it.",
+    "claims": [
+      "(Objection) A power that can act without a habit does not need one."
+    ],
+    "concepts": [
+      "will",
+      "habit",
+      "superfluity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e276"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29365-d1e428": {
+    "summary": "Reply by distinction. If the claim is that the will can act as intensely and readily without a habit as with one, it is denied. If it means the will can act weakly without a habit, it is granted. Mair closes by restating the result: a habit is generated in every power that can be made readier by repeated acts, and in no other, whether the power is natural or free.",
+    "claims": [
+      "Without a habit the will acts only more weakly and less readily.",
+      "A habit is generated in every facilitable power, natural or free, and in no other."
+    ],
+    "concepts": [
+      "will",
+      "intensity",
+      "habit",
+      "facilitation criterion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29365",
+        "jm3cbb-e29365-d1e421",
+        "jm3cbb-e29365-d1e188"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

@@ -1,0 +1,942 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T20:02:14Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e34144.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e34144": {
+    "summary": "The eleventh question asks how the act of faith, and so acquired faith, is first generated. Between the view that faith is caused naturally by compelling motives, which is dangerous to faith, and the view that the will alone causes it, Mair sets four conclusions. Faith is not caused purely naturally by arguments that compel the intellect, since then belief and heresy would not be in our power, against Augustine's 'no one believes unless willing' and against the commands of scripture. The will alone cannot cause faith, since it cannot even produce a hesitant assent without motives. Some acts of faith are caused purely naturally, by an existing acquired habit or by inference from believed premises. The first act of faith is caused by topical (probable) reasons together with pious affection, so that every act of faith is free in itself or in its cause. He supports this with a list of the possible ways assent arises. Replies explain that topical reasons naturally produce opinion unless impeded, that the same cause with a different co-cause yields a different effect, that the act of faith is elicited by the intellect but commanded by the will, that an agent may destroy its own lesser effect to produce a better one, and that a general resolve of will regarding the whole faith suffices for believers reading scripture. Three doubts follow. Formed and unformed faith are not distinct as such, since the same faith becomes formed when charity is added. The first act of belief can be meritorious, commanded by a will guided by probable opinion. Miracles confirming an article add intensity to faith but do not change its kind unless they are known with certainty to be genuine.",
+    "claims": [
+      "The act of faith is not caused purely naturally by arguments that compel the intellect.",
+      "The will alone cannot cause an act of faith, or even a hesitant assent.",
+      "Some acts of faith, such as those from an acquired habit or by inference from believed premises, are caused purely naturally.",
+      "The first act of faith is caused by topical reasons together with pious affection of the will.",
+      "Every act of faith is free, either in itself or in its cause.",
+      "Topical reasons naturally generate opinion unless impeded by contrary habits, arguments, or affections.",
+      "The act of faith is elicited by and inheres in the intellect, but is commanded by the will.",
+      "A general resolve of will regarding the whole faith suffices; a particular command is not needed for each proposition.",
+      "Formed and unformed faith are not distinct as such; the same faith becomes formed when charity is added.",
+      "The first act of faith can be meritorious if commanded by a good will guided by probable opinion.",
+      "Miracles increase the intensity of faith but do not turn it into another kind of assent unless known with certainty to be genuine."
+    ],
+    "concepts": [
+      "generation of faith",
+      "acquired faith",
+      "freedom of belief",
+      "will and intellect",
+      "topical reasons",
+      "pious affection",
+      "opinion",
+      "command of the will",
+      "formed and unformed faith",
+      "charity",
+      "merit",
+      "miracles"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e34144-d1e104",
+        "jm3cbb-e34144-d1e130",
+        "jm3cbb-e34144-d1e141",
+        "jm3cbb-e34144-d1e155",
+        "jm3cbb-e34144-d1e160",
+        "jm3cbb-e34144-d1e167",
+        "jm3cbb-e34144-d1e176",
+        "jm3cbb-e34144-d1e187",
+        "jm3cbb-e34144-d1e198",
+        "jm3cbb-e34144-d1e228",
+        "jm3cbb-e34144-d1e244",
+        "jm3cbb-e34144-d1e253",
+        "jm3cbb-e34144-d1e262",
+        "jm3cbb-e34144-d1e273",
+        "jm3cbb-e34144-d1e291",
+        "jm3cbb-e34144-d1e305",
+        "jm3cbb-e34144-d1e349",
+        "jm3cbb-e34144-d1e365",
+        "jm3cbb-e34144-d1e378",
+        "jm3cbb-e34144-d1e398",
+        "jm3cbb-e34144-d1e414",
+        "jm3cbb-e34144-d1e426",
+        "jm3cbb-e34144-d1e446",
+        "jm3cbb-e34144-d1e450",
+        "jm3cbb-e34144-d1e464",
+        "jm3cbb-e34144-d1e473",
+        "jm3cbb-e34144-d1e493",
+        "jm3cbb-e34144-d1e506",
+        "jm3cbb-e34144-d1e551",
+        "jm3cbb-e34144-d1e567",
+        "jm3cbb-e34144-d1e583",
+        "jm3cbb-e34144-d1e599",
+        "jm3cbb-e34144-d1e632",
+        "jm3cbb-e34144-d1e661",
+        "jm3cbb-e34144-d1e673",
+        "jm3cbb-e34144-d1e686",
+        "jm3cbb-e34144-d1e725",
+        "jm3cbb-e34144-d1e743",
+        "jm3cbb-e34144-d1e759",
+        "jm3cbb-e34144-d1e768"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e104": {
+    "summary": "Transition and statement of the eleventh question. After three questions on faith's necessity and its complex and incomplex object, Mair takes up the special difficulty of how the act of faith is generated, or how the habit of acquired faith is first acquired.",
+    "claims": [],
+    "concepts": [
+      "generation of faith",
+      "acquired faith",
+      "act of believing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e29023-d1e104",
+        "jm3cbb-e33578"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e130": {
+    "summary": "Two opposed positions: one holds that the assent of faith is caused naturally, so that a person is necessitated to assent by the motives presented, which Mair calls dangerous to faith. The other holds that the act of faith is caused by the will alone.",
+    "claims": [
+      "(Reported view) Assent of faith is necessitated by the motives presented.",
+      "(Reported view) The act of faith is caused by the will alone.",
+      "The view that faith is naturally necessitated is dangerous to faith."
+    ],
+    "concepts": [
+      "naturalism about belief",
+      "voluntarism about belief",
+      "motives of credibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e141": {
+    "summary": "First of four conclusions: faith is not caused purely naturally by means that compel the intellect to assent. This concerns the first act of faith, or the act of faith taken universally.",
+    "claims": [
+      "The act of faith is not caused purely naturally by compelling means."
+    ],
+    "concepts": [
+      "natural causation",
+      "compelling motives",
+      "first act of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e130"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e155": {
+    "summary": "Second conclusion: the will alone cannot cause the act of faith.",
+    "claims": [
+      "The will alone cannot cause an act of faith."
+    ],
+    "concepts": [
+      "will",
+      "act of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e130"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e160": {
+    "summary": "Third conclusion: some act of faith is caused purely naturally.",
+    "claims": [
+      "Some acts of faith are caused purely naturally."
+    ],
+    "concepts": [
+      "natural causation",
+      "act of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e130"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e167": {
+    "summary": "Fourth conclusion: the first act of faith is caused by a topical reason and pious affection, and so the act of faith is free; indeed every act of faith is free either in itself or in its cause.",
+    "claims": [
+      "The first act of faith is caused by topical reasons and pious affection.",
+      "Every act of faith is free either in itself or in its cause."
+    ],
+    "concepts": [
+      "topical reasons",
+      "pious affection",
+      "freedom of belief",
+      "first act of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e130"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e176": {
+    "summary": "Proof of the first conclusion: otherwise the act of faith, and so the acquired habit, would not be in our power, and no one would sin by lacking faith or holding heresy, which is false.",
+    "claims": [
+      "If faith were necessitated, lacking faith or holding heresy would not be sinful."
+    ],
+    "concepts": [
+      "freedom of belief",
+      "sin",
+      "heresy",
+      "responsibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e141"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e187": {
+    "summary": "Second argument, from Augustine (Tractate 26 on John): one can enter a church, approach the altar, and receive the sacrament unwillingly, but one can believe only willingly.",
+    "claims": [
+      "Belief, unlike external religious acts, requires willingness."
+    ],
+    "concepts": [
+      "Augustine",
+      "willing belief",
+      "freedom of belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e141"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e198": {
+    "summary": "Third argument: if believing did not fall under the will's command and freedom, it would not fall under precept. But it does: 'whoever comes to God must believe' (Hebrews 11), 'whoever does not believe will be condemned' (Mark 16), Christ's 'your faith has saved you' to the Canaanite woman, and Abraham believed and it was reckoned to him as righteousness. Nothing falls under precept that is not in our will's power.",
+    "claims": [
+      "Belief falls under divine precept.",
+      "Only what is in the will's power can fall under precept."
+    ],
+    "concepts": [
+      "precept",
+      "command of the will",
+      "freedom of belief",
+      "scripture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e141"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e228": {
+    "summary": "Proof of the second conclusion: the will alone cannot cause even a hesitant assent, so all the more it cannot cause a firm assent like faith. Experience shows that one cannot assent even hesitantly to 'the stars are even in number' without some motive.",
+    "claims": [
+      "The will alone cannot produce even a hesitant assent without motives.",
+      "So the will alone cannot produce the firm assent of faith."
+    ],
+    "concepts": [
+      "will",
+      "assent",
+      "motives",
+      "stars are even"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e155"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e244": {
+    "summary": "Second argument: otherwise the will could make the intellect assent by command that one is a bishop, abbot, or healthy, or that one's dead brother is alive, contrary to experience.",
+    "claims": [
+      "The will cannot command assent to manifestly false propositions."
+    ],
+    "concepts": [
+      "will",
+      "assent",
+      "experience",
+      "doxastic voluntarism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e155"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e253": {
+    "summary": "Third argument, from Aristotle (On the Soul II): we can imagine when we will, but not have opinions when we will.",
+    "claims": [
+      "Opinion, unlike imagination, is not directly subject to the will."
+    ],
+    "concepts": [
+      "Aristotle",
+      "imagination",
+      "opinion",
+      "will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e155"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e262": {
+    "summary": "Proof of the third conclusion: someone with an acquired habit concerning a believable produces an act of faith purely naturally through the intellect and apprehension of the believable, at least without any concurrence of the will.",
+    "claims": [
+      "With an acquired habit of faith, the intellect produces an act of faith without the will's concurrence."
+    ],
+    "concepts": [
+      "acquired habit",
+      "natural causation",
+      "act of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e160"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e273": {
+    "summary": "Second argument: when an explicitly believed antecedent entails a believed consequent by a good consequence and one assents to the consequence's validity, assent to the antecedent and to the validity naturally produce assent to the consequent, so that assent is produced purely naturally.",
+    "claims": [
+      "Assent to a believed antecedent and to a valid consequence naturally produces assent to the consequent."
+    ],
+    "concepts": [
+      "inference",
+      "natural causation",
+      "consequence",
+      "belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e160"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e291": {
+    "summary": "Proof of the fourth conclusion: the act of faith is free (first conclusion) and cannot be caused by the will alone (second conclusion), and since it is an effect it has a cause or causes, which can only be topical motives and the command of the will.",
+    "claims": [
+      "The only possible causes of a free act of faith are topical motives together with the will's command."
+    ],
+    "concepts": [
+      "topical reasons",
+      "command of the will",
+      "freedom of belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e167",
+        "jm3cbb-e34144-d1e141",
+        "jm3cbb-e34144-d1e155"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e305": {
+    "summary": "Further support. Evident causes in an evident consequence produce evident assent, which faith is not. Topical reasons alone produce only opinion, a lesser assent than faith, so another co-cause is needed, and none appears except pious affection. Assent arises in only these ways: from apprehension of terms (self-evident propositions), from intuitive cognition alone (evident contingent propositions), naturally from assent to antecedents in a good consequence, from abstractive cognition presupposing intuition (as one's judgment of a father one has seen), or from topical reason and pious affection. Since faith arises in none of the first five, it arises in the last.",
+    "claims": [
+      "Evident causes produce evident assent, which faith is not.",
+      "Topical reasons alone produce only opinion.",
+      "The ways assent arises can be listed exhaustively, and faith arises only from topical reason with pious affection."
+    ],
+    "concepts": [
+      "kinds of assent",
+      "evidence",
+      "opinion",
+      "topical reasons",
+      "pious affection",
+      "self-evident propositions",
+      "intuitive cognition",
+      "abstractive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e291"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e349": {
+    "summary": "Objection: topical reasons do not produce their effects naturally but only freely, so the will's concurrence is not needed. If they were natural agents, then since patients are of the same kind, producing opinion in one person they would produce it in everyone.",
+    "claims": [
+      "(Objection) Topical reasons produce opinion freely, not naturally, so the will is not an added cause."
+    ],
+    "concepts": [
+      "topical reasons",
+      "natural agent",
+      "opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e305"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e365": {
+    "summary": "Second objection: a probable reason together with the intellect produces an opinion contrary to faith, so a topical reason cannot help the will produce faith, its contrary, just as heat does not help cold produce cold.",
+    "claims": [
+      "(Objection) Opinion is contrary to faith, so what produces opinion cannot help produce faith."
+    ],
+    "concepts": [
+      "opinion",
+      "faith",
+      "contraries",
+      "topical reasons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e305"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e378": {
+    "summary": "Reply to the first: Mair denies that a topical reason does not naturally produce its effect (opinion), unless there is an obstacle in the intellect or affection of the hearer. If Socrates has a strong contrary habit of opinion, many arguments to the contrary, or a strong affection of will for the opposite, the topical reason produces nothing in him, but in a well-disposed person it naturally produces its effect.",
+    "claims": [
+      "Topical reasons naturally produce opinion unless an obstacle is present.",
+      "Contrary habits, arguments, or affections can block the effect of a topical reason."
+    ],
+    "concepts": [
+      "topical reasons",
+      "natural causation",
+      "obstacle",
+      "disposition of the hearer"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e349"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e398": {
+    "summary": "Reply to the second: the antecedent is granted but the consequence denied. A natural cause that produces one effect can produce another when combined with a different cause. Evident assent to the major and minor produces science if the consequence is evident, and only opinion (partially) if the consequence is merely topical.",
+    "claims": [
+      "The same natural cause can produce different effects when joined with different co-causes."
+    ],
+    "concepts": [
+      "co-causes",
+      "science",
+      "opinion",
+      "evident consequence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e365"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e414": {
+    "summary": "Third objection: the will does not tend toward the unknown (Augustine, On the Trinity X), so it cannot tend toward an actual assent without knowing it, and the will need not have such knowledge.",
+    "claims": [
+      "(Objection) The will cannot command an assent of which there is no prior cognition."
+    ],
+    "concepts": [
+      "will",
+      "cognition",
+      "Augustine",
+      "nihil volitum nisi praecognitum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e305"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e426": {
+    "summary": "Fourth objection: there is a first opinion to which the intellect assents once the terms are known, since topical assents cannot go back infinitely and the first opinion cannot come from a prior one. By parity, there is a first belief to which the intellect firmly assents on knowing the terms.",
+    "claims": [
+      "(Objection) As there is a first opinion assented to from the terms, so there is a first belief assented to from the terms."
+    ],
+    "concepts": [
+      "first opinion",
+      "regress",
+      "first belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e305"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e446": {
+    "summary": "Reply to the third, for now: the will tends toward a cognition that is not itself known. The will never wills anything unless the intellect knows it, but it can will a cognition without a reflexive cognition of that cognition, otherwise there would be the problem of how reflexive cognition itself is produced.",
+    "claims": [
+      "The will can will a cognition without a reflexive cognition of it.",
+      "The will wills nothing unless the intellect knows it."
+    ],
+    "concepts": [
+      "will",
+      "reflexive cognition",
+      "regress"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e414"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e450": {
+    "summary": "Reply to the fourth objection (that there must be a first belief assented to from the terms, as there is a first opinion): Mair refers the reader to his answer in the first question of the prologue to Book I instead of repeating it here.",
+    "claims": [],
+    "concepts": [
+      "first belief",
+      "first opinion",
+      "Book I prologue"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e426"
+      ],
+      "prompt_version": "interpretation-paragraph-v1",
+      "generated_at": "2026-10-08T20:13:59Z"
+    }
+  },
+  "jm3cbb-e34144-d1e464": {
+    "summary": "Fifth objection: it would follow that acts of faith are acts of the will, so faith would belong to the appetite rather than the intellect, against everyone.",
+    "claims": [
+      "(Objection) If willed, faith would belong to the appetite, not the intellect."
+    ],
+    "concepts": [
+      "faith",
+      "intellect",
+      "will",
+      "subject of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e291"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e473": {
+    "summary": "Sixth objection: something would destroy its own proper natural effect. A reason that produced an opinion of proposition a concurs, with the will's added command, in producing an act of faith about a, but faith and opinion are incompatible, so a natural cause would act to destroy its own effect.",
+    "claims": [
+      "(Objection) The same reason would produce opinion and then the faith that destroys it."
+    ],
+    "concepts": [
+      "opinion",
+      "faith",
+      "incompatibility",
+      "natural causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e291"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e493": {
+    "summary": "Reply to the fifth: Mair grants that the act of faith is mediately or immediately an act of the will as commanded, but it is elicited by the intellect and inheres first in it. If intellect and will were distinguished (possibly or impossibly), it would inhere in the intellect, not the will.",
+    "claims": [
+      "The act of faith is commanded by the will but elicited by and inhering in the intellect."
+    ],
+    "concepts": [
+      "elicited and commanded acts",
+      "intellect",
+      "will",
+      "subject of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e464"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e506": {
+    "summary": "Reply to the sixth: this was granted in the tenth argument of the earlier question and is not unfitting when an agent aims to produce a more perfect effect incompatible with its earlier one, since nature does the better among possible things. So a cause can destroy a lesser effect to obtain a better one. Likewise a cause can produce an effect incompatible with and destructive of itself: with known convertible propositions such as 'this woman loves her son' (pointing to Bertha) and 'Bertha loves her son', an opinion of the first plus pious affection produces faith in the second, and since the second entails the first, assent to it destroys the assent to the first that partly produced it.",
+    "claims": [
+      "An agent may destroy its own lesser effect to produce a more perfect incompatible one.",
+      "Nature does what is better among the possibilities.",
+      "A cause can produce an effect that destroys the cause."
+    ],
+    "concepts": [
+      "corruption by generation",
+      "perfection of effects",
+      "convertible propositions",
+      "opinion and faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e473"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e551": {
+    "summary": "Seventh objection: anyone reading the Bible and assenting to a proposition of faith without a particular command of the will would sin, since without the will's effort, which is required for an act of faith, the assent would only be opinion, a doubtful assent.",
+    "claims": [
+      "(Objection) Without a particular command for each proposition, a reader of scripture would only have opinion and would sin."
+    ],
+    "concepts": [
+      "command of the will",
+      "reading scripture",
+      "opinion",
+      "sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e291"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e567": {
+    "summary": "Eighth objection: there would be an assent of a higher species and firmness than assent to a first principle, since adding the will's effort to knowledge of the terms of a first principle would generate an assent higher than the one generated from the terms and intellect alone.",
+    "claims": [
+      "(Objection) Willed effort would yield an assent firmer than assent to first principles."
+    ],
+    "concepts": [
+      "first principles",
+      "firmness",
+      "command of the will",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e291"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e583": {
+    "summary": "Reply to the seventh: Mair denies the inference. It suffices to have had, or to have, the effort and command of the will concerning the whole faith in general, and to apply effort when a difficulty in faith arises. Normally no particular command of the will is needed for each proposition.",
+    "claims": [
+      "A general command of the will concerning the whole faith suffices.",
+      "Particular effort is needed only when a difficulty in faith arises."
+    ],
+    "concepts": [
+      "general and particular command",
+      "habitual intention",
+      "difficulty in faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e551"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e599": {
+    "summary": "Reply to the eighth: one might grant the consequence, though that would be unfitting. Better, the cases differ: one cognition is evident and the will's command does not operate on it, while the other is inevident. Referring to the first question of the prologue to Book I, Mair concludes that the act of believing is in our power: one can believe or not, believe or disbelieve, and help or hinder incoming motives by the will's command. When kings go to war, each side's subjects report and assent to the fighting very differently because of their affection for their own side and against the other.",
+    "claims": [
+      "The will's command does not operate on evident cognitions.",
+      "The act of believing is in our power: we can believe, refrain, or disbelieve.",
+      "The will can strengthen or impede the force of motives for belief.",
+      "Affection shapes what people assent to, as partisan reports of war show."
+    ],
+    "concepts": [
+      "freedom of belief",
+      "evidence",
+      "command of the will",
+      "partisanship",
+      "affection and assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e567"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e632": {
+    "summary": "A doubt: do unformed and formed faith differ? Preliminary: the saints call charity the form of the virtues, not because it informs virtue as an act informs a power, but because it directs and perfects the other virtues to act well. So Ambrose on Romans calls charity the mother of all virtues, without which none is right. Faith without charity is unformed and dead (James 2), and Augustine (Enchiridion) says faith without love profits nothing and is formed when charity is joined to it.",
+    "claims": [
+      "Charity is the form of the virtues by directing and perfecting them, not by informing them.",
+      "Faith without charity is unformed and dead."
+    ],
+    "concepts": [
+      "formed faith",
+      "unformed faith",
+      "charity as form of virtues",
+      "Ambrose",
+      "Augustine",
+      "James 2"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e661": {
+    "summary": "First proposition: unformed faith is really distinct from formed faith. This holds of the unformed faith in Socrates, which is distinct from any formed faith.",
+    "claims": [
+      "A given unformed faith is really distinct from any formed faith."
+    ],
+    "concepts": [
+      "formed faith",
+      "unformed faith",
+      "real distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e632"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e673": {
+    "summary": "Second proposition: unformed faith is never distinct from formed faith in the same suppositum. The opposed affirmative exponible would mean that faith is formed and unformed in the same subject, which is false, so this negative is true.",
+    "claims": [
+      "Formed and unformed faith are never distinct within the same subject at the same time."
+    ],
+    "concepts": [
+      "exponible propositions",
+      "suppositum",
+      "formed faith",
+      "unformed faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e661"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e686": {
+    "summary": "Third proposition: unformed faith will be formed in the same suppositum, whether infused or acquired. If faith remains without charity, charity can be added, so what was unformed faith becomes formed faith, and likewise formed can become unformed. It is not possible that unformed faith is formed, taking 'formed' nominally and not ampliatively, so formed and unformed faith are not distinct as such, since one successively becomes the other. Still, one acquired unformed faith may differ in species from another acquired formed faith of another species, but never so for infused faith, since every infused faith is of the same species.",
+    "claims": [
+      "The same faith, infused or acquired, can successively be unformed and formed.",
+      "Formed and unformed faith are not distinct as such.",
+      "Acquired faiths may differ in species, but all infused faith is of one species."
+    ],
+    "concepts": [
+      "formed faith",
+      "unformed faith",
+      "ampliation",
+      "succession",
+      "infused faith",
+      "acquired faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e673",
+        "jm3cbb-e32336-d1e272"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e725": {
+    "summary": "Second doubt: can the first act of believing be meritorious? It seems not: an act of intellect is meritorious only if commanded by the will, but the first act of will commanding the first act of faith cannot be good, since a good act of will requires a dictate in the intellect, namely an act of faith.",
+    "claims": [
+      "(Objection) The first act of faith cannot be meritorious, since the commanding volition lacks a prior dictate of faith."
+    ],
+    "concepts": [
+      "merit",
+      "first act of faith",
+      "dictate of reason",
+      "command of the will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e291"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e743": {
+    "summary": "Answer: the first act of faith can be meritorious and will be commanded by a good act of will, regulated by a prudential, opinative dictate. Since invincible ignorance, that is, probable error, suffices for the goodness of an act, true opinion suffices all the more.",
+    "claims": [
+      "The first act of faith can be meritorious.",
+      "A good act of will can be regulated by a prudential dictate based on opinion.",
+      "If invincible ignorance or probable error suffices for a good act, true opinion suffices all the more."
+    ],
+    "concepts": [
+      "merit",
+      "prudential dictate",
+      "opinion",
+      "invincible ignorance",
+      "first act of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e725"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e759": {
+    "summary": "Third doubt: does someone who hears an article preached and sees miracles done to confirm it acquire an assent other than the assent of faith?",
+    "claims": [],
+    "concepts": [
+      "miracles",
+      "preaching",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e305"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e34144-d1e768": {
+    "summary": "Answer: no, though the faith acquired is more intense, unless the person knew with certainty that the miracles were genuine and truly brought forward to prove the article.",
+    "claims": [
+      "Miracles intensify faith but do not change it into another kind of assent.",
+      "Only certain knowledge that the miracles are genuine and probative would yield a different, evident assent."
+    ],
+    "concepts": [
+      "miracles",
+      "intensity of faith",
+      "evidence",
+      "motives of credibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e34144",
+        "jm3cbb-e34144-d1e759"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

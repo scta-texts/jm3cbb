@@ -1,0 +1,503 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T19:56:21Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e31052.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e31052": {
+    "summary": "The fifth question asks whether a habit inclines only to acts like those from which it arose. Mair answers yes, since otherwise a habit could incline to acts of any species whatever, against all philosophy. Most of the question defends the thesis against apparent counterexamples by distinctions. Infused habits are set aside because they are not generated from acts. Habit is excluded from the principle that causes of different species produce acts of different species, since habit is the trace of its acts. The habit of principles inclines to the conclusion only mediately, through the act of assent to the premises. A habit from a relational act (loving Socrates for God's sake) inclines immediately only to that mixed act. A good habit may issue in a bad act because good and bad acts can share a natural species. The long virginity case, a virgin violated in her sleep, is handled by distinguishing sameness of species in the order of nature from sameness under a moral denomination such as 'virginity', against Master Martin's solution through the loss of the object. The question closes by explaining that for a habit to incline to an act is simply for it to cooperate efficiently in producing that act; inclination is not something superadded to the habit.",
+    "claims": [
+      "A habit acquired from acts inclines only to acts of the same lowest species as those from which it arose.",
+      "Infused habits, created by God without acts, are outside the scope of this thesis.",
+      "Habit, as the trace and residue of its acts, is an exception to the principle that specifically distinct causes yield specifically distinct acts.",
+      "The habit of principles inclines to the assent to a conclusion only mediately, through the actual assent to the premises.",
+      "An act can stay the same in its natural species while changing its moral denomination, as when virginity becomes widowed chastity.",
+      "Good and bad acts can be of the same species in the order of nature though not in the order of morals.",
+      "For a habit to incline to an act is for it to concur efficiently in producing that act; inclination is not a reality added to the habit."
+    ],
+    "concepts": [
+      "specific likeness of acts",
+      "acquired habit",
+      "infused habit",
+      "mediate and immediate inclination",
+      "virginity",
+      "genus naturae vs genus moris",
+      "denomination",
+      "relational act",
+      "inclination"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e31052-d1e104",
+        "jm3cbb-e31052-d1e115",
+        "jm3cbb-e31052-d1e144",
+        "jm3cbb-e31052-d1e154",
+        "jm3cbb-e31052-d1e200",
+        "jm3cbb-e31052-d1e211",
+        "jm3cbb-e31052-d1e235",
+        "jm3cbb-e31052-d1e257",
+        "jm3cbb-e31052-d1e281",
+        "jm3cbb-e31052-d1e328",
+        "jm3cbb-e31052-d1e383",
+        "jm3cbb-e31052-d1e409",
+        "jm3cbb-e31052-d1e438",
+        "jm3cbb-e31052-d1e451",
+        "jm3cbb-e31052-d1e477",
+        "jm3cbb-e31052-d1e509",
+        "jm3cbb-e31052-d1e522",
+        "jm3cbb-e31052-d1e538",
+        "jm3cbb-e31052-d1e567",
+        "jm3cbb-e31052-d1e572"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e104": {
+    "summary": "Statement of the fifth question: whether a habit inclines only to acts like the acts from which it arose.",
+    "claims": [],
+    "concepts": [
+      "specific likeness of acts",
+      "habit",
+      "inclination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e115": {
+    "summary": "Mair answers yes. A habit inclines to some acts (from the previous questions): either only to acts like those from which it arose, which is the conclusion, or to acts of another species. In the latter case, if it can produce one act of a different kind, by parity it can produce any act of a different kind, which goes against all philosophy.",
+    "claims": [
+      "A habit inclines only to acts like those from which it arose.",
+      "If a habit could produce one act of a different species, it could produce any, which is absurd."
+    ],
+    "concepts": [
+      "specific likeness of acts",
+      "parity argument",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e30426",
+        "jm3cbb-e29714"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e144": {
+    "summary": "First objection: infused charity, and likewise infused faith and hope, incline to acts of different kinds, so the conclusion is false.",
+    "claims": [
+      "(Objection) Infused virtues incline to acts of diverse kinds."
+    ],
+    "concepts": [
+      "infused charity",
+      "infused faith",
+      "infused hope",
+      "diversity of acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e115"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e154": {
+    "summary": "Second objection: acts about the same object that precede and follow a habit differ in species, because acts produced by specifically distinct causes are specifically distinct. The major is supported by the specific difference between knowledge 'that' and knowledge 'why' of the same object, and of cognitions and volitions of different objects. The minor holds because the act before the habit comes from the power and cognition alone, while the act after the habit is partly produced by the habit (previous question). So the habit produces an act of a different species from its source.",
+    "claims": [
+      "(Objection) Acts produced by specifically distinct causes are specifically distinct.",
+      "(Objection) Acts before and after the habit have different causes, since the later one is co-caused by the habit, and so differ in species."
+    ],
+    "concepts": [
+      "specific distinction of acts",
+      "causes and species",
+      "quia and propter quid knowledge",
+      "efficient causality of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e115",
+        "jm3cbb-e30426"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e200": {
+    "summary": "Reply to the first objection: the conclusion concerns habits acquired from acts. A habit created by God is produced without the causality of acts, and the thesis is not about such habits.",
+    "claims": [
+      "The thesis applies only to habits acquired from acts.",
+      "Infused habits, created by God without acts, fall outside it."
+    ],
+    "concepts": [
+      "acquired habit",
+      "infused habit",
+      "scope of thesis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e144"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e211": {
+    "summary": "Reply to the second objection: Mair denies the major as applied when one of the causes is a habit. A habit is the trace and residue of its acts and inclines to acts like those from which it came. For other specifically distinct causes he grants the principle in both cases for vital acts, such as acts of cognitive or appetitive powers.",
+    "claims": [
+      "When one co-cause is a habit, specifically distinct causes need not yield specifically distinct acts.",
+      "A habit is the trace and residue of its acts.",
+      "For vital acts with other specifically distinct causes, the acts are specifically distinct."
+    ],
+    "concepts": [
+      "habit as vestige of act",
+      "specific distinction of acts",
+      "vital acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e154"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e235": {
+    "summary": "Third objection, the virginity case. Suppose Bertha, a virgin, has a habit of virginity intense as four, and is violated in her sleep without knowing it, or against all her resistance. Her habit now inclines to acts of a different kind from virginal chastity, since she has stopped being a virgin, and in the composed sense she could bear a child, which is not proper to a virgin. Yet that habit was virginity, since it was elicited from acts of virginity.",
+    "claims": [
+      "(Objection) A virginal habit, after involuntary loss of virginity, inclines to acts of a different kind from those that formed it."
+    ],
+    "concepts": [
+      "virginity",
+      "chastity",
+      "involuntary violation",
+      "sensus compositus",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e115"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e257": {
+    "summary": "Master Martin's solution: he grants what the argument claims and so would grant that some habit inclines to acts of a different kind from its source. The act of virginity has existing bodily integrity as its object, and when integrity is lost the object is gone, so she can no longer have an act of virginity or of the same kind, just as an intuitive cognition of a stick ceases when the stick is removed or broken.",
+    "claims": [
+      "(Master Martin) An act of virginity has bodily integrity as its object, so it cannot survive the loss of integrity.",
+      "(Master Martin) Some habits therefore incline to acts different in kind from their source."
+    ],
+    "concepts": [
+      "Martinus Magistri",
+      "virginity",
+      "object of an act",
+      "bodily integrity",
+      "intuitive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e235"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e281": {
+    "summary": "Mair rejects Martin's solution. First, a woman has only abstractive, not intuitive, cognition of her bodily integrity, so whether integrity is present or not, the act of will remains the same in species. Second, on Martin's view a woman whose integrity was lost by an injury in youth could not be a virgin, since she could not have the required act. Third, take a real virgin resolving to keep bodily chastity or to abstain from all venereal acts: that act generates a habit that can only be virginity, since it is neither conjugal nor widowed chastity. The argument can be rerun on this habit without any appeal to bodily integrity.",
+    "claims": [
+      "One has only abstractive cognition of one's own bodily integrity.",
+      "The specific kind of a volition dependent on abstractive cognition does not change with the presence or absence of its object.",
+      "Martin's view would wrongly deny virginity to someone whose integrity was lost by accident.",
+      "The virginity case can be stated without reference to bodily integrity, so Martin's solution does not meet it."
+    ],
+    "concepts": [
+      "virginity",
+      "abstractive cognition",
+      "bodily integrity",
+      "chastity",
+      "Martinus Magistri"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e257",
+        "jm3cbb-e29714-d1e494"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e328": {
+    "summary": "Mair's own solution: the habit inclines to acts of the same lowest species entitatively, in the order of nature, but not under the denomination 'virginity'. Once she is violated by a tyrant, the habit is a habit of widowed chastity, since she is chaste and corrupted, and it inclines her to the same resolutions in the order of nature as before, though these are no longer called virginity. Whether violated or not, an act of will dependent on abstractive cognition is of the same kind, and she can continue the numerically same act through a time in whose earlier part she is a virgin and in whose later part she is not. It does not follow that a change in 'being of virginity' is a change in natural being, nor in chastity: a change of denomination does not imply a change in the higher denomination, as Socrates changes from white without ceasing to be coloured.",
+    "claims": [
+      "The habit still inclines to acts of the same natural species after violation; only the moral denomination changes.",
+      "After involuntary violation, the habit of virginity becomes one of widowed chastity.",
+      "The numerically same act of will can continue across the change from virgin to non-virgin.",
+      "Change in a lower denomination does not entail change in a higher one."
+    ],
+    "concepts": [
+      "genus naturae",
+      "denomination",
+      "virginity",
+      "widowed chastity",
+      "extrinsic denomination",
+      "superior and inferior terms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e235",
+        "jm3cbb-e31052-d1e281"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e383": {
+    "summary": "Fourth objection: the habit of principles inclines to the act of knowing the conclusion, yet it is produced not by that act but by understanding the premises. It inclines to actual assent to the premises, and that assent causes assent to the conclusion (Posterior Analytics I), and the cause of a cause in natural efficient causality causes the effect.",
+    "claims": [
+      "(Objection) The habit of principles inclines to the conclusion, a different act from the one that produced it.",
+      "(Objection) The cause of a cause in natural efficient causation is a cause of the effect."
+    ],
+    "concepts": [
+      "habit of principles",
+      "scientific knowledge",
+      "assent",
+      "transitivity of causation",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e115"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e409": {
+    "summary": "Reply by distinction. The habit of principles inclines to the act of knowing the conclusion not immediately (it inclines immediately only to actual assent to the premises) but mediately, through its elicited act. To incline mediately is to incline to something that produces the other thing. Since actual assent to the principles mediates between the habit of principles and assent to the conclusion, the habit is said to incline mediately to actual or habitual assent to the conclusion, though more remotely to the habitual than to the actual assent.",
+    "claims": [
+      "The habit of principles inclines immediately only to assent to the premises.",
+      "It inclines to the conclusion only mediately, through its own elicited act.",
+      "To incline mediately to something is to incline to what produces it."
+    ],
+    "concepts": [
+      "mediate inclination",
+      "immediate inclination",
+      "habit of principles",
+      "assent to conclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e383"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e438": {
+    "summary": "Fifth objection: the habit from a relational act concerning a means and an end inclines immediately either to an act about the means alone or to one about the end alone, and yet an act about the end is of another species from the act that produced the habit.",
+    "claims": [
+      "(Objection) A habit from a means-end act inclines to simple acts about only the means or only the end, which differ in species from its source."
+    ],
+    "concepts": [
+      "relational act",
+      "means and end",
+      "use and enjoyment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e115"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e451": {
+    "summary": "Reply: such a habit is generated by an act concerning means and end together, such as 'I love Socrates for God's sake', and it inclines immediately only to a mixed act, both use and enjoyment, not to a simple act about the means or the end alone. Similarly, the habit of assenting to 'every triangle has three' inclines immediately to that universal assent, and only mediately to the indefinite assent 'a triangle has three' if the universal assent produces it.",
+    "claims": [
+      "A habit from a mixed means-end act inclines immediately only to a similar mixed act.",
+      "A habit of universal assent inclines only mediately to the particular or indefinite assents derived from it."
+    ],
+    "concepts": [
+      "relational act",
+      "use",
+      "enjoyment",
+      "mediate inclination",
+      "universal and indefinite propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e438",
+        "jm3cbb-e31052-d1e409"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e477": {
+    "summary": "Sixth objection: an intense good habit of fasting in a hermit who falls ill will incline to a bad act; likewise a habit of liberality or magnificence in a rich man who becomes poor. Since a bad act differs in species from a good one, the habit inclines immediately to an act of another kind than its source.",
+    "claims": [
+      "(Objection) A good habit can incline to bad acts in changed circumstances, and bad and good acts differ in species."
+    ],
+    "concepts": [
+      "fasting",
+      "liberality",
+      "magnificence",
+      "change of circumstances",
+      "good and bad acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e115"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e509": {
+    "summary": "Reply: whether a habit generated from good acts later becomes a vice is deferred. For now it suffices that a good act and a bad act can be of the same kind in the order of nature, though not in the order of moral malice.",
+    "claims": [
+      "Good and bad acts can share a natural species while differing morally."
+    ],
+    "concepts": [
+      "genus naturae",
+      "genus moris",
+      "virtue and vice",
+      "species of acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e477",
+        "jm3cbb-e31052-d1e328"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e522": {
+    "summary": "Seventh objection: if the thesis were true, one could have the relational act 'I love Socrates for God's sake' without the absolute acts of loving Socrates or loving God, since a habit from a relational act inclines to relational acts. This contradicts what was said elsewhere.",
+    "claims": [
+      "(Objection) The thesis would allow a relational act without the absolute acts it presupposes."
+    ],
+    "concepts": [
+      "relational act",
+      "absolute act",
+      "love",
+      "use and enjoyment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e451"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e538": {
+    "summary": "Reply: the consequence fails. One can have a habit of assenting to a conclusion that inclines immediately to that assent, yet one cannot naturally have the assent without actual apprehension of the terms. Similarly, since a relational act cannot exist without the two absolute acts, those acts will be present when the relational act is in the intellect or will. But because the cases are not exactly alike, Mair grants that once the habit exists, one can have the relational act of the means for the end without an act directed solely at the means or solely at the end.",
+    "claims": [
+      "Immediate inclination to an act does not remove its other natural prerequisites, such as apprehension of terms.",
+      "Once a habit has been generated, one can have a relational act of means-for-end without separate acts directed exclusively at the means or at the end."
+    ],
+    "concepts": [
+      "relational act",
+      "natural prerequisites",
+      "apprehension of terms",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e522"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e567": {
+    "summary": "A question is raised: what is it for a habit to incline to something?",
+    "claims": [],
+    "concepts": [
+      "inclination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e31052-d1e572": {
+    "summary": "Answer: for a habit to incline to an act is just for it to effect that act, as a habit of temperance inclines one to live temperately by concurring efficiently in acts of temperance or by helping one elicit them. Inclination is not distinct from the habit, as some think. The inclination of form to inform matter is the form itself, and of matter to form is the matter, and everything is inclined to its perfection without the inclination being something added. A heavy body held on a beam has an aptitudinal inclination to descend but does not act because of an obstacle. Likewise a just person asleep has a habitual inclination to act justly, but the habit is not a sufficient principle of the act until the object is apprehended and the other requisites are present.",
+    "claims": [
+      "For a habit to incline to an act is for it to concur efficiently in producing that act.",
+      "Inclination is not a reality distinct from the thing inclined.",
+      "A habit is not a sufficient principle of its act without apprehension of the object and other requisites."
+    ],
+    "concepts": [
+      "inclination",
+      "aptitudinal inclination",
+      "efficient causality of habit",
+      "ontological parsimony",
+      "sufficient principle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e31052",
+        "jm3cbb-e31052-d1e567",
+        "jm3cbb-e30426"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

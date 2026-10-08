@@ -1,0 +1,286 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T19:52:21Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e29023.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e29023": {
+    "summary": "The opening question of Mair's treatment of distinction 23 first lays out a twelve-question plan for the distinction (seven short questions on habit as the genus of virtue, then five on faith) and then asks whether virtue, taken as a habit of the mind, is really distinct from power and passion. After distinguishing the senses of 'virtus' and 'passio' and defining power as the soul's productive instrument, Mair concludes that habit is distinct from power (which is identical with the soul's essence) and from act and passion (since a habit can naturally exist without them). The objections, which would make the intellect, the habitual readiness of a trained runner, or the sensible species into habits, are answered by denying that the intellect is distinct from the soul, by using the runner case as evidence for real habits, and by restricting 'habit' in the strict sense to qualities generated from acts.",
+    "claims": [
+      "Habit is really distinct from the soul's powers, from acts, and from passions in the strict sense.",
+      "The powers of intellect and will are identical with the essence of the soul.",
+      "Whatever can naturally exist without another thing is really distinct from it.",
+      "In the strict sense, a habit is a quality that naturally arises only from acts and remains once the act has passed.",
+      "A passion in the strict sense is a quality of the soul that passes away with the act and to which the soul is purely passive."
+    ],
+    "concepts": [
+      "virtue",
+      "habit",
+      "passion",
+      "power",
+      "act",
+      "real distinction",
+      "identity of the powers with the soul",
+      "sensible species",
+      "equivocation"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e29023-d1e104",
+        "jm3cbb-e29023-d1e182",
+        "jm3cbb-e29023-d1e286",
+        "jm3cbb-e29023-d1e313",
+        "jm3cbb-e29023-d1e335",
+        "jm3cbb-e29023-d1e353",
+        "jm3cbb-e29023-d1e364",
+        "jm3cbb-e29023-d1e380",
+        "jm3cbb-e29023-d1e400",
+        "jm3cbb-e29023-d1e419"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e104": {
+    "summary": "An introductory plan for the whole distinction. Mair notes that the Master here treats faith and first takes up material needed for all the virtues, and accordingly announces twelve questions: seven short ones on habit as the genus of virtue (its distinction from passion and power, its subject, its source, its role in producing acts, whether it inclines only to acts like those that produced it, its increase, and its decrease), and five on faith (its necessity, whether its object is the enunciable, the complex signifiable or the thing signified, whether faith can bear on a false proposition, how the first act of belief is acquired, and whether confession of faith is an act of faith and is commanded or counselled).",
+    "claims": [
+      "The treatment of faith requires a prior account of habit as the genus of virtue.",
+      "Distinction 23 will be handled in twelve questions, seven on habit and five on faith."
+    ],
+    "concepts": [
+      "virtue",
+      "habit",
+      "faith",
+      "object of faith",
+      "act of believing",
+      "confession of faith",
+      "question plan"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e182": {
+    "summary": "Terminological preliminaries for the first question. 'Virtus' is shown from scripture to be equivocal (power, bodily strength, victory), but here it means a habit of the mind. 'Passio' has three senses: a harmful quality by which one suffers; any quality in the appetite that requires prior cognition, so that all appetitive acts (volition, nolition, and the Aristotelian passions or affects) count as passions while cognitions and habits do not; and, most strictly, a quality of the soul that passes with the act and to which the soul is purely passive. The paragraph contrasts this with habit, the effect of the soul's acts that remains after the act passes, and defines a power as the instrument able to produce an effect, such as intellect and will.",
+    "claims": [
+      "'Virtus' is equivocal, and in this question it signifies a habit of the mind.",
+      "Habits do not require actual cognition for their existence and remain in the soul when all actual knowledge is absent.",
+      "In the strict sense, a passion is a quality that cannot outlast the act and to which the soul is purely passive.",
+      "Of the two effects of the soul's acts, the one that remains is a habit and the one that passes is a passion."
+    ],
+    "concepts": [
+      "equivocation",
+      "virtue",
+      "passion",
+      "affect",
+      "appetite",
+      "habit",
+      "power",
+      "volition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29023-d1e286"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e286": {
+    "summary": "Mair's thesis and its proof. Habit is distinct from act, from passion properly speaking, and from power. It differs from power because the powers are identical with the essence of the soul (citing his commentary on Book II, distinction 16), while habit is not. It differs from act and passion because a habit can naturally exist without them, but they cannot exist without an act, and things one of which can exist without the other are really distinct.",
+    "claims": [
+      "Habit is distinct from power, act, and passion.",
+      "The soul's powers are identical with its essence; habits are not.",
+      "When one of two things can exist without the other, they are really distinct."
+    ],
+    "concepts": [
+      "habit",
+      "power",
+      "act",
+      "passion",
+      "real distinction",
+      "separability criterion",
+      "identity of the powers with the soul"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29023-d1e182"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e313": {
+    "summary": "First objection, with a confirmation: the intellect would be a habit. If the intellect is distinct from the power (the soul), it is an accident in the soul that is neither a passion nor an act, and on Aristotle's threefold division (Ethics II) whatever is in the soul is a passion, a power, or a habit. So the intellect would have to be a habit.",
+    "claims": [
+      "(Objection) Whatever is in the soul is a passion, a power, or a habit.",
+      "(Objection) The intellect, as an accident of the soul that is neither act nor passion, would be a habit."
+    ],
+    "concepts": [
+      "intellect",
+      "habit",
+      "Aristotle's division of what is in the soul",
+      "accident"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29023-d1e286"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e335": {
+    "summary": "Reply to the first objection. Mair denies that the intellect is a habit by denying that it is distinct from the essence of the soul. He points out that those who make the intellect really distinct from the soul's essence but deny it is a habit (because it is not generated from acts) are forced, against Aristotle, to admit something inhering in the soul that is neither act, passion, nor habit.",
+    "claims": [
+      "The intellect is not a habit, because it is not distinct from the essence of the soul.",
+      "Making the intellect a really distinct accident that is not a habit contradicts Aristotle's threefold division."
+    ],
+    "concepts": [
+      "intellect",
+      "essence of the soul",
+      "real distinction",
+      "habit",
+      "inherence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29023-d1e313"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e353": {
+    "summary": "Reply to the confirmation. The intellect is 'in' the soul by identity, being the soul itself. Mair sets aside the other sense of 'intellectus', the knowledge of first principles, which is clearly an accident (a habit).",
+    "claims": [
+      "The intellect is in the soul by identity, not by inherence.",
+      "'Intellectus' as the habit of first principles is an accident, and is not at issue here."
+    ],
+    "concepts": [
+      "intellect",
+      "identity",
+      "habit of first principles",
+      "accident"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29023-d1e313"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e364": {
+    "summary": "Third objection: a man practised in running runs well (as by forging we become smiths), yet if local motion is nothing but the moving body itself, he has no habit inclining him to run. Since a habit is posited only to make a power ready for its operation, it would follow that habits should be posited in nothing.",
+    "claims": [
+      "(Objection) If local motion is identical with the mobile, a practised runner has no habit of running.",
+      "(Objection) Habits are posited only to facilitate a power's operation, so the runner case undermines habits generally."
+    ],
+    "concepts": [
+      "habituation",
+      "local motion",
+      "mobile",
+      "facility",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29023-d1e286"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e380": {
+    "summary": "Reply to the third objection. Mair turns the argument around: it plausibly shows that local motion is not really identical with the moving body. It is plain that frequent running makes one ready to run. If no habit is generated there, the case would support the claim that there are no habits at all, and if local motion is the mobile itself, one must invent some accident in the moved body to generate the habit.",
+    "claims": [
+      "The runner argument plausibly shows that local motion is really distinct from the mobile.",
+      "Frequent practice of an activity makes one ready for it, which requires a generated habit."
+    ],
+    "concepts": [
+      "local motion",
+      "mobile",
+      "habit",
+      "habituation",
+      "real distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29023-d1e364"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e400": {
+    "summary": "Fourth objection: on the proposed account, a sensible species produced in the soul by its object before any act would be a habit, since it is in the soul and is neither power nor passion. That is false, because a habit is produced from an act and, at least naturally, cannot be produced otherwise (God can produce one without an act).",
+    "claims": [
+      "(Objection) The sensible species would count as a habit under the threefold division.",
+      "Naturally, a habit can only be produced by an act or acts, though God can produce one without an act."
+    ],
+    "concepts": [
+      "sensible species",
+      "habit",
+      "act",
+      "divine power",
+      "natural causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29023-d1e313"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e29023-d1e419": {
+    "summary": "Reply to the fourth objection. In a broad sense, the one Aristotle uses in Ethics II, a sensible species can be called a habit because it is in the soul and is neither passion nor power. But in the strict sense used in this treatise, it is not, since a natural habit must emerge from acts.",
+    "claims": [
+      "Broadly taken, the sensible species can be called a habit.",
+      "Strictly taken, a habit must arise from acts when it is naturally produced, so the species is not a habit."
+    ],
+    "concepts": [
+      "sensible species",
+      "habit",
+      "broad and strict sense",
+      "act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e29023",
+        "jm3cbb-e29023-d1e400"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}

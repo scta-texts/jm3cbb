@@ -1,0 +1,653 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-08T19:55:28Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "74240e1",
+    "generation_method": "hierarchical",
+    "source_file": "cod-jm17jg_jm3cbb-e30426.xml",
+    "description": "LLM-generated interpretative layer for the corresponding SCTA XML source."
+  },
+  "jm3cbb-e30426": {
+    "summary": "The fourth question asks whether a habit concurs efficiently in producing its act. Against Durandus, who denies that habit contributes to the act's production or intensity, Mair argues that habit is a partial efficient cause. The evidence is the experienced ease and delight of the practised agent, the parallel with infused habits, and the principle that causality should not be denied without strong reason. Durandus's best argument (that a habit could then be intensified until it alone produces the act) fails because it assumes co-causes of the same species. Most of the question defends the reciprocal causality of act and habit against charges of vicious circularity and infinite mutual intensification. Mair argues that habit acts only when the power cooperates, that it partially produces every part of the act without any given part of the habit reproducing its own source, and that mutual augmentation of unequal decreasing increments does not yield an infinite quantity. Further replies hold that the act surpasses the habit in dignity even though habit is its equivocal cause, that habits need the will to issue in act, that no maximally intense act is possible with habits, and that habit is not an 'active quality' in the technical sense. The question ends with a long moral exhortation, built on everyday, animal, classical, and scriptural examples, on the great power of habit for good or ill and on the importance of training the young.",
+    "claims": [
+      "A habit concurs as a partial efficient cause in producing its act.",
+      "Durandus's denial of habit's efficient role is false.",
+      "An argument that a partial cause could be intensified to suffice alone is valid only for co-causes of the same species.",
+      "Habit produces nothing without the concurrence of the power in which it inheres.",
+      "Reciprocal causation between act and habit does not lead to infinite intensity, because the increments diminish.",
+      "The act is more perfect than the habit, even though the habit is its equivocal cause.",
+      "Habits issue in acts only with the concurrence of the will: we use habits when we will.",
+      "There is no maximally intense act a human can have with habits.",
+      "Only a quality that produces something like itself in lowest species is properly called active.",
+      "Habits are of great power for good or evil, so the young must be well habituated."
+    ],
+    "concepts": [
+      "efficient causality of habit",
+      "partial cause",
+      "Durandus",
+      "reciprocal causation",
+      "intensity",
+      "infinite series",
+      "equivocal cause",
+      "will",
+      "active quality",
+      "moral education",
+      "habituation"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jm3cbb-e30426-d1e104",
+        "jm3cbb-e30426-d1e133",
+        "jm3cbb-e30426-d1e159",
+        "jm3cbb-e30426-d1e167",
+        "jm3cbb-e30426-d1e176",
+        "jm3cbb-e30426-d1e192",
+        "jm3cbb-e30426-d1e199",
+        "jm3cbb-e30426-d1e221",
+        "jm3cbb-e30426-d1e230",
+        "jm3cbb-e30426-d1e257",
+        "jm3cbb-e30426-d1e316",
+        "jm3cbb-e30426-d1e351",
+        "jm3cbb-e30426-d1e362",
+        "jm3cbb-e30426-d1e367",
+        "jm3cbb-e30426-d1e374",
+        "jm3cbb-e30426-d1e386",
+        "jm3cbb-e30426-d1e451",
+        "jm3cbb-e30426-d1e467",
+        "jm3cbb-e30426-d1e504",
+        "jm3cbb-e30426-d1e526",
+        "jm3cbb-e30426-d1e537",
+        "jm3cbb-e30426-d1e569",
+        "jm3cbb-e30426-d1e582",
+        "jm3cbb-e30426-d1e591",
+        "jm3cbb-e30426-d1e607",
+        "jm3cbb-e30426-d1e612",
+        "jm3cbb-e30426-d1e697"
+      ],
+      "prompt_version": "interpretation-question-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e104": {
+    "summary": "The fourth question asks whether a habit concurs efficiently in producing an act, a question closely related to the previous one. Mair announces his method (recite a false opinion, answer conclusively, then use the objections to touch the conclusions of both questions) and reports Durandus's view in this distinction that habit contributes nothing to the act's intensity and has no efficiency with respect to it.",
+    "claims": [
+      "(Durandus) Habit contributes nothing to the intensity of the act and has no efficient role in producing it."
+    ],
+    "concepts": [
+      "efficient causality of habit",
+      "Durandus",
+      "intensity of act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e29714"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e133": {
+    "summary": "Mair's conclusion, against Durandus: a habit concurs in producing its act as an efficient cause. Someone well practised in a field acts readily and with pleasure in ways conforming to the habit, which they could not do before the habit existed. So the habit is a partial auxiliary cause of such operations. Since it is not a final, material, or formal cause, it must be an efficient cause.",
+    "claims": [
+      "Habit is a partial efficient cause of its act.",
+      "The ease and pleasure of practised action show that habit contributes causally.",
+      "Habit is not a final, material, or formal cause of its act, so it is an efficient cause."
+    ],
+    "concepts": [
+      "efficient cause",
+      "partial cause",
+      "four causes",
+      "readiness",
+      "delight in operation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e159": {
+    "summary": "Second argument: infused habits concur in generating acts, so acquired habits do too.",
+    "claims": [
+      "Infused habits concur in producing acts.",
+      "By parity, acquired habits do as well."
+    ],
+    "concepts": [
+      "infused habits",
+      "acquired habits",
+      "efficient causality of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e167": {
+    "summary": "Third argument: causality should not be taken away from things without strong reason, since nature is to be dignified (On Generation I), and Durandus offers no such reason.",
+    "claims": [
+      "Causal power should not be denied to things without strong grounds.",
+      "Durandus gives no adequate grounds for denying causality to habits."
+    ],
+    "concepts": [
+      "dignity of nature",
+      "causal parsimony",
+      "Durandus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e176": {
+    "summary": "Mair takes Durandus's best argument, which he says is worthless: if a habit together with the power can produce the act, then the habit could be intensified until it produced the act alone, just as if Socrates and Plato can carry a bench, Socrates could be strengthened until he could carry it by himself.",
+    "claims": [
+      "(Durandus) If habit and power jointly produce an act, the habit could be intensified to produce it alone, which is absurd."
+    ],
+    "concepts": [
+      "Durandus",
+      "partial cause",
+      "intensification",
+      "joint causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e104"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e192": {
+    "summary": "Reply: the inference does not hold for causes of different species. The bench example assumes co-causes of the same species.",
+    "claims": [
+      "A partial cause can be augmented to sufficiency only when the co-causes are of the same species.",
+      "Habit and power are causes of different kinds, so the argument fails."
+    ],
+    "concepts": [
+      "species of causes",
+      "partial cause",
+      "joint causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e176"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e199": {
+    "summary": "Second argument against the conclusion: if habit causes the act and the act causes habit, there is a circle of cause and effect. The anticipated reply: a habit produced by one act does not reproduce numerically the same act but a similar one, so act a produces habit b, b produces act c, c produces habit d, and so on.",
+    "claims": [
+      "(Objection) Mutual causation of act and habit is circular.",
+      "(Reply) A habit produces a subsequent similar act, not the numerically same act from which it arose."
+    ],
+    "concepts": [
+      "causal circularity",
+      "reciprocal causation",
+      "act",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e221": {
+    "summary": "Rejoinder: since act and habit are natural agents, their mutual production should never stop until both qualities reach their maximum.",
+    "claims": [
+      "(Objection) Natural agents in reciprocal causation should keep intensifying each other to the maximum."
+    ],
+    "concepts": [
+      "natural agents",
+      "reciprocal causation",
+      "maximum intensity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e199"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e230": {
+    "summary": "Reply: Mair denies the consequence while granting that act and habit are natural agents. A habit does not produce an act without the concurrence of the power in which it inheres, whose instrument it is, and the power does not always cooperate. The act, by contrast, produces habit by itself (setting aside the universal cause); it is not in the will's power to elicit an act without producing a habit unless the habit is already too intense for the act to increase. Since the power sometimes acts and sometimes does not, no unlimited intensity follows.",
+    "claims": [
+      "A habit is an instrument of the power and produces nothing without the power's concurrence.",
+      "An act alone (with the universal cause) produces a habit, and the will cannot prevent this.",
+      "An act cannot increase a habit already more intense than the act can produce.",
+      "Because the power acts intermittently, act and habit do not intensify each other without limit."
+    ],
+    "concepts": [
+      "habit as instrument",
+      "concurrence of the power",
+      "universal cause",
+      "reciprocal causation",
+      "will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e221"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e257": {
+    "summary": "A counterargument tries to establish (or at least make plausible) two things: that a habit produces the act it came from, and that reciprocal production does not stop short of the maximum. For the first, suppose Socrates elicits act a continuously over an hour, producing habit b continuously. Every part of b is produced by a part of a, so a produces b. Conversely, every part of a has successively produced parts, and the later parts are produced partly by the habit that already preceded them, so every part of a, and hence the whole of a, is produced by b. So a produces b and b produces a.",
+    "claims": [
+      "(Objection) In continuous successive production, the whole act and the whole habit produce each other.",
+      "(Objection) Each later part of an act is co-produced by habit generated by earlier parts."
+    ],
+    "concepts": [
+      "continuous production",
+      "successive parts",
+      "reciprocal causation",
+      "part and whole"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e230"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e316": {
+    "summary": "Second part of the counterargument, on unlimited mutual intensification. Act a, elicited in an instant, produces habit b intense as four in the same instant. With the same effort of will, b can then help produce an act more intense than four, say five, which produces a habit of five, which with the same effort yields an act above five, and so on without end.",
+    "claims": [
+      "(Objection) Instantaneous mutual causation of act and habit would escalate intensity without limit."
+    ],
+    "concepts": [
+      "instantaneous action",
+      "intensification",
+      "infinite regress",
+      "effort of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e257"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e351": {
+    "summary": "Reply to the first argument, first proposition: some part of every part of act a is produced by habit b.",
+    "claims": [
+      "Some part of every part of the act is co-produced by the habit."
+    ],
+    "concepts": [
+      "part and whole",
+      "continuous production"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e257"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e362": {
+    "summary": "Second proposition: there is no part of act a of which nothing is produced by habit b.",
+    "claims": [
+      "Habit b contributes to some portion of every part of act a."
+    ],
+    "concepts": [
+      "part and whole",
+      "continuous production"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e257"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e367": {
+    "summary": "Third proposition: the whole habit b is partially produced by act a.",
+    "claims": [
+      "The act is a partial cause of the whole habit."
+    ],
+    "concepts": [
+      "partial cause",
+      "generation of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e257"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e374": {
+    "summary": "Fourth proposition: even granting that the whole of act a is produced by habit b, it does not follow that any given part of b produces the partial act that produced that part. That is false and must be denied altogether. This blocks strict circularity.",
+    "claims": [
+      "No determinate part of the habit produces the partial act from which it arose.",
+      "Total mutual production of act and habit does not involve strict causal circularity at the level of parts."
+    ],
+    "concepts": [
+      "causal circularity",
+      "part and whole",
+      "reciprocal causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e257",
+        "jm3cbb-e30426-d1e199"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e386": {
+    "summary": "Reply to the second (escalation) argument. If an act of four produces a habit in an instant, the habit makes the whole act more intense, but adds less than the power produced. The habit may add one degree, which then yields a still weaker habit, and since the habit is less perfect than the act and the effort of will is constant, the increments shrink. So mutual production does not make act or habit infinite, since adding infinitely many unequal decreasing parts does not give an infinite quantity, as with adding the proportional parts of a finite magnitude. A second answer: only a habit prior in time or nature to an act partially produces it. A habit produced in this instant by an act of four has no priority over that act or its effort, so with that effort it produces nothing and the act stays at four, though if the effort later increases the habit helps.",
+    "claims": [
+      "Habit adds less intensity to an act than the power produces.",
+      "Infinitely many decreasing additions need not sum to an infinite quantity.",
+      "Only a habit prior in time or nature to an act co-produces it.",
+      "A habit produced simultaneously with an act does not intensify that act under the same effort of will."
+    ],
+    "concepts": [
+      "convergent series",
+      "proportional parts",
+      "priority of nature",
+      "effort of will",
+      "intensification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e316"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e451": {
+    "summary": "Third argument: if habit partially produces the act and is its equivocal cause, then habit is more perfect than the act, since an equivocal cause always surpasses its effect. That is false, since we are praised and merit for acts, not habits.",
+    "claims": [
+      "(Objection) An equivocal cause is always more perfect than its effect.",
+      "Praise and merit attach to acts rather than habits."
+    ],
+    "concepts": [
+      "equivocal cause",
+      "perfection",
+      "merit",
+      "act and habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e467": {
+    "summary": "Reply: Mair grants the antecedent but denies that an equivocal cause always surpasses its effect. When act and habit concern the same object, the act always surpasses the habit. So Aristotle (Ethics I and X) puts happiness in activity rather than in habit, quoting Ethics I.8: a habit can exist without doing any good, as in someone sleeping or idle, whereas activity cannot fail to act, and at Olympia it is not the most beautiful or strongest who are crowned but those who compete.",
+    "claims": [
+      "An equivocal cause is not always more perfect than its effect.",
+      "An act surpasses the habit concerning the same object.",
+      "Happiness consists in activity, not in habit."
+    ],
+    "concepts": [
+      "equivocal cause",
+      "act over habit",
+      "happiness",
+      "activity",
+      "Aristotle's Ethics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e451"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e504": {
+    "summary": "Fourth argument: if habit inclines to its act purely naturally, then since habit and intellect are both natural agents and together sufficient second causes, one would always actually be thinking of one's father or of anything whose habit is stored in memory, which is contrary to experience.",
+    "claims": [
+      "(Objection) If habit and intellect are natural and sufficient causes, stored knowledge would be constantly actualized."
+    ],
+    "concepts": [
+      "memory",
+      "natural agent",
+      "sufficient cause",
+      "actualization of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e526": {
+    "summary": "Reply: habit and intellect are not sufficient causes, or the argument would succeed. The will's concurrence is required for them to go into act; we use habits when we will.",
+    "claims": [
+      "Habit and intellect alone are not sufficient causes of acts.",
+      "The will's concurrence is required for a habit to issue in act.",
+      "We use habits when we will."
+    ],
+    "concepts": [
+      "will",
+      "use of habits",
+      "concurrence",
+      "memory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e504"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e537": {
+    "summary": "Fifth argument: if habit produces the act, there will be no maximally intense act a human can have, which contradicts what was said in distinction 13. A more intense habit gives more natural aid and so a more intense act. If the will at full effort yields an act of eight without a habit, with a habit it yields nine, which generates a new habit, which further intensifies the act.",
+    "claims": [
+      "(Objection) If habit aids the power, there is no upper bound to the intensity of human acts."
+    ],
+    "concepts": [
+      "maximum intensity",
+      "intensification",
+      "distinction 13",
+      "natural aid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e569": {
+    "summary": "Reply: Mair grants that there is no maximally intense act a human can have with a habit, and finds nothing wrong in it. The effect always increases with added aid, and if there is no limit to the added aid there is no limit to the effect.",
+    "claims": [
+      "There is no maximally intense act a human can have with the aid of habit.",
+      "Increasing aid always increases the effect, so without a cap on aid there is no cap on effect."
+    ],
+    "concepts": [
+      "maximum intensity",
+      "natural aid",
+      "unbounded increase"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e537"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e582": {
+    "summary": "Sixth argument: if habit concurs in producing the act, habit would be an active quality, which is not usually conceded.",
+    "claims": [
+      "(Objection) Habit would have to be an active quality, which is generally denied."
+    ],
+    "concepts": [
+      "active quality",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e133"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e591": {
+    "summary": "Reply: if producing another quality were enough to be an active quality, the conclusion would be granted. But in philosophers' common usage only a quality that produces something like itself in lowest species is called active, such as the four primary qualities.",
+    "claims": [
+      "In technical usage, an active quality is one that produces a quality like itself in lowest species.",
+      "Habit is not an active quality in that sense, though it produces acts."
+    ],
+    "concepts": [
+      "active quality",
+      "primary qualities",
+      "univocal causation",
+      "technical terminology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e582"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e607": {
+    "summary": "A question is raised: what does habit contribute to good or evil?",
+    "claims": [],
+    "concepts": [
+      "moral significance of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e612": {
+    "summary": "Answer: habit contributes a great deal, to good if the habit is good and to evil if bad. Mair piles up examples. A moderately timid roofer who carries tiles to rooftops and pinnacles eventually loses all fear while an unpractised man falls. A farmer's bent fingers cannot be straightened in old age. Libyan animals not used to drinking in summer refuse water in old age. Lycurgus raised one dog in a kitchen and one in a wood, and when a hare was released the kitchen dog ran to the kitchen. Hence the young must be well habituated in letters and morals, as Aristotle says after Plato (Ethics II): it makes a great difference, indeed all the difference. He adds Horace's jar that keeps its first scent, the proverb that long custom makes everything light, the ease of forming the young in religion and chastity versus the difficulty of reforming the old, Proverbs 22, Jeremiah 13 (the Ethiopian's skin and the leopard's spots), diseases incurable once established, and the old horse that cannot change its gait.",
+    "claims": [
+      "Habit contributes greatly to good or evil according to its character.",
+      "Habituation overcomes natural fear and shapes bodily and animal behaviour.",
+      "Habits formed in youth endure into old age and are very hard to uproot.",
+      "The young should be well habituated in learning and morals."
+    ],
+    "concepts": [
+      "moral education",
+      "habituation",
+      "youth",
+      "custom",
+      "Lycurgus",
+      "persistence of habit",
+      "vice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e607"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  },
+  "jm3cbb-e30426-d1e697": {
+    "summary": "Concluding exhortation: the young should be led to habitual virtue both by beatings and by honest persuasion, and they will then stay as one wishes into old age. Those badly habituated in youth become inflexible in age, like a beam that breaks while a tender sapling bends. This shows how much force habit has for good or evil.",
+    "claims": [
+      "Youth should be trained toward virtue by discipline and persuasion.",
+      "Bad habits formed in youth make one inflexible in old age."
+    ],
+    "concepts": [
+      "moral education",
+      "discipline",
+      "persistence of habit",
+      "sapling analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jm3cbb-e30426",
+        "jm3cbb-e30426-d1e612"
+      ],
+      "prompt_version": "interpretation-paragraph-v1"
+    }
+  }
+}
