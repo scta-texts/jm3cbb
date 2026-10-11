@@ -115,7 +115,7 @@
           Con<lb ed="#P" n="21" break="no"/>tra primam conclusionem arguitur sic: reuelatio potest 
           <lb ed="#P" n="22"/>esse de falso. ergo conclusio et sua probatio secunda 
           <lb ed="#P" n="23"/>est nulla. antecedens patet. deus reuelauit Petro 
-          <lb ed="#P" n="24"/><quote source="http://scta.info/resource/mt26_34@11-16">antequam gallus cantet ter me negabis</quote>. et reuelatione 
+          <lb ed="#P" n="24"/><quote xml:id="jm3cbb-e33578-Qd1e216" source="http://scta.info/resource/mt26_34@11-16">antequam gallus cantet ter me negabis</quote>. et reuelatione 
           <lb ed="#P" n="25"/>facta: non erat necesse Petrum negare christum: alias 
           <lb ed="#P" n="26"/>non peccasset negando christum: cuius oppositum 
           <lb ed="#P" n="27"/>ponit Augusti. et patet. distinctione. l. ca. fidelior. 
@@ -129,7 +129,7 @@
           peccas<lb ed="#P" n="35" break="no"/>set: ergo eodem est modo si alicui reuelasset / non adhuc 
           <lb ed="#P" n="36"/>magis necessarium fuisset quam antea: et tamen est 
           om<lb ed="#P" n="37" break="no"/>nino hinc inde similis difficultas. tunc sic: deus 
-          <lb ed="#P" n="38"/>reuelauit Petro / <quote source="http://scta.info/resource/mt26_34@11-16">antequam gallus cantet ter me 
+          <lb ed="#P" n="38"/>reuelauit Petro / <quote xml:id="jm3cbb-e33578-Qd1e250" source="http://scta.info/resource/mt26_34@11-16">antequam gallus cantet ter me 
           ne<lb ed="#P" n="39" break="no"/>gabis</quote>: et Petrus poterat non negare christum. 
           pona<lb ed="#P" n="40" break="no"/>tur ita esse. ergo christus poterat reuelare falsum: 
           <lb ed="#P" n="41"/>immo de facto reuelauit falsum: scilicet quod Petrus 
@@ -191,7 +191,7 @@
           <lb ed="#P" n="88"/>non negaret. ponendo hanc in esse / Petrus non 
           <lb ed="#P" n="89"/>negabit christum: iam sequitur non est Petro reuelatum quod 
           <lb ed="#P" n="90"/>negabit christum. reuelatio potest esse non reuelatio christus 
-          <lb ed="#P" n="91"/>reuelauit Petro / <quote source="http://scta.info/resource/mt26_34@11-16">antequam gallus cantet ter me 
+          <lb ed="#P" n="91"/>reuelauit Petro / <quote xml:id="jm3cbb-e33578-Qd1e377" source="http://scta.info/resource/mt26_34@11-16">antequam gallus cantet ter me 
           ne<lb ed="#P" n="92" break="no"/>gabis</quote>: licet sit de preterito: non tamen est necessaria 
           <lb ed="#P" n="93"/>sua veritas dependet ex hac de futuro 
           contingen<lb ed="#P" n="94" break="no"/>ti / Petrus negabit christum. ergo nec christus nec 
@@ -202,7 +202,7 @@
           <lb ed="#P" n="99"/>verbum christi et prolationem illius dicti mere 
           contin<lb ed="#P" n="100" break="no"/>genter negauit christum. fuit liber non negare christum: 
           si<lb ed="#P" n="101" break="no"/>cut et iudas contingenter tradidit christum post illa 
-          <lb ed="#P" n="102"/>verba / <quote source="http://scta.info/resource/mt26_21@9-13">vnus vestrum me traditurus est</quote>: et <quote source="http://scta.info/resource/mt26_23@5-13">qui 
+          <lb ed="#P" n="102"/>verba / <quote xml:id="jm3cbb-e33578-Qd1e404" source="http://scta.info/resource/mt26_21@9-13">vnus vestrum me traditurus est</quote>: et <quote xml:id="jm3cbb-e33578-Qd1e407" source="http://scta.info/resource/mt26_23@5-13">qui 
           intin<lb ed="#P" n="103" break="no"/>git mecum in peraspidem ille me tradet</quote>. christus potest 
           <lb ed="#P" n="104"/>non assertiue dixisse illud quod dixit: sicut potest non 
           <lb ed="#P" n="105"/>reuelare quod reuelauit.
@@ -224,7 +224,7 @@
           <lb ed="#P" n="115"/>falso. Preterea: charitas et spes sunt circa falsum: 
           <lb ed="#P" n="116"/>ergo et fides. tenet consequentia: sunt virtutes 
           theolo<lb ed="#P" n="117" break="no"/>gice sicut et ipsa fides: et charitas est fide maior 
-          <lb ed="#P" n="118"/><ref>i. ad corinthi. xiii.</ref> si maior: compatiatur falsum / et 
+          <lb ed="#P" n="118"/><ref xml:id="jm3cbb-e33578-Rd1e453">i. ad corinthi. xiii.</ref> si maior: compatiatur falsum / et 
           mi<lb ed="#P" n="119" break="no"/>nor. assumptum patet: prescitus / sperat consequi 
           beati<lb ed="#P" n="120" break="no"/>tudinem: quam non consequetur. de charitate patet: 
           <lb ed="#P" n="121"/>potest quis deceptus errore inuincibili / charitatiue 

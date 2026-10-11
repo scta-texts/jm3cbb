@@ -111,7 +111,7 @@
           <lb ed="#P" n="13"/>iustificare / beatificare / que operationes soli deo 
           <lb ed="#P" n="14"/>conueniunt. solus deus creat: licet aliqui (sine 
           pro<lb ed="#P" n="15" break="no"/>batione sufficienti) creationem in rebus minutis 
-          crea<lb ed="#P" n="16" break="no"/>turis dent: vt in <ref>prima distinctione quarti</ref> dictum 
+          crea<lb ed="#P" n="16" break="no"/>turis dent: vt in <ref xml:id="jm3cbb-e36965-Rd1e222">prima distinctione quarti</ref> dictum 
           <lb ed="#P" n="17"/>est. solus etiam deus / iustificat / peccata remittendo. 
           <lb ed="#P" n="18"/>solus etiam beatificat / vitam eternam tribuendo. 
           li<lb ed="#P" n="19" break="no"/>cet beatus ad suam beatitatem concurrat: hoc non 
@@ -127,9 +127,9 @@
           <lb ed="#P" n="29"/>in iustificatione impii: peccatorum remissio / gratie 
           <lb ed="#P" n="30"/>infusio / et communio sanctorum: quo peccator 
           iusti<lb ed="#P" n="31" break="no"/>ficatus participat omnia bona sanctorum omnium: 
-          <lb ed="#P" n="32"/>iuxta illud prophete: <quote source="http://scta.info/resource/ps118_63@1-10">particeps ego sum 
-          timen<lb ed="#P" n="33" break="no"/>tium te / et custodientium mandata tua</quote>. <quote source="http://scta.info/resource/Icor13_5@4-8">charitas 
-          <lb ed="#P" n="34"/>autem non querit que sua sunt</quote>: <ref>i. ad corintios. xiii.</ref> sed 
+          <lb ed="#P" n="32"/>iuxta illud prophete: <quote xml:id="jm3cbb-e36965-Qd1e259" source="http://scta.info/resource/ps118_63@1-10">particeps ego sum 
+          timen<lb ed="#P" n="33" break="no"/>tium te / et custodientium mandata tua</quote>. <quote xml:id="jm3cbb-e36965-Qd1e264" source="http://scta.info/resource/Icor13_5@4-8">charitas 
+          <lb ed="#P" n="34"/>autem non querit que sua sunt</quote>: <ref xml:id="jm3cbb-e36965-Rd1e269">i. ad corintios. xiii.</ref> sed 
           <lb ed="#P" n="35"/>facit omnia communia. tertiam operationem: 
           <lb ed="#P" n="36"/>scilicet beatificationem: exprimit ille articulus / 
           car<lb ed="#P" n="37" break="no"/>nis resurrectionem vitam eternam amen: ita quod sit 
@@ -155,7 +155,7 @@
           <lb ed="#P" n="54"/>a mortuis. Sextus: ad celum ascensionem: 
           scili<lb ed="#P" n="55" break="no"/>cet iste: ascendit ad celos sedet ad dexteram dei 
           pa<lb ed="#P" n="56" break="no"/>tris omnipotentis. Septimus aduentum christi ad 
-          <lb ed="#P" n="57"/>iudicium explicat hic / qui venturus est <quote source="http://scta.info/resource/Ipetr4_5@8-11">iudicare 
+          <lb ed="#P" n="57"/>iudicium explicat hic / qui venturus est <quote xml:id="jm3cbb-e36965-Qd1e325" source="http://scta.info/resource/Ipetr4_5@8-11">iudicare 
           vi<lb ed="#P" n="58" break="no"/>uos et mortuos</quote>.
         </p>
         <p xml:id="jm3cbb-e36965-d1e316">
@@ -184,7 +184,7 @@
           tempo<lb ed="#P" n="80" break="no"/>ris. quod patet post articulum eternitatis diuine 
           na<lb ed="#P" n="81" break="no"/>ture et prime persone / additur articulus 
           creatio<lb ed="#P" n="82" break="no"/>nis: que est opus primum in tempore: iuxta illud 
-          <ref>Ge<lb ed="#P" n="83" break="no"/>neseos. i</ref>. <quote source="http://scta.info/resource/gen1_1@1-7">In principio creauit deus celum terram</quote>. 
+          <ref xml:id="jm3cbb-e36965-Rd1e386">Ge<lb ed="#P" n="83" break="no"/>neseos. i</ref>. <quote xml:id="jm3cbb-e36965-Qd1e391" source="http://scta.info/resource/gen1_1@1-7">In principio creauit deus celum terram</quote>. 
           <lb ed="#P" n="84"/>in tempore sequitur incarnatio secunde persone in 
           di<lb ed="#P" n="85" break="no"/>uinis / et acta et passa in carne secundum ordinem 
           tempo<lb ed="#P" n="86" break="no"/>ris. hinc de tertia persona cum suis appropriati 
@@ -244,7 +244,7 @@
           ex<lb ed="#P" n="11" break="no"/>plicite que non continentur formaliter in apostolorum 
           <lb ed="#P" n="12"/>simbolo. patet de existentia corporis christi in 
           eucha<lb ed="#P" n="13" break="no"/>ristia: et quod baptismus est sacramentum fidei 
-          necessa<lb ed="#P" n="14" break="no"/>rium ad salutem. patet hec conclusio: <ref target="http://scta.info/resource/cice-l1t1-Dd1e108">de summa trinit. 
+          necessa<lb ed="#P" n="14" break="no"/>rium ad salutem. patet hec conclusio: <ref xml:id="jm3cbb-e36965-Rd1e518" target="http://scta.info/resource/cice-l1t1-Dd1e108">de summa trinit. 
           <lb ed="#P" n="15"/>et fi. catho. ca. firmiter</ref>. idem patet de processione 
           <lb ed="#P" n="16"/>spiritus sancti a patre et filio: ex determinatione 
           <lb ed="#P" n="17"/>concilii niceni.
@@ -278,7 +278,7 @@
           <lb ed="#P" n="42"/>ecclesia recepit articulum / quia ei placet: tunc 
           eccle<lb ed="#P" n="43" break="no"/>sia faciendo veritatem catholicam inniteretur 
           huma<lb ed="#P" n="44" break="no"/>ne voluntati tantum: et ita fides nostra esset in 
-          volun<lb ed="#P" n="45" break="no"/>tate hominum: contra illud prime corin. ii. <quote source="http://scta.info/resource/Icor2_4@2-9">sermo
+          volun<lb ed="#P" n="45" break="no"/>tate hominum: contra illud prime corin. ii. <quote xml:id="jm3cbb-e36965-Qd1e590" source="http://scta.info/resource/Icor2_4@2-9">sermo
           <lb ed="#P" n="46"/>meus predicatio mea non in persuasibilibus</quote> 
           hu<lb ed="#P" n="47" break="no"/>mane scientie verbis: ergo multo fortius non in 
           vo<lb ed="#P" n="48" break="no"/>luntatibus humanis.

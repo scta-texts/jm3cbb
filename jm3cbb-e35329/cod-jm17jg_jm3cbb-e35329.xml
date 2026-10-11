@@ -75,7 +75,7 @@
           deci<lb ed="#P" n="77" break="no"/>pi sic assentiendo. sed euidentiam in communi diffiniui
           <lb ed="#P" n="78"/>vt euidentiam naturalem euidentiam absolutam 
           inclu<lb ed="#P" n="79" break="no"/>dat. an deus potest causare euidentiam de hac 
-          <mentioned>anti<lb ed="#P" n="80" break="no"/>christus erit</mentioned> / in <ref>distin. xxv. q. vlti.</ref> dicetur.
+          <mentioned>anti<lb ed="#P" n="80" break="no"/>christus erit</mentioned> / in <ref xml:id="jm3cbb-e35329-Rd1e155">distin. xxv. q. vlti.</ref> dicetur.
         </p>
         <p xml:id="jm3cbb-e35329-d1e152">
           ¶ His 
@@ -130,7 +130,7 @@
         </p>
         <p xml:id="jm3cbb-e35329-d1e259">
           ¶ 
-          Ter<lb ed="#P" n="4" break="no"/>tia conclusio probatur per <ref>Aristotelem primo 
+          Ter<lb ed="#P" n="4" break="no"/>tia conclusio probatur per <ref xml:id="jm3cbb-e35329-Rd1e267">Aristotelem primo 
           poste<lb ed="#P" n="5" break="no"/>riorum</ref>: simul idem sciri et opinari non contingit. 
           <lb ed="#P" n="6"/>da oppositum: sortes habet scientiam de a. 
           conclu<lb ed="#P" n="7" break="no"/>sione: ergo assentit illi euidenter: et sortes habet 
@@ -162,11 +162,11 @@
         <p xml:id="jm3cbb-e35329-d1e319">
           ¶ Secundo 
           argui<lb ed="#P" n="29" break="no"/>tur: hoc est contra apostolum prime ad Corin. xiii. 
-          <lb ed="#P" n="30"/>dicentem: <quote source="http://scta.info/resource/Icor13_10@1-11">cum venerit quod perfectum est: euacuabitur 
-          <lb ed="#P" n="31"/>quod ex parte est</quote>. et <ref>ad hebre. i.</ref> <quote source="http://scta.info/resource/hebr11_1@1-9">fides est 
-          argumen<lb ed="#P" n="32" break="no"/>tum non apparentium</quote>: vbi <ref>glosa</ref>: <quote>fides est de his que 
+          <lb ed="#P" n="30"/>dicentem: <quote xml:id="jm3cbb-e35329-Qd1e332" source="http://scta.info/resource/Icor13_10@1-11">cum venerit quod perfectum est: euacuabitur 
+          <lb ed="#P" n="31"/>quod ex parte est</quote>. et <ref xml:id="jm3cbb-e35329-Rd1e337">ad hebre. i.</ref> <quote xml:id="jm3cbb-e35329-Qd1e339" source="http://scta.info/resource/hebr11_1@1-9">fides est 
+          argumen<lb ed="#P" n="32" break="no"/>tum non apparentium</quote>: vbi <ref xml:id="jm3cbb-e35329-Rd1e345">glosa</ref>: <quote xml:id="jm3cbb-e35329-Qd1e347">fides est de his que 
           <lb ed="#P" n="33"/>non videntur. de visis enim non est fides. sed agnitio</quote>. 
-          <lb ed="#P" n="34"/><name>Gandensis</name> habet aliam opinionem de qua <ref>questione 
+          <lb ed="#P" n="34"/><name xml:id="jm3cbb-e35329-Nd1e353">Gandensis</name> habet aliam opinionem de qua <ref xml:id="jm3cbb-e35329-Rd1e355">questione 
           <lb ed="#P" n="35"/>finali distin. xxv.</ref> videbitur.
         </p>
         <p xml:id="jm3cbb-e35329-d1e337">

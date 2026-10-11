@@ -177,7 +177,7 @@
           <lb ed="#P" n="95"/>nem tenet magister in hac distinctione. ca. ii. intro 
           <lb ed="#P" n="96"/>ducens fulgentium in quodam sermone hoc 
           tenen<lb ed="#P" n="97" break="no"/>tem: et dicit quod multas auctoritates ad hoc intro 
-          <lb ed="#P" n="98"/>ducit. vna est apparens ad Collocenss. ii. <quote source="http://scta.info/resource/col2_3@1-9">In quo 
+          <lb ed="#P" n="98"/>ducit. vna est apparens ad Collocenss. ii. <quote xml:id="jm3cbb-e19051-Qd1e337" source="http://scta.info/resource/col2_3@1-9">In quo 
           <lb ed="#P" n="99"/>sunt omnes thesauri sapientie et scientie 
           abscon<lb ed="#P" n="100" break="no"/>diti</quote>. quod magister probat ratione nihil scit 
           ali<lb ed="#P" n="101" break="no"/>quis quod eius anima ignorat: sed christus secundum 
@@ -193,24 +193,24 @@
           <lb ed="#P" n="108"/>est sic in proposito. auctoritas tamen aposoli 
           recita<lb ed="#P" n="109" break="no"/>ta est bona in proposito: et in. xiii. distinctione 
           re<lb ed="#P" n="110" break="no"/>citauimus quemadmodum ei data sunt dona sine 
-          men<lb ed="#P" n="111" break="no"/>sura: ergo ad infinitatem. Ioannis. i. <quote source="http://scta.info/resource/io1_14@19-22">plenum gratiae 
+          men<lb ed="#P" n="111" break="no"/>sura: ergo ad infinitatem. Ioannis. i. <quote xml:id="jm3cbb-e19051-Qd1e370" source="http://scta.info/resource/io1_14@19-22">plenum gratiae 
           ve<lb ed="#P" n="112" break="no"/>ritate</quote>. modo veritas ad sapientiam secundum Augu. xiii. 
           <lb ed="#P" n="113"/>de trini. refertur. Insuper christus homo potestate 
           su<lb ed="#P" n="114" break="no"/>prema delegata iudicabit: Ioannis. v. scribitur: 
-          <lb ed="#P" n="115"/><quote source="http://scta.info/resource/io5_22@7-10">pater enim iudicium dedit filio</quote>. modo quilibet est 
+          <lb ed="#P" n="115"/><quote xml:id="jm3cbb-e19051-Qd1e381" source="http://scta.info/resource/io5_22@7-10">pater enim iudicium dedit filio</quote>. modo quilibet est 
           <lb ed="#P" n="116"/>bonus / iudex eorum que nouit: primo ethicorum. 
           ergo<lb ed="#P" n="117" break="no"/>anima christi cognoscit singulos actus 
           predesti<lb ed="#P" n="118" break="no"/>natorum et reproborum / circunstantias aggrauantes 
           <lb ed="#P" n="119"/>alleuiantes / et impartinentes / intensionem et 
           remis<lb ed="#P" n="120" break="no"/>sionem actuum: et ad hoc sequitur quod infinita 
-          distin<lb ed="#P" n="121" break="no"/>cte cognoscit eius anima. Et apoca. v. <quote source="http://scta.info/resource/ap5_12@4-15">dignus est 
+          distin<lb ed="#P" n="121" break="no"/>cte cognoscit eius anima. Et apoca. v. <quote xml:id="jm3cbb-e19051-Qd1e397" source="http://scta.info/resource/ap5_12@4-15">dignus est 
           <pb ed="#P" n="32-v"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>agnus qui occisus est accipere diuinitatem et scientiam</quote>. 
           <lb ed="#P" n="2"/>vbi glo. i. omnem cognitionem. Preterea ita putarunt 
           <lb ed="#P" n="3"/>sicut dico in conclusione / discipuli christi. patet 
           per<lb ed="#P" n="4" break="no"/>illud quo scribitur Ioannis. xvi. dixerunt 
-          discipu<lb ed="#P" n="5" break="no"/>i christo: <quote source="http://scta.info/resource/io16_30@1-5">nunc scimus quod scis ommnia</quote>: non erat 
+          discipu<lb ed="#P" n="5" break="no"/>i christo: <quote xml:id="jm3cbb-e19051-Qd1e415" source="http://scta.info/resource/io16_30@1-5">nunc scimus quod scis ommnia</quote>: non erat 
           ser<lb ed="#P" n="6" break="no"/>mo secundum diuinitatem: hoc diu antequam cognouerunt 
           <lb ed="#P" n="7"/>christum sciebant: quod nichil deum lateret: hec ratio 
           <lb ed="#P" n="8"/>multum me mouet. Preterea Anselmus. ii. 
@@ -218,7 +218,7 @@
           bo<lb ed="#P" n="10" break="no"/>num: et nullum ignorauit malum: et omnia illa ab 
           <lb ed="#P" n="11"/>instanti conceptionis sciebat vt Esaias. vii. 
           ca<lb ed="#P" n="12" break="no"/>pite sui libri canit de virgine et puero Ihesu 
-          in<lb ed="#P" n="13" break="no"/>quiens / <quote source="http://scta.info/resource/is7_14@8-18 http://scta.info/resource/is7_15@1-11">Ecce vergo concipiet et pariet filium et 
+          in<lb ed="#P" n="13" break="no"/>quiens / <quote xml:id="jm3cbb-e19051-Qd1e435" source="http://scta.info/resource/is7_14@8-18 http://scta.info/resource/is7_15@1-11">Ecce vergo concipiet et pariet filium et 
           vo<lb ed="#P" n="14" break="no"/>cabitur nomemn eius emanuel. butirum et mel 
           come<lb ed="#P" n="15" break="no"/>det: vt sciat reprobare malum eligere bonum</quote>. 
           vbi<lb ed="#P" n="16" break="no"/>glo. merginalis in verbo reprobare: sic ait: quasi 
@@ -403,7 +403,7 @@
         </p>
         <p xml:id="jm3cbb-e19051-d1e768">
           ¶ Sexto arguitur. Mat. xxiiii. 
-          <lb ed="#P" n="32"/><quote source="http://scta.info/resource/mt24_36@1-14">de die autem illa et hora nemo scit neque angeli 
+          <lb ed="#P" n="32"/><quote xml:id="jm3cbb-e19051-Qd1e789" source="http://scta.info/resource/mt24_36@1-14">de die autem illa et hora nemo scit neque angeli 
           celo<lb ed="#P" n="33" break="no"/>rum nisi pater solus</quote>.
         </p>
         <p xml:id="jm3cbb-e19051-d1e776">
@@ -578,10 +578,10 @@
           <lb ed="#P" n="42"/>annons natus secundum carnem: et in medio doctorum intet 
           <lb ed="#P" n="43"/>rogabat: non vt incognitum ab eis addisceret: sed 
           <lb ed="#P" n="44"/>vt cum eis conferret: et eos illuminaret: sicut regens 
-          <lb ed="#P" n="45"/>audit discipulum. dicit littera: <quote source="http://scta.info/resource/lc2_47@1-11">stupebant autem 
+          <lb ed="#P" n="45"/>audit discipulum. dicit littera: <quote xml:id="jm3cbb-e19051-Qd1e1129" source="http://scta.info/resource/lc2_47@1-11">stupebant autem 
           om<lb ed="#P" n="46" break="no"/>nes qui eum audiebant super prudentiaet responsis 
           <lb ed="#P" n="47"/>eius</quote>. et Ioan. vii. Mirabantur iudei dicentes de 
-          <lb ed="#P" n="48"/>christo: <quote source="http://scta.info/resource/io7_15@5-11">quomodo hic scit litteras cum non 
+          <lb ed="#P" n="48"/>christo: <quote xml:id="jm3cbb-e19051-Qd1e1138" source="http://scta.info/resource/io7_15@5-11">quomodo hic scit litteras cum non 
           didice<lb ed="#P" n="49" break="no"/>rit eas</quote>. poterat tamen habere nouam noticiam 
           audi<lb ed="#P" n="50" break="no"/>tiuam experimentalem: sicut visionem: et iudicia 
           no<lb ed="#P" n="51" break="no"/>ua super his obiectis / que ante optime nouerat: 
@@ -607,7 +607,7 @@
           <lb ed="#P" n="64"/>christi iuuat. et sic argumentum non habet 
           apparem<lb ed="#P" n="65" break="no"/>tiam: et satis patuit in conclusionis probatione. 
           <lb ed="#P" n="66"/>Sed hic cadit argumentum: quod anima christi 
-          profi<lb ed="#P" n="67" break="no"/>ceret: secundum illud Luce. ii. <quote source="http://scta.info/resource/lc2_52@1-11">Iesus proficiebat etate 
+          profi<lb ed="#P" n="67" break="no"/>ceret: secundum illud Luce. ii. <quote xml:id="jm3cbb-e19051-Qd1e1190" source="http://scta.info/resource/lc2_52@1-11">Iesus proficiebat etate 
           <lb ed="#P" n="68"/>et sapientia et gratia apud deum et homines</quote>: ergo 
           <lb ed="#P" n="69"/>nesciuit a primo instanti omnia. sed quia hoc 
           re<lb ed="#P" n="70" break="no"/>quirit maiorem prolixitatem quam debeat esse solutio 

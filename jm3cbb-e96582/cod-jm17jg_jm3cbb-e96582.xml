@@ -101,8 +101,8 @@
         </p>
         <p xml:id="jm3cbb-e96582-d1e184">
           ¶ Ultimo arguitur Leuitici. v. 
-          <quote source="http://scta.info/resource/lev5_1@1-7">Si<lb ed="#P" n="117" break="no"/>peccauerit animaet audiuerit vocem iurantis</quote>: falsum 
-          di<lb ed="#P" n="118" break="no"/>cit glosa interlinearis: <quote source="http://scta.info/resource/lev5_1@8-21">testisque fuerit quod ipse vidit 
+          <quote xml:id="jm3cbb-e96582-Qd1e187" source="http://scta.info/resource/lev5_1@1-7">Si<lb ed="#P" n="117" break="no"/>peccauerit animaet audiuerit vocem iurantis</quote>: falsum 
+          di<lb ed="#P" n="118" break="no"/>cit glosa interlinearis: <quote xml:id="jm3cbb-e96582-Qd1e194" source="http://scta.info/resource/lev5_1@8-21">testisque fuerit quod ipse vidit 
           <lb ed="#P" n="119"/>aut conscius est: nisi indicauerit / portabit iniquitatem. 
           <pb ed="#P" n="159-r"/>
           <cb ed="#P" n="a"/>
@@ -178,10 +178,10 @@
           li<lb ed="#P" n="50" break="no"/>cet paratum ad periurium admittere / quod consequenter 
           <lb ed="#P" n="51"/>periuret. tenet consequentia per simile. antecedens 
           <lb ed="#P" n="52"/>patet. iii. Reg. xviii. cum helyas exhortatione non 
-          <lb ed="#P" n="53"/>poterat baal tollere de ppostolo dicebat / <quote source="http://scta.info/resource/Ireg18_22@7-15">Ego 
+          <lb ed="#P" n="53"/>poterat baal tollere de ppostolo dicebat / <quote xml:id="jm3cbb-e96582-Qd1e337" source="http://scta.info/resource/Ireg18_22@7-15">Ego 
           reman<lb ed="#P" n="54" break="no"/>si propheta domini solus: prophete autem 
           baal<lb ed="#P" n="55" break="no"/>quadringenti et. i. propheteque lucorum. cccc. viri sunt</quote>: 
-          <lb ed="#P" n="56"/><quote source="http://scta.info/resource/Ireg18_23@1-32 http://scta.info/resource/Ireg18_24@1-18">dentur nobi duo boues: illi eligant sibibouem vnum 
+          <lb ed="#P" n="56"/><quote xml:id="jm3cbb-e96582-Qd1e345" source="http://scta.info/resource/Ireg18_23@1-32 http://scta.info/resource/Ireg18_24@1-18">dentur nobi duo boues: illi eligant sibibouem vnum 
           <lb ed="#P" n="57"/>et in frustra cedentes ponant super ligna: ignem autem non 
           <lb ed="#P" n="58"/>subponant: et ego faciam bouem alterumet imponam 
           super<lb ed="#P" n="59" break="no"/>ligna. ignem autem non subponam: inuocate nomina 

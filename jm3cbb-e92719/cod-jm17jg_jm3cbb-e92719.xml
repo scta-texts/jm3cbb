@@ -63,7 +63,7 @@
         </p>
         <p xml:id="jm3cbb-e92719-d1e117">
           ¶ Rspenr: glosa super 
-          <lb ed="#P" n="112"/>illud praies. <quote source="http://scta.info/resource/ps5_7@6-10">perdes omnes qui loquuntur 
+          <lb ed="#P" n="112"/>illud praies. <quote xml:id="jm3cbb-e92719-Qd1e122" source="http://scta.info/resource/ps5_7@6-10">perdes omnes qui loquuntur 
           <lb ed="#P" n="113"/>mendacium</quote>: ponit tria generia mendaciorum. s. iocosum / 
           <lb ed="#P" n="114"/>officiosum / perniciosum. Iocosum in questione 
           <lb ed="#P" n="115"/>praecedenti diffinitum est. Mendacium officiosum est 
@@ -103,11 +103,11 @@
         </p>
         <p xml:id="jm3cbb-e92719-d1e184">
           ¶ Prima conclusio probatur de 
-          men<lb ed="#P" n="14" break="no"/>dacio iocoso et officioso per glo. super illo / <quote source="http://scta.info/resource/ps5_7@6-10">perdes omnes 
+          men<lb ed="#P" n="14" break="no"/>dacio iocoso et officioso per glo. super illo / <quote xml:id="jm3cbb-e92719-Qd1e192" source="http://scta.info/resource/ps5_7@6-10">perdes omnes 
           <lb ed="#P" n="15"/>qui loquuntur mendacium</quote>: dicit. duo sunt generia 
           mendacio<lb ed="#P" n="16" break="no"/>rum in quibus non est magna culpa: et loquitur de mendacio 
           <lb ed="#P" n="17"/>iocoso et officioso. et magister in littera dicit illud 
-          <lb ed="#P" n="18"/>psal. <quote source="http://scta.info/resource/ps5_7@6-10">perdes omnes qui loquuntur mendacium</quote> / non intelligitur 
+          <lb ed="#P" n="18"/>psal. <quote xml:id="jm3cbb-e92719-Qd1e204" source="http://scta.info/resource/ps5_7@6-10">perdes omnes qui loquuntur mendacium</quote> / non intelligitur 
           <lb ed="#P" n="19"/>de omni mendacio. et patet conclusio ratione: ista duo mendacia 
           <lb ed="#P" n="20"/>non conriantur caritati dei vel proximi: ergo non sunt 
           pcctam<lb ed="#P" n="21" break="no"/>mortalia: propterea perniciosum est mortale peccatum vt 
@@ -158,12 +158,12 @@
         </p>
         <p xml:id="jm3cbb-e92719-d1e286">
           ¶ Contra primam conclusionem arguitur 
-          <lb ed="#P" n="55"/>per illud Psalmiste. <quote source="http://scta.info/resource/ps5_7@6-10">perdes omnes qui 
-          loquuntur<lb ed="#P" n="56" break="no"/>mendacium</quote>. et Sapien. i. <quote source="http://scta.info/resource/sap1_11@21-26">os quod mentitur occidit animam</quote>. 
+          <lb ed="#P" n="55"/>per illud Psalmiste. <quote xml:id="jm3cbb-e92719-Qd1e300" source="http://scta.info/resource/ps5_7@6-10">perdes omnes qui 
+          loquuntur<lb ed="#P" n="56" break="no"/>mendacium</quote>. et Sapien. i. <quote xml:id="jm3cbb-e92719-Qd1e305" source="http://scta.info/resource/sap1_11@21-26">os quod mentitur occidit animam</quote>. 
           <lb ed="#P" n="57"/>sed nullus perditur nec spiritualiter occiditur nisi per 
           <lb ed="#P" n="58"/>mortale peccatum: ergo omne mendacium est 
           mor<lb ed="#P" n="59" break="no"/>tale peccatum. Tertio. glosa super illud Ron. xiiii. 
-          <lb ed="#P" n="60"/><quote source="http://scta.info/resource/rom14_23@4-7">Si manducauerit dampnatus est</quote>: dicit: quod qui iudicat 
+          <lb ed="#P" n="60"/><quote xml:id="jm3cbb-e92719-Qd1e316" source="http://scta.info/resource/rom14_23@4-7">Si manducauerit dampnatus est</quote>: dicit: quod qui iudicat 
           <cb ed="#P" n="b"/>
           <lb ed="#P" n="61"/>non edendum et edit dampnatus est. ipse enim se reum facit 
           <lb ed="#P" n="62"/>quando illud quod sibi inutile asserit facit. sed omnis qui loquitur 

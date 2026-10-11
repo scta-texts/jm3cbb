@@ -199,7 +199,7 @@
         <p xml:id="jm3cbb-e62495-d1e344">
           ¶ Quinto. licitum 
           <lb ed="#P" n="18"/>est iudici facere quod est lege cautum. sed lege cautum est conden 
-          <lb ed="#P" n="19"/>nare virum innocentem talem probatum: quia <quote source="http://scta.info/resource/deut19_15@14-22">in ore 
+          <lb ed="#P" n="19"/>nare virum innocentem talem probatum: quia <quote xml:id="jm3cbb-e62495-Qd1e351" source="http://scta.info/resource/deut19_15@14-22">in ore 
           <lb ed="#P" n="20"/>duorum vel trium stat omne verbum</quote>: vt patet 
           Deu<lb ed="#P" n="21" break="no"/>teronomii. xvii. igitur.
         </p>
@@ -214,10 +214,10 @@
         <p xml:id="jm3cbb-e62495-d1e369">
           ¶ Contra quintam conclusio 
           <lb ed="#P" n="27"/>nem argumentor per illud quod scribitur Exodi. xxiii. 
-          <lb ed="#P" n="28"/><quote source="http://scta.info/resource/ex23_2@1-16">Non sequeris turbam ad faciendum malum: nec 
+          <lb ed="#P" n="28"/><quote xml:id="jm3cbb-e62495-Qd1e378" source="http://scta.info/resource/ex23_2@1-16">Non sequeris turbam ad faciendum malum: nec 
           <lb ed="#P" n="29"/>in iudicio plurimorum acquiesces sententie vt a 
           ve<lb ed="#P" n="30" break="no"/>ro deuias</quote>. et paulopost in eodem capite scribitur 
-          <lb ed="#P" n="31"/>ad nostrum propositum: <quote source="http://scta.info/resource/ex23_7@3-10">insontem et iustum non 
+          <lb ed="#P" n="31"/>ad nostrum propositum: <quote xml:id="jm3cbb-e62495-Qd1e387" source="http://scta.info/resource/ex23_7@3-10">insontem et iustum non 
           oc<lb ed="#P" n="32" break="no"/>cides quia aduersor impium</quote>. Ex illo textu sic 
           argu<lb ed="#P" n="33" break="no"/>mentor: quando video multos peccare in aliqua 
           <lb ed="#P" n="34"/>materia: et scio quod peccant: non debeo acquiescere 
@@ -364,13 +364,13 @@
         <p xml:id="jm3cbb-e62495-d1e642">
           ¶ Ad 
           octa<lb ed="#P" n="9" break="no"/>uum nego sequelam. non erat christus probatus nocens 
-          <lb ed="#P" n="10"/>coram Pilato. Mathei. xxvi. scribitur: <quote source="http://scta.info/resource/mt26_59@1-15 http://scta.info/resource/mt26_60@1-8">principes autem 
+          <lb ed="#P" n="10"/>coram Pilato. Mathei. xxvi. scribitur: <quote xml:id="jm3cbb-e62495-Qd1e657" source="http://scta.info/resource/mt26_59@1-15 http://scta.info/resource/mt26_60@1-8">principes autem 
           <lb ed="#P" n="11"/>sacerdotum et omne consilium querebant falsum 
           testi<lb ed="#P" n="12" break="no"/>monium contra iesum vt eum morti traderent: et non 
           <lb ed="#P" n="13"/>inuenerunt cum multi falsi testes accesserunt</quote>. et 
           magi<lb ed="#P" n="14" break="no"/>ad propositum: hoc ipsum patet Mathei. xxvii. 
-          <quote source="http://scta.info/resource/mt27_18@1-7">Sci<lb ed="#P" n="15" break="no"/>ebat autem pilatus quod propter inuidiam tradebant 
-          <lb ed="#P" n="16"/>eum</quote>. dicebat: <quote source="http://scta.info/resource/lc23_22@12-17">non inuenio causam mortis in eo</quote>. <quote source="http://scta.info/resource/mt27_24@18-26">in 
+          <quote xml:id="jm3cbb-e62495-Qd1e668" source="http://scta.info/resource/mt27_18@1-7">Sci<lb ed="#P" n="15" break="no"/>ebat autem pilatus quod propter inuidiam tradebant 
+          <lb ed="#P" n="16"/>eum</quote>. dicebat: <quote xml:id="jm3cbb-e62495-Qd1e676" source="http://scta.info/resource/lc23_22@12-17">non inuenio causam mortis in eo</quote>. <quote xml:id="jm3cbb-e62495-Qd1e679" source="http://scta.info/resource/mt27_24@18-26">in 
           <lb ed="#P" n="17"/>nocens ego sum a sanguine huius iusti: vos videri 
           <lb ed="#P" n="18"/>tis</quote>. et licet diceret de seipso quod esset innocens: non 
           <lb ed="#P" n="19"/>erat innocens: immo sequebatur quod erat nocens: cum 

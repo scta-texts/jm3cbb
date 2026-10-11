@@ -116,12 +116,12 @@
           <lb ed="#P" n="118"/>non caderet sub imperio et libertate voluntatis: 
           <lb ed="#P" n="119"/>tunc non caderet sub precepto: sed hoc est falsum: 
           <lb ed="#P" n="120"/>vt patet per apostolum ad hebreos. xi. dicentem: 
-          <lb ed="#P" n="121"/><quote source="http://scta.info/resource/hebr11_6@6-11">credere enim oportet accedentes deum</quote>. et Mar. vlti. 
+          <lb ed="#P" n="121"/><quote xml:id="jm3cbb-e34144-Qd1e208" source="http://scta.info/resource/hebr11_6@6-11">credere enim oportet accedentes deum</quote>. et Mar. vlti. 
           <pb ed="#P" n="56-v"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>scribitur / <quote source="http://scta.info/resource/mc16_16@8-12">qui vers non crediderit condemnabit</quote>. 
+          <lb ed="#P" n="1"/>scribitur / <quote xml:id="jm3cbb-e34144-Qd1e218" source="http://scta.info/resource/mc16_16@8-12">qui vers non crediderit condemnabit</quote>. 
           <lb ed="#P" n="2"/>et mulieri cananee dixit christus: fides tua saluam 
-          <lb ed="#P" n="3"/>te fecit. et <quote source="http://scta.info/resource/gen15_6@1-8">credidit domno Abraham: et reputatum 
+          <lb ed="#P" n="3"/>te fecit. et <quote xml:id="jm3cbb-e34144-Qd1e225" source="http://scta.info/resource/gen15_6@1-8">credidit domno Abraham: et reputatum 
           <lb ed="#P" n="4"/>est illi ad iusticiam</quote>. consequentia patet: nichil 
           ca<lb ed="#P" n="5" break="no"/>dit sub precepto quod non est in facultate 
           volunta<lb ed="#P" n="6" break="no"/>tis nostre.
@@ -143,7 +143,7 @@
         </p>
         <p xml:id="jm3cbb-e34144-d1e253">
           ¶ Tertio: hoc 
-          <lb ed="#P" n="16"/>tenet <ref>Aristo. ii. de anima textu commenti. lxiii.</ref> dicens: 
+          <lb ed="#P" n="16"/>tenet <ref xml:id="jm3cbb-e34144-Rd1e266">Aristo. ii. de anima textu commenti. lxiii.</ref> dicens: 
           <lb ed="#P" n="17"/>ymaginari possumus sed cum volumus: operari autem 
           <lb ed="#P" n="18"/>non possumus cum volumus.
         </p>
@@ -233,7 +233,7 @@
         <p xml:id="jm3cbb-e34144-d1e414">
           ¶ Tertio 
           <lb ed="#P" n="78"/>arguitur. voluntas non fertur in incognitum: secundum 
-          <lb ed="#P" n="79"/><ref>Augu. x. de trinitate</ref>: ergo actus voluntatis non 
+          <lb ed="#P" n="79"/><ref xml:id="jm3cbb-e34144-Rd1e430">Augu. x. de trinitate</ref>: ergo actus voluntatis non 
           fer<lb ed="#P" n="80" break="no"/>tur in illum assensum actualem absque noticia eius: 
           <lb ed="#P" n="81"/>quam non oportet voluntatem habere.
         </p>
@@ -357,7 +357,7 @@
           <lb ed="#P" n="45"/>epistolam ad Romanos. Charitas est mater 
           om<lb ed="#P" n="46" break="no"/>nium virtutum que omnes informat: sine qua 
           nul<lb ed="#P" n="47" break="no"/>la recta virtus est: fides sine charitatem est 
-          infor<lb ed="#P" n="48" break="no"/>mis et mortua: secundum illud Iaco. ii. <quote source="http://scta.info/resource/iac2_26@10-14">Fides sine 
+          infor<lb ed="#P" n="48" break="no"/>mis et mortua: secundum illud Iaco. ii. <quote xml:id="jm3cbb-e34144-Qd1e667" source="http://scta.info/resource/iac2_26@10-14">Fides sine 
           ope<lb ed="#P" n="49" break="no"/>ribus mortua est</quote>. et Aug. enchiridon. ii. c. fides 
           <lb ed="#P" n="50"/>sine amore nichil prodest: quando adiungitur ei 
           <lb ed="#P" n="51"/>charitas / formata est. hoc supposito.

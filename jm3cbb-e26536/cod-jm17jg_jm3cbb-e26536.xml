@@ -77,7 +77,7 @@
           <lb ed="#P" n="46"/>¶ Secunda propositio: theologice lo quendo de lege 
           <lb ed="#P" n="47"/>propositio data est vra. vel dato quod refurrectio non 
           fuis<lb ed="#P" n="48" break="no"/>set accelerata: corpus christi non fuisset putrefactum. 
-          <lb ed="#P" n="49"/>probatur per illud psalmiste psalmo. xv. <quote source="http://scta.info/resource/ps15_10@8-13">non 
+          <lb ed="#P" n="49"/>probatur per illud psalmiste psalmo. xv. <quote xml:id="jm3cbb-e26536-Qd1e149" source="http://scta.info/resource/ps15_10@8-13">non 
           da<lb ed="#P" n="50" break="no"/>bis sanctum tuum videre corruptionem</quote>: quod beatus 
           Pe<lb ed="#P" n="51" break="no"/>trus exponit Actuum. ii. de corpere christi.
         </p>
@@ -174,14 +174,14 @@
         <p xml:id="jm3cbb-e26536-d1e334">
           ¶ Contra secundam 
           <lb ed="#P" n="6"/>conclusionem arguitur. humilitas est meritum 
-          exal<lb ed="#P" n="7" break="no"/>tationis: <quote source="http://scta.info/resource/lc14_11@8-11">qui se humiliat exaltabitur</quote>. sed corpus 
+          exal<lb ed="#P" n="7" break="no"/>tationis: <quote xml:id="jm3cbb-e26536-Qd1e344" source="http://scta.info/resource/lc14_11@8-11">qui se humiliat exaltabitur</quote>. sed corpus 
           <lb ed="#P" n="8"/>christi maxime ex altandum erat: ergo prius debuit 
           <lb ed="#P" n="9"/>humiliari: sed hoc fuisset per putrefactionem.
         </p>
         <p xml:id="jm3cbb-e26536-d1e345">
           ¶ 
           Se<lb ed="#P" n="10" break="no"/>cundo arguitur per illud quod scribitur ad hebreos. ii. 
-          <lb ed="#P" n="11"/><quote source="http://scta.info/resource/hebr2_17@2-6">debuit per omnia fratribus assimulari</quote>: ergo 
+          <lb ed="#P" n="11"/><quote xml:id="jm3cbb-e26536-Qd1e357" source="http://scta.info/resource/hebr2_17@2-6">debuit per omnia fratribus assimulari</quote>: ergo 
           cor<lb ed="#P" n="12" break="no"/>pus christi debuit putrefieri more corporum aliorum 
           <lb ed="#P" n="13"/>hominum.
         </p>

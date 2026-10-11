@@ -157,7 +157,7 @@
           <lb ed="#P" n="33"/>cognitione prime cause / est actus vite contemplatiue 
           <lb ed="#P" n="34"/>sufficiens: sed sic est de actu contemplandi creaturas 
           <lb ed="#P" n="35"/>propter deum. igitur. consequentia tenet cum maiore. minor patet 
-          <lb ed="#P" n="36"/>per apostolum ad aomanos primo. <quote source="http://scta.info/resource/rom1_20@1-13">Inuisibilia dei per ea quae 
+          <lb ed="#P" n="36"/>per apostolum ad aomanos primo. <quote xml:id="jm3cbb-e65083-Qd1e305" source="http://scta.info/resource/rom1_20@1-13">Inuisibilia dei per ea quae 
           <lb ed="#P" n="37"/>facta sunt a creatura mundi intellecta conspiciuntur</quote>. 
         </p>
         <p xml:id="jm3cbb-e65083-d1e308">
@@ -186,8 +186,8 @@
         <p xml:id="jm3cbb-e65083-d1e354">
           ¶ Contra primam conclusionem 
           <lb ed="#P" n="57"/>et eius probationem: et potissimum contra Aristotelem: 
-          ar<lb ed="#P" n="58" break="no"/>guitur per illud quod scribitur Eccle. iii. <quote source="http://scta.info/resource/sir3_22@1-4">Altiora te ne 
-          <lb ed="#P" n="59"/>quesieris</quote>. Et aplus: <quote source="http://scta.info/resource/rom12_16@5-10">non alta sapientes: sed 
+          ar<lb ed="#P" n="58" break="no"/>guitur per illud quod scribitur Eccle. iii. <quote xml:id="jm3cbb-e65083-Qd1e364" source="http://scta.info/resource/sir3_22@1-4">Altiora te ne 
+          <lb ed="#P" n="59"/>quesieris</quote>. Et aplus: <quote xml:id="jm3cbb-e65083-Qd1e369" source="http://scta.info/resource/rom12_16@5-10">non alta sapientes: sed 
           humi<lb ed="#P" n="60" break="no"/>libus consentientes</quote>. sed celestia sunt nobis altio¬ 
           <cb ed="#P" n="b"/>
           <lb ed="#P" n="61"/>ra. et Catho. apitte archana dei celum inquirere ed 
