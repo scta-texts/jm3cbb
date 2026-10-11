@@ -92,8 +92,8 @@
           animi<lb ed="#P" n="118" break="no"/>interiorem. hoc modo intellexit psal. praeto. ciii. inquiens: 
           <pb ed="#P" n="73-r"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>deficiant peccatores aterra iniqui: ita vt non sint. 
-          <lb ed="#P" n="2"/>et perfecto odio oderam illos.
+          <lb ed="#P" n="1"/><quote source="http://scta.info/resource/ps103_35@1-10">deficiant peccatores aterra iniqui: ita vt non sint</quote>. 
+          <lb ed="#P" n="2"/>et <quote source="http://scta.info/resource/ps138_22@1-4">perfecto odio oderam illos</quote>.
         </p>
         <p xml:id="jm3cbb-e44320-d1e179">
           ¶ Secunda conclusio 
@@ -120,13 +120,13 @@
           il<lb ed="#P" n="18" break="no"/>la bona sibi. antecedens patet: indicat quod talia 
           bona<lb ed="#P" n="19" break="no"/>sunt inutilia sue saluti: et eum impediunt a 
           spirituali<lb ed="#P" n="20" break="no"/>executone. multo plures in prosperitatibus cadunt / 
-          <lb ed="#P" n="21"/>quod in aduersitatibus. cadenta latere duo mille: a 
-          dex<lb ed="#P" n="22" break="no"/>tris decem milia: per latus / aduersitas: per 
+          <lb ed="#P" n="21"/>quod in aduersitatibus. <quote source="http://scta.info/resource/ps90_7@1-11">cadenta latere duo mille: a 
+          dex<lb ed="#P" n="22" break="no"/>tris decem milia</quote>: per latus / aduersitas: per 
           dexte<lb ed="#P" n="23" break="no"/>ram / prosperitas intelligitur. et Deutrono. xxxii. 
-          <lb ed="#P" n="24"/>incrallatus est dilectus et recalcitrauit: et dereliquit 
-          <lb ed="#P" n="25"/>deum factorem suum. et psalmista pristo. xv. 
-          multiplica<lb ed="#P" n="26" break="no"/>te sunt infirmitates eorum: postea accelerauerunt. 
-          <lb ed="#P" n="27"/>Et Ozee. vi. in tribulatione sua mane cosurgent: 
+          <lb ed="#P" n="24"/><quote source="http://scta.info/resource/deut32_15@1-12">incrallatus est dilectus et recalcitrauit: et dereliquit 
+          <lb ed="#P" n="25"/>deum factorem suum</quote>. et psalmista pristo. xv. 
+          <quote source="http://scta.info/resource/ps15_4@1-6">multiplica<lb ed="#P" n="26" break="no"/>te sunt infirmitates eorum: postea accelerauerunt</quote>. 
+          <lb ed="#P" n="27"/>Et Ozee. vi. <quote source="http://scta.info/resource/os6_1@1-5">in tribulatione sua mane cosurgent</quote>: 
           <lb ed="#P" n="28"/>hoc est per morborum et erumnarum multiplicationem 
           <lb ed="#P" n="29"/>repente ad domm cucurrerunt. Insuper: et si inimicus 
           <lb ed="#P" n="30"/>potest bona temporalia tenere cum animme sue salute: 
@@ -233,8 +233,8 @@
         </p>
         <p xml:id="jm3cbb-e44320-d1e443">
           ¶ Contra quintam conclusionem arguitur 
-          <lb ed="#P" n="113"/>Matthei. v. audistis quod dictum est antiquis / 
-          dili<lb ed="#P" n="114" break="no"/>ges amicum tuum / et odio habebis inimicum tuum: ergo 
+          <lb ed="#P" n="113"/>Matthei. v. <quote source="http://scta.info/resource/mt5_43@1-12">audistis quod dictum est antiquis / 
+          dili<lb ed="#P" n="114" break="no"/>ges amicum tuum / et odio habebis inimicum tuum</quote>: ergo 
           li<lb ed="#P" n="115" break="no"/>cet prosequi inimicum odio.
         </p>
         <p xml:id="jm3cbb-e44320-d1e452">
@@ -257,7 +257,7 @@
           <lb ed="#P" n="7"/>prohibentur. non sequitur propterea quod bipedia 
           delicati<lb ed="#P" n="8" break="no"/>ora admittantur. nullibi in lege inuenerunt quod 
           inimici<lb ed="#P" n="9" break="no"/>erant odiendi: propterea saluator ex industria 
-          dice<lb ed="#P" n="10" break="no"/>bat: audistis quia dictum est antiquis: non dixit scriptum 
+          dice<lb ed="#P" n="10" break="no"/>bat: <quote source="http://scta.info/resource/mt5_43@1-4">audistis quia dictum est antiquis</quote>: non dixit scriptum 
           <lb ed="#P" n="11"/>est: dictum enim erat a male exponentibus 
           scriptu<lb ed="#P" n="12" break="no"/>ram.
         </p>
@@ -280,10 +280,10 @@
           <lb ed="#P" n="24"/>antecedentis. antecedens patet. ille solus est michi 
           pro<lb ed="#P" n="25" break="no"/>ximus / qui michi minam fecit. Luce. x. cum phariseus 
           <lb ed="#P" n="26"/>interrogaret / quis est meus pximus: recitata 
-          pera<lb ed="#P" n="27" break="no"/>bolaa saluatore: quesiuit a phariseo / quis horum 
+          pera<lb ed="#P" n="27" break="no"/>bolaa saluatore: quesiuit a phariseo / <quote source="http://scta.info/resource/lc10_36@1-12">quis horum 
           <lb ed="#P" n="28"/>trium videtur tibi proximus fuisse. illi qui incidit in 
-          la<lb ed="#P" n="29" break="no"/>trones: cui phariseus respondit: qui fecit 
-          mificor<lb ed="#P" n="30" break="no"/>diam cum illo: quod veritas approbauit.
+          la<lb ed="#P" n="29" break="no"/>trones</quote>: cui phariseus respondit: <quote source="http://scta.info/resource/lc10_37@4-8">qui fecit 
+          mificor<lb ed="#P" n="30" break="no"/>diam cum illo</quote>: quod veritas approbauit.
         </p>
         <p xml:id="jm3cbb-e44320-d1e543">
           ¶ Quarto 
@@ -352,14 +352,14 @@
           ma<lb ed="#P" n="78" break="no"/>gnos in oculis suis: vt tendat ad contrarium 
           humi<lb ed="#P" n="79" break="no"/>liatio: se iudicans quod erat dignus tali offensa: et 
           ma<lb ed="#P" n="80" break="no"/>iore. et quicquid sit: parcat ei amore dei: qui pro 
-          occi<lb ed="#P" n="81" break="no"/>soribus orauit: dicens: pater dimitte illis: quod 
+          occi<lb ed="#P" n="81" break="no"/>soribus orauit: dicens: <quote source="http://scta.info/resource/lc23_34@4-6">pater dimitte illis</quote>: quod 
           ste<lb ed="#P" n="82" break="no"/>phanus et viri dei fecerunt. et in oratione 
-          domini<lb ed="#P" n="83" break="no"/>ca / docuit nos orantes dicere: dimitte nobis 
+          domini<lb ed="#P" n="83" break="no"/>ca / docuit nos orantes dicere: <quote source="http://scta.info/resource/mt6_12@1-11">dimitte nobis 
           de<lb ed="#P" n="84" break="no"/>bita nostra: sicut et nos dimittimus debitoribus 
-          no<lb ed="#P" n="85" break="no"/>stris. consulo offenso in casu indifferenti relinquat 
+          no<lb ed="#P" n="85" break="no"/>stris</quote>. consulo offenso in casu indifferenti relinquat 
           <lb ed="#P" n="86"/>penam totam in manu dei: et domius premium 
-          da<lb ed="#P" n="87" break="no"/>bit ei: et alteri penam condignam michi vindicta. 
-          <lb ed="#P" n="88"/>et ego retribuam.
+          da<lb ed="#P" n="87" break="no"/>bit ei: et alteri penam condignam <quote source="http://scta.info/resource/rom12_19@13-16">michi vindicta. 
+          <lb ed="#P" n="88"/>et ego retribuam</quote>.
         </p>
         <p xml:id="jm3cbb-e44320-d1e686">
           ¶ Adsextum dicitur quod glola 
@@ -379,11 +379,11 @@
           <lb ed="#P" n="96"/>sortes offendens est notus offendens ipsi Plato 
           <lb ed="#P" n="97"/>ni offenso: et sic si plato sit presens / sortes debet 
           <lb ed="#P" n="98"/>eum adire: et veniam petere. patet per dictum 
-          sal<lb ed="#P" n="99" break="no"/>uatoris Mathei. v. si offers munus tuum ad 
+          sal<lb ed="#P" n="99" break="no"/>uatoris Mathei. v. <quote source="http://scta.info/resource/mt5_23@1-18">si offers munus tuum ad 
           alta<lb ed="#P" n="100" break="no"/>re: et recordatus fueris / quia frater tuus habet 
-          ali<lb ed="#P" n="101" break="no"/>quid aduersum te: scilicet quod eum lesisti: relinque ibi 
+          ali<lb ed="#P" n="101" break="no"/>quid aduersum te</quote>: scilicet quod eum lesisti: <quote source="http://scta.info/resource/mt5_24@1-18">relinque ibi 
           mu<lb ed="#P" n="102" break="no"/>nus tuum ante altare: et vade reconciliari prius 
-          fra<lb ed="#P" n="103" break="no"/>tri tuo: et tunc veniens offer munus tuum. Si non 
+          fra<lb ed="#P" n="103" break="no"/>tri tuo: et tunc veniens offer munus tuum</quote>. Si non 
           <lb ed="#P" n="104"/>fuerit presens / sufficit habere propositum 
           petendi<lb ed="#P" n="105" break="no"/>veniam pro loco et tempore. si offonsio sortis sit 
           <lb ed="#P" n="106"/>Platoni ignota: puta furte abstulit res suas vel 
@@ -410,15 +410,15 @@
           <pb ed="#P" n="74-r"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>frangat tibi collum: vel tibiam. illud est peccatum et 
-          fu<lb ed="#P" n="2" break="no"/>giendu: prime Corin. vi. Neque maledici neque 
-          rapto<lb ed="#P" n="3" break="no"/>res regnum dei possidebunt. Christus et sancati a 
+          fu<lb ed="#P" n="2" break="no"/>giendu: prime Corin. vi. <quote source="http://scta.info/resource/Icor6_10@12-18">Neque maledici neque 
+          rapto<lb ed="#P" n="3" break="no"/>res regnum dei possidebunt</quote>. Christus et sancati a 
           maledi<lb ed="#P" n="4" break="no"/>ctione summe abstinebant. vnde petrus in 
-          canoni<lb ed="#P" n="5" break="no"/>casua. i. Petri. ii. Nam christus cum malediceretur non 
-          <lb ed="#P" n="6"/>maledicebat. Et. i. Corinth. iiii. maledicimur 
-          ebe<lb ed="#P" n="7" break="no"/>nedicimus. et Iudas in canonica sua dicit: cum 
+          canoni<lb ed="#P" n="5" break="no"/>casua. i. Petri. ii. Nam christus <quote source="http://scta.info/resource/Ipetr2_23@2-5">cum malediceretur non 
+          <lb ed="#P" n="6"/>maledicebat</quote>. Et. i. Corinth. iiii. <quote source="http://scta.info/resource/Icor4_12@6-8">maledicimur 
+          ebe<lb ed="#P" n="7" break="no"/>nedicimus</quote>. et Iudas in canonica sua dicit: <quote source="http://scta.info/resource/iud1_9@1-21">cum 
           mi<lb ed="#P" n="8" break="no"/>chael archangelus cum dyabolo disputans 
           alterca<lb ed="#P" n="9" break="no"/>retur de moysi corpere: non est ausus inferre spiritum 
-          <lb ed="#P" n="10"/>blasphemie. sed dixit: imperet tibi domins. Gregorius. 
+          <lb ed="#P" n="10"/>blasphemie. sed dixit: imperet tibi domins</quote>. Gregorius. 
           <lb ed="#P" n="11"/>ii. dyalog. refert: cum famulus cniusdam stephani 
           pre<lb ed="#P" n="12" break="no"/>sbyteri negligenter ei seruiret: clamauit presbiter 
           <lb ed="#P" n="13"/>veni dyabole discalcia me: demon statim affuit: et 
@@ -432,19 +432,19 @@
         <p xml:id="jm3cbb-e44320-d1e815">
           ¶ Contra illud arguitur. helyas maledixit 
           <lb ed="#P" n="20"/>duobus principibus quinquagenariis. iiii. Regum. i. 
-          <lb ed="#P" n="21"/>dicens: si homo dei sum descendat ignis et deuoret 
-          <lb ed="#P" n="22"/>te et quinquaginta tuos Et psalmista psalmo. lxviii 
-          <lb ed="#P" n="23"/>fiat mensa ipsorum ipsis in laqueum. et psalmo. cvii. 
-          <lb ed="#P" n="24"/>Fiant filii eius pupilli: et vxor eius vidua. et 
-          veri<lb ed="#P" n="25" break="no"/>tas in euangelio. Math. xi. Ue tibi corozayn. ve 
-          ti<lb ed="#P" n="26" break="no"/>bi bethsaida. et summo sacerdoti maledixit paulus. 
-          <lb ed="#P" n="27"/>Actuum. xxiii. dicens. percutiat te domins paries 
-          deal<lb ed="#P" n="28" break="no"/>bate. Respondit Augustinus in sermone de monte: 
+          <lb ed="#P" n="21"/>dicens: <quote source="http://scta.info/resource/IIreg1_10@5-18">si homo dei sum descendat ignis et deuoret 
+          <lb ed="#P" n="22"/>te et quinquaginta tuos</quote> Et psalmista psalmo. lxviii 
+          <lb ed="#P" n="23"/><quote source="http://scta.info/resource/ps68_23@1-7">fiat mensa ipsorum ipsis in laqueum</quote>. et psalmo. cvii. 
+          <lb ed="#P" n="24"/><quote source="http://scta.info/resource/ps108_9@1-8">Fiant filii eius pupilli: et vxor eius vidua</quote>. et 
+          veri<lb ed="#P" n="25" break="no"/>tas in euangelio. Math. xi. <quote source="http://scta.info/resource/mt11_21@1-6">Ue tibi corozayn. ve 
+          ti<lb ed="#P" n="26" break="no"/>bi bethsaida</quote>. et summo sacerdoti maledixit paulus. 
+          <lb ed="#P" n="27"/>Actuum. xxiii. dicens. <quote source="http://scta.info/resource/act23_3@6-10">percutiat te domins paries 
+          deal<lb ed="#P" n="28" break="no"/>bate</quote>. Respondit Augustinus in sermone de monte: 
           ta<lb ed="#P" n="29" break="no"/>lia dicta sunt per predicationem quid esset futurum: 
           <lb ed="#P" n="30"/>hoc est predixerunt: non optauerunt. dicit / debent 
           pro<lb ed="#P" n="31" break="no"/>phete maxime in figura imprecantisfutura predice 
           <lb ed="#P" n="32"/>re: sicut signa preteriti temperis / ea que futura erant 
-          <lb ed="#P" n="33"/>cecinerunt: sicut est illud / quare freniuerunt gentes. 
+          <lb ed="#P" n="33"/>cecinerunt: sicut est illud / <quote source="http://scta.info/resource/ps2_1@1-3">quare freniuerunt gentes</quote>. 
           <lb ed="#P" n="34"/>non dixit / quare frement gentes. 
         </p>
       </div>
