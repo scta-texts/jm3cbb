@@ -169,8 +169,8 @@
         </p>
         <p xml:id="jm3cbb-e37858-d1e302">
           ¶ Septima 
-          conclu<lb ed="#P" n="34" break="no"/>sio probatur: <ref>de hereticis. c. dubius</ref>: vbi dicitur: 
-          <lb ed="#P" n="35"/><quote source="http://scta.info/resource/cice-l5t7-d1e119@5-9">dubius in fide est infidelis</quote>.
+          conclu<lb ed="#P" n="34" break="no"/>sio probatur: <ref xml:id="jm3cbb-e37858-Rd1e309">de hereticis. c. dubius</ref>: vbi dicitur: 
+          <lb ed="#P" n="35"/><quote xml:id="jm3cbb-e37858-Qd1e312" source="http://scta.info/resource/cice-l5t7-d1e119@5-9">dubius in fide est infidelis</quote>.
         </p>
         <p xml:id="jm3cbb-e37858-d1e309">
           ¶ Octaua conclusio 
@@ -265,7 +265,7 @@
         <p xml:id="jm3cbb-e37858-d1e472">
           ¶ Ad 
           quar<lb ed="#P" n="97" break="no"/>tum concedo consequentiam et consequens. sed pro 
-          comple<lb ed="#P" n="98" break="no"/>mento solutionum omnium et d<ref>ecretalis prime de 
+          comple<lb ed="#P" n="98" break="no"/>mento solutionum omnium et d<ref xml:id="jm3cbb-e37858-Rd1e488">ecretalis prime de 
           he<lb ed="#P" n="99" break="no"/>reticis</ref>: dico quod hoc intelligitur de dubitatione 
           cum<lb ed="#P" n="100" break="no"/>pertinacia. tunc homo dubitat cum pertinacia / quando 
           <lb ed="#P" n="101"/>tenetur homo dubitationem deserere. et vt melius 
@@ -305,7 +305,7 @@
           Du<lb ed="#P" n="2" break="no"/>bitatur an fides omnem dubitationem excludit ab 
           intel<lb ed="#P" n="3" break="no"/>lectu. Respondetur: fides habitus acquisitus non 
           exclu<lb ed="#P" n="4" break="no"/>dit omnem dubitationem. sed fides infusa non compatitur 
-          <lb ed="#P" n="5"/>dubitationem de qua loquitur. <ref target="http://scta.info/resource/cice-l5t7-Dd1e108">c. Dubius: de hereticis</ref>. 
+          <lb ed="#P" n="5"/>dubitationem de qua loquitur. <ref xml:id="jm3cbb-e37858-Rd1e566" target="http://scta.info/resource/cice-l5t7-Dd1e108">c. Dubius: de hereticis</ref>. 
           <lb ed="#P" n="6"/>sed fides actus circa aliquid credibile dubitationem 
           <lb ed="#P" n="7"/>talem prorsus excludit: sed scrupulos non excludit: nec 
           <lb ed="#P" n="8"/>difficultates immergentes: quas scientia excludit. hoc 
